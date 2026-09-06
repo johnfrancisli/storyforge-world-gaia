@@ -1,0 +1,424 @@
+{
+  "locations": [
+    {
+      "id": "location:val-elfshade",
+      "name": "Elfshade",
+      "visibility": "shared",
+      "payload": {
+        "summary": "Deep within the ancient Thornwhisper Forest, where the canopy grows so thick that noontime feels like dusk, the elven city of Elfshade rises not on stone foundations but upon living wood and woven light. Bridges of pale birch bark arch between colossal oaks, and homes spiral around trunks in graceful helices of carved wood and stained glass that catch what little sun filters through. Lanterns of captured starlight—enchanted by the Valdris Elves who have inhabited these woods for six thousand years—glow a soft silver-blue at all hours, casting the mossy pathways in an eternal twilight. The air smells of pine resin, wet bark, and the faint sweetness of night-blooming jasmine that climbs every railing. Song spills from open windows, and silver-haired elves in flowing robes move between terraces with unhurried grace, their footsteps silent on the living wood. Though Elfshade swore fealty to the crown of Valdris three centuries ago, its people keep their own counsel, and a traveler who enters without an elven guide is said to walk in circles for hours before finding the city's heart.",
+        "parent_location_id": "location:valdris",
+        "jurisdiction": "Ruled by the Thornwhisper Court, a council of elven elders presided over by Lord-Councilor Ithilandel. The city nominally answers to the Crown of Valdris but is granted broad autonomy in internal matters by the Treaty of Silver Leaves. Royal tax collectors are permitted entry only on the equinoxes.",
+        "terrain": "Ancient temperate forest with dense canopy, mossy floor, and natural streams",
+        "resources": ["moon-silver wood", "enchanted starlight lanterns", "night-blooming herbs", "elven song-lore", "thornwhisper silk"]
+      }
+    },
+    {
+      "id": "location:val-rivenspire",
+      "name": "Rivenspire",
+      "visibility": "shared",
+      "payload": {
+        "summary": "Straddling the great Greyfen River at the place where it narrows to a thundering gorge before spilling toward the southern sea, Rivenspire is the beating commercial heart of Valdris—a city of waterwheels, warehouses, and smoke-stained brick that never truly sleeps. Stone quays line both banks, groaning under crates of grain, ore, and cloth, while bargemen shout commands in a dozen dialects over the roar of the current. The city's namesake spire is a lone limestone column rising from the river's center, crowned by a lighthouse whose amber beacon guides night traffic through the treacherous gorge. The smell of river mud, tar, and fresh-baked bread from the bakers' guild mingles with the metallic tang of the smithies that cluster near the waterwheels. Humans, halflings, and dwarves rub shoulders on the crowded dockside lanes, and coin changes hands faster than anywhere else in the kingdom. Brothels and counting houses stand side by side, and the City Watch struggles to keep the river pirates and smugglers honest. To stand on the Riven Bridge at dawn and watch the fog burn off the gorge is to understand why merchants say Rivenspire is where Valdris makes its living.",
+        "parent_location_id": "location:valdris",
+        "jurisdiction": "Governed by the Mayor-Exchequer, an elected official drawn from the Merchant Guild, who oversees civil administration under the Crown's authority. A garrison of Royal Sentries maintains the King's Peace alongside the City Watch.",
+        "terrain": "River gorge with steep banks, stone quays, and a central limestone spire",
+        "resources": ["river trade tolls", "milled flour", "woven wool", "copper ore", "freshwater fish"]
+      }
+    },
+    {
+      "id": "location:val-ironhold",
+      "name": "Ironhold",
+      "visibility": "shared",
+      "payload": {
+        "summary": "Hewn from the living granite of the Frostvein Mountains, the dwarven mountain-hold of Ironhold is less a city than a cathedral of stone—a vast subterranean complex of halls, forges, and galleries that descends seven levels into the earth. The Great Gate, a slab of iron-banded granite twenty feet thick, opens onto a trade-road that winds down into a valley of slag and snow, but beyond it lies a world of vaulted ceilings supported by pillars carved into the shapes of dwarven heroes, lit by basins of eternal forge-fire that cast everything in a warm copper glow. The air is thick with the clang of hammers, the hiss of quenching steel, and the deep, resonant chanting of the Forge-Priests who tend the Everflame. The smell of hot metal, coal smoke, and pickled cave-fish saturates every stone. Dwarves in soot-stained leather aprons trundle ore carts along rails cut into the floor, while children play among the ancestors' statues and elders debate lineage in the mead halls over cups of black stout. Ironhold supplies the kingdom's finest steel and its deepest grudges, and its Thane answers to Crownhaven with a loyalty that is loud, conditional, and grudgingly genuine.",
+        "parent_location_id": "location:valdris",
+        "jurisdiction": "Ruled by Thain Grimvar Stoneshield, hereditary lord of the Ironhold Clan, who holds his seat by ancient dwarven law and pays tribute to the Crown of Valdris in steel and gold. The Thane's council of guild-masters oversees mining, forging, and defense.",
+        "terrain": "Subterranean mountain hold carved into granite, seven descending levels, with a single fortified gate",
+        "resources": ["high-carbon steel", "gold and silver ore", "cut gemstones", "dwarven-forged arms and armor", "cave mushrooms"]
+      }
+    },
+    {
+      "id": "location:val-northwatch",
+      "name": "Northwatch",
+      "visibility": "shared",
+      "payload": {
+        "summary": "Where the fertile plains of central Valdris give way to the frozen bogs and black pines of the Pale Reach, the garrison town of Northwatch huddles behind its double ring of palisade walls, a hard-edged outpost where the kingdom's northern frontier is held by stubbornness, steel, and badly needed reinforcements. The wind never stops here—it moans through the watch-towers and snaps the royal banner stiff as a board—and snow lies on the ground eight months of the year. Log-and-stone barracks cluster around a central keep of grey granite, their chimneys trailing smoke that smells of pine tar, mutton fat, and the sour tang of cheap ale. Soldiers in fur-lined cloaks patrol the walls with stamping boots and red ears, while trappers, hedge-witches, and the occasional frost-bearded northman come to trade furs and cured meat for iron and salt. The town has been burned and rebuilt three times, and the graveyard is larger than the market square. Every child learns to use a bow before they learn to read, and every door is barred by nightfall. Northwatch is not a place anyone visits for pleasure, but the Knights of the Pale Vow who garrison it are among the most decorated in the realm, and the Crown knows that without them the north would be lost within a season.",
+        "parent_location_id": "location:valdris",
+        "jurisdiction": "Commanded by the Warden of the Pale Reach, a military governor appointed directly by the Crown of Valdris. Civil authority is subordinate to martial law, and the garrison's Knight-Commander holds the power of summary justice.",
+        "terrain": "Frozen northern frontier with permafrost bog, black pine forest, and double palisade walls",
+        "resources": ["northern furs", "cured reindeer meat", "bog iron", "frostwort medicine", "military intelligence"]
+      }
+    },
+    {
+      "id": "location:val-crossford",
+      "name": "Crossford",
+      "visibility": "shared",
+      "payload": {
+        "summary": "At the crossroads of the King's Road and the Old Salt Route, where a shallow stone ford crosses the Willowmere Creek, the trade hub of Crossford has grown from a single coaching inn into a sprawling, restless town of merchants, wagoners, and fortune-seekers in barely two generations. The streets are wide and rutted, lined with inns, stables, and storehouses whose signs shout in a babel of languages, and the constant rumble of wagon wheels and clop of hooves gives the whole place the feel of a river in flood. Canvas awnings shade open-air markets where spices from the southern coasts, wool from the highland flocks, and enchanted trinkets from Elfshade change hands amid a din of haggling, laughter, and the occasional shriek of a pickpocket caught by the Watch. The smell of roasting chestnuts, horse dung, and the distinctive pepper-and-clove scent of southern spices mingles over everything. Crossford has no ancient bloodlines or grand architecture—its oldest building is a forty-year-old inn—but it has coin, energy, and a population that doubles during the seasonal fairs. The Merchant Guild's chapterhouse here is the largest outside Rivenspire, and its Master is said to be richer than half the lords of the realm.",
+        "parent_location_id": "location:valdris",
+        "jurisdiction": "Administered by a Guild-Steward appointed by the Merchant Guild of Rivenspire, confirmed by the Crown's Reeve. A small detachment of Royal Sentries keeps order, but the Guild's own bailiffs handle most commercial disputes.",
+        "terrain": "Rolling plains at a river ford, crossroads of two major trade routes",
+        "resources": ["trade duties", "spices", "salted goods", "wagon repairs", "livestock"]
+      }
+    },
+    {
+      "id": "location:val-crownhaven-keep",
+      "name": "Sunhelm Keep",
+      "visibility": "shared",
+      "payload": {
+        "summary": "Atop the highest hill in Crownhaven, visible for miles across the plains, Sunhelm Keep rises in seven tiers of white limestone and gilded slate—a fortress-palace that is as much a statement of royal power as it is a working seat of government. The outer walls bristle with ballistae and fly the golden dragon banner of Valdris from every tower, but within, the keep opens into sunlit courtyards, marble galleries, and a great throne hall whose vaulted ceiling is painted with the deeds of the kings. Armored Knights of the Crown patrol the corridors in pairs, their crimson cloaks sweeping the flagstones, while scribes, heralds, and petitioners flow through the lower halls in a controlled current of bureaucracy. The air carries wax, old parchment, and the faint perfume of the royal gardens that terrace down the hill's southern face. The King's own guard, the Sunhelms, are quartered in the upper tiers, and their barracks ring with the clash of practice swords from dawn until dusk. Sunhelm Keep has never fallen to siege, and its walls are said to have been blessed by three separate archmages—a claim no enemy has yet dared to test.",
+        "parent_location_id": "location:crownhaven",
+        "jurisdiction": "Direct seat of the Crown of Valdris. The King's household and the High Council administer the kingdom from within. The Captain of the Sunhelms commands the royal guard and controls access to the sovereign.",
+        "terrain": "Fortified hilltop palace with seven tiers, limestone walls, and terraced gardens",
+        "resources": ["royal decrees", "the Crown treasury", "the Dragon Throne", "royal guardsmen", "archmage wards"]
+      }
+    },
+    {
+      "id": "location:val-crownhaven-market",
+      "name": "The Gilded Square",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The great market square of Crownhaven, known to all as the Gilded Square, is a vast paved plaza at the city's heart where the kingdom's wealth is on daily, noisy, fragrant display. Stalls and pavilions crowd so thickly that the ground disappears beneath canvas, and the alleys between them are barely wide enough for two men to pass shoulder to shoulder. Here a dwarf from Ironhold haggles over a bolt of elven silk beside a Rivenspire factor inspecting a crate of southern spices, while a street conjurer draws a crowd with cantrips and a pie-seller shouts her wares over the din. The air is a layered tapestry of roasting meat, incense, horse sweat, and the sharp green scent of fresh-cut herbs. A bronze fountain at the square's center, shaped like a rearing dragon, spouts clear water that the thirsty and the destitute drink from alike. The City Watch maintains a post at the square's north corner, but the pickpockets and cutpurses treat the crowd as their personal treasury, and a traveler who does not watch their purse will soon be lighter by it.",
+        "parent_location_id": "location:crownhaven",
+        "jurisdiction": "Crownhaven civic authority. The Market Master, a royal appointee, regulates stalls, weights, and trade hours. The City Watch maintains a permanent post at the square's north corner.",
+        "terrain": "Paved open plaza with a central dragon fountain, surrounded by multi-story merchant houses",
+        "resources": ["imported spices", "elven goods", "dwarven metalwork", "fresh produce", "livestock", "street entertainment"]
+      }
+    },
+    {
+      "id": "location:val-crownhaven-cathedral",
+      "name": "The Cathedral of the Dawnfire",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The Cathedral of the Dawnfire is Crownhaven's spiritual heart, a soaring edifice of white granite and rose-tinted glass that catches the morning sun and sets the entire eastern quarter aglow in shades of amber and rose. Its twin spires, each crowned with a bronze flame that the priests light at every sunrise, can be seen from the city gates, and pilgrims come from across Valdris to touch the Dawnfire Stone—a relic said to have been carried from the heart of a dying star. Inside, the nave is vast and hushed, its floor a mosaic of the cosmos, its columns wrapped in carvings of saints and dragons. The smell of beeswax candles and burning incense hangs thick as a veil, and the chanting of the Dawnfire priesthood rises and falls in a rhythm that seems to slow time itself. Knights who have sworn holy vows kneel in the side chapels, their armor gleaming in the colored light, and the High Priestess herself conducts the Dawnfire Mass each morning to a congregation that spills out into the square. The cathedral also serves as the site of royal coronations, weddings, and funerals, binding the Crown to the Dawnfire faith in a pact older than the kingdom itself.",
+        "parent_location_id": "location:crownhaven",
+        "jurisdiction": "Administered by the Order of the Dawnfire, an independent religious hierarchy answerable only to its own High Priestess and, in matters of doctrine, to the Patriarch in the south. The Crown holds the right of nomination for the cathedral's dean but cannot interfere in religious affairs.",
+        "terrain": "Cathedral complex of white granite with twin spires, rose-glass windows, and a mosaic nave",
+        "resources": ["the Dawnfire Stone relic", "priestly blessings", "pilgrim donations", "healing prayers", "royal ceremony grounds"]
+      }
+    },
+    {
+      "id": "location:val-crownhaven-tavern",
+      "name": "The Gilded Drake",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The Gilded Drake is the most famous tavern in Crownhaven, a four-story timber-and-plaster house on the square's western edge that has been pouring ale since before the city had walls. Its common room is a cavern of dark wood, low beams, and a hearth big enough to roast an ox, around which travelers, sellswords, off-duty guardsmen, and the occasional disguised noble gather on benches worn smooth by generations of backsides. The air is a warm fog of pipe smoke, spilled ale, mutton grease, and the distinctly human smell of too many bodies in too little space. A bard in the corner competes with the roar of conversation, and the barkeep—a mountain of a woman named Hesta who remembers every face and every tab—presides over the tap with the authority of a general. Rooms upstairs range from a straw mattress in a shared loft to a private chamber with a lock and a window, and the quality of the clientele rises with the floor. Rumors are the Gilded Drake's true currency, and more plots, alliances, and betrayals have been hatched over its tables than in half the council chambers of Valdris.",
+        "parent_location_id": "location:crownhaven",
+        "jurisdiction": "A private establishment licensed by the Crownhaven civic authority. Hesta Ironhand, the proprietor, holds the license and enforces her own form of justice—troublemakers are ejected physically and banned permanently.",
+        "terrain": "Four-story timber tavern on the edge of the Gilded Square, with a large common room and a central hearth",
+        "resources": ["ale and mead", "hot meals", "lodging", "rumors and information", "bardic entertainment"]
+      }
+    },
+    {
+      "id": "location:val-crownhaven-watch",
+      "name": "The Watchtower of the Iron Gate",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The Watchtower of the Iron Gate is the headquarters of the Crownhaven City Watch, a squat, iron-banded fortress of dark stone set into the city's main gatehouse, from which the Watch's captain commands a force of three hundred armsmen responsible for keeping order in the capital. The tower bristles with alarm bells, signal fires, and a gryphon-weathered mast from which the Watch's black-and-gold pennant flies day and night. Inside, the ground floor is a mustering hall where shifts are briefed over maps of the city's districts, its walls hung with wanted posters and chalkboards tracking crime patterns. The air smells of leather, lamp oil, and the sweat of men who have walked a long patrol. Cells in the basement hold the night's catch—drunkards, pickpockets, and the occasional murderer—awaiting the morning magistrate. The Watch is widely considered underfunded and overstretched, but its captain, a scarred veteran named Doran Black, is feared by the criminal element and respected by the Crown, and under his command the capital's streets are safer than those of any other city in the kingdom.",
+        "parent_location_id": "location:crownhaven",
+        "jurisdiction": "The City Watch answers to the Mayor of Crownhaven, who is appointed by the Crown. Captain Doran Black commands day-to-day operations and holds the authority to detain, charge, and present accused persons before the royal magistrate.",
+        "terrain": "Fortified gatehouse tower with mustering hall, armory, and holding cells",
+        "resources": ["city guardsmen", "crime records", "holding cells", "signal alarm bells", "patrol routes"]
+      }
+    },
+    {
+      "id": "location:val-dragonrest-keep",
+      "name": "The Wyrmstone Throne",
+      "visibility": "shared",
+      "payload": {
+        "summary": "At the peak of Dragonrest's mountain fortress, accessible only by a spiraling staircase cut into the cliff face and defended by three murder-holes and a portcullis of solid iron, sits the Wyrmstone Throne—the seat of the Warden of Dragonrest and the command center from which the mountain fortress is directed. The throne chamber is a natural cavern expanded by dwarven masons into a vaulted hall of black basalt, its walls veined with a strange green mineral that glows faintly in the dark. The throne itself is carved from a single block of green-veined stone said to have been a dragon's resting place, and it is from this that the fortress takes its name. The air is cold and mineral, carrying the distant rumble of subterranean rivers. Maps of the mountain passes cover every table, and a war-council is perpetually in session, for Dragonrest guards the kingdom's most vulnerable highland approach. The Warden's personal guard, the Wyrmstone Sentinels, stand at eternal attention in armor of black steel, and their stillness is so complete that visitors sometimes mistake them for statues until one shifts his weight and the armor whispers against itself.",
+        "parent_location_id": "location:dragonrest",
+        "jurisdiction": "The Warden of Dragonrest, appointed by the Crown of Valdris, holds absolute military authority over the fortress and its garrison. The Warden commands the Wyrmstone Sentinels and the mountain garrison, and answers directly to the King.",
+        "terrain": "Mountain-peak cavern hall of black basalt with green-veined glowing mineral, accessible only by cliff staircase",
+        "resources": ["military command", "pass maps", "the Wyrmstone Throne", "Sentinel guardsmen", "signal fires"]
+      }
+    },
+    {
+      "id": "location:val-dragonrest-forge",
+      "name": "The Emberforge",
+      "visibility": "shared",
+      "payload": {
+        "summary": "Beneath Dragonrest, in a cavern heated by a natural volcanic vent, the Emberforge burns with a fire that has not been extinguished in four hundred years—a furnace of dwarven design tended by a brotherhood of smiths who are equal parts artisans, priests, and soldiers. The cavern is a cathedral of fire and metal: massive anvils sit on stone platforms around the central furnace, and the walls are hung with finished blades, pikes, and plate armor that gleam in the ember-light. The heat is staggering, the air shimmering and thick with the smell of coal, hot iron, and the acrid bite of quenching oil. The forge-smiths work in leather aprons and nothing else, their bare arms glistening, and they speak little, communicating through the rhythm of their hammers—a language said to be understood only by the steel. The Emberforge produces the finest weapons in Dragonrest's arsenal, including the signature black-steel blades of the Wyrmstone Sentinels, and its master smith, a grizzled dwarf named Brogar Ashhand, is rumored to know the secret of forging dragonbone into steel—a secret he will take to his grave.",
+        "parent_location_id": "location:dragonrest",
+        "jurisdiction": "The Emberforge is an autonomous guild under the authority of the Warden of Dragonrest. Master Smith Brogar Ashhand governs the brotherhood and controls all production, which is dedicated to the fortress garrison and the Crown's commission.",
+        "terrain": "Underground volcanic forge cavern with a perpetual furnace, stone platforms, and weapon-lined walls",
+        "resources": ["black-steel weapons", "plate armor", "dragonbone-forged steel", "military commissions", "volcanic heat"]
+      }
+    },
+    {
+      "id": "location:val-dragonrest-rookery",
+      "name": "The High Rookery",
+      "visibility": "shared",
+      "payload": {
+        "summary": "At the very top of Dragonrest's highest tower, open to the wind and the weather through a great stone latticework, the High Rookery is home to the fortress's messenger ravens—a flock of three hundred black birds bred, trained, and enchanted by the fortress's Master of Wings to carry intelligence between Dragonrest, Crownhaven, Northwatch, and every outpost in between. The rookery is a wind-swept, guano-scented chamber of wooden perches, nesting boxes, and a great central roost where the Master of Wings, a wiry old ranger named Tella Windvoice, spends her days among the birds. The ravens are not ordinary corvids—each is bound by a minor enchantment that allows it to memorize a message and repeat it flawlessly to the designated recipient, and they are loyal to the Crown alone. The floor is a carpet of feathers and dropped scraps, and the constant croaking of the birds forms a kind of ambient music that Tella claims she can read for omens. On clear days, the view from the rookery spans the entire mountain range, and it is said that nothing moves in the high passes that Tella's ravens do not see and report.",
+        "parent_location_id": "location:dragonrest",
+        "jurisdiction": "The High Rookery is under the direct authority of the Warden of Dragonrest. Master of Wings Tella Windvoice commands the raven flock and controls all intelligence traffic, reporting directly to the Warden and, in emergencies, to the Crown.",
+        "terrain": "Open-air tower rookery at the fortress peak, with stone latticework, wooden perches, and panoramic mountain views",
+        "resources": ["messenger ravens", "military intelligence", "aerial reconnaissance", "enchantment lore", "weather omens"]
+      }
+    },
+    {
+      "id": "location:val-dragonrest-chapel",
+      "name": "The Chapel of the Veiled Flame",
+      "visibility": "shared",
+      "payload": {
+        "summary": "Carved into a quiet ledge of the fortress's inner wall, the Chapel of the Veiled Flame is Dragonrest's place of worship—a small, solemn space of grey stone and dim light where the garrison's soldiers come to pray before battle and to honor their dead. A single altar of polished obsidian holds the Veiled Flame, a fire that burns without fuel or smoke behind a screen of thin alabaster, casting a soft, steady light that is said to soothe troubled hearts and grant courage to the faithful. The walls are carved with the names of every soldier who has died in the fortress's defense, a list that grows longer with every generation, and the air smells of cold stone, burnt offerings, and the faint sweetness of dried flowers laid at the altar by widows and orphans. A single chaplain, an aging knight who took holy orders after losing his sword-arm, tends the flame and offers counsel, and his voice is the only one that ever breaks the chapel's heavy silence. The Veiled Flame is the only light in Dragonrest that never goes out, and the garrison believes that if it ever does, the fortress will fall within the year.",
+        "parent_location_id": "location:dragonrest",
+        "jurisdiction": "The Chapel of the Veiled Flame is an independent religious house under the loose authority of the Order of the Dawnfire, though it follows a martial tradition distinct from the capital's cathedral. The resident chaplain, Sir Aldric One-Hand, maintains the flame and ministers to the garrison.",
+        "terrain": "Small stone chapel carved into the fortress inner wall, with an obsidian altar and an eternal veiled flame",
+        "resources": ["spiritual counsel", "memorial carvings", "the Veiled Flame", "last rites", "battle blessings"]
+      }
+    },
+    {
+      "id": "location:val-elfshade-court",
+      "name": "The Thornwhisper Court",
+      "visibility": "shared",
+      "payload": {
+        "summary": "In the heart of Elfshade, where the greatest of the Thornwhisper oaks spreads its branches over a natural amphitheater of mossy roots and hanging lanterns, the Thornwhisper Court convenes beneath the open sky. There is no throne, no dais, no stone—only a circle of ancient roots worn smooth by millennia of elven elders who have sat upon them in council, and a canopy of leaves so dense that rain rarely penetrates. The Court meets at dusk, when the starlight lanterns kinden and the air fills with the scent of night-blooming jasmine and the low, melodic cadence of the Elvish tongue. Lord-Councilor Ithilandel, ancient even by elven reckoning, sits at the circle's head, his silver hair falling past his waist, his eyes the color of a winter sky. Petitioners—elven, human, and occasionally other—stand at the circle's edge and speak their case, and the elders debate in a language so beautiful that even those who cannot understand it find themselves moved to tears. Justice here is slow, deliberate, and absolute, and a ruling of the Thornwhisper Court has never been overturned by any power in Valdris, including the Crown.",
+        "parent_location_id": "location:val-elfshade",
+        "jurisdiction": "The Thornwhisper Court is the sovereign governing body of Elfshade, presided over by Lord-Councilor Ithilandel and a council of elven elders. The Court's authority is absolute within Elfshade and its forest territory, constrained only by the Treaty of Silver Leaves with the Crown of Valdris.",
+        "terrain": "Natural forest amphitheater beneath an ancient oak, with mossy root-seats and a dense leaf canopy",
+        "resources": ["elven justice", "ancient law", "political counsel", "the Starlight Archive", "treaty records"]
+      }
+    },
+    {
+      "id": "location:val-elfshade-groveveil",
+      "name": "The Groveveil Sanctum",
+      "visibility": "shared",
+      "payload": {
+        "summary": "Hidden behind a curtain of living ivy at the city's deepest point, the Groveveil Sanctum is the magical and scholarly heart of Elfshade—a library, laboratory, and observatory woven into the branches of three intertwined trees whose trunks have been shaped over centuries into spiral staircases, reading alcoves, and crystalline windows that open onto the stars. The sanctum is tended by the Veilweavers, an order of elven mages who study the flow of magic through the living world, and the air within hums with a subtle, persistent vibration that sets the teeth tingling and the lantern-light trembling. Thousands of scrolls and crystal-tablets line the shelves, each inscribed with lore that predates the founding of Valdris by millennia, and the smell of old parchment, pressed flowers, and ozone from active enchantments fills every alcove. Young elven apprentices move in silence between the stacks, their eyes wide with the weight of knowledge, while senior Veilweavers work at the upper levels, shaping light and life with gestures that seem as casual as breathing. Non-elves are rarely permitted entry, and those who are admitted are blindfolded on the approach so they cannot reveal the path.",
+        "parent_location_id": "location:val-elfshade",
+        "jurisdiction": "The Groveveil Sanctum is an autonomous institution governed by the Veilweaver Circle, an order of elven mages. The Circle answers to the Thornwhisper Court on matters of security but retains total independence in matters of magical research and training.",
+        "terrain": "Magical library-observatory woven into three intertwined trees, with spiral staircases and crystalline star-windows",
+        "resources": ["ancient elven lore", "arcane research", "enchantment training", "crystal tablets", "starlight magic"]
+      }
+    },
+    {
+      "id": "location:val-elfshade-moonmarket",
+      "name": "The Moonmarket",
+      "visibility": "shared",
+      "payload": {
+        "summary": "Where Elfshade's main path widens into a mossy glade beneath a gap in the canopy that admits moonlight and starlight, the Moonmarket opens each night as the sun sets and closes at the first grey light of dawn—a market that trades in darkness and operates by rules no human merchant would recognize. There are no stalls or coin here; instead, elven artisans spread their wares on mossy stones and fallen logs—enchanted jewelry that glows with captured starlight, vials of moon-dew gathered from the highest branches, thornwhisper silk that shimmers like a soap bubble, and song-charms that replay a melody when broken. Trade is conducted by barter, by promise, or by the exchange of memories, which the elves can extract and preserve in crystal phials. The market is lit only by the starlight lanterns and the glow of the wares themselves, and the effect is of walking through a field of fallen stars. The air smells of jasmine, wet moss, and the sharp, electric scent of active enchantments. Human visitors are welcome but often leave having traded away something they cannot quite name, and the elves, for their part, are always delighted by the strange and impractical things humans will offer for a pretty light.",
+        "parent_location_id": "location:val-elfshade",
+        "jurisdiction": "The Moonmarket is overseen by the Thornwhisper Court's Master of Trade, who mediates disputes and enforces the market's ancient customs. The Court permits trade with outsiders but prohibits the sale of weapons or military enchantments to non-elves.",
+        "terrain": "Mossy forest glade beneath a canopy gap, illuminated by moonlight and enchanted wares",
+        "resources": ["enchanted jewelry", "moon-dew", "thornwhisper silk", "song-charms", "memory phials", "elven remedies"]
+      }
+    },
+    {
+      "id": "location:val-elfshade-warquarter",
+      "name": "The Silverward Barracks",
+      "visibility": "shared",
+      "payload": {
+        "summary": "In a cleared grove at Elfshade's northern edge, where the Thornwhisper Forest thins toward the human lands, the Silverward Barracks house the city's small but formidable military force—the Silverwardens, an order of elven warrior-scouts who patrol the forest's borders and guard the approaches to the city. The barracks are a cluster of elegant but functional tree-platforms connected by rope bridges, each fitted with a rainshield of woven bark and a weapon rack of slender elven bows, silver-leafed spears, and leaf-bladed longswords. The Silverwardens are fewer than two hundred, but each is a century-trained fighter, and their captain, a scarred elf named Thandiel Silverbow who lost an eye to a dragon a century ago, is considered one of the finest archers alive. The air here smells of pine pitch, oiled bowstring, and the sharp, clean scent of whetted steel. Training is constant and silent—elves sparring in the canopy with a fluidity that makes human swordplay look like carpentry—and the wardens maintain a network of hidden lookouts throughout the forest that can relay a signal to the barracks in minutes. The Silverwardens answer to the Thornwhisper Court, but their real loyalty is to the forest itself.",
+        "parent_location_id": "location:val-elfshade",
+        "jurisdiction": "The Silverward Barracks are commanded by Captain Thandiel Silverbow, who reports to the Thornwhisper Court. The Silverwardens hold independent authority to patrol the forest and engage threats without prior approval, a right granted by the Court.",
+        "terrain": "Cleared forest grove with elevated tree-platform barracks, rope bridges, and weapon racks",
+        "resources": ["elven bows", "silver-leafed spears", "scout patrols", "forest lookouts", "ranger training"]
+      }
+    },
+    {
+      "id": "location:val-rivenspire-bridge",
+      "name": "The Riven Bridge",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The Riven Bridge is the spine of Rivenspire—a massive stone arch spanning the Greyfen Gorge, wide enough for two wagons to pass abreast, lined on both sides with statues of the river-gods and the merchant-lords who funded its construction. It is the only crossing of the gorge for a hundred miles in either direction, and every coin, crate, and traveler that moves between the north and south banks of the river must pass over it, which is why the bridge is also the most profitable piece of infrastructure in the kingdom. A toll-house at the bridge's center, a squat stone tower flying the Merchant Guild's banner, collects a copper per foot-traveler and a silver per wagon, and the revenue funds half the city's budget. The bridge is always crowded—merchants, pilgrims, soldiers, beggars, and the occasional noble carriage all jostle for space on the narrow roadway—and the air is thick with the roar of the gorge below, the shouts of the toll-collectors, and the smell of river spray and horse sweat. Pickpockets work the crowd with practiced ease, and the bridge's low parapet has been the last stop for more than one desperate debtor. At night, oil-lamps are lit along the parapet, and the bridge becomes a river of fire reflected in the black water below.",
+        "parent_location_id": "location:val-rivenspire",
+        "jurisdiction": "The Riven Bridge is maintained and tolled by the Merchant Guild of Rivenspire under a royal charter. The Guild's Bridge-Master oversees toll collection and maintenance, and a detachment of the City Watch is permanently stationed at the toll-house.",
+        "terrain": "Stone arch bridge spanning a river gorge, with statues, a central toll-house tower, and oil-lamp lighting",
+        "resources": ["bridge tolls", "trade traffic control", "river crossing", "toll records", "statuary"]
+      }
+    },
+    {
+      "id": "location:val-rivenspire-docks",
+      "name": "The Greyfen Quays",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The Greyfen Quays are the pulsing, stinking, cacophonous lifeblood of Rivenspire—a line of stone piers and timber wharves stretching along both banks of the river below the gorge, where barges, ferries, and the occasional seagoing cog jostle for berthing space and the air is a thick cocktail of river mud, tar, fish, and the sweat of stevedores. Longshoremen haul crates of grain, ore, cloth, and wine along the quays from dawn to dusk, their backs bent and their hands raw, while bargemen curse the current and the customs officers in the same breath. Cranes of iron and timber swing loads between dock and deck with groaning precision, and the river is so thick with traffic that a barge can wait half a day for a berth during the trade season. The smell is overpowering to newcomers but invisible to the dockhands who have lived in it their whole lives. Beneath the quays, in the damp and the dark, smugglers move untaxed goods through tunnels that connect the river to the cellars of the waterside warehouses, and the City Watch's harbor patrol—six boats and a dozen men—barely scratches the surface of the trade that flows beneath the official ledger. Every legal cargo in Rivenspire starts or ends here, and a good portion of the illegal cargo does too.",
+        "parent_location_id": "location:val-rivenspire",
+        "jurisdiction": "The Greyfen Quays are administered by the Harbor Master, a Guild appointee who manages berthing, customs inspection, and river traffic. The City Watch's harbor patrol handles enforcement, though its reach is limited.",
+        "terrain": "Stone piers and timber wharves along both river banks, with cranes, warehouses, and smuggling tunnels",
+        "resources": ["river trade cargo", "customs duties", "berthing fees", "freshwater fish", "smuggled goods", "stevedore labor"]
+      }
+    },
+    {
+      "id": "location:val-rivenspire-guildhall",
+      "name": "The Guildhall of the Counting Coin",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The Guildhall of the Counting Coin is the seat of the Merchant Guild of Rivenspire—a fortress of commerce that occupies an entire city block near the Riven Bridge and is worth more than most noble estates. Its facade is a restrained grey stone, but within, the guildhall is a cathedral of ledgers and coin: a great hall whose vaulted ceiling is gilded with actual gold leaf, whose walls are hung with tapestries depicting the guild's founding and triumphs, and whose floor is a mosaic of the trade routes of Gaia. Counting rooms, strong-rooms, and arbitration chambers branch off the main hall, and the air smells of ink, candle wax, old leather, and the metallic whisper of coin being counted. The Guildmaster, a shrewd, heavyset woman named Sera Coldcoin, holds court from a raised desk at the hall's end, adjudicating disputes between merchants with a speed and finality that makes the royal courts look glacial. Armed guild-bailiffs in the Guild's blue-and-silver livery guard the strong-rooms, and a private vault beneath the hall is said to hold more gold than the Crown's treasury. The Guildhall is where the real power of Rivenspire resides, and every merchant in the city knows that a word from Sera is worth more than a decree from the King.",
+        "parent_location_id": "location:val-rivenspire",
+        "jurisdiction": "The Guildhall is the sovereign territory of the Merchant Guild of Rivenspire, governed by Guildmaster Sera Coldcoin and the Guild's Inner Council. The Guild holds a royal charter granting it authority over commercial law, arbitration, and the licensing of trade within Rivenspire.",
+        "terrain": "Block-wide stone guildhall with a gilded great hall, counting rooms, strong-rooms, and a subterranean vault",
+        "resources": ["commercial arbitration", "trade licenses", "guild treasury", "merchant contracts", "economic intelligence"]
+      }
+    },
+    {
+      "id": "location:val-rivenspire-watchhq",
+      "name": "The Harbor Watch Keep",
+      "visibility": "shared",
+      "payload": {
+        "summary": "Perched on a stone promontory at the downriver end of the Greyfen Quays, the Harbor Watch Keep is a squat, iron-shuttered tower that serves as the headquarters of the Rivenspire City Watch's harbor division—a force of sixty men and six boats tasked with policing the docks, the river traffic, and the smugglers' tunnels beneath the quays. The keep is functional, not beautiful: its walls are stained with river spray, its iron shutters are dented from objects thrown by angry crowds, and its interior smells of wet wool, lamp oil, and the sour residue of the holding cells. The harbor commander, a weathered, one-legged woman named Commander Vella Drake, runs her division with a combination of ruthless efficiency and grudging respect for the dockside culture she polices. A war-room on the keep's second floor holds a map of the quay tunnels, painstakingly compiled from informants' testimony and the confessions of captured smugglers—though the map is admitted to be only half complete. The keep's signal tower can raise alarm lights visible from the Riven Bridge, and its boats patrol the river from dusk to dawn, but every officer knows that for every smuggler they catch, ten more slip through in the dark.",
+        "parent_location_id": "location:val-rivenspire",
+        "jurisdiction": "The Harbor Watch Keep is under the Rivenspire City Watch, which answers to the Mayor-Exchequer. Commander Vella Drake commands the harbor division and holds authority over river policing, customs enforcement, and anti-smuggling operations.",
+        "terrain": "Squat stone tower on a river promontory, with iron shutters, holding cells, a signal tower, and a war-room with tunnel maps",
+        "resources": ["harbor patrols", "smuggling intelligence", "river boats", "tunnel maps", "holding cells"]
+      }
+    },
+    {
+      "id": "location:val-ironhold-greathall",
+      "name": "The Hall of Anvils",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The Hall of Anvils is the ceremonial and social heart of Ironhold—a vast underground chamber at the hold's third level, its ceiling a soaring vault of polished granite supported by twelve pillars carved into the likenesses of the twelve founding dwarven heroes. Great iron anvils, each the size of a wagon and polished to a mirror sheen by centuries of use, are set in a circle at the hall's center, and it is here that the Thane holds council, hears petitions, and presides over the great feasts that are the social cornerstone of dwarven life. The hall is lit by basins of eternal forge-fire that cast a warm, coppery light over everything, and the air is thick with the smell of roasting meat, black stout, and the mineral tang of deep stone. Tapestries of iron chain and bronze thread depict the clan's history, and the walls are hung with the arms and armor of heroes past—weapons that are still sharp and armor that is still sound, for dwarven steel does not rust. At feasts, the hall fills with hundreds of dwarves in their finest, the noise of eating, drinking, and boasting rising to a roar that shakes the stalactites, and the Thane's mead-horn, a relic carved from a single amethyst, is passed from hand to hand until every warrior has drunk to the clan's prosperity.",
+        "parent_location_id": "location:val-ironhold",
+        "jurisdiction": "The Hall of Anvils is the seat of Thain Grimvar Stoneshield's authority. The Thane holds council, dispenses justice, and presides over feasts and ceremonies here. The hall is also the meeting place of the clan's guild-masters.",
+        "terrain": "Vast underground vaulted hall at the hold's third level, with twelve hero-pillars, a circle of great anvils, and forge-fire basins",
+        "resources": ["Thane's council", "clan feasts", "heroic relics", "dwarven mead", "ancestral weapons"]
+      }
+    },
+    {
+      "id": "location:val-ironhold-deepforge",
+      "name": "The Everflame Forge",
+      "visibility": "shared",
+      "payload": {
+        "summary": "At the deepest accessible level of Ironhold, seven levels below the Great Gate, the Everflame Forge burns in a cavern of raw, unfinished stone where the heat is so intense that the air itself seems to bend and scream. The Everflame is a vent of subterranean fire, a river of molten rock that the dwarves have channeled into a controlled flow and used as a forge-fire for millennia—a fire so hot that it can work metals no surface forge can touch, including mithril-alloy and the legendary deepsteel that is Ironhold's most closely guarded secret. The forge is tended by the Forge-Priests, a brotherhood of warrior-smiths who treat the Everflame as a living deity, chanting hymns to the fire as they work, their voices lost in the roar of the flame and the ring of hammers on metal that glows white-hot. The air burns the lungs of any non-dwarf who enters without a wet cloth over the face, and even the dwarves work in shifts of no more than two hours. The forge produces the hold's greatest treasures—deepsteel weapons, mithril-alloy armor, and the enchanted runesteel that only the Forge-Priests know how to make—and its output is reserved for the Thane's household, the clan's champions, and the Crown's most urgent commissions.",
+        "parent_location_id": "location:val-ironhold",
+        "jurisdiction": "The Everflame Forge is a sacred institution governed by the Forge-Priesthood, a religious-military order that answers to the Thane in matters of output but retains sole authority over the forge's techniques and the Everflame itself. Access is restricted to the Forge-Priests and those they explicitly permit.",
+        "terrain": "Deep cavern forge at the hold's seventh level, with a channeled river of molten rock and raw stone walls",
+        "resources": ["deepsteel", "mithril-alloy", "runesteel", "Everflame fire", "forge-priest enchantments"]
+      }
+    },
+    {
+      "id": "location:val-ironhold-vault",
+      "name": "The Deepvault",
+      "visibility": "shared",
+      "payload": {
+        "summary": "Behind a door of solid iron three feet thick, sealed with seven dwarven locks whose keys are held by seven different guild-masters and can only be opened when all seven are present simultaneously, the Deepvault is Ironhold's treasury and archive—the repository of the clan's wealth, its most precious relics, and the records of its six-thousand-year lineage. The vault is a cold, dry chamber of stone shelves and iron strong-boxes, its air still and mineral and untouched by the forge-heat of the levels above. Gold and silver ingots are stacked in neat rows, but the true treasures are the relic-chambers: a sealed case holding the Stonebook of the First Thane, a set of runesteel armor said to have been worn by the clan's founder, a phial of the first metal ever pulled from the mountain's heart, and the Lineage Stone—a monolith inscribed with the name of every dwarven child born to the clan, stretching back to the founding. Two Stoneguard, dwarven warriors sworn to defend the vault with their lives, stand at eternal attention beside the door, and the vault's location is known only to the Thane, the seven guild-masters, and the Stoneguard themselves. A thief who breached the Deepvault would steal not just wealth but the history of a people, and for that reason the clan would pursue such a thief to the ends of Gaia.",
+        "parent_location_id": "location:val-ironhold",
+        "jurisdiction": "The Deepvault is under the joint authority of the Thane and the seven guild-masters, each of whom holds one of the seven keys. No single individual can open the vault alone. The Stoneguard order is sworn to defend it to the death.",
+        "terrain": "Sealed underground treasury with an iron door, seven locks, stone shelves, iron strong-boxes, and relic-chambers",
+        "resources": ["gold and silver ingots", "the Stonebook of the First Thane", "runesteel relic armor", "the Lineage Stone", "clan archives"]
+      }
+    },
+    {
+      "id": "location:val-ironhold-traderoad",
+      "name": "The Slag Valley Trade-Road",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The only surface-level entrance to Ironhold opens onto the Slag Valley—a barren, snow-swept defile between the Frostvein peaks where centuries of mining have stained the rock black and the ground is a crust of slag and cinders that never fully freezes. The trade-road that winds down from the Great Gate to the valley floor is wide enough for a mule-cart but steep, switch-backed, and flanked by watchtowers at every turn, from which the dwarves can rain down rock and arrow on any approaching force. At the valley's mouth, where the defile opens onto the highland meadows, a trading post called Slagpost has grown—a ramshackle cluster of timber buildings where surface-dwelling merchants come to trade with the dwarves without entering the mountain itself. The air in the valley smells of sulfur, cold stone, and coal smoke, and the wind is a constant, keening presence that cuts through fur and wool alike. Dwarven caravan-guards, grim-faced and heavily armed, escort every wagon of ore and steel that descends the road, and the merchants of Slagpost know that trade with Ironhold is profitable but not for the faint-hearted—the dwarves drive a hard bargain and a harder escort fee, and the mountain roads are not safe for the unescorted.",
+        "parent_location_id": "location:val-ironhold",
+        "jurisdiction": "The Slag Valley Trade-Road is under the authority of the Thane of Ironhold, who controls access to the Great Gate and maintains the watchtowers. Slagpost trading post operates under a joint charter with the Merchant Guild of Rivenspire, but dwarven law prevails within the valley.",
+        "terrain": "Barren mountain defile with a steep switch-backed trade-road, watchtowers, and a trading post at the valley mouth",
+        "resources": ["ore exports", "steel exports", "caravan escort services", "surface trade post", "watchtower defense"]
+      }
+    },
+    {
+      "id": "location:val-northwatch-keep",
+      "name": "Frosthelm Keep",
+      "visibility": "shared",
+      "payload": {
+        "summary": "At the center of Northwatch, surrounded by its double ring of palisade walls, Frosthelm Keep is a squat, grey-granite fortress that has been rebuilt so many times that no two walls are quite the same age—a patchwork of old stone and newer stone, each layer a record of a siege survived or a fire recovered from. The keep is four stories of functional, thick-walled survival, its windows narrow slits, its roof steep-pitched to shed snow, and its central tower crowned with a signal brazier that can be lit to call reinforcements from the nearest garrison three days' ride south. Inside, the walls are hung with weapons, shields, and the tattered banners of companies that have served and died here, and the air smells of pine smoke, tallow, old leather, and the ever-present damp that no fire can fully drive from the stone. The Warden's quarters and war-room occupy the top floor, where a map of the Pale Reach is pinned with markers showing reported goblin and frost-wight activity, and the Knight-Commander's quarters are on the third, spartan and unadorned. The ground floor is a mustering hall and armory, always stocked and always ready, for in Northwatch the next attack is never a matter of if but when.",
+        "parent_location_id": "location:val-northwatch",
+        "jurisdiction": "Frosthelm Keep is the seat of the Warden of the Pale Reach, the Crown's military governor of the northern frontier. The Warden holds absolute authority over the garrison and the town, with the power of summary justice and martial law.",
+        "terrain": "Squat four-story granite keep within double palisade walls, with a signal-brazier tower, narrow windows, and a steep snow-shed roof",
+        "resources": ["military command", "garrison armory", "signal brazier", "Pale Reach maps", "company banners"]
+      }
+    },
+    {
+      "id": "location:val-northwatch-market",
+      "name": "The Frost Market",
+      "visibility": "shared",
+      "payload": {
+        "summary": "In the sheltered square between the inner palisade and the keep, the Frost Market is Northwatch's commercial heart—a muddy, crowded square of wooden stalls and canvas lean-tos where trappers, northmen, and garrison quartermasters trade the goods that keep the town alive through the long winters. Furs are the primary currency—wolf, bear, ermine, and the thick white pelts of the snow-fox that fetch a high price in the southern cities—and they hang from every stall in a patchwork of browns, greys, and whites that gives the market the look of a living beast. The smell of cured hides, smoked fish, pine smoke, and cheap ale is overpowering, and the cold turns every breath to fog. A northman in shaggy furs haggles with the garrison's quartermaster over a side of smoked reindeer, while a hedge-witch from the bogs sells frostwort poultices to soldiers whose ears and fingers have gone black with frostbite. There is no luxury here—no silk, no spice, no gold—but there is survival, and a good trade can mean the difference between seeing the spring and not. The market closes at midday, for no one in Northwatch stays out after dark who can help it, and by the time the signal fires are lit the square is empty and the mud is freezing hard.",
+        "parent_location_id": "location:val-northwatch",
+        "jurisdiction": "The Frost Market is under the authority of the Warden of the Pale Reach, who appoints a Market Bailiff to regulate trade and settle disputes. Trade is restricted to goods necessary for survival and garrison supply; luxury commerce is prohibited.",
+        "terrain": "Muddy square between inner palisade and keep, with wooden stalls, canvas lean-tos, and fur-draped awnings",
+        "resources": ["northern furs", "smoked reindeer meat", "frostwort medicine", "bog iron", "preserved fish"]
+      }
+    },
+    {
+      "id": "location:val-northwatch-chapter",
+      "name": "The Chapter House of the Pale Vow",
+      "visibility": "shared",
+      "payload": {
+        "summary": "Within the inner palisade, occupying a long, low hall of stone and timber that is perpetually cold and perpetually busy, the Chapter House of the Pale Vow is the home of the Knights of the Pale Vow—the military order that garrisons Northwatch and holds the northern frontier against the things that come down from the frozen dark. The hall is spartan: a single long room with a hearth at one end, weapon racks along the walls, and straw pallets for the knights who are not on watch. The knights themselves are a hard-bitten, weather-beaten breed—men and women who have taken a holy vow to hold the Pale Reach until death or thaw, and whose order's badge, a white flame on a field of black, is worn on cloaks that are more often red with blood than white with snow. The air smells of steel oil, wet wool, and the faint, antiseptic tang of frostwort poultices from the infirmary alcove where the order's healer tends the wounded. The Chapter Master, a grey-haired, one-eyed woman named Ser Aldreth Frostfire, commands the order with a quiet authority that her knights would follow into a dragon's maw—which several of them have. The Pale Vow is the smallest of the kingdom's knightly orders but the most decorated, and its casualties are the highest, and every knight in the chapter house knows that their posting is a honor and a death sentence in equal measure.",
+        "parent_location_id": "location:val-northwatch",
+        "jurisdiction": "The Chapter House of the Pale Vow is the seat of the Knights of the Pale Vow, an independent military order chartered by the Crown of Valdris. Chapter Master Ser Aldreth Frostfire commands the order and coordinates with the Warden of the Pale Reach, though the order retains its own chain of command.",
+        "terrain": "Long, low stone-and-timber hall within the inner palisade, with a central hearth, weapon racks, straw pallets, and an infirmary alcove",
+        "resources": ["knights of the Pale Vow", "holy vows", "battlefield healing", "frontier intelligence", "military valor"]
+      }
+    },
+    {
+      "id": "location:val-northwatch-graveyard",
+      "name": "The Frozen Yard",
+      "visibility": "shared",
+      "payload": {
+        "summary": "Outside the outer palisade, on a windswept rise where the snow never fully melts and the ground is too frozen to dig more than two feet down, the Frozen Yard is Northwatch's graveyard—a field of low cairns and wooden markers, each bearing a name and a date, stretching in rows to the edge of the visible world. There are more graves than living inhabitants by a factor of three, and the oldest markers have worn smooth, their names lost to wind and time. The air is silent but for the moan of the wind and the crunch of snow underfoot, and the cold here is a different, heavier cold—the cold of absence. Each cairn is a soldier, a trapper, a settler, or a child who did not survive the winter or the things that come with it, and the knights of the Pale Vow are buried with their swords, the blades driven into the frozen ground as markers, so that they might be armed at the last muster. A shrine of stone and antler at the yard's center, tended by the chapter house's healer, holds candles that are never allowed to go out—a small, flickering defiance against the dark. The Frozen Yard is the first thing a new arrival to Northwatch sees and the last thing a departing knight looks back at, and it is the truest measure of what the northern frontier costs.",
+        "parent_location_id": "location:val-northwatch",
+        "jurisdiction": "The Frozen Yard is sacred ground under the joint protection of the Knights of the Pale Vow and the Warden of the Pale Reach. The chapter house healer maintains the shrine and oversees burials, which follow military rite.",
+        "terrain": "Windswept frozen rise outside the outer palisade, with low cairns, wooden markers, sword-blade grave markers, and a central antler shrine",
+        "resources": ["memorial grounds", "burial rites", "ancestral honor", "the eternal candles", "historical records of the fallen"]
+      }
+    },
+    {
+      "id": "location:val-crossford-inn",
+      "name": "The Crossroads Inn",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The Crossroads Inn is the oldest building in Crossford and the reason the town exists at all—a sprawling, three-story timber-and-stone hostelry that stands at the literal intersection of the King's Road and the Old Salt Route, its sign a painted crossroads visible from every approach. The inn has grown by accretion over forty years, each owner adding a wing, a stable, a cellar, or a second floor, until it is now a labyrinth of corridors, sudden stairs, and rooms that open onto unexpected courtyards. The common room is the largest in the region, a hall of dark wood and roaring hearths that seats two hundred, and at the height of the seasonal fairs it is standing-room-only, filled with merchants, wagoners, guards, and travelers of every race and nation. The air is a thick, warm fug of pipe smoke, ale, horse-leather, and the rich smell of the inn's famous crossroads stew—a thick, spicy concoction that changes daily depending on what the kitchen has. The innkeeper, a jovial, red-faced halfling named Broddy Fairhand, knows every road, every merchant, and every rumor between Crownhaven and the southern coast, and his inn is the unofficial post office, news exchange, and hiring hall of the town. A room at the Crossroads Inn during fair season is worth more than a room at the Gilded Drake, and booking one requires either advance planning or a very persuasive purse.",
+        "parent_location_id": "location:val-crossford",
+        "jurisdiction": "A private establishment licensed by the Guild-Steward of Crossford. Broddy Fairhand, the proprietor, holds the license and runs the inn as a neutral ground where commercial and personal disputes are informally resolved over ale.",
+        "terrain": "Sprawling three-story inn at a road intersection, with a large common room, multiple wings, stables, and courtyards",
+        "resources": ["lodging and meals", "ale and cider", "travel information", "hiring hall", "crossroads stew", "rumors and news"]
+      }
+    },
+    {
+      "id": "location:val-crossford-market",
+      "name": "The Fairground",
+      "visibility": "shared",
+      "payload": {
+        "summary": "South of the crossroads, a broad, open field of trampled grass and packed earth that becomes a sea of mud in the rain and a dust bowl in the dry season, the Fairground is where Crossford's seasonal fairs are held—the great trade gatherings that draw merchants from across Valdris and beyond, and that transform the town from a busy crossroads into a city of canvas and commerce for two weeks at a stretch. During the fairs, the field is packed with pavilions, tents, and temporary stalls in a sprawling, unplanned grid, and the noise, the crowds, and the smell of a thousand competing wares—spices, wool, leather, livestock, potions, and the occasional exotic beast—create a sensory overload that overwhelms first-time visitors and energizes veteran traders. Between fairs, the Fairground is used for livestock grazing, militia drills, and the occasional public execution, and its only permanent structure is a raised wooden platform at the center—the Guild-Steward's stand, from which fair rules are proclaimed and disputes are adjudicated on the spot. The ground is littered with the detritus of past fairs—broken crate boards, stray coins, the occasional lost boot—and a determined scavenger can make a modest living picking through the field the morning after a fair closes.",
+        "parent_location_id": "location:val-crossford",
+        "jurisdiction": "The Fairground is administered by the Guild-Steward of Crossford, who regulates the seasonal fairs, collects pitch fees, and adjudicates trade disputes from the central platform. Between fairs, the Crown's Reeve maintains authority over the field.",
+        "terrain": "Open field of trampled grass and packed earth, with a central raised wooden platform and seasonal pavilion grids",
+        "resources": ["seasonal trade fairs", "pitch fees", "livestock sales", "exotic goods", "public announcements"]
+      }
+    },
+    {
+      "id": "location:val-crossford-chapter",
+      "name": "The Chapter House of the Iron Road",
+      "visibility": "shared",
+      "payload": {
+        "summary": "A stone-and-timber hall on the town's eastern edge, strategically positioned to overlook both the King's Road and the Old Salt Route, the Chapter House of the Iron Road is the base of the Knights of the Iron Road—a small but active military order dedicated to keeping the kingdom's trade routes safe from bandits, monsters, and the opportunistic lawlessness that plagues any crossroads town. The chapter house is a fortified building of grey stone, its walls marked with the pockmarks of thrown stones and the occasional arrow, its gate reinforced with iron, and its courtyard always holding a few saddled horses ready for patrol. The knights—perhaps thirty in number—are a practical, unglamorous order, more concerned with road patrols and caravan escorts than with holy vows and glorious charges, and their cloaks of road-brown and iron-grey reflect their workmanlike ethos. The air in the chapter house smells of leather, horse, and the dust of the road, and the common room is a place of maps, duty rosters, and the quiet exhaustion of men who have ridden thirty miles and will ride thirty more tomorrow. The Chapter Master, a lean, sun-weathered man named Ser Garrick Roadborn, is a former caravan guard who earned his spurs through competence rather than birth, and his knights are similarly drawn from the practical end of the social spectrum. They are not the kingdom's most glamorous order, but the merchants of Crossford would be lost without them.",
+        "parent_location_id": "location:val-crossford",
+        "jurisdiction": "The Chapter House of the Iron Road is the seat of the Knights of the Iron Road, a military order chartered by the Crown of Valdris to protect trade routes. Chapter Master Ser Garrick Roadborn commands the order and coordinates with the Guild-Steward and the Crown's Reeve.",
+        "terrain": "Fortified stone-and-timber hall on the town's eastern edge, overlooking both major roads, with a courtyard and ready horses",
+        "resources": ["road patrols", "caravan escorts", "bandit intelligence", "ready cavalry", "route maps"]
+      }
+    },
+    {
+      "id": "location:val-crossford-guildhall",
+      "name": "The Counting House",
+      "visibility": "shared",
+      "payload": {
+        "summary": "A two-story stone building near the crossroads, its facade painted with the Merchant Guild's blue-and-silver crest and its shutters reinforced with iron bars, the Counting House is the Crossford chapter of the Merchant Guild of Rivenspire—the administrative center from which the Guild-Steward governs the town's commerce and collects the tolls and pitch fees that fund its growth. The ground floor is a public counting room where merchants pay their dues, register their caravans, and purchase trade licenses, and the clerks who staff it are efficient, impersonal, and utterly incorruptible—or at least, incorruptible at the prices a Crossford merchant can afford. The upper floor is the Guild-Steward's office and residence, a comfortable but not lavish suite from which the Steward—a sharp-eyed, middle-aged man named Vorn Coldtally—manages the town's affairs with a ledger in one hand and a quill in the other. The Counting House smells of ink, fresh parchment, and the faint, ever-present scent of coin, and its strong-room, accessible through a trapdoor behind the clerk's desk, holds the town's toll revenue in locked iron boxes. The Counting House is the closest thing Crossford has to a seat of government, and Vorn Coldtally, though he holds no title nobler than Steward, is the most powerful man in town.",
+        "parent_location_id": "location:val-crossford",
+        "jurisdiction": "The Counting House is the seat of the Merchant Guild's Crossford chapter, governed by Guild-Steward Vorn Coldtally under the authority of the Guild's Inner Council in Rivenspire and confirmed by the Crown's Reeve. The Steward holds authority over commercial regulation, toll collection, and town administration.",
+        "terrain": "Two-story stone building near the crossroads, with a public counting room, a steward's office, and a strong-room beneath a trapdoor",
+        "resources": ["trade licenses", "toll collection", "caravan registration", "commercial records", "town revenue"]
+      }
+    },
+    {
+      "id": "location:val-crossford-stables",
+      "name": "The Wayward Stables",
+      "visibility": "shared",
+      "payload": {
+        "summary": "Occupying a full block on the northern edge of town, a complex of low timber barns, fenced paddocks, and a farrier's forge that together form the largest horse and mule market between Rivenspire and the northern frontier, the Wayward Stables are where the trade caravans of Crossford are built, maintained, and rebuilt. Hundreds of horses and mules are stabled, sold, rented, and exchanged here at any given time, and the smell of hay, horse sweat, manure, and the hot iron of the farrier's forge saturates the entire block. Teamsters haggle with horse-traders over the price of a draft mare, while grooms rub down animals fresh off the road and the farrier's hammer rings in a steady, percussive rhythm that carries across the town. The stables' owner, a broad, calloused woman named Mara Bridleborn, is a former cavalry farrier who can judge a horse's worth from a hundred paces and who has never been cheated in a trade—a reputation that makes her both respected and slightly feared by the horse-traders who work her block. The Wayward Stables also board caravans' animals between runs, shoe them, treat their injuries, and, when necessary, put them down with a quiet mercy that Mara insists on performing herself. Without the stables, the trade that flows through Crossford would grind to a halt within a week, and Mara knows it.",
+        "parent_location_id": "location:val-crossford",
+        "jurisdiction": "The Wayward Stables are a private establishment licensed by the Guild-Steward. Mara Bridleborn, the proprietor, holds the license and operates the stables as a commercial enterprise, though the Guild regulates animal welfare standards and trade practices.",
+        "terrain": "Block-wide complex of timber barns, fenced paddocks, and a farrier's forge on the town's northern edge",
+        "resources": ["horse and mule sales", "boarding", "farrier services", "veterinary care", "caravan animals"]
+      }
+    }
+  ]
+}

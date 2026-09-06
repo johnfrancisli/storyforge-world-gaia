@@ -1,0 +1,493 @@
+{
+  "locations": [
+    {
+      "id": "location:tsu-kawazaki",
+      "name": "Kawazaki",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The great port city of the Tsukuyomi Shogunate, where the Kawa River spills into the Moonshade Sea. A sprawl of wooden piers, tile-roofed warehouses, and salt-weathered merchant houses pressed against a curving harbor. The smell of tar, fish, and wet rope hangs over everything, cut by charcoal smoke from the street stalls. Junks and coastal traders crowd the moorings; yokai-touched fog rolls in on certain mornings and the harbor wardstones glow faint blue to keep the mist from reaching the granaries. The city is loud — gulls, dock shouts, the bell of the harbor shrine marking the turn of every watch. The Ashikara-appointed harbor master collects duties here, but the merchant guilds hold the real leverage, and everyone knows it. About thirty thousand people live and work in Kawazaki, plus a floating population of sailors, pilgrims, and yokai who do not always trouble to be counted.",
+        "parent_location_id": "location:tsukuyomi",
+        "jurisdiction": "Ashikara territory, governed by an appointed harbor master and a council of the five largest merchant guilds. The guilds set trade policy; the harbor master collects the shogunate's cut.",
+        "terrain": "Coastal harbor, river delta, tidal flats, surrounding fishing villages",
+        "resources": [
+          "salted fish",
+          "imported silk",
+          "spice",
+          "sea salt",
+          "harbor wardstones"
+        ]
+      }
+    },
+    {
+      "id": "location:tsu-kawazaki-great-harbor",
+      "name": "Kawazaki Great Harbor",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The beating heart of Kawazaki — a crescent of piers and moorings wide enough to hold two hundred vessels. Long pontoons of dark cedar bob in the swell, lashed together with rope the color of rust. Stevedores haul rice sacks and lacquer crates; a kappa works the rope coils on the eastern pier, tolerated because no one ties a knot faster. The harbor shrine sits at the end of the main pier, a small red torii above the tide line, where sailors drop copper coins before a voyage. The harbor master's tower rises at the harbor's throat, flying the Ashikara mon. Fog horns sound at dusk. The water is dark and cold and moves with things that are not always fish.",
+        "parent_location_id": "location:tsu-kawazaki",
+        "jurisdiction": "Direct control of the harbor master's office under the Ashikara shogunate. Dockside disputes are settled at the master's tower; serious crimes go to the city magistrate.",
+        "terrain": "Open harbor, cedar piers, tidal water, stone seawall",
+        "resources": [
+          "mooring space",
+          "cargo handling",
+          "coastal trade routes"
+        ]
+      }
+    },
+    {
+      "id": "location:tsu-kawazaki-fish-market",
+      "name": "Kawazaki Fish Market",
+      "visibility": "shared",
+      "payload": {
+        "summary": "A vast open hall of timber and tile just inland of the harbor, where the morning's catch is auctioned before the fog burns off. Sawdust on the floor, blood on the gutting tables, the cold mineral smell of the sea and the sharp bite of fresh-cut ginger. Fishmongers shout prices in a clipped code no outsider can follow. The catch is ordinary at first glance — mackerel, sea bream, squid — but a knowing buyer can find river-spirit carp, glow-bellied lanternfish pulled from the deep channels, and once a season something pulled from the water that the auctioneer will not name aloud. The kappa dockworkers are banned from the auction floor after an incident two years ago that no one will describe in detail.",
+        "parent_location_id": "location:tsu-kawazaki",
+        "jurisdiction": "Run by the Fishmongers' Guild under a charter from the harbor master. Guild wardens police the floor; the guild sets the auction schedule and the tariff on exotic catch.",
+        "terrain": "Covered market hall, stone gutting floors, ice cellars below",
+        "resources": [
+          "salted fish",
+          "fresh catch",
+          "exotic sea yokai produce"
+        ]
+      }
+    },
+    {
+      "id": "location:tsu-kawazaki-wardstone-shrine",
+      "name": "Shrine of the Blue Ward",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The oldest shrine in Kawazaki, set on a rise above the warehouse district where the harbor wardstones are anchored. A modest building — unpainted cedar, a mossy torii, paper lanterns replaced more often than the shrine keeper would like. The real structure is below ground: a chamber where the ward network's anchor stones pulse with slow blue light, maintained by a lineage of shrine keepers who have served since before the Ashikara came to power. The keeper, an old woman named Ume-no-ji, can read the wards the way a physician reads a pulse. When the fog brings something hungry, the shrine is the first to know. Pilgrims come here to ask safe passage; sailors come to leave offerings. Both are listened to, in different ways.",
+        "parent_location_id": "location:tsu-kawazaki",
+        "jurisdiction": "An independent shrine lineage, nominally under the Ashikara shrine network but older than it. The shrine keeper's authority over the wards is not contested; her authority over anything else is politely ignored.",
+        "terrain": "Hillside shrine, subterranean ward chamber, moss garden",
+        "resources": [
+          "harbor wardstones",
+          "ward maintenance",
+          "safe-passage blessings"
+        ]
+      }
+    },
+    {
+      "id": "location:tsu-kawazaki-tea-quarter",
+      "name": "Kawazaki Tea Quarter",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The narrow lanes behind the harbor where the tea houses, sake dens, and river-girl establishments press shoulder to shoulder. Lantern light on wet stone, the sound of shamisen and a low drum, the smell of plum wine and pipe smoke and something sweeter from the upper rooms. This is where merchant deals are closed that the harbor master will never hear about, where samurai come off the ships and spend a season's pay in a night, and where a yokai in a painted face will pour your drink and ask you questions you will answer before you realize you have. The quarter is run by the Tea House Guild, and the guild is run by a woman no one has ever seen clearly. It is the loudest, warmest, most dangerous part of Kawazaki.",
+        "parent_location_id": "location:tsu-kawazaki",
+        "jurisdiction": "The Tea House Guild governs the quarter under a private arrangement with the merchant guilds. The harbor master's men do not enter without an invitation. The guild keeps its own peace — harshly.",
+        "terrain": "Narrow lanes, multi-story tea houses, lantern-lit courtyards",
+        "resources": [
+          "entertainment",
+          "information",
+          "discreet meeting space"
+        ]
+      }
+    },
+    {
+      "id": "location:tsu-kaeden",
+      "name": "Kaeden",
+      "visibility": "shared",
+      "payload": {
+        "summary": "A castle town in the western foothills held by the Kagami clan, the Ashikara's oldest rival. The castle itself sits on a steep ridge above the river — black-timbered, iron-roofed, built to be held against a shogun. The town below has grown rich and sullen in its shadow. Forges ring day and night; the Kagami have been the finest swordsmiths in Tsukuyomi for five generations, and their steel is the one thing the Ashikara cannot match. The streets are wider than the capital's and better drained, the houses sturdier, the samurai district nearly as large as the merchant quarter. There is a calm here that is the calm of a place that knows its own strength and is waiting. Daimyo Kagami Renji has not attended the shogun's court in three years. His replies to summons are courteous, and empty.",
+        "parent_location_id": "location:tsukuyomi",
+        "jurisdiction": "Held by the Kagami clan under a grant older than the Ashikara shogunate. The daimyo governs directly; the shogun's writ runs here only with the Kagami's consent, which is rarely given.",
+        "terrain": "Ridge castle, river valley, forge district, terraced hillsides",
+        "resources": [
+          "high-grade steel",
+          "weapons",
+          "iron",
+          "river fish"
+        ]
+      }
+    },
+    {
+      "id": "location:tsu-kaeden-castle",
+      "name": "Kaeden Castle",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The black castle on the ridge. Iron roof tiles that turn the rain the color of old blood, timber walls braced with bands of Kagami steel, and a central keep six stories high that can see the river road for miles in every direction. The inner bailey houses the Kagami household and two hundred retainers; the outer bailey holds the armory, the stables, and the guest hall where visiting samurai are received — and counted. The castle has never fallen. The walls are warded, though the Kagami wards are older and stranger than the Ashikara network, cut with symbols the shrine network does not use. Daimyo Kagami Renji holds court in the upper keep. He is fifty, calm, and rumored to be the best swordsman in the west. No one has tested the rumor.",
+        "parent_location_id": "location:tsu-kaeden",
+        "jurisdiction": "Seat of the Kagami clan. The daimyo's word is absolute within the castle grounds. No outside authority — shogunate, shrine, or magistrate — has jurisdiction inside the walls.",
+        "terrain": "Ridge-top fortress, stone foundations, iron-roofed keeps, warded walls",
+        "resources": [
+          "Kagami armory",
+          "retainer garrison",
+          "observation of the river road"
+        ]
+      }
+    },
+    {
+      "id": "location:tsu-kaeden-forge-quarter",
+      "name": "Kaeden Forge Quarter",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The district below the castle where the smiths work, built along the river for the water wheels that drive the bellows. The air tastes of charcoal and hot iron; the sound of hammers is constant, a rhythm the town sleeps to. The master smiths are Kagami vassals by blood, and their forging secrets are passed father to son with an oath that is said to bind even after death. The finest blades in Tsukuyomi come out of these forges — folded steel with a hamon like frozen moonlight on water. A blade from the Forge Quarter is a status symbol in the capital, and a practical one on the battlefield. The smiths will not sell to the Ashikara directly. The blades reach the capital through intermediaries, at a markup, and the Kagami pretend not to notice.",
+        "parent_location_id": "location:tsu-kaeden",
+        "jurisdiction": "Kagami clan territory. The master smiths answer to the daimyo. The forge quarter has its own internal guild structure, but the guild head is appointed by the clan.",
+        "terrain": "Riverfront workshops, water wheels, charcoal stores, tempering pools",
+        "resources": [
+          "folded steel blades",
+          "weapons",
+          "armor",
+          "iron ore"
+        ]
+      }
+    },
+    {
+      "id": "location:tsu-kaeden-samurai-district",
+      "name": "Kaeden Samurai District",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The orderly grid of walled compounds where the Kagami retainers live, on the slope between the castle and the forge quarter. Each compound is built around a small training yard; the sound of wooden swords on wood carries across the district from dawn. The retainers are loyal — not bought, not bullied, but bound by generations of service and the simple fact that the Kagami have never lost. The district has its own bathhouse, its own small shrine to the clan's founder, and a dojo where the senior retainers teach a sword style the Kagami do not allow to be taught anywhere else. The retainers' children play in the lanes with wooden swords before they can read. It is quiet here, and watchful.",
+        "parent_location_id": "location:tsu-kaeden",
+        "jurisdiction": "Direct administration of the Kagami clan. A senior retainer serves as district head; internal discipline is handled by the clan, not the magistrate.",
+        "terrain": "Walled compounds, training yards, steep lanes, clan shrine",
+        "resources": [
+          "trained samurai retainers",
+          "Kagami sword school",
+          "clan loyalty"
+        ]
+      }
+    },
+    {
+      "id": "location:tsu-kaeden-river-market",
+      "name": "Kaeden River Market",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The open market that runs along the riverbank below the forge quarter, where the town's commercial life happens in full view of the castle. Stalls of river fish, hill rice, mountain vegetables, charcoal, and the imported goods that reach Kaeden over the western passes — wool, leather, a little southern silk. The market is less frenetic than a port city's, but the money that moves here is old money, and the merchants know their place. A tengu runs a stall selling mountain herbs and advice, and is tolerated because the herbs are genuine and the advice is occasionally useful. The market square has a stone where public notices are posted, and a small magistrate's office that handles debts and minor disputes. Serious matters go up the hill.",
+        "parent_location_id": "location:tsu-kaeden",
+        "jurisdiction": "Town magistrate under Kagami appointment handles trade disputes and debt. The clan takes a tithe of market goods; the magistrate collects it.",
+        "terrain": "Riverbank market square, stone notice post, magistrate's office",
+        "resources": [
+          "river fish",
+          "hill rice",
+          "mountain herbs",
+          "western trade goods"
+        ]
+      }
+    },
+    {
+      "id": "location:tsu-yamadera",
+      "name": "Yamadera",
+      "visibility": "shared",
+      "payload": {
+        "summary": "A mountain monastery town built into the terraced slopes of the White Crane range, where the great training monastery of the Shirogane order has stood for three hundred years. The town climbs the mountain in steps — pilgrim lodgings at the base, tea houses and supply shops in the middle, and the monastery itself at the top, a sprawling complex of dark wood halls and gold-leafed temples connected by covered stairways and stone paths worn smooth by a century of feet. Tengu roost in the upper pines and teach swordsmanship to those they judge worthy; the monks maintain a library of scrolls older than any clan. The air is thin, cold, and smells of cedar and incense and the ozone of old ward-work. Pilgrims come up the mountain road in a steady stream. Some come back changed. Some do not come back. The town is small — perhaps three thousand permanent residents — but the monastery's influence reaches across Tsukuyomi.",
+        "parent_location_id": "location:tsukuyomi",
+        "jurisdiction": "The Shirogane order governs the town and the monastery. The order is technically independent of both shogunate and clan; in practice, it maintains careful neutrality and is left alone by all sides because no one wants the tengu as an enemy.",
+        "terrain": "Terraced mountainside, cedar forest, monastery complex, pilgrim road",
+        "resources": [
+          "training",
+          "ancient scrolls",
+          "mountain herbs",
+          "tengu instruction",
+          "ward knowledge"
+        ]
+      }
+    },
+    {
+      "id": "location:tsu-yamadera-monastery",
+      "name": "Shirogane Monastery",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The great monastery at the summit — six halls of dark timber and sweeping eaves, a gold-leafed main temple, a library built into the rock of the peak itself, and a training ground of packed earth where monks and tengu practice together at dawn. The abbot, an ancient monk named Tesshin, is said to have studied under a tengu master and to be older than the current shogun's grandfather. The library holds scrolls on ward-craft, yokai lore, and martial philosophy that exist nowhere else; access is granted by the abbot alone, and he grants it rarely. The main temple's altar holds a shard of wardstone that hums with a frequency that makes the teeth ache. The air here is very still. Time moves differently at the top of the mountain, and the monks will tell you so without smiling.",
+        "parent_location_id": "location:tsu-yamadera",
+        "jurisdiction": "Self-governed by the Shirogane order under the abbot. The order recognizes no external civil authority over the monastery grounds. This independence has been respected, warily, for three centuries.",
+        "terrain": "Summit temple complex, rock-cut library, training grounds, wardstone altar",
+        "resources": [
+          "ancient scrolls",
+          "monastic training",
+          "ward-craft knowledge",
+          "abbot's counsel"
+        ]
+      }
+    },
+    {
+      "id": "location:tsu-yamadera-tengu-grounds",
+      "name": "Tengu Training Grounds",
+      "visibility": "shared",
+      "payload": {
+        "summary": "A clearing in the upper pines above the monastery, where the tengu who roost in the White Crane range come to teach — or to test. The ground is packed earth and old needles, ringed by cedar so tall the sky is a narrow strip above. Wooden posts stand in a circle, scarred by centuries of sword cuts. The tengu teach a sword style that has no name and no written form; it is learned in the body or not at all. They accept students by judgment alone — some are turned away at the treeline, some are tested for a season and released, and a very few are taught. A tengu lesson leaves bruises that heal slowly and insights that do not heal at all. The monks do not come here. The tengu do not come to the monastery. The arrangement is old and understood.",
+        "parent_location_id": "location:tsu-yamadera",
+        "jurisdiction": "The tengu govern their own grounds by their own customs. The monastery acknowledges their sovereignty over the clearing and the upper forest. No civil authority reaches here.",
+        "terrain": "Forest clearing, packed earth, scarred training posts, upper cedar canopy",
+        "resources": [
+          "tengu sword instruction",
+          "trial by combat",
+          "tengu favor"
+        ]
+      }
+    },
+    {
+      "id": "location:tsu-yamadera-pilgrim-quarter",
+      "name": "Yamadera Pilgrim Quarter",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The lower town, where the pilgrim road meets the first terraces and the town begins. Lodging houses, tea stalls, incense shops, and sellers of prayer beads and ward-talismans line the steep main street. The air is warmer here than above — woodsmoke, cooking rice, the sweet rot of fallen cedar needles. Pilgrims rest here before the final climb; many leave offerings at the small wayside shrine at the quarter's top, where a fox spirit is said to judge the sincerity of the prayer. The townspeople are patient with the endless flow of visitors; their living depends on it. A bathhouse at the quarter's center is fed by a hot spring, and it is the last warm water a pilgrim will see before the monastery.",
+        "parent_location_id": "location:tsu-yamadera",
+        "jurisdiction": "Town administration under the Shirogane order. A lay steward appointed by the abbot handles lodging regulations, market disputes, and the pilgrim tax that funds the town's upkeep.",
+        "terrain": "Terraced streets, pilgrim lodgings, hot spring bathhouse, wayside shrine",
+        "resources": [
+          "pilgrim lodging",
+          "hot spring water",
+          "ward-talismans",
+          "prayer beads"
+        ]
+      }
+    },
+    {
+      "id": "location:tsu-yamadera-library",
+      "name": "Shirogane Library",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The rock-cut archive beneath the main temple, where the order's scrolls are kept in dry, warded chambers that smell of old paper and cedar oil and something faintly electric. Racks of bamboo and lacquered wood hold thousands of scrolls — ward-craft treatises, yokai catalogs, clan histories older than the Ashikara, martial manuals, and a sealed section the abbot will not discuss. A single monk, the Keeper of Records, holds the keys. Copies of certain scrolls are made available to scholars and shrine keepers who petition the abbot and are approved; the originals never leave the chambers. The air is still and cool and the ward-hum is strong enough that visitors sometimes hear it in their teeth. A fire here would be a catastrophe measured in centuries, and the order has built accordingly — stone walls, warded doors, and a single narrow entrance.",
+        "parent_location_id": "location:tsu-yamadera",
+        "jurisdiction": "Under the direct authority of the abbot and the Keeper of Records. Access is by abbot's grant only. No civil or clan authority may enter or demand scrolls.",
+        "terrain": "Underground chambers, stone racks, warded doors, single entrance",
+        "resources": [
+          "ancient scrolls",
+          "ward-craft texts",
+          "yokai lore",
+          "sealed archive"
+        ]
+      }
+    },
+    {
+      "id": "location:tsu-kitagoe",
+      "name": "Kitagoe",
+      "visibility": "shared",
+      "payload": {
+        "summary": "A fortress town at the northern edge of Tsukuyomi, where the Cedar Road meets the Frostspine passes and the wild yokai come down out of the deep mountains when the snows drive them. The town is built for defense — a stockade of iron-banded cedar, a central keep on a granite knob, narrow streets that funnel an attacker into killing grounds. The garrison flies the Ashikara mon but the soldiers are a hard mix of clan retainers, ronin, and mountain folk who have fought the yokai all their lives. The cold is the real ruler here. Frost rims the eaves eight months of the year, and the ward fires burn blue at the gates. The town smells of pine resin, smoke, and the iron tang of the forge that never stops, because a broken wardstone in Kitagoe is not an inconvenience — it is a death sentence for someone. Two thousand people live here, and most of them can use a weapon. They do not grow rice. They grow survivors.",
+        "parent_location_id": "location:tsukuyomi",
+        "jurisdiction": "Ashikara territory under a military governor appointed by the shogunate. The governor commands the garrison; in practice, the veteran sergeants and the mountain-folk scouts have more say in daily survival than any appointed official.",
+        "terrain": "Mountain pass fortress, granite keep, stockade walls, surrounding pine forest",
+        "resources": [
+          "iron",
+          "pine timber",
+          "wardstones",
+          "furs",
+          "mountain game"
+        ]
+      }
+    },
+    {
+      "id": "location:tsu-kitagoe-keep",
+      "name": "Kitagoe Keep",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The granite knob at the town's center, crowned by a squat three-story keep of dark stone and iron-banded timber. The walls are thick enough that the winter wind does not reach the inner halls. The governor's quarters are on the top floor; the garrison command room is on the second, where a map of the northern passes covers an entire wall, marked with pins for yokai sightings, patrol routes, and the names of posts where soldiers have died. The ground floor is an armory and a wardstone-charging chamber, where the gate wardstones are renewed on a rotation that no one dares miss. The keep has a well cut into the granite that has never run dry. The roof mounts a signal fire that, lit, can be seen by the next post down the Cedar Road within the hour.",
+        "parent_location_id": "location:tsu-kitagoe",
+        "jurisdiction": "Seat of the military governor. The keep is under direct shogunate military authority; the governor's word is law within its walls.",
+        "terrain": "Granite knob, stone-and-timber keep, armory, wardstone chamber, signal fire",
+        "resources": [
+          "garrison command",
+          "armory",
+          "wardstone renewal",
+          "signal fire"
+        ]
+      }
+    },
+    {
+      "id": "location:tsu-kitagoe-gate-shrine",
+      "name": "Kitagoe Gate Shrine",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The shrine at the north gate, small and smoky and far more important than its size suggests. A single priest, an old man named Jiro who lost his left hand to a frost-oni twenty years ago, tends the gate wardstones and the shrine's blue fires that burn at the stockade threshold in all weather. The wardstones here are heavier, cruder, and more frequently replaced than those of the lowland cities — the northern yokai hit harder, and the stones crack under the strain. Jiro keeps a rack of spares and recharges them on a forge he built into the shrine's back wall. Offerings are left by soldiers going on patrol: sake, salt, a lock of hair. Some come back to collect the hair. Many do not. The shrine is the thin line between the town and what lives in the deep mountains, and everyone in Kitagoe knows it.",
+        "parent_location_id": "location:tsu-kitagoe",
+        "jurisdiction": "Under the Ashikara shrine network, but effectively autonomous due to distance. The priest answers to the network in principle and to the garrison governor in practice; neither checks on him often.",
+        "terrain": "Gate-side shrine, wardstone forge, blue fire basins, spare wardstone rack",
+        "resources": [
+          "gate wardstones",
+          "wardstone renewal",
+          "field wardstones",
+          "blessings for patrols"
+        ]
+      }
+    },
+    {
+      "id": "location:tsu-kitagoe-scout-hall",
+      "name": "Kitagoe Scout Hall",
+      "visibility": "shared",
+        "payload": {
+          "summary": "A long, low building of pine logs near the north gate, home to the mountain-folk scouts who are the garrison's eyes in the deep forest. The hall smells of pine resin, damp wool, and the musk of something the scouts will not name. The scouts are not clan retainers; they are hunters, trappers, and hermits who know the Frostspine the way a fisherman knows the sea. They track yokai movements, mark safe paths through the snow, and occasionally bring back things — pelts, bones, a wardstone shard found in a place no wardstone should be. The hall's walls are hung with maps drawn on birch bark, updated after every patrol. The scout chief, a weathered woman named Beni, has a working arrangement with a tengu who nests in the upper peaks; the details are private, and no one has survived asking twice.",
+          "parent_location_id": "location:tsu-kitagoe",
+          "jurisdiction": "The scouts operate semi-independently under the garrison governor's commission. Beni manages her own people, her own routes, and her own arrangements; the governor signs the commissions and does not ask questions.",
+          "terrain": "Pine-log hall, birch-bark map walls, equipment stores, staging yard",
+          "resources": [
+            "yokai tracking",
+            "mountain path knowledge",
+            "deep-forest reconnaissance",
+            "tengu contact"
+          ]
+        }
+    },
+    {
+      "id": "location:tsu-kitagoe-forge",
+      "name": "Kitagoe Forge",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The town forge, which never goes cold. A stone building near the keep with two hearths, a charcoal bin that is refilled daily, and a smith named Goro who is the third generation of his family to hold the position. The forge turns out wardstone casings, gate hardware, arrowheads, and the heavy shortswords the garrison prefers for close work against things that do not stop when a human would. Goro also repairs wardstone brackets — the iron bands that hold the stones in place at the gates and along the stockade — and he has a reputation for being able to reseat a cracked stone well enough to hold for one more winter. The forge is loud, hot, and the one place in Kitagoe that feels like it is winning. Sparks fly into the snow and die hissing.",
+        "parent_location_id": "location:tsu-kitagoe",
+        "jurisdiction": "Town administration under the military governor. The smith is a civilian appointee, but the position is effectively hereditary; the governor signs the commission and Goro does the work.",
+        "terrain": "Stone forge, twin hearths, charcoal stores, snow yard",
+        "resources": [
+          "wardstone casings",
+          "weapons",
+          "arrowheads",
+          "gate hardware",
+          "stone repairs"
+        ]
+      }
+    },
+    {
+      "id": "location:tsu-tsukinomiyako-palace",
+      "name": "Tsuki-no-Miyako Shogunal Palace",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The shogun's palace on its hill, visible from every quarter of the capital — white plaster walls, dark grey tile, and a five-story main keep that catches the moonlight that gives the city its name. The outer wards are administrative halls where the city magistrate and the shogunate's clerks conduct the business of governance. The inner wards are the Ashikara household's private quarters, closed to all but family and the most senior retainers. The old shogun has not been seen in the inner gardens this season, and the senior retainers take his instructions through a screen. The palace wardstones are the strongest in the nation, maintained by the shrine network's master keeper, and they hum at a frequency that makes yokai uneasy within the walls. The throne room is kept ready. The moon-throne has not been sat in publicly since autumn.",
+        "parent_location_id": "location:tsuki-no-miyako",
+        "jurisdiction": "Seat of the Ashikara shogunate. The palace is under the shogun's direct authority; the city magistrate handles the city below but has no jurisdiction within the palace grounds.",
+        "terrain": "Hilltop palace, administrative outer wards, private inner wards, warded gardens",
+        "resources": [
+          "shogunal authority",
+          "administrative offices",
+          "strongest wardstones in Tsukuyomi",
+          "moon-throne"
+        ]
+      }
+    },
+    {
+      "id": "location:tsu-tsukinomiyako-river-district",
+      "name": "Tsuki-no-Miyako River District",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The commercial heart of the capital, built along the Moon River where it curves through the low town. Warehouses, counting houses, and merchant mansions of dark timber and white plaster line the embankment, their eaves nearly touching across the narrower lanes. The smell of river water, incense from the district shrine, and the green tea served in every counting house. This is where the nation's wealth is counted and moved — rice tithes, silk, silver from the western mines, all flowing through the river district's books. The merchant guilds are powerful here, and their relationship with the shogunate's magistrates is a careful balance of favors and tariffs. The river bridges are hung with lanterns at night, and the district is beautiful in a way that makes it easy to forget that fortunes are destroyed here as calmly as they are made.",
+        "parent_location_id": "location:tsuki-no-miyako",
+        "jurisdiction": "City magistrate under the Ashikara shogunate. The merchant guilds hold significant informal power; the magistrate governs with their cooperation or not at all.",
+        "terrain": "River embankment, merchant mansions, warehouses, lantern bridges",
+        "resources": [
+          "rice tithe processing",
+          "silk trade",
+          "silver exchange",
+          "merchant guild halls"
+        ]
+      }
+    },
+    {
+      "id": "location:tsu-tsukinomiyako-grand-shrine",
+      "name": "Tsuki-no-Miyako Grand Shrine",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The head shrine of the Ashikara ward network, set on a rise between the palace and the river district. A complex of cedar halls and moss gardens centered on a main sanctuary where the network's master keeper conducts the rituals that bind the nation's wardstones to their anchors. The shrine is the largest in Tsukuyomi — six priests, twelve acolytes, and a library of ward-craft that is smaller than the Shirogane archive but more current. The master keeper, a stern woman named Karin, is one of the few people the old shogun still sees regularly, and no one knows what is said in those meetings. The shrine's central wardstone is the network's root anchor; if it fails, every wardstone in the nation feels it. It has not failed. The shrine keeps a fox spirit in the inner garden, bound by an old pact, who carries messages between the network's shrines faster than any horse.",
+        "parent_location_id": "location:tsuki-no-miyako",
+        "jurisdiction": "The Ashikara shrine network, under the master keeper. The shrine is technically independent of the shogunate's civil authority, but the master keeper's relationship with the shogun blurs that line.",
+        "terrain": "Cedar shrine complex, moss gardens, central wardstone sanctuary, fox-bound garden",
+        "resources": [
+          "ward network root anchor",
+          "ward maintenance",
+          "message fox",
+          "ward-craft library"
+        ]
+      }
+    },
+    {
+      "id": "location:tsu-tsukinomiyako-tea-quarter",
+      "name": "Tsuki-no-Miyako South Gate Tea Quarter",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The tea house district near the south gate, where the deals that the magistrate's office will never hear about are made over cups of matcha and something stronger. The quarter is a maze of lanes, each tea house narrower than the last, lanterns hung so low a tall man must duck. The establishment at the quarter's heart — the Moonfaced House — is where the senior retainers meet the merchant guild heads, where clan envoys deliver messages too delicate for paper, and where a person can learn what the shogun's health really is, if they know whom to ask and can afford the price. The quarter is quiet by design; the tea house guild keeps the peace with a firmness that rivals the magistrate's. The shamisen plays late. The lanterns burn low. The conversations do not repeat.",
+        "parent_location_id": "location:tsuki-no-miyako",
+        "jurisdiction": "City magistrate's territory, but the tea house guild maintains its own order. The magistrate's men patrol the main lanes; the guild handles the rest, and the two arrangements do not overlap.",
+        "terrain": "Narrow lanes, multi-story tea houses, lantern-hung eaves, discreet gardens",
+        "resources": [
+          "discreet meeting space",
+          "political intelligence",
+          "entertainment",
+          "diplomatic back channel"
+        ]
+      }
+    },
+    {
+      "id": "location:tsu-tsukinomiyako-samurai-district",
+      "name": "Tsuki-no-Miyako Samurai District",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The ordered grid of walled compounds on the slope between the palace and the river district, where the Ashikara retainers and the houses of the loyal clans maintain their city residences. The lanes are swept, the walls are whitewashed, and the gates carry the mon of the houses within. The district is quieter than the river district and colder than the tea quarter — this is where the shogunate's military and administrative class lives, and the atmosphere is one of controlled formality. Each compound has a training yard; the sound of practice is the district's dawn bell. The senior retainers' houses are nearest the palace, their compounds larger, their walls higher. The younger retainers and the lesser clan houses are further down the slope, where the lanes narrow and the formality eases, very slightly, into something almost like a neighborhood.",
+        "parent_location_id": "location:tsuki-no-miyako",
+        "jurisdiction": "Direct administration of the Ashikara shogunate. A senior retainer serves as district head; the city magistrate does not enter the samurai district without the district head's consent.",
+        "terrain": "Walled compounds, training yards, swept lanes, hillside slope",
+        "resources": [
+          "Ashikara retainers",
+          "loyal clan residences",
+          "military administration",
+          "training grounds"
+        ]
+      }
+    },
+    {
+      "id": "location:tsu-haru-onsen-bathhouse",
+      "name": "Haru Onsen Bathhouse",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The hot spring bathhouse at the village's center, fed by the spring that gives Haru's Shrine Town its reason to exist. A low building of cedar and stone, steam rising through the slats of the changing room, the mineral smell of the water sharp and clean. The bath is a single pool, natural rock lined with smooth stone, hot enough to turn the skin red in minutes. The villagers gather here at dusk — the shrine keeper, the store owner, the stable master, the farmers — and the talk that happens in the steam is the village's real government. A partitioned section is reserved for the fox spirits who maintain the message shop; they bathe separately and later, and their water is said to be warmer. Travelers are welcomed for a small fee and a respectful quiet. The water is said to ease old wounds, and it does.",
+        "parent_location_id": "location:haru-shrine-town",
+        "jurisdiction": "Village commons, maintained collectively. The shrine keeper oversees the spring's ward and settles any dispute over usage; no outside authority has ever needed to intervene.",
+        "terrain": "Cedar bathhouse, natural hot spring pool, stone lining, steam changing room",
+        "resources": [
+          "hot spring water",
+          "mineral bathing",
+          "village gathering place"
+        ]
+      }
+    },
+    {
+      "id": "location:tsu-haru-shrine",
+      "name": "Haru Hilltop Shrine",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The old shrine at the top of the village's single road, where the torii stands mossy and the cedar shade is thickest. A small sanctuary — one hall, one altar, one wardstone that anchors this stretch of the Cedar Road's protection. The shrine keeper, Miko Sora, lives in the attached cottage and has maintained the ward for longer than the village's memory of anyone else doing so. The wardstone is modest compared to the capital's, but it is well-tended, and the fox that watches from the torii at dusk is, by village reputation, the same fox that has watched for decades. Pilgrims and travelers leave offerings here before continuing up or down the Cedar Road. The shrine smells of cedar, moss, and the faint ozone of a wardstone under steady care. Shamisen music drifts down from somewhere above, and no one is entirely sure who plays it.",
+        "parent_location_id": "location:haru-shrine-town",
+        "jurisdiction": "The Ashikara shrine network, represented by the shrine keeper. In practice, the shrine keeper is the village's authority; the network's oversight is remote and infrequent.",
+        "terrain": "Hilltop shrine, mossy torii, cedar shade, wardstone altar, keeper's cottage",
+        "resources": [
+          "Cedar Road wardstone",
+          "ward maintenance",
+          "blessings for travelers",
+          "shrine keeper's counsel"
+        ]
+      }
+    },
+    {
+      "id": "location:tsu-haru-general-store",
+      "name": "Haru General Store",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The single general store, halfway up the village road, where anything a traveler or a villager needs can be found if the owner, Tama, has it or can get it. The store is a front room of packed-earth floor and cedar shelves holding rice, dried fish, lamp oil, rope, sandals, prayer cord, mountain herbs, and a few luxuries that arrive on the peddler's back once a month — sake, salt, a bolt of cloth. Tama knows everyone in the village and most of what they need. The store is also the village's post point; messages bound for the Cedar Road's next shrine are left here for the fox-spirit courier. A board by the door carries notices — weather warnings, road conditions, the occasional missing person. The store smells of dried fish and cedar and the faint sweetness of the sake jars in the back.",
+        "parent_location_id": "location:haru-shrine-town",
+        "jurisdiction": "Private business under village custom. Tama answers to the shrine keeper for the courier arrangement and to herself for everything else.",
+        "terrain": "Roadside store, packed-earth floor, cedar shelves, notice board",
+        "resources": [
+          "travel supplies",
+          "dry goods",
+          "courier post point",
+          "village notices"
+        ]
+      }
+    },
+    {
+      "id": "location:tsu-haru-fox-message-shop",
+      "name": "Haru Fox Message Shop",
+      "visibility": "shared",
+      "payload": {
+        "summary": "A small establishment near the shrine, run by a fox spirit who goes by the name Kiko and maintains the message service that links Haru's Shrine Town to the next ward-point along the Cedar Road. The shop is a single room with a low desk, a charcoal brazier, and a cushion that is always warm, as if someone had just left it. Messages are written on thin paper, folded into fox-tags, and delivered along the ward-line by courier foxes faster than any horse — though only to shrines on the network, and only for those the foxes choose to serve. Kiko charges in copper or in favors, and her ledger of favors is longer than her ledger of coin. She is polite, sharp, and old in a way that does not show. The villagers treat her with careful respect. The shrine keeper treats her as a colleague.",
+        "parent_location_id": "location:haru-shrine-town",
+        "jurisdiction": "The fox spirit's own authority, under a pact with the Ashikara shrine network. Kiko operates independently; the shrine keeper coordinates with her but does not direct her.",
+        "terrain": "Single-room shop, low desk, charcoal brazier, courier fox runs",
+        "resources": [
+          "fast message courier",
+          "ward-line communication",
+          "fox spirit favors",
+          "information"
+        ]
+      }
+    }
+  ]
+}

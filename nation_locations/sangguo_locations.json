@@ -1,0 +1,388 @@
+{
+  "locations": [
+    {
+      "id": "location:san-chudu",
+      "name": "Chudu",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The opulent capital of the Chu state rises from the misted banks of the Silver Serpent River, a city of wealth and water where jade-roofed pavilions shimmer above canals thick with lotus and trading barges. The air hangs heavy with the perfume of jasmine and lamp oil, the tang of river mud, and the sweet smoke of incense drifting from a thousand ancestor shrines. Merchants from every corner of Gaia crowd the harbors haggling over silk, spice, and lacquerware while silk-clad officials glide through arched corridors reviewing tax scrolls. Banners of crimson and gold—colors of the Chu dragon—snap from every tower, and the ceaseless lap of water against stone steps provides the city's heartbeat. Chudu is a place where coin speaks louder than steel, and where the Chu warlord holds court surrounded by poets, spies, and creditors in equal measure.",
+        "parent_location_id": "location:sangguo",
+        "jurisdiction": "Ruled by the Chu warlord from the Jade Dragon Pavilion, supported by a vast bureaucracy of appointed magistrates who oversee districts and manage the lucrative river tariffs that fund the state's mercenary armies.",
+        "terrain": "River delta and wetland, crisscrossed by canals and natural waterways",
+        "resources": ["silk", "spice", "lacquerware", "river fish", "jade", "tea"]
+      }
+    },
+    {
+      "id": "location:san-chudu-jade-dragon-pavilion",
+      "name": "Jade Dragon Pavilion",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The seat of Chu power crowns a rise at the city's heart, a sprawling palace of layered jade-tiled roofs and lacquered crimson columns where the Chu warlord receives petitioners, envoys, and rivals. Inside, gilded screens depict the founding of the Chu line in scenes of river gods and dragon-riders, and the halls smell of sandalwood and the faint metallic edge of hidden blades. Eunuchs whisper court gossip in antechambers, armored guards stand at every threshold, and officials in ranked silk robes wait hours for an audience that may last only a minute. The Pavilion's gardens hide koi ponds and private alcoves where the warlord's most trusted advisors plot tax policy, marriage alliances, and the slow strangulation of rival states through trade.",
+        "parent_location_id": "location:san-chudu",
+        "jurisdiction": "Directly administered by the Chu warlord and the royal household; the Pavilion grounds are sovereign territory where city magistrates have no authority.",
+        "terrain": "Palace complex on elevated ground",
+        "resources": ["jade", "gold", "ancient scrolls", "royal archives"]
+      }
+    },
+    {
+      "id": "location:san-chudu-silk-market",
+      "name": "Silk Market District",
+      "visibility": "shared",
+      "payload": {
+        "summary": "A labyrinth of covered arcades and open-air stalls stretching along the main canal, the Silk Market is Chudu's commercial heart and the loudest, most colorful place in all of Sangguo. Bolts of silk in every imaginable hue hang from bamboo frames like living banners, while spice merchants grind cinnamon and star anise in stone mortars, filling the air with a warm, stinging sweetness. Haggling is a performance art here—voices rise and fall in practiced rhythms, hands slap together to seal deals, and tea is poured endlessly as negotiations stretch from morning into dusk. Pickpockets work the crowds, moneylenders lurk behind silk curtains, and informants from every state mingle among the buyers, trading secrets as freely as coin.",
+        "parent_location_id": "location:san-chudu",
+        "jurisdiction": "Administered by the Guild of Five Merchants under charter from the Chu warlord; a city magistrate maintains a post-house here but defers to guild authority on trade disputes.",
+        "terrain": "Canal-side market district",
+        "resources": ["silk", "spice", "tea", "lacquerware", "porcelain"]
+      }
+    },
+    {
+      "id": "location:san-chudu-canal-docks",
+      "name": "Silver Serpent Canal Docks",
+      "visibility": "shared",
+      "payload": {
+        "summary": "Where the Silver Serpent River bends through Chudu, the canal docks form a forest of masts, barges, and sampans lashed together in tiers that stretch half a mile along the waterline. Stevedores with sun-darkened skin haul crates of rice and salt up slick stone ramps, their chants rising above the creak of rope and the splash of oars. The smell is a potent mix of river water, tar, fish, and the sweat of a thousand laborers. Customs officials in drab grey robes board every vessel to assess tariffs, while smugglers slip contraband beneath false hull planks. River pirates are said to operate from the downstream islands, and the docks never truly sleep—lanterns burn all night as cargo moves under cover of darkness.",
+        "parent_location_id": "location:san-chudu",
+        "jurisdiction": "Under the authority of the River Customs Office, a branch of the Chu bureaucracy; harbor patrols are maintained by the state navy and a private guard contracted by the merchant guilds.",
+        "terrain": "Riverfront docks and wharves",
+        "resources": ["river fish", "salt", "rice", "timber", "tar"]
+      }
+    },
+    {
+      "id": "location:san-chudu-lotus-temple",
+      "name": "Temple of the Lotus Ancestors",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The oldest structure in Chudu, the Lotus Temple sits on an island in the central canal, reached by a bridge of white stone carved with coiling serpents. Within its incense-thick halls, bronze censers the height of a man burn day and night, and the walls are lined with spirit tablets honoring every Chu ancestor back to the legendary founders. Monks in saffron robes maintain the eternal flames, chant morning and evening sutras, and offer counsel to those seeking the ancestors' favor. The temple also serves as Chudu's archive—deep beneath the main hall, climate-controlled vaults store tax records, lineage scrolls, and treaties dating back centuries. Warlords and peasants alike come here to pray before campaigns, births, and harvests.",
+        "parent_location_id": "location:san-chudu",
+        "jurisdiction": "Administered by the Order of the Lotus, an independent monastic sect recognized by the Chu state; the temple grounds are sovereign and exempt from taxation.",
+        "terrain": "Temple island connected by bridge",
+        "resources": ["incense", "ancestral records", "ancient scrolls", "medicinal herbs"]
+      }
+    },
+    {
+      "id": "location:san-chudu-tea-house",
+      "name": "The Floating Lantern Tea House",
+      "visibility": "shared",
+      "payload": {
+        "summary": "Moored at the junction of two canals, the Floating Lantern is a three-story tea house built on a broad timber raft that rises and falls with the river's breath. Paper lanterns hang from every eave, casting warm amber light across the water at dusk, and the interior is a haze of pipe smoke, jasmine tea steam, and whispered intrigue. Scholars debate philosophy on the upper gallery, merchants strike deals over porcelain cups on the middle floor, and on the lowest deck—half below the waterline—spies, fugitives, and hired blades trade information in the dark. The proprietor, a one-eyed former courier known only as Mother Shen, knows every secret that passes through her doors and sells them to whoever can afford the price.",
+        "parent_location_id": "location:san-chudu",
+        "jurisdiction": "Operates under a entertainment license from the city magistrate; informally, Mother Shen enforces her own code of neutrality within the tea house, and even the warlord's agents observe an unspoken truce on her raft.",
+        "terrain": "Floating platform on canal junction",
+        "resources": ["tea", "pipe tobacco", "information", "gossip"]
+      }
+    },
+    {
+      "id": "location:san-weidu",
+      "name": "Weidu",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The mountain fortress-capital of the Wei state clings to the granite flanks of the Dragon's Spine range like an eagle's nest, a city of black stone walls and iron gates that has never fallen to siege. Cold winds rake through narrow streets cut into the rock, carrying the smell of coal smoke, hot iron from the forges, and the pine resin used to waterproof every surface. Wei banners of slate-grey and blood-red hang limp in the thin air, and at every overlook, sentries watch the western passes with eyes trained since childhood. Below the city, terraced fields of hardy millet and buckwheat cling to the slopes, feeding a population hardened by altitude, scarcity, and the eternal expectation of war. Weidu is not a city of comfort—it is a city of endurance, and its people are proud of it.",
+        "parent_location_id": "location:sangguo",
+        "jurisdiction": "Ruled by the Wei warlord from the Iron Throne Hall, governed through a military council of generals who each command a district of the city as both administrator and garrison commander.",
+        "terrain": "High mountain fortress with terraced slopes",
+        "resources": ["iron ore", "coal", "granite", "buckwheat", "millet", "warhorses"]
+      }
+    },
+    {
+      "id": "location:san-weidu-iron-throne-hall",
+      "name": "Iron Throne Hall",
+      "visibility": "shared",
+      "payload": {
+        "summary": "Carved directly into the mountainside at Weidu's summit, the Iron Throne Hall is a vast cavern-chamber where natural columns of living rock alternate with forged iron pillars to support a ceiling lost in shadow. The warlord's seat—a chair hammered from the weapons of defeated enemies—sits on a dais of black marble above a fire pit that burns year-round, filling the hall with heat and the acrid smell of coal and old blood. The walls are hung with battle standards taken from every campaign, and the floor is worn smooth by the boots of generations of soldiers who have knelt here. The military council convenes at a crescent table of ironwood, debating strategy over maps pinned with enemy positions while the warlord listens in silence before rendering judgment.",
+        "parent_location_id": "location:san-weidu",
+        "jurisdiction": "Direct seat of the Wei warlord's authority; the Hall and its adjoining chambers are military headquarters, and all civilian authority is suspended within its walls.",
+        "terrain": "Mountainside cavern palace",
+        "resources": ["iron", "battle maps", "war trophies", "military archives"]
+      }
+    },
+    {
+      "id": "location:san-weidu-forge-quarter",
+      "name": "The Forge Quarter",
+      "visibility": "shared",
+      "payload": {
+        "summary": "Cut into a ravine on Weidu's northern face, the Forge Quarter is a cascade of smithies built into the rock itself, their chimneys channeled through natural fissures so the entire district breathes smoke and fire. The hammer-strike of metal on anvil is the district's unending rhythm, and the orange glow of furnaces turns the ravine walls molten at night. Master smiths forge the laminated steel swords Wei soldiers are famous for, as well as arrowheads, armor plates, and the iron grates that seal the city gates. Apprentices stoke the fires with coal hauled up from the lower mines, their faces permanently streaked with soot. The forge-masters hold secrets of steel-fold and edge-tempering passed only from father to son, and Wei steel is prized across Sangguo.",
+        "parent_location_id": "location:san-weidu",
+        "jurisdiction": "Administered by the Guild of Master Smiths under direct oversight of the military council, which dictates production quotas and weapon standards; no smith may leave Weidu without the warlord's permission.",
+        "terrain": "Ravine with rock-cut smithies",
+        "resources": ["iron weapons", "steel", "armor", "coal", "tools"]
+      }
+    },
+    {
+      "id": "location:san-weidu-garrison-barracks",
+      "name": "Stone Sentinel Barracks",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The largest single structure in Weidu, the Stone Sentinel Barracks house the standing army in a series of tiered stone blocks stepped into the mountainside like a fortress within a fortress. Each block houses a company, and the courtyards between them are training grounds where soldiers drill in formation regardless of weather—snow, wind, or the biting cold of mountain nights. The smell is of horse dung, oiled leather, and stone dust, and the sound is the cadenced shout of drill instructors and the crack of wooden practice weapons. Every soldier rotates through wall duty, forge labor, and field training in cycles dictated by the military council. The barracks also hold the armory reserves—enough weapons and rations to sustain a siege for a year.",
+        "parent_location_id": "location:san-weidu",
+        "jurisdiction": "Under the direct command of the military council; each company block is administered by its commanding officer, and the quartermaster general oversees the central armory and supply vaults.",
+        "terrain": "Tiered mountainside barracks complex",
+        "resources": ["weapons", "rations", "warhorses", "armor", "siege supplies"]
+      }
+    },
+    {
+      "id": "location:san-weidu-gate",
+      "name": "The Iron Gate of Weidu",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The only land entrance to Weidu is a tunnel carved through a spur of the Dragon's Spine, gated by a door of banded iron three hand-spans thick that requires a team of oxen and twenty men to open or close. The tunnel is long enough that an invading army would be in darkness for the count of two hundred before reaching the inner gate, and murder-holes above pour hot oil and stones onto any who breach the first. The gate garrison lives in chambers carved into the tunnel walls, their bunks lit by oil lamps that never extinguish. Traders and petitioners queue here for hours, sometimes days, while guards inspect every cart and question every traveler. The Iron Gate is Weidu's first defense and its first statement to the world: you are not welcome unless invited.",
+        "parent_location_id": "location:san-weidu",
+        "jurisdiction": "Commanded by the Gate Captain, who holds independent authority to admit or refuse entry on behalf of the warlord; the Gate Captain reports directly to the military council and cannot be overruled by any district general.",
+        "terrain": "Mountain tunnel gatehouse",
+        "resources": ["iron", "defense fortifications", "travel permits"]
+      }
+    },
+    {
+      "id": "location:san-longpass-town",
+      "name": "Longpass Town",
+      "visibility": "shared",
+      "payload": {
+        "summary": "Straddling the narrow canyon where the Long Pass cuts through the hills between Jin and Wei territory, Longpass Town is a settlement built for war and sustained by the traffic that war brings. The town is split down the center by the canyon road—one half faces east toward Jin, the other west toward Wei—and the tension between the two sides is as constant as the wind that funnels through the pass. Timber buildings with slate roofs huddle behind a timber palisade, and the streets smell of horse sweat, cheap wine, and the coal smoke of smiths who repair armor for whichever side is currently paying. Mercenaries, deserters, spies, and refugees all pass through Longpass, and the town's innkeepers, fences, and informants have grown rich on the spoils of three-way conflict. It is a place where loyalty is fluid and survival is the only principle.",
+        "parent_location_id": "location:sangguo",
+        "jurisdiction": "Nominally neutral territory administered by a Town Council of merchants and innkeepers, though in practice Jin and Wei both maintain agents and garrison liaisons who influence council decisions through bribery and intimidation.",
+        "terrain": "Canyon pass town between mountain ridges",
+        "resources": ["horses", "wine", "intelligence", "mercenary contracts", "black market goods"]
+      }
+    },
+    {
+      "id": "location:san-longpass-tavern",
+      "name": "The Broken Sword Tavern",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The largest building in Longpass Town, the Broken Sword is a sprawling timber-and-stone tavern that serves as drinking hall, inn, black market, and unofficial embassy all at once. The main room is a cavern of rough-hewn tables lit by tallow candles, where mercenaries in battered armor drink rice wine by the jug and haggle over contracts with brokers who take a cut of every deal. The walls are hung with broken blades—trophy weapons from soldiers who died in the pass—and the air is thick with pipe smoke, the smell of mutton stew, and the tension of men who might be friends or enemies depending on the hour's pay. A back room, accessible only by a password that changes weekly, serves as a meeting place for spies and diplomats from all three states.",
+        "parent_location_id": "location:san-longpass-town",
+        "jurisdiction": "Operates under a town charter as a licensed tavern and inn; the proprietor, a scarred ex-mercenary named Deng Kai, maintains an armed staff and a strict policy of no bloodshed inside, enforced by crossbowmen in the rafters.",
+        "terrain": "Central tavern building",
+        "resources": ["wine", "food", "lodging", "mercenary contracts", "intelligence"]
+      }
+    },
+    {
+      "id": "location:san-longpass-gate",
+      "name": "The Long Pass Gatehouse",
+      "visibility": "shared",
+      "payload": {
+        "summary": "A stone-and-timber fortification built across the narrowest point of the canyon, the Long Pass Gatehouse controls all traffic between Jin and Wei lands. Its walls are scarred by catapult stones from a dozen skirmishes, and the wooden gates have been burned and rebuilt so many times that layers of new timber over old charcoal are visible in the grain. The garrison—a rotating force supplied jointly by Jin and Wei under an uneasy treaty—manning the walls watches every traveler with suspicion, collecting tolls, inspecting cargo, and occasionally seizing contraband or detaining wanted persons. The gatehouse roof offers a view down both sides of the pass, and on clear days you can see the banners of Jin to the east and the grey peaks of Wei to the west.",
+        "parent_location_id": "location:san-longpass-town",
+        "jurisdiction": "Jointly garrisoned by Jin and Wei forces under the Treaty of the Pass, with a rotating command structure that alternates between the two states every six months; the Town Council has no authority over the gatehouse.",
+        "terrain": "Canyon gatehouse fortification",
+        "resources": ["toll revenue", "travel permits", "military intelligence"]
+      }
+    },
+    {
+      "id": "location:san-longpass-stable-yard",
+      "name": "The Pass Stables",
+      "visibility": "shared",
+        "payload": {
+          "summary": "A muddy complex of paddocks, barns, and farrier shops on the southern edge of Longpass Town, the Pass Stables breed and trade the hardy mountain horses that the region is known for. The smell of hay, horse dung, and hot horseshoes fills the air, and the sound is a constant mix of whinnying, hammering, and the low calls of stablehands coaxing stubborn mounts. Horse traders from all three states come here to buy warhorses, pack animals, and the swift courier-riders that carry messages across Sangguo's battle lines. The stable-master, a weathered woman named Liao Fen, keeps meticulous breeding records and is said to know each horse's lineage better than most nobles know their own family trees.",
+          "parent_location_id": "location:san-longpass-town",
+          "jurisdiction": "Privately owned and operated by the Liao family under a trade license from the Town Council; the stables supply horses to all three states on a strictly first-come, first-served basis, a neutrality that has survived only through careful bribery of every faction.",
+          "terrain": "Stable and paddock complex",
+          "resources": ["warhorses", "pack horses", "courier-riders", "farrier services"]
+        }
+    },
+    {
+      "id": "location:san-longpass-market",
+      "name": "Longpass Black Market",
+      "visibility": "shared",
+      "payload": {
+        "summary": "Tucked into a side canyon south of the main road, the Longpass Black Market is a ramshackle bazaar of canvas stalls and cave-front shops that appears at dusk and vanishes before dawn, selling everything that the gatehouse tolls and treaty restrictions forbid. Weapons without markings, armor stripped from the dead, forged travel papers, stolen horses, maps of military positions, and prisoners of war sold as laborers—all can be found here for the right price. The market has no shops that last more than a season; stalls are rebuilt nightly in different configurations to confuse any agent who might try to map it. The air smells of lamp oil and hidden coin, and every transaction is conducted in low voices with hands on weapons.",
+        "parent_location_id": "location:san-longpass-town",
+        "jurisdiction": "Officially illegal and periodically raided by the gatehouse garrison, but in practice tolerated by all three states because every side's agents use it; a shadow council of fences and smugglers enforces the market's unwritten rules.",
+        "terrain": "Side-canyon night market",
+        "resources": ["black market weapons", "forged documents", "stolen goods", "military intelligence", "slave labor"]
+      }
+    },
+    {
+      "id": "location:san-silkroad-city",
+      "name": "Yunmeng",
+      "visibility": "shared",
+      "payload": {
+        "summary": "Where the western trade routes from beyond the mountains converge with the eastern roads of Sangguo, Yunmeng sits in a wide valley as the great entrepôt of the overland silk road—a city where languages from a dozen distant lands mix in its markets and foreign gods share temple space with local ancestors. Caravans of camels and ox-carts arrive daily from the far west, bringing dyes, gems, strange spices, and bolts of fabric unlike anything woven in Sangguo, while eastern merchants buy these goods with silk, tea, and lacquerware to carry back toward the capitals. The city is wealthy beyond its size, its streets paved in imported stone and its merchant houses built in hybrid architectural styles that blend foreign arches with local tiled roofs. The smell of Yunmeng is unlike anywhere else in Sangguo—cumin, cardamom, horse leather, and the dusty wind of distant deserts.",
+        "parent_location_id": "location:sangguo",
+        "jurisdiction": "Administered by a merchant council elected from the five great trading houses, under a charter granted by the Jin warlord; the council operates the city as a free trade zone where goods pass without the tariffs imposed elsewhere in Jin territory.",
+        "terrain": "Valley trade city at route convergence",
+        "resources": ["silk", "foreign dyes", "gems", "spice", "camels", "trade routes"]
+      }
+    },
+    {
+      "id": "location:san-silkroad-caravanserai",
+      "name": "The Great Caravanserai",
+      "visibility": "shared",
+      "payload": {
+        "summary": "A vast walled courtyard at the western edge of Yunmeng, the Great Caravanserai is the staging ground for every caravan entering or leaving the city—a square of packed earth big enough to hold three hundred camels and their handlers, surrounded by two-story arcades of storerooms, sleeping quarters, and stables. At any hour, the yard is a chaos of loading and unloading: camel drivers shouting in distant tongues, porters carrying crates of gems and dye, and merchants arguing over weights and measures in a babel of languages. The arcades smell of hay, animal musk, and the strange spices leaking from poorly packed crates. A well at the center provides water for men and beasts alike, and a shrine to every major deity—local and foreign—stands in one corner, so travelers may pray for safe passage before departing.",
+        "parent_location_id": "location:san-silkroad-city",
+        "jurisdiction": "Operated by the Merchant Council as a public facility funded by caravan fees; a council-appointed warden manages daily operations, adjudicates disputes between traders, and maintains the roster of licensed caravan guides.",
+        "terrain": "Walled caravan staging yard",
+        "resources": ["caravan services", "lodging", "water", "pack animals", "trade goods storage"]
+      }
+    },
+    {
+      "id": "location:san-silkroad-bazaar",
+      "name": "Yunmeng Grand Bazaar",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The commercial heart of Yunmeng is a sprawling covered market where the goods of the known world are gathered under a single roof of timber and tile. Aisles are organized by commodity—spice merchants in one quarter, gem-cutters in another, textile traders in a third—but the boundaries blur where merchants sell mixed cargoes from a single caravan. The noise is overwhelming: the clink of scales, the rhythmic call of auctioneers, the haggling in five languages at once. Lamps of colored glass cast strange light over displays of rubies and lapis, and the air shifts from the warmth of cumin to the sweetness of dried fruit to the sharpness of indigo dye as you walk from aisle to aisle. Fortunes are made and lost here in a single day's trading.",
+        "parent_location_id": "location:san-silkroad-city",
+        "jurisdiction": "Administered by the Market Master, a council-appointed official who enforces weights and measures standards, adjudicates trade disputes, and collects the market tax; foreign merchants are subject to local law but may appeal to their caravan's headman for representation.",
+        "terrain": "Covered grand market",
+        "resources": ["gems", "spice", "dyes", "textiles", "foreign goods", "precious metals"]
+      }
+    },
+    {
+      "id": "location:san-silkroad-temple-quarter",
+      "name": "Temple Quarter of the Hundred Gods",
+      "visibility": "shared",
+      "payload": {
+        "summary": "On the hill overlooking Yunmeng's center, the Temple Quarter is a cluster of shrines and temples representing every faith whose traders have passed through the city—ancestor halls beside foreign fire-temples, a lotus shrine next to a desert god's sanctuary, and a great central altar where all faiths are welcome to offer together. The scent of a dozen different incenses mingles in the hilltop air, creating a perfume that belongs to no single tradition. Monks and priests of various orders walk the terraced paths in their distinct robes, and pilgrims from distant lands kneel beside local worshippers. The quarter is also Yunmeng's center of learning; scholars from different cultures exchange knowledge in a shared library at the hilltop, translating texts and mapping the stars in a spirit of curiosity that the warring states' capitals would never permit.",
+        "parent_location_id": "location:san-silkroad-city",
+        "jurisdiction": "Each temple is independently administered by its own religious order; the quarter as a whole is overseen by a Council of Faiths that mediates disputes between traditions and manages the shared library and central altar.",
+        "terrain": "Hilltop temple complex",
+        "resources": ["incense", "religious texts", "translated manuscripts", "astronomical charts", "medicinal knowledge"]
+      }
+    },
+    {
+      "id": "location:san-silkroad-merchant-house",
+      "name": "Hall of the Five Houses",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The administrative seat of Yunmeng's merchant council, the Hall of the Five Houses is a fortified mansion at the city's center where the heads of the five great trading families convene to govern the city's affairs. The building blends foreign and local architecture—arched doorways from the western lands, tiled roofs from the east, and a central courtyard fountain fed by a mountain aqueduct. Inside, each house maintains a counting room, a private vault, and guest quarters for their factors and agents. The council chamber itself is a round room where five chairs of equal height sit around a table of imported marble, a deliberate statement that no house outranks another. The walls display maps of every trade route in the known world, marked with current caravan positions and political risks.",
+        "parent_location_id": "location:san-silkroad-city",
+        "jurisdiction": "Seat of the Merchant Council's authority; the Hall is sovereign territory of the five houses, and city guards enter only by invitation. The council's decisions on trade policy, taxation, and dispute resolution are binding within Yunmeng's charter.",
+        "terrain": "Fortified administrative mansion",
+        "resources": ["trade maps", "merchant contracts", "vault reserves", "political intelligence"]
+      }
+    },
+    {
+      "id": "location:san-river-junction",
+      "name": "Sanyuan",
+      "visibility": "shared",
+      "payload": {
+        "summary": "At the confluence of the Silver Serpent River flowing south from Jin and the White Crane River descending from the Wei highlands, Sanyuan is a city defined by water—its three districts each occupy the land between branching rivers, connected by bridges of stone and timber that are the city's pride and its vulnerability. The rivers make Sanyuan the natural hub for grain shipment, timber rafting, and passenger travel across Sangguo, and the city's granaries feed armies and capitals alike. The sound of water is everywhere—the rush of the confluence, the creak of waterwheels, the splash of ferry poles—and the smell is of wet grain, fresh-cut timber, and the fish that thrive where two rivers mix. Sanyuan is prosperous but nervous, for whoever controls the rivers controls the city, and all three states know it.",
+        "parent_location_id": "location:sangguo",
+        "jurisdiction": "Administered by an appointed magistrate under Jin authority, but the rivers themselves are governed by a complex set of treaties between Jin and Wei governing water rights, navigation tolls, and military access—a patchwork that creates constant jurisdictional friction.",
+        "terrain": "River junction city on floodplain",
+        "resources": ["grain", "timber", "river fish", "ferries", "watermills"]
+      }
+    },
+    {
+      "id": "location:san-river-junction-granary",
+      "name": "The Imperial Granaries of Sanyuan",
+      "visibility": "shared",
+      "payload": {
+        "summary": "A complex of massive storehouses on the east bank of the confluence, the Imperial Granaries of Sanyuan are the largest grain repository in Sangguo—stone-walled, tile-roofed buildings each the size of a city block, raised on stone platforms to resist flood and filled with rice and millet sufficient to feed a city for years. The air inside is dry and dusty, thick with the scent of stored grain and the faint mustiness of old harvests. Grain clerks with abacuses and tally sticks track every bushel in and out, and armed guards patrol the perimeter night and day, for the granaries are a strategic prize that every state covets. Rats are a constant battle, and the granary employs a staff of cat-handlers whose felines are as valued as the soldiers. Barges load and unload at the adjacent wharf in a steady, measured rhythm.",
+        "parent_location_id": "location:san-river-junction",
+        "jurisdiction": "Directly administered by the Jin state's Granary Bureau, a branch of the treasury independent of the city magistrate; the granary commandant reports to the Jin warlord's financial minister and controls grain distribution to military and civilian recipients.",
+        "terrain": "Riverside granary complex",
+        "resources": ["rice", "millet", "grain reserves", "barges", "trade permits"]
+      }
+    },
+    {
+      "id": "location:san-river-junction-bridge-square",
+      "name": "Three Bridges Square",
+      "visibility": "shared",
+      "payload": {
+        "summary": "Where Sanyuan's three great bridges converge at the confluence point, Three Bridges Square is a plaza of worn flagstones surrounded by ferry houses, tea stalls, and the offices of the bridge-toll collectors. The square is perpetually crowded—farmers leading ox-carts, soldiers crossing between garrisons, merchants with porters hauling goods, and pilgrims stopping to make offerings at the small shrine to the river god at the square's center. The bridges themselves are engineering marvels: the Bridge of Joined Hands spans the Silver Serpent, the Bridge of White Wings crosses the White Crane, and the Bridge of Three Waters arches over the confluence itself, its central pier rising from the exact point where the two rivers merge. From the square, you can see all three districts of Sanyuan and hear the constant rush of water beneath the bridges.",
+        "parent_location_id": "location:san-river-junction",
+        "jurisdiction": "Public space maintained by the city magistrate's office; bridge tolls are collected by a private contractor under license, and the river shrine is tended by an independent order of river-priests who claim the confluence as sacred ground.",
+        "terrain": "Confluence plaza with three bridges",
+        "resources": ["bridge tolls", "ferry services", "river shrine offerings", "travel permits"]
+      }
+    },
+    {
+      "id": "location:san-river-junction-watermill-district",
+      "name": "Watermill District",
+      "visibility": "shared",
+      "payload": {
+        "summary": "Along the fast-flowing channel cut from the White Crane River, a row of watermills turns day and night, their great wooden wheels creaking and splashing as they grind grain into flour, press oil from seeds, and full cloth for the textile trade. The district is a working quarter of millers, bakers, and oil-pressers whose homes and workshops cluster around each mill, connected by narrow paths worn smooth by decades of foot traffic. The air smells of fresh flour, warm bread, and the mineral tang of river water channeled through stone races. Apprentices haul sacks of grain up to the mill hoppers while millers in flour-dusted aprons adjust the grindstones by ear, listening for the perfect pitch that signals the right fineness. The district feeds Sanyuan and exports flour by barge to every city on the river.",
+        "parent_location_id": "location:san-river-junction",
+        "jurisdiction": "Administered by the city magistrate as an industrial district; each mill is privately owned and operated under a water-rights license, with disputes over water flow adjudicated by a millers' guild court that answers to the magistrate.",
+        "terrain": "Riverside milling district",
+        "resources": ["flour", "bread", "seed oil", "fulled cloth", "milled grain"]
+      }
+    },
+    {
+      "id": "location:san-river-junction-ferry-quartier",
+      "name": "Ferryman's Quartier",
+      "visibility": "shared",
+      "payload": {
+        "summary": "A riverside neighborhood of boatyards, ferry houses, and net-drying racks on the south bank where the Silver Serpent widens before the confluence, the Ferryman's Quartier is home to Sanyuan's boatmen, ferrymen, and fisher families—a close-knit community bound by the water and suspicious of outsiders. Wooden walkways cross the shallows between houses built on stilts above the flood line, and every home has a boat dock where the family's sampan is tied. The smell is of river water, fish, hemp rope, and the pine tar used to seal hulls. The boatmen's guild hall sits at the district's center, a weathered timber building where ferry routes are assigned, tolls are divided, and disputes between boatmen are settled by the guild elder—a position that has passed through one family for seven generations.",
+        "parent_location_id": "location:san-river-junction",
+        "jurisdiction": "Administered by the Boatmen's Guild under charter from the city magistrate; the guild regulates ferry routes, boat construction standards, and river safety, and maintains its own court for internal disputes.",
+        "terrain": "Stilt-house riverside neighborhood",
+        "resources": ["ferries", "boats", "river fish", "rope", "tar", "boatbuilding"]
+      }
+    },
+    {
+      "id": "location:san-river-junction-magistrate-yamen",
+      "name": "Sanyuan Magistrate's Yamen",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The administrative and judicial seat of Sanyuan, the Yamen is a walled compound of interconnected halls and offices on the rise above Three Bridges Square, its gate marked by a pair of stone lion guardians and a drum tower where petitioners strike the drum to summon the magistrate's attention. Inside, clerks labor over tax records and river toll accounts in halls that smell of ink, paper, and the tea that fuels their long hours, while the magistrate hears cases in a formal courtroom hung with banners bearing the Jin warlord's seal. The compound also houses the city's small garrison, the treasury vault, and a prison beneath the rear courtyard where debtors, smugglers, and political detainees wait for judgment. The Yamen is the nerve center of Sanyuan's civic life.",
+        "parent_location_id": "location:san-river-junction",
+        "jurisdiction": "Seat of the Jin-appointed magistrate's authority over Sanyuan's civilian affairs; the magistrate answers to the Jin warlord's bureaucracy but has no authority over the granary commandant, the bridge toll contractor, or the military garrison, each of which reports to separate chains of command.",
+        "terrain": "Walled administrative compound on elevated ground",
+        "resources": ["tax records", "legal judgments", "treasury", "prison", "garrison"]
+      }
+    },
+    {
+      "id": "location:san-jin-an-golden-palace",
+      "name": "Golden Phoenix Palace",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The seat of the Jin warlord's power and the heart of Jin-an, the Golden Phoenix Palace is a vast complex of audience halls, private residences, and administrative offices enclosed within a perimeter wall of white stone. The great audience hall at its center features a throne of gilded wood beneath a ceiling painted with a phoenix in flight, its wings spanning the entire dome in gold and vermillion. Silk screens partition private chambers where the warlord's family resides, and the gardens behind the residential quarters contain pavilions for poetry, music, and private council. The palace is staffed by eunuchs, serving women, and a corps of scholar-officials who manage the bureaucracy of the entire Jin state from offices within the compound walls. The air smells of sandalwood incense, fresh ink, and the polished wood of a thousand desks.",
+        "parent_location_id": "location:jin-an",
+        "jurisdiction": "Direct seat of the Jin warlord's authority over all Jin territory; the palace compound is sovereign ground, and the warlord's edicts issued here are binding across the state. The Chief Eunuch manages palace operations while the Grand Secretary oversees the administrative offices.",
+        "terrain": "Walled palace complex",
+        "resources": ["state archives", "treasury", "royal decrees", "scholar-officials", "gold"]
+      }
+    },
+    {
+      "id": "location:san-jin-an-market",
+      "name": "East Gate Market",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The commercial heart of Jin-an stretches from the eastern gate along the main road toward the river, a teeming avenue of permanent shops, canvas stalls, and street vendors selling everything a great capital demands. Silks from Chu, iron tools from Wei, grain from Sanyuan, and foreign luxuries from Yunmeng all pass through this market, alongside local craftsmen—paper-makers, lantern-builders, comb-cutters, and noodle vendors whose stalls fill the air with the smell of boiling broth and scallion oil. The market is divided into guild-regulated sections, each marked by a banner, and prices are posted on wooden boards that are updated at dawn. City guards patrol the avenue in pairs, and the market bell rings to mark opening and closing, after which trade is forbidden and shutters come down.",
+        "parent_location_id": "location:jin-an",
+        "jurisdiction": "Administered by the city magistrate's market office under Jin law; each guild section is self-regulated by its guild master, who sets standards and resolves internal disputes before they reach the magistrate's court.",
+        "terrain": "Avenue market district",
+        "resources": ["silk", "iron goods", "grain", "paper", "lanterns", "food"]
+      }
+    },
+    {
+      "id": "location:san-jin-an-academy",
+      "name": "The Academy of the Five Classics",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The foremost center of learning in Sangguo, the Academy of the Five Classics sits in a walled grove of ginkgo trees on the northern edge of Jin-an, its lecture halls and dormitories arranged around a central library tower that holds the largest collection of scrolls in the known world. Scholars in grey robes debate philosophy, mathematics, military strategy, medicine, and astronomy beneath the ginkgoes, their voices rising in the structured cadence of formal argument. The smell is of old paper, ink, and the faint bitterness of ginkgo seeds crushed underfoot. Students from noble and common families alike study here, competing in examinations that determine placement in the Jin bureaucracy. The Academy's headmaster is appointed by the warlord but traditionally maintains a stance of intellectual independence that even the throne hesitates to challenge.",
+        "parent_location_id": "location:jin-an",
+        "jurisdiction": "Administered by the Headmaster and a council of senior scholars under royal charter; the Academy is self-governing, and its grounds are exempt from civil jurisdiction—a scholar accused of a crime is tried by the Academy's own court, not the city magistrate.",
+        "terrain": "Walled grove campus",
+        "resources": ["scrolls", "scholars", "astronomical instruments", "medical texts", "examination graduates"]
+      }
+    },
+    {
+      "id": "location:san-jin-an-tea-house",
+      "name": "The Hundred Cups Tea House",
+      "visibility": "shared",
+      "payload": {
+        "summary": "A four-story teahouse on the main avenue of Jin-an, the Hundred Cups is the social center of the capital's literati—a place where scholar-officials gather after court sessions to debate policy, recite poetry, and drink tea from the finest leaves in Sangguo. The ground floor is open to all, crowded with travelers and minor clerks, while the upper floors are increasingly exclusive: the second for merchants, the third for ranking officials, and the fourth—a single private room with a balcony overlooking the avenue—reserved by invitation only, where the most sensitive political conversations occur over porcelain cups barely larger than a thimble. The proprietor, a retired imperial censor named Bai Lu, maintains a guest book that is itself an intelligence document, and certain parties pay handsomely to know who has met whom within these walls.",
+        "parent_location_id": "location:jin-an",
+        "jurisdiction": "Operates under an entertainment license from the city magistrate; the proprietor maintains order with a staff of trained servers who also serve as informal security. The fourth floor's guest list is a closely guarded secret that no magistrate has yet successfully compelled.",
+        "terrain": "Four-story commercial building on main avenue",
+        "resources": ["tea", "poetry", "political intelligence", "social networking"]
+      }
+    },
+    {
+      "id": "location:san-jin-an-city-gate",
+      "name": "Great Vermilion Gate",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The southern entrance to Jin-an and the city's most imposing fortification, the Great Vermilion Gate is a triple-arched gateway of red-painted timber and white stone flanked by towers that rise above the city walls. The central arch is reserved for the warlord and imperial processions, while the flanking arches handle inbound and outbound traffic in separate streams controlled by gate guards who inspect every traveler and collect entry tolls. The gate towers house a permanent garrison, signal drums that can alert the palace in minutes, and pigeon lofts whose birds carry messages to frontier posts. The plaza before the gate is a gathering place for travelers, porters, and petitioners awaiting entry, and the smell of road dust, horse sweat, and cooking fires from the camp followers who cluster here mingles with the paint-and-stone scent of the gate itself.",
+        "parent_location_id": "location:jin-an",
+        "jurisdiction": "Commanded by the Gate General, a military officer appointed directly by the warlord; the Gate General controls entry to the capital, manages the gate garrison, and maintains the signal and pigeon systems, reporting independently to the palace rather than through the city magistrate.",
+        "terrain": "Fortified triple-arch gateway with flanking towers",
+        "resources": ["entry tolls", "garrison", "signal drums", "carrier pigeons", "travel permits"]
+      }
+    }
+  ]
+}
