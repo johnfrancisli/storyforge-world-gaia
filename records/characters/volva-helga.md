@@ -7,6 +7,9 @@ gm_notes: 'Helga has seen the same thing in her seidr visions that Shaman Nara''
   she recognizes as a chi monk of significant power. She does not know who he is, but the vision tells
   her his path and hers will cross, and that the crossing matters. She has begun traveling toward Verdania,
   following the vision.'
+aliases: []
+race: ''
+gender: ''
 role: Volva (seer, wise woman)
 appearance: An old woman in layers of wool and fur, a pouch of runestones at her belt. She walks with
   a staff carved with runes that glow faintly in the dark. Her eyes are milky — her sight is going physical,

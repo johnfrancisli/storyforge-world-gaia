@@ -1,0 +1,38 @@
+---
+id: character:hra-helga-deepnet
+name: Helga Deepnet
+gm_notes: Helga fishes the deep waters of the fjord and has pulled up things from the bottom that no one
+  else has seen. Six months ago she dredged up a runestone in her nets — not a carved memorial, but a
+  seidr-stone, pulsing faintly with cold light. It is not of Hrafnland make; the runes on it are older
+  than any she has seen, and they are warm to the touch even in frozen water. She has hidden it in the
+  bait shed, wrapped in oilskin. Since she brought it up, the fish in the deep channel have changed —
+  they swim in patterns, spirals, as though circling something. She has not told Yrsa, because Yrsa would
+  take the stone, and Helga feels — irrationally, she knows — that the stone wants to stay with her. It
+  hums when she is near it.
+aliases: []
+race: ''
+gender: ''
+role: Fisher
+appearance: Compact and weather-beaten, Helga wears oilskin over thick wool and rubber boots that go to
+  her knees. She smells of fish and salt and tar. Her hands are enormous for her size, cracked and red
+  from cold water and rope work.
+visual_identity:
+  age: 44
+  body_build: short and broad, powerful arms and hands
+  hair: dark brown, greying at the temples, worn in a practical single braid
+  eyes: dark brown, watchful
+  distinctive_features: a rope-burn scar across both palms, a chipped front tooth, a small blue tattoo
+    of a fish-hook on her right knuckle
+affiliations:
+- org:hra-volur-coven
+desires:
+- to understand what the stone is before it does something she cannot undo
+- to keep fishing the deep channel, because the spiraling fish are the largest she has ever caught
+fears_or_limits:
+- that the stone is calling something up from the bottom that is not fish
+- that her compulsion to keep it is not her own will but the stone's
+current_state:
+  location: location:skaldvik
+---
+
+A fisher who knows the fjord's depths better than anyone alive, and who pulled something up from the bottom that was perhaps better left sleeping.

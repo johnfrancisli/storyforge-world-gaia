@@ -7,6 +7,9 @@ gm_notes: Hanako's tea house is a neutral meeting ground where clan agents, merc
   and the tea house sits on the site of an old minor shrine that was decommissioned. She keeps the old
   shrine's bell behind the counter and rings it sometimes, for luck, though she tells people it's just
   decoration.
+aliases: []
+race: ''
+gender: ''
 role: Tea house owner
 appearance: A round, warm woman in a cotton apron over a plain kimono, her sleeves rolled up and her hair
   pinned with a wooden stick. She moves between tables with the speed of someone who has been doing this

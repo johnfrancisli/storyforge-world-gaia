@@ -7,6 +7,9 @@ gm_notes: Lu Fang is loyal to the idea of a unified Sangguo, not to Cao Shen per
   the younger officers at the Academy. He is not disloyal — he is loyal to a larger cause that he believes
   Cao Shen serves, for now. He does not know about Cao Shen's health, and when he finds out, his timeline
   will accelerate.
+aliases: []
+race: ''
+gender: ''
 role: General of the Jin army
 appearance: A tall, imposing man in military robes and lamellar armor, a dao sword at his hip. He stands
   the way soldiers do — balanced, ready, aware of exits. His beard is thick and his topknot is precise.

@@ -8,6 +8,9 @@ gm_notes: Sun Liang is not a coward — he is a patient man who believes that ti
   has also been secretly negotiating with Wei's heir — not for alliance against Jin, but for a future
   marriage alliance that would merge Chu's wealth with Wei's iron. If it works, the combined state would
   dominate Sangguo without a war. If Jin finds out, it looks like an alliance against them.
+aliases: []
+race: ''
+gender: ''
 role: Warlord of Chu
 appearance: An elegant man in fine silk robes, a jade pendant at his belt, a fan in his hand. He is slim,
   composed, and moves with the grace of someone trained in the martial arts who no longer needs to prove

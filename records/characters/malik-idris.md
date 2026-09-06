@@ -6,6 +6,9 @@ gm_notes: Malik's grandfather bound a djinn named Zuhayr three generations ago. 
   owed to a djinn. He has been researching ways to renegotiate or break the contract for years, secretly,
   and he has found nothing. The djinn Zuhayr has begun appearing to him, patient and polite, reminding
   him that the contract is almost due.
+aliases: []
+race: ''
+gender: ''
 role: Binding-family scion
 appearance: A young man in fine desert robes — cream and gold — with a jeweled dagger at his belt that
   is more ornament than weapon. He carries himself well but watches the shadows. He smells of sandalwood.

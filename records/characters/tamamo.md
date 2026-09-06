@@ -6,6 +6,9 @@ gm_notes: 'Tamamo is a wild kitsune — a fox spirit who never joined the shrine
   and she finds the ordered world of humans amusing and slightly contemptible. Takeda thinks he is using
   her. She is using him. She has her own interest in the shrine network weakening: the wards keep her
   kind out of the settled areas, and she wants that boundary gone.'
+aliases: []
+race: ''
+gender: ''
 role: Wild kitsune (fox spirit)
 appearance: A woman who is almost human — almost. Fox ears rise through her hair, and three tails shift
   behind her, visible when she chooses. She wears a layered kimono in autumn colors, and she moves like

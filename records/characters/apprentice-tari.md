@@ -8,6 +8,9 @@ gm_notes: 'Tari has a gift that Nara has not seen in thirty years of teaching: s
   ''the old door'' — but from multiple spirits, not just one. She has not told Nara because she is afraid
   Nara will say she is too young to understand, and she is also afraid Nara will understand too well and
   do something dangerous.'
+aliases: []
+race: ''
+gender: ''
 role: Shaman apprentice
 appearance: A slight girl in plain river-cloth, her arms not yet marked with pact-patterns — she is too
   young. Her hair is braided with river-grass, and she carries a pouch of offering-stones. She is usually

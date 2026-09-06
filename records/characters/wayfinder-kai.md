@@ -6,6 +6,9 @@ gm_notes: Kai has lost three routes in the last year — islands that were navig
   the rising seas are not natural but caused by something, and he wants to find out what. He has been
   asking the sea spirits, and they have been silent. He has not told the guild council that the spirits
   are silent because he fears it means something worse than the water.
+aliases: []
+race: ''
+gender: ''
 role: Wayfinder (navigator)
 appearance: A compact man in light island cloth, barefoot, with a carved wayfinding staff in his hand.
   His arms are covered in tattoo patterns — geometric lines and stars that map the routes he has sailed.

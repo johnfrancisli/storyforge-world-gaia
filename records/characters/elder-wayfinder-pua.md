@@ -8,6 +8,9 @@ gm_notes: Pua is the keeper of the oldest songs — the deep-water songs that ca
   way people think. It responded to the song with something that was not words but was not silence, and
   Pua has been careful not to sing it again. She is now considering whether the rising seas require her
   to sing it, despite the risk.
+aliases: []
+race: ''
+gender: ''
 role: Elder wayfinder, song-keeper
 appearance: A small, weathered woman in simple island cloth, her arms covered in faded tattoos so old
   they have blurred to blue shadows. She carries a wayfinder's staff that is older than she is, dark with

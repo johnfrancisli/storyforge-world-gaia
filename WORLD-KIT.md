@@ -573,6 +573,20 @@ Every speaking NPC is run as **its own model call, with its own scoped
 knowledge**, and it decides what it does. You are not writing behaviour. You are
 writing the conditions from which behaviour follows.
 
+### Who they are
+
+- **`name`** — their actual name: given and family name where the culture has
+  both. **`aliases`** — what people call them: a title, a nickname, the name a
+  rival uses. The narrator prefers `name`; aliases are how a reference in play
+  resolves to this person.
+- **`race`** and **`gender`** — both must be values the world's own lore names.
+  Write `lore/races.md` and `lore/gender.md` first and fill these from them,
+  rather than reaching for a default that belongs to some other world. A
+  character whose race or gender has not been decided leaves the field empty,
+  which says so honestly.
+
+### What makes them act
+
 So four fields carry most of the weight:
 
 - **`summary`** — who they are, in two sentences a stranger could observe.

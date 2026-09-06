@@ -6,6 +6,9 @@ gm_notes: The Guide is not a god. They are a remnant of whatever built the Old R
   in Gaia. They do not know the future. They know the nations in general terms but not current events.
   They are genuinely kind but not warm — they do their work and do not explain why. They cannot leave
   the Heavenly Realm.
+aliases: []
+race: ''
+gender: ''
 role: Guide of the Heavenly Realm
 appearance: Ageless and calm, dressed in simple undyed robes that could belong to any of the seven nations.
   They move slowly, as if time is not a concern. Their eyes are dark and patient. They carry nothing.

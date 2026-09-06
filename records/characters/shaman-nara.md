@@ -5,6 +5,9 @@ gm_notes: Nara has been hearing something new from the river spirit — a warnin
   that the spirit itself does not fully understand. The river spirit is frightened, and spirits do not
   frighten easily. Nara has not shared this with the council because she does not know what it means yet,
   and she fears that sharing partial information will cause panic rather than action.
+aliases: []
+race: ''
+gender: ''
 role: Elder shaman
 appearance: A weathered woman in painted river-cloth, her arms marked with the spirit-pact patterns of
   her lineage. She moves slowly but with purpose, and her eyes focus on things others do not seem to see.

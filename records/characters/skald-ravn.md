@@ -7,6 +7,9 @@ gm_notes: Ravn has been composing an epic about the frost giants that is not ent
   has come to Skaldvik not to threaten but to complain — formally, in the way that giants complain, which
   is by sitting outside the settlement and refusing to leave until the offending poem is corrected. Ravn
   thinks this is hilarious. Sigrid does not.
+aliases: []
+race: ''
+gender: ''
 role: Skald (poet, storyteller)
 appearance: A thin, animated man in colorful wool — more colorful than is strictly practical in Hrafnland.
   He carries a lyre everywhere and plays it at every opportunity. His hair is long and he has a performer's

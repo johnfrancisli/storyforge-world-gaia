@@ -5,6 +5,9 @@ gm_notes: Sora has been offered a position at the Great Shrine in Tsuki-no-Miyak
   She refuses because she believes the shrine network is weakening and that abandoning a rural shrine
   to take a prestigious post would make the problem worse. She has not told anyone this is her reasoning
   — she says she simply likes the mountains.
+aliases: []
+race: ''
+gender: ''
 role: Shrine keeper (miko)
 appearance: A slight woman in shrine robes — white top, red hakama pants — with her sleeves tied back
   for work. She moves with the efficiency of someone who does the same things every day. Her hands are

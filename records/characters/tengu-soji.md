@@ -6,6 +6,9 @@ gm_notes: Soji left his mountain dojo after a dispute with the elder tengu about
   act for a tengu, who value community. He is now wandering the Cedar Road offering to teach swordsmanship
   to anyone he finds worthy, which is almost no one. He is testing humans, looking for someone who might
   help the shrine network from the outside since his own kind will not help from the inside.
+aliases: []
+race: ''
+gender: ''
 role: Wandering swordmaster (tengu)
 appearance: A tall, lean figure in mountain robes, dark wings folded against his back like a cloak. His
   face is sharp and avian, with a prominent nose and piercing eyes. He carries his katana in a plain wooden

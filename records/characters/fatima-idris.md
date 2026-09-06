@@ -8,6 +8,9 @@ gm_notes: 'Fatima discovered Malik''s research notes three days ago. She is not 
   the secrecy around the contracts. She is not above using Malik''s desperation as a catalyst. She loves
   her brother, but she also sees him as useful to her larger cause. She has not told Malik she found his
   notes.'
+aliases: []
+race: ''
+gender: ''
 role: Binding-family daughter, political reformer
 appearance: A young woman in fine desert robes — deep blue and silver, less flashy than her brother's.
   She carries a book of contract law under her arm and has ink on her fingers. She is quieter than Malik
