@@ -238,7 +238,12 @@
           "parent_location_id": null,
           "jurisdiction": "The Ashikara shogunate, nominally. The clans hold real power in their territories.",
           "terrain": "Mountains, cedar forests, river valleys, coastlines",
-          "resources": ["rice", "cedar timber", "silver", "silk"]
+          "resources": [
+            "rice",
+            "cedar timber",
+            "silver",
+            "silk"
+          ]
         }
       },
       {
@@ -262,7 +267,11 @@
           "parent_location_id": "location:tsukuyomi",
           "jurisdiction": "Ashikara territory, but the nearest magistrate is a day's ride away. The shrine keeper is the closest thing to authority here.",
           "terrain": "Mountain slope, cedar forest, hot springs",
-          "resources": ["hot spring water", "cedar", "mountain herbs"]
+          "resources": [
+            "hot spring water",
+            "cedar",
+            "mountain herbs"
+          ]
         }
       },
       {
@@ -274,7 +283,12 @@
           "parent_location_id": null,
           "jurisdiction": "The Crown of Valdris, seated in Crownhaven. Noble houses hold territories under the crown's authority.",
           "terrain": "Rolling hills, deep forests, mountains, rivers",
-          "resources": ["iron", "timber", "grain", "dragonbone"]
+          "resources": [
+            "iron",
+            "timber",
+            "grain",
+            "dragonbone"
+          ]
         }
       },
       {
@@ -310,7 +324,13 @@
           "parent_location_id": null,
           "jurisdiction": "Divided between three states: Jin, Chu, and Wei. Each is ruled by a warlord and their court.",
           "terrain": "River valleys, terraced mountains, plains, highland plateaus",
-          "resources": ["silk", "grain", "iron", "jade", "tea"]
+          "resources": [
+            "silk",
+            "grain",
+            "iron",
+            "jade",
+            "tea"
+          ]
         }
       },
       {
@@ -334,7 +354,12 @@
           "parent_location_id": null,
           "jurisdiction": "No central authority. Each tribe and city-state is self-governing. Disputes are settled by river-court or shamanic mediation.",
           "terrain": "Rainforest, rivers, waterfalls, temple ruins",
-          "resources": ["rare herbs", "feathers", "river fish", "spirit-touched stone"]
+          "resources": [
+            "rare herbs",
+            "feathers",
+            "river fish",
+            "spirit-touched stone"
+          ]
         }
       },
       {
@@ -358,7 +383,13 @@
           "parent_location_id": null,
           "jurisdiction": "Each fjord is ruled by a jarl. The Althing settles disputes between jarls once a year.",
           "terrain": "Fjords, mountains, sea, tundra",
-          "resources": ["fish", "whale oil", "iron", "furs", "runestones"]
+          "resources": [
+            "fish",
+            "whale oil",
+            "iron",
+            "furs",
+            "runestones"
+          ]
         }
       },
       {
@@ -382,7 +413,13 @@
           "parent_location_id": null,
           "jurisdiction": "A confederation of city-states, each self-governed, bound by the Pact of the Lamp. The djinn enforce the pact.",
           "terrain": "Desert, oases, mountain passes, coastal trade ports",
-          "resources": ["spices", "salt", "dates", "precious stones", "djinn-contracts"]
+          "resources": [
+            "spices",
+            "salt",
+            "dates",
+            "precious stones",
+            "djinn-contracts"
+          ]
         }
       },
       {
@@ -406,7 +443,12 @@
           "parent_location_id": null,
           "jurisdiction": "Each island is self-governed by a chief or council. The wayfinder guilds mediate between islands.",
           "terrain": "Islands, reefs, open ocean, volcanic peaks",
-          "resources": ["fish", "pearls", "tropical fruit", "volcanic stone"]
+          "resources": [
+            "fish",
+            "pearls",
+            "tropical fruit",
+            "volcanic stone"
+          ]
         }
       },
       {
@@ -444,7 +486,9 @@
           "seat": "location:tsuki-no-miyako",
           "wants": "To maintain the shogunate's authority over the clans without provoking a succession crisis.",
           "pressure": "steady",
-          "holdings": ["location:tsukuyomi"]
+          "holdings": [
+            "location:tsukuyomi"
+          ]
         }
       },
       {
@@ -456,7 +500,9 @@
           "seat": "location:dragonrest",
           "wants": "To remain relevant and powerful in a kingdom that is losing faith in the old bond.",
           "pressure": "rising",
-          "holdings": ["location:dragonrest"]
+          "holdings": [
+            "location:dragonrest"
+          ]
         }
       },
       {
@@ -468,7 +514,9 @@
           "seat": "location:jin-an",
           "wants": "To reunify Sangguo under Jin's banner before the truce becomes permanent.",
           "pressure": "rising",
-          "holdings": ["location:sangguo"]
+          "holdings": [
+            "location:sangguo"
+          ]
         }
       },
       {
@@ -504,7 +552,9 @@
           "seat": "location:lani-atoll",
           "wants": "To find new safe routes and new land for the displaced islanders before the situation becomes desperate.",
           "pressure": "rising",
-          "holdings": ["location:tide-archipelago"]
+          "holdings": [
+            "location:tide-archipelago"
+          ]
         }
       },
       {
@@ -516,7 +566,49 @@
           "seat": "location:zaffar",
           "wants": "To renegotiate the oldest djinn contracts before the debts become unpayable.",
           "pressure": "steady",
-          "holdings": ["location:al-khayzar"]
+          "holdings": [
+            "location:al-khayzar"
+          ]
+        }
+      },
+      {
+        "id": "org:takeda-clan",
+        "name": "Takeda Clan",
+        "visibility": "shared",
+        "payload": {
+          "summary": "A powerful samurai clan holding the northern mountain province of Tsukuyomi. Disciplined, well-run, and increasingly resentful of the shogunate's neglect of the provinces. Daimyo Takeda Renji is building a coalition of like-minded rural clans.",
+          "seat": "location:tsukuyomi",
+          "wants": "To force the shogunate to reinvest in provincial defenses and the shrine network, and to position the clan for a succession scenario.",
+          "pressure": "rising",
+          "holdings": [
+            "location:tsukuyomi"
+          ]
+        }
+      },
+      {
+        "id": "org:great-academy",
+        "name": "The Great Academy of Jin'an",
+        "visibility": "shared",
+        "payload": {
+          "summary": "The foremost institution of learning in Sangguo, teaching strategy, philosophy, chi cultivation, and history. Its younger officers are the ones speaking openly about ending the truce. The Academy's archives contain records that predate the three-state division — including a secret clause in the original truce that references something beneath the world.",
+          "seat": "location:jin-an",
+          "wants": "To maintain its independence from the warlord's court and to pursue knowledge regardless of political consequences.",
+          "pressure": "steady",
+          "holdings": [
+            "location:jin-an"
+          ]
+        }
+      },
+      {
+        "id": "org:tide-refugee-council",
+        "name": "Displaced Islanders Council",
+        "visibility": "shared",
+        "payload": {
+          "summary": "An ad-hoc council of islanders displaced by the rising seas, formed at Lani Atoll as more families arrive. They are not part of the formal governance structure and have no official voice, but they are growing in numbers and frustration. They want representation, resources, and answers.",
+          "seat": "location:lani-atoll",
+          "wants": "To secure housing, food, and a future for the hundreds of islanders who have lost their homes to the rising seas.",
+          "pressure": "rising",
+          "holdings": []
         }
       }
     ]
@@ -583,7 +675,9 @@
             "eyes": "brown",
             "distinctive_features": "a small burn scar on her right wrist from a mishandled ofuda"
           },
-          "affiliations": ["org:ashikara-shogunate"],
+          "affiliations": [
+            "org:ashikara-shogunate"
+          ],
           "desires": [
             "To keep the shrine network functioning in her region, even as the central authority neglects the rural shrines."
           ],
@@ -612,7 +706,9 @@
             "eyes": "grey",
             "distinctive_features": "faint scale patches on the back of the left hand — a mark of the dragon bond"
           },
-          "affiliations": ["org:dragon-order"],
+          "affiliations": [
+            "org:dragon-order"
+          ],
           "desires": [
             "To understand why the dragons have stopped answering, and to restore the bond before the order tears itself apart."
           ],
@@ -640,7 +736,9 @@
             "eyes": "dark brown, sharp",
             "distinctive_features": "a thin scar along the jawline from an assassin's blade years ago"
           },
-          "affiliations": ["org:jin-state"],
+          "affiliations": [
+            "org:jin-state"
+          ],
           "desires": [
             "To reunify Sangguo under Jin's banner and end the three-state division within his lifetime."
           ],
@@ -726,7 +824,9 @@
             "eyes": "dark brown",
             "distinctive_features": "a faint blue shimmer around the fingers of his right hand — a mark of proximity to djinn-fire"
           },
-          "affiliations": ["org:binding-families"],
+          "affiliations": [
+            "org:binding-families"
+          ],
           "desires": [
             "To find a way to break or renegotiate his family's oldest djinn contract before it collects its next price — him."
           ],
@@ -755,12 +855,1165 @@
             "eyes": "dark brown",
             "distinctive_features": "tattoo patterns covering both arms — wayfinding route maps in geometric ink"
           },
-          "affiliations": ["org:wayfinder-guilds"],
+          "affiliations": [
+            "org:wayfinder-guilds"
+          ],
           "desires": [
             "To find the cause of the rising seas and reverse it, before the Archipelago loses more islands."
           ],
           "fears_or_limits": [
             "The sea spirits have gone silent when asked about the rising water. Kai does not know if they cannot answer or will not. He is one man against a problem that affects hundreds of islands."
+          ],
+          "current_state": {
+            "location": "location:lani-atoll"
+          }
+        }
+      },
+      {
+        "id": "character:daimyo-takeda",
+        "name": "Daimyo Takeda Renji",
+        "visibility": "shared",
+        "gm_notes": "Takeda is quietly assembling a coalition of rural clans who feel the shogunate has abandoned them. He does not want to overthrow the shogun — he wants the shogunate to remember that the provinces exist. He is not above engineering a yokai incident to prove the shrine network's weakness. He has been in contact with a wild kitsune named Tamamo who is willing to cause trouble for the right price.",
+        "payload": {
+          "summary": "A daimyo of the Takeda clan, holding the northern mountain province of Tsukuyomi. A disciplined man in his fifties who maintains a well-run territory and a grudge against the capital. He speaks slowly and means every word.",
+          "role": "Daimyo (provincial lord)",
+          "appearance": "A stern man in dark samurai armor, his helmet carried by a retainer behind him. He wears a daisho — katana and wakizashi — at all times, even indoors. His posture is perfect. He smells of iron and cedar oil.",
+          "visual_identity": {
+            "age": "mid-fifties",
+            "body_build": "solid, compact",
+            "height": "medium",
+            "hair": "black, streaked grey, topknot",
+            "eyes": "dark brown, heavy-lidded",
+            "distinctive_features": "a thin scar across the left cheekbone from a duel in his youth"
+          },
+          "affiliations": [
+            "org:ashikara-shogunate"
+          ],
+          "desires": [
+            "To force the shogunate to reinvest in the provincial shrine network and rural defenses.",
+            "To position his clan as the natural successor if the Ashikara line fails."
+          ],
+          "fears_or_limits": [
+            "His coalition is fragile — most clans will not move without proof the shogunate is truly failing. Pushing too hard too fast makes him a rebel instead of a reformer."
+          ],
+          "current_state": {
+            "location": "location:tsuki-no-miyako"
+          }
+        }
+      },
+      {
+        "id": "character:tamamo",
+        "name": "Tamamo",
+        "visibility": "shared",
+        "gm_notes": "Tamamo is a wild kitsune — a fox spirit who never joined the shrine network and considers the warded areas a cage. She is not evil, but she is chaos-aligned: she enjoys disruption for its own sake, and she finds the ordered world of humans amusing and slightly contemptible. Takeda thinks he is using her. She is using him. She has her own interest in the shrine network weakening: the wards keep her kind out of the settled areas, and she wants that boundary gone.",
+        "payload": {
+          "summary": "A wild kitsune — a fox spirit who lives outside the shrine network's wards. She appears as a woman with fox ears and multiple tails, or as a fox, or as something in between. She is beautiful, amused, and not entirely trustworthy. She speaks in riddles that she insists are perfectly clear.",
+          "role": "Wild kitsune (fox spirit)",
+          "appearance": "A woman who is almost human — almost. Fox ears rise through her hair, and three tails shift behind her, visible when she chooses. She wears a layered kimono in autumn colors, and she moves like something that has never been in a hurry. Her smile is too wide and too warm.",
+          "visual_identity": {
+            "age": "ageless — appears mid-twenties",
+            "hair": "silver-white, long, loose",
+            "eyes": "gold, slit-pupiled",
+            "distinctive_features": "three fox tails, fox ears, faint vulpine fangs visible when smiling"
+          },
+          "affiliations": [],
+          "desires": [
+            "To see the shrine network's wards weakened enough that the wild yokai can move freely again.",
+            "To find amusement — she is easily bored and has lived a very long time."
+          ],
+          "fears_or_limits": [
+            "She is bound by old spirit-law: she cannot lie directly, only mislead. A properly made ofuda can banish her from warded ground. She fears being sealed, which is a yokai's version of imprisonment."
+          ],
+          "current_state": {
+            "location": "location:tsukuyomi"
+          }
+        }
+      },
+      {
+        "id": "character:hanako",
+        "name": "Hanako",
+        "visibility": "shared",
+        "gm_notes": "Hanako's tea house is a neutral meeting ground where clan agents, merchants, and travelers cross paths. She hears everything and repeats nothing — unless the price is right, or the information concerns the shrine network, which she cares about more than she lets on. Her grandmother was a shrine keeper, and the tea house sits on the site of an old minor shrine that was decommissioned. She keeps the old shrine's bell behind the counter and rings it sometimes, for luck, though she tells people it's just decoration.",
+        "payload": {
+          "summary": "The owner of the Cedar Tea House in Haru's Shrine Town. A cheerful, round woman in her forties who knows everyone's business and serves excellent tea. Her tea house is the social center of the village.",
+          "role": "Tea house owner",
+          "appearance": "A round, warm woman in a cotton apron over a plain kimono, her sleeves rolled up and her hair pinned with a wooden stick. She moves between tables with the speed of someone who has been doing this for twenty years. She always has a pot on.",
+          "visual_identity": {
+            "age": "mid-forties",
+            "body_build": "round, comfortable",
+            "hair": "black, greying, pinned up with a wooden stick",
+            "eyes": "brown, warm",
+            "distinctive_features": "a splash of old burn scars on both forearms from years of kettle work"
+          },
+          "affiliations": [],
+          "desires": [
+            "To keep her tea house running and her village peaceful, even as the world outside gets more complicated."
+          ],
+          "fears_or_limits": [
+            "She has no combat skills, no political power, and no magic. Her only tool is goodwill, and she knows its limits."
+          ],
+          "current_state": {
+            "location": "location:haru-shrine-town"
+          }
+        }
+      },
+      {
+        "id": "character:tengu-soji",
+        "name": "Tengu Soji",
+        "visibility": "shared",
+        "gm_notes": "Soji left his mountain dojo after a dispute with the elder tengu about whether to intervene in the shrine network's decline. The elders voted to remain isolated. Soji disagreed and left — a serious act for a tengu, who value community. He is now wandering the Cedar Road offering to teach swordsmanship to anyone he finds worthy, which is almost no one. He is testing humans, looking for someone who might help the shrine network from the outside since his own kind will not help from the inside.",
+        "payload": {
+          "summary": "A tengu swordmaster wandering the Cedar Road. A tall, sharp-featured man with a long nose and dark wings folded behind his shoulders. He carries a katana and a bamboo flute, and he teaches swordsmanship to anyone he deems worthy — which is not many.",
+          "role": "Wandering swordmaster (tengu)",
+          "appearance": "A tall, lean figure in mountain robes, dark wings folded against his back like a cloak. His face is sharp and avian, with a prominent nose and piercing eyes. He carries his katana in a plain wooden sheath and plays a bamboo flute when he has nothing to do, which is often.",
+          "visual_identity": {
+            "age": "ageless — appears mature",
+            "body_build": "tall, lean, angular",
+            "hair": "black, long, tied high",
+            "eyes": "amber",
+            "distinctive_features": "large dark folded wings, pronounced tengu nose, sharp avian features"
+          },
+          "affiliations": [],
+          "desires": [
+            "To find a human worthy of his teaching who might also help the shrine network, since his own people will not."
+          ],
+          "fears_or_limits": [
+            "He is exiled from the tengu community and cannot return. His pride prevents him from asking for help. He is powerful in a fight but has no political influence."
+          ],
+          "current_state": {
+            "location": "location:tsukuyomi"
+          }
+        }
+      },
+      {
+        "id": "character:kuro",
+        "name": "Kuro the Smoke",
+        "visibility": "shared",
+        "gm_notes": "Kuro is a cat-folk thief who specializes in stealing from the wealthy districts of Tsuki-no-Miyako. He is not a revolutionary — he steals for profit and the thrill. However, he accidentally stole a document from a daimyo's estate that contains evidence of Takeda's coalition plans. He does not understand what he has, but Takeda's agents are looking for it, and for him. He has gone to ground in the merchant district.",
+        "payload": {
+          "summary": "A cat-folk thief operating in Tsuki-no-Miyako's wealthy districts. Lean, quick, and unapologetic. He has a reputation for being impossible to catch and slightly too charming for a criminal. He is currently lying low because his last job went sideways.",
+          "role": "Thief",
+          "appearance": "A lean cat-folk man in dark, close-fitting clothes, his ears flat and his tail curled tight — the posture of someone who is used to being hunted. He moves through crowds like water. His eyes catch light in the dark.",
+          "visual_identity": {
+            "age": "mid-twenties",
+            "body_build": "lean, wiry, compact",
+            "hair": "black, short, messy",
+            "eyes": "green, slit-pupiled",
+            "distinctive_features": "black cat ears, long black tail, a small chip in the left ear"
+          },
+          "affiliations": [],
+          "desires": [
+            "To survive the current situation and find a buyer for the document he stole — which he thinks is valuable but does not understand.",
+            "To get out of Tsuki-no-Miyako before whoever is looking for him finds him."
+          ],
+          "fears_or_limits": [
+            "He is being hunted by Takeda's agents and does not know why the document matters. He has no combat skills beyond running and climbing. He cannot go to the authorities."
+          ],
+          "current_state": {
+            "location": "location:tsuki-no-miyako"
+          }
+        }
+      },
+      {
+        "id": "character:shogun-ashikara",
+        "name": "Shogun Ashikara Yoshito",
+        "visibility": "shared",
+        "gm_notes": "The shogun is dying. He has been dying for two years — a slow decline that his physicians cannot explain and his court pretends not to see. He knows he is dying and has refused to name an heir because he cannot decide between his two sons: the elder, who is competent but cruel, and the younger, who is kind but untested. He is using his remaining time to try to shore up the shrine network, which he understands is failing, but the treasury is empty and the clans will not pay for it. He puts on a strong face in public but is privately terrified of what happens after him.",
+        "payload": {
+          "summary": "The ruling shogun of Tsukuyomi, elderly and declining. A man who was once a great warrior and is now a careful politician trying to hold his domain together with weakening hands. He has not been seen in public this season, which is itself a political statement.",
+          "role": "Shogun of Tsukuyomi",
+          "appearance": "A thin, old man in formal court robes, seated straight-backed on his dais. His hair is white, his hands are spotted with age, and his eyes are still sharp. He speaks softly, and the room goes quiet to hear him.",
+          "visual_identity": {
+            "age": "seventies",
+            "body_build": "thin, frail but straight-backed",
+            "hair": "white, formal topknot",
+            "eyes": "dark brown, sharp despite age",
+            "distinctive_features": "liver spots on the hands, a formal court fan always carried"
+          },
+          "affiliations": [
+            "org:ashikara-shogunate"
+          ],
+          "desires": [
+            "To name an heir who will hold the shogunate together, and to repair the shrine network before he dies."
+          ],
+          "fears_or_limits": [
+            "He is dying and has not told his court. He cannot decide between his sons. The treasury cannot fund both the capital and the provinces, and every choice abandons someone."
+          ],
+          "current_state": {
+            "location": "location:tsuki-no-miyako"
+          }
+        }
+      },
+      {
+        "id": "character:king-aldran",
+        "name": "King Aldran Valdris III",
+        "visibility": "shared",
+        "gm_notes": "King Aldran knows he is dying. He has a heart condition that his physician has been managing quietly with herbal remedies that are becoming less effective. He has three children: the eldest son Roderick (ambitious, traditional, backed by the old knightly faction), the daughter Elara (smart, reformist, backed by the merchant class), and the youngest son Tomas (seventeen, unaligned, everyone's wild card). He has not named an heir because he is afraid that naming one will trigger the other two into action before he is ready. He is trying to buy time.",
+        "payload": {
+          "summary": "The aging king of Valdris. A tall man gone thin, who once led armies and now sits a throne and watches his children circle each other. He is fair, tired, and smarter than his court assumes.",
+          "role": "King of Valdris",
+          "appearance": "A tall man in royal blues and gold, his crown slightly too large for him now that he has thinned. He sits carefully, favors his left side, and his hands tremble slightly when he is tired. His beard is white and neatly trimmed. He watches his court the way a general watches a battlefield.",
+          "visual_identity": {
+            "age": "late sixties",
+            "body_build": "tall, once powerful, now thin",
+            "hair": "white, thinning",
+            "eyes": "pale blue",
+            "distinctive_features": "a faded scar on the right brow from an old battle wound"
+          },
+          "affiliations": [],
+          "desires": [
+            "To name an heir without triggering a civil war, and to see the dragon order restored before he dies."
+          ],
+          "fears_or_limits": [
+            "His health is failing. His children are not patient. Naming an heir may start the war he is trying to prevent. Not naming one will start it anyway when he dies."
+          ],
+          "current_state": {
+            "location": "location:crownhaven"
+          }
+        }
+      },
+      {
+        "id": "character:princess-elara",
+        "name": "Princess Elara Valdris",
+        "visibility": "shared",
+        "gm_notes": "Elara has been secretly meeting with the reformist faction of the dragon order. She believes the old oath is a relic and that the kingdom needs a new kind of defender — one not dependent on dragons' whims. She has been funding research into alternative bond methods using dragonbone artifacts. She has not told her father because she knows he would disapprove, but she has told her brother Tomas, who she trusts completely. She underestimates Roderick — she thinks he is blunt and predictable, but Roderick has been feeding her false information through a double agent.",
+        "payload": {
+          "summary": "The king's daughter, second-born, in her early thirties. Sharp, political, and frustrated. She is the kingdom's best administrator and the one the merchants trust. She believes the dragon bond must be reformed, which makes her the traditionalists' enemy.",
+          "role": "Princess of Valdris",
+          "appearance": "A sharp-featured woman in practical riding clothes more often than court gowns, her hair braided and pinned for travel. She carries a knife at her belt — not ceremonial. She moves with purpose and speaks with precision.",
+          "visual_identity": {
+            "age": "early thirties",
+            "body_build": "slim, athletic",
+            "hair": "auburn, braided",
+            "eyes": "green",
+            "distinctive_features": "a small mole below the left eye"
+          },
+          "affiliations": [
+            "org:dragon-order"
+          ],
+          "desires": [
+            "To reform the dragon order and modernize the kingdom's defenses, with or without the dragons' cooperation.",
+            "To succeed her father, which she believes she has earned through competence rather than birth order."
+          ],
+          "fears_or_limits": [
+            "Her brother Roderick has more support among the nobility and the old military. Her reformist allies are academics and merchants, not soldiers. If her secret research is exposed prematurely, it looks like treason."
+          ],
+          "current_state": {
+            "location": "location:crownhaven"
+          }
+        }
+      },
+      {
+        "id": "character:prince-roderick",
+        "name": "Prince Roderick Valdris",
+        "visibility": "shared",
+        "gm_notes": "Roderick is not as simple as he appears. He plays the blunt soldier to hide a calculating mind. He has a network of spies in both Elara's camp and the reformist faction of the dragon order. He has been feeding Elara false information through a double agent to keep her off-balance. He has also been in contact with Sir Aldrich, offering to support the traditionalist faction if they back his succession. He genuinely believes he is the right choice for king — Valdris needs a warrior, not a reformer. He is not wrong about the first part.",
+        "payload": {
+          "summary": "The king's eldest son, in his late thirties. A soldier who commands the kingdom's northern garrison and the loyalty of most of the old military. He is blunt, direct, and more intelligent than he lets on. He wants the throne and believes he is the only one who can hold it.",
+          "role": "Prince of Valdris, northern commander",
+          "appearance": "A broad, battle-scarred man in plate and mail, a war-hammer at his side. He stands like someone who expects rooms to accommodate him. His beard is cropped military-short. He shakes hands too firmly, on purpose.",
+          "visual_identity": {
+            "age": "late thirties",
+            "body_build": "broad, muscular, heavy",
+            "height": "tall",
+            "hair": "dark brown, cropped military short",
+            "eyes": "grey",
+            "distinctive_features": "a scar across the chin from a northern skirmish, a missing tip of the left little finger"
+          },
+          "affiliations": [
+            "org:dragon-order"
+          ],
+          "desires": [
+            "To succeed his father as king and maintain the old order, including the traditional dragon bond.",
+            "To neutralize his sister Elara's political threat without disqualifying himself by appearing to attack family."
+          ],
+          "fears_or_limits": [
+            "The merchants and the reformist faction back Elara. If he moves too aggressively, he looks like a tyrant before he is even king. His spy network is good but not perfect — he does not know about Elara's dragonbone research."
+          ],
+          "current_state": {
+            "location": "location:crownhaven"
+          }
+        }
+      },
+      {
+        "id": "character:dwarf-borin",
+        "name": "Borin Ironhand",
+        "visibility": "shared",
+        "gm_notes": "Borin has been asked by the reformist faction to examine dragonbone artifacts that Elara's people have been collecting. He has discovered that the bones still carry a faint resonance — a shadow of the bond. He believes it might be possible to create an artificial bond using processed dragonbone, but the process would require a live dragon's cooperation to calibrate, which is exactly what no one has. He has not told Elara this because he is not certain, and a dwarf who gives uncertain information is a dwarf who does not get hired again.",
+        "payload": {
+          "summary": "A dwarven master smith in Crownhaven's metalworking district. Compact, strong, and precise. He works with iron, steel, and dragonbone — one of the few smiths in Valdris who will touch the last. He is the person the knightly order comes to when their armor needs repair, and the person Elara comes to when she needs something made quietly.",
+          "role": "Master smith",
+          "appearance": "A compact, broad man in a leather apron over forge-stained clothes, his arms bare and heavily muscled. His beard is iron-grey and braided in the mountain-dwarf style. His hands are scarred from decades of forge work. He smells of coal and hot metal.",
+          "visual_identity": {
+            "age": "mid-fifties",
+            "body_build": "compact, dense, heavily muscled",
+            "height": "short but not disproportionately so",
+            "hair": "iron grey, braided beard",
+            "eyes": "dark brown",
+            "distinctive_features": "extensive burn scars on both forearms and hands, a metal replacement tip on the left thumb"
+          },
+          "affiliations": [],
+          "desires": [
+            "To understand dragonbone well enough to work it properly — it is the one material that still challenges him.",
+            "To be paid well and left alone, in roughly that order."
+          ],
+          "fears_or_limits": [
+            "His research into dragonbone resonance is incomplete and potentially dangerous. If the wrong people learn what he is doing, he becomes a political pawn in the succession crisis."
+          ],
+          "current_state": {
+            "location": "location:crownhaven"
+          }
+        }
+      },
+      {
+        "id": "character:maggie-pip",
+        "name": "Maggie Pippin",
+        "visibility": "shared",
+        "gm_notes": "Maggie's inn is the Greywood's informal post office. Messages pass through her kitchen, and she has a memory for faces and names that would shame a spymaster. She has noticed that the traffic on the Greywood road has changed — fewer merchants, more armed men, and some of them wearing no colors, which means someone is hiring unaligned soldiers. She has not told anyone because she is not sure who to tell, but she keeps a list under the bar.",
+        "payload": {
+          "summary": "A halfling innkeeper in Greywood, a village on the trade road between Crownhaven and the northern garrison. Her inn, the Copper Kettle, is the best stop on the road — clean rooms, excellent food, and a fire that is always lit. She knows everyone who passes through.",
+          "role": "Innkeeper",
+          "appearance": "A small, round halfling woman in a flour-dusted apron, her curly hair tied back with a kerchief. She moves behind the bar with the efficiency of someone who can pour three drinks and serve two plates simultaneously. Her face is sun-reddened and she smiles easily.",
+          "visual_identity": {
+            "age": "early fifties",
+            "body_build": "small, round",
+            "height": "short — halfling",
+            "hair": "brown, curly, greying, tied back",
+            "eyes": "hazel",
+            "distinctive_features": "a flour dusting that never quite leaves her apron, laugh lines deep around the eyes"
+          },
+          "affiliations": [],
+          "desires": [
+            "To keep her inn running and her village safe through whatever is coming.",
+            "To figure out who is hiring armed men on the Greywood road, because it is scaring her customers away."
+          ],
+          "fears_or_limits": [
+            "She is a halfling innkeeper with no power, no weapons training, and a deep instinct that something is wrong on the road. If the armed men are connected to the succession crisis, reporting them could make her a target."
+          ],
+          "current_state": {
+            "location": "location:valdris"
+          }
+        }
+      },
+      {
+        "id": "character:the-wolf",
+        "name": "Garrick the Wolf",
+        "visibility": "shared",
+        "gm_notes": "Garrick is a bandit lord who controls a stretch of the Greywood road. He is not a common thug — he was a sergeant in the king's army who left after a dispute with a noble officer who ordered a massacre of a dwarf settlement during a border conflict. Garrick killed the officer and fled. He now robs the wealthy and leaves the poor alone, which has made him popular with the villagers and a problem for the crown. He is being secretly courted by Prince Roderick, who wants a deniable asset on the trade road. Garrick has not agreed — he does not trust Roderick, but the alternative is the hangman's noose.",
+        "payload": {
+          "summary": "A former army sergeant turned bandit lord, controlling a stretch of the Greywood road. A big, weathered man who robs the wealthy and leaves common folk alone. His men are disciplined — more like a rogue military unit than a gang. The crown wants him dead. The villagers tolerate him.",
+          "role": "Bandit lord, former soldier",
+          "appearance": "A big, weathered man in worn leather armor and a wolf-pelt cloak that gives him his name. He carries a longsword that is too good for a bandit — army-issue, well-maintained. His face is wind-burned, his beard unkempt, and his eyes are tired in a way that has nothing to do with sleep.",
+          "visual_identity": {
+            "age": "mid-forties",
+            "body_build": "big, broad, scarred",
+            "height": "tall",
+            "hair": "brown, shaggy, unkempt",
+            "eyes": "grey-green",
+            "distinctive_features": "a wolf-pelt cloak, a scar across the throat from a near-hanging"
+          },
+          "affiliations": [],
+          "desires": [
+            "To find a way out of banditry that does not end at a gallows — a pardon, a new identity, or a war that needs soldiers and does not ask questions.",
+            "To protect the men who followed him out of the army, who have no other life now."
+          ],
+          "fears_or_limits": [
+            "Roderick's offer is the closest thing to a pardon he has, and Roderick cannot be trusted. His men are loyal but hungry, and loyalty has a shelf life. The crown's patrols are getting more aggressive."
+          ],
+          "current_state": {
+            "location": "location:valdris"
+          }
+        }
+      },
+      {
+        "id": "character:elf-lindrel",
+        "name": "Lindrel of the Greenhall",
+        "visibility": "shared",
+        "gm_notes": "Lindrel is the last of the old elven forest-keepers of the Greenhall, an ancient forest within Valdris. She is two hundred and thirty years old and remembers when the dragon bond was new. She knows why the dragons stopped answering, and she has not told anyone because the reason is embarrassing to the knightly order: the oath was changed two generations ago, simplified for political reasons, and the simplified version no longer means what it used to. The dragons are not silent because they are angry — they are silent because the words have become meaningless. Lindrel is waiting for someone to ask the right question.",
+        "payload": {
+          "summary": "An elven forest-keeper, two centuries old, who tends the Greenhall — an ancient forest within Valdris. She is tall, slow-moving, and carries the weight of a very long memory. She is not unfriendly, but she is not in a hurry for anyone else's sake.",
+          "role": "Elven forest-keeper, elder of the Greenhall",
+          "appearance": "A tall, slender elf in forest-green robes, her hair silver-white and very long. She moves slowly, as if each step is considered. Her ears are long and sharply pointed. She carries a staff of living wood that is still growing — small leaves bud from it in spring.",
+          "visual_identity": {
+            "age": "two hundred and thirty — appears ageless, mature",
+            "body_build": "tall, slender",
+            "skin": "pale, faintly luminous",
+            "hair": "silver-white, very long",
+            "eyes": "deep green",
+            "distinctive_features": "long sharply pointed ears, a staff of living wood that buds in season"
+          },
+          "affiliations": [],
+          "desires": [
+            "To see the dragon bond restored properly — the old oath, not the simplified version the order currently uses.",
+            "To protect the Greenhall, which is being slowly encroached by logging operations backed by Prince Roderick's allies."
+          ],
+          "fears_or_limits": [
+            "She knows the truth about the dragon bond but has been waiting for someone to ask, which is a passive strategy that is running out of time. The Greenhall is under pressure, and she cannot fight logging crews and political forces alone."
+          ],
+          "current_state": {
+            "location": "location:valdris"
+          }
+        }
+      },
+      {
+        "id": "character:general-lu-fang",
+        "name": "General Lu Fang",
+        "visibility": "shared",
+        "gm_notes": "Lu Fang is loyal to the idea of a unified Sangguo, not to Cao Shen personally. He believes Cao Shen is the best path to unification, but if Cao Shen dies before achieving it, Lu Fang intends to pursue it himself — by faster, less careful means. He has been quietly building his own base of support among the younger officers at the Academy. He is not disloyal — he is loyal to a larger cause that he believes Cao Shen serves, for now. He does not know about Cao Shen's health, and when he finds out, his timeline will accelerate.",
+        "payload": {
+          "summary": "Cao Shen's top general, commanding the Jin army. A man in his early forties, tall and martial, with a reputation for decisive action. He is publicly loyal and privately ambitious — not for himself, but for the cause of unification, which he believes requires urgency that Cao Shen's caution will not provide.",
+          "role": "General of the Jin army",
+          "appearance": "A tall, imposing man in military robes and lamellar armor, a dao sword at his hip. He stands the way soldiers do — balanced, ready, aware of exits. His beard is thick and his topknot is precise. He speaks rarely and means it.",
+          "visual_identity": {
+            "age": "early forties",
+            "body_build": "tall, muscular, imposing",
+            "hair": "black, topknot, thick beard",
+            "eyes": "dark brown",
+            "distinctive_features": "a old arrow scar on the left shoulder, callused sword-hand"
+          },
+          "affiliations": [
+            "org:jin-state"
+          ],
+          "desires": [
+            "To reunify Sangguo under a strong leader, whether that leader is Cao Shen or, if necessary, himself.",
+            "To prove that military action, not economic patience, is the path to unification."
+          ],
+          "fears_or_limits": [
+            "He underestimates the economic dimension of the conflict — Chu's wealth is a weapon he does not respect. He does not know Cao Shen is dying, and his plans are built on the assumption that Cao Shen has years."
+          ],
+          "current_state": {
+            "location": "location:jin-an"
+          }
+        }
+      },
+      {
+        "id": "character:strategist-mei",
+        "name": "Strategist Mei Lin",
+        "visibility": "shared",
+        "gm_notes": "Mei Lin has discovered something in the old archives: the original truce agreement between Jin, Chu, and Wei included a secret clause — a mutual defense pact against an external threat that was deliberately omitted from the public text. The threat was never specified, but the archives reference 'the deep place' and 'the old door,' phrases that also appear in Shaman Nara's river spirit warning and Wayfinder Kai's sea spirit encounter. Mei Lin does not know about Nara or Kai. She thinks the clause is a historical curiosity. It is not.",
+        "payload": {
+          "summary": "A young scholar-strategist at the Great Academy in Jin'an. A woman in her late twenties who is brilliant, bookish, and socially clumsy. She was appointed to Cao Shen's advisory staff on the strength of her examination scores, which were the highest in a decade. She is not a fighter and does not pretend to be.",
+          "role": "Scholar-strategist, junior advisor",
+          "appearance": "A slight woman in plain scholar's robes, ink-stained fingers, and hair pinned hastily with a wooden pin. She carries scrolls everywhere and reads while walking, which has caused three collisions this month. Her spectacles are held on with a string.",
+          "visual_identity": {
+            "age": "late twenties",
+            "body_build": "slight, thin",
+            "hair": "black, hastily pinned",
+            "eyes": "dark brown, behind round spectacles",
+            "distinctive_features": "ink stains on right hand and fingertips, round spectacles on a string"
+          },
+          "affiliations": [
+            "org:jin-state"
+          ],
+          "desires": [
+            "To understand the full context of the original truce and the secret clause she found — she is a scholar before she is a strategist.",
+            "To earn a permanent position on Cao Shen's staff through merit, not politics."
+          ],
+          "fears_or_limits": [
+            "She has no political allies and has accidentally offended two senior advisors by correcting them in public. Her discovery about the secret clause could be politically explosive if she shares it with the wrong person."
+          ],
+          "current_state": {
+            "location": "location:jin-an"
+          }
+        }
+      },
+      {
+        "id": "character:merchant-zhou",
+        "name": "Merchant Zhou Ba",
+        "visibility": "shared",
+        "gm_notes": "Zhou Ba is a fence for stolen goods and a broker for information. He is the person Kuro the Smoke's stolen document will eventually be brought to, if Kuro survives long enough to reach Sangguo. Zhou Ba has contacts in every nation through the trade network. He is not evil — he is opportunistic. He will sell the document to whoever pays the most, which in this case is either Takeda (who wants it back) or Cao Shen (who would want to know what a Tsukuyomi daimyo is plotting). Zhou Ba has no preference.",
+        "payload": {
+          "summary": "A wealthy silk merchant in Jin'an's market district, with a side business in information and stolen goods. A fat, jolly man who dresses in fine silk and knows everyone. His shop is a front. His real business happens in the back room, over tea.",
+          "role": "Merchant and information broker",
+          "appearance": "A round, well-fed man in fine silk robes, a fan in one hand and a cup of tea in the other. He laughs easily and watches everything. His rings are expensive and his smile is professional. He smells of sandalwood and money.",
+          "visual_identity": {
+            "age": "late forties",
+            "body_build": "round, well-fed",
+            "hair": "black, oiled, topknot",
+            "eyes": "small, sharp, calculating",
+            "distinctive_features": "expensive jade rings on both hands, a gold tooth visible when smiling"
+          },
+          "affiliations": [],
+          "desires": [
+            "To profit from every transaction that crosses his path, whether it is silk, secrets, or stolen documents.",
+            "To maintain his neutrality, which is his most valuable asset."
+          ],
+          "fears_or_limits": [
+            "He has made enemies on all sides by selling to everyone. His neutrality protects him only as long as no one decides he is more dangerous alive than dead. He is a civilian with no combat skills."
+          ],
+          "current_state": {
+            "location": "location:jin-an"
+          }
+        }
+      },
+      {
+        "id": "character:monk-jian",
+        "name": "Monk Jian Yi",
+        "visibility": "shared",
+        "gm_notes": "Jian Yi has been cultivating chi for forty years and has reached a level most monks only read about. He can reinforce his body against blades, move faster than the eye follows, and project force at a distance. He has also seen something in meditation that disturbs him: a vision of something deep beneath the world, behind a door, stirring. He does not know what it is. He has begun walking toward Verdania because the vision came with a direction, and the direction is south. He does not know about Shaman Nara's river spirit warning, but he is walking toward her.",
+        "payload": {
+          "summary": "A wandering chi monk, old and powerful. A thin, bald man in rough robes who walks barefoot and carries a bamboo staff. He has been cultivating chi for forty years. He does not speak often, but when he does, people listen — sometimes because his words carry spiritual weight, and sometimes because they are unexpectedly funny.",
+          "role": "Wandering chi monk",
+          "appearance": "A thin, wiry man in faded grey robes, barefoot, with a bamboo staff. His head is shaved and tanned by decades of sun. He moves with a fluidity that is subtly wrong for his apparent age — the walk of someone whose body is reinforced by decades of chi cultivation.",
+          "visual_identity": {
+            "age": "sixties — moves like someone much younger",
+            "body_build": "thin, wiry, deceptively strong",
+            "skin": "weathered, sun-tanned",
+            "hair": "bald, shaved",
+            "eyes": "dark brown, calm",
+            "distinctive_features": "barefoot in all weather, a circular burn-scar on the right palm from a chi cultivation injury"
+          },
+          "affiliations": [],
+          "desires": [
+            "To understand the vision he has been seeing in meditation — something stirring behind a door deep beneath the world.",
+            "To reach Verdania, which the vision has been pulling him toward."
+          ],
+          "fears_or_limits": [
+            "He does not know what he is walking toward. His chi power is formidable but specific — he can fight, heal, and sense, but he has no political influence and no connections outside the monastic community."
+          ],
+          "current_state": {
+            "location": "location:sangguo"
+          }
+        }
+      },
+      {
+        "id": "character:wen-canalmaster",
+        "name": "Wen Li of the Canals",
+        "visibility": "shared",
+        "gm_notes": "Wen Li is a river-folk woman who manages the canal system that feeds Jin'an's grain supply. The canals are silting up because the truce diverted maintenance funds to the military. If the canals fail, Jin'an loses its food supply within a season. Wen Li has been writing reports to the warlord's court for two years and has been ignored. She is now considering sabotaging a canal to force the court to pay attention — a desperate act that would cause immediate food shortages but might save the system in the long run. She has not decided yet.",
+        "payload": {
+          "summary": "A river-folk canal master who maintains the water system feeding Jin'an's grain supply. A practical, weathered woman who has been fighting for maintenance funding for two years and losing. She knows the canals better than anyone alive, and she knows they are failing.",
+          "role": "Canal master, river-folk",
+          "appearance": "A compact river-folk woman in work clothes, her blue-green skin damp, her webbed hands calloused from rope and stone work. She carries a canal surveyor's rod and wears a waterproof jacket. She is usually wet to the elbows.",
+          "visual_identity": {
+            "age": "late thirties",
+            "body_build": "compact, strong",
+            "skin": "blue-green, smooth, slightly scaled",
+            "hair": "dark green-black, short, wet",
+            "eyes": "teal",
+            "distinctive_features": "webbed fingers and toes, gill-slits along the neck that close on land"
+          },
+          "affiliations": [
+            "org:jin-state"
+          ],
+          "desires": [
+            "To get the canal system repaired before it fails and Jin'an starves.",
+            "To prove that infrastructure is as important as armies, which no one in the warlord's court believes."
+          ],
+          "fears_or_limits": [
+            "She has no political power and has been ignored for years. Her idea of sabotaging a canal to force attention is becoming more appealing and more desperate. She is a civilian, not a fighter."
+          ],
+          "current_state": {
+            "location": "location:jin-an"
+          }
+        }
+      },
+      {
+        "id": "character:warlord-sun-liang",
+        "name": "Warlord Sun Liang",
+        "visibility": "shared",
+        "gm_notes": "Sun Liang is not a coward — he is a patient man who believes that time is on his side. Chu's economy is growing while Jin and Wei spend on military. He is correct about the economics, but he is wrong about the timeline. Cao Shen's illness means Jin's timeline is shorter than Sun Liang thinks, and Lu Fang's impatience means the truce may break before Chu's economic advantage matures. Sun Liang has also been secretly negotiating with Wei's heir — not for alliance against Jin, but for a future marriage alliance that would merge Chu's wealth with Wei's iron. If it works, the combined state would dominate Sangguo without a war. If Jin finds out, it looks like an alliance against them.",
+        "payload": {
+          "summary": "The warlord of Chu, the southern state of Sangguo. A calm, elegant man in his sixties who prefers trade to war and has built Chu's economy into the strongest in Sangguo. He is patient, generous with his allies, and merciless with his enemies' supply lines.",
+          "role": "Warlord of Chu",
+          "appearance": "An elegant man in fine silk robes, a jade pendant at his belt, a fan in his hand. He is slim, composed, and moves with the grace of someone trained in the martial arts who no longer needs to prove it. His beard is white and perfectly groomed.",
+          "visual_identity": {
+            "age": "sixties",
+            "body_build": "slim, elegant",
+            "hair": "white, topknot, groomed beard",
+            "eyes": "dark brown, warm but calculating",
+            "distinctive_features": "a jade pendant worn at the belt, ink-calligraphy stains on the right index finger"
+          },
+          "affiliations": [
+            "org:chu-state"
+          ],
+          "desires": [
+            "To make Chu's economic advantage insurmountable before the truce breaks, so that unification happens by merger, not conquest.",
+            "To secure a marriage alliance with Wei's heir that would combine their strengths."
+          ],
+          "fears_or_limits": [
+            "His strategy requires time, and time may be running out — Jin's military pressure is increasing. The Wei marriage negotiation is delicate and could be interpreted as an act of war by Jin."
+          ],
+          "current_state": {
+            "location": "location:sangguo"
+          }
+        }
+      },
+      {
+        "id": "character:apprentice-tari",
+        "name": "Apprentice Tari",
+        "visibility": "shared",
+        "gm_notes": "Tari has a gift that Nara has not seen in thirty years of teaching: she can hear spirits without a formal pact. They speak to her unbidden, sometimes spirits she has no relationship with. This is not entirely a blessing — the spirits do not always say things she wants to hear, and some of them are frightened. Tari has been hearing fragments of the same warning Nara's river spirit gave — 'the deep place' and 'the old door' — but from multiple spirits, not just one. She has not told Nara because she is afraid Nara will say she is too young to understand, and she is also afraid Nara will understand too well and do something dangerous.",
+        "payload": {
+          "summary": "A young shaman apprentice in Iara, studying under Shaman Nara. A girl of sixteen who is talented, anxious, and hearing things she does not want to hear. She has a gift for spirit-communication that is emerging faster than her training can keep up with.",
+          "role": "Shaman apprentice",
+          "appearance": "A slight girl in plain river-cloth, her arms not yet marked with pact-patterns — she is too young. Her hair is braided with river-grass, and she carries a pouch of offering-stones. She is usually near the water, listening to it.",
+          "visual_identity": {
+            "age": "sixteen",
+            "body_build": "slight, young",
+            "skin": "warm brown",
+            "hair": "black, braided with river-grass",
+            "eyes": "dark brown, wide",
+            "distinctive_features": "unmarked arms — no pact-patterns yet, a faint blue glow around the fingertips when spirit-listening"
+          },
+          "affiliations": [],
+          "desires": [
+            "To understand what she is hearing from the spirits without losing her apprenticeship or her nerve.",
+            "To prove to Nara that she is ready for her first spirit-pact, even though she is afraid."
+          ],
+          "fears_or_limits": [
+            "Her gift is emerging faster than her training. She is hearing frightened spirits and does not know how to protect herself from what they are frightened of. She is sixteen and alone with something she does not understand."
+          ],
+          "current_state": {
+            "location": "location:iara"
+          }
+        }
+      },
+      {
+        "id": "character:hunter-jaguar",
+        "name": "Kaa the Jaguar-kin",
+        "visibility": "shared",
+        "gm_notes": "Kaa has found something in the deep jungle: a temple entrance that was not there before. The jungle grew over it centuries ago, and something has cleared the vines away from the door in the last month. The door is stone, carved with symbols he does not recognize, and it is warm to the touch. He did not open it. He came back to Iara to tell Nara, but Nara has been preoccupied with the river spirit's warning and has not listened properly. Kaa is now sitting in a riverside tavern, drinking, and trying to decide whether to go back alone or wait for someone to take him seriously.",
+        "payload": {
+          "summary": "A jaguar-kin hunter of Verdania, one of the best in the deep jungle. A tall, powerfully built man with jaguar spots across his skin and yellow eyes. He is quiet, patient, and at home in the jungle in ways that make outsiders nervous.",
+          "role": "Hunter, jaguar-kin",
+          "appearance": "A tall, powerful man in minimal jungle gear — a loincloth, a hunter's belt, and a bone-tipped spear. His skin is covered in jaguar-spot patterns, natural to his kin. He moves through the jungle without sound, which is unsettling when you notice it.",
+          "visual_identity": {
+            "age": "mid-thirties",
+            "body_build": "tall, muscular, lean",
+            "skin": "tawny brown, rosette spots across the shoulders and back",
+            "hair": "black, short, coarse",
+            "eyes": "amber-yellow, slit-pupiled",
+            "distinctive_features": "jaguar-spot skin markings, elongated canines, a notched left ear from a jungle fight"
+          },
+          "affiliations": [],
+          "desires": [
+            "To understand what he found in the deep jungle — a temple door that was not open before and is warm to the touch.",
+            "To get someone to take him seriously enough to go back with a proper team."
+          ],
+          "fears_or_limits": [
+            "He is a hunter, not a scholar or a shaman. He does not understand what he found. The jungle is dangerous enough without ancient doors opening on their own. He is drinking, which is not a coping mechanism he can sustain."
+          ],
+          "current_state": {
+            "location": "location:iara"
+          }
+        }
+      },
+      {
+        "id": "character:explorer-dr-voss",
+        "name": "Dr. Voss Alemann",
+        "visibility": "shared",
+        "gm_notes": "Voss is from Valdris — a human academic who came to Verdania to study the temple cities. He has been here for three years and has made progress that the local tribes find unsettling: he has been mapping the temple network and has found a pattern that suggests the temples are not random — they form a grid, and the grid converges on a point deep in the jungle that no one has explored. The point is the same direction that Kaa found his warm door, and the same direction Monk Jian Yi is walking. Voss does not know about Kaa or Jian Yi. He wants to mount an expedition, but the tribal council will not authorize it because the deep jungle is sacred ground.",
+        "payload": {
+          "summary": "A human academic from Valdris, living in Iara to study the temple cities of the old civilization. A middle-aged man with a scholar's build and an explorer's obsession. He is well-meaning, slightly oblivious to local politics, and deeply curious about things that may be better left alone.",
+          "role": "Academic explorer",
+          "appearance": "A thin, sunburnt man in explorer's clothes — canvas trousers, a linen shirt, and a wide hat. He carries a leather satchel full of notebooks and a compass. His Valdris accent is strong and his jungle skills are improving but not great.",
+          "visual_identity": {
+            "age": "late forties",
+            "body_build": "thin, wiry",
+            "skin": "pale, sunburnt on the nose and forearms",
+            "hair": "brown, thinning, sun-bleached",
+            "eyes": "blue, near-sighted",
+            "distinctive_features": "round spectacles, a leather satchel always over the shoulder, mosquito bites on both arms"
+          },
+          "affiliations": [],
+          "desires": [
+            "To map the temple network and find the convergence point he has calculated — the place where all the temple sites align.",
+            "To prove his theory that the old civilization was not destroyed but deliberately sealed something."
+          ],
+          "fears_or_limits": [
+            "The tribal council will not authorize a deep jungle expedition. He is not a fighter and has no survival skills beyond basic camp craft. His obsession with the convergence point is making him careless about local sensitivities."
+          ],
+          "current_state": {
+            "location": "location:iara"
+          }
+        }
+      },
+      {
+        "id": "character:river-trader-amara",
+        "name": "Amara of the Long Boat",
+        "visibility": "shared",
+        "gm_notes": "Amara is the person who connects Verdania to the outside world. Her boat is one of the few that travels the full river from the Mist Falls to Iara and back. She has noticed that the river's behavior is changing — currents are shifting, fish patterns are altering, and the river spirits she makes small offerings to are restless. She carries mail, news, and goods between the jungle edge and the river capital. She is also Kaa's cousin and has been trying to get him to stop drinking and tell her what he found.",
+        "payload": {
+          "summary": "A river-folk trader who runs a long boat between the Mist Falls trading post and Iara. A practical, weathered woman who knows the river the way a wayfinder knows the sea. She carries goods, news, and mail, and she is the closest thing Verdania has to a postal service.",
+          "role": "River trader, river-folk",
+          "appearance": "A stocky river-folk woman in waterproof river-cloth, her blue-green skin wind-dried and sun-darkened. She poles her boat with a strength that surprises people who judge by her height. She wears a necklace of river-stones, one for each year on the water.",
+          "visual_identity": {
+            "age": "early forties",
+            "body_build": "stocky, strong",
+            "skin": "blue-green, sun-darkened",
+            "hair": "dark green, braided tight",
+            "eyes": "teal",
+            "distinctive_features": "webbed hands, a necklace of seventeen river-stones, a faded tattoo of a river-spirit sigil on the left shoulder"
+          },
+          "affiliations": [],
+          "desires": [
+            "To keep her trade route running as the river changes, and to understand why the river spirits are restless.",
+            "To get her cousin Kaa to tell her what he found in the deep jungle before he drinks himself into uselessness."
+          ],
+          "fears_or_limits": [
+            "The river is changing and her route may become impassable. She is a trader, not a shaman or a fighter. Her boat is her livelihood and her only asset."
+          ],
+          "current_state": {
+            "location": "location:verdania"
+          }
+        }
+      },
+      {
+        "id": "character:chief-oron",
+        "name": "Chief Oron of Iara",
+        "visibility": "shared",
+        "gm_notes": "Oron is a politician, not a shaman. He respects Nara but is tired of her spiritual warnings taking priority over practical problems. The city is flooding, people need housing, and the council spends its time discussing spirit-pacts. He has been quietly building support to relocate Iara upstream, away from the rising river — a massive undertaking that would split the community. He does not believe the river spirit's warning is about something supernatural; he thinks it is about the river flooding, which is a problem engineering can solve, not magic.",
+        "payload": {
+          "summary": "The elected chief of Iara, a man in his fifties who governs the river capital. Practical, political, and increasingly frustrated with the shamans' influence over council decisions. He wants to solve the flooding with engineering, not spirit-pacts.",
+          "role": "Chief of Iara",
+          "appearance": "A stocky, sun-darkened man in fine river-cloth and featherwork — the marks of his office. He carries a chief's staff of carved driftwood. He is usually in the council hall, arguing. He has a loud voice and uses it.",
+          "visual_identity": {
+            "age": "mid-fifties",
+            "body_build": "stocky, broad",
+            "skin": "deep brown",
+            "hair": "grey, close-cropped",
+            "eyes": "dark brown",
+            "distinctive_features": "a chief's featherwork collar, a ritual scar on the left cheek marking his election"
+          },
+          "affiliations": [],
+          "desires": [
+            "To relocate Iara upstream before the river takes the lower districts, with or without the council's agreement.",
+            "To reduce the shamans' influence over civic decisions, which he believes is keeping the city from acting."
+          ],
+          "fears_or_limits": [
+            "The shamans have more influence than he does with the people. Relocating the city splits the community. He may be right about the engineering and wrong about the supernatural — and being wrong about the supernatural in Verdania has consequences."
+          ],
+          "current_state": {
+            "location": "location:iara"
+          }
+        }
+      },
+      {
+        "id": "character:volva-helga",
+        "name": "Volva Helga",
+        "visibility": "shared",
+        "gm_notes": "Helga has seen the same thing in her seidr visions that Shaman Nara's river spirit warned about and Monk Jian Yi has been seeing in meditation: something behind a door, deep beneath the world, stirring. She has also seen something else — a figure walking south through Sangguo, barefoot, which she recognizes as a chi monk of significant power. She does not know who he is, but the vision tells her his path and hers will cross, and that the crossing matters. She has begun traveling toward Verdania, following the vision.",
+        "payload": {
+          "summary": "A volva — a wise woman and seer — of Hrafnland. An old woman who reads runes, sees visions, and is respected and slightly feared by everyone in Skaldvik. She lives in a hut outside the town and comes in when the visions demand it. She is currently in Skaldvik because the visions have been demanding it.",
+          "role": "Volva (seer, wise woman)",
+          "appearance": "An old woman in layers of wool and fur, a pouch of runestones at her belt. She walks with a staff carved with runes that glow faintly in the dark. Her eyes are milky — her sight is going physical, but her seidr sight is sharper than ever.",
+          "visual_identity": {
+            "age": "seventies",
+            "body_build": "thin, wiry",
+            "hair": "white, long, loose",
+            "eyes": "pale blue, milky",
+            "distinctive_features": "rune-carved staff that glows faintly, clouded eyes, ritual tattoos on both hands"
+          },
+          "affiliations": [],
+          "desires": [
+            "To understand the vision of something stirring behind a door beneath the world, and to find the chi monk she saw walking south.",
+            "To reach Verdania, where she believes the door is."
+          ],
+          "fears_or_limits": [
+            "Her physical sight is failing. Her visions are becoming more intense and less controlled — they come unbidden now. She is old and the journey to Verdania is long."
+          ],
+          "current_state": {
+            "location": "location:skaldvik"
+          }
+        }
+      },
+      {
+        "id": "character:shipwright-tor",
+        "name": "Tor Longkeel",
+        "visibility": "shared",
+        "gm_notes": "Tor's wife was on a fishing boat that vanished near the deep fjords two months ago — one of the villages Sigrid has been worried about. The boat was found empty, no signs of violence. Tor has been building a longship in his yard, not for trade but for a voyage into the deep fjords to find her. He has not told Jarl Sigrid because he does not want to be stopped. He has been gathering supplies quietly and has recruited three other men who lost family on the same boat.",
+        "payload": {
+          "summary": "A master shipwright in Skaldvik, building longships for the jarl's fleet. A big, quiet man who works with his hands and says what he means. He is currently building a longship in his private yard — not for the jarl, but for himself. He will not say where it is going.",
+          "role": "Master shipwright",
+          "appearance": "A big man in a leather apron, sawdust in his beard, his hands huge and calloused from decades of woodwork. He smells of pine tar and wood shavings. He is quiet — not unfriendly, just economical with words.",
+          "visual_identity": {
+            "age": "early fifties",
+            "body_build": "big, broad-shouldered",
+            "height": "tall",
+            "hair": "brown, greying, sawdust-dusted",
+            "eyes": "blue",
+            "distinctive_features": "a woodworker's calluses on both hands, a missing ring finger on the left hand from a saw accident"
+          },
+          "affiliations": [],
+          "desires": [
+            "To find his wife, who vanished on a fishing boat near the deep fjords two months ago.",
+            "To build the ship that will take him there, regardless of what the jarl says."
+          ],
+          "fears_or_limits": [
+            "He is going into the deep fjords, where Sigrid's scouts have not returned from. He is a shipwright, not a warrior. He is driven by grief, which is not the same as courage."
+          ],
+          "current_state": {
+            "location": "location:skaldvik"
+          }
+        }
+      },
+      {
+        "id": "character:skald-ravn",
+        "name": "Skald Ravn",
+        "visibility": "shared",
+        "gm_notes": "Ravn has been composing an epic about the frost giants that is not entirely flattering to the giants — and not entirely accurate, because Ravn has been embellishing for dramatic effect. The giants, who have oral traditions of their own, have heard about the poem and are offended. A giant emissary has come to Skaldvik not to threaten but to complain — formally, in the way that giants complain, which is by sitting outside the settlement and refusing to leave until the offending poem is corrected. Ravn thinks this is hilarious. Sigrid does not.",
+        "payload": {
+          "summary": "A skald — a poet and storyteller — of Skaldvik. A thin, dramatic man in his thirties who carries a lyre and a reputation. He knows every saga, can improvise verse on any subject, and has opinions about everything. He is the social glue of the mead hall and the biggest mouth in Hrafnland.",
+          "role": "Skald (poet, storyteller)",
+          "appearance": "A thin, animated man in colorful wool — more colorful than is strictly practical in Hrafnland. He carries a lyre everywhere and plays it at every opportunity. His hair is long and he has a performer's sense of when to pause.",
+          "visual_identity": {
+            "age": "mid-thirties",
+            "body_build": "thin, lanky",
+            "height": "tall",
+            "hair": "red, long, flowing",
+            "eyes": "green",
+            "distinctive_features": "a lyre always in hand, ink-stained fingers from composing, a silver ear ring"
+          },
+          "affiliations": [],
+          "desires": [
+            "To compose the greatest saga of his generation — and to survive the political consequences of the sagas he has already composed.",
+            "To be the first skald to witness a frost giant up close and live to tell the poem."
+          ],
+          "fears_or_limits": [
+            "His poem about the frost giants has offended them, and a giant emissary is sitting outside Skaldvik demanding corrections. He is a poet, not a fighter. His mouth is faster than his judgment."
+          ],
+          "current_state": {
+            "location": "location:skaldvik"
+          }
+        }
+      },
+      {
+        "id": "character:giant-emissary-frost",
+        "name": "Grimvard the Patient",
+        "visibility": "shared",
+        "gm_notes": "Grimvard is not a warrior — he is a frost giant elder, a keeper of their oral history. He has come to Skaldvik not to threaten but to correct the record: Ravn's poem has the giants' history wrong, and giants take their history seriously. He is sitting outside the town because he is too large for the buildings and because sitting is the giants' way of saying 'I will wait.' He is willing to talk. He is not willing to leave until the poem is corrected. If Sigrid asks the right questions, Grimvard knows things about the deep mountains that her scouts did not survive to report.",
+        "payload": {
+          "summary": "A frost giant emissary, sitting outside Skaldvik. Twelve feet tall, grey-skinned, wrapped in furs, patient as stone. He is not here to fight — he is here because a skald's poem got the giants' history wrong, and giants take their sagas seriously. He will wait as long as it takes.",
+          "role": "Frost giant elder, emissary",
+          "appearance": "A towering figure, grey-skinned and broad, wrapped in layers of white fur. He sits cross-legged outside the town walls, his hands on his knees, and does not move. His eyes are pale blue, ancient, and unbothered. He speaks rarely, in a voice like grinding ice.",
+          "visual_identity": {
+            "age": "ancient — frost giants live centuries",
+            "body_build": "massive, broad, twelve feet tall",
+            "skin": "grey, cold to look at",
+            "hair": "white, long, matted with frost",
+            "eyes": "pale blue, ancient",
+            "distinctive_features": "ritual scarring on both cheeks, frost crystals in the beard that never melt"
+          },
+          "affiliations": [],
+          "desires": [
+            "To have the skald's poem corrected — the giants' history must be told accurately, or not at all.",
+            "To maintain the peace between giants and humans, which he believes serves both peoples."
+          ],
+          "fears_or_limits": [
+            "He is one giant sitting outside a human town, and not all humans are as patient as he is. He cannot enter the buildings. His size makes communication awkward and his presence makes people nervous even though he means no harm."
+          ],
+          "current_state": {
+            "location": "location:skaldvik"
+          }
+        }
+      },
+      {
+        "id": "character:young-jarl-erik",
+        "name": "Jarl Erik Stone-eye",
+        "visibility": "shared",
+        "gm_notes": "Erik is Sigrid's rival on the Althing council — a young jarl from the southern fjords who opposes her coalition against the giants. He does not believe the giants are a threat and thinks Sigrid is using them as an excuse to consolidate power. He is not wrong to be suspicious of Sigrid's motives, but he is wrong about the giants. Erik has been quietly gathering support to block Sigrid's coalition at the next Althing, and he has enough support to force a stalemate. He does not know about the abandoned village — if he did, it would change his position.",
+        "payload": {
+          "summary": "A young jarl from Hrafnland's southern fjords, in his early thirties. Handsome, opinionated, and suspicious of Sigrid's coalition. He opposes action against the frost giants and believes Sigrid is using the threat to consolidate power. He is a political rival, not an enemy — but rivals can become enemies fast in Hrafnland.",
+          "role": "Jarl of the southern fjords",
+          "appearance": "A young, handsome man in fine fur and iron, a throwing axe at his belt. He has a jarl's bearing and a younger man's certainty. His left eye is pale and unseeing — the stone-eye that gives him his name — and he wears an eyepatch of polished slate.",
+          "visual_identity": {
+            "age": "early thirties",
+            "body_build": "lean, fit, athletic",
+            "height": "tall",
+            "hair": "blond, braided",
+            "eyes": "right eye blue, left eye pale and unseeing",
+            "distinctive_features": "a polished slate eyepatch over the left eye, a young jarl's silver arm-ring"
+          },
+          "affiliations": [],
+          "desires": [
+            "To block Sigrid's coalition at the Althing and prevent what he sees as an unnecessary war with the frost giants.",
+            "To position himself as the voice of the southern fjords, which feel ignored by the north."
+          ],
+          "fears_or_limits": [
+            "He is wrong about the giants' intentions, but his political instincts about Sigrid's consolidation are not entirely wrong. If he blocks action and the giants are a threat, the blood is on his hands. He does not know about the abandoned village."
+          ],
+          "current_state": {
+            "location": "location:hrafnland"
+          }
+        }
+      },
+      {
+        "id": "character:djinn-zuhayr",
+        "name": "Zuhayr the Patient",
+        "visibility": "shared",
+        "gm_notes": "Zuhayr is not malicious. He is a djinn of fire and law, and the contract is real — Malik's grandfather agreed to it, and the terms are clear. Zuhayr does not want to collect Malik. He would prefer a renegotiation, because Malik is interesting and a bound servant who resents you is less useful than a willing partner. But the contract has terms, and the terms have a deadline, and Zuhayr cannot extend the deadline unilaterally — djinn law is as binding on djinn as it is on humans. If Malik does not renegotiate before the deadline, Zuhayr must collect. He is, genuinely, on Malik's side, which makes him the most dangerous kind of creditor: one who wants to help but cannot.",
+        "payload": {
+          "summary": "A djinn — a fire-spirit of the desert, bound to the Idris family by a contract three generations old. He appears as a figure of blue fire in human form, or as a pillar of flame, or as a man with skin like cracked obsidian. He is patient, polite, and entirely bound by the contract's terms. He has been appearing to Malik to remind him that the deadline is approaching.",
+          "role": "Djinn, bound by contract to the Idris family",
+          "appearance": "A figure that shifts between forms — sometimes a man with skin like dark obsidian cracked with lines of blue fire, sometimes a pillar of blue flame wearing clothes, sometimes just heat shimmer in the air. When he chooses a human form, he is tall, composed, and dresses in the style of a desert scholar. His eyes are always fire.",
+          "visual_identity": {
+            "age": "ancient — djinn are older than human civilization",
+            "body_build": "tall, composed",
+            "skin": "dark obsidian with cracks of blue fire (in true form); warm brown (in human form)",
+            "hair": "black, or flame, depending on form",
+            "eyes": "blue fire, always",
+            "distinctive_features": "skin that sometimes shows cracks of blue fire, a faint smell of ozone and hot sand, heat shimmer around the hands"
+          },
+          "affiliations": [
+            "org:binding-families"
+          ],
+          "desires": [
+            "To resolve the contract with Malik — preferably through renegotiation, because Malik is more useful as a willing partner than as a bound servant. But the deadline is real, and Zuhayr cannot extend it alone.",
+            "To maintain the Pact of the Lamp, which preserves the peace between the city-states and which he helped design."
+          ],
+          "fears_or_limits": [
+            "He is bound by djinn law as strictly as humans are bound by the contract. He cannot extend the deadline without a renegotiation, and a renegotiation requires Malik to initiate. If the contract is broken by force, the Pact of the Lamp may fracture."
+          ],
+          "current_state": {
+            "location": "location:zaffar"
+          }
+        }
+      },
+      {
+        "id": "character:fatima-idris",
+        "name": "Fatima Idris",
+        "visibility": "shared",
+        "gm_notes": "Fatima discovered Malik's research notes three days ago. She is not bound by the contract — she is the second child — but she has her own reasons for wanting the family's debts exposed: the binding families' power is built on contracts that are quietly crushing them, and Fatima believes the system is unsustainable. She wants to reform the binding families from within, which means breaking the secrecy around the contracts. She is not above using Malik's desperation as a catalyst. She loves her brother, but she also sees him as useful to her larger cause. She has not told Malik she found his notes.",
+        "payload": {
+          "summary": "Malik's younger sister, in her late teens. Sharp, political, and frustrated with her family's culture of secrecy. She is not bound by the family's oldest contract — only firstborns are — and she sees that as both a freedom and an injustice. She has opinions about the binding families' system that would scandalize the council.",
+          "role": "Binding-family daughter, political reformer",
+          "appearance": "A young woman in fine desert robes — deep blue and silver, less flashy than her brother's. She carries a book of contract law under her arm and has ink on her fingers. She is quieter than Malik and pays closer attention. She watches her brother the way a chess player watches a piece.",
+          "visual_identity": {
+            "age": "late teens",
+            "body_build": "slim, small",
+            "skin": "warm brown",
+            "hair": "dark, long, braided",
+            "eyes": "dark brown, sharp",
+            "distinctive_features": "ink stains on the right hand from studying contract law, a small silver nose-stud"
+          },
+          "affiliations": [
+            "org:binding-families"
+          ],
+          "desires": [
+            "To reform the binding families' system of djinn contracts, which she believes is secretly destroying them.",
+            "To help her brother, but also to use his situation as proof that the system is broken — which means she needs his crisis to become public before she can fix it."
+          ],
+          "fears_or_limits": [
+            "She is young and has no political power yet. Exposing the contracts would scandalize the council and could get her disowned. Her brother does not know what she knows, and she has not decided whether to tell him."
+          ],
+          "current_state": {
+            "location": "location:zaffar"
+          }
+        }
+      },
+      {
+        "id": "character:spice-merchant-layla",
+        "name": "Layla the Spice Queen",
+        "visibility": "shared",
+        "gm_notes": "Layla is the richest merchant in Zaffar and sits on the city council. She is not a binder — she has no djinn contracts — but she has built her trade network by being smarter and faster than the binding families, who rely on djinn power instead of business sense. She sees the binding families' debt problem as an opportunity: if they collapse, their trade networks become available. She is not malicious, but she is opportunistic. She has noticed Malik's distress and is watching, waiting to see if the family cracks so she can pick up the pieces. She would also help Malik if he came to her — for a price.",
+        "payload": {
+          "summary": "The wealthiest spice merchant in Zaffar, and the only council member who is not a binder. A woman in her sixties who built her trade empire without djinn contracts, through sheer business sense. She is formidable, elegant, and watching the binding families' problems with the patience of a cat at a mouse hole.",
+          "role": "Spice merchant, council member",
+          "appearance": "An elegant older woman in rich desert silks — amber and burgundy — with gold jewelry at the wrists and neck. She moves slowly, deliberately, and speaks in a voice that carries across a market without raising. She smells of saffron and authority.",
+          "visual_identity": {
+            "age": "mid-sixties",
+            "body_build": "slim, elegant, straight-backed",
+            "skin": "deep brown, sun-lined",
+            "hair": "silver, covered by a silk headscarf",
+            "eyes": "dark brown, sharp",
+            "distinctive_features": "gold bracelets on both wrists, a spice-stain on the left thumb that never quite fades, henna patterns on both hands"
+          },
+          "affiliations": [],
+          "desires": [
+            "To expand her trade network by picking up the pieces if the binding families' system weakens.",
+            "To prove that commerce, not djinn power, is the real foundation of Al-Khayzar's prosperity."
+          ],
+          "fears_or_limits": [
+            "The binding families still control the Pact of the Lamp, and the djinn enforce it. If she moves too aggressively against them, the djinn may act. She is powerful in trade but has no magical protection."
+          ],
+          "current_state": {
+            "location": "location:zaffar"
+          }
+        }
+      },
+      {
+        "id": "character:desert-guide-rashid",
+        "name": "Rashid the Sand-walker",
+        "visibility": "shared",
+        "gm_notes": "Rashid knows the deep desert better than anyone alive — the routes between oases that do not appear on maps, the places where the sand shifts and the Old Road fragments surface after storms. He has found a working fragment of the Old Road in the deep desert — a short stretch, maybe two hours of walking, that connects the Mirror Oasis to a point near the Verdania border. He has not told anyone because a working Old Road fragment is the most valuable secret in Gaia, and he is deciding who to sell it to. He is also slightly frightened of it, because the fragment hums, and the hum sounds like a voice.",
+        "payload": {
+          "summary": "A desert guide in Al-Khayzar who knows the deep desert routes that do not appear on maps. A lean, weathered man who has spent more of his life under the open sky than under a roof. He is quiet, capable, and knows things about the desert that the binding families would pay handsomely to learn.",
+          "role": "Desert guide",
+          "appearance": "A lean, weathered man in desert robes — sun-bleached and sand-worn, wrapped against the heat. His face is deeply lined and his eyes are narrowed against a sun that is no longer there. He carries a waterskin and a staff and moves through sand as if it were pavement.",
+          "visual_identity": {
+            "age": "mid-forties",
+            "body_build": "lean, wiry, endurance-built",
+            "skin": "deeply tanned, wind-weathered",
+            "hair": "black, greying, wrapped in a desert headwrap",
+            "eyes": "dark brown, permanently narrowed",
+            "distinctive_features": "sun-wrinkles deep around the eyes, a sand-scar on the left cheek from a dust storm, a tattoo of a compass rose on the right forearm"
+          },
+          "affiliations": [],
+          "desires": [
+            "To sell his knowledge of the working Old Road fragment to the right person for the right price.",
+            "To understand why the fragment hums like a voice, which is not how Old Roads are supposed to behave."
+          ],
+          "fears_or_limits": [
+            "A working Old Road fragment is the most valuable secret in Gaia, and everyone he tells becomes a threat or a competitor. The hum frightens him — Old Roads are silent, and this one is not."
+          ],
+          "current_state": {
+            "location": "location:al-khayzar"
+          }
+        }
+      },
+      {
+        "id": "character:judge-tariq",
+        "name": "Judge Tariq al-Mir",
+        "visibility": "shared",
+        "gm_notes": "Tariq is the Pact of the Lamp's enforcer — not through violence but through law. He is the judge who interprets contract disputes between binding families and djinn. He is honest, incorruptible, and absolutely bound by precedent. If Malik comes to him for a legal remedy, Tariq will help — but only within the law, and the law may not have a remedy for a contract this old. Tariq has noticed that the oldest contracts are becoming unstable — the djinn are restive, the terms are fraying, and the precedent he relies on was written for a world that no longer exists. He is worried, and a worried judge in Al-Khayzar is a dangerous thing.",
+        "payload": {
+          "summary": "A judge of Al-Khayzar, the foremost authority on contract law and the Pact of the Lamp. A tall, grave man in judge's robes — dark blue and gold — who speaks in measured sentences and means every word. He is honest, which in Zaffar makes him unusual, and he is worried, which in Zaffar makes him dangerous.",
+          "role": "Judge, expert in contract law and the Pact",
+          "appearance": "A tall, grave man in formal judge's robes, a law scroll case at his belt. He moves deliberately, speaks precisely, and has the stillness of someone who has spent decades listening to liars. His beard is white and trimmed. He carries the law the way soldiers carry swords.",
+          "visual_identity": {
+            "age": "sixties",
+            "body_build": "tall, straight-backed",
+            "skin": "warm brown",
+            "hair": "white, short beard, uncovered",
+            "eyes": "dark brown, steady",
+            "distinctive_features": "a judge's signet ring on the right index finger, ink stains on the left hand, a small scar on the forehead from a courtroom incident years ago"
+          },
+          "affiliations": [],
+          "desires": [
+            "To maintain the Pact of the Lamp and the legal order it provides, which is the only thing keeping Al-Khayzar's city-states from war.",
+            "To find a legal remedy for the oldest djinn contracts before they begin to break — because when contracts break in Al-Khayzar, djinn collect, and collection is not always clean."
+          ],
+          "fears_or_limits": [
+            "The law may not have a remedy for Malik's contract — it was written three generations ago under different precedents. He is honest, which means he will not bend the law to help someone he sympathizes with. His integrity is his strength and his limitation."
+          ],
+          "current_state": {
+            "location": "location:zaffar"
+          }
+        }
+      },
+      {
+        "id": "character:chief-lani",
+        "name": "Chief Lani of Lani Atoll",
+        "visibility": "shared",
+        "gm_notes": "Lani is Kai's mother — a fact she has deliberately kept out of her governance to avoid accusations of nepotism, and which Kai has respected by never invoking it publicly. She is the one who must decide what happens to the forty families displaced by the latest island submergence, and she has nowhere to put them. She has been secretly negotiating with Verdania's Chief Oron to accept island refugees, which would be politically explosive if the other islands found out — the Archipelago's identity is built on self-sufficiency.",
+        "payload": {
+          "summary": "The chief of Lani Atoll, the central gathering island of the Tide Archipelago. A woman in her fifties who has led her island through twenty years of gradual crisis. She is warm, decisive, and carrying more than she shows. The meeting house on her island is still open to all, but the shore is closer to the door than it was last year.",
+          "role": "Chief of Lani Atoll",
+          "appearance": "A sturdy, sun-darkened woman in fine island cloth and a chief's whale-bone necklace. She moves with the authority of someone who has been making hard decisions for decades. Her arms are tattooed with the route-maps of her youth — she was a wayfinder before she was a chief.",
+          "visual_identity": {
+            "age": "mid-fifties",
+            "body_build": "sturdy, strong",
+            "skin": "deep tan",
+            "hair": "black, greying, long, loose",
+            "eyes": "dark brown",
+            "distinctive_features": "a chief's whale-bone necklace, wayfinder tattoos on both arms (faded), a small scar on the left calf from a shark encounter"
+          },
+          "affiliations": [
+            "org:wayfinder-guilds"
+          ],
+          "desires": [
+            "To find a home for the displaced islanders before the next storm displaces more.",
+            "To keep the Archipelago's community intact through the crisis — self-sufficiency is their identity, and asking for outside help would change who they are."
+          ],
+          "fears_or_limits": [
+            "She is secretly negotiating with Verdania for refugee placement, which would be politically explosive. She is Kai's mother and cannot favor him publicly. The water is still rising and her options are shrinking."
+          ],
+          "current_state": {
+            "location": "location:lani-atoll"
+          }
+        }
+      },
+      {
+        "id": "character:elder-wayfinder-pua",
+        "name": "Elder Wayfinder Pua",
+        "visibility": "shared",
+        "gm_notes": "Pua is the keeper of the oldest songs — the deep-water songs that can call whales, calm storms, and, according to legends she does not share publicly, speak to the sea itself. She has not sung the deepest song in forty years because the last time she did, the sea answered, and the answer frightened her. The sea is not a spirit in the way river spirits are — it is vast, old, and does not think in the way people think. It responded to the song with something that was not words but was not silence, and Pua has been careful not to sing it again. She is now considering whether the rising seas require her to sing it, despite the risk.",
+        "payload": {
+          "summary": "An elder wayfinder, the oldest in the Archipelago. A woman in her seventies who has sailed every route and sung every song. She taught Kai and most of the active wayfinders. She is small, quiet, and carries more knowledge than anyone realizes — including songs she has never taught because she is afraid of what they do.",
+          "role": "Elder wayfinder, song-keeper",
+          "appearance": "A small, weathered woman in simple island cloth, her arms covered in faded tattoos so old they have blurred to blue shadows. She carries a wayfinder's staff that is older than she is, dark with salt and handling. She moves slowly but her eyes are sharp.",
+          "visual_identity": {
+            "age": "seventies",
+            "body_build": "small, wiry, weathered",
+            "skin": "deep tan, sun-weathered",
+            "hair": "white, short, salt-stiff",
+            "eyes": "dark brown, bright",
+            "distinctive_features": "faded tattoo patterns covering both arms — the oldest routes, barely visible, a wayfinder's staff dark with age"
+          },
+          "affiliations": [
+            "org:wayfinder-guilds"
+          ],
+          "desires": [
+            "To decide whether to sing the deepest song — the one that speaks to the sea itself — to ask why the water is rising.",
+            "To pass on the old songs before she dies, including the ones she has never taught, which means finding someone she trusts with dangerous knowledge."
+          ],
+          "fears_or_limits": [
+            "The last time she sang the deepest song, the sea answered in a way that frightened her. She is old and may not survive the strain of singing it again. The songs she has never taught could be misused — they are powerful, and power in the wrong hands is worse than no power."
+          ],
+          "current_state": {
+            "location": "location:lani-atoll"
+          }
+        }
+      },
+      {
+        "id": "character:tattoo-artist-mana",
+        "name": "Mana the Tattoo-carver",
+        "visibility": "shared",
+        "gm_notes": "Mana's tattoo work is more than art — each route-map she carves into a wayfinder's skin creates a real connection between the wayfinder and the routes. When a route is lost to rising seas, the wayfinder who carries it feels the loss as a physical ache in the tattoo. Mana has been feeling aches in her own arms all year — she carries twenty routes, and three have gone silent. She believes the route-maps are not just records but anchors — that the tattoos help hold the routes in existence. If the tattoos fade or the wayfinder dies, the route weakens. She has not told the guild because the implication is that wayfinders are not just navigating the sea — they are holding it together, and that is a burden the guild is not ready to hear.",
+        "payload": {
+          "summary": "The tattoo artist of Lani Atoll, a woman in her forties who carves the route-maps into wayfinders' skin. Her work is art, craft, and something more — the tattoos are not just records, they are connections. She is quiet, skilled, and carrying a theory about the rising seas that no one has asked her for.",
+          "role": "Tattoo artist, route-carver",
+          "appearance": "A stocky woman in work clothes, her arms covered in the tattoo patterns she has carved on others — a tradition that artists carry the routes they inscribe. She holds a bone tattooing needle and ink made from volcanic soot. Her hands are steady and her eyes are kind.",
+          "visual_identity": {
+            "age": "early forties",
+            "body_build": "stocky, strong-armed",
+            "skin": "deep tan",
+            "hair": "black, short, practical",
+            "eyes": "dark brown, kind",
+            "distinctive_features": "tattoo patterns covering both arms — twenty routes, three faded where islands have submerged, a bone tattooing needle always in hand or behind the ear"
+          },
+          "affiliations": [
+            "org:wayfinder-guilds"
+          ],
+          "desires": [
+            "To understand why the tattoos that mark submerged routes are aching — and whether the wayfinders are holding the sea-routes in existence by carrying them.",
+            "To preserve the route-maps before more are lost, which means carving them on more people, which means teaching more wayfinders."
+          ],
+          "fears_or_limits": [
+            "Her theory — that wayfinder tattoos are anchors for the routes themselves — implies that the rising seas are connected to the loss of wayfinders and routes, not just the other way around. This is a dangerous idea. She is an artist, not a scholar, and she does not know how to prove it."
+          ],
+          "current_state": {
+            "location": "location:lani-atoll"
+          }
+        }
+      },
+      {
+        "id": "character:whale-speaker-fin",
+        "name": "Fin the Whale-speaker",
+        "visibility": "shared",
+        "gm_notes": "Fin has been hearing something from the whales that frightens him: the great whales are leaving. Not migrating — leaving. They are swimming south, past the Archipelago, past Verdania, toward the open southern ocean, and they are not coming back. The whales have been the Archipelago's allies for centuries — they guide wayfinders, warn of storms, and carry messages. Without them, voyaging becomes vastly more dangerous. Fin has tried to ask why they are leaving. The whales answer in images, not words, and the images they have been sending are: deep water, a door, and something behind it that is waking up. The same images Nara's river spirit sent, the same vision Jian Yi and Helga have seen.",
+        "payload": {
+          "summary": "A young man of the Tide Archipelago who can speak to whales — a rare gift that runs in certain families. He is in his early twenties, quiet, and uncomfortable with the attention his gift brings. He is usually found at the water's edge, listening to things that are too far away for anyone else to hear.",
+          "role": "Whale-speaker",
+          "appearance": "A lean young man in simple island cloth, barefoot, sitting at the water's edge. He has the distant look of someone who is always half-listening to something else. His skin is dark and his hair is salt-bleached. He carries a conch shell horn for calling whales.",
+          "visual_identity": {
+            "age": "early twenties",
+            "body_build": "lean, wiry",
+            "skin": "deep tan, sun-dark",
+            "hair": "bleached blonde from salt and sun, shaggy",
+            "eyes": "grey-blue, distant",
+            "distinctive_features": "a conch shell horn worn on a cord around the neck, webbed toes (a minor birth trait common in whale-speaker families), a far-listening expression"
+          },
+          "affiliations": [
+            "org:wayfinder-guilds"
+          ],
+          "desires": [
+            "To understand why the whales are leaving the Archipelago — they have been allies for centuries and their departure endangers everyone.",
+            "To translate what the whales are showing him — images of deep water, a door, and something waking — into something people can act on."
+          ],
+          "fears_or_limits": [
+            "The whales are leaving and he cannot stop them. The images they send are not words — he has to interpret them, and he is not certain he is interpreting correctly. He is young and his gift isolates him — most people think whale-speaking is a myth."
           ],
           "current_state": {
             "location": "location:lani-atoll"
@@ -808,6 +2061,126 @@
           "bond": "Cao Shen suspects Lu Fang's loyalty is to the idea of a unified Sangguo, not specifically to Cao Shen. If Cao Shen dies before reunification, Lu Fang may pursue it himself — in his own way, which may be less careful.",
           "disposition": 60
         }
+      },
+      {
+        "id": "relationship:elara-and-roderick",
+        "name": "Princess Elara and Prince Roderick",
+        "visibility": "shared",
+        "payload": {
+          "participants": [
+            "character:princess-elara",
+            "character:prince-roderick"
+          ],
+          "association": "siblings, political rivals",
+          "public_status": "The king's two eldest children, publicly civil, privately competing for the succession. The court watches them and bets quietly.",
+          "bond": "Elara underestimates Roderick's cunning — she thinks he is a blunt soldier, but he has been feeding her false intelligence through a double agent. Roderick does not know about Elara's dragonbone research, which is the one card she has that he cannot counter. They are siblings and they are enemies, and neither of them has decided which matters more.",
+          "disposition": -20
+        }
+      },
+      {
+        "id": "relationship:sigrid-and-erik",
+        "name": "Jarl Sigrid and Jarl Erik",
+        "visibility": "shared",
+        "payload": {
+          "participants": [
+            "character:jarl-sigrid",
+            "character:young-jarl-erik"
+          ],
+          "association": "political rivals at the Althing",
+          "public_status": "Two jarls who disagree about the frost giant threat. Sigrid wants action; Erik wants restraint. The Althing watches them and waits.",
+          "bond": "Sigrid thinks Erik is naive about the giants. Erik thinks Sigrid is using the giants to consolidate power. Both are partly right, which makes the rivalry productive and dangerous. If the abandoned village goes public, Erik's position collapses and Sigrid wins — which is why Sigrid has been sitting on the information.",
+          "disposition": -30
+        }
+      },
+      {
+        "id": "relationship:malik-and-zuhayr",
+        "name": "Malik Idris and Zuhayr the Patient",
+        "visibility": "shared",
+        "payload": {
+          "participants": [
+            "character:malik-idris",
+            "character:djinn-zuhayr"
+          ],
+          "association": "contract-bound: creditor and debtor",
+          "public_status": "Malik is the heir to the Idris family's oldest djinn contract. Zuhayr is the djinn bound by it. The contract's terms are family knowledge but not public.",
+          "bond": "Zuhayr genuinely wants to help Malik renegotiate — a willing partner is more useful than a bound servant. But the contract's deadline is binding on both of them, and neither can extend it alone. Zuhayr is the most dangerous kind of ally: one who is on Malik's side but constrained by law from giving him more time. Their relationship is warm in a way that makes the debt more painful, not less.",
+          "disposition": 35
+        }
+      },
+      {
+        "id": "relationship:kai-and-lani",
+        "name": "Wayfinder Kai and Chief Lani",
+        "visibility": "shared",
+        "payload": {
+          "participants": [
+            "character:wayfinder-kai",
+            "character:chief-lani"
+          ],
+          "association": "son and mother (secretly)",
+          "public_status": "A young wayfinder and the chief of Lani Atoll. They maintain professional distance in public, as a chief should not favor one wayfinder over others.",
+          "bond": "They are mother and son, and both know it, and neither says it in public. Kai respects his mother's governance and does not want to compromise it. Lani is proud of her son and frightened for him — he is sailing toward something neither of them understands. Their private relationship is warm; their public one is careful.",
+          "disposition": 80
+        }
+      },
+      {
+        "id": "relationship:nara-and-tari",
+        "name": "Shaman Nara and Apprentice Tari",
+        "visibility": "shared",
+        "payload": {
+          "participants": [
+            "character:shaman-nara",
+            "character:apprentice-tari"
+          ],
+          "association": "master and apprentice",
+          "public_status": "Nara is training Tari in the shamanic traditions. Tari is young and talented. A normal master-apprentice relationship.",
+          "bond": "Nara knows Tari is gifted but does not realize how much Tari is hearing that Nara is not. Tari is afraid of being dismissed as too young, and afraid of being taken seriously. They trust each other but are both keeping secrets — Nara about the river spirit's warning, Tari about the multiple spirits speaking to her. The secrets are about the same thing, and neither knows the other already knows.",
+          "disposition": 65
+        }
+      },
+      {
+        "id": "relationship:takeda-and-tamamo",
+        "name": "Daimyo Takeda and Tamamo",
+        "visibility": "shared",
+        "payload": {
+          "participants": [
+            "character:daimyo-takeda",
+            "character:tamamo"
+          ],
+          "association": "covert alliance",
+          "public_status": "No public relationship. A daimyo and a wild kitsune would not be seen together.",
+          "bond": "Takeda thinks he is using Tamamo to create yokai incidents that prove the shrine network's weakness. Tamamo is using Takeda to weaken the wards she hates. Neither trusts the other. Both believe they are the one in control. They are both wrong.",
+          "disposition": -10
+        }
+      },
+      {
+        "id": "relationship:garrick-and-maggie",
+        "name": "Garrick the Wolf and Maggie Pippin",
+        "visibility": "shared",
+        "payload": {
+          "participants": [
+            "character:the-wolf",
+            "character:maggie-pip"
+          ],
+          "association": "bandit and innkeeper, uneasy mutual tolerance",
+          "public_status": "Maggie's inn is on the Greywood road, which Garrick controls. He does not rob her. She does not report him. A practical arrangement.",
+          "bond": "Maggie feeds Garrick information about travelers in exchange for him keeping the road safe from other bandits. She does not approve of his methods but recognizes that his presence is better than the alternative. Garrick is protective of the inn in a way he would not admit — Maggie reminds him of his mother, who ran a similar inn before the war.",
+          "disposition": 25
+        }
+      },
+      {
+        "id": "relationship:ravn-and-grimvard",
+        "name": "Skald Ravn and Grimvard the Patient",
+        "visibility": "shared",
+        "payload": {
+          "participants": [
+            "character:skald-ravn",
+            "character:giant-emissary-frost"
+          ],
+          "association": "poet and offended party",
+          "public_status": "A frost giant is sitting outside Skaldvik because the skald's poem got the giants' history wrong. Ravn thinks it is funny. Everyone else is nervous.",
+          "bond": "Grimvard respects Ravn's skill as a poet — the poem is beautiful, it is just inaccurate. Ravn is beginning to realize that the giant is not threatening but correcting, and that the corrections contain information about the deep mountains that no human scout has brought back. They are on the verge of a conversation that could change Hrafnland's understanding of the frost giants entirely.",
+          "disposition": 15
+        }
       }
     ]
   },
@@ -835,8 +2208,12 @@
           "summary": "A soul new to Gaia has arrived in the Heavenly Realm. The Guide is waiting to help them choose a nation to begin in. The choice is real and permanent — once they walk down into one of the seven nations, they cannot come back to choose again.",
           "stakes": "The player's starting nation determines which conflicts they land in the middle of, which people they meet first, and what kind of life they begin. A wrong choice is not death — it is a different story.",
           "pressure": "steady",
-          "participants": ["character:the-guide"],
-          "locations": ["location:heavenly-realm"],
+          "participants": [
+            "character:the-guide"
+          ],
+          "locations": [
+            "location:heavenly-realm"
+          ],
           "organizations": [],
           "known_clues": [],
           "next_possible_moves": [
@@ -856,9 +2233,17 @@
           "summary": "In Valdris, no new dragon bond has been made in twenty years. The dragon-bonded knights are fracturing between reformers and traditionalists. The king is aging and the succession is unspoken. Sir Aldrich's own dragon, Verath, has gone silent — a secret he keeps because admitting it would confirm the order's worst fears.",
           "stakes": "If the order fractures completely, Valdris loses its most powerful defenders. If the succession crisis hits while the order is broken, the kingdom could face civil war. Aldrich's secret, if exposed, accelerates both.",
           "pressure": "rising",
-          "participants": ["character:sir-aldrich"],
-          "locations": ["location:valdris", "location:dragonrest", "location:crownhaven"],
-          "organizations": ["org:dragon-order"],
+          "participants": [
+            "character:sir-aldrich"
+          ],
+          "locations": [
+            "location:valdris",
+            "location:dragonrest",
+            "location:crownhaven"
+          ],
+          "organizations": [
+            "org:dragon-order"
+          ],
           "known_clues": [],
           "next_possible_moves": [
             "The reformist faction calls a formal vote to dissolve the traditional oath requirements, which the traditionalists have promised to refuse — publicly and loudly.",
@@ -877,9 +2262,18 @@
           "summary": "The three-year truce between Jin, Chu, and Wei is nearing its end. One border skirmish has already happened between Jin and Wei forces at the Long Pass. The younger officers at the Great Academy in Jin'an speak openly about ending the truce. Warlord Cao Shen is dying faster than anyone knows and wants reunification before he goes.",
           "stakes": "If the truce breaks, the largest war in a generation begins. The last war killed tens of thousands. Sangguo's trade routes feed half of Gaia — a war disrupts everything, everywhere.",
           "pressure": "rising",
-          "participants": ["character:cao-shen"],
-          "locations": ["location:sangguo", "location:jin-an"],
-          "organizations": ["org:jin-state", "org:chu-state", "org:wei-state"],
+          "participants": [
+            "character:cao-shen"
+          ],
+          "locations": [
+            "location:sangguo",
+            "location:jin-an"
+          ],
+          "organizations": [
+            "org:jin-state",
+            "org:chu-state",
+            "org:wei-state"
+          ],
           "known_clues": [],
           "next_possible_moves": [
             "A second skirmish at the Long Pass — this time with casualties on both sides, each blaming the other.",
@@ -898,9 +2292,19 @@
           "summary": "In the Tide Archipelago, sea levels are rising. Islands are losing their shores. The voyagers are being pushed inward toward crowded volcanic islands. Wayfinder Kai has lost three routes this year and the sea spirits have gone silent when asked about the cause. In Verdania, Shaman Nara's river spirit has sent a warning it does not fully understand — and the two problems may be connected.",
           "stakes": "If the rising continues, the Tide Archipelago loses its civilization within a generation. If the cause is something that can be stopped, every month of delay costs islands. If it cannot be stopped, the voyagers become refugees in nations that do not want them.",
           "pressure": "rising",
-          "participants": ["character:wayfinder-kai", "character:shaman-nara"],
-          "locations": ["location:tide-archipelago", "location:lani-atoll", "location:verdania", "location:iara"],
-          "organizations": ["org:wayfinder-guilds"],
+          "participants": [
+            "character:wayfinder-kai",
+            "character:shaman-nara"
+          ],
+          "locations": [
+            "location:tide-archipelago",
+            "location:lani-atoll",
+            "location:verdania",
+            "location:iara"
+          ],
+          "organizations": [
+            "org:wayfinder-guilds"
+          ],
           "known_clues": [],
           "next_possible_moves": [
             "Two more outer islets submerge during a storm, displacing forty families who arrive at Lani Atoll with nothing.",
@@ -919,9 +2323,16 @@
           "summary": "In Al-Khayzar, Malik Idris is the firstborn of his generation — and his family's oldest djinn contract demands the firstborn of each generation as payment. The djinn Zuhayr has begun appearing to Malik, patient and polite, reminding him that the contract is almost due. Malik has searched secretly for a way out and found nothing.",
           "stakes": "If Malik cannot break or renegotiate the contract, he is taken by the djinn — not killed, but bound to Zuhayr's service for the rest of his natural life. If he breaks the contract wrongly, the Pact of the Lamp may fracture, and the peace between Al-Khayzar's city-states dies with it.",
           "pressure": "rising",
-          "participants": ["character:malik-idris"],
-          "locations": ["location:al-khayzar", "location:zaffar"],
-          "organizations": ["org:binding-families"],
+          "participants": [
+            "character:malik-idris"
+          ],
+          "locations": [
+            "location:al-khayzar",
+            "location:zaffar"
+          ],
+          "organizations": [
+            "org:binding-families"
+          ],
           "known_clues": [],
           "next_possible_moves": [
             "Zuhayr appears to Malik in the Star Bazaar, visible to other binders for the first time, making the debt publicly known — which Malik's family will treat as a deliberate humiliation.",
@@ -940,9 +2351,16 @@
           "summary": "In Tsukuyomi, the shrine network that keeps wild yokai at a distance from settled areas is weakening. Rural shrines are being neglected as the central authority funnels resources to the capital. Miko Sora maintains her shrine alone, but the ward she tends is one of a chain, and links upstream of her are failing. If enough links break, the yokai pressure on the Cedar Road becomes dangerous.",
           "stakes": "If the ward chain breaks along the Cedar Road, the pilgrimage route becomes unsafe and the mountain villages lose their protection. Wild yokai are not monsters — they are unpredictable, and people die when the boundary is weak.",
           "pressure": "steady",
-          "participants": ["character:miko-sora"],
-          "locations": ["location:tsukuyomi", "location:haru-shrine-town"],
-          "organizations": ["org:ashikara-shogunate"],
+          "participants": [
+            "character:miko-sora"
+          ],
+          "locations": [
+            "location:tsukuyomi",
+            "location:haru-shrine-town"
+          ],
+          "organizations": [
+            "org:ashikara-shogunate"
+          ],
           "known_clues": [],
           "next_possible_moves": [
             "Sora notices the upstream shrine's ward has gone dark — the keeper there has left, and no replacement was sent.",
@@ -961,14 +2379,303 @@
           "summary": "In Hrafnland, Jarl Sigrid believes the frost giants of the deep mountains are preparing to expand southward. She has been quietly building a coalition of jarls who want to push the giants back. The Althing will not authorize action without proof, and proof requires scouting territory no scout has returned from. Her coalition is not as unified as she presents it.",
           "stakes": "If Sigrid acts without Althing approval, she splits Hrafnland and may trigger a jarls' war. If she does nothing and the giants are expanding, the northern fjords are overrun. If she is wrong about the giants' intentions, she has spent political capital on a phantom threat.",
           "pressure": "steady",
-          "participants": ["character:jarl-sigrid"],
-          "locations": ["location:hrafnland", "location:skaldvik"],
+          "participants": [
+            "character:jarl-sigrid"
+          ],
+          "locations": [
+            "location:hrafnland",
+            "location:skaldvik"
+          ],
           "organizations": [],
           "known_clues": [],
           "next_possible_moves": [
             "A trader from a northern fjord arrives in Skaldvik with a story: a fishing village was found abandoned, the boats still at the dock, no sign of violence — and no sign of the people.",
             "One of Sigrid's coalition jarls privately withdraws his support, telling her the Althing will see her coalition as a power grab, not a defense.",
             "A scout Sigrid sent into the deep mountains returns — the first to return — and will not speak about what he saw. He has gone white-haired and will not leave the mead hall."
+          ],
+          "resolution": null
+        }
+      },
+      {
+        "id": "thread:stolen-document",
+        "name": "The Stolen Document",
+        "visibility": "shared",
+        "payload": {
+          "thread_type": "quest",
+          "summary": "Kuro the Smoke, a cat-folk thief in Tsuki-no-Miyako, stole a document from a daimyo's estate that contains evidence of Takeda's coalition plans. He does not understand what he has, but Takeda's agents are hunting him. The document's trail leads through the underworld of Tsukuyomi and potentially to Sangguo's information broker Zhou Ba, who would sell it to the highest bidder.",
+          "stakes": "If Takeda's agents recover the document, Kuro is dead and the coalition remains secret. If Zhou Ba sells it to Cao Shen, Sangguo gains leverage over Tsukuyomi's internal politics. If it goes public, the shogunate cracks down on the provincial clans and the coalition goes underground or open revolt.",
+          "pressure": "rising",
+          "participants": [
+            "character:kuro",
+            "character:daimyo-takeda"
+          ],
+          "locations": [
+            "location:tsuki-no-miyako",
+            "location:tsukuyomi"
+          ],
+          "organizations": [
+            "org:takeda-clan"
+          ],
+          "known_clues": [],
+          "next_possible_moves": [
+            "Takeda's agents trace Kuro to the merchant district and close the gates, starting a block-by-block search.",
+            "Kuro contacts a middleman to reach Zhou Ba in Sangguo, not knowing that the middleman is also working for Takeda.",
+            "Shogun Ashikara's spymaster independently learns that a document was stolen from a daimyo's estate and begins his own investigation — the shogun wants to know what Takeda is hiding."
+          ],
+          "resolution": null
+        }
+      },
+      {
+        "id": "thread:valdris-succession",
+        "name": "The Crown in Balance",
+        "visibility": "shared",
+        "payload": {
+          "thread_type": "quest",
+          "summary": "King Aldran is dying and has not named an heir. Princess Elara backs the reformist faction and secret dragonbone research. Prince Roderick commands the military and is secretly courting the bandit lord Garrick as a deniable asset. The youngest, Tomas, is unaligned. The court is a cold war of positioning, and the king is running out of time.",
+          "stakes": "If the king dies without naming an heir, civil war. If Roderick wins, the old order hardens and the reformists are purged. If Elara wins, the dragon order is reformed and the old nobility loses power. If Tomas wins — no one knows, including Tomas.",
+          "pressure": "rising",
+          "participants": [
+            "character:king-aldran",
+            "character:princess-elara",
+            "character:prince-roderick"
+          ],
+          "locations": [
+            "location:crownhaven",
+            "location:valdris"
+          ],
+          "organizations": [
+            "org:dragon-order"
+          ],
+          "known_clues": [],
+          "next_possible_moves": [
+            "The king's physician quietly informs the court that the king's condition is worsening — the information leaks within a day.",
+            "Roderick makes Garrick a formal offer: pardon and a commission in exchange for blocking the Greywood road against Elara's merchant allies.",
+            "Elara's reformist researchers achieve a partial resonance from a dragonbone artifact — the first proof that an artificial bond might be possible — and someone in her team talks."
+          ],
+          "resolution": null
+        }
+      },
+      {
+        "id": "thread:greywood-bandit",
+        "name": "The Wolf on the Road",
+        "visibility": "shared",
+        "payload": {
+          "thread_type": "quest",
+          "summary": "Garrick the Wolf controls a stretch of the Greywood road in Valdris. He is being courted by Prince Roderick as a deniable asset. Maggie Pippin at the Copper Kettle has noticed increased armed traffic. The crown's patrols are getting more aggressive. Garrick's men are hungry and loyal, but loyalty has a shelf life.",
+          "stakes": "If Garrick accepts Roderick's offer, Roderick gains a deniable military asset on the main trade road. If the crown catches Garrick first, his men scatter and the road becomes truly lawless. If Garrick finds another path — a pardon from the king directly, or a war that needs soldiers — the equation changes entirely.",
+          "pressure": "steady",
+          "participants": [
+            "character:the-wolf",
+            "character:maggie-pip"
+          ],
+          "locations": [
+            "location:valdris"
+          ],
+          "organizations": [],
+          "known_clues": [],
+          "next_possible_moves": [
+            "A crown patrol ambushes one of Garrick's foraging parties, killing two men — the first blood on the road this season, and it demands a response.",
+            "Roderick sends a sealed letter through Maggie's inn offering terms: full pardon, a captain's commission, and control of the road in exchange for blocking Elara's merchant traffic.",
+            "Garrick's second-in-command, a woman named Brita, challenges his leadership at a campfire meeting — she wants to accept Roderick's offer and argues that waiting is dying."
+          ],
+          "resolution": null
+        }
+      },
+      {
+        "id": "thread:canals-failing",
+        "name": "The Silting Canals",
+        "visibility": "shared",
+        "payload": {
+          "thread_type": "quest",
+          "summary": "Wen Li, the river-folk canal master in Jin'an, has been warning that the canal system feeding the city's grain supply is failing. Two years of ignored reports and diverted maintenance funds have brought the system to the edge. Wen Li is considering sabotage to force the court's attention.",
+          "stakes": "If the canals fail, Jin'an loses its grain supply within a season. Two hundred thousand people face famine. If Wen Li sabotages a canal to prove her point, the shortage is immediate but the political will to repair is forced. Either way, people suffer.",
+          "pressure": "rising",
+          "participants": [
+            "character:wen-canalmaster"
+          ],
+          "locations": [
+            "location:jin-an"
+          ],
+          "organizations": [
+            "org:jin-state"
+          ],
+          "known_clues": [],
+          "next_possible_moves": [
+            "A canal gate fails during a moderate rain, flooding a market district — a preview of what a full failure looks like, and a warning Wen Li did not engineer.",
+            "Wen Li's written report is finally read by Strategist Mei Lin, who realizes the canal crisis connects to the truce: military spending has been eating infrastructure budgets for three years.",
+            "General Lu Fang orders the canal workers conscripted into military labor, arguing that fortifying the Long Pass is more urgent than canal maintenance. Wen Li is not consulted."
+          ],
+          "resolution": null
+        }
+      },
+      {
+        "id": "thread:temple-door",
+        "name": "The Warm Door",
+        "visibility": "shared",
+        "payload": {
+          "thread_type": "quest",
+          "summary": "Kaa the Jaguar-kin found a temple door in the deep jungle of Verdania that was not open before and is warm to the touch. Dr. Voss has calculated a convergence point in the same area. Shaman Nara's river spirit has warned of 'the deep place' and 'the old door.' Monk Jian Yi is walking south toward the same location. Volva Helga has seen it in visions. Multiple independent sources are converging on the same point.",
+          "stakes": "If the door is opening on its own, something is changing beneath the world. If multiple people are being drawn to it independently, the door may be calling them — or whatever is behind the door is. What is behind it is unknown, but everything touching it — river spirits, sea spirits, whales, chi monks, volva, and shamans — is frightened.",
+          "pressure": "rising",
+          "participants": [
+            "character:hunter-jaguar",
+            "character:explorer-dr-voss",
+            "character:shaman-nara",
+            "character:monk-jian",
+            "character:volva-helga"
+          ],
+          "locations": [
+            "location:verdania",
+            "location:iara"
+          ],
+          "organizations": [],
+          "known_clues": [],
+          "next_possible_moves": [
+            "Kaa goes back to the door alone, drunk and armed, and this time it is open — warm air pouring out of it, carrying a smell like deep water and old stone.",
+            "Jian Yi arrives at the Mist Falls trading post on the edge of Verdania, the first leg of his journey complete, and asks a trader about the temple cities — the trader is Amara, Kaa's cousin, who connects him to Iara.",
+            "Shaman Nara's river spirit delivers a new warning: the door is not opening because something is pushing from outside. Something is pushing from inside."
+          ],
+          "resolution": null
+        }
+      },
+      {
+        "id": "thread:fatima-reform",
+        "name": "The Sister's Gambit",
+        "visibility": "shared",
+        "payload": {
+          "thread_type": "quest",
+          "summary": "Fatima Idris has discovered her brother Malik's research into breaking the family's djinn contract. She wants to use his crisis to expose the binding families' unsustainable contract system and force reform. She has not told Malik what she knows. Judge Tariq is independently worried about the oldest contracts destabilizing. Layla the Spice Queen is watching, ready to pick up the pieces.",
+          "stakes": "If Fatima exposes the contracts publicly, the binding families lose face and the council fractures — reform or chaos. If Malik breaks his contract badly, the Pact of the Lamp may fail and the city-states' peace dies. If Judge Tariq finds a legal remedy, there is a path through the law — but the law may not have one.",
+          "pressure": "rising",
+          "participants": [
+            "character:fatima-idris",
+            "character:malik-idris",
+            "character:judge-tariq"
+          ],
+          "locations": [
+            "location:zaffar"
+          ],
+          "organizations": [
+            "org:binding-families"
+          ],
+          "known_clues": [],
+          "next_possible_moves": [
+            "Fatima anonymously leaks a summary of the Idris family's oldest contract to a merchant in the Star Bazaar — not the full text, but enough to start rumors.",
+            "Judge Tariq summons Malik to his court, not as a defendant but as a consultant — he wants to understand the Idris contract's structure because it is the oldest and may be the first to break.",
+            "Zuhayr appears to Malik in public, at the Star Bazaar, visible to other binders — making the debt common knowledge and forcing the family to acknowledge it."
+          ],
+          "resolution": null
+        }
+      },
+      {
+        "id": "thread:old-road-hum",
+        "name": "The Humming Road",
+        "visibility": "shared",
+        "payload": {
+          "thread_type": "quest",
+          "summary": "Rashid the Sand-walker has found a working fragment of the Old Road in the deep desert of Al-Khayzar — a two-hour stretch connecting the Mirror Oasis to a point near the Verdania border. The fragment hums like a voice, which is not how Old Roads behave. He is deciding who to tell, and the hum is getting louder.",
+          "stakes": "A working Old Road fragment is the most valuable secret in Gaia — it could connect Al-Khayzar to Verdania in hours instead of months. If the hum is a voice, the Road may be doing something Old Roads are not supposed to do. If the wrong person learns about it, the secret becomes a weapon.",
+          "pressure": "steady",
+          "participants": [
+            "character:desert-guide-rashid"
+          ],
+          "locations": [
+            "location:al-khayzar"
+          ],
+          "organizations": [],
+          "known_clues": [],
+          "next_possible_moves": [
+            "Rashid returns to the fragment to find that the hum has changed — it is now a rhythm, almost a heartbeat, and the air above the Road is shimmering.",
+            "A binding family agent notices Rashid's absences and follows him to the Mirror Oasis, not to the fragment itself but close enough to suspect something.",
+            "The fragment extends — the Road is growing, clearing itself, pushing back the sand, and the hum is now audible from the oasis."
+          ],
+          "resolution": null
+        }
+      },
+      {
+        "id": "thread:departing-whales",
+        "name": "The Departing Whales",
+        "visibility": "shared",
+        "payload": {
+          "thread_type": "quest",
+          "summary": "Fin the Whale-speaker has learned that the great whales are leaving the Tide Archipelago — not migrating, but departing permanently. They are swimming south, past Verdania, toward the open ocean. The images they send him — deep water, a door, something waking — match the warnings from Shaman Nara, Monk Jian Yi, and Volva Helga. Without the whales, voyaging in the Archipelago becomes vastly more dangerous.",
+          "stakes": "If the whales leave, the Archipelago loses its oldest allies and voyaging becomes far more dangerous. The displaced islanders cannot be relocated if the sea routes are unsafe. Whatever is driving the whales south is connected to the same force that is opening doors and frightening spirits across the world.",
+          "pressure": "rising",
+          "participants": [
+            "character:whale-speaker-fin",
+            "character:wayfinder-kai"
+          ],
+          "locations": [
+            "location:tide-archipelago",
+            "location:lani-atoll"
+          ],
+          "organizations": [
+            "org:wayfinder-guilds"
+          ],
+          "known_clues": [],
+          "next_possible_moves": [
+            "The last family of whales in the northern Archipelago sends a final image to Fin — a clear picture of the door, from the other side, showing something behind it that is large and moving — then the whales turn south and are gone.",
+            "Kai's attempt to sing to the sea spirits at the deepest water goes wrong: the spirits answer, but not in words he recognizes, and the current around his boat changes direction against the wind.",
+            "Elder Wayfinder Pua announces to the guild that she will sing the deepest song — the one she has not sung in forty years — and the guild argues about whether it is safe."
+          ],
+          "resolution": null
+        }
+      },
+      {
+        "id": "thread:takeda-coalition",
+        "name": "The Provincial Coalition",
+        "visibility": "shared",
+        "payload": {
+          "thread_type": "quest",
+          "summary": "Daimyo Takeda Renji is building a coalition of rural clans who feel the shogunate has abandoned them. He has a secret alliance with the wild kitsune Tamamo, who is willing to create yokai incidents to prove the shrine network's weakness. His plans were stolen by the thief Kuro, and the document is now in play. The shogun is dying and the succession is undecided.",
+          "stakes": "If Takeda's coalition succeeds in forcing the shogunate's hand, the provinces gain power and the shrine network is repaired — but Takeda is positioned as kingmaker. If the coalition is exposed prematurely, it becomes a rebellion. If Tamamo engineers a yokai incident that kills people, Takeda's legitimate grievance becomes a bloody opportunism.",
+          "pressure": "rising",
+          "participants": [
+            "character:daimyo-takeda",
+            "character:tamamo",
+            "character:shogun-ashikara"
+          ],
+          "locations": [
+            "location:tsuki-no-miyako",
+            "location:tsukuyomi"
+          ],
+          "organizations": [
+            "org:takeda-clan",
+            "org:ashikara-shogunate"
+          ],
+          "known_clues": [],
+          "next_possible_moves": [
+            "Tamamo engineers a yokai breach on the Cedar Road — nothing fatal, but enough to frighten pilgrims and prove the wards are weak. Takeda uses the incident at the next clan council to argue that the shogunate has failed.",
+            "The shogun's spymaster traces the stolen document to Takeda's estate and begins investigating the daimyo's coalition — quietly, because accusing a daimyo without proof is a political act.",
+            "The shogun's elder son, Ashikara Kenji, confronts Takeda at court — not about the coalition, which he does not know about, but about the yokai incident, which he blames on Takeda's territory being poorly defended. The irony is not lost on Takeda."
+          ],
+          "resolution": null
+        }
+      },
+      {
+        "id": "thread:mana-theory",
+        "name": "The Anchoring Songs",
+        "visibility": "shared",
+        "payload": {
+          "thread_type": "quest",
+          "summary": "Mana the Tattoo-carver believes that wayfinder tattoos are not just records — they are anchors. When a route is submerged and the tattoo fades, the wayfinder feels it as physical pain. She suspects the tattoos are helping hold the sea-routes in existence, and that losing wayfinders and routes may be connected to the rising seas, not just a consequence of them.",
+          "stakes": "If Mana is right, the wayfinders are not just navigating the sea — they are holding it together, and the loss of routes is accelerating the rising waters. This would mean the Archipelago's crisis is partly self-reinforcing: lose an island, lose a route, lose a wayfinder, lose more sea. If she is wrong, it is a theory that wastes precious time.",
+          "pressure": "steady",
+          "participants": [
+            "character:tattoo-artist-mana"
+          ],
+          "locations": [
+            "location:lani-atoll",
+            "location:tide-archipelago"
+          ],
+          "organizations": [
+            "org:wayfinder-guilds"
+          ],
+          "known_clues": [],
+          "next_possible_moves": [
+            "Mana presents her theory to Elder Wayfinder Pua, who takes it seriously — because Pua has suspected something similar for forty years and has never said so.",
+            "A wayfinder carrying a faded route-tattoo collapses during a voyage, screaming about pain in the tattoo — the first time the effect has been visible to witnesses, not just felt by the carrier.",
+            "Mana begins carving a new set of route-tattoos on Kai, including a route that was lost last month — to test whether carrying a lost route on a living wayfinder can restore it."
           ],
           "resolution": null
         }
@@ -1034,7 +2741,9 @@
           "item_type": "currency",
           "appearance": "Small metal discs, about the width of a thumbnail, stamped with the mark of the minting nation. Each is slightly different — Tsukuyomi's carry a crescent moon, Valdris's a crown, Sangguo's a jade-inset square. They are traded by weight, not by origin.",
           "description": "The closest thing Gaia has to a universal currency. Accepted across all seven nations by weight. Each nation mints its own, but the metal content is standardized by an old trade agreement that most nations still honor.",
-          "item_tags": ["currency"]
+          "item_tags": [
+            "currency"
+          ]
         }
       },
       {
@@ -1045,7 +2754,10 @@
           "item_type": "tool",
           "appearance": "A strip of paper, about the length of a hand, with brush-written characters in black ink. Some carry a red stamp at the bottom. They are usually folded and carried in pockets or pinned to doorframes.",
           "description": "The basic tool of shrine magic in Tsukuyomi. An ofuda carries a ward, a blessing, or a command. It must be written correctly and activated by a shrine keeper's ritual. A poorly made ofuda is just paper.",
-          "item_tags": ["magic", "tsukuyomi"]
+          "item_tags": [
+            "magic",
+            "tsukuyomi"
+          ]
         }
       },
       {
@@ -1056,7 +2768,10 @@
           "item_type": "tool",
           "appearance": "A carved wooden staff, about shoulder-height, marked with notches and painted symbols that represent star paths, current patterns, and island positions. The wood is dark from salt and handling. Some staves have shells or bone inlays.",
           "description": "The primary tool of a wayfinder in the Tide Archipelago. The staff is both a record of routes memorized and an instrument for reading the sea. A wayfinder who loses their staff loses years of encoded knowledge.",
-          "item_tags": ["magic", "tide-archipelago"]
+          "item_tags": [
+            "magic",
+            "tide-archipelago"
+          ]
         }
       }
     ]
