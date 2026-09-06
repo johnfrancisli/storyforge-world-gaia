@@ -11,10 +11,16 @@ gm_notes: 'Fin has been hearing something from the whales that frightens him: th
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Whale-speaker
+proficient_skills: []
 appearance: A lean young man in simple island cloth, barefoot, sitting at the water's edge. He has the
   distant look of someone who is always half-listening to something else. His skin is dark and his hair
   is salt-bleached. He carries a conch shell horn for calling whales.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: early twenties
   body_build: lean, wiry
@@ -36,6 +42,7 @@ fears_or_limits:
   people think whale-speaking is a myth.
 current_state:
   location: location:lani-atoll
+purview: []
 ---
 
 A young man of the Tide Archipelago who can speak to whales — a rare gift that runs in certain families. He is in his early twenties, quiet, and uncomfortable with the attention his gift brings. He is usually found at the water's edge, listening to things that are too far away for anyone else to hear.

@@ -15,9 +15,15 @@ gm_notes: Hoku is a veteran wayfinder, one of the most experienced in the guilds
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Wayfinder (veteran navigator)
+proficient_skills: []
 appearance: A weathered, quiet man with extensive wayfinder tattoos covering both arms and her chest.
   She moves with the economy of someone who has spent more of her life on water than on land.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: fifty-one
   body_build: lean, weathered, salt-roughened
@@ -41,6 +47,7 @@ fears_or_limits:
   is something that cannot be unheard
 current_state:
   location: location:tide-archipelago
+purview: []
 ---
 
 A veteran wayfinder who has been secretly visiting a point in the open ocean where all sound in the Archipelago can be heard at once. The point is moving south, and she does not know what it is moving toward.

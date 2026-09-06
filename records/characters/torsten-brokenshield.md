@@ -13,11 +13,17 @@ gm_notes: 'Torsten is the widower of Jarl Sigrid''s dead brother Hallvar. He liv
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Storehouse Keeper / Jarl's Dependent
+proficient_skills: []
 appearance: Soft and greying, Torsten wears decent wool — the household provides — but carries himself
   like a man who is always bracing for a blow. He manages the storehouse with meticulous attention, counting
   every grain sack and barrel of oil, because precision is the only thing he can control. He avoids Sigrid's
   eye and drinks more than he should.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 52
   body_build: medium height, going soft with age and comfort
@@ -37,6 +43,7 @@ fears_or_limits:
   part of
 current_state:
   location: location:skaldvik
+purview: []
 ---
 
 The jarl's brother-in-law, who lives in her household like a well-fed prisoner — tolerated, useful, and held in place by a chain only he and the jarl can see.

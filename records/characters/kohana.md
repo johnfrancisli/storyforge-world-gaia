@@ -11,10 +11,16 @@ gm_notes: Kohana is not truly a courtesan. She is the daughter of a minor lord w
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Courtesan (oiran)
+proficient_skills: []
 appearance: She wears elaborate layered kimono in deep crimsons and golds, her obi tied in the front as
   is the courtesan's mark. Her face is painted in the traditional style, and her hair is weighted with
   ornamental pins. She moves with studied, deliberate grace, every gesture a performance.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: mid-twenties
   body_build: slender, graceful
@@ -32,6 +38,7 @@ fears_or_limits:
 - If Takeda's lieutenant discovers her true identity, she will not leave the pleasure quarter alive.
 current_state:
   location: location:tsuki-no-miyako
+purview: []
 ---
 
 A high-ranking courtesan (oiran) in the capital's pleasure quarter, known for her wit, her calligraphy, and her selective clientele. She receives guests in a lavishly appointed parlor and never accepts a patron she hasn't personally approved.

@@ -9,10 +9,16 @@ gm_notes: Maggie's inn is the Greywood's informal post office. Messages pass thr
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Innkeeper
+proficient_skills: []
 appearance: A small, round halfling woman in a flour-dusted apron, her curly hair tied back with a kerchief.
   She moves behind the bar with the efficiency of someone who can pour three drinks and serve two plates
   simultaneously. Her face is sun-reddened and she smiles easily.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: early fifties
   body_build: small, round
@@ -32,6 +38,7 @@ fears_or_limits:
   her a target.
 current_state:
   location: location:valdris
+purview: []
 ---
 
 A halfling innkeeper in Greywood, a village on the trade road between Crownhaven and the northern garrison. Her inn, the Copper Kettle, is the best stop on the road — clean rooms, excellent food, and a fire that is always lit. She knows everyone who passes through.

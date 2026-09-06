@@ -15,9 +15,15 @@ gm_notes: Maile is the head of the informal guard on Lani Atoll — not a milita
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Guard
+proficient_skills: []
 appearance: A strong, steady woman with a watch-guard's bearing and a torch always at hand. She wears
   practical cloth and carries a staff, not a weapon. She is calm under pressure and slow to alarm.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: thirty-eight
   body_build: strong, steady, broad-shouldered
@@ -38,6 +44,7 @@ fears_or_limits:
 - That the visitors are people in need and her turning them away has sent them to their deaths
 current_state:
   location: location:lani-atoll
+purview: []
 ---
 
 The head of Lani Atoll's beach guard, who has been secretly turning away mysterious visitors from the south. She does not know if they are refugees, traders, or something else.

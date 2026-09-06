@@ -11,8 +11,14 @@ gm_notes: 'A jade carver whose work is sought after by all three courts. She has
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Master jade carver and Jade Restoration operative
+proficient_skills: []
 appearance: Precise and self-contained, wearing fine craftsman's robes. Hands always still and deliberate.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 37
   body_build: slender with strong, fine-motor hands
@@ -31,6 +37,7 @@ fears_or_limits:
 - The Jade Restoration being infiltrated by state agents
 current_state:
   location: location:jin-an
+purview: []
 ---
 
 A master jade carver in Jin-an whose intricate pieces are prized by all three warring courts for their beauty and rumored spiritual properties.

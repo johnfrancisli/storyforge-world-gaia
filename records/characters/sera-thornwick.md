@@ -8,9 +8,15 @@ gm_notes: Sera was the secret lover of Prince Edran, who died under suspicious c
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Tavern Keeper
+proficient_skills: []
 appearance: Auburn-haired and quick-smiling, Sera moves through the tavern with practiced grace. She wears
   a clean apron and keeps a dagger hidden beneath the bar counter at all times.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 32
   body_build: tall and wiry
@@ -27,6 +33,7 @@ fears_or_limits:
 - that her grief will hollow her out before her quest is finished
 current_state:
   location: location:crownhaven
+purview: []
 ---
 
 A sharp-tongued tavern keeper whose warmth masks a cold determination to avenge her murdered love.

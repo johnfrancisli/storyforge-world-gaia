@@ -12,10 +12,16 @@ gm_notes: Kenta is Chiyo's (character:tsu-chiyo-child) best friend and the only 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Child
+proficient_skills: []
 appearance: He wears a plain boy's kimono with a cloth satchel slung across one shoulder. He has scrapes
   on his knees from climbing and a slingshot tucked in his sash. He walks with the squared shoulders of
   someone trying to look older than he is.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: twelve
   body_build: lean, growing fast
@@ -33,6 +39,7 @@ fears_or_limits:
 - The ofuda he carries is losing its power, and he has no idea that his protection is expiring.
 current_state:
   location: location:haru-shrine-town
+purview: []
 ---
 
 A boy of twelve in Haru's Shrine Town, practical and protective of his younger friend Chiyo. He carries a school satchel and a slingshot and takes his self-appointed role as Chiyo's guardian very seriously. He doesn't believe in ghosts — he just believes in Chiyo.

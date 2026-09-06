@@ -12,11 +12,17 @@ gm_notes: 'Thora makes sails for every longship in Skaldvik — enormous panels 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Sail Maker
+proficient_skills: []
 appearance: Tall and rawboned, Thora works in a sail loft that smells of linen and tallow. She wears a
   canvas apron over rough clothes and moves among the vast spread of sailcloth like a sailor on a deck
   — sure-footed, scanning the fabric for flaws. Her hands are pale and smooth from handling cloth, which
   is unusual in Skaldvik.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 47
   body_build: tall and long-limbed, rangy
@@ -35,6 +41,7 @@ fears_or_limits:
   a reason
 current_state:
   location: location:skaldvik
+purview: []
 ---
 
 A sail maker whose sails have never failed in a storm, and who does not know what makes them hold — only that the secret is running out.

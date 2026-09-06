@@ -12,10 +12,16 @@ gm_notes: 'The keeper of the Mirror Oasis, the waystation on the deep desert rou
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Oasis keeper, guardian of the Mirror Oasis
+proficient_skills: []
 appearance: Sun-darkened and weathered in loose white cotton and a wide-brimmed palm hat. She moves among
   the date palms with the ease of someone who has lived in one place her entire life. Her hands are calloused
   from pruning and water-channel maintenance.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 55
   body_build: lean and sinewy, desert-hardened
@@ -35,6 +41,7 @@ fears_or_limits:
   do when it is gone
 current_state:
   location: location:al-khayzar
+purview: []
 ---
 
 The keeper of the Mirror Oasis, a weathered woman who tends date palms and water channels at the most remote waystation in Al-Khayzar. She welcomes caravans with dates and cool water and asks nothing in return but courtesy.

@@ -14,10 +14,16 @@ gm_notes: 'A physician who can heal injuries caused by djinn fire — burns that
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Physician, djinn-fire specialist
+proficient_skills: []
 appearance: Composed and professional in clean white healer's robes, her hands steady and her manner reassuring.
   She keeps her clinic spotless and her supplies organized with military precision. She carries a leather
   case of salves and a brass scalpel.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 47
   body_build: medium, steady-handed
@@ -37,6 +43,7 @@ fears_or_limits:
   mercy
 current_state:
   location: location:zaffar
+purview: []
 ---
 
 A physician whose clinic in the middle ring of Zaffar treats injuries no other healer can — particularly the strange burns left by djinn fire. She is calm, methodical, and treats everyone with the same level of care.

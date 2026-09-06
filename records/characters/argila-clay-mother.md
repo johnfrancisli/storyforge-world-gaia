@@ -13,9 +13,15 @@ gm_notes: A potter who makes all the storage vessels for Iara — water jars, fe
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Potter and vessel maker
+proficient_skills: []
 appearance: Clay-dusted and serene, with strong, patient hands. Wears a wrap skirt stained with various
   clay colors. Surrounded by drying pots in every stage of completion.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 45
   body_build: sturdy and patient, strong from kneading clay
@@ -34,6 +40,7 @@ fears_or_limits:
 - That the clay-child is something dangerous that she is raising out of loneliness
 current_state:
   location: location:iara
+purview: []
 ---
 
 A patient human potter whose clay vessels are used in every home and ceremony in Iara, each one shaped by hand and fired in her riverbank kiln.

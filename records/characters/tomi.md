@@ -12,10 +12,16 @@ gm_notes: Tomi serves in Daimyo Takeda's (character:daimyo-takeda) household as 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Servant and double agent
+proficient_skills: []
 appearance: She wears a plain servant's kimono in muted grey, her hair in a simple bun. She moves through
   rooms like a shadow — present, useful, and invisible. She pours tea at precisely the right moment and
   never interrupts.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: mid-thirties
   body_build: slight, unremarkable
@@ -33,6 +39,7 @@ fears_or_limits:
 - If the shogunate falls, her family has no protection and she has no value to anyone.
 current_state:
   location: location:tsuki-no-miyako
+purview: []
 ---
 
 A personal servant in Daimyo Takeda's capital residence, attentive and unobtrusive. She serves tea, manages household supplies, and seems to exist in the background of every important conversation. She has a remarkable memory for who said what to whom.

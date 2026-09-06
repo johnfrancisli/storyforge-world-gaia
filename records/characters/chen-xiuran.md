@@ -11,9 +11,15 @@ gm_notes: A herbalist who lives at the edge of the Wei mountains and gathers rar
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Wild herbalist and qilin-spirit intermediary
+proficient_skills: []
 appearance: Wild-haired and forest-worn, wearing layered patched clothes and carrying baskets of drying
   herbs.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 34
   body_build: lean and weathered from mountain living
@@ -32,6 +38,7 @@ fears_or_limits:
 - That the Ghost Orchid's next blooming will be the last
 current_state:
   location: location:sangguo
+purview: []
 ---
 
 A solitary herbalist who lives at the forest edge near the Wei mountains, known for rare remedies that no apothecary can replicate.

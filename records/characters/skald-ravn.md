@@ -10,10 +10,16 @@ gm_notes: Ravn has been composing an epic about the frost giants that is not ent
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Skald (poet, storyteller)
+proficient_skills: []
 appearance: A thin, animated man in colorful wool — more colorful than is strictly practical in Hrafnland.
   He carries a lyre everywhere and plays it at every opportunity. His hair is long and he has a performer's
   sense of when to pause.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: mid-thirties
   body_build: thin, lanky
@@ -32,6 +38,7 @@ fears_or_limits:
   demanding corrections. He is a poet, not a fighter. His mouth is faster than his judgment.
 current_state:
   location: location:skaldvik
+purview: []
 ---
 
 A skald — a poet and storyteller — of Skaldvik. A thin, dramatic man in his thirties who carries a lyre and a reputation. He knows every saga, can improvise verse on any subject, and has opinions about everything. He is the social glue of the mead hall and the biggest mouth in Hrafnland.

@@ -15,10 +15,16 @@ gm_notes: Aroha is the storyteller every child gathers around at dusk, and she k
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Storyteller
+proficient_skills: []
 appearance: A warm-faced woman with expressive hands and a voice that can fill a room or drop to a whisper.
   She wears layers of light cloth and carries a pouch of story-stones — small carved figures she uses
   to illustrate her tales.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: forty-five
   body_build: soft, round-faced, expressive in gesture
@@ -40,6 +46,7 @@ fears_or_limits:
   her and using her words as instructions
 current_state:
   location: location:lani-atoll
+purview: []
 ---
 
 The beloved storyteller of Lani Atoll, whose invented tales have begun coming true. She has stopped telling new stories out of fear of what she might accidentally make real.

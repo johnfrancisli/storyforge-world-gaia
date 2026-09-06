@@ -13,9 +13,15 @@ gm_notes: 'A cloth weaver who produces the fine cotton and bark-cloth garments w
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Cloth weaver and pattern-code keeper
+proficient_skills: []
 appearance: Slender and focused, with ink-stained fingers from dye-work. Works at a backstrap loom strung
   between two platform posts. Her cloth is always draped around her in progress.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 30
   body_build: slender and fine-boned, precise in movement
@@ -34,6 +40,7 @@ fears_or_limits:
 - That her grandmother's past has put a target on her own back
 current_state:
   location: location:iara
+purview: []
 ---
 
 A human weaver whose patterned cloth is worn throughout the river-cities and who hums constantly while working at her backstrap loom.

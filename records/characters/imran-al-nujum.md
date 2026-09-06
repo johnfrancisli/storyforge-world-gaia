@@ -13,10 +13,16 @@ gm_notes: A male astrologer and Tara's (character:alk-tara-astrologer) former st
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Astrologer, information broker
+proficient_skills: []
 appearance: Smooth-faced and well-dressed in scholar's robes with too much silver jewelry, he carries
   a brass telescope and a case of charts. He is handsome and knows it, and he speaks with the confidence
   of a man who believes his intelligence makes him untouchable.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 34
   body_build: slender, precise
@@ -35,6 +41,7 @@ fears_or_limits:
 - That Tara will discover his theft of her annotations and expose him before the Academy
 current_state:
   location: location:zaffar
+purview: []
 ---
 
 A smooth-faced, well-dressed astrologer with too much silver jewelry who carries a brass telescope and a case of charts. He is handsome and knows it, and he speaks with the confidence of a man who believes his intelligence makes him untouchable.

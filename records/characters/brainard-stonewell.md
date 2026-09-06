@@ -11,9 +11,15 @@ gm_notes: 'Brainard is a city watchman on the night shift in Crownhaven''s lower
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: City Watchman
+proficient_skills: []
 appearance: Solid and plain-faced, Brainard wears a watchman's leather cuirass and carries a lantern and
   a club. He has the tired eyes of a man who sees the worst of the city every night.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 33
   body_build: stocky and solid
@@ -31,6 +37,7 @@ fears_or_limits:
 - that his own fellow watchmen will turn on him if they discover his journal
 current_state:
   location: location:crownhaven
+purview: []
 ---
 
 An honest night watchman in a district that runs on bribes, carrying a journal full of names and a memory full of a face he wishes he could forget.

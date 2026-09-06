@@ -10,9 +10,15 @@ gm_notes: A Jin palace guard captain who has served the warlord for twenty years
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Palace guard captain and the warlord's hidden investigator
+proficient_skills: []
 appearance: Imposing and armor-ready, wearing Jin-state guard uniform of dark green and black. Always
   armed.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 45
   body_build: tall and muscular, broad-shouldered
@@ -31,6 +37,7 @@ fears_or_limits:
 - That the warlord is using her as bait and will sacrifice her to catch the conspiracy
 current_state:
   location: location:jin-an
+purview: []
 ---
 
 A stern, battle-scarred captain of the Jin palace guard who is trusted by the warlord and feared by the court for her unflinching discipline.

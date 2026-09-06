@@ -9,10 +9,16 @@ gm_notes: 'Tamamo is a wild kitsune — a fox spirit who never joined the shrine
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Wild kitsune (fox spirit)
+proficient_skills: []
 appearance: A woman who is almost human — almost. Fox ears rise through her hair, and three tails shift
   behind her, visible when she chooses. She wears a layered kimono in autumn colors, and she moves like
   something that has never been in a hurry. Her smile is too wide and too warm.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: ageless — appears mid-twenties
   hair: silver-white, long, loose
@@ -28,6 +34,7 @@ fears_or_limits:
   her from warded ground. She fears being sealed, which is a yokai''s version of imprisonment.'
 current_state:
   location: location:tsukuyomi
+purview: []
 ---
 
 A wild kitsune — a fox spirit who lives outside the shrine network's wards. She appears as a woman with fox ears and multiple tails, or as a fox, or as something in between. She is beautiful, amused, and not entirely trustworthy. She speaks in riddles that she insists are perfectly clear.

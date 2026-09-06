@@ -10,9 +10,15 @@ gm_notes: Hilda runs a small orphanage in Crownhaven's lower town, taking in chi
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Orphanage Matron
+proficient_skills: []
 appearance: Large and formidable, Hilda wears a heavy dress and a no-nonsense expression. She has a booming
   voice and a surprisingly gentle touch with the children in her care.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 52
   body_build: large and imposing
@@ -30,6 +36,7 @@ fears_or_limits:
 - that she cannot hide the children's abilities forever
 current_state:
   location: location:crownhaven
+purview: []
 ---
 
 A fierce and loving orphanage matron who protects her children with the ferocity of a mother dragon — which is exactly what the noblewoman screening them is counting on finding.

@@ -10,10 +10,16 @@ gm_notes: Saya's sake is prized across the region for its impossible smoothness.
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Sake brewer (toji)
+proficient_skills: []
 appearance: She wears a stained indono apron over a plain kimono, sleeves rolled to the elbow. Her forearms
   are strong from stirring mash, and she smells of koji and cool water. She has a habit of tapping the
   rim of her earthenware jugs to judge their contents by sound.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: early forties
   body_build: sturdy, thick-armed
@@ -31,6 +37,7 @@ fears_or_limits:
 - Someone with more power than she has is asking questions she can't keep deflecting forever.
 current_state:
   location: location:haru-shrine-town
+purview: []
 ---
 
 A sake brewer in Haru's Shrine Town, known for the best sake in the province. She works before dawn in a small brewery that smells of fermenting rice and cedar. She is generous with samples and guarded with her process.

@@ -9,8 +9,14 @@ gm_notes: The greatest acupuncturist in Jin-an and secretly a chi-cultivation ma
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Master physician and acupuncturist
+proficient_skills: []
 appearance: Calm and attentive, wearing simple linen healer's robes. Always carries a silk needle roll.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 52
   body_build: compact and sturdy
@@ -29,6 +35,7 @@ fears_or_limits:
 - Treating someone whose illness is caused by deliberate chi-poisoning
 current_state:
   location: location:jin-an
+purview: []
 ---
 
 A renowned physician-acupuncturist whose clinic in Jin-an is always crowded with patients from every social class.

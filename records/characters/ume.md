@@ -11,10 +11,16 @@ gm_notes: Ume tends the shogunate's stable and has noticed that the elder prince
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Stable hand (umakata)
+proficient_skills: []
 appearance: She wears rough work clothes and high wooden clogs to keep out of the muck, her hair tied
   in a cloth. She smells of hay and horse, and she talks to the animals in a low, constant murmur. Her
   hands are calloused and she's stronger than she looks.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: nineteen
   body_build: sturdy, short
@@ -31,6 +37,7 @@ fears_or_limits:
 - If whoever is tampering with the feed learns she's been swapping it, she could be the next target.
 current_state:
   location: location:tsuki-no-miyako
+purview: []
 ---
 
 A stable hand in the shogunate's palace stables who knows every horse by name and temperament. She mucks stalls, mixes feed, and reads the animals' moods better than most people read faces. She's noticed something wrong with one of the prince's horses.

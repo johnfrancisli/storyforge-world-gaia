@@ -13,9 +13,15 @@ gm_notes: 'An elder who sits on the informal council of Iara and is respected fo
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Elder council member and chief's wife
+proficient_skills: []
 appearance: Dignified and composed, with the bearing of someone who has spent decades navigating tribal
   politics. Wears fine woven garments and ceremonial paint. Her eyes miss nothing.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 62
   body_build: medium and straight-backed, dignified in bearing
@@ -34,6 +40,7 @@ fears_or_limits:
 - That losing her political standing will leave her and Sangue both unprotected
 current_state:
   location: location:iara
+purview: []
 ---
 
 A dignified human elder and former healer who serves on Iara's council and is known for her measured wisdom and her political acumen.

@@ -10,9 +10,15 @@ gm_notes: An eleven-year-old girl who is the strongest unconscious chi-cultivato
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Child chi-prodigy and object of a three-way search
+proficient_skills: []
 appearance: Small for her age and wiry, wearing simple paper-maker's child clothes. Always looks slightly
   apologetic.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 11
   body_build: small, slight, and wiry
@@ -31,6 +37,7 @@ fears_or_limits:
 - Being taken away and turned into a weapon
 current_state:
   location: location:sangguo
+purview: []
 ---
 
 A small, quiet girl of eleven with enormous dark eyes who tries very hard to be good and very hard not to break things.

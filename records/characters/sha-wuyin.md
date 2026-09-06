@@ -11,9 +11,15 @@ gm_notes: A shadowy figure who operates Jin-an's underground gambling den and is
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Gambling den operator and underground fixer
+proficient_skills: []
 appearance: Hard-edged and watchful, wearing dark, practical clothes under a gambler's coat. Rings on
   every finger, eyes on every door.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 44
   body_build: lean and wiry, coiled-tight
@@ -32,6 +38,7 @@ fears_or_limits:
 - That no buyer will pay what the information is worth and she will have died for nothing
 current_state:
   location: location:jin-an
+purview: []
 ---
 
 A sharp-eyed, sharp-tongued woman who runs Jin-an's most discreet gambling den and knows where every secret in the city is buried.

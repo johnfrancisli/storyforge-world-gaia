@@ -12,9 +12,15 @@ gm_notes: 'A ten-year-old human girl who is the happiest child in Iara and who h
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Child and unknowing spirit-host
+proficient_skills: []
 appearance: Small, bright-eyed, and constantly in motion. Barefoot, simple wrap, hair wild. Carries a
   woven doll made of palm leaves.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 10
   body_build: small and wiry, all elbows and knees
@@ -33,6 +39,7 @@ fears_or_limits:
 - The dark water under the stilt-platforms at night
 current_state:
   location: location:iara
+purview: []
 ---
 
 A bright, laughing human child who races through the stilt-platforms of Iara with boundless energy and talks constantly to someone no one else can see.

@@ -12,9 +12,15 @@ gm_notes: A messenger who carries letters between the city-states of Al-Khayzar,
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Courier, intelligence gatherer
+proficient_skills: []
 appearance: Weathered and compact in desert riding clothes and a wrapping scarf, she moves with the economy
   of someone who conserves every motion. Her camel is lean and fast, and she treats it better than herself.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 28
   body_build: lean and wiry, rider's build
@@ -34,6 +40,7 @@ fears_or_limits:
 - That the djinn's gift was not free and the payment will be collected at the worst possible moment
 current_state:
   location: location:al-khayzar
+purview: []
 ---
 
 A lean, sun-darkened messenger who rides the desert routes between city-states faster than anyone else. She carries a leather satchel of sealed letters and is known for never being late and never being caught.

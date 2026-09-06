@@ -15,9 +15,15 @@ gm_notes: Pili is a bone carver who creates tools, fishhooks, and ornaments from
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Bone carver
+proficient_skills: []
 appearance: A lean, quiet man with bone dust on her hands and a carver's careful focus. She works in a
   small shelter and speaks rarely, letting her craft communicate for her.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: thirty-five
   body_build: lean, quiet, careful
@@ -39,6 +45,7 @@ fears_or_limits:
 - That each catch comes with a cost she has not yet identified — that the sea is trading, not giving
 current_state:
   location: location:lani-atoll
+purview: []
 ---
 
 A bone carver who makes hooks that catch intangible things — memories, promises, lost objects. She is now carving a hook for 'what the sea has swallowed,' and she is afraid of the catch.

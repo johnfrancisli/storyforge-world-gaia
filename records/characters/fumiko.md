@@ -9,10 +9,16 @@ gm_notes: Fumiko was once the shogunate's court koto player, dismissed when she 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Musician (koto player)
+proficient_skills: []
 appearance: She sits behind her koto with perfect posture, her hands moving over the strings with a precision
   that comes from decades of practice. She wears a refined but faded kimono — the fabric of better days.
   Her expression is serene until she thinks no one is watching.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: early forties
   body_build: slender, straight-backed
@@ -29,6 +35,7 @@ fears_or_limits:
 - She has no protector and no patron — just a instrument and a reputation that is fading.
 current_state:
   location: location:tsuki-no-miyako
+purview: []
 ---
 
 A koto musician who plays in a modest teahouse in the capital's entertainment district. She was once the shogunate's finest court musician. She plays with extraordinary skill for small audiences and pretends she doesn't miss the palace.

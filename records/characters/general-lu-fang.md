@@ -10,10 +10,16 @@ gm_notes: Lu Fang is loyal to the idea of a unified Sangguo, not to Cao Shen per
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: General of the Jin army
+proficient_skills: []
 appearance: A tall, imposing man in military robes and lamellar armor, a dao sword at his hip. He stands
   the way soldiers do — balanced, ready, aware of exits. His beard is thick and his topknot is precise.
   He speaks rarely and means it.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: early forties
   body_build: tall, muscular, imposing
@@ -30,6 +36,7 @@ fears_or_limits:
   He does not know Cao Shen is dying, and his plans are built on the assumption that Cao Shen has years.
 current_state:
   location: location:jin-an
+purview: []
 ---
 
 Cao Shen's top general, commanding the Jin army. A man in his early forties, tall and martial, with a reputation for decisive action. He is publicly loyal and privately ambitious — not for himself, but for the cause of unification, which he believes requires urgency that Cao Shen's caution will not provide.

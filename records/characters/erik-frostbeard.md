@@ -12,11 +12,17 @@ gm_notes: 'Erik is a veteran navigator who sailed the northern routes for thirty
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Retired Navigator / Elder
+proficient_skills: []
 appearance: Weathered and white-bearded, Erik sits in the mead hall with a horn of mead and a far-away
   look. He wears a faded sailor's coat and his hands move constantly — tracing currents and coastlines
   on the table, as though the maps are always in front of him. He walks with a cane and a limp, both legs
   stiff from decades of cold and wet.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 67
   body_build: tall but stooped, once powerful now thinning
@@ -36,6 +42,7 @@ fears_or_limits:
 - that he will die without ever knowing whether he was a discoverer or a fool
 current_state:
   location: location:skaldvik
+purview: []
 ---
 
 An old navigator who sailed further than maps allow and came back with a sighting he has never spoken of — land where no land should be, in a cold where no ship should sail.

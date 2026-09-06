@@ -13,9 +13,15 @@ gm_notes: Rina carves shell ornaments that are worn by every chief's family and 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Shell worker
+proficient_skills: []
 appearance: A fine-featured, precise woman with shell-dust on her hands and a carving tool always nearby.
   She works in careful, deliberate strokes and examines every piece as if it might hold a secret.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: thirty-one
   body_build: slim, fine-featured, precise in movement
@@ -36,6 +42,7 @@ fears_or_limits:
 - That carving the shell is not revealing the voices but releasing them
 current_state:
   location: location:lani-atoll
+purview: []
 ---
 
 A master shell carver who found a shell that speaks. As she carves it, the voices inside grow clearer, and what they are saying about the rising seas terrifies her.

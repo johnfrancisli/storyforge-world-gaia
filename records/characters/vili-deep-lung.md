@@ -16,9 +16,15 @@ gm_notes: Vili is a pearl diver, one of the few men in the profession, and he is
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Pearl diver (deep)
+proficient_skills: []
 appearance: A lean, deep-chested man with a diver's build and an ease in the water that is unsettling
   to watch. He moves through the sea as if it is his natural element, which, secretly, it is.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: thirty
   body_build: lean, deep-chested, long-limbed
@@ -40,6 +46,7 @@ fears_or_limits:
 - That someone will see his gills and he will be driven from the community as something other than human
 current_state:
   location: location:tide-archipelago
+purview: []
 ---
 
 A pearl diver with hidden gills who can reach depths no one else survives. He has seen structures beneath the Archipelago — a vast stone foundation, as if the islands were built on something.

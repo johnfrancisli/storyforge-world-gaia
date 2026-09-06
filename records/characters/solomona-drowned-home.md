@@ -15,9 +15,15 @@ gm_notes: 'Solomona is a refugee who arrived at Lani Atoll with his two children
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Refugee and canoe builder
+proficient_skills: []
 appearance: A strong, quiet man with a builder's hands and a refugee's donated clothing. He works constantly,
   building and repairing canoes with a skill that betrays his former status as a master craftsman.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: forty-one
   body_build: strong, broad-handed, weathered
@@ -40,6 +46,7 @@ fears_or_limits:
   first
 current_state:
   location: location:lani-atoll
+purview: []
 ---
 
 A refugee canoe builder who stayed too long on his sinking island trying to retrieve a buried chest. He is now building a diving canoe to recover it from thirty feet of water.

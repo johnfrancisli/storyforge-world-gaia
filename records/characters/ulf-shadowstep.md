@@ -12,11 +12,17 @@ gm_notes: 'Ulf is a hunter and trapper who works the mountain forests, setting l
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Hunter / Trapper
+proficient_skills: []
 appearance: Lean and weather-tough, Ulf wears furs and wool in layered camouflage, his face half-hidden
   under a fur hood. He carries a bow, a belt knife, and a trapping bag, and he moves through the forest
   like he is part of it — no sound, no wasted motion. He is not a talkative man, and he has become less
   so since the cave.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 38
   body_build: lean and long-limbed, built for silent movement
@@ -34,6 +40,7 @@ fears_or_limits:
 - that telling someone will bring an expedition that disturbs whatever seal the ice represents
 current_state:
   location: location:hrafnland
+purview: []
 ---
 
 A trapper who knows the mountain forests track by track and trap by trap, and who found something frozen in a cave that he wishes he could freeze out of his own memory.

@@ -13,10 +13,16 @@ gm_notes: A calligrapher who can write binding contracts that are more binding t
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Master calligrapher, contract scribe
+proficient_skills: []
 appearance: Refined and still in flowing dark robes, her hands stained with ink to the wrist. She writes
   with a reed pen in a hand so steady it is said she can draw a line the width of a hair. She speaks softly
   and never repeats herself.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 36
   body_build: slender, long-fingered
@@ -36,6 +42,7 @@ fears_or_limits:
 - That the binding families will compare her contracts and discover the inserted clauses
 current_state:
   location: location:zaffar
+purview: []
 ---
 
 A celebrated calligrapher whose binding contracts are sought after by every binding family in Zaffar. She works in a quiet studio filled with ink stones, reed pens, and drying scrolls, and she is never rushed.

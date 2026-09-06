@@ -13,11 +13,17 @@ gm_notes: 'Jarl Sigrid did not inherit this fjord — she took it. Her older bro
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Jarl of Skaldvik
+proficient_skills: []
 appearance: Tall and commanding, Sigrid wears a fur-trimmed cloak of deep blue over ringmail when she
   sits the high seat. Her silver-blonde hair is braided in the warrior-knot, and a brooch of polished
   iron — her brother's, reforged — pins her cloak. She speaks deliberately, as though every word is a
   stone she is placing in a wall.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 48
   body_build: tall, broad-shouldered, still strong
@@ -35,6 +41,7 @@ fears_or_limits:
 - that keeping Torsten's secret has made her something colder than she meant to become
 current_state:
   location: location:skaldvik
+purview: []
 ---
 
 The jarl of Skaldvik, who rules her fjord from the high seat of the mead hall with a voice that carries over storms and a memory that forgives nothing.

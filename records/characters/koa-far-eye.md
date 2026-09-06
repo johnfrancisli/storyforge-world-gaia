@@ -15,9 +15,15 @@ gm_notes: Koa is a scout who watches the southern approaches to the Archipelago 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Scout
+proficient_skills: []
 appearance: A young, lean man with a scout's trained eyes and a watcher's patience. He spends most of
   his time in the watchtower and has the sun-weathered look of someone who is always outdoors.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: twenty-five
   body_build: lean, sharp-eyed, patient
@@ -41,6 +47,7 @@ fears_or_limits:
   will be met with fear instead of welcome
 current_state:
   location: location:tide-archipelago
+purview: []
 ---
 
 A southern watchtower scout who has been tracking a formation of underwater lights moving north toward the Archipelago. They are getting closer every night, and he has not told anyone.

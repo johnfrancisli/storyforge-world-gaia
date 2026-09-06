@@ -11,10 +11,16 @@ gm_notes: Rei is one of the shogun's (character:shogun-ashikara) personal guard 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Palace guard (banhei)
+proficient_skills: []
 appearance: She wears the dark lacquered armor of the shogun's guard, her yari resting at attention beside
   her. Her hair is cropped short under a helmet. She stands perfectly still for hours at a time and notices
   everything that moves in her peripheral vision.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: late twenties
   body_build: athletic, tall
@@ -33,6 +39,7 @@ fears_or_limits:
   starting a coup.
 current_state:
   location: location:tsuki-no-miyako
+purview: []
 ---
 
 A guard in the shogun's personal retinue, one of the few women in the palace guard. She stands watch at the shogun's chambers with a yari spear and an expression that discourages conversation. She is loyal to the shogunate, not to any individual — a distinction she's finding increasingly painful.

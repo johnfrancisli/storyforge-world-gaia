@@ -12,10 +12,16 @@ gm_notes: Jinichi was a samurai who killed a child during a raid on a rebel vill
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Monk (bozu)
+proficient_skills: []
 appearance: He wears saffron robes that are faded from washing, a prayer bead bracelet on one wrist. He's
   bigger than most monks — broad-shouldered, with hands that are calloused in ways that have nothing to
   do with gardening. He bows to everyone and avoids eye contact.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: early forties
   body_build: large, broad-shouldered, deceptively powerful
@@ -34,6 +40,7 @@ fears_or_limits:
   road with no shrine ward at all.
 current_state:
   location: location:tsukuyomi
+purview: []
 ---
 
 A Buddhist monk at a small mountain temple in Tsukuyomi, known for his gentleness and the way he feeds the wild birds from his hand. He tends the temple garden and sweeps the steps. He is large for a monk and moves with a fighter's economy that he tries to hide.

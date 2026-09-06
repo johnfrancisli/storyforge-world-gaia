@@ -9,9 +9,15 @@ gm_notes: Finneas is a halfling tinker who travels between villages repairing po
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Tinker
+proficient_skills: []
 appearance: Small and road-dusty, Finneas wears a patched travelling coat with dozens of pockets, each
   holding tools and trinkets. A mule named Doris carries his wares.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 33
   body_build: short and wiry, halfling stature
@@ -28,6 +34,7 @@ fears_or_limits:
 - that his thieving past will catch up with him regardless of what he chooses
 current_state:
   location: location:valdris
+purview: []
 ---
 
 A road-worn halfling tinker whose nimble fingers fix broken things — and open locked ones — far more often than he'd like to admit.

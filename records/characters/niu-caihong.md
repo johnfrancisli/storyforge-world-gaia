@@ -10,9 +10,15 @@ gm_notes: An elderly beggar woman in Jin-an who is actually a retired chi-cultiv
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Disguised chi-cultivation master and protector of street children
+proficient_skills: []
 appearance: Small and hunched in layered dirty rags, but with eyes that are too clear and a stillness
   that does not match her apparent frailty.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 72
   body_build: small, hunched, deceptively solid beneath the rags
@@ -31,6 +37,7 @@ fears_or_limits:
 - That training the child will repeat the cycle she fled
 current_state:
   location: location:jin-an
+purview: []
 ---
 
 A wrinkled, seemingly frail beggar woman who sits by the market well and watches the world with unsettlingly clear eyes.

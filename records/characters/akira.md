@@ -11,10 +11,16 @@ gm_notes: Akira has been tutoring both princes for five years and has been quiet
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Scholar and tutor (jusha)
+proficient_skills: []
 appearance: He wears a scholar's kimono in dark blue, a reading brush tucked in his sash. His study is
   piled with scrolls and annotated texts. He speaks slowly and precisely, weighing each word, and he has
   a habit of answering a question with a question that reshapes the conversation.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: late fifties
   body_build: medium, softening with age
@@ -33,6 +39,7 @@ fears_or_limits:
   network, the yokai — and his plans don't account for forces he can't tutor.
 current_state:
   location: location:tsuki-no-miyako
+purview: []
 ---
 
 A scholar and tutor in the capital who has educated the shogunate's heirs for years. He is erudite, soft-spoken, and respected by the court. He maintains a modest study full of scrolls and receives visitors over tea, always listening more than he speaks.

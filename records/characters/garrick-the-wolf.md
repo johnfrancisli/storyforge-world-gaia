@@ -10,10 +10,16 @@ gm_notes: Garrick is a bandit lord who controls a stretch of the Greywood road. 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Bandit lord, former soldier
+proficient_skills: []
 appearance: A big, weathered man in worn leather armor and a wolf-pelt cloak that gives him his name.
   He carries a longsword that is too good for a bandit — army-issue, well-maintained. His face is wind-burned,
   his beard unkempt, and his eyes are tired in a way that has nothing to do with sleep.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: mid-forties
   body_build: big, broad, scarred
@@ -32,6 +38,7 @@ fears_or_limits:
   loyal but hungry, and loyalty has a shelf life. The crown's patrols are getting more aggressive.
 current_state:
   location: location:valdris
+purview: []
 ---
 
 A former army sergeant turned bandit lord, controlling a stretch of the Greywood road. A big, weathered man who robs the wealthy and leaves common folk alone. His men are disciplined — more like a rogue military unit than a gang. The crown wants him dead. The villagers tolerate him.

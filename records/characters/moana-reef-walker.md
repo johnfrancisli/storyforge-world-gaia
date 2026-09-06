@@ -13,10 +13,16 @@ gm_notes: 'Moana fishes the shallow reefs at dawn every day and has done so for 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Fisher
+proficient_skills: []
 appearance: A stocky, weathered woman with salt-bleached hair and a fishing spear always at hand. She
   wears a woven hat against the sun and moves along the reef with the sureness of someone who knows every
   step.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: forty-six
   body_build: stocky, thick-legged, sure-footed
@@ -35,6 +41,7 @@ fears_or_limits:
 - That showing the map will give false hope to families who have already lost their islands
 current_state:
   location: location:tide-archipelago
+purview: []
 ---
 
 A reef fisher who has fished the same waters for twenty years and is now watching the reef grow in impossible patterns. She carries a secret map of a sea that is building something no one expected.

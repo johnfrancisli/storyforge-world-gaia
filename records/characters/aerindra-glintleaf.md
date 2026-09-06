@@ -10,9 +10,15 @@ gm_notes: Aerindra is an elven fletcher who crafts arrows for the Dragon Order's
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Fletcher
+proficient_skills: []
 appearance: Slender and focused, Aerindra wears an elven work-tunic and has feather-down perpetually caught
   in her hair. She moves with the precision of someone whose craft allows no error.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 95
   body_build: slender and precise, elven
@@ -30,6 +36,7 @@ fears_or_limits:
 - that the saboteur is someone within the Order she has trusted for years
 current_state:
   location: location:dragonrest
+purview: []
 ---
 
 An elven fletcher whose arrows fly true — and who has discovered that someone has been making sure they don't.

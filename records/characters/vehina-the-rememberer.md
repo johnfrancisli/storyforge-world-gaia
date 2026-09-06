@@ -13,9 +13,15 @@ gm_notes: 'Vehina is the oldest person on Lani Atoll and the keeper of the genea
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Chant keeper and elder
+proficient_skills: []
 appearance: A tiny, frail woman wrapped in fine woven cloth, her eyes milky but sharp. She sits in the
   meeting house and chants in a voice that is barely a whisper but carries across the entire hall.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: eighty-three
   body_build: small, frail, bird-boned
@@ -37,6 +43,7 @@ fears_or_limits:
   half a tradition and no one to complete it
 current_state:
   location: location:lani-atoll
+purview: []
 ---
 
 The eldest chant-keeper on Lani Atoll, guardian of eight generations of genealogy. She is losing her memory and has chosen an unlikely heir — a refugee child with no lineage at all.

@@ -13,10 +13,16 @@ gm_notes: A carpet weaver whose carpets are said to show the pattern of a person
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Master carpet weaver
+proficient_skills: []
 appearance: Graceful and focused in a dyed apron over simple robes, her hands moving across the loom with
   rhythmic precision. Thread dust clings to her clothes and hair. She hums while working — always the
   same melody, one she says the loom taught her.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 38
   body_build: slender, long-fingered
@@ -35,6 +41,7 @@ fears_or_limits:
 - That the carpets' prophetic properties will attract the attention of the djinn themselves
 current_state:
   location: location:zaffar
+purview: []
 ---
 
 A master carpet weaver in the Textile Quarter whose carpets are prized for their luminous patterns and the strange dreams they give those who sleep on them. She works at a massive loom in a workshop thick with colored thread.

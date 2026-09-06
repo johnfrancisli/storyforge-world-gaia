@@ -8,10 +8,16 @@ gm_notes: Takeda is quietly assembling a coalition of rural clans who feel the s
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Daimyo (provincial lord)
+proficient_skills: []
 appearance: A stern man in dark samurai armor, his helmet carried by a retainer behind him. He wears a
   daisho — katana and wakizashi — at all times, even indoors. His posture is perfect. He smells of iron
   and cedar oil.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: mid-fifties
   body_build: solid, compact
@@ -29,6 +35,7 @@ fears_or_limits:
   too hard too fast makes him a rebel instead of a reformer.
 current_state:
   location: location:tsuki-no-miyako
+purview: []
 ---
 
 A daimyo of the Takeda clan, holding the northern mountain province of Tsukuyomi. A disciplined man in his fifties who maintains a well-run territory and a grudge against the capital. He speaks slowly and means every word.

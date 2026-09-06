@@ -13,10 +13,16 @@ gm_notes: A cook who runs a kitchen feeding the poor of the eastern quarter, fun
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Communal cook, quarter benefactor
+proficient_skills: []
 appearance: Stout and flour-dusted in a cook's apron over practical cotton, her arms ruddy from steam
   and heat. She stirs pots taller than herself with a wooden paddle and never stops moving. She smells
   of bread and cumin and rosewater.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 50
   body_build: stout and strong-armed
@@ -35,6 +41,7 @@ fears_or_limits:
 - That the people she feeds will realize the food is adulterated and lose trust in her kitchen
 current_state:
   location: location:zaffar
+purview: []
 ---
 
 A warm, tireless cook who runs the eastern quarter's communal kitchen, feeding hundreds daily from enormous copper pots. She knows every family in the quarter by name and what each child will eat.

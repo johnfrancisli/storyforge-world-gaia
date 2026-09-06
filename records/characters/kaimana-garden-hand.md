@@ -13,9 +13,15 @@ gm_notes: 'Kaimana tends the taro gardens on the inland of a large island, the g
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Farmer and gardener
+proficient_skills: []
 appearance: A sun-browned, earth-handed woman with soil under her nails and a calm, methodical manner.
   She carries seed pouches and a digging stick, and she is always testing soil with her fingers.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: thirty-five
   body_build: strong-backed, broad-handed, sun-browned
@@ -35,6 +41,7 @@ fears_or_limits:
   into the water table
 current_state:
   location: location:tide-archipelago
+purview: []
 ---
 
 A farmer who is secretly fighting a losing battle against salt contamination in the island's gardens. She is racing to breed a salt-tolerant crop before anyone notices the food is failing.

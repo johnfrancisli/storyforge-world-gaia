@@ -12,10 +12,16 @@ gm_notes: Mana's tattoo work is more than art — each route-map she carves into
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Tattoo artist, route-carver
+proficient_skills: []
 appearance: A stocky woman in work clothes, her arms covered in the tattoo patterns she has carved on
   others — a tradition that artists carry the routes they inscribe. She holds a bone tattooing needle
   and ink made from volcanic soot. Her hands are steady and her eyes are kind.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: early forties
   body_build: stocky, strong-armed
@@ -37,6 +43,7 @@ fears_or_limits:
   idea. She is an artist, not a scholar, and she does not know how to prove it.
 current_state:
   location: location:lani-atoll
+purview: []
 ---
 
 The tattoo artist of Lani Atoll, a woman in her forties who carves the route-maps into wayfinders' skin. Her work is art, craft, and something more — the tattoos are not just records, they are connections. She is quiet, skilled, and carrying a theory about the rising seas that no one has asked her for.

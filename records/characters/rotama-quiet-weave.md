@@ -15,9 +15,15 @@ gm_notes: Rotama is a sail maker's apprentice who works under Leilani Wave-Singe
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Sail maker's apprentice
+proficient_skills: []
 appearance: A small, quiet girl with a sail maker's stained hands and a tendency to watch the sky when
   others watch the sea. She is diligent and eager to please and terrified of something she cannot explain.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: fifteen
   body_build: small, quiet, quick-handed
@@ -40,6 +46,7 @@ fears_or_limits:
   too late to do anything
 current_state:
   location: location:lani-atoll
+purview: []
 ---
 
 A fifteen-year-old sail maker's apprentice who can see the wind — and who has been watching something invisible displace the air north of the Archipelago. It is large, high, and growing.

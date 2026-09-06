@@ -10,10 +10,16 @@ gm_notes: Wen Li is a river-folk woman who manages the canal system that feeds J
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Canal master, river-folk
+proficient_skills: []
 appearance: A compact river-folk woman in work clothes, her blue-green skin damp, her webbed hands calloused
   from rope and stone work. She carries a canal surveyor's rod and wears a waterproof jacket. She is usually
   wet to the elbows.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: late thirties
   body_build: compact, strong
@@ -31,6 +37,7 @@ fears_or_limits:
   is becoming more appealing and more desperate. She is a civilian, not a fighter.
 current_state:
   location: location:jin-an
+purview: []
 ---
 
 A river-folk canal master who maintains the water system feeding Jin'an's grain supply. A practical, weathered woman who has been fighting for maintenance funding for two years and losing. She knows the canals better than anyone alive, and she knows they are failing.

@@ -11,10 +11,16 @@ gm_notes: 'Fatima discovered Malik''s research notes three days ago. She is not 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Binding-family daughter, political reformer
+proficient_skills: []
 appearance: A young woman in fine desert robes — deep blue and silver, less flashy than her brother's.
   She carries a book of contract law under her arm and has ink on her fingers. She is quieter than Malik
   and pays closer attention. She watches her brother the way a chess player watches a piece.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: late teens
   body_build: slim, small
@@ -35,6 +41,7 @@ fears_or_limits:
   tell him.
 current_state:
   location: location:zaffar
+purview: []
 ---
 
 Malik's younger sister, in her late teens. Sharp, political, and frustrated with her family's culture of secrecy. She is not bound by the family's oldest contract — only firstborns are — and she sees that as both a freedom and an injustice. She has opinions about the binding families' system that would scandalize the council.

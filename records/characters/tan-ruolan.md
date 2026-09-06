@@ -10,9 +10,15 @@ gm_notes: A fortune teller in Jin-an's market district who reads palms and torto
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Fortune teller and reluctant seer
+proficient_skills: []
 appearance: Mystical and theatrical in market-performers' robes, draped in auspicious charms. Eyes that
   seem to look through people.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 42
   body_build: thin and angular
@@ -31,6 +37,7 @@ fears_or_limits:
 - That her vision of the coup is one of her thirty-percent wrong readings
 current_state:
   location: location:jin-an
+purview: []
 ---
 
 A popular fortune teller in Jin-an's market whose palm readings are eerily accurate, drawing clients from all social classes.

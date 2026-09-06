@@ -10,10 +10,16 @@ gm_notes: Aurelia is one of the few female dragon-bonded knights of the Dragon O
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Dragon-Bonded Knight
+proficient_skills: []
 appearance: Tall and commanding, Aurelia wears Dragon Order plate etched with flame motifs. Her red-gold
   hair is cut short for helmet-fitting, and she moves with an awareness that suggests she is always listening
   for something inaudible.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 29
   body_build: tall and athletic
@@ -31,6 +37,7 @@ fears_or_limits:
 - that the wild dragon may be hostile and Emberthyst will be hurt
 current_state:
   location: location:dragonrest
+purview: []
 ---
 
 A fierce dragon-bonded knight whose bond with her young dragon is the most important thing in her life — and who is hiding the fact that her dragon may be leading her to a discovery that changes everything.

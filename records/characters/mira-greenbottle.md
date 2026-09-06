@@ -9,9 +9,15 @@ gm_notes: Mira is a halfling herbalist who discovered a rare mushroom that can t
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Herbalist
+proficient_skills: []
 appearance: Small and round-faced, Mira wears a patched green dress and carries herbs in every pocket.
   Her curly hair always seems to have a leaf or twig caught in it.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 38
   body_build: short and soft, halfling stature
@@ -29,6 +35,7 @@ fears_or_limits:
 - that she will be forced to choose between her village and her conscience
 current_state:
   location: location:valdris
+purview: []
 ---
 
 A cheerful halfling herbalist with dirt under her nails and a dangerous secret growing in her cellar.

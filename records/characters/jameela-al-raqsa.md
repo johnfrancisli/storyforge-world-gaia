@@ -12,10 +12,16 @@ gm_notes: 'A dancer at the Star Bazaar whose performances draw crowds from every
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Dancer, contracted performer
+proficient_skills: []
 appearance: Graceful and luminous in layered silk veils and finger cymbals, she moves as if her bones
   are liquid. She is small and lithe, and every gesture is deliberate. She favors golden silk and kohl-lined
   eyes.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 34
   body_build: lithe and small, dancer's physique
@@ -35,6 +41,7 @@ fears_or_limits:
   for something she does not understand
 current_state:
   location: location:zaffar
+purview: []
 ---
 
 A dancer whose performances at the Star Bazaar are the talk of Zaffar — fluid, impossible movements that seem to defy the body's limits. She dances with silk veils and finger cymbals and never appears to tire.

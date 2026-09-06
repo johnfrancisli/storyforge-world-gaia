@@ -11,9 +11,15 @@ gm_notes: An archivist at the Great Academy who has discovered a sealed scroll r
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Senior archivist and keeper of forbidden history
+proficient_skills: []
 appearance: Bookish and unobtrusive, always in Academy brown robes. Carries a scroll-case and reading
   spectacles.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 58
   body_build: slight and slightly stooped from years at reading desks
@@ -32,6 +38,7 @@ fears_or_limits:
 - Dying before she finishes copying everything
 current_state:
   location: location:jin-an
+purview: []
 ---
 
 A quiet, meticulous archivist at the Great Academy's grand library who knows every shelf, scroll, and secret catalog by heart.

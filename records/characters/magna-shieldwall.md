@@ -12,10 +12,16 @@ gm_notes: 'Magna is a guard in Jarl Sigrid''s household, one of the twelve under
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Guard / Watchman
+proficient_skills: []
 appearance: Solid and square-jawed, Magna wears the white cloak and ringmail of the jarl's guard with
   a shield on her back and a spear in her hand. She is younger than most of the guard, and she takes the
   watch more seriously than anyone — because for her, the watch is also a deception.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 27
   body_build: medium height, square-shouldered and strong
@@ -34,6 +40,7 @@ fears_or_limits:
 - that her brother will die in the hills before she can find a way to bring him in from the cold
 current_state:
   location: location:skaldvik
+purview: []
 ---
 
 A guard who stands the watch with steady eyes and a straight spear, and who leaves one gate unlatched every few nights for a brother the fjord thinks is long gone.

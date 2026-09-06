@@ -11,10 +11,16 @@ gm_notes: 'Hrafn is a boy of ten, the son of two of the jarl''s household thrall
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Child
+proficient_skills: []
 appearance: Small and dark-haired, Hrafn wears the plain wool of a thrall's child — undyed, patched. He
   is thin and quiet, the kind of child who is easy to overlook, which is how he prefers it. He watches
   everything with dark, serious eyes that look older than ten.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 10
   body_build: small and thin, underfed for his age
@@ -33,6 +39,7 @@ fears_or_limits:
 - that Yrsa will catch him watching and be angry, or worse, interested
 current_state:
   location: location:skaldvik
+purview: []
 ---
 
 A boy of the thralls' quarters who should be too young for secrets, and who has started feeling something in the dark when the volur chant — something that answers back.

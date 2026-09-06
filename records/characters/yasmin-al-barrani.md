@@ -12,10 +12,16 @@ gm_notes: The most successful spice merchant in Zaffar, controlling nearly a thi
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Master spice merchant, political agitator
+proficient_skills: []
 appearance: Robust and commanding in saffron-dyed silk and gold-trimmed vest. Her hands are stained yellow
   at the fingertips from years of grading saffron threads. She wears a merchant's abacus on a chain at
   her hip.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 48
   body_build: stout and strong, commanding presence
@@ -36,6 +42,7 @@ fears_or_limits:
   war
 current_state:
   location: location:zaffar
+purview: []
 ---
 
 A formidable spice merchant whose saffron-scented warehouse is the largest in the Spice Quarter. She receives caravans personally, negotiates in five languages, and is respected — and feared — by every trader in Zaffar.

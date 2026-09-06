@@ -12,10 +12,16 @@ gm_notes: An astrologer who can read the true names of djinn in the stars — a 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Astrologer, true-name reader
+proficient_skills: []
 appearance: Quiet and intense in dark scholar's robes, she carries a brass astrolabe and a tube of star
   charts. She works on the rooftop of her tower at night and sleeps during the day. Her eyes are always
   slightly unfocused, as if watching something beyond the room.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 44
   body_build: thin and angular
@@ -35,6 +41,7 @@ fears_or_limits:
   for every faction
 current_state:
   location: location:zaffar
+purview: []
 ---
 
 An astrologer who reads the true names of djinn in the stars from her rooftop tower in Zaffar. She works at night and sleeps by day, and her star charts contain annotations no other astrologer can decipher.

@@ -9,9 +9,15 @@ gm_notes: Malik's grandfather bound a djinn named Zuhayr three generations ago. 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Binding-family scion
+proficient_skills: []
 appearance: A young man in fine desert robes — cream and gold — with a jeweled dagger at his belt that
   is more ornament than weapon. He carries himself well but watches the shadows. He smells of sandalwood.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: early twenties
   body_build: slim, tall
@@ -31,6 +37,7 @@ fears_or_limits:
   desperate he is.
 current_state:
   location: location:zaffar
+purview: []
 ---
 
 A young binding-family scion of Zaffar. Handsome, educated, and visibly uneasy. He is the heir to one of the oldest djinn contracts in Al-Khayzar, and he carries that weight in the set of his shoulders. He can be found in the Star Bazaar at night, haggling with the ease of someone raised in it.

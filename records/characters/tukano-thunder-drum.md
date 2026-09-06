@@ -12,9 +12,15 @@ gm_notes: A bird beast-kin drummer whose rhythms can induce trance states, heal 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Master drummer and rain-summoner
+proficient_skills: []
 appearance: Compact and electric with energy, feathers ruffled with constant motion. Carries a large ceremonial
   drum everywhere, hands always twitching as if keeping time.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 35
   body_build: compact and muscular from drumming, broad-chested
@@ -35,6 +41,7 @@ fears_or_limits:
   behind it
 current_state:
   location: location:verdania
+purview: []
 ---
 
 A vibrant bird beast-kin drummer whose rhythms shake the stilt-platforms and can bring an entire gathering into synchronized movement or trance.

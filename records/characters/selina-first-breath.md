@@ -13,9 +13,15 @@ gm_notes: 'Selina is the midwife who has caught every baby born on Lani Atoll fo
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Midwife
+proficient_skills: []
 appearance: A calm, sure-handed woman with a healer's gentleness and an iron core. She wears simple cloth
   and carries a birthing kit in a woven bag. Her presence alone steadies panicked rooms.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: forty-eight
   body_build: solid, sure-handed, calm in bearing
@@ -37,6 +43,7 @@ fears_or_limits:
 - That the three mothers she brought back are not entirely themselves
 current_state:
   location: location:lani-atoll
+purview: []
 ---
 
 The midwife of Lani Atoll, who has never lost a mother — because she can sing the dying back from the edge. She carries a power she does not understand and does not want.

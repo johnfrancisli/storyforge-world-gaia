@@ -10,10 +10,16 @@ gm_notes: Elara has been secretly meeting with the reformist faction of the drag
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Princess of Valdris
+proficient_skills: []
 appearance: A sharp-featured woman in practical riding clothes more often than court gowns, her hair braided
   and pinned for travel. She carries a knife at her belt — not ceremonial. She moves with purpose and
   speaks with precision.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: early thirties
   body_build: slim, athletic
@@ -31,6 +37,7 @@ fears_or_limits:
   treason.
 current_state:
   location: location:crownhaven
+purview: []
 ---
 
 The king's daughter, second-born, in her early thirties. Sharp, political, and frustrated. She is the kingdom's best administrator and the one the merchants trust. She believes the dragon bond must be reformed, which makes her the traditionalists' enemy.

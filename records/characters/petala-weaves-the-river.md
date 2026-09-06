@@ -13,9 +13,15 @@ gm_notes: A basket weaver whose baskets are so tightly woven they can hold water
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Basket weaver and secret scryer
+proficient_skills: []
 appearance: Sturdy and calm-handed, always working. Sits cross-legged on her platform with materials spread
   around her. Her baskets hang from every rafter.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 44
   body_build: sturdy and square-shouldered, strong hands
@@ -34,6 +40,7 @@ fears_or_limits:
 - That the council's inaction will cost lives before anyone listens
 current_state:
   location: location:iara
+purview: []
 ---
 
 A human basket weaver whose impossibly tight-woven baskets are used for water storage throughout Iara, each one decorated with river-wave patterns.

@@ -16,10 +16,16 @@ gm_notes: Tama-iti is an eight-year-old boy, the son of a refugee family living 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Child
+proficient_skills: []
 appearance: A small, bright-eyed boy who is always near the water and always looking at it. He wears refugee-donated
   clothing that is too large for him, and he has the restless energy of a child who has lost his home
   and is looking for a new one.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: eight
   body_build: small, wiry, bright-eyed
@@ -39,6 +45,7 @@ fears_or_limits:
 - That his friend will disappear the way his old home did — suddenly and without explanation
 current_state:
   location: location:lani-atoll
+purview: []
 ---
 
 An eight-year-old refugee boy who has a water-spirit friend in the lagoon that shows him visions of the future. He does not know what it is — only that it is his friend.

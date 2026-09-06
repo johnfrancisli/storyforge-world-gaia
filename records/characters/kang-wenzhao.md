@@ -10,9 +10,15 @@ gm_notes: A scholar at the Great Academy specializing in pre-war political philo
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Political philosopher and reformist scholar
+proficient_skills: []
 appearance: Earnest and slightly rumpled, wearing Academy scholar's robes with ink on the cuffs. Always
   carrying scrolls.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 38
   body_build: medium and slightly soft from scholarly life
@@ -31,6 +37,7 @@ fears_or_limits:
 - That his idealism will get his students killed
 current_state:
   location: location:jin-an
+purview: []
 ---
 
 A passionate, idealistic Academy scholar whose writings on reunification have made him a hero among students and a target among warlords.

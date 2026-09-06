@@ -15,9 +15,15 @@ gm_notes: Keola is a song-keeper, one of the few who maintains the route-songs â
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Song-keeper
+proficient_skills: []
 appearance: A precise, clear-voiced woman with a song-keeper's trained memory and a scholar's careful
   habits. She carries tapa-books of notation and rehearses constantly, her lips moving in silent chant.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: thirty-one
   body_build: slim, precise, clear-voiced
@@ -40,6 +46,7 @@ fears_or_limits:
   a lure
 current_state:
   location: location:lani-atoll
+purview: []
 ---
 
 A song-keeper who has been secretly encoding new route-songs for routes that do not exist yet â€” routes to higher, northern islands she has seen in dreams. She does not know if she is prophesying or inventing.

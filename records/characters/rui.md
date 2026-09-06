@@ -11,10 +11,16 @@ gm_notes: Rui runs a gambling den in the capital that is a front for an informat
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Gambling den owner and information broker
+proficient_skills: []
 appearance: She wears a dramatic kimono in deep purples and blacks, a fan always in hand. She sits at
   the head of the room where she can see every table. She smiles when she's winning and smiles wider when
   she's about to fold — both look the same, which is the point.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: late thirties
   body_build: voluptuous, imposing
@@ -32,6 +38,7 @@ fears_or_limits:
 - If Takeda's agents catch her near Kuro, they'll assume she's involved with whatever he stole.
 current_state:
   location: location:tsuki-no-miyako
+purview: []
 ---
 
 The proprietor of the Fox Dice gambling parlor in the capital's entertainment district. She deals cards with elegant hands and never loses her composure. The parlor is always full, the sake is always flowing, and the stakes are never just money.

@@ -11,10 +11,16 @@ gm_notes: 'Kazue forges blades using an alloy that includes yokai-silver — a m
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Blacksmith (kaji)
+proficient_skills: []
 appearance: She wears a leather smith's apron over a soot-stained kimono, her sleeves bound tight. She's
   broad-shouldered from years at the anvil, and she wields a hammer with controlled, rhythmic force. Her
   forge-glow is always behind her, outlining her in red and shadow.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: late forties
   body_build: broad-shouldered, powerful arms
@@ -31,6 +37,7 @@ fears_or_limits:
 - She cannot refuse a daimyo's orders without consequences, and she has no political protection.
 current_state:
   location: location:tsukuyomi
+purview: []
 ---
 
 A blacksmith in rural Tsukuyomi whose blades hold an edge longer than any forge in the capital can explain. She works a bellows-driven forge in a village that smells of charcoal and iron. She's been a smith since she was twelve and takes no apprentices.

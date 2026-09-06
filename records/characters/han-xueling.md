@@ -11,9 +11,15 @@ gm_notes: A dancer in the Chu court who performs at state banquets and is the Ch
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Court dancer and patient assassin-in-waiting
+proficient_skills: []
 appearance: Luminous and expressive, wearing Chu-state performance silks of crimson and gold. Moves like
   water and smoke.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 35
   body_build: lithe and flexible, dancer's physique
@@ -32,6 +38,7 @@ fears_or_limits:
 - That the warlord's trust in her is turning to love, which complicates everything
 current_state:
   location: location:jin-an
+purview: []
 ---
 
 A mesmerizing court dancer in Chu whose performances at state banquets leave audiences spellbound and the warlord entranced.

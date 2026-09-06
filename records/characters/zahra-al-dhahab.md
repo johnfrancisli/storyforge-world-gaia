@@ -17,10 +17,16 @@ gm_notes: The daughter of the al-Dhahab binding family, the wealthiest house on 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Binding family daughter, djinn-confidante
+proficient_skills: []
 appearance: Elegant and self-possessed in gold-trimmed robes with the al-Dhahab sigil, she carries herself
   with the ease of someone who has never needed to please anyone. She has a habit of touching the family
   lamp at her belt when she is thinking, a gesture that looks like habit but is actually communication.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 30
   body_build: tall and graceful
@@ -42,6 +48,7 @@ fears_or_limits:
   punishing them both
 current_state:
   location: location:zaffar
+purview: []
 ---
 
 A poised, independent woman of the al-Dhahab binding family who attends Council functions but spends most of her time in the family estate's private library. She is known for her sharp mind and her refusal to marry, which the Council gossips about endlessly.

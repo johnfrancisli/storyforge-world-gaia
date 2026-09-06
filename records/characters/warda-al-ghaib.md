@@ -13,10 +13,16 @@ gm_notes: 'A fortune teller in the Star Bazaar who reads futures in coffee groun
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Fortune teller, seer
+proficient_skills: []
 appearance: Intense and restless in layered dark shawls, her hands always holding a cup or a tray of sand.
   She has dark circles under her eyes from sleepless nights of reading, and she speaks rapidly when she
   has a vision, as if afraid it will fade before she finishes.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 31
   body_build: slender, restless
@@ -36,6 +42,7 @@ fears_or_limits:
 - That her expanding foresight is not a gift growing stronger but a mind breaking under too much future
 current_state:
   location: location:zaffar
+purview: []
 ---
 
 A fortune teller whose table in the Star Bazaar is draped in dark cloth and lit by a single lantern. She reads coffee grounds in small cups and sand in wooden trays, and her predictions are unsettlingly specific.

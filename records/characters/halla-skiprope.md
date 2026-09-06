@@ -12,11 +12,17 @@ gm_notes: 'Halla is a sailor who crews on the Frostwing under Astrid — she han
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Sailor / Deckhand
+proficient_skills: []
 appearance: Compact and rope-strong, Halla wears a sailor's wool tunic and waterproof leather, her hands
   wrapped in sailcloth strips against rope-burn. She is quick and sure on the deck, climbing rigging with
   the ease of someone who grew up on ships. She is quiet among the crew but loud when working — she sings
   the hauling-chants better than anyone.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 26
   body_build: short and powerful, built for hauling and climbing
@@ -35,6 +41,7 @@ fears_or_limits:
 - that Astrid's hesitation will get the crew killed on the next raid
 current_state:
   location: location:skaldvik
+purview: []
 ---
 
 A sailor whose hands know every line on the Frostwing, and who has been watching her captain for cracks in a shield that the whole crew depends on.

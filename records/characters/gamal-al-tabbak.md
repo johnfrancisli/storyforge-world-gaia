@@ -14,10 +14,16 @@ gm_notes: 'A male cook who runs a kitchen in a binding family''s estate, prepari
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Binding family cook, saboteur
+proficient_skills: []
 appearance: Unassuming and efficient in a cook's whites, he is the model of a professional estate cook
   — quiet, fast, clean. He serves exquisite food and never tastes it himself, claiming a sensitive stomach.
   His hands are steady and his manner is unremarkable, which is exactly how he wants it.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 40
   body_build: medium, unremarkable
@@ -40,6 +46,7 @@ fears_or_limits:
   him
 current_state:
   location: location:zaffar
+purview: []
 ---
 
 An unassuming, efficient cook in a binding family's estate kitchen who prepares feasts for the Council and private dinners for the family heads. He is the model of a professional estate cook — quiet, fast, clean — and never tastes his own food.

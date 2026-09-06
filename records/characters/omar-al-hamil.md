@@ -13,10 +13,16 @@ gm_notes: 'A male porter who works the spice market docks, carrying crates and b
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Porter, djinn-seer
+proficient_skills: []
 appearance: Large and gentle-eyed in a porter's rough tunic and head wrap, he carries crates with careful,
   deliberate movements. He watches the market with an alertness that surprises those who assume he is
   simple. He often has charcoal on his fingers from drawing.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 24
   body_build: large and muscular, gentle despite his size
@@ -35,6 +41,7 @@ fears_or_limits:
 - That the djinn he draws will realize he can see them and come for him
 current_state:
   location: location:zaffar
+purview: []
 ---
 
 A large, gentle porter who works the spice market docks, carrying crates twice his size with patient strength. He does not speak, but he communicates through gestures, expressions, and charcoal drawings he makes on scraps of packing paper.

@@ -10,9 +10,15 @@ gm_notes: 'A Mizuhito fisherman who tends eel traps in the canal junction and ha
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Canal fisherman and unwitting intelligence asset
+proficient_skills: []
 appearance: Weathered and easy-smiling, wearing Mizuhito water-gear and a woven reed hat. Always smells
   of canal water and eel oil.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 50
   body_build: wiry and sun-darkened
@@ -31,6 +37,7 @@ fears_or_limits:
 - That his reports to Zhou are putting him in danger he does not understand
 current_state:
   location: location:sangguo
+purview: []
 ---
 
 A cheerful Mizuhito fisherman who works the canal junctions and knows the waterways like the lines on his own hands.

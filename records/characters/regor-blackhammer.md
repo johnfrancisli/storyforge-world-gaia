@@ -9,9 +9,15 @@ gm_notes: Regor is a dwarf armorer who holds a contract with the Dragon Order to
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Armorer
+proficient_skills: []
 appearance: Compact and scowling, Regor wears a heavy leather apron over dwarven work-garb. His beard
   is short and singed, his hands perpetually smudged with oil.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 48
   body_build: short and heavily muscled, dwarven build
@@ -29,6 +35,7 @@ fears_or_limits:
 - that someone he trusts at the forge is the saboteur
 current_state:
   location: location:dragonrest
+purview: []
 ---
 
 A meticulous dwarf armorer whose eye for metal is matched only by his stubbornness — which is why he cannot stay quiet about what he found in the armour.

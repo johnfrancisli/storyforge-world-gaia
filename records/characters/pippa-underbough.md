@@ -9,9 +9,15 @@ gm_notes: Pippa is a young halfling messenger who carries dispatches between Cro
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Messenger
+proficient_skills: []
 appearance: Bright-eyed and perpetually in motion, Pippa wears a Dragon Order courier's vest and light
   running shoes. Her hair is cropped short for speed.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 19
   body_build: small and lean, halfling stature, built for running
@@ -29,6 +35,7 @@ fears_or_limits:
 - that the courtier she delivered the letter to is hunting for her
 current_state:
   location: location:crownhaven
+purview: []
 ---
 
 A fast-footed halfling messenger who knows every trail between the capital and the dragon keep, and who is now terrified she has let a secret fall into the wrong hands.

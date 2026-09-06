@@ -12,10 +12,16 @@ gm_notes: A baker whose flatbread is a staple of the Zaffar morning market — a
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Baker, seal-keeper
+proficient_skills: []
 appearance: Round and rosy-cheeked in a baker's apron dusted with flour, her arms strong from kneading.
   She works with rhythmic efficiency, shaping dough and pulling bread from the oven with a long wooden
   peel. She is always warm to the touch.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 37
   body_build: stout, strong-armed from kneading
@@ -35,6 +41,7 @@ fears_or_limits:
   it as their property
 current_state:
   location: location:zaffar
+purview: []
 ---
 
 A baker who rises before dawn to feed the morning market, her flatbread golden and perfect every day. She works in a stone bakery that has been in her family for five generations and is always warm from the oven below.

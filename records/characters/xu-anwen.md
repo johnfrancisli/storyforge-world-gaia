@@ -11,9 +11,15 @@ gm_notes: A paper maker from a family of paper makers who has developed a method
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Paper maker and unknowing supplier of chi-propaganda technology
+proficient_skills: []
 appearance: Patient and earthy, wearing paper-maker's work clothes stained with pulp. Hands always slightly
   damp from pulp.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 30
   body_build: compact and strong-armed from pulp-mashing
@@ -32,6 +38,7 @@ fears_or_limits:
 - That her paper has been used to manipulate thousands of people
 current_state:
   location: location:jin-an
+purview: []
 ---
 
 A skilled paper maker from a long line of paper makers whose fine ceremonial paper is prized by the Jin court for important documents.

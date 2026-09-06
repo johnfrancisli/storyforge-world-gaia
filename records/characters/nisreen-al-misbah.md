@@ -14,10 +14,16 @@ gm_notes: A female lamp maker who is Esam's (character:alk-esam-lamp-maker) busi
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Lamp maker, djinn-blooded (hidden)
+proficient_skills: []
 appearance: Compact and efficient in a clean apron, her hands quick with copper and brass. She is warmer
   and more social than Esam and handles their customers. In dim light, her skin has a faint, barely perceptible
   warmth to it.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 47
   body_build: compact, quick-moving
@@ -36,6 +42,7 @@ fears_or_limits:
 - That the binding families will discover her heritage and bind her as contractual property
 current_state:
   location: location:zaffar
+purview: []
 ---
 
 A lamp maker who works alongside Esam in the Crafts Quarter, specializing in ornamental lamps for the Star Bazaar. She is precise, organized, and keeps the business running while Esam handles the craft.

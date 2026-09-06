@@ -13,9 +13,15 @@ gm_notes: 'A human builder who constructs and repairs the stilt-platforms that a
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Master builder and structural keeper
+proficient_skills: []
 appearance: Broad and capable, with builder's hands and a builder's eye for level and load. Wears a tool
   belt and a carpenter's apron. Always checking joints and braces.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 46
   body_build: broad and powerful, built for heavy construction work
@@ -34,6 +40,7 @@ fears_or_limits:
 - That revealing the truth will force an evacuation that the tribes cannot survive
 current_state:
   location: location:iara
+purview: []
 ---
 
 A broad, practical human builder who maintains the stilt-platforms of Iara and knows every beam, joint, and support by touch and memory.

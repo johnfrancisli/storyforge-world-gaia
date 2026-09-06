@@ -11,10 +11,16 @@ gm_notes: Sun Liang is not a coward — he is a patient man who believes that ti
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Warlord of Chu
+proficient_skills: []
 appearance: An elegant man in fine silk robes, a jade pendant at his belt, a fan in his hand. He is slim,
   composed, and moves with the grace of someone trained in the martial arts who no longer needs to prove
   it. His beard is white and perfectly groomed.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: sixties
   body_build: slim, elegant
@@ -32,6 +38,7 @@ fears_or_limits:
   Wei marriage negotiation is delicate and could be interpreted as an act of war by Jin.
 current_state:
   location: location:sangguo
+purview: []
 ---
 
 The warlord of Chu, the southern state of Sangguo. A calm, elegant man in his sixties who prefers trade to war and has built Chu's economy into the strongest in Sangguo. He is patient, generous with his allies, and merciless with his enemies' supply lines.

@@ -11,10 +11,16 @@ gm_notes: Kayo is a rokurokubi — a yokai whose neck extends grotesquely at nig
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Rokurokubi (long-neck yokai) in hiding as a weaver
+proficient_skills: []
 appearance: She wears a plain work kimono in undyed linen, her hair in a simple braid. She sits at her
   loom with slightly hunched shoulders, as if trying to take up less space. She has dark circles under
   her eyes from poor sleep and an air of someone keeping a very large secret.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: early thirties
   body_build: slender, narrow-shouldered
@@ -32,6 +38,7 @@ fears_or_limits:
 - She saw something at the shrine site she wasn't meant to see, and someone may have seen her neck.
 current_state:
   location: location:haru-shrine-town
+purview: []
 ---
 
 A weaver in Haru's Shrine Town, quiet and kind, who keeps to herself and works at her loom from dawn to dusk. She is unremarkable in every visible way, which is exactly how she wants to remain. She sleeps with a cloth wrapped around her neck.

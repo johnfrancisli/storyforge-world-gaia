@@ -11,10 +11,16 @@ gm_notes: 'Tari has a gift that Nara has not seen in thirty years of teaching: s
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Shaman apprentice
+proficient_skills: []
 appearance: A slight girl in plain river-cloth, her arms not yet marked with pact-patterns — she is too
   young. Her hair is braided with river-grass, and she carries a pouch of offering-stones. She is usually
   near the water, listening to it.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: sixteen
   body_build: slight, young
@@ -34,6 +40,7 @@ fears_or_limits:
   not understand.
 current_state:
   location: location:iara
+purview: []
 ---
 
 A young shaman apprentice in Iara, studying under Shaman Nara. A girl of sixteen who is talented, anxious, and hearing things she does not want to hear. She has a gift for spirit-communication that is emerging faster than her training can keep up with.

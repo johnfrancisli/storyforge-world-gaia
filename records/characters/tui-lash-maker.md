@@ -13,10 +13,16 @@ gm_notes: 'Tui makes the nets that every fishing family on three islands depends
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Net maker
+proficient_skills: []
 appearance: A compact, quick-handed woman with net fragments always draped over her lap. She works fast,
   her fingers moving in patterns so practiced they look involuntary. She talks to her nets as she makes
   them.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: twenty-nine
   body_build: compact, quick-handed, narrow-wristed
@@ -36,6 +42,7 @@ fears_or_limits:
   else
 current_state:
   location: location:tide-archipelago
+purview: []
 ---
 
 A net maker whose hands are weaving a pattern she does not understand, from a fiber that should not exist. Something from the far south is guiding her work.

@@ -15,10 +15,16 @@ gm_notes: 'Yara Moonflower''s eighteen-year-old granddaughter, being groomed to 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Shaman-in-training and pact-heir
+proficient_skills: []
 appearance: Young and intense, with faint spotted patterning just emerging along her temples. Wears apprentice's
   garments — simpler than her grandmother's but marked with the same moonflower symbols. Always watching,
   always listening.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 18
   body_build: lithe and alert, built for both study and rainforest travel
@@ -38,6 +44,7 @@ fears_or_limits:
 - That acting on her beliefs will break her grandmother's heart and fracture the tribe
 current_state:
   location: location:iara
+purview: []
 ---
 
 A young jaguar beast-kin woman with piercing amber eyes and a quiet intensity, being trained as the next shaman of the Teluna tribe.

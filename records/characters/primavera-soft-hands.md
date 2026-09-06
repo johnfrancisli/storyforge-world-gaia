@@ -13,9 +13,15 @@ gm_notes: 'A human midwife who specializes in difficult births and who has never
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Midwife and birth-healer
+proficient_skills: []
 appearance: Soft-featured and warm, with gentle hands and a calming voice. Wears clean wraps and carries
   a satchel of birth-supplies. Her face carries a permanent shadow of private sadness.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 40
   body_build: soft and rounded, gentle in bearing
@@ -34,6 +40,7 @@ fears_or_limits:
 - That the spirit-touched boy is the price she will eventually have to pay
 current_state:
   location: location:verdania
+purview: []
 ---
 
 A gentle human midwife with an extraordinary record of safe deliveries, whose calm presence is sought after for every difficult birth in the region.

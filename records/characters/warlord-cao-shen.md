@@ -8,10 +8,16 @@ gm_notes: Cao Shen is not as healthy as he appears. He has been taking chi-enhan
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Warlord of Jin
+proficient_skills: []
 appearance: A lean man in dark robes, moving with the economy of a martial artist who has nothing to prove.
   His beard is trimmed short, his hair is bound in a topknot, and he wears a jade seal at his belt. He
   watches more than he speaks.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: mid-fifties
   body_build: lean, wiry
@@ -27,6 +33,7 @@ fears_or_limits:
   Cao Shen is not certain the loyalty outlasts him.
 current_state:
   location: location:jin-an
+purview: []
 ---
 
 The warlord of Jin, the strongest state in Sangguo. A man in his fifties who commands rooms by being the quietest person in them. His reputation is built on a career of military victories and strategic masterstrokes. He is patient in public and impatient in private.

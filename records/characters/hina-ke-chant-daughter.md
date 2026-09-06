@@ -14,9 +14,15 @@ gm_notes: Hina-ke is a chant keeper, one of the few who knows the full sequence 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Chant keeper
+proficient_skills: []
 appearance: A composed, precise woman with a chanter's trained voice and a scholar's attention to detail.
   She wears the markers of a chant keeper — a woven scarf and bone pins — and carries a tapa-book of notation.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: forty
   body_build: composed, upright, precise
@@ -37,6 +43,7 @@ fears_or_limits:
   will be lost or used as weapons
 current_state:
   location: location:lani-atoll
+purview: []
 ---
 
 A chant keeper who was passed over as her teacher's successor in favor of a silent refugee child. She has discovered the child sings forbidden songs in her sleep and must decide what to do with the knowledge.

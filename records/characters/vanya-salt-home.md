@@ -14,9 +14,15 @@ gm_notes: Vanya arrived at Lani Atoll eight months ago with her three children a
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Refugee and community organizer
+proficient_skills: []
 appearance: A composed, watchful woman who carries herself with quiet authority. She wears donated cloth
   and keeps her three children close. Her grief is visible only in her stillness.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: thirty-six
   body_build: slender, composed, watchful
@@ -37,6 +43,7 @@ fears_or_limits:
 - That the hollow spaces beneath the islands are connected — and that what is beneath them is waking up
 current_state:
   location: location:lani-atoll
+purview: []
 ---
 
 A refugee who lost her island, her husband, and her parents in a single night. She is a quiet leader among the displaced, and she carries a secret about why her island sank so fast.

@@ -9,9 +9,15 @@ gm_notes: Bessie is an elderly halfling farmer who has been quietly sheltering a
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Farmer
+proficient_skills: []
 appearance: Round and weathered, Bessie wears a patched dress and a sunhat. She moves slowly but her eyes
   are sharp and miss nothing.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 68
   body_build: short and round, halfling stature
@@ -28,6 +34,7 @@ fears_or_limits:
 - that the scholar's wounds will worsen and she cannot help him
 current_state:
   location: location:valdris
+purview: []
 ---
 
 A grandmotherly halfling farmer whose root cellar holds enough potatoes to last the winter — and one elven scholar who could upend a lord's ambitions.

@@ -10,8 +10,14 @@ gm_notes: An iron mine foreman in the Wei mountains who discovered a vein of ore
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Iron mine foreman and secret qilin-iron dealer
+proficient_skills: []
 appearance: Stocky and soot-stained, wearing heavy leather work clothes and a miner's leather cap.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 47
   body_build: thick and muscular, barrel-chested
@@ -30,6 +36,7 @@ fears_or_limits:
 - The poisoned miners' families learning he hid their sickness
 current_state:
   location: location:sangguo
+purview: []
 ---
 
 A burly, no-nonsense iron mine foreman in the Wei mountains who keeps his workers productive and his operations discreet.

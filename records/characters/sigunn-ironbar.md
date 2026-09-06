@@ -11,10 +11,16 @@ gm_notes: 'Sigunn is a trader who sails between Skaldvik and the southern ports,
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Trader
+proficient_skills: []
 appearance: Sharp-eyed and well-dressed by Hrafnland standards, Sigunn wears a good wool coat with silver
   clasps and keeps her hair under a trader's scarf. She carries a leather satchel of contracts and a small
   scale for weighing silver, and she always seems to be calculating.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 39
   body_build: medium height, trim and quick-moving
@@ -34,6 +40,7 @@ fears_or_limits:
   stones
 current_state:
   location: location:skaldvik
+purview: []
 ---
 
 A trader whose ledgers are meticulous and whose cargo manifests never quite match what is actually in the hold, because some things are easier to sell when no one is watching.

@@ -12,9 +12,15 @@ gm_notes: The eldest living shaman of the Teluna tribe and keeper of the Moonflo
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Elder shaman and spirit-pact keeper
+proficient_skills: []
 appearance: Weathered and regal, draped in layers of ceremonial feather-cloth and bone jewelry. Moves
   slowly but with absolute presence. Painted jaguar spots trace her temples and fade down her neck.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 78
   body_build: gaunt but unbowed, tall for a beast-kin
@@ -34,6 +40,7 @@ fears_or_limits:
 - That the corruption she senses in the Mother of Jaguars has already touched her own spirit
 current_state:
   location: location:iara
+purview: []
 ---
 
 An aged jaguar beast-kin shaman who speaks with spirits in her sleep and carries the scent of night-blooming flowers wherever she goes.

@@ -10,8 +10,14 @@ gm_notes: A potter whose clay vessels can hold chi-infused liquids without degra
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Master potter and unknowing qilin-clay guardian
+proficient_skills: []
 appearance: Earth-stained and practical, wearing clay-spattered work clothes and a kiln-scarred apron.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 31
   body_build: strong-armed and compact from years at the wheel
@@ -30,6 +36,7 @@ fears_or_limits:
 - That the clay's power comes at a cost she does not yet understand
 current_state:
   location: location:sangguo
+purview: []
 ---
 
 A skilled village potter whose ceramics are valued for their beauty and inexplicable ability to preserve medicinal chi-potions.

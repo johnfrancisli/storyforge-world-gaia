@@ -10,10 +10,16 @@ gm_notes: Hanako's tea house is a neutral meeting ground where clan agents, merc
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Tea house owner
+proficient_skills: []
 appearance: A round, warm woman in a cotton apron over a plain kimono, her sleeves rolled up and her hair
   pinned with a wooden stick. She moves between tables with the speed of someone who has been doing this
   for twenty years. She always has a pot on.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: mid-forties
   body_build: round, comfortable
@@ -29,6 +35,7 @@ fears_or_limits:
   its limits.
 current_state:
   location: location:haru-shrine-town
+purview: []
 ---
 
 The owner of the Cedar Tea House in Haru's Shrine Town. A cheerful, round woman in her forties who knows everyone's business and serves excellent tea. Her tea house is the social center of the village.

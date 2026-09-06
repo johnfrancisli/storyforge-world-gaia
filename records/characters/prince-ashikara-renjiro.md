@@ -11,10 +11,16 @@ gm_notes: 'The elder prince was not always cruel. Before the Noh mask made by Me
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Elder prince of the Ashikara shogunate
+proficient_skills: []
 appearance: He wears formal court attire in dark colors and a white Noh mask that depicts a handsome,
   severe face. His movements are controlled and deliberate. He holds himself like a man who has never
   been contradicted and expects he never will be.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: mid-twenties
   body_build: tall, erect, military bearing
@@ -32,6 +38,7 @@ fears_or_limits:
 - A part of him knows his cruelty is wrong, but the mask makes that part quieter every day.
 current_state:
   location: location:tsuki-no-miyako
+purview: []
 ---
 
 The elder son of the Shogun, a man in his mid-twenties known for his competence in administration and his growing cruelty toward subordinates. He wears a Noh mask at all public functions — a practice he began two years ago that everyone attributes to eccentricity. He speaks precisely and never raises his voice, which makes his words cut deeper.

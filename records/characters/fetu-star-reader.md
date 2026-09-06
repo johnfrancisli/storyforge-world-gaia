@@ -15,10 +15,16 @@ gm_notes: Fetu is the youngest wayfinder to achieve journeyman rank in a generat
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Wayfinder (junior navigator)
+proficient_skills: []
 appearance: A young, bright-eyed woman with wayfinder tattoos just beginning on her forearms — only two
   routes marked so far. She carries a star compass carved from shell and watches the night sky with unusual
   intensity.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: twenty
   body_build: lean, quick, bright-eyed
@@ -39,6 +45,7 @@ fears_or_limits:
 - That if she navigates by the dark spaces too much, she will forget how to see the stars themselves
 current_state:
   location: location:lani-atoll
+purview: []
 ---
 
 A young wayfinder prodigy who navigates by the dark spaces between stars, not the stars themselves. She does not know if her sight is a gift, a mutation, or the result of something that happened to her during three days she cannot remember.

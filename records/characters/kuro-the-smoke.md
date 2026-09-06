@@ -8,10 +8,16 @@ gm_notes: Kuro is a cat-folk thief who specializes in stealing from the wealthy 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Thief
+proficient_skills: []
 appearance: A lean cat-folk man in dark, close-fitting clothes, his ears flat and his tail curled tight
   — the posture of someone who is used to being hunted. He moves through crowds like water. His eyes catch
   light in the dark.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: mid-twenties
   body_build: lean, wiry, compact
@@ -29,6 +35,7 @@ fears_or_limits:
   beyond running and climbing. He cannot go to the authorities.
 current_state:
   location: location:tsuki-no-miyako
+purview: []
 ---
 
 A cat-folk thief operating in Tsuki-no-Miyako's wealthy districts. Lean, quick, and unapologetic. He has a reputation for being impossible to catch and slightly too charming for a criminal. He is currently lying low because his last job went sideways.

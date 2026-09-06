@@ -14,9 +14,15 @@ gm_notes: 'Fale is a wood carver who makes the practical wooden tools of the Arc
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Wood carver
+proficient_skills: []
 appearance: A solid, plain man with a craftswoman's hands and an unremarkable face. She works steadily
   and without flair, and her workshop is full of functional, beautiful-in-their-simplicity wooden objects.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: thirty-three
   body_build: solid, strong-handed, plain
@@ -39,6 +45,7 @@ fears_or_limits:
   make the event happen or prevent it
 current_state:
   location: location:tide-archipelago
+purview: []
 ---
 
 A practical wood carver whose wood has begun showing her future events through its grain. She carved a paddle and saw a canoe sink three days before it happened.

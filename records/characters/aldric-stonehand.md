@@ -10,9 +10,15 @@ gm_notes: 'Aldric is a retired knight of the Dragon Order who lost his bonded dr
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Retired Knight / Weapons Trainer
+proficient_skills: []
 appearance: Grey-bearded and scarred, Aldric wears a faded Dragon Order tabard over chainmail. He favours
   his left leg, an old injury, and his right hand trembles slightly — a remnant of bond-sickness.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 58
   body_build: broad and battle-worn, once muscular now thickening
@@ -30,6 +36,7 @@ fears_or_limits:
 - that he will fail another person the way he failed his dragon
 current_state:
   location: location:dragonrest
+purview: []
 ---
 
 A grizzled weapons trainer who teaches young squires to fight, all while haunted by the ghost of a bond that should have died with his dragon.

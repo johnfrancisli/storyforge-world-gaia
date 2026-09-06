@@ -12,11 +12,17 @@ gm_notes: 'Vigdis makes rope — anchor rope, fishing line, rigging, and the hea
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Rope Maker
+proficient_skills: []
 appearance: Strong-armed and sun-roughened, Vigdis works at the ropewalk in a leather apron, her hands
   moving in the constant twisting rhythm of her trade. She wears her hair short — it catches in the hemp
   otherwise — and her forearms are roped with muscle and old friction-burns. She is quiet, with a dry
   sense of humor that surfaces when she is comfortable.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 38
   body_build: medium height, powerful arms and shoulders
@@ -34,6 +40,7 @@ fears_or_limits:
 - that she is asking Gerd to choose between family and love, and that is not a fair thing to ask
 current_state:
   location: location:skaldvik
+purview: []
 ---
 
 A rope maker whose hands twist hemp and sinew into the lines that hold ships to the earth, and who is quietly tangled in a love she cannot speak of in daylight.

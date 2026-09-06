@@ -13,9 +13,15 @@ gm_notes: A Mizuhito canoe maker who builds the vessels that carry the river-cit
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Canoe maker and spirit-binder
+proficient_skills: []
 appearance: Quiet and precise, with the careful hands of a craftsperson. Works on the riverbank among
   half-finished hulls. Paler than most Mizuhito, with a translucent quality to her skin.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 43
   body_build: medium and precise, craftsman's hands
@@ -35,6 +41,7 @@ fears_or_limits:
 - That without her canoes the river-cities will be vulnerable to attack from the water
 current_state:
   location: location:iara
+purview: []
 ---
 
 A quiet, blue-skinned Mizuhito canoe maker whose vessels are prized across the river-cities for their almost supernatural responsiveness to the water.

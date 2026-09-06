@@ -13,10 +13,16 @@ gm_notes: A female camel herder who tends a herd of forty camels on the desert f
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Camel herder, djinn-harborer
+proficient_skills: []
 appearance: Sun-darkened and strong in desert riding clothes, she moves among her camels with easy authority.
   She carries a herder's staff and a waterskin, and she sleeps in a tent among the herd. She is weathered
   beyond her years.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 29
   body_build: sturdy and strong-legged, desert-built
@@ -36,6 +42,7 @@ fears_or_limits:
   someone will notice
 current_state:
   location: location:al-khayzar
+purview: []
 ---
 
 A desert-hardened camel herder who lives on the fringe of Zaffar with a herd of forty camels. She talks to her animals constantly and is known among caravan drivers for having the best-tempered camels in the region.

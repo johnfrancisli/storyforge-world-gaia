@@ -10,9 +10,15 @@ gm_notes: Daisy is a halfling girl, just twelve years old, who ran away from her
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Street Child / Beggar
+proficient_skills: []
 appearance: Small and underfed, Daisy wears a threadbare dress too large for her, belted with rope. Her
   hair is tangled and her face is dirty, but her eyes are alert and wary beyond her years.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 12
   body_build: small and thin, halfling child
@@ -30,6 +36,7 @@ fears_or_limits:
 - that she will be sent back to her uncle or punished for stealing
 current_state:
   location: location:crownhaven
+purview: []
 ---
 
 A tiny halfling girl surviving on the streets of Crownhaven, clutching a stolen letter she cannot read — but that someone is willing to kill to recover.

@@ -12,10 +12,16 @@ gm_notes: 'Grim is a charcoal burner who tends the forest kilns in the pine wood
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Charcoal Burner
+proficient_skills: []
 appearance: Broad and smoke-blackened, Grim wears rough charcoal-stained clothing and a leather cap. He
   is less solitary than Ulla — he comes to town more often, drinks more, talks more. His laugh is loud
   and his hands are always dirty. He smells of woodsmoke and sweat and something slightly bitter.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 41
   body_build: broad and heavy, strong-armed
@@ -34,6 +40,7 @@ fears_or_limits:
 - that running will mean leaving everything behind, and he is not sure he has the courage
 current_state:
   location: location:hrafnland
+purview: []
 ---
 
 A charcoal burner who feeds the forges and hearths of Skaldvik, and who has been cutting trees that the volur say belong to something older than the fjord.

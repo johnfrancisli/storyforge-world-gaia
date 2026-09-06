@@ -11,10 +11,16 @@ gm_notes: Yukina is a yuki-onna — a snow woman — who fell in love with a hum
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Yuki-onna (snow woman yokai) in hiding
+proficient_skills: []
 appearance: She wears layered kimono even in warm weather, pale blues and whites that match her complexion.
   She moves without sound and her breath doesn't fog in winter air. She is strikingly beautiful in a way
   that makes people uneasy, though they can't say why.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: ageless — appears mid-twenties
   body_build: slender, willowy
@@ -33,6 +39,7 @@ fears_or_limits:
   would see her sealed.
 current_state:
   location: location:tsukuyomi
+purview: []
 ---
 
 A quiet, beautiful woman in a mountain village in Tsukuyomi, married to the local woodcutter. She keeps the house cold even in summer, which her husband finds strange but endearing. She rarely touches anyone skin-to-skin.

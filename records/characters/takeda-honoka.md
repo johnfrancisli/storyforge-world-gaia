@@ -9,10 +9,16 @@ gm_notes: Honoka serves Daimyo Takeda (character:daimyo-takeda) as a vassal warr
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Female samurai (onna-bugeisha)
+proficient_skills: []
 appearance: She wears practical armor over a dark blue kimono, her naginata resting across her back. Her
   hair is pinned severely for combat readiness. There is a folded letter tucked inside her armor that
   she touches unconsciously when she thinks no one is watching.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: mid-twenties
   body_build: athletic, broad-shouldered
@@ -30,6 +36,7 @@ fears_or_limits:
 - She has no political power — she is a soldier, not a negotiator, and the situation requires a diplomat.
 current_state:
   location: location:tsuki-no-miyako
+purview: []
 ---
 
 An onna-bugeisha of the Takeda clan, trained in naginata and bow. She stands watch at the Takeda compound in the capital and carries herself with the rigid discipline of someone who cannot afford a single misstep.

@@ -10,10 +10,16 @@ gm_notes: Oron is a politician, not a shaman. He respects Nara but is tired of h
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Chief of Iara
+proficient_skills: []
 appearance: A stocky, sun-darkened man in fine river-cloth and featherwork — the marks of his office.
   He carries a chief's staff of carved driftwood. He is usually in the council hall, arguing. He has a
   loud voice and uses it.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: mid-fifties
   body_build: stocky, broad
@@ -33,6 +39,7 @@ fears_or_limits:
   in Verdania has consequences.
 current_state:
   location: location:iara
+purview: []
 ---
 
 The elected chief of Iara, a man in his fifties who governs the river capital. Practical, political, and increasingly frustrated with the shamans' influence over council decisions. He wants to solve the flooding with engineering, not spirit-pacts.

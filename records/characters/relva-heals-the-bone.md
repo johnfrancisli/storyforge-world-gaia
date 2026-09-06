@@ -12,9 +12,15 @@ gm_notes: A healer specializing in bone-setting and wound care who served as fie
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Healer and bone-setter
+proficient_skills: []
 appearance: Clean and precise in manner and dress. Wears a wrapped sash of tools — bone needles, splints,
   poultices. Hands always washed, always ready.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 37
   body_build: medium and well-proportioned, steady-handed
@@ -33,6 +39,7 @@ fears_or_limits:
 - That her over-treatment compulsion will cause a fatal misdiagnosis
 current_state:
   location: location:iara
+purview: []
 ---
 
 A steady-handed human healer who sets broken bones, stitches wounds, and has a calm authority that makes injured people stop panicking.

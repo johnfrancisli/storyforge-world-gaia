@@ -11,10 +11,16 @@ gm_notes: 'Maren is a squire to a Dragon Order knight who was killed in a skirmi
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Squire
+proficient_skills: []
 appearance: Young and determined, Maren wears a squire's padded tunic and carries her late knight's sword,
   which is slightly too large for her. She has the posture of someone who refuses to grieve until the
   work is done.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 17
   body_build: athletic and still growing
@@ -32,6 +38,7 @@ fears_or_limits:
 - that asking questions about the vault will mark her as a traitor to the Order
 current_state:
   location: location:dragonrest
+purview: []
 ---
 
 A squire whose knight died in her arms with a warning on her lips — a warning Maren does not yet understand but knows she must unravel before the truth is buried with the dead.

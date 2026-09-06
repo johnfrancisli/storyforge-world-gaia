@@ -13,9 +13,15 @@ gm_notes: 'A honey gatherer who has a genuine bond with the giant rainforest bee
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Honey gatherer and bee-pact holder
+proficient_skills: []
 appearance: Sun-browned and cheerful-looking, though her smile rarely reaches her eyes. Wears a bee-wax-treated
   wrap and carries a woven hive-basket on her back. Faint buzzing can be heard near her.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 26
   body_build: lean and long-limbed, built for climbing
@@ -34,6 +40,7 @@ fears_or_limits:
 - That transferring the symbiosis will damage the child the way it damaged her
 current_state:
   location: location:verdania
+purview: []
 ---
 
 A barefoot human honey gatherer who climbs the tallest rainforest trees without ropes and returns covered in bees that never sting her.

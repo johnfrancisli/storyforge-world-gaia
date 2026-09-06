@@ -12,10 +12,16 @@ gm_notes: Matriarch of the al-Faris binding family, one of the seven founding ho
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Binding family matriarch, Council of Binding Families
+proficient_skills: []
 appearance: Regal and composed in dark indigo robes embroidered with the al-Faris lamp sigil. She carries
   a small slate board and chalk on a cord around her neck and writes in a precise, elegant hand. Her family's
   bronze lamp hangs at her belt, always cold.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 62
   body_build: tall and upright, unbowed by age
@@ -35,6 +41,7 @@ fears_or_limits:
   not understand
 current_state:
   location: location:zaffar
+purview: []
 ---
 
 The matriarch of the al-Faris binding family, a silver-haired woman who communicates through a slate board and is never without her family's bronze lamp. She attends Council meetings with the quiet authority of someone whose ancestors signed the Pact itself.

@@ -13,11 +13,17 @@ gm_notes: 'Leif makes fishing nets — enormous, intricate affairs of knotted he
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Net Maker
+proficient_skills: []
 appearance: Compact and quiet, Leif works at a net-tying frame in a workshop that smells of hemp and tar.
   He wears a simple wool shirt and his hands move in constant, rhythmic knotting — even when he is not
   at the frame, his fingers twitch as though tying invisible meshes. He is a mild man, not given to strong
   words.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 36
   body_build: medium height, lean, with strong hands and forearms
@@ -37,6 +43,7 @@ fears_or_limits:
 - that the net will be used to trap longships and people will die because of his knots
 current_state:
   location: location:skaldvik
+purview: []
 ---
 
 A net maker whose fingers knot hemp and sinon into the tools that feed Skaldvik, and who has been weaving something in secret that could choke the fjord like a hand around a throat.

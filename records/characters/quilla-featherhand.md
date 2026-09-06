@@ -13,9 +13,15 @@ gm_notes: 'The most skilled feather worker in the western rainforest, famous for
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Master feather worker and ceremonial artisan
+proficient_skills: []
 appearance: Vivid and bright-eyed, draped in her own feather-work — mantles of scarlet, gold, and iridescent
   green. Her fingers are perpetually stained with natural dyes.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 38
   body_build: slight and wiry, light-boned
@@ -35,6 +41,7 @@ fears_or_limits:
 - That someone will notice the headdresses have weakened and ask why
 current_state:
   location: location:verdania
+purview: []
 ---
 
 A brilliant bird beast-kin feather artist whose headdresses are sought after by every tribe for ceremonies, each one said to carry a whisper of the bird it came from.

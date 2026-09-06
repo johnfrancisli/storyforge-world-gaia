@@ -12,10 +12,16 @@ gm_notes: An oud player whose music can soothe djinn — a gift she inherited fr
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Oud player, musician
+proficient_skills: []
 appearance: Serene and absorbed in a musician's loose robes, her oud cradled against her chest like a
   child. She closes her eyes when she plays and opens them between songs with a startled expression, as
   if returning from far away. Her fingers are long and quick.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 41
   body_build: slender, long-fingered
@@ -36,6 +42,7 @@ fears_or_limits:
   her father
 current_state:
   location: location:zaffar
+purview: []
 ---
 
 An oud player whose music fills the coffee houses of Zaffar every night. She sits cross-legged on a raised cushion, eyes half-closed, and her fingers make the strings speak in a language older than words.

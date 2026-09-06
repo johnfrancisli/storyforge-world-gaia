@@ -13,9 +13,15 @@ gm_notes: 'A fermenter and cook whose cassava beer, fruit wines, and fermented p
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Fermenter, cook, and dream-wine maker
+proficient_skills: []
 appearance: Round and floury, perpetually warm-smelling. Wears an apron stained with fruit and root dyes.
   Laughs easily and often — a sharp contrast to her secret anxiety.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 47
   body_build: round and solid, strong-armed from stirring vats
@@ -34,6 +40,7 @@ fears_or_limits:
 - That the dream-wine dependency is already permanent in those who have drunk it longest
 current_state:
   location: location:iara
+purview: []
 ---
 
 A warm, round human woman who presides over Iara's fermentation house, producing cassava beer, fruit wines, and ceremonial dream-wine.

@@ -10,9 +10,15 @@ gm_notes: Coralee is a chandler (candle-maker) whose husband, a city watchman, d
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Candle Maker / Chandler
+proficient_skills: []
 appearance: Practical and composed, Coralee wears a clean linen dress under a wax-spotted apron. Her hair
   is pinned up and covered with a kerchief. Her hands are smooth but slightly waxy.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 34
   body_build: medium height, sturdy
@@ -30,6 +36,7 @@ fears_or_limits:
 - that her husband truly was involved in something corrupt and does not deserve clearing
 current_state:
   location: location:crownhaven
+purview: []
 ---
 
 A candle-maker who keeps her shop burning bright, even as she searches the shadows for the truth about her missing husband.

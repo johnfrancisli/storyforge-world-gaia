@@ -12,11 +12,17 @@ gm_notes: 'Koll is a scout and messenger who runs the mountain trails for Jarl S
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Scout / Messenger
+proficient_skills: []
 appearance: Lean and fast, Koll wears light wool and leather — travelling clothes, not armor — with a
   scout's short bow and a belt knife. He is always slightly out of breath, as though he has just arrived
   from somewhere far away, because he usually has. His face is wind-burned and his eyes are always scanning
   the horizon.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 24
   body_build: lean and quick, built for running and climbing
@@ -35,6 +41,7 @@ fears_or_limits:
 - that if he reports the settlement, the jarls will send warriors and destroy any chance of peace
 current_state:
   location: location:hrafnland
+purview: []
 ---
 
 A scout who runs the high trails with a messenger's speed and a hunter's eyes, and who has been spending his off days watching something in the mountains that everyone else believes is a myth.

@@ -12,9 +12,15 @@ gm_notes: 'A Mizuhito boat builder who constructs canal boats using a technique 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Boat builder and unwilling military supplier
+proficient_skills: []
 appearance: Practical and wood-shaving-dusted, wearing Mizuhito boat-builder's leather work clothes. Strong
   hands, measuring eye.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 40
   body_build: strong-armed and broad-backed from years of plank-bending
@@ -33,6 +39,7 @@ fears_or_limits:
 - Building the boats and her craft being used in a canal invasion that kills hundreds
 current_state:
   location: location:sangguo
+purview: []
 ---
 
 A skilled Mizuhito boat builder whose canal craft are prized for their speed, durability, and uncanny silence on the water.

@@ -12,9 +12,15 @@ gm_notes: 'An herbalist who can cure any rainforest ailment but carries a terrib
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Herbalist and medicine maker
+proficient_skills: []
 appearance: Small and wiry, always slightly muddy from foraging. Wears a wide woven hat and carries a
   basket that never seems to empty. Her fingers are stained green at the tips.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 29
   body_build: small and wiry, built for climbing through undergrowth
@@ -33,6 +39,7 @@ fears_or_limits:
 - That the root is slowly changing the chief into something other than human
 current_state:
   location: location:verdania
+purview: []
 ---
 
 A small, bright-eyed human herbalist who seems to know every leaf, bark, and root in the rainforest and who always smells of freshly crushed green.

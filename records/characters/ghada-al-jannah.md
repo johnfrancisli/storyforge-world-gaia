@@ -12,10 +12,16 @@ gm_notes: Head gardener of the Hanging Gardens of Zaffar, an oasis garden built 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Head gardener of the Hanging Gardens
+proficient_skills: []
 appearance: Earth-stained and sun-warm in a gardener's apron over loose green cotton. She carries pruning
   shears and a watering can, and her hands are perpetually dirt-streaked. She smells of wet earth and
   pomegranate.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 40
   body_build: medium, strong-armed from terraced work
@@ -34,6 +40,7 @@ fears_or_limits:
 - That the gardens will die when the contract breaks and the city will lose its heart
 current_state:
   location: location:zaffar
+purview: []
 ---
 
 A gentle, patient woman who tends the Hanging Gardens of Zaffar with an expertise passed down through four generations of gardeners in her family. She speaks to plants as if they answer and can name every species in the gardens by scent alone.

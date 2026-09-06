@@ -11,9 +11,15 @@ gm_notes: 'A Chu court official''s daughter who was betrothed to the Chu general
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Court socialite and double agent
+proficient_skills: []
 appearance: Polished and fashion-forward, wearing Chu-state court silks of deep red. Always perfectly
   composed.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 27
   body_build: slender and graceful
@@ -32,6 +38,7 @@ fears_or_limits:
 - The Chu court discovering her connection to the defected general
 current_state:
   location: location:jin-an
+purview: []
 ---
 
 A poised, socially connected young woman in the Chu court who navigates balls, banquets, and alliances with effortless charm.

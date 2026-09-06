@@ -10,10 +10,16 @@ gm_notes: 'Kaa has found something in the deep jungle: a temple entrance that wa
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Hunter, jaguar-kin
+proficient_skills: []
 appearance: A tall, powerful man in minimal jungle gear — a loincloth, a hunter's belt, and a bone-tipped
   spear. His skin is covered in jaguar-spot patterns, natural to his kin. He moves through the jungle
   without sound, which is unsettling when you notice it.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: mid-thirties
   body_build: tall, muscular, lean
@@ -34,6 +40,7 @@ fears_or_limits:
   can sustain.
 current_state:
   location: location:iara
+purview: []
 ---
 
 A jaguar-kin hunter of Verdania, one of the best in the deep jungle. A tall, powerfully built man with jaguar spots across his skin and yellow eyes. He is quiet, patient, and at home in the jungle in ways that make outsiders nervous.

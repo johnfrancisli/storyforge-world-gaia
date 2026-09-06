@@ -12,10 +12,16 @@ gm_notes: 'Kata is the midwife of Skaldvik, who has brought nearly every living 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Midwife
+proficient_skills: []
 appearance: Weathered and warm, Kata wears a clean wool dress with a shawl she can wrap around anything
   — a cold infant, a laboring mother, her own shoulders. Her hands are gentle and sure, and she carries
   a bundle of clean cloth and a small knife for cutting cords. She smells of soap and lavender.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 57
   body_build: medium height, soft and solid
@@ -34,6 +40,7 @@ fears_or_limits:
   under oath
 current_state:
   location: location:skaldvik
+purview: []
 ---
 
 A midwife who has caught every baby in Skaldvik for twenty years and who carries more family secrets in her head than any living person — including some she made herself.

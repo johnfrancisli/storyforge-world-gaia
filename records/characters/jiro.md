@@ -12,10 +12,16 @@ gm_notes: 'Jiro was the shogun''s bodyguard thirty years ago and carries a secre
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Retired samurai (ronin, former bodyguard)
+proficient_skills: []
 appearance: He wears a faded kimono and a straw hat, a cane beside his garden bench. He's thinner than
   he was, but his posture still carries the memory of armor. His hands rest on his knees in a way that
   suggests he knows where every weapon in the room is.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: early eighties
   body_build: thin, formerly powerful, still straight-backed
@@ -33,6 +39,7 @@ fears_or_limits:
 - He is dying and running out of time to decide — and a letter, once sent, cannot be unsent.
 current_state:
   location: location:tsukuyomi
+purview: []
 ---
 
 A retired samurai living in a small house in rural Tsukuyomi, tending a vegetable garden and dozing in the sun. He walks with a cane and tells stories about his soldiering days that everyone assumes are exaggerated. He keeps to himself and watches the road with habits that never left him.

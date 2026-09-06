@@ -14,10 +14,16 @@ gm_notes: 'The ten-year-old daughter of Tariq al-Sayf (character:alk-tariq-bindi
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Binding family child, djinn-voice hearer
+proficient_skills: []
 appearance: Small and serious in a child's robes with the al-Sayf sigil embroidered small at the collar.
   She has large dark eyes that observe more than a ten-year-old should, and she holds her cloth camel
   tightly when she is nervous, which is often lately.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 10
   body_build: small and slight, a child
@@ -36,6 +42,7 @@ fears_or_limits:
 - That no one will believe a ten-year-old who hears voices through walls
 current_state:
   location: location:zaffar
+purview: []
 ---
 
 A quiet, watchful ten-year-old girl of the al-Sayf binding family who spends her time in the family library and the courtyard garden. She is small for her age and carries a stuffed cloth camel she has had since infancy.

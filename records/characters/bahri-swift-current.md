@@ -13,9 +13,15 @@ gm_notes: 'An otter beast-kin river pilot who runs the fastest message route bet
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: River pilot and message carrier
+proficient_skills: []
 appearance: Sleek and glossy, with a perpetual grin of otter confidence. Wears a waterproof satchel and
   nothing else. Moves through water like he is part of it.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 31
   body_build: sleek and powerful, compact swimmer's build
@@ -35,6 +41,7 @@ fears_or_limits:
 - That the delay in his deliveries is causing real harm to messages that are time-sensitive
 current_state:
   location: location:iara
+purview: []
 ---
 
 A sleek, whiskered otter beast-kin who pilots a message-canoe between the river city-states faster than anyone believes is possible.

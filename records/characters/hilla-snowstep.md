@@ -12,10 +12,16 @@ gm_notes: 'Hilla hunts the mountain forests above Skaldvik for deer, elk, and oc
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Hunter
+proficient_skills: []
 appearance: Lean and snow-pale, Hilla wears white-fur camouflage over wool, a bow across her back and
   a belt knife at her hip. She moves silently even on crusty snow, her boots carefully wrapped. Her face
   is wind-burned and watchful, and she speaks rarely and briefly.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 29
   body_build: lean and long-limbed, built for stalking and endurance
@@ -33,6 +39,7 @@ fears_or_limits:
 - that if she says nothing and the giant descends, the blood will be on her hands
 current_state:
   location: location:hrafnland
+purview: []
 ---
 
 A hunter who reads the mountain snow like a page of text, and who has read something in it recently that she is not sure anyone else should know.

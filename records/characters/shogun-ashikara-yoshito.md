@@ -10,10 +10,16 @@ gm_notes: 'The shogun is dying. He has been dying for two years — a slow decli
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Shogun of Tsukuyomi
+proficient_skills: []
 appearance: A thin, old man in formal court robes, seated straight-backed on his dais. His hair is white,
   his hands are spotted with age, and his eyes are still sharp. He speaks softly, and the room goes quiet
   to hear him.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: seventies
   body_build: thin, frail but straight-backed
@@ -29,6 +35,7 @@ fears_or_limits:
   both the capital and the provinces, and every choice abandons someone.
 current_state:
   location: location:tsuki-no-miyako
+purview: []
 ---
 
 The ruling shogun of Tsukuyomi, elderly and declining. A man who was once a great warrior and is now a careful politician trying to hold his domain together with weakening hands. He has not been seen in public this season, which is itself a political statement.

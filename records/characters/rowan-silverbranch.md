@@ -10,10 +10,16 @@ gm_notes: 'Rowan is an elf who has lived in the forest near Valdris for over two
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Elven Elder / Hermit
+proficient_skills: []
 appearance: Tall and ageless, Rowan wears simple robes of forest green and walks barefoot regardless of
   season. Her hair is silver and impossibly long, and her eyes hold a depth that unnerves those who meet
   them.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 240
   body_build: tall and slender, elven
@@ -31,6 +37,7 @@ fears_or_limits:
 - that her long isolation has made her unable to communicate effectively with humans in time
 current_state:
   location: location:valdris
+purview: []
 ---
 
 An ancient elf who dwells at the forest's edge, watching the kingdom of Valdris with the patience of someone who has seen empires rise and fall — and who knows a debt is coming due.

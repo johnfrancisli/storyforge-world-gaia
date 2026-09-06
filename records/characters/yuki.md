@@ -10,10 +10,16 @@ gm_notes: Yuki has latent spirit-sight she has hidden since childhood — she ca
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Shrine maiden (miko)
+proficient_skills: []
 appearance: She wears the traditional white kosode and red hakama of a shrine maiden, her sleeves tied
   back for work. Her hands are rough from scrubbing stone steps. She moves with careful, deliberate grace
   and bows a little too deeply when addressed.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: seventeen
   body_build: slight, wiry
@@ -31,6 +37,7 @@ fears_or_limits:
 - Something in the forest is getting closer each week, and she doesn't know what she'll do when it arrives.
 current_state:
   location: location:haru-shrine-town
+purview: []
 ---
 
 A young shrine maiden at Haru Shrine, devoted and hardworking. She sweeps the grounds before dawn and tends the offering lanterns with quiet precision. She flinches sometimes at things no one else seems to notice.

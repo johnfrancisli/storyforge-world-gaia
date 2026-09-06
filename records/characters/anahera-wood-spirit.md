@@ -14,9 +14,15 @@ gm_notes: Anahera carves the figureheads that sit on the prows of voyaging canoe
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Wood carver
+proficient_skills: []
 appearance: A strong-armed, focused woman with wood shavings in her hair and a carving adze always at
   hand. She examines wood grain the way others read faces — looking for the spirit inside.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: thirty
   body_build: strong-armed, broad-handed, focused
@@ -37,6 +43,7 @@ fears_or_limits:
   lost
 current_state:
   location: location:tide-archipelago
+purview: []
 ---
 
 A wood carver whose figureheads can see. She senses what they sense — until the last one went silent in a way that means something out there is covering its eyes.

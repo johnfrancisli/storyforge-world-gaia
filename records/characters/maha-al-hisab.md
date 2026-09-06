@@ -13,9 +13,15 @@ gm_notes: A mathematician who has discovered that the Pact of the Lamp's origina
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Mathematician, scholar
+proficient_skills: []
 appearance: Neat and reserved in scholar's robes, she carries a case of drafting tools and a leather notebook
   full of equations. She counts everything — steps, breaths, tiles in a pattern — and finds it calming.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 39
   body_build: slender, erect posture
@@ -37,6 +43,7 @@ fears_or_limits:
   are ironclad
 current_state:
   location: location:zaffar
+purview: []
 ---
 
 A mathematician and scholar who teaches at the Zaffar Academy and is known for her work on the geometric patterns in Islamic tiling. She is precise, patient, and never makes a claim she cannot prove.

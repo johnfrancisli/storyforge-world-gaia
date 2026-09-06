@@ -12,10 +12,16 @@ gm_notes: 'Hjordis carves bone and antler — dice, combs, needle cases, brooche
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Bone Carver
+proficient_skills: []
 appearance: Fine-boned and precise, Hjordis works at a low bench surrounded by antler pieces, bone blanks,
   and carving tools. She wears a leather apron over a simple dress and holds her carving knife with the
   delicacy of a scribe holding a quill. Her shavings are so fine they look like snow.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 26
   body_build: slender and small-boned, precise in movement
@@ -34,6 +40,7 @@ fears_or_limits:
 - that the volur will see her work as unlicensed seidr and punish her for practicing without training
 current_state:
   location: location:skaldvik
+purview: []
 ---
 
 A bone carver whose knife brings beauty out of antler and ivory, and whose runes — carved without training, without permission — have started doing something more than decorating.

@@ -11,10 +11,16 @@ gm_notes: Satsuki teaches tea ceremony to Prince Haru (character:tsu-prince-haru
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Tea ceremony teacher (chajin)
+proficient_skills: []
 appearance: She wears an immaculate, subdued kimono in slate grey or deep indigo, with a white fukusa
   cloth folded precisely at her collar. Her movements in the tea room are liquid and unhurried. She speaks
   softly, and people lean in to hear her — which is the point.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: early sixties
   body_build: slender, composed
@@ -31,6 +37,7 @@ fears_or_limits:
 - She is a servant, not a strategist, and the forces around the succession are far beyond her influence.
 current_state:
   location: location:tsuki-no-miyako
+purview: []
 ---
 
 A tea ceremony teacher in the capital who instructs the shogunate's household in the way of tea. She is calm, precise, and quietly authoritative in a space where she controls every movement. She has taught two generations of the Ashikara household.

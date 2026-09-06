@@ -12,10 +12,16 @@ gm_notes: Katsura is a shrine kitsune who has served Haru Shrine for three hundr
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Shrine kitsune (tame fox spirit)
+proficient_skills: []
 appearance: She wears the white and red of a senior shrine maiden, her movements precise and ancient in
   a way that feels like watching a ceremony rather than a person. A faint smell of autumn leaves follows
   her. In certain light, something shifts behind her — a shadow that doesn't match her silhouette.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: ageless — appears early thirties
   body_build: slender, still
@@ -36,6 +42,7 @@ fears_or_limits:
   enough to stop her alone.
 current_state:
   location: location:haru-shrine-town
+purview: []
 ---
 
 A shrine maiden at Haru Shrine who has served the village for longer than anyone can remember. She tends the inner garden, trains the younger maidens, and keeps the shrine's oldest rituals alive. She is always the first to arrive and the last to leave.

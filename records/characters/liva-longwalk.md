@@ -12,11 +12,17 @@ gm_notes: 'Liva is a messenger who carries news, invitations, and legal summons 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Messenger
+proficient_skills: []
 appearance: Lean and tireless, Liva wears travelling clothes — wool, leather, and a waterproof cloak —
   with a messenger's satchel across her chest. She carries a walking staff and a small knife, nothing
   more. She is weather-tanned, her face lined from wind and sun, and she moves with the efficient gait
   of someone who measures distance in days.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 30
   body_build: lean and long-legged, built for distance walking
@@ -35,6 +41,7 @@ fears_or_limits:
 - that if she delivers it, she will be complicit in whatever 'the Althing fire' means
 current_state:
   location: location:skaldvik
+purview: []
 ---
 
 A messenger who has walked every fjord path in Hrafnland and who is currently carrying a letter that might be the match that lights a war.

@@ -13,10 +13,16 @@ gm_notes: 'Alvilda is a sail maker who works under Thora, learning the craft. He
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Sail Maker (Apprentice)
+proficient_skills: []
 appearance: Young and bright-eyed, Alvilda wears a canvas apron over practical wool, her hands already
   showing the calluses of the sail loft. She is quicker to smile than her master and quicker to ask questions,
   which Thora sometimes appreciates and sometimes endures.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 19
   body_build: tall and lean, still filling out
@@ -34,6 +40,7 @@ fears_or_limits:
 - that finding out what the thread is will put her in danger from whoever or whatever its source is
 current_state:
   location: location:skaldvik
+purview: []
 ---
 
 A sail maker's apprentice whose hands are learning the craft and whose eyes are learning the secrets — including one she does not yet know is dangerous to know.

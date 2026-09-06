@@ -11,10 +11,16 @@ gm_notes: Kinu's tattoos are magical — inked with a formula that includes yoka
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Tattoo artist (horishi)
+proficient_skills: []
 appearance: She wears a short-sleeved kimono that shows her own elaborate tattoos — a phoenix across one
   arm, water patterns on the other. She holds her needles with the steadiness of a surgeon. Her workspace
   is spotless, the ink stones arranged in a precise row.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: mid-thirties
   body_build: lean, strong-shouldered
@@ -32,6 +38,7 @@ fears_or_limits:
 - Takeda's agent made it clear that refusal has consequences, and she's a lone artist in a rural province.
 current_state:
   location: location:tsukuyomi
+purview: []
 ---
 
 A tattoo artist in rural Tsukuyomi whose work is sought after by sailors, farmers, and warriors alike. She works in a small studio behind a fabric shop, needle and ink her only tools. She doesn't advertise — clients find her by word of mouth.

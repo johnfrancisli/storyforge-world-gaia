@@ -9,10 +9,16 @@ gm_notes: Kai has lost three routes in the last year — islands that were navig
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Wayfinder (navigator)
+proficient_skills: []
 appearance: A compact man in light island cloth, barefoot, with a carved wayfinding staff in his hand.
   His arms are covered in tattoo patterns — geometric lines and stars that map the routes he has sailed.
   He watches the water the way most people watch faces.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: mid-twenties
   body_build: compact, lean, wiry
@@ -29,6 +35,7 @@ fears_or_limits:
   answer or will not. He is one man against a problem that affects hundreds of islands.
 current_state:
   location: location:lani-atoll
+purview: []
 ---
 
 A young wayfinder of the Tide Archipelago, based at Lani Atoll. Compact, sun-darkened, with tattoo patterns running up both arms that mark the routes he has memorized. He is one of the most talented young navigators in the guild, and he is also one of the most worried.

@@ -9,8 +9,14 @@ gm_notes: 'She is the Wei state''s foremost strategist and has authored three mi
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Master strategist and military advisor
+proficient_skills: []
 appearance: Plain-faced and practical, robes always ink-stained. Moves with deliberate economy.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 41
   body_build: thin and angular
@@ -29,6 +35,7 @@ fears_or_limits:
 - That her pen name will outlive her real name
 current_state:
   location: location:jin-an
+purview: []
 ---
 
 A sharp-eyed scholar in Wei scholar's robes who advises the Wei warlord on military strategy and is never seen without a writing brush behind her ear.

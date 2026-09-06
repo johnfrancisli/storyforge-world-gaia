@@ -13,9 +13,15 @@ gm_notes: A jaguar beast-kin hunter who is the best tracker in the western rainf
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Hunter and deep-forest tracker
+proficient_skills: []
 appearance: Powerful and fluid, with prominent jaguar-spot patterning. Wears minimal spotted hide. Carries
   a heavy hunting spear and a belt of bone knives.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 28
   body_build: muscular and athletic, broad-shouldered and long-limbed
@@ -35,6 +41,7 @@ fears_or_limits:
 - That someone will learn she killed a jaguar and she will be exiled
 current_state:
   location: location:verdania
+purview: []
 ---
 
 A powerful jaguar beast-kin hunter who tracks through the deepest rainforest and brings back game no one else can find, moving in unnerving silence.

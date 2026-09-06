@@ -11,10 +11,16 @@ gm_notes: 'Suzume is the younger sister of the wandering swordmaster Soji (chara
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Wandering tengu (exile)
+proficient_skills: []
 appearance: She wears traveling clothes in dark forest colors, a cloth wrapping her head to hide the feathers
   that grow along her temples. Her naginata is wrapped in cloth to look like a walking stick. She watches
   the sky too much and the ground too little.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: ageless — appears early twenties
   body_build: lean, angular, bird-boned
@@ -34,6 +40,7 @@ fears_or_limits:
   fall — and her with it.
 current_state:
   location: location:tsukuyomi
+purview: []
 ---
 
 A tengu woman traveling the Cedar Road in human disguise, carrying a naginata and a travel pack. She is sharper-tongued than her brother and less patient with human customs. She perches on high things when she thinks no one is watching.

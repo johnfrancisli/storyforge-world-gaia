@@ -15,10 +15,16 @@ gm_notes: Tama is a young pearl diver, apprenticed to Hina Deepwater, and she is
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Pearl diver (apprentice)
+proficient_skills: []
 appearance: A young, lean, water-confident woman with the first pearl-shell earrings of a diver and the
   sun-bleached hair that marks long hours in the sea. She is always near Hina and always watching the
   water.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: nineteen
   body_build: lean, long-limbed, deep-chested like her teacher
@@ -39,6 +45,7 @@ fears_or_limits:
 - That if she dives the spot Hina has been visiting, she will not come back — or she will come back changed
 current_state:
   location: location:tide-archipelago
+purview: []
 ---
 
 A nineteen-year-old pearl diver, Hina Deepwater's apprentice, who is being called to the same deep-water something that is drawing her teacher down. She does not know if she is being called or if she is the one calling.

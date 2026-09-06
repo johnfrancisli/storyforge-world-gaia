@@ -12,10 +12,16 @@ gm_notes: 'A spice trader who specializes in the rarest and most dangerous commo
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Spice trader, dealer in rare and pharmacological spices
+proficient_skills: []
 appearance: Slim and guarded in dark robes, her face partially veiled even in the market. She moves with
   deliberate care among her wares, handling each jar as if it might bite. Her stall smells of cinnamon
   and something medicinal underneath.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 35
   body_build: lean, precise in movement
@@ -34,6 +40,7 @@ fears_or_limits:
 - That the caravan master will reveal the truth about her mother's death and destroy her reputation
 current_state:
   location: location:zaffar
+purview: []
 ---
 
 A quiet, watchful spice trader whose stall in the Star Bazaar deals in common cardamom and cinnamon by day and far rarer substances by appointment. She keeps her rarest stock in sealed clay jars behind a false wall.

@@ -12,9 +12,15 @@ gm_notes: 'A Mizuhito midwife who has delivered over three hundred babies — hu
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Midwife and water-birth specialist
+proficient_skills: []
 appearance: Solid and reassuring, with the serene patience of deep water. Wears a wet wrap and a belt
   of tools. Her webbed hands are extraordinarily gentle.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 56
   body_build: full-figured and strong, broad-hipped
@@ -34,6 +40,7 @@ fears_or_limits:
 - That revealing their nature will turn the tribes against them
 current_state:
   location: location:iara
+purview: []
 ---
 
 A calm, blue-skinned Mizuhito midwife who catches babies on stilt-platforms and in the water alike, known for never losing a mother or child.

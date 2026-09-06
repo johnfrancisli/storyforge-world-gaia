@@ -13,9 +13,15 @@ gm_notes: 'Nalani is the healer every islander comes to when the usual remedies 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Healer and herbalist
+proficient_skills: []
 appearance: A calm, grounded woman with earth-stained hands and a pouch of medicines at her belt. She
   smells of crushed leaves and salt air. Her manner is patient and unhurried, even in crisis.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: fifty-two
   body_build: solid, grounded, wide-hipped
@@ -35,6 +41,7 @@ fears_or_limits:
   cause
 current_state:
   location: location:lani-atoll
+purview: []
 ---
 
 The most respected healer on Lani Atoll, known for cures that no other herbalist can replicate. She tends a secret garden on an uninhabited islet that should not exist, growing medicines that should not grow here.

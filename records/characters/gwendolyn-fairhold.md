@@ -10,9 +10,15 @@ gm_notes: Gwendolyn is the wife of a minor baron who has positioned herself as a
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Baroness / Political Mediator
+proficient_skills: []
 appearance: Elegant and composed, Gwendolyn wears fine but understated gowns and minimal jewellery. She
   has a gift for making everyone she speaks to feel uniquely heard.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 38
   body_build: slender and poised
@@ -30,6 +36,7 @@ fears_or_limits:
 - that someone with a stronger claim will emerge before her plan matures
 current_state:
   location: location:crownhaven
+purview: []
 ---
 
 A gracious and diplomatic baroness who pours tea for rival factions with equal warmth — while quietly ensuring neither side ever quite wins.

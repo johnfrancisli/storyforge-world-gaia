@@ -9,9 +9,15 @@ gm_notes: Edmund is a half-elf forester who patrols the King's Wood. He discover
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Forester
+proficient_skills: []
 appearance: Lean and weathered, Edmund wears forest-green garb and a hooded cloak. His ears are slightly
   pointed but less pronounced than a full elf's, and he carries a longbow.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 35
   body_build: lean and rangy
@@ -29,6 +35,7 @@ fears_or_limits:
 - that the dragons trapped in the camp will be killed or sold before he can act
 current_state:
   location: location:valdris
+purview: []
 ---
 
 A half-elf forester who knows every tree in the King's Wood — and who is currently hiding among them, hunted by men who trap dragons.

@@ -11,10 +11,16 @@ gm_notes: 'Ragna is a smith who works iron, bronze, and a little silver. Her sec
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Smith
+proficient_skills: []
 appearance: Broad and soot-blackened, Ragna wears a leather smith's apron over rolled sleeves, her forearms
   laced with old burn scars. She works with focused intensity, hammer rising and falling in a rhythm the
   whole street can hear. Her hair is singed short at the edges from sparks.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 42
   body_build: broad-shouldered and thick-armed, powerful
@@ -32,6 +38,7 @@ fears_or_limits:
 - that her daughter will learn how the bride-price was paid and refuse it
 current_state:
   location: location:skaldvik
+purview: []
 ---
 
 A smith whose forge burns hot and whose ingots always bear the right stamps — though not always the right metal, or the right weight.

@@ -13,9 +13,15 @@ gm_notes: 'A gardener who tends the floating gardens of the Verdania river-citie
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Gardener and plant-tender
+proficient_skills: []
 appearance: Earth-toned and sun-warm, always slightly dirt-smudged. Wears a simple wrap skirt and nothing
   on her feet. Surrounded by improbably lush greenery.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 31
   body_build: solid and grounded, strong from garden work
@@ -34,6 +40,7 @@ fears_or_limits:
 - That the green-spirit will take her against her will
 current_state:
   location: location:iara
+purview: []
 ---
 
 A human woman with a startling gift for growing things, who tends the floating manioc and squash gardens tethered alongside the stilt-city of Iara.

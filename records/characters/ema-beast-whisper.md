@@ -13,9 +13,15 @@ gm_notes: An animal trainer who works with the rainforest's creatures — capyba
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Animal trainer and messenger-bird handler
+proficient_skills: []
 appearance: Stocky and earthy, always accompanied by animals. Wears practical hide clothing stained with
   fur and feathers. Has a serene, slightly distracted quality, as if listening to something far away.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 33
   body_build: stocky and strong, built for handling large animals
@@ -34,6 +40,7 @@ fears_or_limits:
 - That she will drift into the animal-sense permanently and her body will be found standing empty
 current_state:
   location: location:verdania
+purview: []
 ---
 
 A stocky human woman who trains rainforest animals for work and messaging and who seems to understand every creature she meets as if they share a language.

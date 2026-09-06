@@ -11,9 +11,15 @@ gm_notes: A cook in the Great Academy's kitchens who has been feeding the Academ
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Academy cook and quiet protector
+proficient_skills: []
 appearance: Round and flour-dusted, wearing a cook's apron and head wrap. Always smells of star anise
   and ginger.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 63
   body_build: round and sturdy
@@ -32,6 +38,7 @@ fears_or_limits:
 - That her notes will lead the headmaster into a confrontation he cannot survive
 current_state:
   location: location:jin-an
+purview: []
 ---
 
 A warm, motherly cook in the Great Academy kitchens whose soups are legendary and whose ear is always open.

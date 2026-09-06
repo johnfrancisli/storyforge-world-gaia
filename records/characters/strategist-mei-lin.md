@@ -10,10 +10,16 @@ gm_notes: 'Mei Lin has discovered something in the old archives: the original tr
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Scholar-strategist, junior advisor
+proficient_skills: []
 appearance: A slight woman in plain scholar's robes, ink-stained fingers, and hair pinned hastily with
   a wooden pin. She carries scrolls everywhere and reads while walking, which has caused three collisions
   this month. Her spectacles are held on with a string.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: late twenties
   body_build: slight, thin
@@ -32,6 +38,7 @@ fears_or_limits:
   wrong person.
 current_state:
   location: location:jin-an
+purview: []
 ---
 
 A young scholar-strategist at the Great Academy in Jin'an. A woman in her late twenties who is brilliant, bookish, and socially clumsy. She was appointed to Cao Shen's advisory staff on the strength of her examination scores, which were the highest in a decade. She is not a fighter and does not pretend to be.

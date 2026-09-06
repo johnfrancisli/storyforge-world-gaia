@@ -11,9 +11,15 @@ gm_notes: A Wei scholar-strategist who authored the Wei warlord's most successfu
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Wei strategist and potential defector
+proficient_skills: []
 appearance: Dignified and somber, wearing Wei-state scholar's robes of deep blue. Carries a fan inscribed
   with strategic diagrams.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 52
   body_build: tall and upright, slightly gaunt
@@ -32,6 +38,7 @@ fears_or_limits:
 - That the Academy will refuse asylum and the Wei warlord will learn of his contact
 current_state:
   location: location:jin-an
+purview: []
 ---
 
 A tall, grave scholar in Wei blue robes whose military treatises are studied by officers across all three states.

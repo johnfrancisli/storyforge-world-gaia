@@ -13,9 +13,15 @@ gm_notes: 'A jaguar beast-kin guard who patrols Iara''s perimeter at night and w
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Night-patrol guard
+proficient_skills: []
 appearance: Large and heavily spotted, with a guard's watchful posture. Wears reinforced hide and carries
   a heavy club. His night vision is extraordinary — he rarely needs the lantern.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 33
   body_build: large and heavily muscled, built for presence and endurance
@@ -35,6 +41,7 @@ fears_or_limits:
 - That covering for his friend makes him complicit in whatever the possession causes
 current_state:
   location: location:iara
+purview: []
 ---
 
 A large, spotted jaguar beast-kin who walks Iara's perimeter at night with a club and a lantern and who has never once been found sleeping on duty.

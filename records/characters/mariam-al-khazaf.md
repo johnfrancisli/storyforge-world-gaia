@@ -12,10 +12,16 @@ gm_notes: A potter who discovered that clay from a specific wadi outside Zaffar,
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Potter, accidental vessel-maker
+proficient_skills: []
 appearance: Compact and focused in a clay-spattered apron, her hands perpetually dusted with pale kaolin.
   She works with quiet intensity at her wheel, and her kiln glows behind her workshop at all hours. Her
   shelves hold both ordinary wares and a few sealed vessels she will not sell.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 29
   body_build: compact, strong-wristed
@@ -35,6 +41,7 @@ fears_or_limits:
 - That the voices in the pottery are not just echoes but fragments of djinn consciousness that could reconstitute
 current_state:
   location: location:zaffar
+purview: []
 ---
 
 A potter in the Crafts Quarter whose bowls and vessels are known for their unusual resonance — they ring when struck, as if something inside them is still vibrating. She works alone at her wheel and fires her kiln at night.

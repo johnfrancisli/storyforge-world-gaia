@@ -11,10 +11,16 @@ gm_notes: A master dyer who can produce colors no other dyer in Zaffar can repli
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Master dyer
+proficient_skills: []
 appearance: Sturdy and stained in a dyer's apron permanently marked with every color she has ever mixed.
   Her forearms are dyed blue to the elbow, and she smells of mordant and indigo. She is boisterous and
   loud in the market, the opposite of secretive in manner.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 42
   body_build: broad-shouldered and strong-armed
@@ -33,6 +39,7 @@ fears_or_limits:
 - That the binding family will trace the dye's properties to the spring and claim it
 current_state:
   location: location:zaffar
+purview: []
 ---
 
 A dyer whose vats of color line the Textile Quarter in streaks of impossible blue and crimson. She works with her arms elbow-deep in dye, surrounded by drying cloth, and sells to every weaver in the city.

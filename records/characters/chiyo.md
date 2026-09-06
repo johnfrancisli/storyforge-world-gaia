@@ -11,10 +11,16 @@ gm_notes: Chiyo can see and speak with spirits that adults cannot — a gift tha
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Child
+proficient_skills: []
 appearance: She wears a bright cotton kimono with a sash that's coming undone and geta sandals that clack
   on the stone paths. She carries a cloth bag full of acorns and interesting stones. Her hair is escaping
   its ties, and she has grass stains on her knees.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: ten
   body_build: small, wiry, energetic
@@ -33,6 +39,7 @@ fears_or_limits:
   about it.
 current_state:
   location: location:haru-shrine-town
+purview: []
 ---
 
 A cheerful girl of ten who races through Haru's Shrine Town with unmatched energy. She talks to things no one else can see and reports their conversations as if they're perfectly ordinary. Most adults think she has an vivid imagination.

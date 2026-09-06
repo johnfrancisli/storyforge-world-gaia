@@ -11,8 +11,14 @@ gm_notes: A musician at the Great Academy who plays the dizi (bamboo flute) and 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Spirit musician and keeper of ancient melodies
+proficient_skills: []
 appearance: Ethereal and quiet, wearing Academy gray-white robes. Always carries a pale bamboo flute.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 26
   body_build: slight and willowy
@@ -31,6 +37,7 @@ fears_or_limits:
 - That the spirits will stop answering if humans misuse the music
 current_state:
   location: location:jin-an
+purview: []
 ---
 
 A gifted Academy musician whose bamboo flute playing is said to make the air shimmer and the heart ache with unnamed longing.

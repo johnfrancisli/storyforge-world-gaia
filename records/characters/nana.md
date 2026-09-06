@@ -10,10 +10,16 @@ gm_notes: Nana can heal wounds that should be fatal using a technique taught to 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Herbalist and healer
+proficient_skills: []
 appearance: She wears a plain brown kimono with deep pockets full of dried herbs and packets of powder.
   Her hands are stained green from tincture work. She smells of menthol, ginger, and damp earth, and she
   moves with the unhurried calm of someone who has seen every kind of injury.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: late fifties
   body_build: weathered, wiry
@@ -31,6 +37,7 @@ fears_or_limits:
 - The wounded man may be dangerous, and his pursuers may come looking for him at her cottage.
 current_state:
   location: location:tsukuyomi
+purview: []
 ---
 
 An herbalist and healer in rural Tsukuyomi, known for setting bones and closing wounds that the shrine healers can't. She lives in a cottage surrounded by medicinal gardens. She treats everyone who comes to her door and asks no questions — most of the time.

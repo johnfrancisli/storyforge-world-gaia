@@ -14,9 +14,15 @@ gm_notes: Finau makes the rope that lashes every canoe, every house, every net i
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Rope maker
+proficient_skills: []
 appearance: A wiry, strong-handed woman with rope burns on her palms and coils of cord always over one
   shoulder. She ties and unties knots absently while talking, her fingers never still.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: thirty-three
   body_build: wiry, strong-forearmed, lean
@@ -36,6 +42,7 @@ fears_or_limits:
 - That her father died at sea because he untied the knot at the wrong moment
 current_state:
   location: location:tide-archipelago
+purview: []
 ---
 
 A rope maker whose cord never breaks, thanks to a knot her father called 'the knot that holds the world together.' She is beginning to suspect the knot does exactly that — and more.

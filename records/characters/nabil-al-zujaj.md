@@ -14,10 +14,16 @@ gm_notes: A male glassblower and Dunya's (character:alk-dunya-glassblower) older
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Glassblower, reluctant weaponsmith
+proficient_skills: []
 appearance: Broad and furnace-red in a leather apron, his forearms thick from glasswork. He is quieter
   than his cousin and slower to laugh. He works at a larger furnace than hers and handles bigger pieces
   — bowls, jars, vessels the size of a man's torso.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 34
   body_build: broad-shouldered, strong-armed
@@ -38,6 +44,7 @@ fears_or_limits:
   the Pact itself
 current_state:
   location: location:zaffar
+purview: []
 ---
 
 A broad, furnace-red glassblower in the Crafts Quarter who works at a larger furnace than his cousin's. He is quieter than his cousin and slower to laugh, and he has been handling bigger and bigger pieces with worried eyes.

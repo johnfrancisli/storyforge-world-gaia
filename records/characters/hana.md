@@ -11,10 +11,16 @@ gm_notes: Hana carries messages between the capital and the provinces and has be
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Messenger and courier (hikyaku)
+proficient_skills: []
 appearance: She wears a lightweight traveling kimono with tight sleeves and straw sandals, a courier's
   pack strapped to her back. She's lean from running and always slightly out of breath when she stops.
   She carries a knife in her sash that she knows how to use.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: early twenties
   body_build: lean, long-legged, runner's build
@@ -32,6 +38,7 @@ fears_or_limits:
   ignorance is not safety.
 current_state:
   location: location:tsukuyomi
+purview: []
 ---
 
 A fleet-footed messenger who runs the Cedar Road between the capital and the provinces. She carries sealed scrolls and wears a route marker's sash. She knows every shortcut, every rest house, and every checkpoint guard by name.

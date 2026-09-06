@@ -15,9 +15,15 @@ gm_notes: Makea is a guard on Lani Atoll who patrols the meeting house and the c
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Guard
+proficient_skills: []
 appearance: A large, gentle man with a guard's staff and a former wayfinder's faded tattoos on his arms.
   He moves with care for his size and has a warm, reassuring presence that belies his private fear.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: thirty-eight
   body_build: large, broad, gentle in movement
@@ -39,6 +45,7 @@ fears_or_limits:
   meeting house, he will not be able to resist it anymore
 current_state:
   location: location:lani-atoll
+purview: []
 ---
 
 A guard who was once a gifted wayfinder until he heard an alien song in the wind at sea. He quit sailing and has hidden the reason for twelve years. Now he is hearing the song on land.

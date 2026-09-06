@@ -9,10 +9,16 @@ gm_notes: 'Tsubaki discovered a kiln in the hills above Haru''s Shrine Town that
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Pottery maker (toki)
+proficient_skills: []
 appearance: She wears a clay-spattered apron and keeps her hair tied under a cloth. Her hands are always
   dusted with kaolin. She speaks quickly when anyone asks about her firing techniques and changes the
   subject to glazes.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: early thirties
   body_build: compact, strong-wristed
@@ -30,6 +36,7 @@ fears_or_limits:
   artifacts.
 current_state:
   location: location:haru-shrine-town
+purview: []
 ---
 
 A potter in Haru's Shrine Town whose bowls and cups are quietly famous for keeping tea warm and food fresh. She works in a small studio at the edge of town with a single kiln she built herself — and another she won't show anyone.

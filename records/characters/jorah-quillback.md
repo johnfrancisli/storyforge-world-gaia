@@ -9,9 +9,15 @@ gm_notes: Jorah is a scribe who works for the city magistrate, recording legal p
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Scribe
+proficient_skills: []
 appearance: Thin and precise, Jorah wears an ink-spotted scholar's coat and carries a leather satchel
   of documents. He is always neatly groomed and speaks in measured, careful sentences.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 37
   body_build: thin and angular
@@ -29,6 +35,7 @@ fears_or_limits:
 - that he has already done too much damage to ever make it right
 current_state:
   location: location:crownhaven
+purview: []
 ---
 
 A meticulous scribe whose pen has been forced to lie — and who keeps a second, truthful record stitched into his own clothing.

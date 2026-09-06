@@ -12,10 +12,16 @@ gm_notes: 'Nadia''s granddaughter and heir to the al-Faris binding line. Reem ha
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Binding family heiress, independent scholar
+proficient_skills: []
 appearance: Young and bookish in practical linen robes, her hair bound in a loose braid. She has ink on
   her fingers and a habit of mouthing words silently as she reads. She watches the djinn in the market
   with more intensity than fear.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 22
   body_build: slender, slight
@@ -34,6 +40,7 @@ fears_or_limits:
 - That the voice is not benevolent and is using her to unravel the Pact from within
 current_state:
   location: location:zaffar
+purview: []
 ---
 
 A studious young woman of the al-Faris binding family who spends her days in the family library and her evenings at the Star Bazaar, always listening. She carries a leather satchel full of annotated contract fragments.

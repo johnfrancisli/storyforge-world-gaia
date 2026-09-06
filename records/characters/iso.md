@@ -11,10 +11,16 @@ gm_notes: 'Iso''s husband didn''t die at sea — he was taken by an umi-bozu, a 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Fisherman's wife and fishmonger
+proficient_skills: []
 appearance: She wears a practical dark kimono with a fishmonger's apron, rubber-soled sandals for the
   dock. Her hands are rough from salt water and net-mending. She smells of the sea and wood smoke. Her
   eyes are tired in a way that has nothing to do with the hour.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: mid-thirties
   body_build: weathered, strong-armed
@@ -33,6 +39,7 @@ fears_or_limits:
   know if Taro is friend or warden.
 current_state:
   location: location:tsukuyomi
+purview: []
 ---
 
 A fisherman's wife in a coastal village in Tsukuyomi who runs her household alone while her husband is 'at sea.' She mends nets, sells fish at dawn, and keeps her home spotless. She smiles for the neighbors and doesn't sleep much.

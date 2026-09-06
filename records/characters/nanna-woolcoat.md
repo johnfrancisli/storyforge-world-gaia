@@ -11,11 +11,17 @@ gm_notes: 'Nanna tends a flock of hardy mountain sheep on the high pastures abov
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Shepherd
+proficient_skills: []
 appearance: Weather-worn and sharp-eyed, Nanna wears a thick wool coat (her namesake) and carries a shepherd's
   crook and a short bow. She is always with her dogs — three border collies who never leave her side.
   She has not slept a full night in weeks, and the dark circles under her eyes are visible from across
   a field.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 31
   body_build: lean and wiry, built for long days on the hill
@@ -33,6 +39,7 @@ fears_or_limits:
 - that whatever is feeding will move from sheep to her — or to someone in the settlement below
 current_state:
   location: location:hrafnland
+purview: []
 ---
 
 A shepherd who guards her flock with a fierce, sleepless devotion, and who has been lying about what is taking her sheep in the dark.

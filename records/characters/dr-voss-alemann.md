@@ -11,10 +11,16 @@ gm_notes: 'Voss is from Valdris — a human academic who came to Verdania to stu
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Academic explorer
+proficient_skills: []
 appearance: A thin, sunburnt man in explorer's clothes — canvas trousers, a linen shirt, and a wide hat.
   He carries a leather satchel full of notebooks and a compass. His Valdris accent is strong and his jungle
   skills are improving but not great.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: late forties
   body_build: thin, wiry
@@ -35,6 +41,7 @@ fears_or_limits:
   local sensitivities.
 current_state:
   location: location:iara
+purview: []
 ---
 
 A human academic from Valdris, living in Iara to study the temple cities of the old civilization. A middle-aged man with a scholar's build and an explorer's obsession. He is well-meaning, slightly oblivious to local politics, and deeply curious about things that may be better left alone.

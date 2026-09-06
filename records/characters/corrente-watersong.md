@@ -11,9 +11,15 @@ gm_notes: A Mizuhito river pilot who knows every submerged channel between Iara 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Master river pilot and canoe navigator
+proficient_skills: []
 appearance: Compact and weathered, perpetually damp. Wears minimal clothing of woven river-reed. Her webbed
   hands are callused from decades of paddle work.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 52
   body_build: broad-shouldered and short, powerful arms
@@ -33,6 +39,7 @@ fears_or_limits:
 - That her daughter will learn the truth and seek vengeance instead of protection
 current_state:
   location: location:iara
+purview: []
 ---
 
 A blue-skinned Mizuhito river pilot who navigates the flooded forests with an almost supernatural sense for hidden currents and submerged obstacles.

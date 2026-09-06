@@ -13,10 +13,16 @@ gm_notes: Lupe is the fire-dancer who performs at every great gathering, and her
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Dancer
+proficient_skills: []
 appearance: A lithe, expressive woman who moves like water even when she is standing still. She wears
   light performing cloth and carries fire-poi wrapped in protective fiber. Her energy is intense and slightly
   feverish.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: twenty-six
   body_build: lithe, long-limbed, flexible
@@ -37,6 +43,7 @@ fears_or_limits:
 - That the next dream-dance will name Lani Atoll
 current_state:
   location: location:lani-atoll
+purview: []
 ---
 
 A fire-dancer whose dances come to her in dreams. The dreams have turned from celebration to prophecy, and she is afraid the next dance will name the next island to drown.

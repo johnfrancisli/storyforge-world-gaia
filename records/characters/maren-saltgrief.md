@@ -11,10 +11,16 @@ gm_notes: 'Maren is the navigator aboard the Frostwing, and she can read stars, 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Navigator / Sailor
+proficient_skills: []
 appearance: Lean and salt-wind-burned, Maren wears a sealskin coat over wool, a chart-roller slung across
   her back. She squints at the horizon more than she used to and tilts her head toward the wind as though
   listening to it. Her hands move constantly, tracing invisible maps on any flat surface.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 37
   body_build: wiry and tall, built for the open deck
@@ -33,6 +39,7 @@ fears_or_limits:
 - that the day she admits her blindness is the day she becomes no one
 current_state:
   location: location:skaldvik
+purview: []
 ---
 
 A navigator who steers by stars she can barely still see, holding the course of a ship and a life she knows she cannot keep forever.

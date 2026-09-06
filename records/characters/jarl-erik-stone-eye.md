@@ -10,10 +10,16 @@ gm_notes: Erik is Sigrid's rival on the Althing council — a young jarl from th
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Jarl of the southern fjords
+proficient_skills: []
 appearance: A young, handsome man in fine fur and iron, a throwing axe at his belt. He has a jarl's bearing
   and a younger man's certainty. His left eye is pale and unseeing — the stone-eye that gives him his
   name — and he wears an eyepatch of polished slate.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: early thirties
   body_build: lean, fit, athletic
@@ -33,6 +39,7 @@ fears_or_limits:
   not know about the abandoned village.
 current_state:
   location: location:hrafnland
+purview: []
 ---
 
 A young jarl from Hrafnland's southern fjords, in his early thirties. Handsome, opinionated, and suspicious of Sigrid's coalition. He opposes action against the frost giants and believes Sigrid is using the threat to consolidate power. He is a political rival, not an enemy — but rivals can become enemies fast in Hrafnland.

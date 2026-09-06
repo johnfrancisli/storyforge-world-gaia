@@ -15,9 +15,15 @@ gm_notes: 'Ariki was the chief of a small island that submerged two years ago. S
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Refugee and former chief
+proficient_skills: []
 appearance: A dignified, composed woman who carries herself with a chief's bearing even in refugee cloth.
   She is always in conversation, always building relationships, always listening more than she speaks.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: fifty-five
   body_build: dignified, composed, straight-backed
@@ -41,6 +47,7 @@ fears_or_limits:
   people to a second disaster
 current_state:
   location: location:lani-atoll
+purview: []
 ---
 
 A chief who lost her island and has been living quietly as a refugee while secretly building a coalition to merge four sinking islands' populations onto one that can survive.

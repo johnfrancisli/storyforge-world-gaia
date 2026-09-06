@@ -9,9 +9,15 @@ gm_notes: Roslyn is a fortune teller who genuinely has prophetic dreams — but 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Fortune Teller
+proficient_skills: []
 appearance: Dark-haired and intense-eyed, Roslyn wears layered shawls and skirts in deep jewel tones.
   She carries a pouch of rune stones and a deck of hand-painted cards.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 27
   body_build: slender and willowy
@@ -29,6 +35,7 @@ fears_or_limits:
 - that someone will force her to prophesy for political gain
 current_state:
   location: location:crownhaven
+purview: []
 ---
 
 A young fortune teller whose cryptic visions have started coming true, making her both sought after and deeply afraid.

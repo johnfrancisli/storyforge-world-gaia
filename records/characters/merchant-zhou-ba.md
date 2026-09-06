@@ -9,10 +9,16 @@ gm_notes: Zhou Ba is a fence for stolen goods and a broker for information. He i
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Merchant and information broker
+proficient_skills: []
 appearance: A round, well-fed man in fine silk robes, a fan in one hand and a cup of tea in the other.
   He laughs easily and watches everything. His rings are expensive and his smile is professional. He smells
   of sandalwood and money.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: late forties
   body_build: round, well-fed
@@ -29,6 +35,7 @@ fears_or_limits:
   no one decides he is more dangerous alive than dead. He is a civilian with no combat skills.
 current_state:
   location: location:jin-an
+purview: []
 ---
 
 A wealthy silk merchant in Jin'an's market district, with a side business in information and stolen goods. A fat, jolly man who dresses in fine silk and knows everyone. His shop is a front. His real business happens in the back room, over tea.

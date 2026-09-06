@@ -9,9 +9,15 @@ gm_notes: Odelia is a minstrel who travels the kingdom performing songs and stor
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Minstrel
+proficient_skills: []
 appearance: Bright and performative, Odelia wears colourful travelling clothes and a lutenist's callus
   on her fingers. Her smile is quick and warm, but does not always reach her eyes.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 30
   body_build: slender and expressive
@@ -29,6 +35,7 @@ fears_or_limits:
 - that she will be discovered as a spy by Valdris authorities and executed
 current_state:
   location: location:valdris
+purview: []
 ---
 
 A beloved minstrel whose songs capture the hearts of every village — and whose handler's letters capture secrets she no longer wants to share.

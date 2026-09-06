@@ -12,9 +12,15 @@ gm_notes: A tea brewer in the Star Bazaar who serves tea that reveals a single t
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Tea brewer, unwitting truth-brewer
+proficient_skills: []
 appearance: Warm and motherly in a clean apron and headscarf, she pours tea from a height to aerate it,
   a practiced flourish. Her stall is small and lit by lanterns, and she always has a pot ready.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 45
   body_build: round and comfortable
@@ -33,6 +39,7 @@ fears_or_limits:
 - That the truths her tea reveals will eventually drive someone to do something terrible
 current_state:
   location: location:zaffar
+purview: []
 ---
 
 A tea brewer whose stall in the Star Bazaar is a gathering point for late-night conversation. She serves mint tea and spiced chai in small glasses and has a memory for every customer's preferred sweetness.

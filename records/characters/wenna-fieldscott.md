@@ -9,9 +9,15 @@ gm_notes: Wenna is a shepherdess who tends her flocks on the high meadows near D
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Shepherd
+proficient_skills: []
 appearance: Sun-weathered and practical, Wenna wears a woollen shawl and rough boots. A shepherd's crook
   is always in her hand, and she carries a slingshot tucked in her belt.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 36
   body_build: lean and wiry from years on the hills
@@ -28,6 +34,7 @@ fears_or_limits:
 - that the moneylender will make good on his threats before she can pay
 current_state:
   location: location:dragonrest
+purview: []
 ---
 
 A weathered shepherdess who knows the mountain passes better than anyone, and who has been quietly breaking the kingdom's strictest laws to keep her family safe.

@@ -14,10 +14,16 @@ gm_notes: 'An herbalist who grows plants that should not survive in the desert â
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Herbalist, garden-keeper, contract-bearer
+proficient_skills: []
 appearance: Gentle and earth-stained in a gardener's loose robes, she moves among her plants with a healer's
   careful touch. She always has leaves in her hair and dirt on her knees. Her garden is cool and damp,
   an oasis within the oasis.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 33
   body_build: medium, strong from garden work
@@ -38,6 +44,7 @@ fears_or_limits:
   triggered the clause
 current_state:
   location: location:zaffar
+purview: []
 ---
 
 An herbalist whose walled garden in the middle ring of Zaffar is an impossibility of green â€” ferns, lilies, and mosses thriving in the desert heat. She tends it with quiet devotion and gives medicines to all who ask.

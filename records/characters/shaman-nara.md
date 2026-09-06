@@ -8,10 +8,16 @@ gm_notes: Nara has been hearing something new from the river spirit — a warnin
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Elder shaman
+proficient_skills: []
 appearance: A weathered woman in painted river-cloth, her arms marked with the spirit-pact patterns of
   her lineage. She moves slowly but with purpose, and her eyes focus on things others do not seem to see.
   Feathers and bone ornaments hang from her neck.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: sixties
   body_build: wiry, weathered
@@ -28,6 +34,7 @@ fears_or_limits:
   She is old and her strongest pact is weakening with age.
 current_state:
   location: location:iara
+purview: []
 ---
 
 An elder shaman of Verdania, based in Iara. A woman of sixty who has carried the river spirit-pact for forty years. She is the most respected spiritual voice in the river capital, and the council listens to her even when they disagree.

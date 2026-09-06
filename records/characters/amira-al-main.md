@@ -12,10 +12,16 @@ gm_notes: 'A water finder who can locate underground aquifers by walking barefoo
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Water finder, dowser
+proficient_skills: []
 appearance: Weathered and barefoot in loose desert cotton, her feet toughened to leather. She walks with
   a swaying, listening gait, as if the ground speaks to her. A brass rod hangs across her back on a leather
   cord.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 31
   body_build: lean and long-limbed, built for walking
@@ -35,6 +41,7 @@ fears_or_limits:
   quiet
 current_state:
   location: location:zaffar
+purview: []
 ---
 
 A desert woman who walks the dunes barefoot and finds water where no one else can. She is hired by caravans, farmers, and binding families alike, and she carries a brass dowsing rod she claims is mostly for show.

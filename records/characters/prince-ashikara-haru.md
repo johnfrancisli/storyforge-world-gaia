@@ -12,10 +12,16 @@ gm_notes: Haru knows his father the shogun (character:shogun-ashikara) is dying 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Prince of the Ashikara shogunate
+proficient_skills: []
 appearance: He wears a youth's court kimono in pale blue, well-kept but not ostentatious. He carries a
   wakizashi he's barely trained to use. His posture is open and unguarded in a way that makes his guard
   detail nervous. He reads scrolls while walking, which is why he trips on doorframes.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: seventeen
   body_build: slender, still growing
@@ -35,6 +41,7 @@ fears_or_limits:
   fight family.
 current_state:
   location: location:tsuki-no-miyako
+purview: []
 ---
 
 The younger son of the Shogun, seventeen years old, known for his kindness and his reluctance to compete with his elder brother. He spends his time in the palace gardens and the archives rather than the training grounds. He is polite to everyone and trusted by the servants, which is itself a kind of power.

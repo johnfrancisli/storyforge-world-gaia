@@ -12,11 +12,17 @@ gm_notes: 'Brita is the most experienced whaler in Skaldvik, and she has killed 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Whaler
+proficient_skills: []
 appearance: Massive and blunt-featured, Brita wears a heavy sealskin coat stained with old blood and blubber
   oil. She carries a harpoon as easily as others carry a walking stick, and her arms are scarred from
   rope-burns and the thrashing of dying whales. She has a booming voice that she has begun to use less
   often.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 51
   body_build: very tall and heavily built, raw power
@@ -34,6 +40,7 @@ fears_or_limits:
 - that she has earned something by being spared that she is wasting by continuing to kill
 current_state:
   location: location:skaldvik
+purview: []
 ---
 
 A whaler whose harpoon has never missed, and who now flinches every time she throws it — haunted by the eye of a whale that chose to spare her.

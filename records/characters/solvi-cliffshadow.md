@@ -12,11 +12,17 @@ gm_notes: 'Solvi is a watchman who keeps the night watch on the cliff above Skal
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Watchman
+proficient_skills: []
 appearance: Lean and sharp-eyed, Solvi wears a heavy watchman's cloak and carries a signal-horn and a
   lantern. She is weather-roughened and quiet, the kind of person who notices things others do not because
   she spends more time looking. She has a habit of sketching in a small leather book during the slow hours
   of the watch.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 29
   body_build: tall and lean, built for long still hours in the cold
@@ -34,6 +40,7 @@ fears_or_limits:
 - that she is wrong and it is phosphorescence after all, and she has been losing sleep over nothing
 current_state:
   location: location:skaldvik
+purview: []
 ---
 
 A watchman who scans the dark water every night for threats, and who has been watching something move in the fjord that no one else will take seriously — yet.

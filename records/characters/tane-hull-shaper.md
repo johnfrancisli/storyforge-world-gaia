@@ -14,9 +14,15 @@ gm_notes: 'Tane is the master canoe builder of Lani Atoll, and his voyaging cano
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Canoe builder
+proficient_skills: []
 appearance: A broad, strong-handed man with wood shavings in his hair and sawdust on his arms. He works
   with an intensity that borders on obsession, and his hands move with the confidence of decades of practice.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: forty-three
   body_build: broad, strong-armed, powerful
@@ -38,6 +44,7 @@ fears_or_limits:
 - That finishing the canoe means he will have to dive it into water from which nothing returns
 current_state:
   location: location:lani-atoll
+purview: []
 ---
 
 A master canoe builder who is secretly constructing a diving canoe from dream-designs he does not understand. He does not know what it is for, only that it is urgently needed.

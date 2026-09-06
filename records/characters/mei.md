@@ -12,10 +12,16 @@ gm_notes: Mei's Noh masks are inhabited by minor spirits — each mask she carve
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Noh mask maker (men-shi)
+proficient_skills: []
 appearance: She wears a carpenter's apron over a plain kimono, her hair tied back with a cloth. She holds
   a carving knife the way a calligrapher holds a brush. Wood shavings curl at her feet, and unfinished
   faces stare from every shelf.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: late twenties
   body_build: slender, fine-boned
@@ -34,6 +40,7 @@ fears_or_limits:
 - If anyone discovers her masks contain yokai, her work will be destroyed and she may be arrested.
 current_state:
   location: location:tsuki-no-miyako
+purview: []
 ---
 
 A Noh mask maker in the capital whose masks are prized by performers and courtiers for their eerie, shifting expressions. She works in a small workshop full of unfinished wooden faces and the smell of camphor and lacquer. She carves in silence and says the masks speak to her — she means it as a joke.

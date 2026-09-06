@@ -11,9 +11,15 @@ gm_notes: A canal worker and Mizuhito elder who has maintained the canal locks a
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Canal lock-keeper and keeper of sealed-channel secrets
+proficient_skills: []
 appearance: Old and river-worn, wearing Mizuhito canal-worker's garb and a faded official's sash from
   the old kingdom. Works methodically.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 68
   body_build: wiry and sinewy, aged but strong
@@ -32,6 +38,7 @@ fears_or_limits:
 - Dying without passing on the knowledge and the channels being forced open destructively
 current_state:
   location: location:sangguo
+purview: []
 ---
 
 A weathered Mizuhito canal lock-keeper whose understanding of the waterways is encyclopedic and whose loyalty to the old ways is absolute.

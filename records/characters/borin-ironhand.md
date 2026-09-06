@@ -10,10 +10,16 @@ gm_notes: Borin has been asked by the reformist faction to examine dragonbone ar
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Master smith
+proficient_skills: []
 appearance: A compact, broad man in a leather apron over forge-stained clothes, his arms bare and heavily
   muscled. His beard is iron-grey and braided in the mountain-dwarf style. His hands are scarred from
   decades of forge work. He smells of coal and hot metal.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: mid-fifties
   body_build: compact, dense, heavily muscled
@@ -33,6 +39,7 @@ fears_or_limits:
   learn what he is doing, he becomes a political pawn in the succession crisis.
 current_state:
   location: location:crownhaven
+purview: []
 ---
 
 A dwarven master smith in Crownhaven's metalworking district. Compact, strong, and precise. He works with iron, steel, and dragonbone — one of the few smiths in Valdris who will touch the last. He is the person the knightly order comes to when their armor needs repair, and the person Elara comes to when she needs something made quietly.

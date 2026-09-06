@@ -13,9 +13,15 @@ gm_notes: 'A human cook who runs the communal cooking fire of Iara and feeds the
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Communal cook and fire-tender
+proficient_skills: []
 appearance: Round and jolly, with flour on his arms and a perpetual stain of smoke and spice on his wrap.
   Laughs loudly, hugs freely, feeds compulsively.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 38
   body_build: round and soft, strong-armed from stirring large pots
@@ -34,6 +40,7 @@ fears_or_limits:
 - That a real famine will come and his cache will not be enough
 current_state:
   location: location:iara
+purview: []
 ---
 
 A round, warm human man who tends the communal cooking fire of Iara and feeds everyone who comes hungry, no questions asked.

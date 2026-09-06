@@ -12,9 +12,15 @@ gm_notes: 'An elder storyteller who knows every oral history of the Verdania tri
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Elder storyteller and oral history keeper
+proficient_skills: []
 appearance: Thin and weathered, wrapped in layered cotton. Her voice is soft but carries impossible distance
   — people at the far end of a gathering always hear her clearly.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 83
   body_build: thin and fragile, small-statured
@@ -33,6 +39,7 @@ fears_or_limits:
 - That the curious girl will piece the stories together too early and speak the Binding aloud
 current_state:
   location: location:iara
+purview: []
 ---
 
 A frail human elder who sits in the central platform of Iara and tells stories from morning to night, her voice barely above a whisper but never failing to draw a crowd.

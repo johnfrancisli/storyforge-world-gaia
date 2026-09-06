@@ -11,9 +11,15 @@ gm_notes: 'A librarian at the Great Academy who manages the student reading room
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Academy librarian and document-tampering investigator
+proficient_skills: []
 appearance: Neat and attentive, wearing Academy brown with a librarian's reading chain. Always has a list
   and a pen.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 34
   body_build: medium and precise
@@ -32,6 +38,7 @@ fears_or_limits:
 - That the chi-reactive ink trap will catch an innocent student and damage her credibility
 current_state:
   location: location:jin-an
+purview: []
 ---
 
 A meticulous, bespectacled Academy librarian who keeps the reading rooms perfectly organized and notices every misplaced page.

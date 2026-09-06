@@ -10,9 +10,15 @@ gm_notes: 'Sybil is an herbalist and midwife who delivered many of the children 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Midwife / Herbalist
+proficient_skills: []
 appearance: Weathered and warm, Sybil wears a practical dress and an apron full of pouches. Her hair is
   white and her hands are gentle despite their age.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 61
   body_build: sturdy and comfortable
@@ -30,6 +36,7 @@ fears_or_limits:
 - that whatever caused the marks is harming the children in ways she cannot yet see
 current_state:
   location: location:dragonrest
+purview: []
 ---
 
 A village midwife who has helped bring life into the world for decades — and who is now hiding three babies who bear a mark that should be impossible.

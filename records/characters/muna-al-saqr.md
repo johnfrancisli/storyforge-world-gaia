@@ -14,10 +14,16 @@ gm_notes: 'A female falconer who trains hunting falcons for the binding families
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Falconer, djinn-detecting bird trainer
+proficient_skills: []
 appearance: Sun-darkened and leather-clad in a falconer's gauntlet and vest, she carries her eldest falcon
   on her wrist. She has a still, watchful quality that mirrors her birds. Her hands are scarred from talon
   grips.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 30
   body_build: lean and wiry, outdoor-hardened
@@ -37,6 +43,7 @@ fears_or_limits:
 - That a powerful djinn will target her falcon in retaliation for its djinn-detecting ability
 current_state:
   location: location:zaffar
+purview: []
 ---
 
 A weathered falconer who keeps her birds on the rooftop of the high city's falconry tower. She is quiet and focused, her attention usually on the sky, and she speaks to her falcons in a low murmur no one else can hear.

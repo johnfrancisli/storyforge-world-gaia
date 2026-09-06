@@ -11,10 +11,16 @@ gm_notes: 'Olaf is a whaler who works alongside Brita on the whaling crew. His s
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Whaler
+proficient_skills: []
 appearance: Burly and oil-stained, Olaf wears a heavy coat reeking of blubber and tar. His arms are thick
   and his hands are enormous, scarred from rope and harpoon work. He has a ready smile and a booming laugh,
   and he is popular in the mead hall — generous with his drink, easy with his words.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 44
   body_build: heavy and powerful, thick through the chest and arms
@@ -34,6 +40,7 @@ fears_or_limits:
   livelihood because of him
 current_state:
   location: location:skaldvik
+purview: []
 ---
 
 A whaler who throws his harpoon as well as anyone, and who slips out at night into waters where no one is supposed to hunt, telling himself it is for his wife.

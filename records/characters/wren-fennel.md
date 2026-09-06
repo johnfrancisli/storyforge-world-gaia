@@ -11,9 +11,15 @@ gm_notes: 'Wren is a refugee who fled the border conflicts with nothing but her 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Refugee
+proficient_skills: []
 appearance: Thin and road-worn, Wren wears travel-stained clothes that are too large for her. She carries
   the locked box everywhere, even to sleep. Her eyes are wary but not defeated.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 16
   body_build: thin from weeks of hardship on the road
@@ -31,6 +37,7 @@ fears_or_limits:
 - that the woman with violet eyes will not be who her mother believed — or will be dead
 current_state:
   location: location:crownhaven
+purview: []
 ---
 
 A young refugee girl in a crowded camp, clutching a locked box she cannot open and a message she cannot yet deliver to a woman she has never met.

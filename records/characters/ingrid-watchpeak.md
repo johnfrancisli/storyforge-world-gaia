@@ -13,11 +13,17 @@ gm_notes: 'Ingrid commands Jarl Sigrid''s household guard — twelve warriors wh
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Guard Captain
+proficient_skills: []
 appearance: Solid and watchful, Ingrid wears ringmail and a white cloak — the guard's color — with a longsword
   at her hip and a shield painted with Skaldvik's raven crest. She stands at the jarl's right hand in
   the hall and walks the walls every morning and evening, counting faces, checking gates. She never drinks
   on duty and rarely drinks off it.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 40
   body_build: medium height, broad and solid, built to stand firm
@@ -35,6 +41,7 @@ fears_or_limits:
 - that refusing Hakon once will not be enough — the next approach will not be an offer but a threat
 current_state:
   location: location:skaldvik
+purview: []
 ---
 
 A guard captain who has held the jarl's trust for fifteen years, and who now carries a question about her own bloodline that could unmake everything she has built.

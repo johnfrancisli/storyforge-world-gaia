@@ -12,11 +12,17 @@ gm_notes: 'Torsten is a trader who specializes in luxury goods — silk, spices,
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Trader
+proficient_skills: []
 appearance: Well-groomed and smooth-talking, Torsten wears a good wool coat trimmed with fox fur and silver
   brooches. He carries a merchant's staff and a leather case of samples — silk swatches, spice pouches,
   silver earrings. He smiles easily and remembers every name, which is part of why he is good at his work
   — both the trading and the other kind.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 34
   body_build: medium height, trim and well-fed
@@ -35,6 +41,7 @@ fears_or_limits:
 - that someone in Skaldvik will find the coded reports before he can extract himself
 current_state:
   location: location:skaldvik
+purview: []
 ---
 
 A trader whose bolts of silk and jars of spice open every door in Skaldvik, and whose cargo manifests contain more than goods — they contain the shape of a coming siege by trade.

@@ -13,10 +13,16 @@ gm_notes: Goki is an oni — a demon of mountain and rage — who was sealed by 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Reformed oni (mountain demon)
+proficient_skills: []
 appearance: He wears rough homespun clothes far too small for his frame, his skin a deep iron-grey. He
   keeps a woven hat low over his face and his hands hidden when he can. He hunches to seem smaller than
   he is, and he speaks in a low rumble that he tries to make gentle.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: ancient — appears mid-forties in human terms
   body_build: massive, towering, boulder-like
@@ -36,6 +42,7 @@ fears_or_limits:
   he ever was.
 current_state:
   location: location:tsukuyomi
+purview: []
 ---
 
 A large, quiet figure who lives alone in a cave in the Tsukuyomi mountains, occasionally helping lost travelers find the road before disappearing back into the trees. He is built like a boulder and moves with surprising gentleness. Villagers tell stories about a helpful mountain spirit; they don't know he's an oni.

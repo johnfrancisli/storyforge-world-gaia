@@ -13,9 +13,15 @@ gm_notes: 'A serpent beast-kin salt maker who travels to the distant salt flats 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Salt maker and trade-journey leader
+proficient_skills: []
 appearance: Dust-pale and weathered from sun exposure, unusual for a serpent-kin. Carries salt-crusted
   baskets and a long walking staff. Moves with patient, deliberate endurance.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 39
   body_build: lean and long-limbed, built for distance travel
@@ -35,6 +41,7 @@ fears_or_limits:
 - That she is already partially crystallized inside and doesn't know it
 current_state:
   location: location:verdania
+purview: []
 ---
 
 A hardy serpent beast-kin who braves the dangerous journey to the salt flats each dry season and returns with enough salt to preserve the tribe's food for the year.

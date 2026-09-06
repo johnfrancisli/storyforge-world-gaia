@@ -13,10 +13,16 @@ gm_notes: A male beggar who sits at the gate of the high city and asks for alms 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Beggar, former scribe, shadow intelligence network
+proficient_skills: []
 appearance: Thin and hollow-eyed in ragged robes, he sits against the high city wall with a begging bowl.
   His hands are ink-stained — the one detail that betrays his former life. He speaks in a whisper, and
   his eyes miss nothing that passes through the gate.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 56
   body_build: thin and gaunt from years of poverty
@@ -36,6 +42,7 @@ fears_or_limits:
 - That his evidence will be used by someone less principled to seize power rather than to seek justice
 current_state:
   location: location:zaffar
+purview: []
 ---
 
 A thin, hollow-eyed beggar who sits at the gate of the high city with a begging bowl and a whisper. His ink-stained hands betray a former life, and his sharp eyes miss nothing that passes through the gate.

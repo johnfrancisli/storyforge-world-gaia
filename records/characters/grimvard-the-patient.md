@@ -10,10 +10,16 @@ gm_notes: 'Grimvard is not a warrior — he is a frost giant elder, a keeper of 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Frost giant elder, emissary
+proficient_skills: []
 appearance: A towering figure, grey-skinned and broad, wrapped in layers of white fur. He sits cross-legged
   outside the town walls, his hands on his knees, and does not move. His eyes are pale blue, ancient,
   and unbothered. He speaks rarely, in a voice like grinding ice.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: ancient — frost giants live centuries
   body_build: massive, broad, twelve feet tall
@@ -32,6 +38,7 @@ fears_or_limits:
   though he means no harm.
 current_state:
   location: location:skaldvik
+purview: []
 ---
 
 A frost giant emissary, sitting outside Skaldvik. Twelve feet tall, grey-skinned, wrapped in furs, patient as stone. He is not here to fight — he is here because a skald's poem got the giants' history wrong, and giants take their sagas seriously. He will wait as long as it takes.

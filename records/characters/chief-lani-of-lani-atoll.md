@@ -10,10 +10,16 @@ gm_notes: Lani is Kai's mother — a fact she has deliberately kept out of her g
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Chief of Lani Atoll
+proficient_skills: []
 appearance: A sturdy, sun-darkened woman in fine island cloth and a chief's whale-bone necklace. She moves
   with the authority of someone who has been making hard decisions for decades. Her arms are tattooed
   with the route-maps of her youth — she was a wayfinder before she was a chief.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: mid-fifties
   body_build: sturdy, strong
@@ -33,6 +39,7 @@ fears_or_limits:
   She is Kai's mother and cannot favor him publicly. The water is still rising and her options are shrinking.
 current_state:
   location: location:lani-atoll
+purview: []
 ---
 
 The chief of Lani Atoll, the central gathering island of the Tide Archipelago. A woman in her fifties who has led her island through twenty years of gradual crisis. She is warm, decisive, and carrying more than she shows. The meeting house on her island is still open to all, but the shore is closer to the door than it was last year.

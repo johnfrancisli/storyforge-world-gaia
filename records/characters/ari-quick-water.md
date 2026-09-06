@@ -12,9 +12,15 @@ gm_notes: 'An otter beast-kin scout who patrols the river tributaries and report
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: River scout and perimeter watcher
+proficient_skills: []
 appearance: Compact and glossy-furred, perpetually damp. Wears nothing but a belt pouch. Moves with fluid,
   playful energy that belies her sharp watchfulness.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 23
   body_build: sleek and compact, powerful swimmer's build
@@ -34,6 +40,7 @@ fears_or_limits:
 - That the bone-mask figures know she saw them and are hunting her
 current_state:
   location: location:verdania
+purview: []
 ---
 
 A sleek otter beast-kin scout who moves through the river system faster than any message-canoe and knows every tributary by taste and smell.

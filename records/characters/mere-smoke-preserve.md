@@ -13,9 +13,15 @@ gm_notes: 'Mere is the cook who feeds the great meeting house on Lani Atoll, and
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Cook and food preserver
+proficient_skills: []
 appearance: A broad, solid woman with flour-dusted hands and a permanent smell of woodsmoke. She moves
   efficiently between cooking pits and drying racks, always checking, always preparing.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: fifty
   body_build: broad, solid, thick-armed
@@ -36,6 +42,7 @@ fears_or_limits:
   does not
 current_state:
   location: location:lani-atoll
+purview: []
 ---
 
 The head cook of Lani Atoll's meeting house, who has been secretly building a food store large enough to survive a catastrophe no one else is preparing for.

@@ -11,9 +11,15 @@ gm_notes: A retired Jin army sergeant who lost his left hand to a Wei sword at t
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Veteran restaurateur and deserter-network protector
+proficient_skills: []
 appearance: Stocky and scarred, wearing a cook's apron over an old military undershirt. Left arm ends
   at the wrist in a leather cap.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 56
   body_build: stocky and barrel-chested
@@ -32,6 +38,7 @@ fears_or_limits:
 - A fight breaking out in the restaurant between rival-state veterans that he cannot stop one-handed
 current_state:
   location: location:jin-an
+purview: []
 ---
 
 A gruff, one-handed veteran who runs a humble restaurant in Jin-an where soldiers from all three states eat in uneasy truce.

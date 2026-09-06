@@ -13,11 +13,17 @@ gm_notes: 'Isa bakes flatbread for the jarl''s household — the dense, long-kee
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Baker
+proficient_skills: []
 appearance: Round and flour-dusted, Isa works at the bread-stone in the jarl's kitchen, her hands moving
   in the practiced rhythm of kneading and shaping. She wears a clean apron and keeps her hair under a
   cap, and she always smells of warm bread. She is cheerful in the way of someone who knows how to make
   things feel better.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 39
   body_build: medium height, soft and strong-armed from kneading
@@ -37,6 +43,7 @@ fears_or_limits:
 - that if the volur identify the root, she will be accused of dosing the jarl's household with seidr-herbs
 current_state:
   location: location:skaldvik
+purview: []
 ---
 
 A baker whose flatbread keeps the jarl's household fed through the long dark, and whose secret ingredient keeps them happy — for now.

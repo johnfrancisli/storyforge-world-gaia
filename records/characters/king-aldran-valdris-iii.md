@@ -10,10 +10,16 @@ gm_notes: 'King Aldran knows he is dying. He has a heart condition that his phys
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: King of Valdris
+proficient_skills: []
 appearance: A tall man in royal blues and gold, his crown slightly too large for him now that he has thinned.
   He sits carefully, favors his left side, and his hands tremble slightly when he is tired. His beard
   is white and neatly trimmed. He watches his court the way a general watches a battlefield.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: late sixties
   body_build: tall, once powerful, now thin
@@ -29,6 +35,7 @@ fears_or_limits:
   prevent. Not naming one will start it anyway when he dies.
 current_state:
   location: location:crownhaven
+purview: []
 ---
 
 The aging king of Valdris. A tall man gone thin, who once led armies and now sits a throne and watches his children circle each other. He is fair, tired, and smarter than his court assumes.

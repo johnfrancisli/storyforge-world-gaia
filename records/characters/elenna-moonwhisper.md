@@ -9,9 +9,15 @@ gm_notes: Elenna is an elven librarian who has been quietly altering records in 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Librarian
+proficient_skills: []
 appearance: Slender and ethereal, Elenna wears simple robes and keeps her silver hair in a precise coil.
   She smells of old paper and lavender.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 140
   body_build: slender and graceful, elven
@@ -30,6 +36,7 @@ fears_or_limits:
 - that she has waited too long and the right moment will never come
 current_state:
   location: location:crownhaven
+purview: []
 ---
 
 An ageless elven librarian whose quiet days among dusty scrolls conceal a decades-long guardianship of a hidden heir.

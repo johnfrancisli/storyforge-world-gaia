@@ -12,10 +12,16 @@ gm_notes: Helga fishes the deep waters of the fjord and has pulled up things fro
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Fisher
+proficient_skills: []
 appearance: Compact and weather-beaten, Helga wears oilskin over thick wool and rubber boots that go to
   her knees. She smells of fish and salt and tar. Her hands are enormous for her size, cracked and red
   from cold water and rope work.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 44
   body_build: short and broad, powerful arms and hands
@@ -33,6 +39,7 @@ fears_or_limits:
 - that her compulsion to keep it is not her own will but the stone's
 current_state:
   location: location:skaldvik
+purview: []
 ---
 
 A fisher who knows the fjord's depths better than anyone alive, and who pulled something up from the bottom that was perhaps better left sleeping.

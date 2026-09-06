@@ -9,9 +9,15 @@ gm_notes: Nessa is a young weaver whose loom produces tapestries of startling be
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Weaver
+proficient_skills: []
 appearance: Fine-boned and shy, Nessa wears a simple dress with thread-snarls caught in her sleeves. She
   keeps her head down and speaks barely above a whisper.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 21
   body_build: petite and delicate
@@ -29,6 +35,7 @@ fears_or_limits:
 - that her next tapestry will show something terrible she cannot prevent
 current_state:
   location: location:valdris
+purview: []
 ---
 
 A quiet young weaver whose threads seem to know the future, though she desperately wishes they did not.

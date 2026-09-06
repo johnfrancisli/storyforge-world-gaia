@@ -14,9 +14,15 @@ gm_notes: 'A human feather worker who repairs and maintains Quilla''s headdresse
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Feather worker and headdress restorer
+proficient_skills: []
 appearance: Quiet and deft, with stained fingers and a gentle demeanor. Works in the back of Quilla's
   workshop, rarely seen by clients. Feathers cling to his clothing.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 36
   body_build: medium and soft-handed, built for delicate craft work
@@ -35,6 +41,7 @@ fears_or_limits:
 - That whatever is haunting Quilla is too powerful for him to help with
 current_state:
   location: location:verdania
+purview: []
 ---
 
 A quiet, deft-handed human man who repairs and maintains ceremonial feather-work in Quilla's workshop and who knows every feather in every headdress by touch.

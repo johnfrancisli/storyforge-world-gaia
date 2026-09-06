@@ -12,10 +12,16 @@ gm_notes: 'Tove runs the cookfire in Jarl Sigrid''s mead hall, feeding the house
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Cook
+proficient_skills: []
 appearance: Sturdy and flour-dusted, Tove wears a clean apron over a plain wool dress, her sleeves rolled
   past her elbows. She moves through the kitchen with brisk authority, tasting everything, adjusting seasoning
   by instinct. Her face is round and open, the kind that looks like it has never hidden anything.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 33
   body_build: medium height, sturdy and strong-armed
@@ -36,6 +42,7 @@ fears_or_limits:
   the wrong company
 current_state:
   location: location:skaldvik
+purview: []
 ---
 
 A cook who feeds the jarl's hall with generous hands and steady nerves, and who serves bread every year to the man who killed her father without ever letting him see that she knows.

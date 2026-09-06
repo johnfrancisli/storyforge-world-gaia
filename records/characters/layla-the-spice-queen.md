@@ -11,10 +11,16 @@ gm_notes: 'Layla is the richest merchant in Zaffar and sits on the city council.
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Spice merchant, council member
+proficient_skills: []
 appearance: An elegant older woman in rich desert silks — amber and burgundy — with gold jewelry at the
   wrists and neck. She moves slowly, deliberately, and speaks in a voice that carries across a market
   without raising. She smells of saffron and authority.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: mid-sixties
   body_build: slim, elegant, straight-backed
@@ -33,6 +39,7 @@ fears_or_limits:
   aggressively against them, the djinn may act. She is powerful in trade but has no magical protection.
 current_state:
   location: location:zaffar
+purview: []
 ---
 
 The wealthiest spice merchant in Zaffar, and the only council member who is not a binder. A woman in her sixties who built her trade empire without djinn contracts, through sheer business sense. She is formidable, elegant, and watching the binding families' problems with the patience of a cat at a mouse hole.

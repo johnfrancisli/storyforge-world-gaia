@@ -13,9 +13,15 @@ gm_notes: 'A human hunter who provides much of the meat for Iara and who is know
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Hunter and provider
+proficient_skills: []
 appearance: Powerful and quiet, with a hunter's economy of movement. Wears minimal hide gear, camouflaged
   with river clay. Carries a bow, a quiver, and a hunting knife.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 34
   body_build: powerful and compact, built for stillness and explosive movement
@@ -34,6 +40,7 @@ fears_or_limits:
 - That whoever uses the hidden entrance will find his tracks and come for him
 current_state:
   location: location:verdania
+purview: []
 ---
 
 A patient, powerfully built human hunter who feeds Iara and who can sit motionless in the canopy for hours waiting for game.

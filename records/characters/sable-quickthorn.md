@@ -11,10 +11,16 @@ gm_notes: Sable is a bounty hunter and former soldier who deserted the kingdom's
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Bounty Hunter / Sellsword
+proficient_skills: []
 appearance: Lean and hard-eyed, Sable wears worn leather armour and a dark cloak. She carries a short
   sword and a set of manacles on her belt — the manacles have not been used in weeks. She has the watchful
   stillness of a hunter, but something in her expression has softened recently.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 28
   body_build: lean and sinewy
@@ -32,6 +38,7 @@ fears_or_limits:
 - that her own desertion will be discovered and she will be hanged
 current_state:
   location: location:crownhaven
+purview: []
 ---
 
 A deserting soldier turned bounty hunter who has tracked her target to a frightened child — and found, for the second time in her life, an order she cannot follow.

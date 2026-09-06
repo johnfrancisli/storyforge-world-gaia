@@ -12,11 +12,17 @@ gm_notes: 'Edda is the eldest person in Skaldvik — old enough to remember stor
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Elder / Storyteller
+proficient_skills: []
 appearance: Tiny and birdlike, Edda sits by the fire in a chair that is too large for her, wrapped in
   shawls and furs. Her hands shake slightly, and her voice is thin but sharp when she chooses to use it.
   She is surrounded by grandchildren and great-grandchildren who bring her food and listen to her stories
   — most of which they have heard many times.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 91
   body_build: very small and frail, shrunken with age
@@ -34,6 +40,7 @@ fears_or_limits:
 - ' that she will give the secret to the wrong person and the oath will have meant nothing'
 current_state:
   location: location:skaldvik
+purview: []
 ---
 
 An elder who has lived through nine decades of fjord life and who carries in her fading memory a secret older than the Althing itself.

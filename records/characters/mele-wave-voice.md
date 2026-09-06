@@ -13,9 +13,15 @@ gm_notes: Mele is the singer who leads the canoe songs that keep paddlers in rhy
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Singer
+proficient_skills: []
 appearance: A slight, bright-voiced woman who seems to vibrate with sound even when she is silent. She
   wears simple cloth and goes barefoot, always near the water's edge.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: twenty-three
   body_build: slight, thin, resonant-voiced
@@ -36,6 +42,7 @@ fears_or_limits:
 - That if she answers the call fully, she will not come back, and the islands will lose a voice they need
 current_state:
   location: location:lani-atoll
+purview: []
 ---
 
 A singer whose voice has attracted something from the deep water. Every night she sings on the beach, it comes closer, and she is not sure she wants it to stop.

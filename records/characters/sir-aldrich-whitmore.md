@@ -8,10 +8,16 @@ gm_notes: Aldrich's dragon, Verath, is still alive but has not spoken to him in 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Dragon-bonded knight
+proficient_skills: []
 appearance: A tall, broad-shouldered man in worn knight's plate, moving with the careful weight of someone
   who knows his strength. His armor is well-maintained but old. He has the controlled stillness of a fighter
   who does not need to prove anything.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: mid-forties
   body_build: broad-shouldered, still strong
@@ -29,6 +35,7 @@ fears_or_limits:
   Admitting the silence would weaken his position in the order's debate.
 current_state:
   location: location:dragonrest
+purview: []
 ---
 
 A dragon-bonded knight of the order, stationed at Dragonrest. Middle-aged, greying, still carries himself like a man who was once the strongest in a room. He is one of the last knights to receive a bond, twenty-two years ago.

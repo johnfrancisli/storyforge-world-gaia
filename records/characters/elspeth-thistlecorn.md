@@ -12,10 +12,16 @@ gm_notes: 'Elspeth is an elderly beekeeper who tends the largest apiary in the V
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Beekeeper
+proficient_skills: []
 appearance: Weathered and stooped but vital, Elspeth wears a wide-brimmed straw hat and a beekeeper's
   veil pushed back from her face. Her hands are scarred from decades of stings but still steady as she
   works her hives.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 73
   body_build: small and wiry, bent but energetic
@@ -33,6 +39,7 @@ fears_or_limits:
 - that what she saw was a warning, and the danger it foretold is already here
 current_state:
   location: location:valdris
+purview: []
 ---
 
 An old beekeeper who has tended her hives for half a century — and who saw something in the meadow forty years ago that she is only now beginning to understand might matter.

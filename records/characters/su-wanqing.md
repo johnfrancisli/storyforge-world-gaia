@@ -10,9 +10,15 @@ gm_notes: A tea merchant whose tea blends are renowned across all three states. 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Tea merchant and Academy information broker
+proficient_skills: []
 appearance: Warm and round-faced, always offering tea. Wears travel-worn but quality clothes and carries
   sample tins.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 44
   body_build: plump and comfortable
@@ -31,6 +37,7 @@ fears_or_limits:
 - A coded message being intercepted and decoded
 current_state:
   location: location:sangguo
+purview: []
 ---
 
 A genial, well-connected tea merchant whose caravans travel between all three warring states, welcomed everywhere for her superb blends.

@@ -13,10 +13,16 @@ gm_notes: 'A night watchwoman who patrols the high city walls and has witnessed 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Night watchwoman, whistleblower
+proficient_skills: []
 appearance: Tall and rigid in leather armor and a watchman's turban, she carries a lantern in one hand
   and a curved sword at her hip. She walks her patrol with military precision and speaks rarely. Her face
   is weathered from years of night air.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 36
   body_build: tall and muscular
@@ -37,6 +43,7 @@ fears_or_limits:
   breaking the Pact entirely
 current_state:
   location: location:zaffar
+purview: []
 ---
 
 A tall, armored night watchwoman who patrols the high city walls with a lantern and a curved sword. She is known for being incorruptible and humorless, and other watchmen find her company uncomfortable.

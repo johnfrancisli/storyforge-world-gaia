@@ -12,10 +12,16 @@ gm_notes: 'Varg is a guard in Jarl Sigrid''s household, one of the twelve under 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Guard / Watchman
+proficient_skills: []
 appearance: Big and slow-moving, Varg wears the white cloak and ringmail of the jarl's guard. He is the
   largest of the guards and the most good-natured, which makes him well-liked but also easy to approach
   — a trait that has been used against him. He carries a long axe rather than a sword.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 33
   body_build: very tall and heavily built, the largest of the guards
@@ -34,6 +40,7 @@ fears_or_limits:
 - that confessing to Ingrid will mean punishment for dereliction of oath — possibly outlawry
 current_state:
   location: location:skaldvik
+purview: []
 ---
 
 A guard who stands the watch with a straight spear and a crooked debt, and who has been leaking small truths to a trader who is collecting them for a purpose he cannot see.

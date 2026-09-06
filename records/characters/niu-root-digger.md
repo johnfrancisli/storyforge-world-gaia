@@ -15,9 +15,15 @@ gm_notes: Niu is a farmer who cultivates taro, breadfruit, and coconut on one of
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Farmer
+proficient_skills: []
 appearance: A sun-browned, earth-handed man with a farmer's steady patience and a worried expression that
   he hides behind a calm face. He is always near his fields, always checking, always testing the soil.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: thirty-seven
   body_build: strong-backed, earth-handed, sun-browned
@@ -40,6 +46,7 @@ fears_or_limits:
   it was sent deliberately
 current_state:
   location: location:tide-archipelago
+purview: []
 ---
 
 A farmer who found a miracle crop that thrives in salt-saturated soil — but it is aggressively invasive and threatens to strangle every other plant in the Archipelago. He must decide whether to share it or destroy it.

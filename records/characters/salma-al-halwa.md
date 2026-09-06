@@ -13,9 +13,15 @@ gm_notes: 'A sweet maker renowned for her baklava and date-paste candies, which 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Sweet maker, rose-garden keeper
+proficient_skills: []
 appearance: Petite and precise in a clean white apron, her hands quick and delicate with sugar work. She
   is always surrounded by the scent of roses and honey. She wears a dried rose behind her ear.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 26
   body_build: petite, deft-fingered
@@ -35,6 +41,7 @@ fears_or_limits:
   can pay
 current_state:
   location: location:zaffar
+purview: []
 ---
 
 A sweet maker whose shop in the market is a jewel box of colored pastries, crystallized nuts, and rose-scented delights. She works with delicate precision and wraps each purchase in paper as if it were a gift.

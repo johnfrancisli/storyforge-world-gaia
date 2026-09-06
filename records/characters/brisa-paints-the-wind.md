@@ -13,9 +13,15 @@ gm_notes: A body painter whose designs are more than decoration — they are spi
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Body painter and spirit-glyph keeper
+proficient_skills: []
 appearance: Hands and forearms permanently stained red-black from years of dye work. Bright, observant
   eyes. Wears simple wrapped cloth, always with a clay pot of fresh pigment at her hip.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 34
   body_build: compact and strong from preparing dye materials
@@ -34,6 +40,7 @@ fears_or_limits:
 - That her mother's glyph-knowledge is poisoned and everything she paints is compromised
 current_state:
   location: location:iara
+purview: []
 ---
 
 A human body painter whose swirling urucu and genipapo designs adorn every important figure in Iara before ceremonies, hunts, and journeys.

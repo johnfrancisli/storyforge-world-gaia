@@ -13,11 +13,17 @@ gm_notes: 'Danzaburo is a tanuki — a raccoon dog spirit — who has run a nood
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Tanuki (raccoon dog spirit) in disguise as a noodle shop owner
+proficient_skills: []
 appearance: He wears a noodle vendor's apron over a comfortable kimono, a towel around his neck. He is
   round-bellied and perpetually cheerful, stirring broth with a ladle he handles like a baton. He laughs
   from the belly and tops off bowls without being asked. In certain light, his shadow is rounder and lower
   than it should be.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: ageless — appears late sixties
   body_build: round, short, sturdy
@@ -37,6 +43,7 @@ fears_or_limits:
   and the town would lose its quiet guardian.
 current_state:
   location: location:haru-shrine-town
+purview: []
 ---
 
 A round, jolly old man who runs a noodle shop in Haru's Shrine Town, famous for portions that are always generous and broth that makes people smile. He chats with every customer, remembers every name, and has been a fixture of the town for as long as anyone can remember. He is exactly what he appears to be — except that he isn't.

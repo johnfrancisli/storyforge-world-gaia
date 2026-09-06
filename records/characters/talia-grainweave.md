@@ -9,9 +9,15 @@ gm_notes: Talia is a miller who controls the only functioning mill in the Valdri
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Miller
+proficient_skills: []
 appearance: Strong-armed and practical, Talia wears flour-dusted work clothes and keeps her hair tied
   back. She has a warm but no-nonsense demeanour and a firm handshake.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 40
   body_build: strong-armed and sturdy
@@ -29,6 +35,7 @@ fears_or_limits:
 - that she will be forced to give in to protect her children
 current_state:
   location: location:valdris
+purview: []
 ---
 
 A determined miller whose mill feeds the surrounding villages — and who is being squeezed by those who would profit from hunger.

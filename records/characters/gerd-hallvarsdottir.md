@@ -11,10 +11,16 @@ gm_notes: 'Gerd is Jarl Sigrid''s younger sister, and she manages the jarl''s fa
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Farmer / Jarl's Sister
+proficient_skills: []
 appearance: Sturdy and sun-weathered for Hrafnland, Gerd wears a practical wool dress with a leather belt
   full of tools — a pruning knife, a counting-string, a key to the storehouse. She moves with the easy
   confidence of someone who knows the land is hers to tend, and her hands are always busy.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 41
   body_build: medium height, strong and practical
@@ -32,6 +38,7 @@ fears_or_limits:
 - that Vigdis will grow tired of secrecy and leave
 current_state:
   location: location:skaldvik
+purview: []
 ---
 
 The jarl's sister, who runs the farmstead with quiet competence and hides a love that her sister's politics would not allow her to keep.

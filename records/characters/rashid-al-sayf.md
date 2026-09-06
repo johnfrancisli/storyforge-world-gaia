@@ -13,10 +13,16 @@ gm_notes: The eldest son of Tariq al-Sayf (character:alk-tariq-binding-patriarch
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Binding family heir, secret alliance-former
+proficient_skills: []
 appearance: Young and athletic in binding family robes with the al-Sayf sword sigil, he carries himself
   with the confidence of a man who has not yet learned to be afraid. He is handsome and aware of it, charming
   and unaware of how much that charm costs others.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 28
   body_build: athletic and tall
@@ -37,6 +43,7 @@ fears_or_limits:
 - That his father is making a decision about his sister that Rashid will not be able to undo
 current_state:
   location: location:zaffar
+purview: []
 ---
 
 The eldest son of the al-Sayf binding family, young and athletic with the confidence of a man who has not yet learned to be afraid. He carries the family sword sigil and is charming in a way that costs others more than he realizes.

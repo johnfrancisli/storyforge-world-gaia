@@ -12,11 +12,17 @@ gm_notes: 'Yrsa is a volva — a seeress who walks between worlds in trance. She
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Volva / Rune Reader / Seer
+proficient_skills: []
 appearance: Gaunt and draped in layers of dark wool and reindeer fur, Yrsa moves like smoke through the
   market. Her staff is ironwood tipped with a raven skull, and she carries a pouch of runestones that
   click when she walks. Her eyes are pale and unfocused, as though she is always half-looking at something
   behind the world.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 63
   body_build: thin and angular, weathered by decades of trance-cold
@@ -34,6 +40,7 @@ fears_or_limits:
 - that prophecy in the hands of the powerful becomes a weapon against the innocent
 current_state:
   location: location:skaldvik
+purview: []
 ---
 
 A volva who reads runes in the smoke of offerings and walks the border between the living and the dead, answering questions no one else can answer — and asking some she will not share.

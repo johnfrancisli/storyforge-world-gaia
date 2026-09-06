@@ -12,10 +12,16 @@ gm_notes: Daichi commands the shogun's palace guard and has been receiving writt
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Palace guard captain (banin-kashira)
+proficient_skills: []
 appearance: He wears full guard captain's armor with the Ashikara crest, a katana at his side. He is solid
   and immovable, with the bearing of a man who has stood in one place watching doors for thirty years.
   He inspects his guards personally and remembers every face.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: early sixties
   body_build: stocky, heavily built
@@ -34,6 +40,7 @@ fears_or_limits:
 - He dismissed Ume's report about the horse tampering, and if she was right, his inaction may have consequences.
 current_state:
   location: location:tsuki-no-miyako
+purview: []
 ---
 
 The captain of the shogun's palace guard, a career soldier who has served three generations of the Ashikara household. He is disciplined, blunt, and trusted by the guard. He runs the palace security with a precision that leaves no gap — which is exactly why someone has been using his own protocols against him.

@@ -9,9 +9,15 @@ gm_notes: 'Maddox is a gravedigger who has noticed an unusual pattern: bodies ha
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Gravedigger
+proficient_skills: []
 appearance: Gaunt and pale, Maddox wears heavy work clothes and gloves. He smells of turned earth and
   lye. He speaks rarely and never makes eye contact.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 51
   body_build: tall and gaunt
@@ -28,6 +34,7 @@ fears_or_limits:
 - that no one will believe a gravedigger over whoever is doing this
 current_state:
   location: location:crownhaven
+purview: []
 ---
 
 A solitary gravedigger who knows the dead better than the living — and who has noticed that some of them were not supposed to die.

@@ -11,8 +11,14 @@ gm_notes: A blacksmith who forges weapons for the Chu army and has secretly deve
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Army blacksmith and secret qilin-iron weapons dealer
+proficient_skills: []
 appearance: Soot-blackened and taciturn, wearing a heavy leather forge-apron. Arms like tree trunks.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 40
   body_build: massive, heavy-armed, thick-necked
@@ -31,6 +37,7 @@ fears_or_limits:
 - The Chu quartermaster tracing the black-market weapons back to his forge
 current_state:
   location: location:jin-an
+purview: []
 ---
 
 A broad-shouldered Chu blacksmith whose forge produces army blades by day and secretive high-quality weapons by night.

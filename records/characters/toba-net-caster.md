@@ -13,9 +13,15 @@ gm_notes: 'A Mizuhito fisher who provides much of Iara''s daily catch and who ha
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Fisher and river-provider
+proficient_skills: []
 appearance: Compact and waterproof-looking, perpetually in a state of half-dryness. Wears a net-scarf
   and a fishing spear. His canoe is low and fast.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 29
   body_build: compact and strong, broad from hauling nets
@@ -35,6 +41,7 @@ fears_or_limits:
 - That the fish are plentiful in the disputed territory for a reason he does not understand
 current_state:
   location: location:iara
+purview: []
 ---
 
 A blue-skinned Mizuhito fisher who casts nets from a low canoe at dawn and always returns with a full catch, moving with the river as if born to it.

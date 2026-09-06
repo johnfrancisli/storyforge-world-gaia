@@ -9,10 +9,16 @@ gm_notes: Tor's wife was on a fishing boat that vanished near the deep fjords tw
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Master shipwright
+proficient_skills: []
 appearance: A big man in a leather apron, sawdust in his beard, his hands huge and calloused from decades
   of woodwork. He smells of pine tar and wood shavings. He is quiet — not unfriendly, just economical
   with words.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: early fifties
   body_build: big, broad-shouldered
@@ -31,6 +37,7 @@ fears_or_limits:
   not a warrior. He is driven by grief, which is not the same as courage.
 current_state:
   location: location:skaldvik
+purview: []
 ---
 
 A master shipwright in Skaldvik, building longships for the jarl's fleet. A big, quiet man who works with his hands and says what he means. He is currently building a longship in his private yard — not for the jarl, but for himself. He will not say where it is going.

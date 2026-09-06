@@ -13,10 +13,16 @@ gm_notes: Eseta is a bone carver who arrived as a refugee six months ago. She ca
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Refugee and bone carver
+proficient_skills: []
 appearance: A quiet, skilled woman with bone dust on her hands and a heavy chest she keeps locked. She
   works with focus and reverence, as if each piece is a prayer. She does not speak about where she came
   from.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: forty-four
   body_build: quiet, steady-handed, watchful
@@ -37,6 +43,7 @@ fears_or_limits:
 - That the chest will be stolen or lost and three generations of her family will be scattered and forgotten
 current_state:
   location: location:lani-atoll
+purview: []
 ---
 
 A refugee bone carver who carries her ancestors' remains and carves them into ornaments. She sells them to people who do not know what they are holding.

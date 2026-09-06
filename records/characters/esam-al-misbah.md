@@ -13,10 +13,16 @@ gm_notes: A male lamp maker whose brass and copper lamps are the finest in Zaffa
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Lamp maker, accidental djinn-jailer
+proficient_skills: []
 appearance: Stocky and soot-stained in a leather apron, his hands scarred from metalwork. He works at
   a bench covered in brass sheeting, copper wire, and half-finished lamps. He has been sleeping at his
   bench since the djinn entered the lamp, afraid to leave it unattended.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 51
   body_build: stocky, thick-armed from metalwork
@@ -36,6 +42,7 @@ fears_or_limits:
   it will cost him everything
 current_state:
   location: location:zaffar
+purview: []
 ---
 
 A lamp maker in the Crafts Quarter whose brass and copper lamps are the finest in Zaffar. He has been sleeping at his workbench for three weeks, guarding a lamp that hums with something alive inside it.

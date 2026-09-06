@@ -12,9 +12,15 @@ gm_notes: A rope maker who produces the binding cords that hold the stilt-city o
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Rope maker and structural fiber worker
+proficient_skills: []
 appearance: Powerfully built from decades of twisting and pulling fiber. Arms roped with muscle. Hands
   rough and calloused. Always carries a coil of cord.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 42
   body_build: broad and muscular, especially the arms and shoulders
@@ -33,6 +39,7 @@ fears_or_limits:
 - That she will be too late and the platform will fall with people on it
 current_state:
   location: location:iara
+purview: []
 ---
 
 A broad-shouldered human woman who spins rope from palm fiber and vine, whose cords hold the entire stilt-city of Iara above the water.

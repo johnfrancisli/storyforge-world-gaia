@@ -13,9 +13,15 @@ gm_notes: 'Leilani makes the sails that carry every voyaging canoe in the Archip
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Sail maker
+proficient_skills: []
 appearance: A tall, long-armed woman surrounded by bolts of woven pandanus sail-cloth. Her hands are callused
   from fiber work and stained with plant dye. She hums constantly while she works.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: forty-one
   body_build: tall, long-armed, broad across the back
@@ -35,6 +41,7 @@ fears_or_limits:
 - That the intention-sensitivity of her sails means a canoe can be carried by fear as easily as by hope
 current_state:
   location: location:lani-atoll
+purview: []
 ---
 
 The master sail maker of Lani Atoll, whose woven sails seem to carry canoes on more than wind. She is beginning to understand that her craft is a form of song-magic — and that the knowledge was deliberately suppressed.

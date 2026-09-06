@@ -9,10 +9,16 @@ gm_notes: Soji left his mountain dojo after a dispute with the elder tengu about
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Wandering swordmaster (tengu)
+proficient_skills: []
 appearance: A tall, lean figure in mountain robes, dark wings folded against his back like a cloak. His
   face is sharp and avian, with a prominent nose and piercing eyes. He carries his katana in a plain wooden
   sheath and plays a bamboo flute when he has nothing to do, which is often.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: ageless — appears mature
   body_build: tall, lean, angular
@@ -29,6 +35,7 @@ fears_or_limits:
   He is powerful in a fight but has no political influence.
 current_state:
   location: location:tsukuyomi
+purview: []
 ---
 
 A tengu swordmaster wandering the Cedar Road. A tall, sharp-featured man with a long nose and dark wings folded behind his shoulders. He carries a katana and a bamboo flute, and he teaches swordsmanship to anyone he deems worthy — which is not many.

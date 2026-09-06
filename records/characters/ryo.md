@@ -13,10 +13,16 @@ gm_notes: Ryo makes paper lanterns using fragments of old ofuda — spirit wards
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Lantern maker (chochin-shi)
+proficient_skills: []
 appearance: He wears a craftsman's apron over a simple kimono, his hands nimble with bamboo and paper.
   He works surrounded by half-finished lantern frames in every color. He is quiet, meticulous, and has
   a habit of checking where his lanterns are hung when he walks the market street at night.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: mid-thirties
   body_build: medium, precise in movement
@@ -34,6 +40,7 @@ fears_or_limits:
   overnight.
 current_state:
   location: location:tsuki-no-miyako
+purview: []
 ---
 
 A lantern maker in the capital's merchant district whose paper lanterns hang in shops, teahouses, and market stalls throughout the area. He works in a small shop full of bamboo frames and colored paper, and he delivers his lanterns personally. Shop owners say their businesses feel safer with his lanterns, though they can't explain why.

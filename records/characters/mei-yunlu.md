@@ -9,9 +9,15 @@ gm_notes: A silk weaver whose loom produces fabric with patterns that seem to mo
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Master silk weaver and unconscious oracle
+proficient_skills: []
 appearance: Gentle and focused, wearing simple weave-stained clothes. Hands always moving, as if at an
   invisible loom.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 29
   body_build: small and deft-fingered
@@ -30,6 +36,7 @@ fears_or_limits:
 - That altering the pattern will change fate in a worse way
 current_state:
   location: location:jin-an
+purview: []
 ---
 
 A master silk weaver in Jin whose ceremonial robes are prized across all three states for their shimmering, living patterns.

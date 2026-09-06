@@ -13,9 +13,15 @@ gm_notes: 'A bird beast-kin scout who surveys the rainforest from above and repo
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Aerial scout and perimeter watcher
+proficient_skills: []
 appearance: Light-boned and keen-eyed, built for sustained flight. Wears minimal gear to reduce weight.
   His feathered wings fold along his arms when at rest.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 26
   body_build: light-boned and lean, built for flight
@@ -35,6 +41,7 @@ fears_or_limits:
 - That the builders have lookouts who can spot a bird beast-kin scout
 current_state:
   location: location:verdania
+purview: []
 ---
 
 A sharp-eyed bird beast-kin scout who circles high above the rainforest canopy and reports what he sees to the Iara council.

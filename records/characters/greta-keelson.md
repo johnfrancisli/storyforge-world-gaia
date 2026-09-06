@@ -12,10 +12,16 @@ gm_notes: Greta is Skaldvik's most gifted shipwright, and she has a secret metho
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Shipwright
+proficient_skills: []
 appearance: Stocky and sawdust-covered, Greta works in a leather vest with her sleeves permanently rolled.
   Shavings cling to her arms and hair, and she carries a adze and a measuring rope looped over her shoulder.
   She talks to her ships as she builds them, naming each plank.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 41
   body_build: broad and muscular from years of timber work
@@ -34,6 +40,7 @@ fears_or_limits:
 - that she is building glory on a grave and will never be free of the guilt
 current_state:
   location: location:skaldvik
+purview: []
 ---
 
 A shipwright whose hands shape the fastest longships on the fjord, working from plans she now knows were never truly theirs to claim.

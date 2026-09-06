@@ -8,10 +8,16 @@ gm_notes: Sora has been offered a position at the Great Shrine in Tsuki-no-Miyak
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Shrine keeper (miko)
+proficient_skills: []
 appearance: A slight woman in shrine robes — white top, red hakama pants — with her sleeves tied back
   for work. She moves with the efficiency of someone who does the same things every day. Her hands are
   rough from shrine maintenance, not soft from prayer.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: late twenties
   hair: black, long, tied back with a white ribbon
@@ -27,6 +33,7 @@ fears_or_limits:
   shrine keeper is a two-day ride away.
 current_state:
   location: location:haru-shrine-town
+purview: []
 ---
 
 The shrine keeper of Haru's Shrine Town. A woman in her late twenties who maintains the ward for this stretch of the Cedar Road. She performs the daily rituals precisely, keeps the shrine grounds, and is the closest thing to authority in the village.

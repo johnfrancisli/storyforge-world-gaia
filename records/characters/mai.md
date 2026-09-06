@@ -11,10 +11,16 @@ gm_notes: Mai's dances are unknowingly ritual movements that can temporarily str
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Dancer and entertainer (maiko)
+proficient_skills: []
 appearance: She wears a performing kimono in flowing layers of cherry-blossom pink and white, a fan in
   each hand. She dances barefoot on the wooden stage, her hair ornamented with seasonal flowers. Her movements
   are precise and ancient in a way her audiences feel but can't name.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: twenty
   body_build: slender, lithe
@@ -32,6 +38,7 @@ fears_or_limits:
 - The threats are escalating, and she has no combat skills and no protector.
 current_state:
   location: location:tsuki-no-miyako
+purview: []
 ---
 
 A dancer in the capital's entertainment district who performs traditional shrine dances adapted for the stage. She moves with a grace that silences rooms, and her performances draw crowds even on rainy nights. She is modest about her talent and puzzled by her growing fame.

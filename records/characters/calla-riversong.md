@@ -11,9 +11,15 @@ gm_notes: Calla is a halfling innkeeper in a village along the main road between
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Innkeeper
+proficient_skills: []
 appearance: Cheerful and round, Calla wears a clean apron and keeps her hair in a kerchief. She has a
   ready laugh and a sharp eye for who needs a room and who needs a meal on the house.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 45
   body_build: short and round, halfling stature
@@ -31,6 +37,7 @@ fears_or_limits:
 - that the dispatch's contents will make her a target for those who suppressed the information
 current_state:
   location: location:valdris
+purview: []
 ---
 
 A warm halfling innkeeper who pours ale and stew for the road-weary by day — and shelters the desperate and the secretly important by night.

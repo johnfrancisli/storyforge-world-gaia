@@ -14,9 +14,15 @@ gm_notes: 'A trader who travels between the river city-states and carries goods,
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Inter-tribal trader and smuggler
+proficient_skills: []
 appearance: Practical and alert, with a trader's quick smile and quicker eyes. Wears travel-stained wraps
   and a wide hat. Her canoe is her home and is meticulously organized.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 51
   body_build: sturdy and weathered, built for long river journeys
@@ -35,6 +41,7 @@ fears_or_limits:
 - That the root powder she sells has side effects she does not know about
 current_state:
   location: location:iara
+purview: []
 ---
 
 A sharp-eyed human trader who moves goods and news between the river city-states in a large canoe piled with bundles, baskets, and clay jars.

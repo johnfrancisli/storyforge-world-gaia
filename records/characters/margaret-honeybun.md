@@ -10,9 +10,15 @@ gm_notes: Margaret is a baker whose son was conscripted into the kingdom's borde
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Baker
+proficient_skills: []
 appearance: Plump and floury, Margaret wears a clean apron and keeps her hair in a tight bun. She has
   a ready smile that falters when she thinks no one is looking.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 47
   body_build: round and comfortable
@@ -30,6 +36,7 @@ fears_or_limits:
 - that pressing for the truth will bring soldiers to her door
 current_state:
   location: location:crownhaven
+purview: []
 ---
 
 A warm-hearted baker whose ovens feed the neighbourhood — and whose quiet network of mothers may know more about the war than the generals want anyone to know.

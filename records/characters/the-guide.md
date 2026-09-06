@@ -9,9 +9,15 @@ gm_notes: The Guide is not a god. They are a remnant of whatever built the Old R
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Guide of the Heavenly Realm
+proficient_skills: []
 appearance: Ageless and calm, dressed in simple undyed robes that could belong to any of the seven nations.
   They move slowly, as if time is not a concern. Their eyes are dark and patient. They carry nothing.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: indeterminate — old but not frail
   hair: grey, long, loosely tied
@@ -25,6 +31,7 @@ fears_or_limits:
   soul will become.
 current_state:
   location: location:heavenly-realm
+purview: []
 ---
 
 A figure who tends the Heavenly Realm. They appear old, or seem old — grey-haired, calm, dressed in simple robes that could belong to any nation. They have been here longer than anyone currently alive in Gaia.

@@ -11,9 +11,15 @@ gm_notes: A young woman who was the Wei warlord's personal chi-cultivation stude
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Fugitive chi-cultivator and whistleblower
+proficient_skills: []
 appearance: Nondescript and deliberately plain, wearing laundress's clothes. Hands red and rough from
   lye soap. Moves quietly and stays near exits.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 22
   body_build: slight and wiry, undernourished
@@ -32,6 +38,7 @@ fears_or_limits:
 - The Academy returning her to Wei as a diplomatic gesture
 current_state:
   location: location:jin-an
+purview: []
 ---
 
 A quiet, watchful young woman working as a laundress in Jin-an who flinches at loud noises and watches doors.

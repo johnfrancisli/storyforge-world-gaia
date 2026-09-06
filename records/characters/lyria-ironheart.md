@@ -9,10 +9,16 @@ gm_notes: Secretly the illegitimate daughter of the late King Aldric and a black
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Blacksmith
+proficient_skills: []
 appearance: Broad-shouldered and soot-stained, with calloused hands and a permanent burn scar curling
   up her left forearm. She wears a leather apron over simple linen, her dark hair tied back with iron
   wire.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 24
   body_build: stocky and muscular
@@ -29,6 +35,7 @@ fears_or_limits:
 - that the forge fire will one day take more than her forearm
 current_state:
   location: location:crownhaven
+purview: []
 ---
 
 A brooding blacksmith's apprentice whose hammer strikes ring with unnatural precision, haunted by a lineage she cannot yet name.

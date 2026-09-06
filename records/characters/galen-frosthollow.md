@@ -9,9 +9,15 @@ gm_notes: Galen is a monk at the Temple of the Sacred Flame who has spent thirty
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Monk / Scribe
+proficient_skills: []
 appearance: Thin and pale from years indoors, Galen wears simple brown robes and wire-rimmed spectacles.
   His hands are ink-stained and trembling slightly with age.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 67
   body_build: thin and stooped
@@ -29,6 +35,7 @@ fears_or_limits:
 - that his eyesight will fail before he can finish his work
 current_state:
   location: location:crownhaven
+purview: []
 ---
 
 A gentle old monk whose life among manuscripts has made him the kingdom's quietest threat to those who would rewrite history.

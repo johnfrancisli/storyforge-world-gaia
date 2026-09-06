@@ -8,9 +8,15 @@ gm_notes: Cedric was once a knight of the Dragon Order who broke his oath to pro
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Stable Hand
+proficient_skills: []
 appearance: Grey-templed and quiet, Cedric wears nondescript roughspun clothing. He moves with a soldier's
   efficiency despite his humble station, a detail not lost on the observant.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 45
   body_build: broad and thickening with age
@@ -28,6 +34,7 @@ fears_or_limits:
 - that he will flee again when courage is needed most
 current_state:
   location: location:dragonrest
+purview: []
 ---
 
 A weathered stable hand who tends horses with excessive gentleness, as though seeking forgiveness from creatures who cannot grant it.

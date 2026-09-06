@@ -10,10 +10,16 @@ gm_notes: Aki works in Hanako's (character:hanako) tea house and is the only per
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Cook
+proficient_skills: []
 appearance: She wears a clean apron over a simple kimono, her sleeves bound with cords. She tastes everything
   she serves and adjusts by instinct. Her station is immaculate, and she moves between cutting board,
   hearth, and serving tray with choreographed efficiency.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: early thirties
   body_build: sturdy, quick-moving
@@ -31,6 +37,7 @@ fears_or_limits:
 - If the bell stops ringing, she doesn't know what will happen to the old shrine site — or to the town.
 current_state:
   location: location:haru-shrine-town
+purview: []
 ---
 
 The cook at Hanako's tea house in Haru's Shrine Town, known for her seasonal dishes and the way she seems to know exactly what each customer needs to eat. She works in a small kitchen that opens onto the tea garden.

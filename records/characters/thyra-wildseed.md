@@ -12,11 +12,17 @@ gm_notes: 'Thyra is a thrall — a bondservant in Jarl Sigrid''s household, capt
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Thrall (Bondservant)
+proficient_skills: []
 appearance: 'Dark-haired and sun-darkened compared to the fair people of Skaldvik, Thyra wears the plain
   wool of a thrall — undyed, unadorned — and moves through the household with efficient quiet. She is
   always working: scrubbing, carrying, mending. She speaks Hrafnland well but with an accent she has tried
   and failed to erase.'
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 23
   body_build: slender and strong from constant labor
@@ -34,6 +40,7 @@ fears_or_limits:
 - that if she tries to escape and fails, her daughter will be sold away from her
 current_state:
   location: location:skaldvik
+purview: []
 ---
 
 A thrall who serves the jarl's household with quiet competence, and who carries an entire lost life behind her eyes — a name, a language, a home she is not allowed to want.

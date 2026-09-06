@@ -14,9 +14,15 @@ gm_notes: 'A human guide who leads expeditions into the rainforest for traders, 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Expedition guide and river-reader
+proficient_skills: []
 appearance: Lean and weathered, with a guide's cautious eyes. Wears practical travel gear and carries
   a walking staff with river-markings. Always checking the water, the sky, the current.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 44
   body_build: lean and weathered, built for river travel
@@ -35,6 +41,7 @@ fears_or_limits:
 - That guiding the outsiders will lead to harm he could have prevented
 current_state:
   location: location:verdania
+purview: []
 ---
 
 A lean, watchful human man who reads the river like a book and guides expeditions through the rainforest with a cautious, methodical hand.

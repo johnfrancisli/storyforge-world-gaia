@@ -16,9 +16,15 @@ gm_notes: Tamatoa is the son of Chief Lani, though this is not widely known — 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Fisher and chief's son
+proficient_skills: []
 appearance: An unremarkable, weathered man who blends into the docks. He has his mother's build and his
   father's quiet manner, and he works hard at not being noticed.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: twenty-eight
   body_build: compact, weathered, unremarkable
@@ -41,6 +47,7 @@ fears_or_limits:
   time, something was left behind beneath the water
 current_state:
   location: location:lani-atoll
+purview: []
 ---
 
 Chief Lani's son, a quiet fisherman who found his grandmother's secret records showing the rising seas follow a cycle — but this time, the cycle has been broken by something pushing it faster.

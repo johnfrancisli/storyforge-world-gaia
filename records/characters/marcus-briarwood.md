@@ -11,9 +11,15 @@ gm_notes: Marcus is a mercenary captain who leads a company of sellswords curren
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Mercenary Captain
+proficient_skills: []
 appearance: Battle-scarred and weathered, Marcus wears well-maintained chainmail and a mercenary's cloak.
   He carries a longsword and has the watchful stillness of a veteran fighter.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 40
   body_build: muscular and battle-scarred
@@ -31,6 +37,7 @@ fears_or_limits:
 - that his own mercenaries will turn on him if he refuses a paying contract
 current_state:
   location: location:crownhaven
+purview: []
 ---
 
 A scarred mercenary captain who sells his sword for coin — but who has found a line he will not cross, even if crossing it would have been more profitable.

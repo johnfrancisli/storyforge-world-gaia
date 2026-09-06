@@ -14,9 +14,15 @@ gm_notes: Iolana creates the feather cloaks and headdresses worn by chiefs and u
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Feather worker
+proficient_skills: []
 appearance: A gentle, focused woman surrounded by feathers and fiber, her hands always busy. She wears
   simple cloth to keep her work materials clean. She treats every feather as if it is precious.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: thirty-two
   body_build: slim, fine-fingered, gentle in movement
@@ -36,6 +42,7 @@ fears_or_limits:
 - That wearing the cloak has already bonded her to something she cannot see
 current_state:
   location: location:lani-atoll
+purview: []
 ---
 
 A feather worker who has been receiving mysterious feathers from an unknown source and weaving them into a cloak she did not commission. The cloak has properties she does not understand.

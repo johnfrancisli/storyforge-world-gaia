@@ -10,9 +10,15 @@ gm_notes: Rin arranges flowers for the shogun's court and overhears everything t
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Florist and ikebana artist
+proficient_skills: []
 appearance: She wears a pale work kimono with a sash full of small shears and twine. Cut stems trail from
   her basket. She moves silently and is often overlooked by the very people she arranges flowers for.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: late thirties
   body_build: slim, tall for a woman
@@ -29,6 +35,7 @@ fears_or_limits:
 - She is a florist — she has no combat training and no political standing to make direct accusations.
 current_state:
   location: location:tsuki-no-miyako
+purview: []
 ---
 
 A florist and ikebana master who supplies the shogun's palace with flower arrangements. She works in the palace gardens at dawn and moves through corridors with the invisibility of a servant. She selects each blossom with unsettling care.

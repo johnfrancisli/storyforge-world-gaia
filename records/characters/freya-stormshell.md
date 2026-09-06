@@ -12,10 +12,16 @@ gm_notes: 'Freya is a shellfish gatherer who works the fjord''s tidal flats, col
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Shellfish Gatherer / Diver
+proficient_skills: []
 appearance: Compact and cold-water hardened, Freya wears a sealskin diving outfit and wool underlayers,
   her skin perpetually goose-bumped from hours in the fjord. She carries a net bag and a short prying
   bar, and she moves through the tidal flats with the sure-footedness of someone who knows every rock.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 25
   body_build: short and stocky, built for cold water and deep dives
@@ -34,6 +40,7 @@ fears_or_limits:
 - that something is waking on the fjord floor and the shell is its voice
 current_state:
   location: location:skaldvik
+purview: []
 ---
 
 A shellfish gatherer who knows the fjord's tidal flats stone by stone, and who pulled something from the deep that sings to her in a language the water remembers.

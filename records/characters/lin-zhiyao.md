@@ -9,9 +9,15 @@ gm_notes: Secretly the illegitimate daughter of the Jin warlord and a Wei court 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Court musician and covert informant
+proficient_skills: []
 appearance: Elegant and poised, always in layered silk of jade-green and ivory. Fingers callused from
   guqin strings. Carries a faint scent of sandalwood.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 24
   body_build: slender and graceful
@@ -30,6 +36,7 @@ fears_or_limits:
 - That Grey Crane will ask for something she cannot give
 current_state:
   location: location:jin-an
+purview: []
 ---
 
 A composed court lady of Jin who plays the guqin at diplomatic functions and is whispered to be the most beautiful woman in the warlord's court.

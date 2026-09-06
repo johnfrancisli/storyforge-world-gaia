@@ -14,10 +14,16 @@ gm_notes: 'A male elder who is the oldest person in Zaffar — old enough to rem
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Elder, living archive of the Pact
+proficient_skills: []
 appearance: Wizened and still in layered robes, his eyes bright in a face lined like old leather. He sits
   in the courtyard of the elders' house, wrapped in blankets even in the heat, and people come to him
   for stories of the old days. He remembers everything and tells you exactly what you asked, no more.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 103
   body_build: thin and frail, but upright when seated
@@ -39,6 +45,7 @@ fears_or_limits:
   all, still bound by his father's contract
 current_state:
   location: location:zaffar
+purview: []
 ---
 
 The oldest person in Zaffar, a 103-year-old elder who sits in the courtyard of the elders' house and remembers everything. People come to him for stories of the old days, and he tells them exactly what happened, no more.

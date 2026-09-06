@@ -10,8 +10,14 @@ gm_notes: A rice farmer whose paddies sit at the border where Jin, Chu, and Wei 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Rice farmer and secret provider for deserters' sanctuary
+proficient_skills: []
 appearance: Sun-browned and strong, wearing mud-stained farmer's clothes and a woven rice-straw hat.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 46
   body_build: sturdy and broad-hipped from years of field labor
@@ -30,6 +36,7 @@ fears_or_limits:
 - Her hidden grain stores being found during a military search
 current_state:
   location: location:sangguo
+purview: []
 ---
 
 A weathered rice farmer at the tri-border who feeds soldiers from all three armies and grumbles about every one of them.

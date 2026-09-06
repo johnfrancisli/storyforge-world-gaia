@@ -10,10 +10,16 @@ gm_notes: Kiku's ghost stories are not fiction — they are records of actual sp
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Ghost storyteller (kaidan-shi)
+proficient_skills: []
 appearance: She wears layered quilted kimono in faded colors and a knitted cap over thin white hair. She
   holds a walking stick she doesn't need and a cup of tea that's always warm. Her voice is low and rhythmic,
   and she pauses at exactly the right moments to make children gasp.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: late eighties
   body_build: small, frail-seeming
@@ -30,6 +36,7 @@ fears_or_limits:
 - If she tells the wrong person about the seal, they might break it deliberately to weaponize the yokai.
 current_state:
   location: location:haru-shrine-town
+purview: []
 ---
 
 An elderly woman who tells ghost stories to children in the village square of Haru's Shrine Town. She sits on a stone bench wrapped in a quilted kimono, and the children gather around her every evening at dusk. She never charges for her stories and never runs out of them.

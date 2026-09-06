@@ -12,11 +12,17 @@ gm_notes: 'Bjorn is a master shipwright who lays the keels — the first timber,
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Master Shipwright
+proficient_skills: []
 appearance: Massive and grey-bearded, Bjorn works in the shipyard in a leather apron, his arms scarred
   from decades of timber work. He moves slowly but with absolute precision — a man who knows that a crooked
   keel means a crooked ship. He speaks rarely, and when he does, people listen, because his words are
   rationed like good iron.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 61
   body_build: very tall and broad, thick through the shoulders and chest
@@ -35,6 +41,7 @@ fears_or_limits:
 - that Greta will hate him for his part in the cover-up, and he will have deserved it
 current_state:
   location: location:skaldvik
+purview: []
 ---
 
 A master shipwright whose hands lay the spine of every longship in Skaldvik, and who has been standing on a lie for twenty years — a lie he helped build and is not sure he can take apart.

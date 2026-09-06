@@ -13,9 +13,15 @@ gm_notes: 'A jaguar beast-kin guard who protects the chief of the Verdana tribe 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Chief's personal guard
+proficient_skills: []
 appearance: Imposing and alert, with prominent spotting and a military stillness. Wears hide armor reinforced
   with bone plates. Carries a long spear and a club.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 36
   body_build: tall and heavily muscled, built for intimidation and combat
@@ -35,6 +41,7 @@ fears_or_limits:
 - That Sol will be exiled and Sangue will have to choose between following her and staying
 current_state:
   location: location:iara
+purview: []
 ---
 
 A formidable jaguar beast-kin guard who stands at the chief's side during every public appearance and whose loyalty has never been questioned.

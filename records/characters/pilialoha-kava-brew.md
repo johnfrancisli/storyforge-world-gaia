@@ -14,9 +14,15 @@ gm_notes: 'Pilialoha brews the kava that is drunk at every council meeting, ever
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Kava brewer
+proficient_skills: []
 appearance: A warm, round-faced woman with a brewer's stained hands and a welcoming manner. She serves
   kava in half-coconut cups and always drinks last. Her smile is genuine and her eyes miss nothing.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: thirty-nine
   body_build: round-faced, solid, welcoming
@@ -38,6 +44,7 @@ fears_or_limits:
   keep silent
 current_state:
   location: location:lani-atoll
+purview: []
 ---
 
 The kava brewer of Lani Atoll, whose drink makes people tell the truth. She has used this power in secret to protect the community, and she is afraid of what it means to hold it.

@@ -11,10 +11,16 @@ gm_notes: Goro has been smuggling shrine artifacts out of decommissioned shrines
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Merchant and smuggler (akindo)
+proficient_skills: []
 appearance: He wears a road-worn kimono in browns and oranges, a fan tucked in his sash, and a merchant's
   cap. His cart creaks under the weight of curiosities wrapped in straw. He bows too deeply and laughs
   too readily, and his eyes calculate while his mouth smiles.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: early fifties
   body_build: soft, round-faced
@@ -34,6 +40,7 @@ fears_or_limits:
   or defend against.
 current_state:
   location: location:tsuki-no-miyako
+purview: []
 ---
 
 A traveling merchant who deals in 'curiosities' — shrine relics, antique pottery, old scrolls, and anything with a story attached. He works the roads between the capital and the provinces in a cart loaded with crates. He is cheerful, generous with samples, and asks a lot of questions.

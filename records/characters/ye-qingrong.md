@@ -11,9 +11,15 @@ gm_notes: A chi-cultivation nun who runs a small mountain monastery that is a re
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Chi-cultivation nun, war-ritual performer, and monastery protector
+proficient_skills: []
 appearance: Calm and luminous, wearing simple white cultivation robes. Moves with a cultivator's centered
   stillness.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 39
   body_build: slender and upright, cultivator's posture
@@ -32,6 +38,7 @@ fears_or_limits:
 - Her brother discovering the truth and doing something rash that gets him killed
 current_state:
   location: location:sangguo
+purview: []
 ---
 
 A serene, white-robed chi-cultivation nun at a mountain monastery who welcomes all women who seek shelter, no questions asked.

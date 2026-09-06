@@ -13,10 +13,16 @@ gm_notes: 'A male caravan guard captain who has protected spice caravans across 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Caravan guard captain, unwitting djinn agent
+proficient_skills: []
 appearance: Battle-worn and watchful in desert travel clothes and a guard's leather vest, he carries a
   curved sword and a shield made of hardened camel hide. His face is weathered and his eyes are always
   on the horizon. He commands his guards with quiet authority.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 44
   body_build: tall and battle-scarred, muscular
@@ -37,6 +43,7 @@ fears_or_limits:
 - That the djinn's plan against the binding families will trigger a conflict that engulfs the entire confederation
 current_state:
   location: location:al-khayzar
+purview: []
 ---
 
 A battle-worn caravan guard captain who has protected spice caravans across the deep desert for twenty years. He rides at the head of his column with quiet authority and his eyes always on the horizon.

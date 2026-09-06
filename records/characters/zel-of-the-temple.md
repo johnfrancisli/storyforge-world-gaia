@@ -13,9 +13,15 @@ gm_notes: A human woman who has lived alone at the edge of the forbidden temple 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Temple ruin guardian and warning-keeper
+proficient_skills: []
 appearance: Lean and weather-beaten, with the focused stillness of someone who has spent years alone.
   Wears faded wraps and carries a staff carved with warning glyphs. Her eyes never stop scanning the treeline.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 49
   body_build: lean and weathered, pared down by years of solitude
@@ -34,6 +40,7 @@ fears_or_limits:
 - That the spirit-talker she is watching will not heed her warnings
 current_state:
   location: location:verdania
+purview: []
 ---
 
 A weathered human woman who lives in a small shelter at the perimeter of the forbidden temple ruins and warns all travelers away with quiet authority.

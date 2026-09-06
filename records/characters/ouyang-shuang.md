@@ -11,9 +11,15 @@ gm_notes: A painter whose landscape paintings are so detailed they have been use
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Master painter and unwitting intelligence source
+proficient_skills: []
 appearance: Free-spirited and paint-stained, wearing travel-worn scholar-artist robes. Carries a bulky
   scroll-pack and brush case.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 35
   body_build: tall and lean from constant travel
@@ -32,6 +38,7 @@ fears_or_limits:
 - That her art has already caused military casualties
 current_state:
   location: location:sangguo
+purview: []
 ---
 
 A wandering landscape painter from Chu whose breathtaking scrolls capture the rivers, mountains, and cities of all three states in vivid detail.

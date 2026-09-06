@@ -13,9 +13,15 @@ gm_notes: Kamala is a refugee from a southern island that submerged four months 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Refugee and net weaver
+proficient_skills: []
 appearance: A capable-looking woman whose hands are always busy with net fiber but whose eyes are distant
   and hollow. She is functional and helpful and quietly self-destructive.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: thirty-one
   body_build: capable, strong-handed, hollow-eyed
@@ -35,6 +41,7 @@ fears_or_limits:
 - That she will freeze again — that the next time something goes wrong, she will stand and watch again
 current_state:
   location: location:lani-atoll
+purview: []
 ---
 
 A refugee and net weaver who survived her island's submergence but carries a devastating secret: she froze when she should have sounded the warning, and four people died.

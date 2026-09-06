@@ -11,9 +11,15 @@ gm_notes: Becka is a mead brewer and merchant who trades honey and mead across t
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Mead Brewer / Merchant
+proficient_skills: []
 appearance: Vigorous and sharp-eyed, Becka wears a merchant's travelling dress with a honey-stained apron.
   She carries a ledger as naturally as others carry a sword, and her handshake is firm and deliberate.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 41
   body_build: sturdy and energetic
@@ -31,6 +37,7 @@ fears_or_limits:
 - that the beekeepers she has rallied will fold under pressure and sell out
 current_state:
   location: location:valdris
+purview: []
 ---
 
 A shrewd mead brewer and merchant who knows that controlling honey means controlling medicine, rations, and mead — and who is quietly organizing beekeepers against a monopoly that could strangle the kingdom.

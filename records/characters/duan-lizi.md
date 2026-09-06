@@ -10,8 +10,14 @@ gm_notes: 'A noodle vendor in Jin-an''s market who served a bowl of noodles to a
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Noodle vendor and accidental secret-bearer
+proficient_skills: []
 appearance: Round and ruddy, always steaming and wiping his hands on his apron. Laughs easily and loudly.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 49
   body_build: short and round-bellied
@@ -30,6 +36,7 @@ fears_or_limits:
 - That his stall is being watched and he cannot tell by whom
 current_state:
   location: location:jin-an
+purview: []
 ---
 
 A cheerful, bustling noodle vendor in Jin-an's market whose steaming bowls are a daily comfort to merchants, soldiers, and laborers.

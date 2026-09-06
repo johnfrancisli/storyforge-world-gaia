@@ -14,9 +14,15 @@ gm_notes: Lio is a pearl trader who travels between islands buying and selling p
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Pearl trader
+proficient_skills: []
 appearance: A sharp-eyed, quick-talking woman with a trader's confident manner and a pouch of pearls at
   her belt. She is always examining, always appraising, always listening.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: thirty-six
   body_build: sharp-eyed, quick-moving, compact
@@ -36,6 +42,7 @@ fears_or_limits:
 - That the pearls are not fragments of something broken but eggs of something that is about to hatch
 current_state:
   location: location:tide-archipelago
+purview: []
 ---
 
 A pearl trader who has been secretly collecting black pearls that hum with a shared note. She believes they are fragments of something broken, and she is afraid of what they will say when the set is complete.

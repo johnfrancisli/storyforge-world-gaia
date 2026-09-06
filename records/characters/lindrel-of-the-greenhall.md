@@ -11,10 +11,16 @@ gm_notes: 'Lindrel is the last of the old elven forest-keepers of the Greenhall,
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Elven forest-keeper, elder of the Greenhall
+proficient_skills: []
 appearance: A tall, slender elf in forest-green robes, her hair silver-white and very long. She moves
   slowly, as if each step is considered. Her ears are long and sharply pointed. She carries a staff of
   living wood that is still growing — small leaves bud from it in spring.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: two hundred and thirty — appears ageless, mature
   body_build: tall, slender
@@ -35,6 +41,7 @@ fears_or_limits:
   crews and political forces alone.
 current_state:
   location: location:valdris
+purview: []
 ---
 
 An elven forest-keeper, two centuries old, who tends the Greenhall — an ancient forest within Valdris. She is tall, slow-moving, and carries the weight of a very long memory. She is not unfriendly, but she is not in a hurry for anyone else's sake.

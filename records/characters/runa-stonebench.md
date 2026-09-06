@@ -12,10 +12,16 @@ gm_notes: 'Runa is a brewer who makes ale from barley and herbs — the daily dr
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Brewer
+proficient_skills: []
 appearance: Sturdy and barley-stained, Runa works in the brewhouse surrounded by vats and jugs and the
   smell of fermentation. She wears a brewer's apron and keeps her sleeves rolled, her hands always slightly
   sticky from wort. She is practical and businesslike, with a dry wit that surfaces over a good ale.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 34
   body_build: medium height, sturdy and practical
@@ -34,6 +40,7 @@ fears_or_limits:
 - that someone will drink the batch without knowing what it is and the visions will break them
 current_state:
   location: location:skaldvik
+purview: []
 ---
 
 A brewer whose ales flow through Skaldvik like water through the fjord, and who has one jug of something different hidden behind a wall — something that could change everything.

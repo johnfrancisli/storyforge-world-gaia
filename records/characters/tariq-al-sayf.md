@@ -12,10 +12,16 @@ gm_notes: 'Patriarch of the al-Sayf binding family, the second-oldest house on t
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Binding family patriarch, Council member
+proficient_skills: []
 appearance: Immaculate and reserved in dark robes with the al-Sayf sword sigil embroidered in silver.
   He carries his family's iron lamp, which burns with a steady white flame. His movements are deliberate,
   as if he calculates each one.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 52
   body_build: tall and thin, rigid posture
@@ -34,6 +40,7 @@ fears_or_limits:
 - That either choice — Nuria's price or the new djinn's price — will cost him his daughter
 current_state:
   location: location:zaffar
+purview: []
 ---
 
 The patriarch of the al-Sayf binding family, a stern, controlled man who sits on the Council and commands respect through formality rather than warmth. He never raises his voice and never relaxes his posture.

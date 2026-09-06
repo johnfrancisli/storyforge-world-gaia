@@ -13,9 +13,15 @@ gm_notes: The most celebrated poet in Zaffar, whose verses are sung in every cof
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Court poet, verse-crafter
+proficient_skills: []
 appearance: Expressive and dramatic in flowing robes of deep blue, her gestures large when she recites.
   She carries a leather-bound book of verses and a reed pen. Her voice is rich and carries without effort.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 33
   body_build: tall and willowy, expressive
@@ -34,6 +40,7 @@ fears_or_limits:
 - That her verses will work too well and shatter a contract that was holding something worse in check
 current_state:
   location: location:zaffar
+purview: []
 ---
 
 A poet of extraordinary talent whose verses are the soundtrack of Zaffar's coffee houses and courtyards. She recites from memory, her voice carrying through the night air, and people stop walking to listen.

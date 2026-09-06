@@ -12,9 +12,15 @@ gm_notes: A bird beast-kin flute player whose melodies can calm animals, soothe 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Flute player and wind-melody seeker
+proficient_skills: []
 appearance: Slim and hollow-boned, with an airy lightness to every movement. Wears feathered arm-bands
   and plays a set of river-cane flutes. Her melodies linger strangely in the air.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 24
   body_build: slight and light-boned, fragile-looking
@@ -34,6 +40,7 @@ fears_or_limits:
 - That the wind is using her as an instrument and she has no real choice in the matter
 current_state:
   location: location:verdania
+purview: []
 ---
 
 A delicate bird beast-kin flute player whose music seems to carry on the wind long after she stops playing, calming animals and settling spirits.

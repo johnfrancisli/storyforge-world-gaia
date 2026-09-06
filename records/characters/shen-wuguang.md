@@ -9,9 +9,15 @@ gm_notes: A Chu court official who has been managing the warlord's treasury for 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Court treasury official and secret orphanage patron
+proficient_skills: []
 appearance: Immaculate and soft-spoken, wearing Chu-state formal robes of dark red. Always carries a counting
   frame.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 55
   body_build: soft and well-fed
@@ -30,6 +36,7 @@ fears_or_limits:
 - That his moral justification for theft is just self-deception
 current_state:
   location: location:jin-an
+purview: []
 ---
 
 A meticulous, silver-tongued treasury official in the Chu court who manages war taxes with scrupulous—appearing—precision.

@@ -14,9 +14,15 @@ gm_notes: 'A human potter who specializes in fire-resistant cooking vessels and 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Potter and kiln-master
+proficient_skills: []
 appearance: Broad and soot-darkened, with burn scars on his forearms. Works shirtless near the heat of
   the kilns. His hands are permanently stained with mineral colors.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 39
   body_build: broad and sturdy, heat-tolerant from kiln work
@@ -36,6 +42,7 @@ fears_or_limits:
 - That whatever Argila is hiding is dangerous and he is the only one who has noticed
 current_state:
   location: location:iara
+purview: []
 ---
 
 A broad, soot-stained human man who fires kilns and makes cooking pots alongside his sister Argila, and who has been experimenting with unusual glazes.

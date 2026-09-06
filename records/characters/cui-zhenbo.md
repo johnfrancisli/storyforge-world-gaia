@@ -11,9 +11,15 @@ gm_notes: A Jin court physician who serves the warlord's family and is one of th
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Court physician and keeper of a poisoning secret
+proficient_skills: []
 appearance: Distinguished and grave, wearing fine Jin court physician's robes. Moves with a physician's
   careful deliberateness.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 61
   body_build: medium, slightly stooped with age
@@ -32,6 +38,7 @@ fears_or_limits:
 - That the warlord will die and the poisoner will inherit before Cui can act
 current_state:
   location: location:jin-an
+purview: []
 ---
 
 A dignified, silver-bearded court physician in the Jin palace who has tended the warlord's family for two decades.

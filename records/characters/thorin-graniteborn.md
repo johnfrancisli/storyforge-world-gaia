@@ -10,9 +10,15 @@ gm_notes: Thorin is a dwarf stonemason who discovered a hidden chamber beneath C
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Stonemason
+proficient_skills: []
 appearance: Stocky and stone-faced, Thorin wears a leather work vest over a thick shirt, his beard braided
   with iron beads. His hands are rough as the granite he works.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 62
   body_build: short and barrel-chested, dwarven build
@@ -30,6 +36,7 @@ fears_or_limits:
 - that the ancient knowledge will be worse than the current crisis
 current_state:
   location: location:crownhaven
+purview: []
 ---
 
 A dwarf stonemason whose hands shape stone as easily as dough, and who has seen things beneath the castle that would shake the kingdom's foundations.

@@ -13,9 +13,15 @@ gm_notes: 'Hina is the most skilled pearl diver in the eastern reefs, capable of
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Pearl diver
+proficient_skills: []
 appearance: A lean, salt-darkened woman in minimal diving cloth, her hair bleached copper-red by sun and
   saltwater. She moves through water like she belongs to it. Pearl-shell earrings gleam at her earlobes.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: thirty-four
   body_build: lean, long-limbed, deep-chested
@@ -36,6 +42,7 @@ fears_or_limits:
   hers
 current_state:
   location: location:tide-archipelago
+purview: []
 ---
 
 A legendary pearl diver who can hold her breath long enough to reach the drowned ruins beneath the eastern reef. She has found something down there that has changed everything she thought she knew about the Archipelago.

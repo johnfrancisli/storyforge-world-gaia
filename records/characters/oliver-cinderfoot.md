@@ -10,9 +10,15 @@ gm_notes: 'Oliver is a chimney sweep''s apprentice, a young boy who climbs the n
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Chimney Sweep Apprentice
+proficient_skills: []
 appearance: Small and perpetually soot-stained, Oliver wears a ragged tunic and bare feet for grip in
   the flues. He is wiry and quick, with alert eyes that dart around rooms.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 10
   body_build: small and wiry, underfed
@@ -30,6 +36,7 @@ fears_or_limits:
 - that he will be trapped in a collapsing flue one day and no one will come
 current_state:
   location: location:crownhaven
+purview: []
 ---
 
 A soot-faced chimney sweep's boy who sees things from the flues that no one expects a child to understand — and who is carrying a secret too big for his small shoulders.

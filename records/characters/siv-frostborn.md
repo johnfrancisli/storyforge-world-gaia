@@ -11,11 +11,17 @@ gm_notes: 'Siv is a healer who combines herbalism with seidr — a rare and some
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Healer
+proficient_skills: []
 appearance: Quiet and slightly fragile-looking, Siv wears a white wool dress — the healer's color — with
   a grey shawl. Her hands are always warm, even in the coldest weather, and she keeps them pressed together
   when not working, as if holding something in. She sometimes pauses mid-sentence with a look of confusion,
   then continues.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 36
   body_build: slender and slightly frail-looking, deceptively strong
@@ -34,6 +40,7 @@ fears_or_limits:
 - that the thing in the fjord will come to collect the full debt, not just memories
 current_state:
   location: location:skaldvik
+purview: []
 ---
 
 A healer whose hands carry warmth that ordinary fire does not explain, and who pays for every miracle with a piece of herself she cannot get back.

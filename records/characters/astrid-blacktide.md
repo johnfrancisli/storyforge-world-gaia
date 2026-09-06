@@ -12,10 +12,16 @@ gm_notes: Astrid commands the longship Frostwing and has led six successful raid
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Raid Captain / Shieldmaiden
+proficient_skills: []
 appearance: Battle-worn and weather-darkened, Astrid wears a byrnie of iron rings over leather, her shield
   slung across her back — black with a white wave-painted crest. Her hair is cropped short on the sides,
   long at the back, and she carries two axes at her belt like other people carry eating knives.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 34
   body_build: lean and corded with muscle, built for endurance
@@ -33,6 +39,7 @@ fears_or_limits:
 - that mercy on a raid is a crack that spreads until the whole shield breaks
 current_state:
   location: location:skaldvik
+purview: []
 ---
 
 A shieldmaiden and raid captain whose fame on the waves is matched only by the silence she keeps about the one village she let stand.

@@ -11,11 +11,17 @@ gm_notes: 'Eira is a skald who carries the oral histories of Skaldvik in her mem
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Skald / Storyteller
+proficient_skills: []
 appearance: Slender and quick-tongued, Eira wears a dark blue poet's robe embroidered with wave-patterns
   at the hem. She carries a small harp and a pouch of memory-stones — smooth pebbles she associates with
   specific sagas, touching each before reciting. Her voice is clear and carrying, trained to fill a mead
   hall.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 31
   body_build: slender and wiry, quick-moving
@@ -34,6 +40,7 @@ fears_or_limits:
 - that she is wrong about who killed Hallvar, and a false saga is worse than no saga
 current_state:
   location: location:skaldvik
+purview: []
 ---
 
 A skald whose memory holds the sagas of three generations, and who has been quietly composing a verse that could split Skaldvik's ruling house like a frozen hull.

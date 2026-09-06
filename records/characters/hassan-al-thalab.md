@@ -13,10 +13,16 @@ gm_notes: A male snake charmer who performs in the Star Bazaar with a collection
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Snake charmer, djinn-charmer
+proficient_skills: []
 appearance: Lean and weathered in performer's clothes — a colorful vest over rough cotton, a turban wound
   with a serpent motif. He sits cross-legged with his basket of serpents and plays a bone flute with an
   intensity that makes the air feel heavy. His snakes coil in perfect synchronization with his music.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 42
   body_build: lean and sinewy, performer's grace
@@ -37,6 +43,7 @@ fears_or_limits:
   him and everyone nearby
 current_state:
   location: location:zaffar
+purview: []
 ---
 
 A snake charmer in the Star Bazaar who performs with desert vipers that respond to his bone flute as if hypnotized. His music makes the air feel heavy, and his snakes coil in perfect synchronization with his melody.

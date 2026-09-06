@@ -11,9 +11,15 @@ gm_notes: 'An acrobat and street performer who travels the tri-border region wit
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Acrobat troupe leader and master spy-thief
+proficient_skills: []
 appearance: Vibrant and athletic, wearing performer's bright silks. Laughs loudly and moves with impossible
   grace.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 28
   body_build: compact, muscular, and limber
@@ -32,6 +38,7 @@ fears_or_limits:
 - That selling to the highest bidder has made her complicit in deaths she cannot justify
 current_state:
   location: location:sangguo
+purview: []
 ---
 
 A dazzling acrobat and troupe leader whose performances across the three states draw crowds and applause wherever she goes.

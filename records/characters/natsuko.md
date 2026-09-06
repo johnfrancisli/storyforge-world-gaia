@@ -10,10 +10,16 @@ gm_notes: Natsuko's farm sits on a ley line that feeds the local shrine network 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Farmer (hyakusho)
+proficient_skills: []
 appearance: She wears a conical straw hat, a patched kimono with the sleeves tied back, and straw sandals
   caked with mud. She carries a hoe over one shoulder and a basket of early vegetables on the other. Her
   face is sun-darkened and open.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: early sixties
   body_build: wiry, bent from years of field work
@@ -31,6 +37,7 @@ fears_or_limits:
 - She doesn't know why her land is special, which means she can't make the right argument to protect it.
 current_state:
   location: location:tsukuyomi
+purview: []
 ---
 
 A weathered farmer in rural Tsukuyomi whose fields produce impossibly abundant harvests. She works from before dawn to after dusk, her hands always in the earth. She feeds her village and asks little in return, but she's worried about a land agent who won't take no for an answer.

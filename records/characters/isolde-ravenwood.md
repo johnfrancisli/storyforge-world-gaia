@@ -9,9 +9,15 @@ gm_notes: Isolde is a healer who once served the royal family directly. She was 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Healer
+proficient_skills: []
 appearance: Dignified and composed, Isolde wears clean but plain grey robes. Her hands are steady and
   her manner is clinical, though warmth surfaces when she treats children.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 44
   body_build: tall and straight-backed
@@ -29,6 +35,7 @@ fears_or_limits:
 - that she was truly at fault and the queen's death was her failure, not a crime
 current_state:
   location: location:crownhaven
+purview: []
 ---
 
 A gifted healer exiled from the royal court, who tends the poor in the lower town while quietly hunting a poisoner she failed to catch years ago.

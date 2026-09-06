@@ -12,10 +12,16 @@ gm_notes: 'Svanhild is a child of twelve, the daughter of one of the jarl''s hou
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Child
+proficient_skills: []
 appearance: Small and fair-haired, Svanhild wears a child's wool tunic and fur-lined boots, her hair in
   two messy braids. She is always underfoot — climbing on the dock, chasing cats, listening to conversations
   she is not part of. She has the bright, intense stare of a child who pays attention to everything.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 12
   body_build: small and wiry, still growing
@@ -33,6 +39,7 @@ fears_or_limits:
 - that if she tells her parents, they will be frightened and send her to Yrsa
 current_state:
   location: location:skaldvik
+purview: []
 ---
 
 A child of the jarl's household who plays among the longships and dreams of things that happen the next day, and who has started keeping a record she shows no one.

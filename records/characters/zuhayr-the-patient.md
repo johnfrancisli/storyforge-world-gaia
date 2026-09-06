@@ -11,11 +11,17 @@ gm_notes: 'Zuhayr is not malicious. He is a djinn of fire and law, and the contr
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Djinn, bound by contract to the Idris family
+proficient_skills: []
 appearance: A figure that shifts between forms — sometimes a man with skin like dark obsidian cracked
   with lines of blue fire, sometimes a pillar of blue flame wearing clothes, sometimes just heat shimmer
   in the air. When he chooses a human form, he is tall, composed, and dresses in the style of a desert
   scholar. His eyes are always fire.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: ancient — djinn are older than human civilization
   body_build: tall, composed
@@ -38,6 +44,7 @@ fears_or_limits:
   force, the Pact of the Lamp may fracture.
 current_state:
   location: location:zaffar
+purview: []
 ---
 
 A djinn — a fire-spirit of the desert, bound to the Idris family by a contract three generations old. He appears as a figure of blue fire in human form, or as a pillar of flame, or as a man with skin like cracked obsidian. He is patient, polite, and entirely bound by the contract's terms. He has been appearing to Malik to remind him that the deadline is approaching.

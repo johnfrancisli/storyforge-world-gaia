@@ -15,9 +15,15 @@ gm_notes: Poto is an elder rope maker, the oldest in the Archipelago, and he has
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Elder rope maker
+proficient_skills: []
 appearance: A thin, weathered old man with rope-worker's hands that are still steady despite his age.
   He sits outside his home making cord, his fingers moving in patterns he has known for sixty years.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: seventy-six
   body_build: thin, weathered, steady-handed
@@ -41,6 +47,7 @@ fears_or_limits:
   holding knot has kept in place — including the routes, the songs, and the islands themselves
 current_state:
   location: location:lani-atoll
+purview: []
 ---
 
 An elder rope maker who knows a knot his family has guarded for generations — an untying knot that releases whatever the holding knot contains. He does not know where the holding knot is, and he prays it is still intact.

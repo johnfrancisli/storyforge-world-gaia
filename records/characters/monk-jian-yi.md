@@ -10,10 +10,16 @@ gm_notes: 'Jian Yi has been cultivating chi for forty years and has reached a le
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Wandering chi monk
+proficient_skills: []
 appearance: A thin, wiry man in faded grey robes, barefoot, with a bamboo staff. His head is shaved and
   tanned by decades of sun. He moves with a fluidity that is subtly wrong for his apparent age — the walk
   of someone whose body is reinforced by decades of chi cultivation.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: sixties — moves like someone much younger
   body_build: thin, wiry, deceptively strong
@@ -33,6 +39,7 @@ fears_or_limits:
   heal, and sense, but he has no political influence and no connections outside the monastic community.
 current_state:
   location: location:sangguo
+purview: []
 ---
 
 A wandering chi monk, old and powerful. A thin, bald man in rough robes who walks barefoot and carries a bamboo staff. He has been cultivating chi for forty years. He does not speak often, but when he does, people listen — sometimes because his words carry spiritual weight, and sometimes because they are unexpectedly funny.

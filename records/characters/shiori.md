@@ -12,10 +12,16 @@ gm_notes: Shiori has discovered records in the shogunal archive that reveal the 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Librarian and archivist (shiryo-kan)
+proficient_skills: []
 appearance: She wears a practical grey kimono with ink-stained sleeves and a pair of smoked-glass spectacles
   perched on her nose. She moves between scroll shelves on a rolling ladder with practiced ease. She carries
   a brush and notebook everywhere and writes in a shorthand no one else can read.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: early fifties
   body_build: thin, angular
@@ -35,6 +41,7 @@ fears_or_limits:
 - Whoever tore the pages has archive access, which means the thief is someone she knows and trusts.
 current_state:
   location: location:tsuki-no-miyako
+purview: []
 ---
 
 An archivist in the shogunate's records hall in the capital. She maintains scrolls, maps, and ledgers that date back centuries. She works alone in a dusty hall that smells of paper and cedar oil, and she knows where everything is — including things that aren't supposed to exist.

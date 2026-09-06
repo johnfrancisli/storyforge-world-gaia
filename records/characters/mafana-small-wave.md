@@ -14,10 +14,16 @@ gm_notes: 'Mafana is nine years old and arrived at Lani Atoll with nothing — n
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Refugee child
+proficient_skills: []
 appearance: A small, watchful girl who moves silently and communicates through gesture. She is always
   near the water and always listening. She carries a small piece of coral she found on arrival and has
   not let go of since.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: nine
   body_build: small, thin, watchful
@@ -37,6 +43,7 @@ fears_or_limits:
   too
 current_state:
   location: location:lani-atoll
+purview: []
 ---
 
 A nine-year-old refugee girl who does not speak but sings ancient songs in her sleep — songs she has never been taught, with new verses that prophesy islands not yet lost.

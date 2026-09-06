@@ -11,9 +11,15 @@ gm_notes: Freya is a castle guard stationed on Crownhaven's outer wall. She disc
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Castle Guard
+proficient_skills: []
 appearance: Alert and athletic, Freya wears a castle guard's chainmail and a crimson tabard. She carries
   a halberd and moves with the coiled readiness of someone who expects trouble at any moment.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 26
   body_build: athletic and broad-shouldered
@@ -31,6 +37,7 @@ fears_or_limits:
 - that she will be reassigned away from the wall and the gap will go unwatched
 current_state:
   location: location:crownhaven
+purview: []
 ---
 
 A sharp-eyed castle guard who trusted her superior and was dismissed — and who now watches the wall alone, knowing that someone inside the castle is opening its doors to the night.

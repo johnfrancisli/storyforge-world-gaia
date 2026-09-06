@@ -13,10 +13,16 @@ gm_notes: 'Vesper is a falconer who tends hunting birds for a minor lord''s esta
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Falconer
+proficient_skills: []
 appearance: Quiet and watchful, Vesper wears a leather falconer's gauntlet on her left arm and a simple
   tunic. A peregrine falcon named Ash is usually perched on her wrist. She has an stillness about her
   that comes from hours of patient stillness with her birds.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 31
   body_build: lean and still
@@ -34,6 +40,7 @@ fears_or_limits:
 - that no one will listen to a falconer until it is too late
 current_state:
   location: location:dragonrest
+purview: []
 ---
 
 A dedicated falconer whose birds refuse to fly north — and who cannot get anyone to listen when she says something terrible has taken residence in the mountains.

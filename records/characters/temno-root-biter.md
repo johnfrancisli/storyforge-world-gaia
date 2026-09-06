@@ -14,9 +14,15 @@ gm_notes: 'A serpent beast-kin herbalist who specializes in poisons and antidote
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Herbalist and poison/antidote specialist
+proficient_skills: []
 appearance: Lean and still, with the economy of a snake. Works in a cluttered workshop surrounded by jars
   and dried specimens. His hands move with absolute precision.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 43
   body_build: lean and angular, snake-like in stillness
@@ -36,6 +42,7 @@ fears_or_limits:
 - That admitting he created it will destroy his life's work and reputation
 current_state:
   location: location:verdania
+purview: []
 ---
 
 A lean, quiet serpent beast-kin herbalist who knows every poison and antidote in the rainforest and whose workshop smells of bitter roots and mineral earth.

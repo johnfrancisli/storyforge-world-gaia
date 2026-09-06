@@ -14,9 +14,15 @@ gm_notes: 'Tala is the scout who goes ahead of every inter-island expedition, re
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Scout
+proficient_skills: []
 appearance: A lean, watchful woman who squints even in shade. She carries a light scout's pack and moves
   with absolute silence. She is always scanning the horizon, even when indoors.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: twenty-four
   body_build: lean, wiry, silent in movement
@@ -36,6 +42,7 @@ fears_or_limits:
 - That the vast shapes she sees beneath the water have seen her back
 current_state:
   location: location:tide-archipelago
+purview: []
 ---
 
 A scout whose eyes are changing, giving her sight beyond human limits. She can see islands days away and shapes moving beneath the water — and she does not know if it is a gift or a disease.

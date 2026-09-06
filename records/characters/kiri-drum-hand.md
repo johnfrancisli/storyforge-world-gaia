@@ -14,9 +14,15 @@ gm_notes: Kiri is the master drummer who provides the rhythm for every ceremony,
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Drummer
+proficient_skills: []
 appearance: A strong-armed, rhythmic woman with calloused palms and a drum always within reach. She moves
   to internal rhythms even when she is still, her fingers tapping, her feet marking time.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: thirty-four
   body_build: strong-armed, rhythmic, solid
@@ -37,6 +43,7 @@ fears_or_limits:
   cannot stop
 current_state:
   location: location:lani-atoll
+purview: []
 ---
 
 A master drummer who is being haunted by a rhythm she does not know — a deep, steady heartbeat pattern that is growing louder and makes untouched drums resonate when she plays it.

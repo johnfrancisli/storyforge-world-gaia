@@ -9,10 +9,16 @@ gm_notes: Emi's loom was a gift from a yokai her grandmother befriended — a sp
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Weaver
+proficient_skills: []
 appearance: She sits cross-legged at her loom, surrounded by skeins of thread in every color. Her hands
   move in rhythmic, hypnotic patterns. Thread dust clings to her kimono, and she hums while she works
   — always the same tune, one she doesn't remember learning.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: late twenties
   body_build: slender, long-fingered
@@ -31,6 +37,7 @@ fears_or_limits:
   show next.
 current_state:
   location: location:tsukuyomi
+purview: []
 ---
 
 A weaver in a rural Tsukuyomi village, known for cloth that feels unnaturally smooth and holds dye deeper than any other. She works at a loom in her doorway and sells to traveling merchants. People say her fabric brings good fortune.

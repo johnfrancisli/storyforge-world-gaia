@@ -14,9 +14,15 @@ gm_notes: 'An elder who keeps the tribal genealogies and historical records thro
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Genealogy keeper and oral historian
+proficient_skills: []
 appearance: Thin and precise, with a scholar's bearing despite living in a rainforest. Wears simple robes
   and carries bone tablets in a woven satchel. His memory is legendary.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 71
   body_build: thin and angular, slightly stooped
@@ -35,6 +41,7 @@ fears_or_limits:
 - That the wrong person will inherit the chiefdom and the tribe will fracture
 current_state:
   location: location:iara
+purview: []
 ---
 
 A thin, precise human elder who keeps the oral genealogies and carved bone-records of the Verdania tribes and can recite family lines back centuries.

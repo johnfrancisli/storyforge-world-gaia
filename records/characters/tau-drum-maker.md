@@ -15,9 +15,15 @@ gm_notes: Tau makes the drums that every island uses for ceremony, communication
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Drum maker
+proficient_skills: []
 appearance: A stocky, precise man with woodworker's calluses and a careful, measuring gaze. He treats
   every piece of wood with reverence, but he handles the dark log with something closer to caution.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: forty-seven
   body_build: stocky, strong-armed, precise
@@ -41,6 +47,7 @@ fears_or_limits:
   drum will connect them in a way neither of them chose
 current_state:
   location: location:lani-atoll
+purview: []
 ---
 
 A drum maker who is building an enormous drum from a mysterious log that is warm to the touch and has organic structures inside. The drum produces a rhythm he cannot explain.

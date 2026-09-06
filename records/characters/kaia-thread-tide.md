@@ -13,9 +13,15 @@ gm_notes: Kaia weaves the fine cloth that chiefs and ceremony demand, and she is
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Weaver
+proficient_skills: []
 appearance: A slim, precise woman with ink-stained fingers and cloth samples draped over one shoulder.
   She moves with deliberate grace and speaks carefully, as if every word is a thread she is placing.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: thirty-seven
   body_build: slim, fine-boned, precise in movement
@@ -35,6 +41,7 @@ fears_or_limits:
 - That other weavers will learn what she did and attempt it on islands that cannot be saved, causing disaster
 current_state:
   location: location:lani-atoll
+purview: []
 ---
 
 A master weaver whose ceremonial cloth is sought for every important occasion. She has a private ritual for dying islands that has produced an impossible result — an island that refused to sink.

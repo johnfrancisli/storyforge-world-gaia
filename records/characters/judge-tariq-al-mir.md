@@ -11,10 +11,16 @@ gm_notes: Tariq is the Pact of the Lamp's enforcer — not through violence but 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Judge, expert in contract law and the Pact
+proficient_skills: []
 appearance: A tall, grave man in formal judge's robes, a law scroll case at his belt. He moves deliberately,
   speaks precisely, and has the stillness of someone who has spent decades listening to liars. His beard
   is white and trimmed. He carries the law the way soldiers carry swords.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: sixties
   body_build: tall, straight-backed
@@ -36,6 +42,7 @@ fears_or_limits:
   His integrity is his strength and his limitation.
 current_state:
   location: location:zaffar
+purview: []
 ---
 
 A judge of Al-Khayzar, the foremost authority on contract law and the Pact of the Lamp. A tall, grave man in judge's robes — dark blue and gold — who speaks in measured sentences and means every word. He is honest, which in Zaffar makes him unusual, and he is worried, which in Zaffar makes him dangerous.

@@ -10,10 +10,16 @@ gm_notes: 'Helga has seen the same thing in her seidr visions that Shaman Nara''
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Volva (seer, wise woman)
+proficient_skills: []
 appearance: An old woman in layers of wool and fur, a pouch of runestones at her belt. She walks with
   a staff carved with runes that glow faintly in the dark. Her eyes are milky — her sight is going physical,
   but her seidr sight is sharper than ever.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: seventies
   body_build: thin, wiry
@@ -31,6 +37,7 @@ fears_or_limits:
   unbidden now. She is old and the journey to Verdania is long.
 current_state:
   location: location:skaldvik
+purview: []
 ---
 
 A volva — a wise woman and seer — of Hrafnland. An old woman who reads runes, sees visions, and is respected and slightly feared by everyone in Skaldvik. She lives in a hut outside the town and comes in when the visions demand it. She is currently in Skaldvik because the visions have been demanding it.

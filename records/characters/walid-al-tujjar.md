@@ -13,10 +13,16 @@ gm_notes: A male spice merchant who controls the pepper and clove trade through 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Spice merchant, binding family informant
+proficient_skills: []
 appearance: Round-faced and jovial in a merchant's fine robes, he is the picture of a successful trader
   — generous with samples, free with compliments, always smiling. His eyes, however, are calculating,
   and his smile reaches them less often than it should.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 52
   body_build: stout and round, prosperous
@@ -35,6 +41,7 @@ fears_or_limits:
 - That Yasmin will learn he has been spying on her before he can warn her, destroying any chance of connection
 current_state:
   location: location:zaffar
+purview: []
 ---
 
 A round-faced, jovial spice merchant who controls the pepper and clove trade through the mountain passes. He is the picture of a successful trader — generous with samples, free with compliments, always smiling — though his eyes calculate more than his smile suggests.

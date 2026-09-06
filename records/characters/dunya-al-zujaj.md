@@ -12,10 +12,16 @@ gm_notes: A glassblower whose glass vessels can hold light — not metaphoricall
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Glassblower, accidental magician
+proficient_skills: []
 appearance: Sooty and bright-eyed in a leather apron and cotton scarf, working before a furnace that turns
   her face gold. She blows glass with cheeks puffed and scarred from stray sparks. Finished light-bottles
   glow on her shelves like trapped moons.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 27
   body_build: wiry, strong-lunged
@@ -34,6 +40,7 @@ fears_or_limits:
 - That the light trapped in the bottles is not sunlight but something else that will eventually burn free
 current_state:
   location: location:zaffar
+purview: []
 ---
 
 A glassblower whose light-bottles glow in the dark like captured stars, sold cheaply to the poor quarters as oil-free lamps. She works at a furnace in the Crafts Quarter and guards her sand supply with quiet ferocity.

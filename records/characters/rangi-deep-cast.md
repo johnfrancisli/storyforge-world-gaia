@@ -13,9 +13,15 @@ gm_notes: 'Rangi is a deep-water fisher who works alone, sailing his canoe to th
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Fisher (deep water)
+proficient_skills: []
 appearance: A big, sun-darkened man with a fisher's scars and a quiet, solitary manner. He works alone
   and speaks little. His canoe is always loaded for deep water.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: thirty-nine
   body_build: big, broad, powerful
@@ -39,6 +45,7 @@ fears_or_limits:
   to him specifically
 current_state:
   location: location:tide-archipelago
+purview: []
 ---
 
 A deep-water fisher who has been catching impossible fish and recovering carved stone tablets from their bellies. The tablets form a message he cannot read, and he is afraid of what they say.

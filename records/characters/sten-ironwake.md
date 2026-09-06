@@ -11,10 +11,16 @@ gm_notes: 'Sten is a smith who works alongside Ragna, sharing a forge. His secre
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Smith
+proficient_skills: []
 appearance: Compact and soot-blackened, Sten works the bellows and the anvil with methodical precision.
   He wears a leather apron and iron-shield gloves, his hair tied back in a singed knot. He is quieter
   than Ragna and older, with the deliberate movements of a man who has learned that haste costs fingers.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 54
   body_build: compact and barrel-chested, powerful for his height
@@ -33,6 +39,7 @@ fears_or_limits:
 - that if he confronts Ragna directly, she will panic and do something desperate
 current_state:
   location: location:skaldvik
+purview: []
 ---
 
 A smith who works the forge with steady hands and honest iron, and who has been quietly covering for the smith across the fire — at a cost he cannot afford forever.

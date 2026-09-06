@@ -11,10 +11,16 @@ gm_notes: Pua is the keeper of the oldest songs — the deep-water songs that ca
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Elder wayfinder, song-keeper
+proficient_skills: []
 appearance: A small, weathered woman in simple island cloth, her arms covered in faded tattoos so old
   they have blurred to blue shadows. She carries a wayfinder's staff that is older than she is, dark with
   salt and handling. She moves slowly but her eyes are sharp.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: seventies
   body_build: small, wiry, weathered
@@ -36,6 +42,7 @@ fears_or_limits:
   are powerful, and power in the wrong hands is worse than no power.
 current_state:
   location: location:lani-atoll
+purview: []
 ---
 
 An elder wayfinder, the oldest in the Archipelago. A woman in her seventies who has sailed every route and sung every song. She taught Kai and most of the active wayfinders. She is small, quiet, and carries more knowledge than anyone realizes — including songs she has never taught because she is afraid of what they do.

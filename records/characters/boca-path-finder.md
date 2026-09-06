@@ -13,9 +13,15 @@ gm_notes: 'A human guide who knows paths through the rainforest that no map reco
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Rainforest guide and path-reader
+proficient_skills: []
 appearance: Wiry and alert, with a guide's economy of movement. Wears light travel gear and a machete.
   Barefoot — she says she can feel the path through her feet.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 48
   body_build: wiry and lean, built for endurance hiking
@@ -34,6 +40,7 @@ fears_or_limits:
 - That revealing her spirit-sight will make her a target for whoever or whatever is cutting the paths
 current_state:
   location: location:verdania
+purview: []
 ---
 
 A wiry human woman who guides travelers through the rainforest along paths that seem to appear only for her, and who never gets lost.

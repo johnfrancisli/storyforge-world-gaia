@@ -13,9 +13,15 @@ gm_notes: 'An eight-year-old Mizuhito boy who is one of the four river-born chil
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Child and river-born
+proficient_skills: []
 appearance: Small and sleek, perpetually damp. Always near the water's edge. Carries a piece of charcoal
   for drawing on bark.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 8
   body_build: small and slight, still growing
@@ -35,6 +41,7 @@ fears_or_limits:
 - The dark shapes he sometimes sees moving beneath the platform at night
 current_state:
   location: location:iara
+purview: []
 ---
 
 A small, blue-skinned Mizuhito boy who is always near the water, never cries, and has started drawing pictures of something he sees in his dreams.

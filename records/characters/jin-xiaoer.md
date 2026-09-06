@@ -11,9 +11,15 @@ gm_notes: An eight-year-old boy who is the Jin warlord's youngest son and is del
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Warlord's youngest son and hidden chi-prodigy
+proficient_skills: []
 appearance: Small and pale, wearing fine but plain Jin court children's clothes. Left leg braced with
   a wooden support. Always has a scroll.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 8
   body_build: small and slight for his age
@@ -32,6 +38,7 @@ fears_or_limits:
 - That his lameness means he will never matter to anyone
 current_state:
   location: location:jin-an
+purview: []
 ---
 
 A small, bright-eyed boy of eight with a wooden leg-brace who reads too much for his age and asks questions that unsettle adults.

@@ -10,10 +10,16 @@ gm_notes: 'Yuri''s bathhouse sits over a hot spring with an unusual property: th
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Bathhouse owner (yuya)
+proficient_skills: []
 appearance: She wears a crisp yukata and carries a stack of fresh towels. Her hair is pinned up practically,
   and she moves barefoot on the warm wooden floors with sure-footed ease. She greets every customer by
   name and remembers their preferred water temperature.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: mid-thirties
   body_build: medium, comfortable
@@ -31,6 +37,7 @@ fears_or_limits:
 - She has no proof — only a vision in steam — and accusing a shogunal advisor without evidence is suicide.
 current_state:
   location: location:tsuki-no-miyako
+purview: []
 ---
 
 The owner of Moonflow Bathhouse in the capital's merchant district, known for water that seems to wash away more than dirt. She runs a clean, well-regarded establishment and knows her patrons by their bathing habits.

@@ -12,9 +12,15 @@ gm_notes: 'A dancer whose performances are considered the most beautiful in the 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Ceremonial dancer and trance-channel
+proficient_skills: []
 appearance: Graceful and expressive, with a body that seems to always be in motion even when still. Wears
   feathered dance-cloth and ankle rattles. Painted stars across her cheekbones.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 27
   body_build: lithe and flexible, dancer's build
@@ -33,6 +39,7 @@ fears_or_limits:
 - That the spirit will hurt someone through her body while she is unconscious
 current_state:
   location: location:verdania
+purview: []
 ---
 
 A mesmerizing human dancer whose ceremonial performances leave audiences in tears, healed, or shaken with unexpected visions.

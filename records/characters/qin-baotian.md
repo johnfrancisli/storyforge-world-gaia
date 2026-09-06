@@ -10,9 +10,15 @@ gm_notes: 'A Jin army general who has won seven battles and lost none. The secre
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Jin army general and unknowing beneficiary of chi-warfare
+proficient_skills: []
 appearance: Commanding and immaculate in Jin-state military uniform of dark green and gold. Carries a
   legendary war-halberd.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 43
   body_build: tall, broad, and imposing
@@ -31,6 +37,7 @@ fears_or_limits:
 - That the warlord views his popularity among soldiers as a threat
 current_state:
   location: location:jin-an
+purview: []
 ---
 
 A celebrated Jin general, tall and commanding, whose string of victories has made him the warlord's most trusted military leader.

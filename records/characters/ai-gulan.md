@@ -11,9 +11,15 @@ gm_notes: A servant in the Wei warlord's household who has been spying for the J
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Palace servant and coerced Jin spy
+proficient_skills: []
 appearance: Plain and deliberately forgettable, wearing servant's gray. Moves silently and keeps her head
   down.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 41
   body_build: thin and worn
@@ -32,6 +38,7 @@ fears_or_limits:
 - The Wei warlord discovering her espionage and executing her publicly
 current_state:
   location: location:jin-an
+purview: []
 ---
 
 A quiet, unobtrusive servant in the Wei warlord's household who cleans rooms, serves tea, and is never noticed or remembered.

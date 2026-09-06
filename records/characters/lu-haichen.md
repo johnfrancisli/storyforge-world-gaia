@@ -11,9 +11,15 @@ gm_notes: A martial arts teacher at the Great Academy who teaches swordsmanship 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Martial arts teacher and philosophical pacifist
+proficient_skills: []
 appearance: Centered and unhurried, wearing simple Academy gray. Always has a wooden practice sword at
   his side.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 39
   body_build: lean and whipcord-strong
@@ -32,6 +38,7 @@ fears_or_limits:
 - That his pacifism is actually cowardice he has dressed in philosophy
 current_state:
   location: location:jin-an
+purview: []
 ---
 
 A calm, disciplined sword instructor at the Great Academy known for a fighting style that defeats opponents without lethal force.

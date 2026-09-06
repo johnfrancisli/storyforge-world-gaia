@@ -13,10 +13,16 @@ gm_notes: 'The owner of The Amber Lamp, the oldest coffee house in Zaffar, where
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Coffee house owner, keeper of the neutrality tradition
+proficient_skills: []
 appearance: Dignified and welcoming in a long apron over dark robes, she moves between tables with a coffee
   pot in one hand and a stack of cups in the other. The coffee house is her life's work, and she treats
   every guest as if the Pact depends on their comfort.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 53
   body_build: tall and stately
@@ -36,6 +42,7 @@ fears_or_limits:
 - That she will lose the coffee house and the community it holds together
 current_state:
   location: location:zaffar
+purview: []
 ---
 
 The owner of The Amber Lamp coffee house, a domed, lantern-lit space where merchants, travelers, and occasionally djinn gather over thick coffee. She knows every regular by name and brew by preference.

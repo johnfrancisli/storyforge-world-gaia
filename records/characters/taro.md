@@ -12,10 +12,16 @@ gm_notes: Taro knows about Iso's (character:tsu-iso-fishwife) deal with the umi-
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Fisherman (ryoshi)
+proficient_skills: []
 appearance: He wears a salt-stained work kimono with rubber-soled boots, a fishing knife at his belt.
   His skin is weathered dark from decades of sea wind, and he squints from permanently salt-reddened eyes.
   He smells of fish and cheap sake, and his hands shake when he's not holding something.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: late fifties
   body_build: wiry, sea-worn
@@ -35,6 +41,7 @@ fears_or_limits:
   she may kill him.
 current_state:
   location: location:tsukuyomi
+purview: []
 ---
 
 An aging fisherman in a coastal village in Tsukuyomi, known for bringing in the largest catches year after year. He works the pre-dawn boats alone and returns with holds that shouldn't be possible for a single man. He drinks more than he used to and doesn't look people in the eye.

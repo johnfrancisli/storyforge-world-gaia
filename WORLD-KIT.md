@@ -585,6 +585,21 @@ writing the conditions from which behaviour follows.
   character whose race or gender has not been decided leaves the field empty,
   which says so honestly.
 
+### The four prose fields, which are not interchangeable
+
+- **`summary`** — two sentences a stranger could observe. This reaches
+  everything, so it is the one that must be right.
+- **`biography`** — where they came from and how they got here.
+- **`personality`** — how they carry themselves, and what they will not do.
+- **`key_phrases`** — things only this person would say. The narrator writes
+  dialogue from these, so three sharp ones beat a paragraph of description.
+
+### Where they stand
+
+`current_state.location` is where they are. **`purview`** is the places they are
+responsible for without standing in — a tavern-keeper's cellar, a captain's
+ship. A character can be found in one and answerable for several.
+
 ### What makes them act
 
 So four fields carry most of the weight:

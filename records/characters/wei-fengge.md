@@ -10,9 +10,15 @@ gm_notes: A calligrapher of extraordinary talent whose brushwork is said to carr
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Master calligrapher and unwitting chi-cultivator
+proficient_skills: []
 appearance: Refined and expressive, wearing flowing Wei-state blue robes. Often has ink on her sleeves
   and jaw.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 33
   body_build: willowy, with long expressive hands
@@ -31,6 +37,7 @@ fears_or_limits:
 - Someone discovering her ability and weaponizing it further
 current_state:
   location: location:jin-an
+purview: []
 ---
 
 A celebrated calligrapher in Wei whose work hangs in government halls and is said to stir the heart of anyone who reads it.

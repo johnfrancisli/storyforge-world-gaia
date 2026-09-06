@@ -10,8 +10,14 @@ gm_notes: The wife of a Chu general who has been missing on the northern front f
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: General's wife and secret spymaster
+proficient_skills: []
 appearance: Regal and composed, always in Chu-state crimson and gold. Carries a war-fan given by her husband.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 38
   body_build: tall and upright
@@ -30,6 +36,7 @@ fears_or_limits:
 - The Chu warlord discovering she commands the spy network and viewing her as a threat
 current_state:
   location: location:jin-an
+purview: []
 ---
 
 A dignified general's wife in Chu who manages her absent husband's household with quiet competence and is respected by the military wives' circle.

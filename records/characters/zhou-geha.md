@@ -10,8 +10,14 @@ gm_notes: 'A river-folk (Mizuhito) canal pilot who knows every underwater passag
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Canal pilot and underground smuggler of refugees
+proficient_skills: []
 appearance: Sun-darkened and river-worn, wearing water-resistant hemp clothing and a wide bamboo hat.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 36
   body_build: broad-shouldered and strong-armed
@@ -30,6 +36,7 @@ fears_or_limits:
 - That the boy she loves will learn she is 'Silent Rain' and feel betrayed by the secret
 current_state:
   location: location:sangguo
+purview: []
 ---
 
 A weathered Mizuhito boat pilot who navigates the canals between the warring states with uncanny knowledge of hidden waterways.

@@ -12,10 +12,16 @@ gm_notes: A male stable hand who tends the camels and horses of a binding family
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Stable hand, djinn-marked
+proficient_skills: []
 appearance: Quiet and scarred in stable clothes, his hands rough from grooming and mucking. He moves among
   the animals with the gentleness of someone who finds peace in their company. He rarely speaks above
   a murmur and startles at sudden sounds.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 38
   body_build: lean, weathered
@@ -35,6 +41,7 @@ fears_or_limits:
   actually call
 current_state:
   location: location:zaffar
+purview: []
 ---
 
 A quiet, scarred stable hand who tends the camels and horses of a binding family's estate. He moves among the animals with the gentleness of someone who finds peace in their company.

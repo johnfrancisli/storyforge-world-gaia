@@ -12,11 +12,17 @@ gm_notes: 'Haldur is a rune carver who cuts memorial stones — the standing sto
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Rune Carver / Stone Carver
+proficient_skills: []
 appearance: Quiet and precise, Haldur wears a stonecutter's leather apron and works with chisels and a
   small hammer. His hands are dusted with stone powder, and his clothes are perpetually grey with granite
   dust. He speaks in a low voice and has the patient stillness of a man who works with things that outlast
   lives.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 49
   body_build: medium height, thick-armed from stone work
@@ -35,6 +41,7 @@ fears_or_limits:
 - that the Althing will investigate one of the false stones and trace it back to him
 current_state:
   location: location:hrafnland
+purview: []
 ---
 
 A rune carver whose stones stand at crossroads and fjord mouths throughout Hrafnland, memorializing the dead — and, for the right price, a few who are still very much alive.

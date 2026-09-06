@@ -12,10 +12,16 @@ gm_notes: Sho discovered Saya's (character:tsu-saya-brewer) secret spring beneat
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Sake brewer's apprentice (deshi)
+proficient_skills: []
 appearance: He wears a brewery apron over a plain kimono, sleeves rolled to the elbows. He's lean and
   energetic, always doing something with his hands. He smells of koji and river water, and he grins when
   he's caught doing something he shouldn't.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: nineteen
   body_build: lean, energetic
@@ -34,6 +40,7 @@ fears_or_limits:
   a danger he doesn't understand.
 current_state:
   location: location:haru-shrine-town
+purview: []
 ---
 
 A young apprentice to the sake brewer Saya in Haru's Shrine Town, eager and slightly reckless. He arrives before his master and leaves after her, driven by curiosity about everything she won't explain. He has a bright smile and a talent for finding trouble.

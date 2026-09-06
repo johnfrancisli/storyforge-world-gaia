@@ -11,10 +11,16 @@ gm_notes: Machi trades in rare materials — shrine-grade lumber, forge iron, an
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Merchant (akindo)
+proficient_skills: []
 appearance: She wears a well-tailored kimono in muted greens and carries an abacus and a lacquered ledger
   box. She conducts business over tea in her warehouse office, surrounded by crates. She smiles when she's
   about to raise the price and goes silent when she's calculating.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: late forties
   body_build: compact, erect
@@ -31,6 +37,7 @@ fears_or_limits:
 - If the shogunate finds her ledgers first, she will be tried as a collaborator.
 current_state:
   location: location:tsuki-no-miyako
+purview: []
 ---
 
 A sharp-eyed merchant in the capital who deals in specialty goods — lumber, metals, textiles — and always seems to know where to find what no one else can. She keeps meticulous ledgers and never negotiates without a fan in front of her face.

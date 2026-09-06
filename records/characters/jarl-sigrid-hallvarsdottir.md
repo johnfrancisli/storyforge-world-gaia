@@ -8,10 +8,16 @@ gm_notes: Sigrid's father was killed by a frost giant twelve years ago during a 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Jarl of Skaldvik
+proficient_skills: []
 appearance: A tall, broad woman in fur-trimmed wool and iron, with a seax knife at her belt and a runic
   armband on her left wrist. She fills a room. Her hair is braided in the warrior style and her laugh
   carries across a mead hall.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: mid-forties
   body_build: tall, broad-shouldered, strong
@@ -29,6 +35,7 @@ fears_or_limits:
   it.
 current_state:
   location: location:skaldvik
+purview: []
 ---
 
 The jarl of Skaldvik, the largest trading port in Hrafnland. A woman in her forties who inherited the jarldom after her father's death and has held it through two Althing challenges. She is direct, fair, and louder than she needs to be — a habit in a culture that respects volume.

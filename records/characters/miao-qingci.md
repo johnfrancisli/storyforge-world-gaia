@@ -11,9 +11,15 @@ gm_notes: 'A physician at the Great Academy''s medical hall who specializes in c
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Chi-pathology researcher and physician
+proficient_skills: []
 appearance: Neat and focused, wearing Academy medical robes of gray-white. Carries a diagnostic case with
   chi-sensing tools.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 36
   body_build: medium and precise in movement
@@ -32,6 +38,7 @@ fears_or_limits:
 - That the treatment requires a qilin spirit's willing cooperation, which may be impossible to obtain
 current_state:
   location: location:jin-an
+purview: []
 ---
 
 A precise, compassionate Academy physician who researches chi-based illnesses and treats patients that other healers cannot diagnose.

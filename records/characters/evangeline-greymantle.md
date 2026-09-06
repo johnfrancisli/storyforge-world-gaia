@@ -10,9 +10,15 @@ gm_notes: Evangeline is a priest of the Temple of the Sacred Flame who genuinely
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Priest
+proficient_skills: []
 appearance: Serene and composed, Evangeline wears the white and gold robes of the Sacred Flame order.
   She has kind eyes and a measured voice that carries natural authority.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 35
   body_build: medium height, graceful
@@ -30,6 +36,7 @@ fears_or_limits:
 - that exposing the scandal will destroy the congregation's faith in the temple itself
 current_state:
   location: location:crownhaven
+purview: []
 ---
 
 A devout priest whose faith in the Sacred Flame is unshakable — but whose faith in the temple's leadership is crumbling with every secret she uncovers.

@@ -10,10 +10,16 @@ gm_notes: Roderick is not as simple as he appears. He plays the blunt soldier to
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Prince of Valdris, northern commander
+proficient_skills: []
 appearance: A broad, battle-scarred man in plate and mail, a war-hammer at his side. He stands like someone
   who expects rooms to accommodate him. His beard is cropped military-short. He shakes hands too firmly,
   on purpose.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: late thirties
   body_build: broad, muscular, heavy
@@ -34,6 +40,7 @@ fears_or_limits:
   research.
 current_state:
   location: location:crownhaven
+purview: []
 ---
 
 The king's eldest son, in his late thirties. A soldier who commands the kingdom's northern garrison and the loyalty of most of the old military. He is blunt, direct, and more intelligent than he lets on. He wants the throne and believes he is the only one who can hold it.

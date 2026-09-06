@@ -13,9 +13,15 @@ gm_notes: 'A serpent beast-kin spirit-talker who serves as intermediary between 
 aliases: []
 race: ''
 gender: ''
+heritage: ''
+social_station: ''
 role: Spirit-talker and serpent-pact intermediary
+proficient_skills: []
 appearance: Elegant and unnervingly still, with smooth green-scaled skin and a gaze that rarely blinks.
   Wears minimal wrapped garments of dark river-silk.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 41
   body_build: tall and fluidly proportioned, snake-like in stillness
@@ -35,6 +41,7 @@ fears_or_limits:
 - That freeing the drowned woman's spirit will unleash something worse
 current_state:
   location: location:iara
+purview: []
 ---
 
 A serene serpent beast-kin who speaks in a low, sibilant voice and serves as the bridge between the living and the ancient serpent-spirits of the river.
