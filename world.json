@@ -6,7 +6,7 @@
     "",
     "Every block has a `_help` key explaining what it is and what it may contain.",
     "`_help` keys are stripped on import; leave them or delete them, it makes no",
-    "difference. Every value below is a PLACEHOLDER — replace all of it.",
+    "difference.",
     "",
     "`_layer` on each block says who owns it (see LAYERS.md):",
     "  world  — yours, nothing else has an opinion",
@@ -29,10 +29,10 @@
     "_status": "live",
     "id": "world-4596a5b0-2b95-4aad-86b2-779e97d470e6",
     "name": "Gaia",
-    "tagline": "One line a player sees before their first turn.",
-    "description": "Two or three sentences. What this place is, and what is already wrong with it.",
+    "tagline": "Seven nations. Seven magics. One world worth living in.",
+    "description": "A world of seven great nations, each born from a different culture and each touched by a different kind of magic. Dragons, yokai, djinn, and spirits are part of daily life. The peace is fraying, the Old Roads are broken, and somewhere a soul new to this world is about to choose where to begin.",
     "genre": "Fantasy",
-    "theme": "grounded",
+    "theme": "cozy",
     "narration_model": "narrator-large",
     "image_profile": "oneobsession-v23"
   },
@@ -51,18 +51,21 @@
     ],
     "_layer": "world",
     "_status": "stored",
-    "register": "Plain, close, unhurried. Concrete nouns. No ornament for its own sake.",
+    "register": "Warm, close, unhurried. Concrete nouns, plain verbs. The narrator notices small things — the smell of tea, light through a paper screen, the sound of a wooden bridge under weight. It does not rush. It lets a moment sit before moving on. It is fond of this world without being sentimental.",
     "narrator": {
       "name": "",
       "who_they_are": "",
       "what_they_cannot_know": ""
     },
     "never": [
-      "No prophecy.",
-      "Nobody explains how the world works mid-scene.",
-      "No scene closes on weather."
+      "No prophecy. No one is chosen. The world does not have a destiny for anyone.",
+      "No mid-scene worldbuilding exposition. Characters do not explain how magic works unless asked.",
+      "No scene closes on weather alone. Close on something alive — a person acting, a decision landing, a door left open.",
+      "No narrative omniscience about what a character feels. Describe what is visible, not what is private.",
+      "No grimdark narration. The world can be cruel, but the narration is not cruel.",
+      "No fourth-wall breaks. The narrator never addresses the player."
     ],
-    "sample_paragraph": "Write four sentences here, in the voice you want. This does more work than every adjective above it."
+    "sample_paragraph": "The road to Haru's shrine climbs through cedar shade, the air cool and smelling of moss even in summer. A fox watches from the stones near the second torii gate, not moving, its eyes the color of dark tea. Below, the town spreads out in rooftops of grey tile and garden green, smoke rising from the bathhouse chimney in a thin, patient line. Someone is practicing the shamisen, and the notes drift up the hill like they have nowhere else to be."
   },
   "art": {
     "_help": [
@@ -80,8 +83,8 @@
     ],
     "_layer": "world, except entry_type_styles which is kit",
     "_status": "live",
-    "global_prompt": "Describe the medium, palette, light and finish. Long is fine; this is a tag block, not a sentence.",
-    "negative_prompt": "",
+    "global_prompt": "painterly anime illustration, warm natural light, soft atmospheric depth, detailed backgrounds with foliage and architecture, muted earth palette with warm gold accents, visible brush texture, gentle color gradients, studio-quality lighting, attention to daily-life details, food and interiors rendered with care, no text, no watermark, no border",
+    "negative_prompt": "photorealistic, 3d render, dark grimdark palette, excessive gore, deformed hands, extra fingers, text overlays, watermark, signature, low detail background, flat shading",
     "entry_type_styles": {}
   },
   "calendar": {
@@ -93,21 +96,21 @@
     ],
     "_layer": "world",
     "_status": "live",
-    "era_label": "AM",
-    "year": 412,
+    "era_label": "AG",
+    "year": 587,
     "months": [
-      "Month One",
-      "Month Two",
-      "Month Three",
-      "Month Four",
-      "Month Five",
-      "Month Six",
-      "Month Seven",
-      "Month Eight",
-      "Month Nine",
-      "Month Ten",
-      "Month Eleven",
-      "Month Twelve"
+      "Frostwane",
+      "Seedmoon",
+      "Blossom",
+      "Greenreach",
+      "Highsun",
+      "Harvest",
+      "Amberfall",
+      "Mistveil",
+      "Frost",
+      "Deepwinter",
+      "Snowend",
+      "Thaw"
     ],
     "seasons": [
       "Spring",
@@ -125,9 +128,9 @@
       "Night"
     ],
     "start": {
-      "year": 412,
-      "month_index": 8,
-      "day": 15,
+      "year": 587,
+      "month_index": 2,
+      "day": 1,
       "phase": "Dawn"
     }
   },
@@ -147,39 +150,39 @@
     "_status": "live",
     "set": [
       {
-        "id": "tone-one",
-        "label": "Placeholder One",
-        "summary": "What a scene tagged this feels like."
+        "id": "wonder",
+        "label": "Wonder",
+        "summary": "The feeling of seeing a new place for the first time — a vista, a city, a creature, a sky that is different from the one you were born under."
       },
       {
-        "id": "tone-two",
-        "label": "Placeholder Two",
-        "summary": ""
+        "id": "warmth",
+        "label": "Warmth",
+        "summary": "A cozy moment — a shared meal, a bath, a conversation by firelight, the quiet pleasure of being somewhere safe."
       },
       {
-        "id": "tone-three",
-        "label": "Placeholder Three",
-        "summary": ""
+        "id": "tension",
+        "label": "Tension",
+        "summary": "Something is about to break. The air before the argument, the silence before the attack, the pause before a decision that cannot be undone."
       },
       {
-        "id": "tone-four",
-        "label": "Placeholder Four",
-        "summary": ""
+        "id": "peril",
+        "label": "Peril",
+        "summary": "Genuine danger. The ground is not safe. The body is at risk. Something here can hurt you."
       },
       {
-        "id": "tone-five",
-        "label": "Placeholder Five",
-        "summary": ""
+        "id": "intrigue",
+        "label": "Intrigue",
+        "summary": "Politics, secrets, hidden motives. The sense that what is being said is not what is meant, and that the real conversation is happening somewhere else."
       },
       {
-        "id": "tone-six",
-        "label": "Placeholder Six",
-        "summary": ""
+        "id": "sorrow",
+        "label": "Sorrow",
+        "summary": "Loss, longing, things that cannot be undone. The weight of what was and is no longer."
       },
       {
-        "id": "tone-seven",
-        "label": "Placeholder Seven",
-        "summary": ""
+        "id": "resolve",
+        "label": "Resolve",
+        "summary": "The moment before a decision. Not the decision itself — the breath before it, when the path is clear and the feet have not yet moved."
       }
     ]
   },
@@ -192,9 +195,11 @@
     "_layer": "world",
     "_status": "live",
     "terms": {
-      "the currency": "PLACEHOLDER",
-      "the ruling body": "PLACEHOLDER",
-      "what people call outsiders": "PLACEHOLDER"
+      "the currency": "trade marks — small stamped metal discs accepted across all seven nations by weight",
+      "the ruling body": "varies by nation — shogun, king, warlord, jarl, council, or chief depending on where you are",
+      "what people call outsiders": "farfolk — used everywhere, mildly informal, not insulting",
+      "what people call the reincarnated": "god-touched — used in most nations; sometimes a compliment, sometimes a warning",
+      "what people call the Old Roads": "the Old Roads — no other name; everyone knows what you mean"
     }
   },
   "locations": {
@@ -213,32 +218,207 @@
     "_status": "live",
     "entries": [
       {
-        "id": "location:region-one",
-        "name": "PLACEHOLDER Region",
+        "id": "location:heavenly-realm",
+        "name": "The Heavenly Realm",
         "visibility": "shared",
         "payload": {
-          "summary": "One paragraph. What it is, who holds it, what it is like to be there.",
+          "summary": "A quiet, luminous place above the clouds. Floating islands draped in mist, gardens that bloom in every season at once, and a pavilion at the center that looks down through layers of cloud to the world below. From the pavilion you can see all seven nations spread out like a map. The air is warm without being hot, still without being stale. It is mostly empty, and that emptiness is intentional — this is a place of choosing, not of living.",
           "parent_location_id": null,
-          "jurisdiction": "Who rules here, and how lightly.",
-          "terrain": "",
+          "jurisdiction": "No one. The guide tends this place, but they do not rule it.",
+          "terrain": "Floating islands, gardens, mist, stone pavilion",
           "resources": []
         }
       },
       {
-        "id": "location:opening-scene",
-        "name": "PLACEHOLDER Opening Place",
+        "id": "location:tsukuyomi",
+        "name": "Tsukuyomi Shogunate",
         "visibility": "shared",
         "payload": {
-          "summary": "Where the first turn happens. Be concrete: light, sound, who else is here.",
-          "parent_location_id": "location:region-one",
-          "jurisdiction": "",
-          "map_size_ft": {
-            "width": 72,
-            "height": 48
-          },
-          "rooms": [],
-          "portals": [],
-          "pins": []
+          "summary": "A land of shrine-towns, hot-spring villages, terraced rice valleys, and castle-cities held by samurai clans. The supernatural is woven into daily life — fox spirits run message shops, tengu teach swordsmanship in mountain dojos, and the shrine network maintains the wards that keep wild yokai at a distance from settled areas. Cedar mountains, grey-tile rooftops, paper screens, the smell of incense and moss.",
+          "parent_location_id": null,
+          "jurisdiction": "The Ashikara shogunate, nominally. The clans hold real power in their territories.",
+          "terrain": "Mountains, cedar forests, river valleys, coastlines",
+          "resources": ["rice", "cedar timber", "silver", "silk"]
+        }
+      },
+      {
+        "id": "location:tsuki-no-miyako",
+        "name": "Tsuki-no-Miyako",
+        "visibility": "shared",
+        "payload": {
+          "summary": "The capital of the Tsukuyomi Shogunate. A castle-city of grey tile and white plaster, built around the shogun's palace on its hill. The streets are clean, the shrines are well-kept, and the ward network hums with maintained power. Samurai walk the main streets; merchants crowd the river district; the tea houses near the south gate are where deals are made quietly. The old shogun has not been seen in public this season.",
+          "parent_location_id": "location:tsukuyomi",
+          "jurisdiction": "Direct rule of the Ashikara shogunate. The city magistrate handles daily governance.",
+          "terrain": "Hilltop palace, river district, lowland merchant quarters",
+          "resources": []
+        }
+      },
+      {
+        "id": "location:haru-shrine-town",
+        "name": "Haru's Shrine Town",
+        "visibility": "shared",
+        "payload": {
+          "summary": "A mountain hot-spring village built along a single road that climbs from the valley to an old shrine at the top. Cedar shade, moss on the stone steps, steam rising from the bathhouse. A fox watches from the torii gate. The shrine keeper, Miko Sora, maintains the ward for this stretch of the Cedar Road. Shamisen music drifts down from somewhere above. The town has a tea house, a general store, a stable, and about two hundred people who mostly know each other.",
+          "parent_location_id": "location:tsukuyomi",
+          "jurisdiction": "Ashikara territory, but the nearest magistrate is a day's ride away. The shrine keeper is the closest thing to authority here.",
+          "terrain": "Mountain slope, cedar forest, hot springs",
+          "resources": ["hot spring water", "cedar", "mountain herbs"]
+        }
+      },
+      {
+        "id": "location:valdris",
+        "name": "Kingdom of Valdris",
+        "visibility": "shared",
+        "payload": {
+          "summary": "A kingdom of stone castles, green hills, deep forests, and mountain passes where dragons roost. Humans, elves, dwarves, and halflings live here in an uneasy alliance held together by old oaths. The dragon-bonded knights — once the kingdom's strongest defenders — have not received a new bond in a generation. The kingdom is old and it knows it. Stone and banners, the sound of hooves on a bridge, wind in the high towers.",
+          "parent_location_id": null,
+          "jurisdiction": "The Crown of Valdris, seated in Crownhaven. Noble houses hold territories under the crown's authority.",
+          "terrain": "Rolling hills, deep forests, mountains, rivers",
+          "resources": ["iron", "timber", "grain", "dragonbone"]
+        }
+      },
+      {
+        "id": "location:crownhaven",
+        "name": "Crownhaven",
+        "visibility": "shared",
+        "payload": {
+          "summary": "The capital of Valdris. A city of white stone and seven towers, built on a hill above the Greywine River. The king's castle dominates the skyline, its banners worn by weather. The knightly order's chapter house stands near the castle gate, quieter than it used to be. The market square is still busy — Valdris is prosperous — but the conversations in the taverns turn to succession and the dragons' silence. About a hundred thousand people live here.",
+          "parent_location_id": "location:valdris",
+          "jurisdiction": "Direct rule of the Crown. The city watch handles daily order.",
+          "terrain": "Hilltop city, river port, surrounding farmland",
+          "resources": []
+        }
+      },
+      {
+        "id": "location:dragonrest",
+        "name": "Dragonrest Fortress",
+        "visibility": "shared",
+        "payload": {
+          "summary": "The mountain fortress of the dragon-bonded knightly order, built into the peaks above Crownhaven. Stone walls scarred by dragonfire, a courtyard wide enough for a dragon to land, and a hall where the bonded knights once gathered. The hall is half-empty now. The old knights maintain the traditions; the younger ones question them. The dragons roost higher in the mountains and do not come down.",
+          "parent_location_id": "location:valdris",
+          "jurisdiction": "Self-governed by the knightly order under a charter from the Crown. The Crown has not tested that independence in decades.",
+          "terrain": "Mountain peak, stone fortress, dragon roosts above",
+          "resources": []
+        }
+      },
+      {
+        "id": "location:sangguo",
+        "name": "Sangguo",
+        "visibility": "shared",
+        "payload": {
+          "summary": "A vast land of river valleys, terraced mountains, silk-road trade, and walled cities, held in an uneasy truce between three states: Jin in the north, Chu in the south, and Wei in the west. Politics is the primary battlefield. Martial arts and chi cultivation are practiced by soldiers and monks. Scholar-strategists advise warlords. Silk and lacquer, the sound of a guqin at night, ink on rice paper.",
+          "parent_location_id": null,
+          "jurisdiction": "Divided between three states: Jin, Chu, and Wei. Each is ruled by a warlord and their court.",
+          "terrain": "River valleys, terraced mountains, plains, highland plateaus",
+          "resources": ["silk", "grain", "iron", "jade", "tea"]
+        }
+      },
+      {
+        "id": "location:jin-an",
+        "name": "Jin'an",
+        "visibility": "shared",
+        "payload": {
+          "summary": "The northern capital of Jin, and the largest city in Gaia. Two hundred thousand people live within its walls. Wide boulevards, canal crossings, the warlord's palace on the central hill, and the Great Academy where scholars learn strategy and philosophy. The markets are enormous — silks from Chu, iron from Wei, spices from Al-Khayzar via the Old Road. The truce is three years old, and the younger officers at the Academy speak openly about how it should end.",
+          "parent_location_id": "location:sangguo",
+          "jurisdiction": "Direct rule of the Jin warlord. City magistrates handle daily governance; the warlord's court handles everything else.",
+          "terrain": "Walled city, canals, hilltop palace, surrounding farmland",
+          "resources": []
+        }
+      },
+      {
+        "id": "location:verdania",
+        "name": "Verdania",
+        "visibility": "shared",
+        "payload": {
+          "summary": "A vast rainforest threaded by rivers, where stone cities are built into the canopy and the jungle is alive. No single government — a network of tribes and city-states connected by river trade and shared spiritual tradition. Temple cities of an old civilization stand deep in the jungle, half-reclaimed, still humming with power. Green light through leaves, the sound of water and birds, painted skin and featherwork.",
+          "parent_location_id": null,
+          "jurisdiction": "No central authority. Each tribe and city-state is self-governing. Disputes are settled by river-court or shamanic mediation.",
+          "terrain": "Rainforest, rivers, waterfalls, temple ruins",
+          "resources": ["rare herbs", "feathers", "river fish", "spirit-touched stone"]
+        }
+      },
+      {
+        "id": "location:iara",
+        "name": "Iara",
+        "visibility": "shared",
+        "payload": {
+          "summary": "The river capital of Verdania, built on stilts over a great river. Houses of woven wood and painted clay, connected by walkways and canoe bridges. The market floats — boats and rafts selling fish, fruit, feathers, and herbs. The river-folk are the majority here. The shamans' hall sits at the center of the city, the largest structure, where the elder shamans maintain the oldest spirit-pacts. The river is rising, and the lowest walkways are already underwater at high tide.",
+          "parent_location_id": "location:verdania",
+          "jurisdiction": "Governed by a council of tribal elders and the shamans' hall. Decisions are made by consensus, slowly.",
+          "terrain": "River city on stilts, floating market, surrounding jungle",
+          "resources": []
+        }
+      },
+      {
+        "id": "location:hrafnland",
+        "name": "Hrafnland",
+        "visibility": "shared",
+        "payload": {
+          "summary": "A land of fjords, longships, sea-sagas, and the long dark of winter. No king — each fjord is ruled by a jarl, and the jarls meet once a year at the Althing to settle disputes and make laws. Traders, raiders, and storytellers who believe a life worth living is one worth singing about. Frost giants live in the deep mountains and are best left alone. Cold, salt, wood-smoke, the creak of a longship, aurora over black water.",
+          "parent_location_id": null,
+          "jurisdiction": "Each fjord is ruled by a jarl. The Althing settles disputes between jarls once a year.",
+          "terrain": "Fjords, mountains, sea, tundra",
+          "resources": ["fish", "whale oil", "iron", "furs", "runestones"]
+        }
+      },
+      {
+        "id": "location:skaldvik",
+        "name": "Skaldvik",
+        "visibility": "shared",
+        "payload": {
+          "summary": "The largest trading port in Hrafnland. A fjord town of longhouses and warehouses, shipyards and mead halls, built where the fjord meets the open sea. Longships line the dock. Traders from Valdris and the Tide Archipelago exchange goods here — iron for spice, furs for silk. Jarl Sigrid Hallvarsdottir holds this fjord, and her mead hall is the loudest place in town on a winter night. The aurora is bright this year, and the volur say that means something.",
+          "parent_location_id": "location:hrafnland",
+          "jurisdiction": "Ruled by Jarl Sigrid Hallvarsdottir. The jarl's household guards keep order; the Althing handles disputes between fjords.",
+          "terrain": "Fjord port, longhouses, shipyards, surrounding cliffs",
+          "resources": []
+        }
+      },
+      {
+        "id": "location:al-khayzar",
+        "name": "Al-Khayzar",
+        "visibility": "shared",
+        "payload": {
+          "summary": "A land of desert city-states, spice markets, oasis gardens, and starlit caravanserais. Djinn walk the markets in human form. A confederation of city-states bound by trade and the Pact of the Lamp — an agreement that no city will war upon another, enforced by djinn older than any dynasty. Golden, warm, perfumed. The sound of water in a fountain, spice and cardamom, stars over sand.",
+          "parent_location_id": null,
+          "jurisdiction": "A confederation of city-states, each self-governed, bound by the Pact of the Lamp. The djinn enforce the pact.",
+          "terrain": "Desert, oases, mountain passes, coastal trade ports",
+          "resources": ["spices", "salt", "dates", "precious stones", "djinn-contracts"]
+        }
+      },
+      {
+        "id": "location:zaffar",
+        "name": "Zaffar",
+        "visibility": "shared",
+        "payload": {
+          "summary": "The spice capital of Al-Khayzar. A city of domes and minarets, sun-baked sandstone walls, and narrow streets that open suddenly into courtyard markets. The Star Bazaar opens after sundown and runs until dawn — lanterns, silk canopies, the smell of cardamom and saffron. The old binding families have their estates in the high city, where the contracts with djinn are kept in vaults. The Pact of the Lamp holds here, and the djinn who enforce it are visible in the market — a figure of blue fire haggling over the price of dates is not unusual.",
+          "parent_location_id": "location:al-khayzar",
+          "jurisdiction": "Governed by the Council of Binding Families, under the Pact of the Lamp. The djinn enforce the pact when called upon.",
+          "terrain": "Desert city, walled quarters, oasis, surrounding dunes",
+          "resources": []
+        }
+      },
+      {
+        "id": "location:tide-archipelago",
+        "name": "The Tide Archipelago",
+        "visibility": "shared",
+        "payload": {
+          "summary": "A warm-water world of hundreds of islands, big and small, connected by wayfinding and song. The voyagers are the greatest navigators in Gaia, reading stars, currents, and birds across open water. No central authority — each island has its own chief or council, and the wayfinder guilds serve as messengers, diplomats, and historians. The sea levels are rising, and the voyagers are being pushed inward. Warm, salt, open. The sound of waves on a reef, stars and warm wind, tattoo patterns and carved wood.",
+          "parent_location_id": null,
+          "jurisdiction": "Each island is self-governed by a chief or council. The wayfinder guilds mediate between islands.",
+          "terrain": "Islands, reefs, open ocean, volcanic peaks",
+          "resources": ["fish", "pearls", "tropical fruit", "volcanic stone"]
+        }
+      },
+      {
+        "id": "location:lani-atoll",
+        "name": "Lani Atoll",
+        "visibility": "shared",
+        "payload": {
+          "summary": "The central gathering island of the Tide Archipelago. A ring of low islands around a calm lagoon, connected by canoe bridges and walkways. The great meeting house sits on the largest island, open-walled, facing the sea. This is where the wayfinder guilds meet and where inter-island disputes are settled. The shore has crept inward — the outer islets that used to hold fishing huts are underwater now. The lagoon is still beautiful, turquoise and calm, but the people here talk about where they will go when the water comes for the meeting house.",
+          "parent_location_id": "location:tide-archipelago",
+          "jurisdiction": "Governed by a council of island chiefs, with the wayfinder guilds as advisors and mediators.",
+          "terrain": "Coral atoll, lagoon, low islands, canoe bridges",
+          "resources": []
         }
       }
     ]
@@ -256,17 +436,87 @@
     "_status": "stored",
     "entries": [
       {
-        "id": "org:placeholder",
-        "name": "PLACEHOLDER Faction",
+        "id": "org:ashikara-shogunate",
+        "name": "Ashikara Shogunate",
         "visibility": "shared",
         "payload": {
-          "summary": "What they are and what they are for.",
-          "seat": "location:region-one",
-          "wants": "The thing they are trying to get.",
+          "summary": "The ruling shogunate of Tsukuyomi. The Ashikara clan has held the shogunate for four generations. The current shogun is elderly and has not named an heir. The clan's power rests on the shrine network and the loyalty of the samurai clans, both of which are thinner than they used to be.",
+          "seat": "location:tsuki-no-miyako",
+          "wants": "To maintain the shogunate's authority over the clans without provoking a succession crisis.",
+          "pressure": "steady",
+          "holdings": ["location:tsukuyomi"]
+        }
+      },
+      {
+        "id": "org:dragon-order",
+        "name": "Order of the Dragon Bond",
+        "visibility": "shared",
+        "payload": {
+          "summary": "The dragon-bonded knightly order of Valdris. Once the kingdom's strongest defenders, now fracturing between reformers who want to find new ways and traditionalists who refuse to change the old oath. No new dragon bond has been made in twenty years. The order's chapter house in Dragonrest is half-empty.",
+          "seat": "location:dragonrest",
+          "wants": "To remain relevant and powerful in a kingdom that is losing faith in the old bond.",
           "pressure": "rising",
-          "holdings": [
-            "location:region-one"
-          ]
+          "holdings": ["location:dragonrest"]
+        }
+      },
+      {
+        "id": "org:jin-state",
+        "name": "State of Jin",
+        "visibility": "shared",
+        "payload": {
+          "summary": "The northern state of Sangguo, ruled by Warlord Cao Shen and his court of scholar-strategists. The strongest of the three states militarily, but stretched thin across a large territory. The truce is three years old and the younger officers are restless.",
+          "seat": "location:jin-an",
+          "wants": "To reunify Sangguo under Jin's banner before the truce becomes permanent.",
+          "pressure": "rising",
+          "holdings": ["location:sangguo"]
+        }
+      },
+      {
+        "id": "org:chu-state",
+        "name": "State of Chu",
+        "visibility": "shared",
+        "payload": {
+          "summary": "The southern state of Sangguo, ruled by Warlord Sun Liang. Wealthier than Jin in trade and agriculture, but militarily weaker. Chu's strategy has always been to outlast its rivals economically. The truce has been good for Chu's treasury.",
+          "seat": "location:sangguo",
+          "wants": "To maintain the truce long enough to make its economic advantage insurmountable.",
+          "pressure": "steady",
+          "holdings": []
+        }
+      },
+      {
+        "id": "org:wei-state",
+        "name": "State of Wei",
+        "visibility": "shared",
+        "payload": {
+          "summary": "The western state of Sangguo, ruled by Warlord Zhang He. The smallest and most mountainous of the three, but rich in iron and jade. Wei's position is defensive — its mountains make invasion costly. The warlord is old and his heir is ambitious.",
+          "seat": "location:sangguo",
+          "wants": "To secure the mountain passes and maintain independence from both Jin and Chu.",
+          "pressure": "steady",
+          "holdings": []
+        }
+      },
+      {
+        "id": "org:wayfinder-guilds",
+        "name": "Wayfinder Guilds",
+        "visibility": "shared",
+        "payload": {
+          "summary": "The navigators of the Tide Archipelago — messengers, diplomats, historians, and the only people who can cross open water between islands. The guilds hold the song-magic that makes voyaging possible. They are being strained by the rising seas: more islands need help, fewer routes are safe, and the songs are not always enough anymore.",
+          "seat": "location:lani-atoll",
+          "wants": "To find new safe routes and new land for the displaced islanders before the situation becomes desperate.",
+          "pressure": "rising",
+          "holdings": ["location:tide-archipelago"]
+        }
+      },
+      {
+        "id": "org:binding-families",
+        "name": "The Binding Families of Zaffar",
+        "visibility": "shared",
+        "payload": {
+          "summary": "The old djinn-binding families of Al-Khayzar, who carry contracts with djinn that date back centuries. They govern Zaffar through a council and maintain the Pact of the Lamp. The contracts are their power and their burden — the djinn have been counting the interest, and some of the debts are coming due.",
+          "seat": "location:zaffar",
+          "wants": "To renegotiate the oldest djinn contracts before the debts become unpayable.",
+          "pressure": "steady",
+          "holdings": ["location:al-khayzar"]
         }
       }
     ]
@@ -292,30 +542,228 @@
     "_status": "live",
     "entries": [
       {
-        "id": "character:placeholder-one",
-        "name": "PLACEHOLDER Person",
+        "id": "character:the-guide",
+        "name": "The Guide",
         "visibility": "shared",
-        "gm_notes": "What this person is hiding. Private.",
+        "gm_notes": "The Guide is not a god. They are a remnant of whatever built the Old Roads — a part of the world left behind when the rest took shape. They have been in the Heavenly Realm longer than anyone alive in Gaia. They do not know the future. They know the nations in general terms but not current events. They are genuinely kind but not warm — they do their work and do not explain why. They cannot leave the Heavenly Realm.",
         "payload": {
-          "summary": "Who they are, in two sentences a stranger could observe.",
-          "role": "",
-          "appearance": "Prose. What someone sees on meeting them.",
+          "summary": "A figure who tends the Heavenly Realm. They appear old, or seem old — grey-haired, calm, dressed in simple robes that could belong to any nation. They have been here longer than anyone currently alive in Gaia.",
+          "role": "Guide of the Heavenly Realm",
+          "appearance": "Ageless and calm, dressed in simple undyed robes that could belong to any of the seven nations. They move slowly, as if time is not a concern. Their eyes are dark and patient. They carry nothing.",
           "visual_identity": {
-            "hair": "",
-            "eyes": "",
-            "distinctive_features": ""
+            "age": "indeterminate — old but not frail",
+            "hair": "grey, long, loosely tied",
+            "eyes": "dark, patient",
+            "distinctive_features": "a faint mark on the left palm, like an old scar in the shape of a road"
           },
-          "affiliations": [
-            "org:placeholder"
-          ],
+          "affiliations": [],
           "desires": [
-            "The thing they want and will act on."
+            "To help arriving souls choose a nation to begin in, and to do this work well."
           ],
           "fears_or_limits": [
-            "The thing that stops them."
+            "Cannot leave the Heavenly Realm. Does not know current events in Gaia. Cannot predict what an arriving soul will become."
           ],
           "current_state": {
-            "location": "location:opening-scene"
+            "location": "location:heavenly-realm"
+          }
+        }
+      },
+      {
+        "id": "character:miko-sora",
+        "name": "Miko Sora",
+        "visibility": "shared",
+        "gm_notes": "Sora has been offered a position at the Great Shrine in Tsuki-no-Miyako but has refused it twice. She refuses because she believes the shrine network is weakening and that abandoning a rural shrine to take a prestigious post would make the problem worse. She has not told anyone this is her reasoning — she says she simply likes the mountains.",
+        "payload": {
+          "summary": "The shrine keeper of Haru's Shrine Town. A woman in her late twenties who maintains the ward for this stretch of the Cedar Road. She performs the daily rituals precisely, keeps the shrine grounds, and is the closest thing to authority in the village.",
+          "role": "Shrine keeper (miko)",
+          "appearance": "A slight woman in shrine robes — white top, red hakama pants — with her sleeves tied back for work. She moves with the efficiency of someone who does the same things every day. Her hands are rough from shrine maintenance, not soft from prayer.",
+          "visual_identity": {
+            "age": "late twenties",
+            "hair": "black, long, tied back with a white ribbon",
+            "eyes": "brown",
+            "distinctive_features": "a small burn scar on her right wrist from a mishandled ofuda"
+          },
+          "affiliations": ["org:ashikara-shogunate"],
+          "desires": [
+            "To keep the shrine network functioning in her region, even as the central authority neglects the rural shrines."
+          ],
+          "fears_or_limits": [
+            "Cannot leave the shrine unattended for more than a day without the ward weakening. The nearest backup shrine keeper is a two-day ride away."
+          ],
+          "current_state": {
+            "location": "location:haru-shrine-town"
+          }
+        }
+      },
+      {
+        "id": "character:sir-aldrich",
+        "name": "Sir Aldrich Whitmore",
+        "visibility": "shared",
+        "gm_notes": "Aldrich's dragon, Verath, is still alive but has not spoken to him in three years. Aldrich does not know why. He maintains the bond's physical benefits but has lost the dragon's counsel, and he hides this because admitting it would confirm the traditionalists' worst fears about the bond failing. He has been quietly seeking anyone who might know why a dragon goes silent.",
+        "payload": {
+          "summary": "A dragon-bonded knight of the order, stationed at Dragonrest. Middle-aged, greying, still carries himself like a man who was once the strongest in a room. He is one of the last knights to receive a bond, twenty-two years ago.",
+          "role": "Dragon-bonded knight",
+          "appearance": "A tall, broad-shouldered man in worn knight's plate, moving with the careful weight of someone who knows his strength. His armor is well-maintained but old. He has the controlled stillness of a fighter who does not need to prove anything.",
+          "visual_identity": {
+            "age": "mid-forties",
+            "body_build": "broad-shouldered, still strong",
+            "height": "tall",
+            "hair": "brown, greying at the temples, cropped short",
+            "eyes": "grey",
+            "distinctive_features": "faint scale patches on the back of the left hand — a mark of the dragon bond"
+          },
+          "affiliations": ["org:dragon-order"],
+          "desires": [
+            "To understand why the dragons have stopped answering, and to restore the bond before the order tears itself apart."
+          ],
+          "fears_or_limits": [
+            "His own dragon has gone silent. He does not know if the bond is failing or if Verath is hiding something. Admitting the silence would weaken his position in the order's debate."
+          ],
+          "current_state": {
+            "location": "location:dragonrest"
+          }
+        }
+      },
+      {
+        "id": "character:cao-shen",
+        "name": "Warlord Cao Shen",
+        "visibility": "shared",
+        "gm_notes": "Cao Shen is not as healthy as he appears. He has been taking chi-enhancing elixirs that are quietly damaging his heart. His court physician knows but has been silenced. Cao Shen's strategic brilliance is genuine, but his timeline is shorter than anyone realizes. He wants to reunify Sangguo before he dies, and he is running out of time.",
+        "payload": {
+          "summary": "The warlord of Jin, the strongest state in Sangguo. A man in his fifties who commands rooms by being the quietest person in them. His reputation is built on a career of military victories and strategic masterstrokes. He is patient in public and impatient in private.",
+          "role": "Warlord of Jin",
+          "appearance": "A lean man in dark robes, moving with the economy of a martial artist who has nothing to prove. His beard is trimmed short, his hair is bound in a topknot, and he wears a jade seal at his belt. He watches more than he speaks.",
+          "visual_identity": {
+            "age": "mid-fifties",
+            "body_build": "lean, wiry",
+            "hair": "black, greying, bound in a topknot",
+            "eyes": "dark brown, sharp",
+            "distinctive_features": "a thin scar along the jawline from an assassin's blade years ago"
+          },
+          "affiliations": ["org:jin-state"],
+          "desires": [
+            "To reunify Sangguo under Jin's banner and end the three-state division within his lifetime."
+          ],
+          "fears_or_limits": [
+            "His health is failing faster than anyone knows. His best general, Lu Fang, is loyal but ambitious, and Cao Shen is not certain the loyalty outlasts him."
+          ],
+          "current_state": {
+            "location": "location:jin-an"
+          }
+        }
+      },
+      {
+        "id": "character:shaman-nara",
+        "name": "Shaman Nara",
+        "visibility": "shared",
+        "gm_notes": "Nara has been hearing something new from the river spirit — a warning about the rising water that the spirit itself does not fully understand. The river spirit is frightened, and spirits do not frighten easily. Nara has not shared this with the council because she does not know what it means yet, and she fears that sharing partial information will cause panic rather than action.",
+        "payload": {
+          "summary": "An elder shaman of Verdania, based in Iara. A woman of sixty who has carried the river spirit-pact for forty years. She is the most respected spiritual voice in the river capital, and the council listens to her even when they disagree.",
+          "role": "Elder shaman",
+          "appearance": "A weathered woman in painted river-cloth, her arms marked with the spirit-pact patterns of her lineage. She moves slowly but with purpose, and her eyes focus on things others do not seem to see. Feathers and bone ornaments hang from her neck.",
+          "visual_identity": {
+            "age": "sixties",
+            "body_build": "wiry, weathered",
+            "skin": "deep brown, sun-darkened",
+            "hair": "white, braided with river-stone beads",
+            "eyes": "dark brown",
+            "distinctive_features": "ritual scarification patterns on both forearms — the marks of her spirit-pacts"
+          },
+          "affiliations": [],
+          "desires": [
+            "To understand why the river spirit is frightened, and to protect her people from whatever is coming."
+          ],
+          "fears_or_limits": [
+            "The river spirit's warning is incomplete, and Nara does not know what to do with partial knowledge. She is old and her strongest pact is weakening with age."
+          ],
+          "current_state": {
+            "location": "location:iara"
+          }
+        }
+      },
+      {
+        "id": "character:jarl-sigrid",
+        "name": "Jarl Sigrid Hallvarsdottir",
+        "visibility": "shared",
+        "gm_notes": "Sigrid's father was killed by a frost giant twelve years ago during a trade dispute. She has maintained peace with the giants since taking the jarldom, but she has been quietly building a coalition of jarls who want to push the giants out of the deep mountains entirely. She believes the giants are preparing to expand their territory southward, but she has not proven this to the Althing.",
+        "payload": {
+          "summary": "The jarl of Skaldvik, the largest trading port in Hrafnland. A woman in her forties who inherited the jarldom after her father's death and has held it through two Althing challenges. She is direct, fair, and louder than she needs to be — a habit in a culture that respects volume.",
+          "role": "Jarl of Skaldvik",
+          "appearance": "A tall, broad woman in fur-trimmed wool and iron, with a seax knife at her belt and a runic armband on her left wrist. She fills a room. Her hair is braided in the warrior style and her laugh carries across a mead hall.",
+          "visual_identity": {
+            "age": "mid-forties",
+            "body_build": "tall, broad-shouldered, strong",
+            "hair": "red-gold, braided warrior style",
+            "eyes": "ice blue",
+            "distinctive_features": "a scar across the bridge of the nose from a dueling cut"
+          },
+          "affiliations": [],
+          "desires": [
+            "To secure Hrafnland's northern borders against the frost giants, by diplomacy if possible, by force if necessary."
+          ],
+          "fears_or_limits": [
+            "The Althing will not authorize action against the giants without proof of threat, and proof requires scouting territory that no scout has returned from. Her coalition is not as unified as she presents it."
+          ],
+          "current_state": {
+            "location": "location:skaldvik"
+          }
+        }
+      },
+      {
+        "id": "character:malik-idris",
+        "name": "Malik Idris",
+        "visibility": "shared",
+        "gm_notes": "Malik's grandfather bound a djinn named Zuhayr three generations ago. The contract's price was 'the firstborn of each generation.' Malik is the firstborn. He has known since childhood that he is owed to a djinn. He has been researching ways to renegotiate or break the contract for years, secretly, and he has found nothing. The djinn Zuhayr has begun appearing to him, patient and polite, reminding him that the contract is almost due.",
+        "payload": {
+          "summary": "A young binding-family scion of Zaffar. Handsome, educated, and visibly uneasy. He is the heir to one of the oldest djinn contracts in Al-Khayzar, and he carries that weight in the set of his shoulders. He can be found in the Star Bazaar at night, haggling with the ease of someone raised in it.",
+          "role": "Binding-family scion",
+          "appearance": "A young man in fine desert robes — cream and gold — with a jeweled dagger at his belt that is more ornament than weapon. He carries himself well but watches the shadows. He smells of sandalwood.",
+          "visual_identity": {
+            "age": "early twenties",
+            "body_build": "slim, tall",
+            "skin": "warm brown",
+            "hair": "dark, short, well-kept",
+            "eyes": "dark brown",
+            "distinctive_features": "a faint blue shimmer around the fingers of his right hand — a mark of proximity to djinn-fire"
+          },
+          "affiliations": ["org:binding-families"],
+          "desires": [
+            "To find a way to break or renegotiate his family's oldest djinn contract before it collects its next price — him."
+          ],
+          "fears_or_limits": [
+            "The djinn Zuhayr is patient, old, and legally meticulous. Every avenue Malik has researched has led to a dead end. He is running out of time, and he cannot ask his family for help without revealing how desperate he is."
+          ],
+          "current_state": {
+            "location": "location:zaffar"
+          }
+        }
+      },
+      {
+        "id": "character:wayfinder-kai",
+        "name": "Wayfinder Kai",
+        "visibility": "shared",
+        "gm_notes": "Kai has lost three routes in the last year — islands that were navigable are now underwater, and the songs that guided voyagers there no longer work because the landmarks are gone. He believes the rising seas are not natural but caused by something, and he wants to find out what. He has been asking the sea spirits, and they have been silent. He has not told the guild council that the spirits are silent because he fears it means something worse than the water.",
+        "payload": {
+          "summary": "A young wayfinder of the Tide Archipelago, based at Lani Atoll. Compact, sun-darkened, with tattoo patterns running up both arms that mark the routes he has memorized. He is one of the most talented young navigators in the guild, and he is also one of the most worried.",
+          "role": "Wayfinder (navigator)",
+          "appearance": "A compact man in light island cloth, barefoot, with a carved wayfinding staff in his hand. His arms are covered in tattoo patterns — geometric lines and stars that map the routes he has sailed. He watches the water the way most people watch faces.",
+          "visual_identity": {
+            "age": "mid-twenties",
+            "body_build": "compact, lean, wiry",
+            "skin": "deep tan, sun-darkened",
+            "hair": "black, short, salt-stiffened",
+            "eyes": "dark brown",
+            "distinctive_features": "tattoo patterns covering both arms — wayfinding route maps in geometric ink"
+          },
+          "affiliations": ["org:wayfinder-guilds"],
+          "desires": [
+            "To find the cause of the rising seas and reverse it, before the Archipelago loses more islands."
+          ],
+          "fears_or_limits": [
+            "The sea spirits have gone silent when asked about the rising water. Kai does not know if they cannot answer or will not. He is one man against a problem that affects hundreds of islands."
+          ],
+          "current_state": {
+            "location": "location:lani-atoll"
           }
         }
       }
@@ -334,17 +782,31 @@
     "_status": "stored",
     "entries": [
       {
-        "id": "relationship:placeholder",
-        "name": "PLACEHOLDER and PLACEHOLDER",
+        "id": "relationship:aldrich-and-dragon-order",
+        "name": "Sir Aldrich and the Dragon Order",
         "visibility": "shared",
         "payload": {
           "participants": [
-            "character:placeholder-one"
+            "character:sir-aldrich"
           ],
-          "association": "colleagues",
-          "public_status": "What a bystander would say about these two.",
-          "bond": "What is actually going on. GM-side.",
-          "disposition": 0
+          "association": "knight and order",
+          "public_status": "A respected senior knight, loyal to the order, though quiet at council meetings.",
+          "bond": "Aldrich is losing faith in the order's ability to resolve its own crisis. He stays because leaving would confirm the traditionalists' fears, but he is privately sympathetic to the reformers. His silence at council meetings is not loyalty — it is indecision.",
+          "disposition": 40
+        }
+      },
+      {
+        "id": "relationship:cao-shen-and-lu-fang",
+        "name": "Cao Shen and General Lu Fang",
+        "visibility": "shared",
+        "payload": {
+          "participants": [
+            "character:cao-shen"
+          ],
+          "association": "lord and general",
+          "public_status": "Cao Shen trusts Lu Fang with military command. Lu Fang is publicly loyal and has never failed an order.",
+          "bond": "Cao Shen suspects Lu Fang's loyalty is to the idea of a unified Sangguo, not specifically to Cao Shen. If Cao Shen dies before reunification, Lu Fang may pursue it himself — in his own way, which may be less careful.",
+          "disposition": 60
         }
       }
     ]
@@ -365,28 +827,148 @@
     "_status": "live",
     "entries": [
       {
-        "id": "thread:opening",
-        "name": "PLACEHOLDER Opening Thread",
+        "id": "thread:arrival",
+        "name": "The Arrival",
         "visibility": "shared",
         "payload": {
           "thread_type": "quest",
-          "summary": "The situation the campaign opens inside.",
-          "stakes": "What is lost if this goes badly.",
-          "pressure": "rising",
-          "participants": [
-            "character:placeholder-one"
-          ],
-          "locations": [
-            "location:opening-scene"
-          ],
-          "organizations": [
-            "org:placeholder"
-          ],
+          "summary": "A soul new to Gaia has arrived in the Heavenly Realm. The Guide is waiting to help them choose a nation to begin in. The choice is real and permanent — once they walk down into one of the seven nations, they cannot come back to choose again.",
+          "stakes": "The player's starting nation determines which conflicts they land in the middle of, which people they meet first, and what kind of life they begin. A wrong choice is not death — it is a different story.",
+          "pressure": "steady",
+          "participants": ["character:the-guide"],
+          "locations": ["location:heavenly-realm"],
+          "organizations": [],
           "known_clues": [],
           "next_possible_moves": [
-            "Something that happens on its own if nobody intervenes.",
-            "Someone acting on what they want.",
-            "A deadline arriving."
+            "The Guide describes each of the seven nations in a sentence or two and asks where the player wants to begin.",
+            "If the player hesitates, the Guide offers to describe one in more detail — but only one.",
+            "If the player asks too many questions, the Guide gently reminds them that the choice is meant to be partly blind."
+          ],
+          "resolution": null
+        }
+      },
+      {
+        "id": "thread:dragons-silence",
+        "name": "The Dragons' Silence",
+        "visibility": "shared",
+        "payload": {
+          "thread_type": "quest",
+          "summary": "In Valdris, no new dragon bond has been made in twenty years. The dragon-bonded knights are fracturing between reformers and traditionalists. The king is aging and the succession is unspoken. Sir Aldrich's own dragon, Verath, has gone silent — a secret he keeps because admitting it would confirm the order's worst fears.",
+          "stakes": "If the order fractures completely, Valdris loses its most powerful defenders. If the succession crisis hits while the order is broken, the kingdom could face civil war. Aldrich's secret, if exposed, accelerates both.",
+          "pressure": "rising",
+          "participants": ["character:sir-aldrich"],
+          "locations": ["location:valdris", "location:dragonrest", "location:crownhaven"],
+          "organizations": ["org:dragon-order"],
+          "known_clues": [],
+          "next_possible_moves": [
+            "The reformist faction calls a formal vote to dissolve the traditional oath requirements, which the traditionalists have promised to refuse — publicly and loudly.",
+            "Sir Aldrich's dragon Verath descends from the mountain roosts for the first time in three years and lands in the Dragonrest courtyard, silent, refusing to speak to anyone — including Aldrich.",
+            "The king's eldest son visits Dragonrest to 'inspect the order,' a move the traditionalists see as a threat and the reformers see as an opportunity."
+          ],
+          "resolution": null
+        }
+      },
+      {
+        "id": "thread:sangguo-truce",
+        "name": "The Fraying Truce",
+        "visibility": "shared",
+        "payload": {
+          "thread_type": "quest",
+          "summary": "The three-year truce between Jin, Chu, and Wei is nearing its end. One border skirmish has already happened between Jin and Wei forces at the Long Pass. The younger officers at the Great Academy in Jin'an speak openly about ending the truce. Warlord Cao Shen is dying faster than anyone knows and wants reunification before he goes.",
+          "stakes": "If the truce breaks, the largest war in a generation begins. The last war killed tens of thousands. Sangguo's trade routes feed half of Gaia — a war disrupts everything, everywhere.",
+          "pressure": "rising",
+          "participants": ["character:cao-shen"],
+          "locations": ["location:sangguo", "location:jin-an"],
+          "organizations": ["org:jin-state", "org:chu-state", "org:wei-state"],
+          "known_clues": [],
+          "next_possible_moves": [
+            "A second skirmish at the Long Pass — this time with casualties on both sides, each blaming the other.",
+            "Cao Shen's court physician is found dead in the palace, an apparent suicide that the warlord's spymaster does not believe was suicide.",
+            "Chu's warlord Sun Liang receives a secret envoy from Wei proposing an alliance against Jin — and the envoy is intercepted by Jin scouts."
+          ],
+          "resolution": null
+        }
+      },
+      {
+        "id": "thread:rising-seas",
+        "name": "The Rising Seas",
+        "visibility": "shared",
+        "payload": {
+          "thread_type": "quest",
+          "summary": "In the Tide Archipelago, sea levels are rising. Islands are losing their shores. The voyagers are being pushed inward toward crowded volcanic islands. Wayfinder Kai has lost three routes this year and the sea spirits have gone silent when asked about the cause. In Verdania, Shaman Nara's river spirit has sent a warning it does not fully understand — and the two problems may be connected.",
+          "stakes": "If the rising continues, the Tide Archipelago loses its civilization within a generation. If the cause is something that can be stopped, every month of delay costs islands. If it cannot be stopped, the voyagers become refugees in nations that do not want them.",
+          "pressure": "rising",
+          "participants": ["character:wayfinder-kai", "character:shaman-nara"],
+          "locations": ["location:tide-archipelago", "location:lani-atoll", "location:verdania", "location:iara"],
+          "organizations": ["org:wayfinder-guilds"],
+          "known_clues": [],
+          "next_possible_moves": [
+            "Two more outer islets submerge during a storm, displacing forty families who arrive at Lani Atoll with nothing.",
+            "Kai attempts a solo voyage to the deepest water in the Archipelago to sing to the sea spirits directly — and they answer, but not in words he recognizes.",
+            "Shaman Nara's river spirit delivers a fragment of a warning that mentions 'the deep place' and 'the old door,' phrases it has never used before."
+          ],
+          "resolution": null
+        }
+      },
+      {
+        "id": "thread:djinn-debt",
+        "name": "The Djinn's Due",
+        "visibility": "shared",
+        "payload": {
+          "thread_type": "quest",
+          "summary": "In Al-Khayzar, Malik Idris is the firstborn of his generation — and his family's oldest djinn contract demands the firstborn of each generation as payment. The djinn Zuhayr has begun appearing to Malik, patient and polite, reminding him that the contract is almost due. Malik has searched secretly for a way out and found nothing.",
+          "stakes": "If Malik cannot break or renegotiate the contract, he is taken by the djinn — not killed, but bound to Zuhayr's service for the rest of his natural life. If he breaks the contract wrongly, the Pact of the Lamp may fracture, and the peace between Al-Khayzar's city-states dies with it.",
+          "pressure": "rising",
+          "participants": ["character:malik-idris"],
+          "locations": ["location:al-khayzar", "location:zaffar"],
+          "organizations": ["org:binding-families"],
+          "known_clues": [],
+          "next_possible_moves": [
+            "Zuhayr appears to Malik in the Star Bazaar, visible to other binders for the first time, making the debt publicly known — which Malik's family will treat as a deliberate humiliation.",
+            "Malik's younger sister discovers his research notes and confronts him — she is not bound by the contract, but she has her own reasons for wanting the family's debts exposed.",
+            "A stranger arrives in Zaffar claiming to know a method of contract renegotiation that does not violate the Pact — and asking a price that may be worse than the djinn's."
+          ],
+          "resolution": null
+        }
+      },
+      {
+        "id": "thread:shrine-network",
+        "name": "The Weakening Wards",
+        "visibility": "shared",
+        "payload": {
+          "thread_type": "quest",
+          "summary": "In Tsukuyomi, the shrine network that keeps wild yokai at a distance from settled areas is weakening. Rural shrines are being neglected as the central authority funnels resources to the capital. Miko Sora maintains her shrine alone, but the ward she tends is one of a chain, and links upstream of her are failing. If enough links break, the yokai pressure on the Cedar Road becomes dangerous.",
+          "stakes": "If the ward chain breaks along the Cedar Road, the pilgrimage route becomes unsafe and the mountain villages lose their protection. Wild yokai are not monsters — they are unpredictable, and people die when the boundary is weak.",
+          "pressure": "steady",
+          "participants": ["character:miko-sora"],
+          "locations": ["location:tsukuyomi", "location:haru-shrine-town"],
+          "organizations": ["org:ashikara-shogunate"],
+          "known_clues": [],
+          "next_possible_moves": [
+            "Sora notices the upstream shrine's ward has gone dark — the keeper there has left, and no replacement was sent.",
+            "A farmer from the next valley arrives in Haru's Shrine Town reporting yokai sightings on the Cedar Road — something that has not happened in a generation.",
+            "A messenger from the Great Shrine in Tsuki-no-Miyako arrives with an order: Sora is to report to the capital for reassignment. Her shrine will be 'temporarily' unstaffed."
+          ],
+          "resolution": null
+        }
+      },
+      {
+        "id": "thread:frost-giants",
+        "name": "The Frost Giant Border",
+        "visibility": "shared",
+        "payload": {
+          "thread_type": "quest",
+          "summary": "In Hrafnland, Jarl Sigrid believes the frost giants of the deep mountains are preparing to expand southward. She has been quietly building a coalition of jarls who want to push the giants back. The Althing will not authorize action without proof, and proof requires scouting territory no scout has returned from. Her coalition is not as unified as she presents it.",
+          "stakes": "If Sigrid acts without Althing approval, she splits Hrafnland and may trigger a jarls' war. If she does nothing and the giants are expanding, the northern fjords are overrun. If she is wrong about the giants' intentions, she has spent political capital on a phantom threat.",
+          "pressure": "steady",
+          "participants": ["character:jarl-sigrid"],
+          "locations": ["location:hrafnland", "location:skaldvik"],
+          "organizations": [],
+          "known_clues": [],
+          "next_possible_moves": [
+            "A trader from a northern fjord arrives in Skaldvik with a story: a fishing village was found abandoned, the boats still at the dock, no sign of violence — and no sign of the people.",
+            "One of Sigrid's coalition jarls privately withdraws his support, telling her the Althing will see her coalition as a power grab, not a defense.",
+            "A scout Sigrid sent into the deep mountains returns — the first to return — and will not speak about what he saw. He has gone white-haired and will not leave the mead hall."
           ],
           "resolution": null
         }
@@ -408,12 +990,30 @@
     "_status": "live",
     "entries": [
       {
-        "id": "lore:placeholder",
-        "name": "PLACEHOLDER Belief or History",
+        "id": "lore:reincarnation",
+        "name": "Reincarnation in Gaia",
         "visibility": "shared",
         "context_tier": "partial",
         "payload": {
-          "summary": "The thing itself, written to be read aloud rather than filed."
+          "summary": "Occasionally a person arrives in Gaia carrying memories of another life — another world entirely. These souls are rare, perhaps one in a generation. They arrive in the Heavenly Realm, where a guide helps them choose a nation to begin in. They are called god-touched, and the name is both a compliment and a warning. They often grow into remarkable people, and just as often into troubled ones."
+        }
+      },
+      {
+        "id": "lore:old-roads",
+        "name": "The Old Roads",
+        "visibility": "shared",
+        "context_tier": "partial",
+        "payload": {
+          "summary": "A vanished network of spirit-paths that once connected every nation in Gaia. Walking a working stretch can take you across the world in an afternoon. Most are broken. Some are lost. A few are deliberately kept shut by the people who live near them. Finding a working entrance is valuable. Using one is noticeable — the Roads leave a trace that certain people can follow."
+        }
+      },
+      {
+        "id": "lore:the-peace",
+        "name": "The Long Peace",
+        "visibility": "shared",
+        "context_tier": "partial",
+        "payload": {
+          "summary": "A generation of relative peace across Gaia, following the last great war between Sangguo's states. The peace is uneven — some nations prosper, others simmer. The treaty that ended the war is fraying, and not everyone remembers why it was signed. The current generation is the first to grow up without war, and some of them do not understand what they would be losing."
         }
       }
     ]
@@ -427,14 +1027,36 @@
     "_status": "live",
     "entries": [
       {
-        "id": "item:placeholder",
-        "name": "PLACEHOLDER Object",
+        "id": "item:trade-marks",
+        "name": "Trade Marks",
+        "visibility": "shared",
+        "payload": {
+          "item_type": "currency",
+          "appearance": "Small metal discs, about the width of a thumbnail, stamped with the mark of the minting nation. Each is slightly different — Tsukuyomi's carry a crescent moon, Valdris's a crown, Sangguo's a jade-inset square. They are traded by weight, not by origin.",
+          "description": "The closest thing Gaia has to a universal currency. Accepted across all seven nations by weight. Each nation mints its own, but the metal content is standardized by an old trade agreement that most nations still honor.",
+          "item_tags": ["currency"]
+        }
+      },
+      {
+        "id": "item:ofuda",
+        "name": "Ofuda Talisman",
         "visibility": "shared",
         "payload": {
           "item_type": "tool",
-          "appearance": "What it looks like. Material, wear, size.",
-          "description": "What it means and where it came from.",
-          "item_tags": []
+          "appearance": "A strip of paper, about the length of a hand, with brush-written characters in black ink. Some carry a red stamp at the bottom. They are usually folded and carried in pockets or pinned to doorframes.",
+          "description": "The basic tool of shrine magic in Tsukuyomi. An ofuda carries a ward, a blessing, or a command. It must be written correctly and activated by a shrine keeper's ritual. A poorly made ofuda is just paper.",
+          "item_tags": ["magic", "tsukuyomi"]
+        }
+      },
+      {
+        "id": "item:wayfinder-staff",
+        "name": "Wayfinder's Staff",
+        "visibility": "shared",
+        "payload": {
+          "item_type": "tool",
+          "appearance": "A carved wooden staff, about shoulder-height, marked with notches and painted symbols that represent star paths, current patterns, and island positions. The wood is dark from salt and handling. Some staves have shells or bone inlays.",
+          "description": "The primary tool of a wayfinder in the Tide Archipelago. The staff is both a record of routes memorized and an instrument for reading the sea. A wayfinder who loses their staff loses years of encoded knowledge.",
+          "item_tags": ["magic", "tide-archipelago"]
         }
       }
     ]
@@ -450,11 +1072,11 @@
     ],
     "_layer": "world",
     "_status": "live",
-    "title": "PLACEHOLDER Campaign Title",
-    "player_name": "PLACEHOLDER",
-    "character_class": "PLACEHOLDER",
-    "current_location": "location:opening-scene",
-    "current_quest": "What the player thinks they are doing on turn one.",
-    "opening_scene": "Two or three sentences of where they are and what is happening as play begins."
+    "title": "The Arrival",
+    "player_name": "Traveler",
+    "character_class": "God-touched",
+    "current_location": "location:heavenly-realm",
+    "current_quest": "Choose which of the seven nations to begin your new life in.",
+    "opening_scene": "You wake in a garden you have never seen. The air is warm and still, and the light comes from no direction you can find. Floating islands drift in soft mist around you, and flowers bloom in colors that do not belong to the same season. Ahead, through a grove of trees that are not quite real, stands an open pavilion. A figure is waiting there, seated on the stone bench, watching you with patient dark eyes. Below the pavilion, far below, through layers of cloud, you can see a world spread out — green and gold and blue and white. Seven nations. The figure speaks: 'You have arrived. That is well. I have been waiting. Come, and choose where you will begin.'"
   }
 }
