@@ -1,0 +1,352 @@
+{
+  "locations": [
+    {
+      "id": "location:alk-qadira",
+      "name": "Qadira, the Oasis-City of a Thousand Tents",
+      "visibility": "shared",
+      "payload": {
+        "summary": "Qadira is the great caravan city of Al-Khayzar, risen around the largest oasis in the western desert — a circle of date palms and tamarisk seven bowshots across, whose heart is a long lake of cold blue water that never runs dry though the sand presses in on every side. The city is half permanent and half seasonal: a core of mud-brick towers, lime-washed in white and pale blue, where the oasis families live year-round, surrounded by an ever-shifting ring of tents and camel-pens where the caravan-clans gather between journeys, their striped pavilions and banner-poles crowding the sand for half a mile in every direction. The smell of Qadira is the smell of arrival — camel-dung smoke, roasting coffee, saddle-leather, and the sweet green breath of the date groves set against the dry mineral smell of the desert. At the water's edge women draw water in clay jars, children dive from the stone quays, and the dates are harvested by men swaying in the high fronds. The caravan-clans bargain here for water-rights, salt, dates, and the precious cargoes of Zaffar that will travel the long roads to far nations. At night a thousand fires dot the tent-ring and the call to evening prayer rises from the oasis mosque over the lowing of camels.",
+        "parent_location_id": "location:al-khayzar",
+        "jurisdiction": "Ruled by the Water-Sheikh, drawn from the oldest oasis family, who controls the allocation of water-rights — the city's lifeblood — and arbitrates between the settled families and the caravan-clans. The Water-Sheikh's authority is backed by the Council of Caravans, an assembly of the clan-masters whose consent is needed for any road-tax or toll. Defers to Zaffar on matters of national trade policy but holds wide autonomy over the oasis and its roads.",
+        "terrain": "desert oasis, date-palm groves, freshwater lake, mud-brick towers, tent encampments",
+        "resources": ["dates", "water-rights", "salt", "camels", "saddle-leather", "tamarisk wood", "frankincense"]
+      }
+    },
+    {
+      "id": "location:alk-basur",
+      "name": "Basur, the Salt-Gate Port",
+      "visibility": "shared",
+      "payload": {
+        "summary": "Basur is the great sea-port of Al-Khayzar, built where the desert meets the turquoise waters of the southern strait at a natural harbour walled by two long breakwaters of black volcanic rock that the old builders raised and the sea has not yet worn down. The city climbs the red-stone headland above the harbour in terraces of whitewashed lime, its houses flat-roofed and crowded with wind-catchers that turn in the sea-breeze and funnel cool air down into the rooms, and from the water it looks like a pile of sugar-cubes rising out of the sand. The harbour is dense with ships — great dhows with lateen sails patched in a hundred colours, merchant galleys from foreign ports, fishing boats, and the sleek cutter-galleys of the port-guards — and the quays are a continuous market of unloading: bales of spice from Zaffar, ingots of copper and iron from beyond the sea, dyed silks, amber, slaves, ivory, and the salt that gives the port its name, panned from the salt-flats north of the city in shallow pans that glitter white in the sun. The air is thick with salt, tar, fish, and the perfume of spices spilled from broken bales, and the muezzin's call competes with the shouts of stevedores, the creak of rigging, and the slap of water on stone. Basur is where Al-Khayzar meets the wider world, and its people are cosmopolitan and sharp — merchants, sailors, pirates-turned-traders, and the agents of foreign powers all rubbing shoulders in the coffee-houses.",
+        "parent_location_id": "location:al-khayzar",
+        "jurisdiction": "Ruled by the Port-Warden, appointed by the Sheikh of Zaffar but holding near-sovereign power by the distance of the road, who commands the harbour-guards, collects customs, and licenses all trade. A council of the leading merchant houses — the Salt Council — advises and may veto any new duty. Foreign powers maintain modest trade-quarters under Basuri law, and their agents are answerable to the Port-Warden alone.",
+        "terrain": "sea-port, volcanic breakwaters, red-stone headland, lime-washed terraces, salt-flats",
+        "resources": ["sea-salt", "imported metals", "silk", "amber", "ivory", "spices", "fish", "pearls"]
+      }
+    },
+    {
+      "id": "location:alk-naqd",
+      "name": "Naqd, the Gem-Town of the Red Mountains",
+      "visibility": "shared",
+      "payload": {
+        "summary": "Naqd is the mountain mining-town of Al-Khayzar, set high in the red ridges of the eastern range where the desert floor breaks into folded hills of ochre and iron-stained sandstone shot through with veins of turquoise, lapis, carnelian, and the rare green beryl the caravans carry to Zaffar. The town clings to the walls of a steep defile, its houses stacked one above another on stone terraces cut into the rock and roofed with the waste-slag of the mines, so that the whole town seems to grow out of the mountain like a strange crystalline growth. The streets are narrow staircases, slick with mine-water and choked with mule-trains carrying ore and timber, and the air is always cool and smells of stone-dust, lamp-oil, and the metallic tang of the deep tunnels. At the town's base the great mine-heads yawn — dark galleries shored with timber driven deep into the rock, where miners work by the light of clay oil-lamps in heat and dark and danger, and from which the raw stones come up in baskets to be washed, cut, and polished in the lapidaries' workshops that line the upper terraces. The mine-bells ring the shifts day and night, and the mine-owners — the great Gem-Houses — hold the town in a near-feudal grip, their fortified estates crowning the highest terraces above the dust and noise.",
+        "parent_location_id": "location:al-khayzar",
+        "jurisdiction": "Ruled by the Conclave of Gem-Houses, the five great mining families who jointly govern through their elected Foreman, who arbitrates disputes over claims, water for the mines, and the division of the mountain's output. The Foreman answers to the Sheikh of Zaffar in theory, but the mountain is a week's hard ride from the capital and the Gem-Houses guard their autonomy fiercely. Mine-law is harsh: claim-jumping is punished by death in the mines themselves.",
+        "terrain": "mountain defile, terraced stone houses, mine galleries, ore-waste rooftops, red sandstone ridges",
+        "resources": ["turquoise", "lapis lazuli", "carnelian", "green beryl", "silver", "copper", "quartz", "building stone"]
+      }
+    },
+    {
+      "id": "location:alk-khalesh",
+      "name": "Khalesh, the City of the Broken Road",
+      "visibility": "shared",
+      "payload": {
+        "summary": "Khalesh is the desert-edge city of Al-Khayzar, built where the great sand-sea gives way to a hard gravel plain at the foot of the western escarpment, and where the fragments of the Old Road — the lost highway of a forgotten empire that once linked Gaia's old nations — emerge from the sand in broken stone pylons, collapsed bridges, and paving worn smooth by a thousand years of feet that no one remembers. The city is older and stranger than the others, its walls of blackened stone not mud-brick but the dressed blocks of the old builders, re-used and re-laid by generations who have forgotten their original shape, and within the walls the streets follow no grid but the ghost of the old road, wandering past half-buried arches, ancient cisterns, and statues whose faces the wind has worn to smooth blanks. Scholars, relic-hunters, and the agents of binding-families come here to buy fragments of the Old Road — carved stones, inscribed tablets, and the strange dark-metal tokens that sometimes turn up in the sand and are believed to be djinn-work. The city lives on this trade and on the hard grazing of the desert-edge, and its people are quiet, watchful, and superstitious, dressed in dust-coloured wool against the wind, and given to hanging old road-fragments above their doors as wards. The air is dry and smells of dust, hot stone, and the faint ozone of the desert storms that sweep the escarpment.",
+        "parent_location_id": "location:al-khayzar",
+        "jurisdiction": "Ruled by the Road-Warden, a hereditary office held by the Khaleshi family who claim descent from the last keepers of the Old Road, who governs the city and controls the licensing of relic-diggers and the sale of Road-fragments. The Warden's authority is recognized by Zaffar but the city pays only a nominal tribute, and in practice the binding-families of Zaffar exert more influence here through their buying power than the Sheikh does through his Warden.",
+        "terrain": "desert-edge escarpment, gravel plain, old-stone walls, buried ruins, gravel flats",
+        "resources": ["Old Road fragments", "inscribed tablets", "djinn-metal tokens", "ancient stone", "desert grazing", "wool"]
+      }
+    },
+    {
+      "id": "location:alk-zaffar-saffronpalace",
+      "name": "The Saffron Palace",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The Saffron Palace is the seat of the Sheikh of Zaffar and the heart of Al-Khayzar's spice kingdom, a vast complex of lime-washed courtyards, tiled halls, and shaded gardens set on a low rise at the city's centre, its walls washed the colour of saffron-milk and its gates of bronze cast with the forms of lions and frankincense trees. Within, the halls are paved in cool marble veined with gold, their walls faced in tiles of lapis and turquoise set in arabesques that catch the light from high lattice windows and scatter it in coloured patterns across the floor. Fountains of white marble play in every courtyard, and the air is thick with the smell of rosewater, sandalwood incense, and the spice-warehouses that back onto the palace — saffron, cardamom, cinnamon, and the pepper that is the Sheikh's greatest treasure. The Sheikh's throne is a low seat of carved sandalwood draped with silk, set in the Hall of Audiences where petitioners, merchants, and binding-family elders come to be heard, and where the viziers and scribes of the spice-administration work at low desks piled with ledgers and tallies. Guards in white tunics and silver-crescent helms stand at every door, and eunuchs and slaves move silently through the inner courts. The palace is both residence and counting-house, and the clink of the spice-scales is audible even in the gardens.",
+        "parent_location_id": "location:zaffar",
+        "jurisdiction": "Seat of the Sheikh of Zaffar, the paramount ruler of Al-Khayzar's spice trade and the nation's de facto head. All spice-taxes, road-tolls, and binding-family licenses are issued here. The Sheikh's court is the highest authority in the nation short of open war.",
+        "terrain": "lime-washed palace complex, tiled courtyards, marble halls, shaded gardens",
+        "resources": ["saffron", "cardamom", "cinnamon", "pepper", "rosewater", "sandalwood"]
+      }
+    },
+    {
+      "id": "location:alk-zaffar-grandbazaar",
+      "name": "The Grand Bazaar of Zaffar",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The Grand Bazaar of Zaffar is the greatest spice-market in the known world, a labyrinth of covered streets and vaulted caravanserais at the city's heart, its roofs a patchwork of domes and skylights that let shafts of dusty gold light fall onto the stalls below where the spice-merchants sit cross-legged among their wares. The smell is overwhelming and changes with every step — saffron, then cardamom, then pepper, then cinnamon, then the musk of frankincense and myrrh, then the sharp bite of dried ginger, then the warm sweetness of cloves — and the stalls are heaped with cones and pyramids of coloured powder, baskets of dried bark and roots, clay jars of oils and resins, and the sealed brass boxes of the most costly spices kept under the merchant's eye. Beyond the spices the bazaar sells everything — silks from Basur, gems from Naqd, Old Road fragments from Khalesh, dates from Qadira, copper, brass, coffee, tobacco, perfumes, dyes, and the strange goods the caravans bring from beyond the desert. The noise is a constant hum of haggling in a dozen tongues, the clink of scales, the rattle of coffee-cups, and the call of the muezzin. Money-changers sit at corner tables, and the binding-family agents in their dark robes move through the crowds buying and noting.",
+        "parent_location_id": "location:zaffar",
+        "jurisdiction": "Under the Bazaar-Master, an official of the Sheikh who keeps the peace, enforces weights and measures, collects stall-dues, and arbitrates disputes. The Bazaar-Master's word is final in trade matters; appeals go to the Sheikh's court. No violence is permitted in the bazaar on pain of the loss of the right hand.",
+        "terrain": "covered market streets, vaulted caravanserais, domed skylights, stall rows",
+        "resources": ["saffron", "cardamom", "pepper", "cinnamon", "frankincense", "myrrh", "ginger", "cloves", "silk", "gems", "copper", "coffee"]
+      }
+    },
+    {
+      "id": "location:alk-zaffar-thousandsaddles",
+      "name": "The Caravanserai of a Thousand Saddles",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The Caravanserai of a Thousand Saddles is the great staging-inn of Zaffar, a vast square fortress of mud-brick and lime at the city's desert gate, its walls enclosing a single enormous courtyard large enough to hold three hundred camels and their loads, surrounded on all four sides by arcades of stables on the ground floor and lodgings on the upper. The courtyard is a sea of camels at all hours — kneeling, groaning, being loaded and unloaded, their drivers shouting and cursing — and the arcades are hung with saddles, saddlebags, rope, and the banners of the caravan-clans, so that the place takes its name from the thousand saddles that dangle above the yard like a forest of leather. The smell is of camel, leather, dung-smoke, and the coffee that is always brewing in the great copper pots of the caravanserai's kitchen, served in tiny cups to anyone with coin. The innkeeper, a fat and jovial man who knows every road and every clan, keeps the register of caravans and matches drivers to loads, and his word settles the disputes that flare over watering-order and stall-space. A mosque-chapel sits in one corner for the travellers' prayers, and a small bath-house offers steam and water to the road-weary.",
+        "parent_location_id": "location:zaffar",
+        "jurisdiction": "Under the Innkeeper, licensed by the Sheikh, who holds authority within the caravanserai walls as a kind of minor magistrate. The caravanserai is a sanctuary — no feud may be pursued within its walls, and the Innkeeper's guards enforce this.",
+        "terrain": "square mud-brick fortress, great courtyard, arcaded stables, upper lodgings",
+        "resources": ["camels", "saddles", "saddle-leather", "rope", "coffee", "lodging", "bath-house"]
+      }
+    },
+    {
+      "id": "location:alk-zaffar-bindingmosque",
+      "name": "The Mosque of the Binding",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The Mosque of the Binding is the chief mosque and the spiritual heart of Zaffar, a great domed building of pale stone at the city's high point, its dome sheathed in turquoise tile and its minaret slender and white against the sky, from which the muezzin calls the five prayers over the whole city. It is dedicated not only to prayer but to the binding of djinn — the central fact of Al-Khayzar's religion and magic — for it is here that the binding-families, the great houses that hold contracts with the djinn, come to renew their pacts, register new bindings, and seek the binding-judges' rulings in disputes over the terms of a contract. Within, the prayer-hall is vast and cool, its floor covered in woven prayer-rugs, its walls inscribed with the verses of the old binding-texts and the names of the bound djinn in flowing calligraphy, and the qibla wall holds a great bronze plaque said to be a fragment of the first binding-contract ever written. Behind the prayer-hall lies the Binding Court, a marble chamber where the binding-judges sit in black robes, and where djinn in human form — summoned by the families — may be required to appear to answer for breach of contract. The air smells of incense, rosewater, and the faint ozone-tang that marks the presence of the bound.",
+        "parent_location_id": "location:zaffar",
+        "jurisdiction": "Under the Grand Binding-Judge, the chief jurist of Al-Khayzar's binding law, who outranks even the Sheikh in matters of djinn-contract and whose rulings cannot be appealed to the secular courts. The mosque is sovereign ground; no binding may be enforced against a person who has taken refuge here without the Judge's consent.",
+        "terrain": "domed stone mosque, turquoise-tiled dome, minaret, marble binding-court",
+        "resources": ["binding-contracts", "binding-jurisprudence", "incense", "binding-texts", "sanctuary"]
+      }
+    },
+    {
+      "id": "location:alk-zaffar-amberrose",
+      "name": "The Coffee House of the Amber Rose",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The Coffee House of the Amber Rose is the most famous of Zaffar's many coffee-houses, a low vaulted hall of old brick opening onto a shaded garden of orange trees and a small fountain, where the spice-merchants, caravan-masters, binding-family agents, and foreign traders gather to drink coffee, smoke the long water-pipes, and conduct the business that the bazaar is too loud and the palace too formal for. The coffee is brewed strong and bitter in brass pots over charcoal and served in small handleless cups with dates, and the smoke of the rose-and-tobacco pipes hangs in blue layers under the vaulted ceiling, scenting the whole place with a heavy sweet fog. Low divans line the walls and the centre is given over to small tables where men sit playing chess and backgammon, reading poems to each other, or haggling in low voices over a brass tray of samples. A blind storyteller in the corner recounts the old tales of the djinn and the lost empires for coins, and a boy circulates with a brass tray of sweet pastries. The Amber Rose is where the real power of Zaffar is brokered — alliances, prices, binding-contracts, and betrayals — and a sharp visitor can learn more here in an evening than in a week at the bazaar.",
+        "parent_location_id": "location:zaffar",
+        "jurisdiction": "A private establishment under the authority of its proprietor, who is licensed by the Sheikh. The coffee-house observes a strict neutrality — no feuds are pursued here, and the proprietor may ban any guest. It is widely understood that the binding-families treat it as neutral ground.",
+        "terrain": "vaulted brick hall, shaded orange-tree garden, fountain, divans and tables",
+        "resources": ["coffee", "tobacco", "rose-pipes", "pastries", "storytelling", "neutral trade-ground"]
+      }
+    },
+    {
+      "id": "location:alk-qadira-palmcourt",
+      "name": "The Palm Court",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The Palm Court is the palace of the Water-Sheikh of Qadira, a low complex of white lime-washed buildings set within a walled garden of date-palms at the lake's edge, its walls so thick that the interior stays cool even at the desert's noon, and its roofs shaded by woven reed-mats on poles. The heart of the court is the Hall of Water, an open pavilion whose floor is a shallow marble basin fed by a channel from the lake, through which cool water flows continuously so that the Sheikh and his guests sit on silk cushions with their feet in the moving water while they conduct business. The smell is of water, green dates, and the attar of roses grown in the inner garden. The Sheikh's seat is a simple reed chair — by tradition no ruler of an oasis may sit on a throne, for all are equal before the water — and around it the clan-masters and the oasis elders sit on the floor to be heard. The court is busy at dawn and dusk when the water-rights are allocated, and quiet at midday when the whole city sleeps. Guards in loose white linen with silver-hilted knives stand at the gate, but the court is open to any who come in peace.",
+        "parent_location_id": "location:alk-qadira",
+        "jurisdiction": "Seat of the Water-Sheikh, who governs Qadira and its oasis. All water-rights, caravan-tolls, and inter-clan disputes are settled here. The Council of Caravans meets in the court at each new moon.",
+        "terrain": "lime-washed garden palace, date-palm court, flowing-water pavilion",
+        "resources": ["water-rights", "dates", "rose-attar"]
+      }
+    },
+    {
+      "id": "location:alk-qadira-watermarket",
+      "name": "The Water Market",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The Water Market is the trading heart of Qadira, a long shaded market-square between the lake and the tent-ring where the caravans gather to buy water-rights, dates, salt, and the goods that pass through the oasis, and where the oasis families sell the produce of the palms and gardens to the caravan-clans and to the smaller desert settlements that depend on Qadira's water. The stalls are simple reed-mats on poles, shaded by striped canvas, and the trade is done in a slow deliberate way — a cup of coffee is drunk, a pipe is smoked, a price is named and refused and named again over an hour. Water-rights are sold in brass tokens stamped with the Sheikh's mark, each good for a set number of jars drawn from the lake, and these tokens are themselves traded and hoarded, for in the desert water is the truest money. The smell is of dates, coffee, leather, camel, and the green smell of the oasis, and the sound is the creak of the water-wheels, the shout of the water-sellers, and the lowing of laden camels. A market-warden appointed by the Sheikh walks the square with a silver stave to keep the peace.",
+        "parent_location_id": "location:alk-qadira",
+        "jurisdiction": "Under the Water-Sheikh's market-warden, who enforces trade law, weights, and the water-token system. The warden has authority to arrest and to void any fraudulent water-token. Caravan-clan disputes are referred to the Council.",
+        "terrain": "shaded market-square, reed-mat stalls, striped canvas, lake frontage",
+        "resources": ["water-tokens", "dates", "salt", "camel-goods", "oasis produce", "coffee"]
+      }
+    },
+    {
+      "id": "location:alk-qadira-dunerest",
+      "name": "The Dune Rest Caravanserai",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The Dune Rest is the caravanserai of Qadira, set at the desert edge of the tent-ring where the sand begins, a great square enclosure of mud-brick with a single tall gate facing the deep desert, its walls buttressed against the drifting sand and its interior a vast yard of packed earth where the caravans assemble before the long roads and rest after them. The arcades hold stables for the camels and storerooms for the loads, and the upper floor has rows of small cells for the drivers and guards, each with a window of carved lattice that catches the night breeze. At the centre of the yard stands the Well of the Rest, a deep stone well whose water is sweeter than the lake's and is given freely to any traveller — a tradition the oasis families maintain as a point of honour. At dusk the yard fills with the fires of the caravan-clans cooking their evening meal, the smell of rice and mutton and coffee rising into the cool air, and the drivers sit in circles telling road-stories and arguing over the news from the far cities. A tall wooden post by the gate bears the carved marks of every clan that has passed through, some centuries old.",
+        "parent_location_id": "location:alk-qadira",
+        "jurisdiction": "Under the Rest-Keeper, a hereditary officer of the Water-Sheikh, who maintains the well, the cells, and the peace. The Dune Rest is sanctuary-ground; no feud or debt may be pursued within its walls, and the Rest-Keeper's guards enforce this with short staves.",
+        "terrain": "mud-brick square enclosure, packed-earth yard, arcaded stables, lattice-window cells",
+        "resources": ["sweet water", "lodging", "camel stabling", "storerooms", "caravan news"]
+      }
+    },
+    {
+      "id": "location:alk-qadira-wellofmirrors",
+      "name": "The Well of Mirrors",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The Well of Mirrors is the sacred shrine of Qadira, set apart in a grove of ancient tamarisks at the lake's deep end, where the water is clearest and coldest. It is both a well and a temple — a stone shaft lined with mirrors of polished obsidian and brass set into the masonry, so that when one looks down into the well one sees not only the water but a thousand reflections of the sky, the trees, and one's own face, said to be the faces of the djinn who dwell in the water and answer those who come to the well with offerings and true questions. The shrine is tended by the Water-Mystic, a veiled woman who has sworn never to leave the grove, who interprets the visions seen in the well and pours the offerings of milk, rosewater, and date-wine that the suppliants bring. The air is cool and still and smells of water, tamarisk, and the faint sweetness of the offerings. The people of Qadira come here before a long journey to ask the water-djinn for safe passage, and the caravan-masters will not set out without the Mystic's blessing. It is said that the well shows the truth of a question only to those who ask in earnest, and lies to all others, and that to throw a lie into the well is to bring the djinn's anger on the whole oasis.",
+        "parent_location_id": "location:alk-qadira",
+        "jurisdiction": "Sovereign under the Water-Mystic, who answers to no secular authority. The Water-Sheikh defers to her in all matters of the shrine, and the caravan-clans honour her blessing as law. To harm the shrine or the Mystic is the gravest taboo of the oasis, punished by exile into the deep desert.",
+        "terrain": "tamarisk grove, mirrored stone well, sacred spring, shaded shrine",
+        "resources": ["water-visions", "journey blessings", "ritual offerings", "date-wine", "obsidian mirrors"]
+      }
+    },
+    {
+      "id": "location:alk-qadira-gardenquarter",
+      "name": "The Garden Quarter",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The Garden Quarter is the residential heart of the permanent city of Qadira, the old settlement of the oasis families that lies between the lake and the desert gate, a maze of narrow lanes shaded by the fronds of date-palms and the awnings of the houses, where the mud-brick walls are white-washed and hung with jasmine and climbing rose and the air smells of green water, blossom, and the cool earth of the gardens. Each house opens onto a small inner courtyard with a citrus tree, a small fountain, and a kitchen-garden of herbs and vegetables, and the lanes between them are so narrow that neighbours can talk from window to window across the gap. It is a quiet quarter, peopled by the old families who have lived by the oasis for generations, and the women move freely between the courtyards visiting and sharing the work of the date-harvest and the preparation of the date-wine and the rose-attar that the oasis exports. At the quarter's heart stands the Date Press, a great stone building where the dates are pressed into the dense sweet cakes that keep for years on the road, and where the old men gather in the shade to play stones and gossip.",
+        "parent_location_id": "location:alk-qadira",
+        "jurisdiction": "Residential quarter under the authority of the Quarter-Elder, elected by the oasis families. The Elder handles minor disputes, maintains the lanes and the shared cisterns, and reports to the Water-Sheikh. The Quarter is traditionally off-limits to the caravan-clans' animals, a rule enforced by the families' own young men.",
+        "terrain": "narrow shaded lanes, mud-brick courtyard houses, date-palm gardens, kitchen-gardens",
+        "resources": ["date-cakes", "date-wine", "rose-attar", "citrus", "herbs", "jasmine"]
+      }
+    },
+    {
+      "id": "location:alk-basur-coralhouse",
+      "name": "The Coral House",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The Coral House is the seat of the Port-Warden of Basur, a fortified palace of coral-rock and lime at the headland's summit, its walls pale pink and pocked with the holes of the coral from which it is built, its flat roof crowned with a high watch-tower from which the Warden can see the whole harbour, the strait, and the salt-flats to the north. Within, the halls are paved in dark stone brought as ballast from foreign ships and hung with the flags and captured banners of the merchant houses and the pirate-fleets the Warden's guards have broken, and the air smells of salt, ink, and the strong coffee the Warden drinks through the long watches. The Warden's seat is a heavy chair of ship's timber behind a great desk of driftwood-fig, piled with the customs-ledgers, harbour-tallies, and the sealed letters from the Sheikh of Zaffar and the foreign consuls. A gallery of windows looks out over the harbour so that the Warden can watch the ships come and go as he works. Guards in salt-bleached tunics with curved swords stand at the doors, and a harbour-signal station on the roof flies flags to direct traffic and to warn of storms or strange sails.",
+        "parent_location_id": "location:alk-basur",
+        "jurisdiction": "Seat of the Port-Warden, who governs Basur, commands the harbour-guards, and holds near-sovereign authority by distance from Zaffar. All customs, harbour law, and external trade are administered here. The Salt Council may veto duties but the Warden commands force.",
+        "terrain": "coral-rock fortress-palace, headland summit, watch-tower, harbour gallery",
+        "resources": ["customs records", "harbour signals", "captured banners", "trade licenses"]
+      }
+    },
+    {
+      "id": "location:alk-basur-saltharbor",
+      "name": "The Salt Harbor",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The Salt Harbor is the great harbour of Basur, the sheltered water between the black volcanic breakwaters where the ships of Al-Khayzar and a dozen foreign ports lie at anchor or tied to the long stone quays, a forest of masts and lateen yards so thick a child could cross the harbour by jumping deck to deck. The quays are a continuous roar of unloading — stevedores hauling bales and barrels, crane-teams swinging cargo from the holds, porters carrying spice and silk and salt in endless streams to the warehouses that back the waterfront, and the shouts of captains and harbour-officers cutting through the creak of rigging and the slap of water on stone. The ships are of every kind — the great spice-dhows of Al-Khayzar, the copper-hulled galleys of the western kingdoms, the slender pirate-cutters that now trade under Basuri papers, and the fishing-boats that put out at dawn and return at dusk heavy with the silver fish of the strait. The smell is of salt, tar, hemp, fish, and the spice that spills from broken bales onto the wet stone, and the gulls are a constant screaming cloud above the quays. At night the harbour is lit by fish-oil lamps on every post and the lights of the ships, and the waterfront taverns open their doors.",
+        "parent_location_id": "location:alk-basur",
+        "jurisdiction": "Under the Harbour-Captain, the Port-Warden's deputy, who commands the harbour-guards, assigns berths, regulates traffic, and enforces the harbour code. The Harbour-Captain's word on the water is absolute; the Warden's on the land.",
+        "terrain": "sheltered harbour, volcanic breakwaters, stone quays, warehouse waterfront",
+        "resources": ["spice dhows", "merchant galleys", "fish", "salt", "berthing", "cargo handling"]
+      }
+    },
+    {
+      "id": "location:alk-basur-pearlmarket",
+      "name": "The Pearl Market",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The Pearl Market is the great market of Basur, set in a warren of covered streets behind the waterfront, its stalls and vaulted shops selling the wealth of the sea and the goods of the world — pearls by the string and the handful, mother-of-pearl inlay, coral, ambergris, sea-silk, dried sea-cucumbers, tortoiseshell combs, and the rare dyed silks and amber and ivory that the foreign ships bring. The pearl-dealers sit in the cool inner halls on silk carpets, their wares spread on black velvet, sorting and grading by lamplight with practiced eyes, and a hush hangs over the pearl-trade that is found nowhere else in the market — here fortunes are made in a whisper. The outer market is louder, selling salt in great cones, copper and brass ingots, iron tools, foreign cloth, coffee, tobacco, wine, and the slaves from the southern coasts who pass through Basur to the houses of the wealthy. Money-changers from every nation sit at corner tables clinking their different coins, and a coffee-stall at the market's heart serves the strong dark brew to all who come. The smell is of spice, salt, sweat, perfume, and the wet stone of the quays.",
+        "parent_location_id": "location:alk-basur",
+        "jurisdiction": "Under the Market-Master, an official of the Port-Warden, who enforces weights, settles disputes, and collects the market-dues. The pearl-trade is additionally governed by the Pearl Guild, whose masters set the grading standards and arbitrate among their own.",
+        "terrain": "covered market warren, vaulted shops, inner pearl-halls, waterfront alleys",
+        "resources": ["pearls", "mother-of-pearl", "coral", "ambergris", "sea-silk", "ivory", "silk", "salt", "copper", "coffee"]
+      }
+    },
+    {
+      "id": "location:alk-basur-seamosque",
+      "name": "The Mosque of the Tides",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The Mosque of the Tides is the chief mosque of Basur, built on a rocky point at the harbour mouth where the breakwater meets the shore, its walls washed white and its single dome green-tiled, reflected in the water so that at high tide it seems to float on the sea. It is dedicated to the sea-djinn and the spirit of the strait, and the sailors and fishermen of Basur come here before every voyage to pray for safe passage and to make offerings — a coin dropped into the tidal pool beneath the mosque, a length of cloth tied to the railing, a candle lit at the sea-shrine. The prayer-hall is simple and bright, its floor of worn stone, its windows open to the sea-breeze, and its qibla wall holding a great mirror of polished brass said to reflect the true heart of any who pray before it. The imam, a one-armed old sailor turned scholar, preaches the binding-law as it applies to the sea — the contracts of ship and crew and cargo, the obligations to the sea-djinn, the oaths that bind a captain to his ship. At the spring and autumn equinoxes a great ceremony is held here to renew the city's pact with the strait, and the whole fleet puts in to attend.",
+        "parent_location_id": "location:alk-basur",
+        "jurisdiction": "Under the Imam, who is elected by the ship-captains and confirmed by the Port-Warden. The mosque is sovereign in matters of sea-binding law; the Warden defers to the Imam in any dispute involving a ship's binding-contract. Refuge in the mosque is honoured even against the Warden's own guards.",
+        "terrain": "rocky point mosque, white-washed walls, green dome, tidal pool shrine",
+        "resources": ["sea-bindings", "voyage blessings", "equinox rites", "brass mirror"]
+      }
+    },
+    {
+      "id": "location:alk-basur-foreignquarter",
+      "name": "The Foreign Quarter",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The Foreign Quarter is the district of Basur set aside for the foreign merchants and their agents, a grid of streets and warehouses between the harbour and the city wall, where each foreign power has its own caravanserai-house, its own temple or chapel, and its own taverns, and where the languages and customs of a dozen nations mix in a single street. The western kingdoms keep great stone houses with their own guards and chapels, the southern merchants have open courtyards and palm-gardens, and the distant eastern traders have painted wooden houses and incense-shrines, and between them all are the taverns, the wine-shops, the gambling-halls, and the brothels that serve the sailors and the agents and that the rest of the city pretends not to know about. The smell is of foreign cooking, wine, incense, and the perfume of the foreign women, and the sound is of a dozen tongues, the clink of foreign coins, and the music of a distant lute. The Quarter is governed by its own headmen under the Port-Warden's loose oversight, and it is said that more secrets change hands in its taverns than in the Warden's own court.",
+        "parent_location_id": "location:alk-basur",
+        "jurisdiction": "Each foreign nation's trade-house is under its own consul or headman, who answers to the Port-Warden for his people's conduct. The Quarter's taverns and brothels are under a Quarter-Master appointed by the Warden. Foreign law applies within the trade-houses; Basuri law in the streets.",
+        "terrain": "grid of trade-house streets, foreign chapels, taverns, palm-gardens, warehouses",
+        "resources": ["foreign goods", "wine", "intelligence", "foreign coin", "incense"]
+      }
+    },
+    {
+      "id": "location:alk-naqd-stoneseat",
+      "name": "The Stone Seat",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The Stone Seat is the seat of the Conclave of Gem-Houses and the Foreman of Naqd, a fortress-palace of black iron-stained sandstone at the defile's highest point, its walls buttressed against the cliff and its highest tower carved from the living rock so that it seems to grow out of the mountain. Within, the great hall is a long chamber lit by high narrow windows, its floor of polished stone inlaid with a mosaic of turquoise and carnelian, its walls hung with the banners of the five Gem-Houses and the great maps of the mountain's veins that the mine-surveyors keep. The Foreman's seat is a chair cut from a single block of dark lapis, set on a dais at the hall's end, and around it the five House-Masters sit on lower stone benches when the Conclave is in session. The hall is cool and echoes, and the air smells of stone-dust, lamp-oil, and the faint metallic tang of the deep mines. The Conclave meets here to divide claims, settle boundaries, and judge mine-crimes, and the Foreman's rulings are recorded by scribes on tablets of smooth stone. Guards in iron-stained leather with pick-axes rather than swords stand at the doors.",
+        "parent_location_id": "location:alk-naqd",
+        "jurisdiction": "Seat of the Foreman of the Gem-House Conclave, who governs Naqd and the mountain's mines. All mine-claims, water-rights for the mines, and serious crimes are judged here. The Foreman's authority is backed by the combined guards of the five Houses.",
+        "terrain": "iron-stained sandstone fortress, cliff-buttressed tower, mosaic hall",
+        "resources": ["mine-claims", "vein-maps", "lapis seat", "Conclave records"]
+      }
+    },
+    {
+      "id": "location:alk-naqd-jewelbazaar",
+      "name": "The Jewel Bazaar",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The Jewel Bazaar is the market of Naqd, a single long street of vaulted shops cut into the cliff-face along the upper terrace, where the cut and polished stones of the mountain are sold to the caravans and the agents of the binding-families and the wealthy of Zaffar. The shops are small and dark, lit by oil-lamps and by the fires of the lapidaries' wheels, and the stones are displayed on black velvet in locked cases — turquoise in blue-green clusters, lapis in deep blue blocks, carnelian in orange-red cabochons, and the rare green beryl that the binding-families prize for the binding of air-djinn, each stone held to the lamp and turned by the dealers who know every flaw and fire. The haggling is slow, quiet, and intense, for the sums are large and the stones easily swapped for glass, and the caravan-masters come with their own testers who file and weigh and hold each stone to the sun. Beyond the finished stones the bazaar sells rough ore, silver and copper ingots, mine-timber, lamp-oil, and the hard bread and dried meat that the mine-workers live on. The smell is of stone-dust, oil, hot metal from the lapidaries' wheels, and the smoke of the charcoal fires.",
+        "parent_location_id": "location:alk-naqd",
+        "jurisdiction": "Under the Bazaar-Warden, appointed by the Foreman, who enforces the strict laws against false stones, regulates the testers and weighers, and collects the sale-tax. Fraud in the Jewel Bazaar is punished by the loss of both hands, a law the Gem-Houses enforce without mercy.",
+        "terrain": "vaulted cliff-face shops, upper terrace street, lamp-lit display cases",
+        "resources": ["turquoise", "lapis lazuli", "carnelian", "green beryl", "silver", "copper", "rough ore", "mine-timber"]
+      }
+    },
+    {
+      "id": "location:alk-naqd-deepveins",
+      "name": "The Deep Veins",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The Deep Veins are the great mine-galleries of Naqd, the heart of the mountain's wealth and its danger, a labyrinth of tunnels driven deep into the red sandstone following the veins of turquoise, lapis, and beryl that the old surveyors traced centuries ago. The mine-heads yawn at the defile's base, great dark mouths shored with timber and dripping with mine-water, and from them the galleries descend in steps and slopes into the mountain, lit by clay oil-lamps set in wall-niches and by the miners' own hand-lamps, the air growing hotter and staler and more metallic with every step down. The miners work in teams — the cutters with their pick-axes, the haulers with their baskets, the timber-men shoring the weak rock — and they are a hard and quiet breed, marked by the stone-dust in their lungs and the scars of cave-ins, paid in stone-shares and loyal to their House. The veins are narrow and follow the rock's own line, so the galleries twist and dip and sometimes break into vast natural caverns hung with crystals, or into old workings of a forgotten people whose tools are sometimes found in the dark. The mine-water is pumped by great wooden screws turned by mules at the surface, and the air is moved by great leather bellows. The smell is of stone, oil, sweat, and the iron-tang of the deep.",
+        "parent_location_id": "location:alk-naqd",
+        "jurisdiction": "The mines are the property of the Gem-Houses, each holding its own claims and galleries. The Foreman arbitrates boundaries and water-disputes. Mine-law is harsh — claim-jumping, theft of stone, or sabotage of a gallery is punished by being sealed in the offending gallery with a lamp and a water-jar, to live or die by the rock's mercy.",
+        "terrain": "deep mine-galleries, timbered tunnels, crystal caverns, mine-heads, pump-shafts",
+        "resources": ["turquoise", "lapis lazuli", "carnelian", "green beryl", "silver", "quartz", "crystal formations"]
+      }
+    },
+    {
+      "id": "location:alk-naqd-lapidariesquarter",
+      "name": "The Lapidaries' Quarter",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The Lapidaries' Quarter is the workshop district of Naqd, a cluster of low stone buildings on the middle terrace where the rough stones from the mines are washed, sorted, cut, and polished by the lapidaries — the skilled craftsmen who are the mountain's true treasure, for without them the raw stone is worth a tenth of its finished value. The quarter is loud with the whine of the cutting-wheels, the hiss of water on hot stone, and the tap of the setters' hammers, and the air is thick with the fine stone-dust that coats everything in a pale film and that the lapidaries breathe all their lives, so that the old ones cough and spit coloured phlegm. Each workshop is a single room with a great horizontal cutting-wheel turned by a mule or a water-mill, fed with abrasive sand and water, and the lapidaries sit at the wheel for hours shaping each stone, their hands steady and their eyes sharp. The master lapidaries are the elite of the town, honoured by the Gem-Houses and paid in stone-shares, and their signatures are cut into the back of every fine stone. The apprentices, young and dust-covered, sleep in the workshops and dream of the day they will cut a perfect beryl.",
+        "parent_location_id": "location:alk-naqd",
+        "jurisdiction": "Under the Master of the Wheel, elected by the master lapidaries and confirmed by the Foreman, who regulates apprenticeship, sets quality standards, and protects the lapidaries from the Gem-Houses' pressure to cut corners. The Master has the rare authority to fine a Gem-House for abuses.",
+        "terrain": "middle-terrace stone workshops, cutting-wheel rooms, dust-choked lanes",
+        "resources": ["cut stones", "polished gems", "lapidary craft", "apprentice labour"]
+      }
+    },
+    {
+      "id": "location:alk-naqd-mountainheart",
+      "name": "The Shrine of the Mountain Heart",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The Shrine of the Mountain Heart is the spirit-shrine of Naqd, set deep in the oldest mine-gallery, a natural cavern of crystals and pools that the miners found long ago and have left uncut, believing it to be the heart of the mountain-djinn whose body is the stone and whose favour gives or withholds the veins. The cavern is vast and quiet, its walls encrusted with clusters of quartz and amethyst that catch the lamplight in a thousand points of colour, and at its centre a pool of still black water reflects the crystals and the faces of those who come to pray. The mine-shaman, an old ex-miner marked by the dust and the dark, tends the shrine, pouring offerings of oil and stone-dust into the pool and reading the mountain's mood in the way the lamplight moves on the crystals. The miners come here before a new gallery is cut, asking the mountain-djinn's leave, and after a cave-in, seeking its mercy, and the Gem-Houses, for all their greed, will not cut a stone from the cavern or allow a gallery to be driven toward it, fearing the mountain's anger. The air is still and cool and smells of wet stone and oil, and the only sound is the drip of water and the low chant of the shaman.",
+        "parent_location_id": "location:alk-naqd",
+        "jurisdiction": "Sovereign under the mine-shaman, independent of the Foreman and the Gem-Houses. The shrine and the cavern around it are inviolable — no mining is permitted within a bowshot of it, by a pact the Houses renew each year. To violate the shrine is said to bring the mountain's collapse.",
+        "terrain": "deep natural crystal cavern, still black pool, quartz and amethyst walls",
+        "resources": ["mountain auguries", "mining blessings", "quartz", "amethyst", "sacred water"]
+      }
+    },
+    {
+      "id": "location:alk-khalesh-wardenskeep",
+      "name": "The Warden's Keep",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The Warden's Keep is the seat of the Road-Warden of Khalesh, a grim fortress of blackened old-stone built into the city wall at the escarpment's edge, its walls the dressed blocks of the Old Road re-laid by the Wardens of centuries past, its towers looking out over the gravel plain and the sand-sea beyond. Within, the halls are low and dark, lit by narrow slits and by oil-lamps, their walls hung with the carved stones and inscribed tablets that the Warden's family has collected for generations, and with the old maps of the Old Road that the Khaleshi scholars have painstakingly reconstructed from the fragments. The Warden's seat is a chair of old dark wood set before a great hearth, and the Warden — a lean and weathered man of the old family — holds his court here, licensing the relic-diggers, collecting the relic-tax, and judging the disputes over claims and finds. The keep is also the city's archive, and the scribes copy and catalogue every fragment that is found and sold, building a record of the Old Road that no other city possesses. The air smells of dust, old stone, lamp-oil, and the faint dry smell of old paper.",
+        "parent_location_id": "location:alk-khalesh",
+        "jurisdiction": "Seat of the Road-Warden, the hereditary ruler of Khalesh. All relic-licensing, relic-tax, and civil law are administered here. The Warden's authority is recognized by Zaffar but the city pays only nominal tribute, and the binding-families' buying-power exerts more real influence than the Sheikh's distant writ.",
+        "terrain": "black old-stone fortress, city-wall tower, lamp-lit halls, hearth-court",
+        "resources": ["relic licenses", "Old Road maps", "relic-tax records", "inscribed tablets", "archival copies"]
+      }
+    },
+    {
+      "id": "location:alk-khalesh-relicbazaar",
+      "name": "The Relic Bazaar",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The Relic Bazaar is the market of Khalesh, a rough square of stalls and tents at the city's centre where the fragments of the Old Road are traded alongside the ordinary goods the desert-edge city needs. The relic-dealers sit on carpets behind their finds — carved stones with worn inscriptions, broken statues of forgotten kings, fragments of paving and arch, old metal tokens of a strange dark alloy that the smiths cannot reproduce and that the binding-families buy at any price for their djinn-work, and the rare complete tablets that can sell for a caravan's worth of gold. The scholars and the agents of the binding-families come here to buy, examining each fragment with lens and lamp, debating the inscriptions and the provenance, and the relic-diggers — lean desert men with dust in their beards — bring in new finds from the sand-sea and haggle hard. Beyond the relics the bazaar sells wool, leather, dried meat, water-jars, and the simple tools of the desert-edge, and a coffee-stall does brisk trade. The smell is of dust, hot stone, old metal, and the coffee, and the wind blows a constant fine grit across everything. A Warden's relic-warden walks the square checking licenses and sealing sales with the Warden's stamp.",
+        "parent_location_id": "location:alk-khalesh",
+        "jurisdiction": "Under the Relic-Warden, an officer of the Road-Warden, who licenses dealers and diggers, inspects finds, stamps sales, and collects the relic-tax. Unlicensed relic-digging is punished by confiscation and exile; the forging of Old Road fragments is punished by death.",
+        "terrain": "rough market square, tent and carpet stalls, dust-blown open air",
+        "resources": ["Old Road fragments", "inscribed tablets", "djinn-metal tokens", "broken statuary", "wool", "dried meat", "water-jars"]
+      }
+    },
+    {
+      "id": "location:alk-khalesh-brokenroads",
+      "name": "The Archive of the Broken Road",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The Archive of the Broken Road is the great scholarly institution of Khalesh, a long stone building adjoining the Warden's Keep, founded centuries ago by the first Road-Warden to collect and study the fragments of the Old Road and the lost empire that built it. Within, the archive is a series of cool dry halls lined with shelves of copied tablets, drawn rubbings, and bound notebooks, and with the original fragments too valuable or too fragile to sell, arranged by find-site and by the scholars' best guess at their meaning. The loremasters of the archive — a small order of dedicated scholars, some local, some come from Zaffar or beyond — work at long tables copying inscriptions, comparing fragments, and assembling the slow puzzle of the Old Road's history, its builders, its language, and its fall. The air is still and dusty and smells of old stone, ink, and the dry fibrous smell of the paper they make from the desert agave. The archive is open to any scholar who comes in good faith, and the loremasters will read an inscription for a digger or a traveller for a small fee, but the deeper records — the maps of un-excavated sites, the theories about the djinn and the Old Road — are kept for the order alone. The head loremaster, a patient grey-haired woman, is said to know more of the Old Road than any living soul.",
+        "parent_location_id": "location:alk-khalesh",
+        "jurisdiction": "Under the Head Loremaster, who holds the archive independent of the Warden by a centuries-old pact. The Warden protects the archive and funds it from the relic-tax, but does not command it. The archive's records are inviolate; no fragment held by the archive may be sold.",
+        "terrain": "long stone archive halls, shelved galleries, scholar worktables",
+        "resources": ["copied tablets", "inscription readings", "Old Road scholarship", "agave-paper", "site maps"]
+      }
+    },
+    {
+      "id": "location:alk-khalesh-sunsetgate",
+      "name": "The Sunset Gate",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The Sunset Gate is the great western gate of Khalesh, the city's opening onto the gravel plain and the sand-sea beyond, built into a gap in the Old Road's old stone wall that the first settlers widened and roofed with a great lintel of black stone carved with the worn figures of the old empire's gods. The gate is the city's trade-mouth and its danger — through it come the relic-diggers with their finds, the caravans with their goods, and the desert nomads with their wool, but beyond it lies the deep sand-sea where the Old Road's fragments are found and where men are lost to the sand and the storm and the things the desert keeps. The gate is guarded by the Warden's gate-watch, who check the diggers' licenses and the caravans' loads and who keep the great horn that is sounded at the closing of the gate at dusk and at the sighting of a sandstorm on the horizon. Just inside the gate stands the Marker Stone, a great old-road pillar re-erected by the first Wardens, carved with the distances to the known sites of the Old Road fragments, and at its base the diggers leave offerings of stone and water before they set out. The wind at the gate is constant and carries the dry smell of the deep sand and, sometimes, the faint ringing sound that the old metal tokens are said to make when the wind blows across them in the desert.",
+        "parent_location_id": "location:alk-khalesh",
+        "jurisdiction": "Under the Gate-Captain of the Warden's gate-watch, who controls all entry and exit, enforces the diggers' licenses, and commands the gate's defence. The gate is closed from dusk to dawn by ancient law, and none may pass in the dark save by the Warden's sealed written order.",
+        "terrain": "old-stone city gate, black-stone lintel, gravel-plain threshold, marker pillar",
+        "resources": ["digger licenses", "gate passage", "distance markers", "storm-horn"]
+      }
+    },
+    {
+      "id": "location:alk-khalesh-windtemple",
+      "name": "The Wind-Temple",
+      "visibility": "shared",
+      "payload": {
+        "summary": "The Wind-Temple is the shrine of Khalesh, a roofless circle of old-stone pillars on a rise just within the city wall, open to the sky and the wind, dedicated to the desert-wind and the djinn of the storm, for at the desert-edge the wind is the power that gives and takes life — it brings the sand that buries and the rain that is rare and precious, and it strips the flesh from the bones of the unwary. The temple is the oldest structure in Khalesh, some of its pillars carved with the old empire's script and some uncarved and weather-smooth, and within the circle the wind-shaman — a wild-eyed man wrapped in dust-coloured wool — keeps the wind-offerings and reads the wind's intent in the way the sand moves across the circle's floor and the way the prayer-ribbons tied to the pillars flutter and tear. The people of Khalesh come here before a journey into the sand-sea, tying a ribbon to a pillar and pouring a handful of sand into the wind as an offering, and the diggers will not set out without the shaman's reading. At the great storms the shaman stands alone in the circle and chants to the wind, and the city watches from its walls, and it is said that the wind has never harmed Khalesh while the shaman stood in the circle. The air is never still here and smells of dust and the dry electric smell of the coming storm.",
+        "parent_location_id": "location:alk-khalesh",
+        "jurisdiction": "Sovereign under the wind-shaman, who answers to no secular authority. The Road-Warden defers to the shaman in all matters of the wind and the storm, and the city will not act against the shaman's reading of a journey's danger. To harm a pillar of the temple is a taboo punishable by the city's collective expulsion.",
+        "terrain": "roofless stone-pillar circle, windswept rise, prayer-ribbon pillars",
+        "resources": ["wind-readings", "journey blessings", "storm-warnings", "prayer-ribbons"]
+      }
+    }
+  ]
+}
