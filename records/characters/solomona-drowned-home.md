@@ -19,6 +19,24 @@ heritage: ''
 social_station: ''
 role: Refugee and canoe builder
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A strong, quiet man with a builder's hands and a refugee's donated clothing. He works constantly,
   building and repairing canoes with a skill that betrays his former status as a master craftsman.
 biography: ''
@@ -33,6 +51,7 @@ visual_identity:
   distinctive_features: a builder's calloused hands with a master craftsman's precision, donated clothing
     that does not quite fit, two children always within sight, a quality of urgency — he works as if every
     canoe he builds is a step toward something
+portrait_variations: []
 affiliations:
 - org:tide-refugee-council
 desires:

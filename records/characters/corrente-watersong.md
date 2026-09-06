@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Master river pilot and canoe navigator
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Compact and weathered, perpetually damp. Wears minimal clothing of woven river-reed. Her webbed
   hands are callused from decades of paddle work.
 biography: ''
@@ -29,6 +47,7 @@ visual_identity:
   - blue-green skin with faint bioluminescent mottling along the forearms
   - webbed fingers and toes with visible membrane
   - a pale scar across the throat shaped like a paddle-edge cut
+portrait_variations: []
 affiliations:
 - org:ver-river-consortium
 desires:

@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Animal trainer and messenger-bird handler
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Stocky and earthy, always accompanied by animals. Wears practical hide clothing stained with
   fur and feathers. Has a serene, slightly distracted quality, as if listening to something far away.
 biography: ''
@@ -30,6 +48,7 @@ visual_identity:
   distinctive_features:
   - a healed claw-scar across the bridge of the nose
   - a permanent faint twitch — her head turns toward things no one else can sense
+portrait_variations: []
 affiliations:
 - org:ver-shaman-circle
 desires:

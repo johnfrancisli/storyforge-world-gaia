@@ -21,6 +21,24 @@ heritage: ''
 social_station: ''
 role: Binding family daughter, djinn-confidante
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Elegant and self-possessed in gold-trimmed robes with the al-Dhahab sigil, she carries herself
   with the ease of someone who has never needed to please anyone. She has a habit of touching the family
   lamp at her belt when she is thinking, a gesture that looks like habit but is actually communication.
@@ -35,6 +53,7 @@ visual_identity:
   distinctive_features:
   - the al-Dhahab gold-tower sigil tattooed on the inside of the left wrist
   - a faint, barely visible burn mark on the right palm — from touching the lamp too long
+portrait_variations: []
 affiliations:
 - org:binding-families
 desires:

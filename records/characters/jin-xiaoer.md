@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Warlord's youngest son and hidden chi-prodigy
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Small and pale, wearing fine but plain Jin court children's clothes. Left leg braced with
   a wooden support. Always has a scroll.
 biography: ''
@@ -28,6 +46,7 @@ visual_identity:
   distinctive_features:
   - a wooden leg-brace on the left leg
   - ink stains on the right hand from reading and writing beyond his years
+portrait_variations: []
 affiliations:
 - org:jin-state
 desires:

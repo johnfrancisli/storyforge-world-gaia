@@ -18,6 +18,24 @@ heritage: ''
 social_station: ''
 role: Expedition guide and river-reader
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Lean and weathered, with a guide's cautious eyes. Wears practical travel gear and carries
   a walking staff with river-markings. Always checking the water, the sky, the current.
 biography: ''
@@ -31,6 +49,7 @@ visual_identity:
   distinctive_features:
   - a faded river-tattoo of a fish on the left forearm from his youth
   - a slight tremor in the hands that appears when the water rises
+portrait_variations: []
 affiliations:
 - org:ver-hunter-clans
 desires:

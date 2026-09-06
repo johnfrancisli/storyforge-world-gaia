@@ -19,6 +19,24 @@ heritage: ''
 social_station: ''
 role: Song-keeper
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A precise, clear-voiced woman with a song-keeper's trained memory and a scholar's careful
   habits. She carries tapa-books of notation and rehearses constantly, her lips moving in silent chant.
 biography: ''
@@ -33,6 +51,7 @@ visual_identity:
   distinctive_features: tapa-books of chant notation carried under the arm, shell pins in the hair marking
     her as a song-keeper, a habit of silent lip movement — she is always rehearsing, a tension between
     precision and uncertainty that has grown over the past year
+portrait_variations: []
 affiliations:
 - org:wayfinder-guilds
 desires:

@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Retired Navigator / Elder
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Weathered and white-bearded, Erik sits in the mead hall with a horn of mead and a far-away
   look. He wears a faded sailor's coat and his hands move constantly — tracing currents and coastlines
   on the table, as though the maps are always in front of him. He walks with a cane and a limp, both legs
@@ -30,6 +48,7 @@ visual_identity:
   eyes: pale blue, distant and watery
   distinctive_features: severely frost-scarred ears (nearly unrecognizable shapes), a permanent squint
     from decades of staring at ice-glare
+portrait_variations: []
 affiliations:
 - org:hra-shipwright-brotherhood
 desires:

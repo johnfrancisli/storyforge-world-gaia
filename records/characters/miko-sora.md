@@ -12,6 +12,24 @@ heritage: ''
 social_station: ''
 role: Shrine keeper (miko)
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A slight woman in shrine robes — white top, red hakama pants — with her sleeves tied back
   for work. She moves with the efficiency of someone who does the same things every day. Her hands are
   rough from shrine maintenance, not soft from prayer.
@@ -23,6 +41,7 @@ visual_identity:
   hair: black, long, tied back with a white ribbon
   eyes: brown
   distinctive_features: a small burn scar on her right wrist from a mishandled ofuda
+portrait_variations: []
 affiliations:
 - org:ashikara-shogunate
 desires:

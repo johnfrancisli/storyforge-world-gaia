@@ -13,6 +13,24 @@ heritage: ''
 social_station: ''
 role: Gravedigger
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Gaunt and pale, Maddox wears heavy work clothes and gloves. He smells of turned earth and
   lye. He speaks rarely and never makes eye contact.
 biography: ''
@@ -24,6 +42,7 @@ visual_identity:
   hair: lank black, grey-streaked, shoulder-length
   eyes: grey-blue, deep-set
   distinctive_features: permanently earth-stained hands, a large mole on his left jawline
+portrait_variations: []
 affiliations:
 - org:dragon-order
 desires:

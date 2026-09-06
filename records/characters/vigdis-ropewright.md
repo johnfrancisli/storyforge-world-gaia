@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Rope Maker
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Strong-armed and sun-roughened, Vigdis works at the ropewalk in a leather apron, her hands
   moving in the constant twisting rhythm of her trade. She wears her hair short — it catches in the hemp
   otherwise — and her forearms are roped with muscle and old friction-burns. She is quiet, with a dry
@@ -30,6 +48,7 @@ visual_identity:
   eyes: warm hazel
   distinctive_features: rope-burn scars on both forearms in overlapping patterns, a missing tip of her
     right ring finger (caught in a winch)
+portrait_variations: []
 affiliations:
 - org:hra-shipwright-brotherhood
 desires:

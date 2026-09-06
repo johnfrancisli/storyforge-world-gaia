@@ -12,6 +12,24 @@ heritage: ''
 social_station: ''
 role: Daimyo (provincial lord)
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A stern man in dark samurai armor, his helmet carried by a retainer behind him. He wears a
   daisho — katana and wakizashi — at all times, even indoors. His posture is perfect. He smells of iron
   and cedar oil.
@@ -25,6 +43,7 @@ visual_identity:
   hair: black, streaked grey, topknot
   eyes: dark brown, heavy-lidded
   distinctive_features: a thin scar across the left cheekbone from a duel in his youth
+portrait_variations: []
 affiliations:
 - org:ashikara-shogunate
 desires:

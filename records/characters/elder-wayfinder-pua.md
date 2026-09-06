@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Elder wayfinder, song-keeper
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A small, weathered woman in simple island cloth, her arms covered in faded tattoos so old
   they have blurred to blue shadows. She carries a wayfinder's staff that is older than she is, dark with
   salt and handling. She moves slowly but her eyes are sharp.
@@ -29,6 +47,7 @@ visual_identity:
   eyes: dark brown, bright
   distinctive_features: faded tattoo patterns covering both arms — the oldest routes, barely visible,
     a wayfinder's staff dark with age
+portrait_variations: []
 affiliations:
 - org:wayfinder-guilds
 desires:

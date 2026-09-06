@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Chief's personal guard
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Imposing and alert, with prominent spotting and a military stillness. Wears hide armor reinforced
   with bone plates. Carries a long spear and a club.
 biography: ''
@@ -31,6 +49,7 @@ visual_identity:
   - heavy jaguar-spot rosette patterning across face, neck, and arms
   - a long claw-scar down the left cheek
   - elongated canibles visible when her jaw is set
+portrait_variations: []
 affiliations:
 - org:ver-temple-guardians
 desires:

@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Messenger
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Lean and tireless, Liva wears travelling clothes — wool, leather, and a waterproof cloak —
   with a messenger's satchel across her chest. She carries a walking staff and a small knife, nothing
   more. She is weather-tanned, her face lined from wind and sun, and she moves with the efficient gait
@@ -30,6 +48,7 @@ visual_identity:
   eyes: grey, quick and observant
   distinctive_features: road-dust permanently ground into her skin, a messenger's tattoo of a running
     bird on her right ankle
+portrait_variations: []
 affiliations:
 - org:hra-shipwright-brotherhood
 desires:

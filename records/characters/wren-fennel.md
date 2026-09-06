@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Refugee
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Thin and road-worn, Wren wears travel-stained clothes that are too large for her. She carries
   the locked box everywhere, even to sleep. Her eyes are wary but not defeated.
 biography: ''
@@ -27,6 +45,7 @@ visual_identity:
   eyes: amber, alert
   distinctive_features: a burn mark on her right palm (from carrying the box near a campfire), a faded
     bruise on her left temple, a threadbare scarf worn in all weather
+portrait_variations: []
 affiliations:
 - org:val-mages-circle
 desires:

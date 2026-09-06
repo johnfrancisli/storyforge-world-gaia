@@ -18,6 +18,24 @@ heritage: ''
 social_station: ''
 role: Pearl trader
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A sharp-eyed, quick-talking woman with a trader's confident manner and a pouch of pearls at
   her belt. She is always examining, always appraising, always listening.
 biography: ''
@@ -31,6 +49,7 @@ visual_identity:
   eyes: dark brown, sharp
   distinctive_features: a pearl pouch at the belt — always within hand's reach, a habit of holding pearls
     to her ear to listen, a trader's quick appraising glance that she turns on people as well as objects
+portrait_variations: []
 affiliations:
 - org:tide-tattoo-guild
 desires:

@@ -18,6 +18,24 @@ heritage: ''
 social_station: ''
 role: Wood carver
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A strong-armed, focused woman with wood shavings in her hair and a carving adze always at
   hand. She examines wood grain the way others read faces — looking for the spirit inside.
 biography: ''
@@ -31,6 +49,7 @@ visual_identity:
   eyes: dark brown, intense
   distinctive_features: wood-tannin staining on both hands, a carving adze worn at the belt, a figurehead-in-progress
     she studies for long periods as if waiting for it to speak
+portrait_variations: []
 affiliations:
 - org:wayfinder-guilds
 desires:

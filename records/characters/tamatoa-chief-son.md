@@ -20,6 +20,24 @@ heritage: ''
 social_station: ''
 role: Fisher and chief's son
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: An unremarkable, weathered man who blends into the docks. He has his mother's build and his
   father's quiet manner, and he works hard at not being noticed.
 biography: ''
@@ -34,6 +52,7 @@ visual_identity:
   distinctive_features: a fisherman's weathered appearance that is deliberately unremarkable, old charts
     hidden in a waterproof roll in his canoe, a resemblance to Chief Lani that he does not acknowledge
     and most people do not notice
+portrait_variations: []
 affiliations:
 - org:tide-fishing-coop
 desires:

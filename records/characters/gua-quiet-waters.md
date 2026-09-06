@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Canoe maker and spirit-binder
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Quiet and precise, with the careful hands of a craftsperson. Works on the riverbank among
   half-finished hulls. Paler than most Mizuhito, with a translucent quality to her skin.
 biography: ''
@@ -31,6 +49,7 @@ visual_identity:
   - pale blue-green skin, noticeably lighter than typical Mizuhito coloration
   - webbed fingers and toes
   - fine sawdust and wood-chip scarring on both hands from adze work
+portrait_variations: []
 affiliations:
 - org:ver-river-consortium
 desires:

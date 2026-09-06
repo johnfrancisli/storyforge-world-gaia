@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Healer
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Quiet and slightly fragile-looking, Siv wears a white wool dress — the healer's color — with
   a grey shawl. Her hands are always warm, even in the coldest weather, and she keeps them pressed together
   when not working, as if holding something in. She sometimes pauses mid-sentence with a look of confusion,
@@ -29,6 +47,7 @@ visual_identity:
   eyes: pale blue, distant and sometimes confused
   distinctive_features: a faint shimmer in her skin when she heals (barely visible, like heat-haze), a
     small scar on her left palm from a ritual cut
+portrait_variations: []
 affiliations:
 - org:hra-volur-coven
 desires:

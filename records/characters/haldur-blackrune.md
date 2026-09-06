@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Rune Carver / Stone Carver
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Quiet and precise, Haldur wears a stonecutter's leather apron and works with chisels and a
   small hammer. His hands are dusted with stone powder, and his clothes are perpetually grey with granite
   dust. He speaks in a low voice and has the patient stillness of a man who works with things that outlast
@@ -30,6 +48,7 @@ visual_identity:
   eyes: dark brown, steady and unreadable
   distinctive_features: stone-dust permanently embedded in the creases of his hands, a chip-scar on his
     right thumb from a slipped chisel
+portrait_variations: []
 affiliations:
 - org:hra-rune-guild
 desires:

@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Fortune teller, seer
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Intense and restless in layered dark shawls, her hands always holding a cup or a tray of sand.
   She has dark circles under her eyes from sleepless nights of reading, and she speaks rapidly when she
   has a vision, as if afraid it will fade before she finishes.
@@ -31,6 +49,7 @@ visual_identity:
   distinctive_features:
   - ritual tattoos on the inner wrists — old fortune-teller markings
   - coffee-ground staining on the fingertips and palms
+portrait_variations: []
 affiliations:
 - org:alk-city-guard
 desires:

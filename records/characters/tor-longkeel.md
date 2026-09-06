@@ -13,6 +13,24 @@ heritage: ''
 social_station: ''
 role: Master shipwright
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A big man in a leather apron, sawdust in his beard, his hands huge and calloused from decades
   of woodwork. He smells of pine tar and wood shavings. He is quiet — not unfriendly, just economical
   with words.
@@ -27,6 +45,7 @@ visual_identity:
   eyes: blue
   distinctive_features: a woodworker's calluses on both hands, a missing ring finger on the left hand
     from a saw accident
+portrait_variations: []
 affiliations:
 - org:hra-shipwright-brotherhood
 desires:

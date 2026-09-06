@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Cook
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Sturdy and flour-dusted, Tove wears a clean apron over a plain wool dress, her sleeves rolled
   past her elbows. She moves through the kitchen with brisk authority, tasting everything, adjusting seasoning
   by instinct. Her face is round and open, the kind that looks like it has never hidden anything.
@@ -29,6 +47,7 @@ visual_identity:
   eyes: dark brown, calm and steady
   distinctive_features: a small knife-scar on her left thumb, a faded burn-mark on her right forearm shaped
     like a ladle
+portrait_variations: []
 affiliations:
 - org:hra-jarl-council
 desires:

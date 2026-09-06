@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Master drummer and rain-summoner
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Compact and electric with energy, feathers ruffled with constant motion. Carries a large ceremonial
   drum everywhere, hands always twitching as if keeping time.
 biography: ''
@@ -30,6 +48,7 @@ visual_identity:
   - feathered crest and fine scales along the jaw
   - premature greying of normally dark feathers
   - calloused, drum-worn palms
+portrait_variations: []
 affiliations:
 - org:ver-shaman-circle
 desires:

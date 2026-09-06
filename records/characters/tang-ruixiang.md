@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Acrobat troupe leader and master spy-thief
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Vibrant and athletic, wearing performer's bright silks. Laughs loudly and moves with impossible
   grace.
 biography: ''
@@ -28,6 +46,7 @@ visual_identity:
   distinctive_features:
   - a performer's callus on the right shoulder from acrobatic lifts
   - a small knife-scar on the left forearm from a close-call theft
+portrait_variations: []
 affiliations:
 - org:san-merchant-cartel
 desires:

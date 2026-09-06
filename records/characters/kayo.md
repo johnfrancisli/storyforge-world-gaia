@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Rokurokubi (long-neck yokai) in hiding as a weaver
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: She wears a plain work kimono in undyed linen, her hair in a simple braid. She sits at her
   loom with slightly hunched shoulders, as if trying to take up less space. She has dark circles under
   her eyes from poor sleep and an air of someone keeping a very large secret.
@@ -27,6 +45,7 @@ visual_identity:
   hair: black, thin, braided
   eyes: dark brown, anxious
   distinctive_features: a faint red line around the neck like a crease, usually hidden by a cloth
+portrait_variations: []
 affiliations:
 - org:ashikara-shogunate
 desires:

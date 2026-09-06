@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Volva / Rune Reader / Seer
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Gaunt and draped in layers of dark wool and reindeer fur, Yrsa moves like smoke through the
   market. Her staff is ironwood tipped with a raven skull, and she carries a pouch of runestones that
   click when she walks. Her eyes are pale and unfocused, as though she is always half-looking at something
@@ -30,6 +48,7 @@ visual_identity:
   eyes: pale grey, often unfocused
   distinctive_features: seidr-ritual scars in concentric rings on both inner wrists, a missing left eye
     (empty socket covered by a patch of dark leather)
+portrait_variations: []
 affiliations:
 - org:hra-volur-coven
 desires:

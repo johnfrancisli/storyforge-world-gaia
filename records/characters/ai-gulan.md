@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Palace servant and coerced Jin spy
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Plain and deliberately forgettable, wearing servant's gray. Moves silently and keeps her head
   down.
 biography: ''
@@ -28,6 +46,7 @@ visual_identity:
   distinctive_features:
   - a servant's rope-burn callus on both wrists from years of carrying water
   - a small, old scar on the left cheekbone
+portrait_variations: []
 affiliations:
 - org:wei-state
 desires:

@@ -18,6 +18,24 @@ heritage: ''
 social_station: ''
 role: Canoe builder
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A broad, strong-handed man with wood shavings in his hair and sawdust on his arms. He works
   with an intensity that borders on obsession, and his hands move with the confidence of decades of practice.
 biography: ''
@@ -32,6 +50,7 @@ visual_identity:
   distinctive_features: wood shavings always in the hair and on the shoulders, calloused hands with a
     woodworker's grip, a hidden cove he visits every day without explanation, dark intensity that has
     grown over the past six months
+portrait_variations: []
 affiliations:
 - org:wayfinder-guilds
 desires:

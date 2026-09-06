@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Spice merchant, binding family informant
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Round-faced and jovial in a merchant's fine robes, he is the picture of a successful trader
   — generous with samples, free with compliments, always smiling. His eyes, however, are calculating,
   and his smile reaches them less often than it should.
@@ -31,6 +49,7 @@ visual_identity:
   distinctive_features:
   - a merchant's signet ring on the right index finger
   - a wart on the left cheek
+portrait_variations: []
 affiliations:
 - org:alk-city-guard
 desires:

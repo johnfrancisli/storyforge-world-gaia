@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Smith
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Compact and soot-blackened, Sten works the bellows and the anvil with methodical precision.
   He wears a leather apron and iron-shield gloves, his hair tied back in a singed knot. He is quieter
   than Ragna and older, with the deliberate movements of a man who has learned that haste costs fingers.
@@ -28,6 +46,7 @@ visual_identity:
   eyes: brown, calm and watchful
   distinctive_features: a forge-burn scar across the back of his left hand, a missing tip of his right
     index finger (chisel-slip, early in his career)
+portrait_variations: []
 affiliations:
 - org:hra-rune-guild
 desires:

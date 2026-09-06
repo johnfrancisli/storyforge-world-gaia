@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Binding-family daughter, political reformer
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A young woman in fine desert robes — deep blue and silver, less flashy than her brother's.
   She carries a book of contract law under her arm and has ink on her fingers. She is quieter than Malik
   and pays closer attention. She watches her brother the way a chess player watches a piece.
@@ -28,6 +46,7 @@ visual_identity:
   hair: dark, long, braided
   eyes: dark brown, sharp
   distinctive_features: ink stains on the right hand from studying contract law, a small silver nose-stud
+portrait_variations: []
 affiliations:
 - org:binding-families
 desires:

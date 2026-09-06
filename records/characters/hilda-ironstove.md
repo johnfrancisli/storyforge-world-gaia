@@ -14,6 +14,24 @@ heritage: ''
 social_station: ''
 role: Orphanage Matron
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Large and formidable, Hilda wears a heavy dress and a no-nonsense expression. She has a booming
   voice and a surprisingly gentle touch with the children in her care.
 biography: ''
@@ -26,6 +44,7 @@ visual_identity:
   eyes: stern brown, softening around children
   distinctive_features: a broken and healed nose, a prominent scar on her chin from a childhood fall,
     muscular arms from years of lifting children and supplies
+portrait_variations: []
 affiliations:
 - org:dragon-order
 desires:

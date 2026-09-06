@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Mercenary Captain
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Battle-scarred and weathered, Marcus wears well-maintained chainmail and a mercenary's cloak.
   He carries a longsword and has the watchful stillness of a veteran fighter.
 biography: ''
@@ -27,6 +45,7 @@ visual_identity:
   eyes: grey, watchful
   distinctive_features: a sword scar across his left cheek, a missing chunk from his right ear (battle),
     a mercenary company tattoo (a crossed sword and coin) on his left forearm
+portrait_variations: []
 affiliations:
 - org:val-merchant-guild
 desires:

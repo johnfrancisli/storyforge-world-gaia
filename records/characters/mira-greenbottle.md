@@ -13,6 +13,24 @@ heritage: ''
 social_station: ''
 role: Herbalist
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Small and round-faced, Mira wears a patched green dress and carries herbs in every pocket.
   Her curly hair always seems to have a leaf or twig caught in it.
 biography: ''
@@ -25,6 +43,7 @@ visual_identity:
   eyes: warm brown
   distinctive_features: permanently green-stained fingertips, a missing left earlobe (lost to a biting
     creature in the woods)
+portrait_variations: []
 affiliations:
 - org:val-mages-circle
 desires:

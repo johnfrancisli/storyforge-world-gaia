@@ -19,6 +19,24 @@ heritage: ''
 social_station: ''
 role: Storyteller
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A warm-faced woman with expressive hands and a voice that can fill a room or drop to a whisper.
   She wears layers of light cloth and carries a pouch of story-stones — small carved figures she uses
   to illustrate her tales.
@@ -33,6 +51,7 @@ visual_identity:
   eyes: bright brown, warm and engaging
   distinctive_features: a pouch of carved story-stones worn at the belt, expressive hands that gesture
     constantly when speaking, a smile that reaches her eyes even when she is frightened
+portrait_variations: []
 affiliations:
 - org:wayfinder-guilds
 desires:

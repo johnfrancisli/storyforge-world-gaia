@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Tanuki (raccoon dog spirit) in disguise as a noodle shop owner
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: He wears a noodle vendor's apron over a comfortable kimono, a towel around his neck. He is
   round-bellied and perpetually cheerful, stirring broth with a ladle he handles like a baton. He laughs
   from the belly and tops off bowls without being asked. In certain light, his shadow is rounder and lower
@@ -30,6 +48,7 @@ visual_identity:
   hair: grey, thinning, under a rolled towel
   eyes: dark brown, crinkled with permanent amusement
   distinctive_features: a broad, flat nose and a leaf-shaped birthmark behind the right ear (hidden)
+portrait_variations: []
 affiliations:
 - org:ashikara-shogunate
 desires:

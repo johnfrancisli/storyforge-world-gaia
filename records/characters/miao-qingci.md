@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Chi-pathology researcher and physician
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Neat and focused, wearing Academy medical robes of gray-white. Carries a diagnostic case with
   chi-sensing tools.
 biography: ''
@@ -28,6 +46,7 @@ visual_identity:
   distinctive_features:
   - a physician's chi-sense callus on both index fingertips
   - a faint scar on the left thumb from a dissection accident
+portrait_variations: []
 affiliations:
 - org:great-academy
 desires:

@@ -14,6 +14,24 @@ heritage: ''
 social_station: ''
 role: Midwife / Herbalist
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Weathered and warm, Sybil wears a practical dress and an apron full of pouches. Her hair is
   white and her hands are gentle despite their age.
 biography: ''
@@ -26,6 +44,7 @@ visual_identity:
   eyes: warm brown
   distinctive_features: deeply lined face from decades of smiling, a large mole on her right temple, gentle
     but strong hands
+portrait_variations: []
 affiliations:
 - org:val-mages-circle
 desires:

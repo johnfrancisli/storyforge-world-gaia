@@ -19,6 +19,24 @@ heritage: ''
 social_station: ''
 role: Pearl diver (apprentice)
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A young, lean, water-confident woman with the first pearl-shell earrings of a diver and the
   sun-bleached hair that marks long hours in the sea. She is always near Hina and always watching the
   water.
@@ -34,6 +52,7 @@ visual_identity:
   distinctive_features: pearl-shell earrings — smaller than Hina's, a gift from her first solo dive, a
     birthmark on the right shoulder in the shape of a spiral, an unconscious habit of looking toward the
     eastern reef
+portrait_variations: []
 affiliations:
 - org:tide-pearl-guild
 desires:

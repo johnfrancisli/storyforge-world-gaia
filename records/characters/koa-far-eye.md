@@ -19,6 +19,24 @@ heritage: ''
 social_station: ''
 role: Scout
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A young, lean man with a scout's trained eyes and a watcher's patience. He spends most of
   his time in the watchtower and has the sun-weathered look of someone who is always outdoors.
 biography: ''
@@ -33,6 +51,7 @@ visual_identity:
   distinctive_features: a scout's watchtower — he is almost always in it, a spyglass worn on a cord around
     the neck, a logbook of observations he keeps private, dark circles under the eyes from sleepless nights
     of watching the southern horizon
+portrait_variations: []
 affiliations:
 - org:wayfinder-guilds
 desires:

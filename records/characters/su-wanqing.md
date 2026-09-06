@@ -14,6 +14,24 @@ heritage: ''
 social_station: ''
 role: Tea merchant and Academy information broker
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Warm and round-faced, always offering tea. Wears travel-worn but quality clothes and carries
   sample tins.
 biography: ''
@@ -27,6 +45,7 @@ visual_identity:
   distinctive_features:
   - tea-stained fingertips
   - a small jade pendant of a lotus (Academy signal)
+portrait_variations: []
 affiliations:
 - org:great-academy
 desires:

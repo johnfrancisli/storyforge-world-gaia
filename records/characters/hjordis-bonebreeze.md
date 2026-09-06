@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Bone Carver
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Fine-boned and precise, Hjordis works at a low bench surrounded by antler pieces, bone blanks,
   and carving tools. She wears a leather apron over a simple dress and holds her carving knife with the
   delicacy of a scribe holding a quill. Her shavings are so fine they look like snow.
@@ -29,6 +47,7 @@ visual_identity:
   eyes: grey-green, focused
   distinctive_features: a small knife-scar on her left index finger, permanently pale fingertips from
     handling bone and antler
+portrait_variations: []
 affiliations:
 - org:hra-rune-guild
 desires:

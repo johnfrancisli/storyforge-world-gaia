@@ -13,6 +13,24 @@ heritage: ''
 social_station: ''
 role: Blacksmith
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Broad-shouldered and soot-stained, with calloused hands and a permanent burn scar curling
   up her left forearm. She wears a leather apron over simple linen, her dark hair tied back with iron
   wire.
@@ -25,6 +43,7 @@ visual_identity:
   hair: dark brown, thick, worn tied back
   eyes: stormy grey
   distinctive_features: burn scar on left forearm, exceptionally large and calloused hands for her frame
+portrait_variations: []
 affiliations:
 - org:val-merchant-guild
 desires:

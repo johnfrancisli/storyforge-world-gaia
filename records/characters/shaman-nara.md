@@ -12,6 +12,24 @@ heritage: ''
 social_station: ''
 role: Elder shaman
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A weathered woman in painted river-cloth, her arms marked with the spirit-pact patterns of
   her lineage. She moves slowly but with purpose, and her eyes focus on things others do not seem to see.
   Feathers and bone ornaments hang from her neck.
@@ -25,6 +43,7 @@ visual_identity:
   hair: white, braided with river-stone beads
   eyes: dark brown
   distinctive_features: ritual scarification patterns on both forearms — the marks of her spirit-pacts
+portrait_variations: []
 affiliations:
 - org:ver-shaman-circle
 desires:

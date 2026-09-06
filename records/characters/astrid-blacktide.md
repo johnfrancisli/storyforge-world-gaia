@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Raid Captain / Shieldmaiden
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Battle-worn and weather-darkened, Astrid wears a byrnie of iron rings over leather, her shield
   slung across her back — black with a white wave-painted crest. Her hair is cropped short on the sides,
   long at the back, and she carries two axes at her belt like other people carry eating knives.
@@ -29,6 +47,7 @@ visual_identity:
   eyes: sea-green, sharp
   distinctive_features: a bite-shaped scar on her right shoulder (a wound from a shield-bite in her first
     duel), a thin gold ring in her left ear
+portrait_variations: []
 affiliations:
 - org:hra-shipwright-brotherhood
 desires:

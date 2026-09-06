@@ -14,6 +14,24 @@ heritage: ''
 social_station: ''
 role: Palace guard captain and the warlord's hidden investigator
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Imposing and armor-ready, wearing Jin-state guard uniform of dark green and black. Always
   armed.
 biography: ''
@@ -27,6 +45,7 @@ visual_identity:
   distinctive_features:
   - a sword scar from left brow to cheekbone
   - a missing tip of the left little finger
+portrait_variations: []
 affiliations:
 - org:jin-state
 desires:

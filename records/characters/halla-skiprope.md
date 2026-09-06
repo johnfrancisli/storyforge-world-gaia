@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Sailor / Deckhand
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Compact and rope-strong, Halla wears a sailor's wool tunic and waterproof leather, her hands
   wrapped in sailcloth strips against rope-burn. She is quick and sure on the deck, climbing rigging with
   the ease of someone who grew up on ships. She is quiet among the crew but loud when working — she sings
@@ -29,6 +47,7 @@ visual_identity:
   hair: brown, sun-bleached, worn in two tight braids
   eyes: dark grey, watchful
   distinctive_features: rope-burn scars on both palms, a chipped right tooth from a boom-swing
+portrait_variations: []
 affiliations:
 - org:hra-shipwright-brotherhood
 desires:

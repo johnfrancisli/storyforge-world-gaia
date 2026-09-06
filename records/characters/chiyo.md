@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Child
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: She wears a bright cotton kimono with a sash that's coming undone and geta sandals that clack
   on the stone paths. She carries a cloth bag full of acorns and interesting stones. Her hair is escaping
   its ties, and she has grass stains on her knees.
@@ -27,6 +45,7 @@ visual_identity:
   hair: black, unruly, half-tied
   eyes: dark brown, bright
   distinctive_features: a missing front tooth
+portrait_variations: []
 affiliations:
 - org:ashikara-shogunate
 desires:

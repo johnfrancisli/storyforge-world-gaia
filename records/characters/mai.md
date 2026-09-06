@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Dancer and entertainer (maiko)
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: She wears a performing kimono in flowing layers of cherry-blossom pink and white, a fan in
   each hand. She dances barefoot on the wooden stage, her hair ornamented with seasonal flowers. Her movements
   are precise and ancient in a way her audiences feel but can't name.
@@ -27,6 +45,7 @@ visual_identity:
   hair: black, long, worn in an elaborate dance style with floral kanzashi
   eyes: dark brown, expressive
   distinctive_features: a spray of pale freckles across the bridge of the nose, unusual for the region
+portrait_variations: []
 affiliations:
 - org:ashikara-shogunate
 desires:

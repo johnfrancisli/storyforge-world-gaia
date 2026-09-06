@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Baker, seal-keeper
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Round and rosy-cheeked in a baker's apron dusted with flour, her arms strong from kneading.
   She works with rhythmic efficiency, shaping dough and pulling bread from the oven with a long wooden
   peel. She is always warm to the touch.
@@ -30,6 +48,7 @@ visual_identity:
   distinctive_features:
   - permanent flour dusting on the forearms and eyebrows
   - a heat-rash scar on the right hand from the oven mouth
+portrait_variations: []
 affiliations:
 - org:binding-families
 desires:

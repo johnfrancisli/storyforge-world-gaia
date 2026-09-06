@@ -13,6 +13,24 @@ heritage: ''
 social_station: ''
 role: Wandering swordmaster (tengu)
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A tall, lean figure in mountain robes, dark wings folded against his back like a cloak. His
   face is sharp and avian, with a prominent nose and piercing eyes. He carries his katana in a plain wooden
   sheath and plays a bamboo flute when he has nothing to do, which is often.
@@ -25,6 +43,7 @@ visual_identity:
   hair: black, long, tied high
   eyes: amber
   distinctive_features: large dark folded wings, pronounced tengu nose, sharp avian features
+portrait_variations: []
 affiliations:
 - org:ashikara-shogunate
 desires:

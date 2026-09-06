@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Night-patrol guard
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Large and heavily spotted, with a guard's watchful posture. Wears reinforced hide and carries
   a heavy club. His night vision is extraordinary — he rarely needs the lantern.
 biography: ''
@@ -31,6 +49,7 @@ visual_identity:
   - heavy jaguar-spot rosette patterning across the entire body
   - a guard's tattoo — a circle with a line — on the right shoulder
   - elongated canines
+portrait_variations: []
 affiliations:
 - org:ver-shaman-circle
 desires:

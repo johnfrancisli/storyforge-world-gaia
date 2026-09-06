@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Binding family heir, secret alliance-former
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Young and athletic in binding family robes with the al-Sayf sword sigil, he carries himself
   with the confidence of a man who has not yet learned to be afraid. He is handsome and aware of it, charming
   and unaware of how much that charm costs others.
@@ -31,6 +49,7 @@ visual_identity:
   distinctive_features:
   - a dueling scar on the left jaw from a training accident
   - the al-Sayf sword sigil tattooed on the inside of the right wrist
+portrait_variations: []
 affiliations:
 - org:binding-families
 desires:

@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Shrine kitsune (tame fox spirit)
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: She wears the white and red of a senior shrine maiden, her movements precise and ancient in
   a way that feels like watching a ceremony rather than a person. A faint smell of autumn leaves follows
   her. In certain light, something shifts behind her — a shadow that doesn't match her silhouette.
@@ -29,6 +47,7 @@ visual_identity:
   eyes: amber, gold-flecked
   distinctive_features: a faint fox-like cast to the features — slightly pointed ears, narrow pupils in
     low light
+portrait_variations: []
 affiliations:
 - org:ashikara-shogunate
 desires:

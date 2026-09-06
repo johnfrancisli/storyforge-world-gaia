@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Watchman
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Lean and sharp-eyed, Solvi wears a heavy watchman's cloak and carries a signal-horn and a
   lantern. She is weather-roughened and quiet, the kind of person who notices things others do not because
   she spends more time looking. She has a habit of sketching in a small leather book during the slow hours
@@ -30,6 +48,7 @@ visual_identity:
   eyes: grey, sharp and patient
   distinctive_features: a watchman's tattoo of a beacon on her right forearm, permanent ink-stains on
     her left fingers from sketching
+portrait_variations: []
 affiliations:
 - org:hra-shipwright-brotherhood
 desires:

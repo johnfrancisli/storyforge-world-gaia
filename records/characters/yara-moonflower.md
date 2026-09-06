@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Elder shaman and spirit-pact keeper
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Weathered and regal, draped in layers of ceremonial feather-cloth and bone jewelry. Moves
   slowly but with absolute presence. Painted jaguar spots trace her temples and fade down her neck.
 biography: ''
@@ -30,6 +48,7 @@ visual_identity:
   - faint jaguar-spot patterning across the temples and jaw
   - a ritual scar in the shape of a crescent moon on the left palm
   - elongated canines visible when she speaks
+portrait_variations: []
 affiliations:
 - org:ver-river-consortium
 desires:

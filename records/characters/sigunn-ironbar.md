@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Trader
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Sharp-eyed and well-dressed by Hrafnland standards, Sigunn wears a good wool coat with silver
   clasps and keeps her hair under a trader's scarf. She carries a leather satchel of contracts and a small
   scale for weighing silver, and she always seems to be calculating.
@@ -28,6 +46,7 @@ visual_identity:
   eyes: grey-green, sharp and assessing
   distinctive_features: a trader's mark tattooed on her right forearm (a small anchor and coin), a thin
     silver chain around her neck
+portrait_variations: []
 affiliations:
 - org:hra-rune-guild
 desires:

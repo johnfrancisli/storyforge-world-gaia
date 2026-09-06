@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Brewer
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Sturdy and barley-stained, Runa works in the brewhouse surrounded by vats and jugs and the
   smell of fermentation. She wears a brewer's apron and keeps her sleeves rolled, her hands always slightly
   sticky from wort. She is practical and businesslike, with a dry wit that surfaces over a good ale.
@@ -29,6 +47,7 @@ visual_identity:
   eyes: grey, sharp and assessing
   distinctive_features: a barley-grain tattoo on her right wrist (brewer's mark), a slight crook in her
     left index finger (old break)
+portrait_variations: []
 affiliations:
 - org:hra-rune-guild
 desires:

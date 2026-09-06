@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Rope maker and structural fiber worker
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Powerfully built from decades of twisting and pulling fiber. Arms roped with muscle. Hands
   rough and calloused. Always carries a coil of cord.
 biography: ''
@@ -29,6 +47,7 @@ visual_identity:
   distinctive_features:
   - deeply calloused palms with visible fiber-grooves
   - a rope-burn scar encircling the left wrist
+portrait_variations: []
 affiliations:
 - org:ver-river-consortium
 desires:

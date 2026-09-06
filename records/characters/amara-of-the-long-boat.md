@@ -13,6 +13,24 @@ heritage: ''
 social_station: ''
 role: River trader, river-folk
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A stocky river-folk woman in waterproof river-cloth, her blue-green skin wind-dried and sun-darkened.
   She poles her boat with a strength that surprises people who judge by her height. She wears a necklace
   of river-stones, one for each year on the water.
@@ -27,6 +45,7 @@ visual_identity:
   eyes: teal
   distinctive_features: webbed hands, a necklace of seventeen river-stones, a faded tattoo of a river-spirit
     sigil on the left shoulder
+portrait_variations: []
 affiliations:
 - org:ver-river-consortium
 desires:

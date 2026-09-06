@@ -18,6 +18,24 @@ heritage: ''
 social_station: ''
 role: Chant keeper
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A composed, precise woman with a chanter's trained voice and a scholar's attention to detail.
   She wears the markers of a chant keeper — a woven scarf and bone pins — and carries a tapa-book of notation.
 biography: ''
@@ -31,6 +49,7 @@ visual_identity:
   eyes: dark brown, sharp
   distinctive_features: a chant-keeper's woven scarf, a tapa-book of chant notation carried under the
     arm, a quality of precise observation that makes people feel they are being memorized
+portrait_variations: []
 affiliations:
 - org:wayfinder-guilds
 desires:

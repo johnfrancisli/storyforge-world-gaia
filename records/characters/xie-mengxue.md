@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Fugitive chi-cultivator and whistleblower
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Nondescript and deliberately plain, wearing laundress's clothes. Hands red and rough from
   lye soap. Moves quietly and stays near exits.
 biography: ''
@@ -28,6 +46,7 @@ visual_identity:
   distinctive_features:
   - chi-cultivation calluses on both palms (inconsistent with a laundress's hands)
   - a faded Wei-state cultivation corps brand on the inside of the left wrist
+portrait_variations: []
 affiliations:
 - org:san-merchant-cartel
 desires:

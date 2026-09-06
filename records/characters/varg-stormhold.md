@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Guard / Watchman
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Big and slow-moving, Varg wears the white cloak and ringmail of the jarl's guard. He is the
   largest of the guards and the most good-natured, which makes him well-liked but also easy to approach
   — a trait that has been used against him. He carries a long axe rather than a sword.
@@ -29,6 +47,7 @@ visual_identity:
   eyes: blue, open and honest-looking
   distinctive_features: a guard's raven tattoo on his right shoulder, a broken-and-healed nose (brawl,
     years ago)
+portrait_variations: []
 affiliations:
 - org:hra-rune-guild
 desires:

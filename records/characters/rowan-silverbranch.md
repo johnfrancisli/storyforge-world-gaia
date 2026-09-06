@@ -14,6 +14,24 @@ heritage: ''
 social_station: ''
 role: Elven Elder / Hermit
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Tall and ageless, Rowan wears simple robes of forest green and walks barefoot regardless of
   season. Her hair is silver and impossibly long, and her eyes hold a depth that unnerves those who meet
   them.
@@ -27,6 +45,7 @@ visual_identity:
   eyes: emerald green
   distinctive_features: pronounced pointed ears, faint luminous quality to her skin in moonlight, bare
     feet with soles hardened like leather
+portrait_variations: []
 affiliations:
 - org:dragon-order
 desires:

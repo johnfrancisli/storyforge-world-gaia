@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Weaver
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A slim, precise woman with ink-stained fingers and cloth samples draped over one shoulder.
   She moves with deliberate grace and speaks carefully, as if every word is a thread she is placing.
 biography: ''
@@ -30,6 +48,7 @@ visual_identity:
   eyes: dark brown
   distinctive_features: ink-stained fingertips from dye work, a small bone weaving-pin worn in the hair,
     a fine woven band always on the left wrist
+portrait_variations: []
 affiliations:
 - org:wayfinder-guilds
 desires:

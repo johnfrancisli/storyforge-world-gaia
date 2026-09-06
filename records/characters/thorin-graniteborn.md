@@ -14,6 +14,24 @@ heritage: ''
 social_station: ''
 role: Stonemason
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Stocky and stone-faced, Thorin wears a leather work vest over a thick shirt, his beard braided
   with iron beads. His hands are rough as the granite he works.
 biography: ''
@@ -26,6 +44,7 @@ visual_identity:
   eyes: dark brown
   distinctive_features: a missing left ring finger (lost to a stone splinter), intricate dwarven clan
     tattoos on both forearms
+portrait_variations: []
 affiliations:
 - org:val-merchant-guild
 desires:

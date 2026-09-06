@@ -18,6 +18,24 @@ heritage: ''
 social_station: ''
 role: Physician, djinn-fire specialist
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Composed and professional in clean white healer's robes, her hands steady and her manner reassuring.
   She keeps her clinic spotless and her supplies organized with military precision. She carries a leather
   case of salves and a brass scalpel.
@@ -32,6 +50,7 @@ visual_identity:
   distinctive_features:
   - a faint scar on the left palm where she draws blood for her salve
   - a small jade-green vial on a chain around her neck, always full
+portrait_variations: []
 affiliations:
 - org:alk-scholar-circle
 desires:

@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Tattoo artist (horishi)
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: She wears a short-sleeved kimono that shows her own elaborate tattoos — a phoenix across one
   arm, water patterns on the other. She holds her needles with the steadiness of a surgeon. Her workspace
   is spotless, the ink stones arranged in a precise row.
@@ -27,6 +45,7 @@ visual_identity:
   hair: black, cropped short, practical
   eyes: dark brown, steady
   distinctive_features: elaborate tattoos visible on both forearms — phoenix and wave motifs
+portrait_variations: []
 affiliations:
 - org:ashikara-shogunate
 desires:

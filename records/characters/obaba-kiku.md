@@ -14,6 +14,24 @@ heritage: ''
 social_station: ''
 role: Ghost storyteller (kaidan-shi)
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: She wears layered quilted kimono in faded colors and a knitted cap over thin white hair. She
   holds a walking stick she doesn't need and a cup of tea that's always warm. Her voice is low and rhythmic,
   and she pauses at exactly the right moments to make children gasp.
@@ -26,6 +44,7 @@ visual_identity:
   hair: white, thin, under a cap
   eyes: dark brown, milky but sharp
   distinctive_features: deeply lined face with a permanent expression of gentle amusement
+portrait_variations: []
 affiliations:
 - org:ashikara-shogunate
 desires:

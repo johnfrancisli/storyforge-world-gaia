@@ -13,6 +13,24 @@ heritage: ''
 social_station: ''
 role: Shepherd
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Sun-weathered and practical, Wenna wears a woollen shawl and rough boots. A shepherd's crook
   is always in her hand, and she carries a slingshot tucked in her belt.
 biography: ''
@@ -24,6 +42,7 @@ visual_identity:
   hair: wheat blonde, sun-bleached, worn in a single braid
   eyes: weathered green
   distinctive_features: freckles across nose and shoulders, a crooked left little finger (healed badly)
+portrait_variations: []
 affiliations:
 - org:val-merchant-guild
 desires:

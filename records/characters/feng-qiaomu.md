@@ -14,6 +14,24 @@ heritage: ''
 social_station: ''
 role: Rice farmer and secret provider for deserters' sanctuary
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Sun-browned and strong, wearing mud-stained farmer's clothes and a woven rice-straw hat.
 biography: ''
 personality: ''
@@ -26,6 +44,7 @@ visual_identity:
   distinctive_features:
   - deep tan lines from the rice-straw hat
   - a faded scar on the left shin from a plow accident
+portrait_variations: []
 affiliations:
 - org:jin-state
 desires:

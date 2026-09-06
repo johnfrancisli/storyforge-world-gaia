@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Trader
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Well-groomed and smooth-talking, Torsten wears a good wool coat trimmed with fox fur and silver
   brooches. He carries a merchant's staff and a leather case of samples — silk swatches, spice pouches,
   silver earrings. He smiles easily and remembers every name, which is part of why he is good at his work
@@ -30,6 +48,7 @@ visual_identity:
   eyes: grey, warm on the surface, calculating underneath
   distinctive_features: a merchant's tattoo of a coin-ship on his right forearm, a small scar on his left
     cheekbone (a knife fight in a southern port, years ago)
+portrait_variations: []
 affiliations:
 - org:hra-rune-guild
 desires:

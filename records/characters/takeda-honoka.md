@@ -13,6 +13,24 @@ heritage: ''
 social_station: ''
 role: Female samurai (onna-bugeisha)
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: She wears practical armor over a dark blue kimono, her naginata resting across her back. Her
   hair is pinned severely for combat readiness. There is a folded letter tucked inside her armor that
   she touches unconsciously when she thinks no one is watching.
@@ -25,6 +43,7 @@ visual_identity:
   hair: black, pinned in a high topknot
   eyes: dark brown, narrow
   distinctive_features: a callus ridge across both palms from years of weapons training
+portrait_variations: []
 affiliations:
 - org:takeda-clan
 desires:

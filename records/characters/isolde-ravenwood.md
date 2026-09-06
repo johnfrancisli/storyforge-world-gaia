@@ -13,6 +13,24 @@ heritage: ''
 social_station: ''
 role: Healer
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Dignified and composed, Isolde wears clean but plain grey robes. Her hands are steady and
   her manner is clinical, though warmth surfaces when she treats children.
 biography: ''
@@ -25,6 +43,7 @@ visual_identity:
   eyes: dark grey
   distinctive_features: a small but precise scar on her left eyebrow, healer's ink-mark on her right wrist
     (professional guild mark)
+portrait_variations: []
 affiliations:
 - org:val-mages-circle
 desires:

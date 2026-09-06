@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Senior archivist and keeper of forbidden history
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Bookish and unobtrusive, always in Academy brown robes. Carries a scroll-case and reading
   spectacles.
 biography: ''
@@ -28,6 +46,7 @@ visual_identity:
   distinctive_features:
   - a large ink-stain birthmark on the right jaw
   - fingers stained with old ink from handling ancient scrolls
+portrait_variations: []
 affiliations:
 - org:great-academy
 desires:

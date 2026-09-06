@@ -18,6 +18,24 @@ heritage: ''
 social_station: ''
 role: Feather worker and headdress restorer
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Quiet and deft, with stained fingers and a gentle demeanor. Works in the back of Quilla's
   workshop, rarely seen by clients. Feathers cling to his clothing.
 biography: ''
@@ -31,6 +49,7 @@ visual_identity:
   distinctive_features:
   - feather-down dust lightly coating the shoulders
   - a feather-scar on the left index finger from a binding-needle
+portrait_variations: []
 affiliations:
 - org:ver-river-consortium
 desires:

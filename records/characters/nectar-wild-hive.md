@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Honey gatherer and bee-pact holder
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Sun-browned and cheerful-looking, though her smile rarely reaches her eyes. Wears a bee-wax-treated
   wrap and carries a woven hive-basket on her back. Faint buzzing can be heard near her.
 biography: ''
@@ -30,6 +48,7 @@ visual_identity:
   distinctive_features:
   - a raised, pale sting-scar directly over the sternum
   - a faint, persistent hum audible when one stands close to her
+portrait_variations: []
 affiliations:
 - org:ver-river-consortium
 desires:

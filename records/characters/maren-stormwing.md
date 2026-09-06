@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Squire
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Young and determined, Maren wears a squire's padded tunic and carries her late knight's sword,
   which is slightly too large for her. She has the posture of someone who refuses to grieve until the
   work is done.
@@ -28,6 +46,7 @@ visual_identity:
   eyes: dark grey, fierce
   distinctive_features: a squire's brand on her right shoulder (Dragon Order mark), a healing cut on her
     left cheek from the skirmish that killed her knight, calloused palms from sword training
+portrait_variations: []
 affiliations:
 - org:dragon-order
 desires:

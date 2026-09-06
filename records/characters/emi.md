@@ -13,6 +13,24 @@ heritage: ''
 social_station: ''
 role: Weaver
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: She sits cross-legged at her loom, surrounded by skeins of thread in every color. Her hands
   move in rhythmic, hypnotic patterns. Thread dust clings to her kimono, and she hums while she works
   — always the same tune, one she doesn't remember learning.
@@ -25,6 +43,7 @@ visual_identity:
   hair: dark brown, loose, with thread fragments caught in it
   eyes: hazel
   distinctive_features: faint web-like scarring on the backs of both hands, pale and old
+portrait_variations: []
 affiliations:
 - org:tsu-swordsmith-guild
 desires:

@@ -14,6 +14,24 @@ heritage: ''
 social_station: ''
 role: Baroness / Political Mediator
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Elegant and composed, Gwendolyn wears fine but understated gowns and minimal jewellery. She
   has a gift for making everyone she speaks to feel uniquely heard.
 biography: ''
@@ -26,6 +44,7 @@ visual_identity:
   eyes: hazel, warm and measuring
   distinctive_features: a beauty mark on her right cheek, a thin gold chain always worn at her throat
     (family heirloom), exceptionally manicured hands
+portrait_variations: []
 affiliations:
 - org:val-noble-council
 desires:

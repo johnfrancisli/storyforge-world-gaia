@@ -14,6 +14,24 @@ heritage: ''
 social_station: ''
 role: Desert guide
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A lean, weathered man in desert robes — sun-bleached and sand-worn, wrapped against the heat.
   His face is deeply lined and his eyes are narrowed against a sun that is no longer there. He carries
   a waterskin and a staff and moves through sand as if it were pavement.
@@ -28,6 +46,7 @@ visual_identity:
   eyes: dark brown, permanently narrowed
   distinctive_features: sun-wrinkles deep around the eyes, a sand-scar on the left cheek from a dust storm,
     a tattoo of a compass rose on the right forearm
+portrait_variations: []
 affiliations:
 - org:alk-caravan-companies
 desires:

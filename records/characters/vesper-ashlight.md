@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Falconer
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Quiet and watchful, Vesper wears a leather falconer's gauntlet on her left arm and a simple
   tunic. A peregrine falcon named Ash is usually perched on her wrist. She has an stillness about her
   that comes from hours of patient stillness with her birds.
@@ -30,6 +48,7 @@ visual_identity:
   eyes: hawkish amber
   distinctive_features: permanent talon scars on her left forearm (falconer's marks), a burn scar on her
     right cheek (a spark from a campfire), a calm stillness in her gaze that unsettles some people
+portrait_variations: []
 affiliations:
 - org:val-mages-circle
 desires:

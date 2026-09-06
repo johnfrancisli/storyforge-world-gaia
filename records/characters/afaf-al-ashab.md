@@ -18,6 +18,24 @@ heritage: ''
 social_station: ''
 role: Herbalist, garden-keeper, contract-bearer
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Gentle and earth-stained in a gardener's loose robes, she moves among her plants with a healer's
   careful touch. She always has leaves in her hair and dirt on her knees. Her garden is cool and damp,
   an oasis within the oasis.
@@ -32,6 +50,7 @@ visual_identity:
   distinctive_features:
   - green-stained fingertips from plant work
   - a faint watering-can-shaped burn scar on the left wrist from steam
+portrait_variations: []
 affiliations:
 - org:alk-scholar-circle
 desires:

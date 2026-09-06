@@ -13,6 +13,24 @@ heritage: ''
 social_station: ''
 role: Scribe
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Thin and precise, Jorah wears an ink-spotted scholar's coat and carries a leather satchel
   of documents. He is always neatly groomed and speaks in measured, careful sentences.
 biography: ''
@@ -25,6 +43,7 @@ visual_identity:
   eyes: grey
   distinctive_features: a callus on his right middle finger (quill), ink stain on his left cuff that never
     washes out, wire-rimmed spectacles
+portrait_variations: []
 affiliations:
 - org:val-mages-circle
 desires:

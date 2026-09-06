@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Sweet maker, rose-garden keeper
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Petite and precise in a clean white apron, her hands quick and delicate with sugar work. She
   is always surrounded by the scent of roses and honey. She wears a dried rose behind her ear.
 biography: ''
@@ -30,6 +48,7 @@ visual_identity:
   distinctive_features:
   - a small sugar-burn scar on the left index finger
   - permanently rose-scented skin, even after washing
+portrait_variations: []
 affiliations:
 - org:binding-families
 desires:

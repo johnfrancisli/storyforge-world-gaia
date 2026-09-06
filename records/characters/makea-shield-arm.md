@@ -19,6 +19,24 @@ heritage: ''
 social_station: ''
 role: Guard
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A large, gentle man with a guard's staff and a former wayfinder's faded tattoos on his arms.
   He moves with care for his size and has a warm, reassuring presence that belies his private fear.
 biography: ''
@@ -33,6 +51,7 @@ visual_identity:
   distinctive_features: faded wayfinder tattoos on both arms — visible but clearly no longer maintained,
     a guard's staff carried with a wayfinder's grip, a flinch when the wind comes off the sea that most
     people read as squinting
+portrait_variations: []
 affiliations:
 - org:wayfinder-guilds
 desires:

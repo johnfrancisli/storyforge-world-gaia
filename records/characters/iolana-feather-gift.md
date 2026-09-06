@@ -18,6 +18,24 @@ heritage: ''
 social_station: ''
 role: Feather worker
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A gentle, focused woman surrounded by feathers and fiber, her hands always busy. She wears
   simple cloth to keep her work materials clean. She treats every feather as if it is precious.
 biography: ''
@@ -32,6 +50,7 @@ visual_identity:
   distinctive_features: feather-fiber lint always on her clothing, a half-finished iridescent cloak she
     keeps wrapped in protective cloth, a sensitivity to air currents that makes her react to wind even
     indoors
+portrait_variations: []
 affiliations:
 - org:tide-tattoo-guild
 desires:

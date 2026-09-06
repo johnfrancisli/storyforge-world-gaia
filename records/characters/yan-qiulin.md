@@ -14,6 +14,24 @@ heritage: ''
 social_station: ''
 role: General's wife and secret spymaster
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Regal and composed, always in Chu-state crimson and gold. Carries a war-fan given by her husband.
 biography: ''
 personality: ''
@@ -26,6 +44,7 @@ visual_identity:
   distinctive_features:
   - a thin gold wedding bangle on the left wrist, never removed
   - a callus on the right thumb from archery
+portrait_variations: []
 affiliations:
 - org:chu-state
 desires:

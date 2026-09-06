@@ -19,6 +19,24 @@ heritage: ''
 social_station: ''
 role: Farmer
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A sun-browned, earth-handed man with a farmer's steady patience and a worried expression that
   he hides behind a calm face. He is always near his fields, always checking, always testing the soil.
 biography: ''
@@ -33,6 +51,7 @@ visual_identity:
   distinctive_features: soil-stained hands with a farmer's calluses, a sealed stone pit near his fields
     that he checks daily, a worried quality behind his calm expression, a habit of testing soil with his
     fingers and frowning at the results
+portrait_variations: []
 affiliations:
 - org:tide-fishing-coop
 desires:

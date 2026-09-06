@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Paper maker and unknowing supplier of chi-propaganda technology
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Patient and earthy, wearing paper-maker's work clothes stained with pulp. Hands always slightly
   damp from pulp.
 biography: ''
@@ -28,6 +46,7 @@ visual_identity:
   distinctive_features:
   - permanently pruned fingertips from working in water
   - a pulp-stain birthmark on the right wrist
+portrait_variations: []
 affiliations:
 - org:jin-state
 desires:

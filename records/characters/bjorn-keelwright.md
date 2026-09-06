@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Master Shipwright
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Massive and grey-bearded, Bjorn works in the shipyard in a leather apron, his arms scarred
   from decades of timber work. He moves slowly but with absolute precision — a man who knows that a crooked
   keel means a crooked ship. He speaks rarely, and when he does, people listen, because his words are
@@ -30,6 +48,7 @@ visual_identity:
   eyes: dark brown, deep-set and serious
   distinctive_features: a missing left earlobe (timber-splinter wound), deep calluses on both palms with
     permanently black-stained fingertips from oak tannin
+portrait_variations: []
 affiliations:
 - org:hra-shipwright-brotherhood
 desires:

@@ -18,6 +18,24 @@ heritage: ''
 social_station: ''
 role: Kava brewer
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A warm, round-faced woman with a brewer's stained hands and a welcoming manner. She serves
   kava in half-coconut cups and always drinks last. Her smile is genuine and her eyes miss nothing.
 biography: ''
@@ -31,6 +49,7 @@ visual_identity:
   eyes: dark brown, warm but watchful
   distinctive_features: kava-stained hands — a pale earthy residue that never fully washes off, a quiet
     humming while she works, half-coconut serving cups she carries in a woven basket
+portrait_variations: []
 affiliations:
 - org:wayfinder-guilds
 desires:

@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Hunter and provider
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Powerful and quiet, with a hunter's economy of movement. Wears minimal hide gear, camouflaged
   with river clay. Carries a bow, a quiver, and a hunting knife.
 biography: ''
@@ -30,6 +48,7 @@ visual_identity:
   distinctive_features:
   - river-clay camouflage staining that never fully washes from the skin
   - a bowstring callus on the right index and middle fingers
+portrait_variations: []
 affiliations:
 - org:ver-hunter-clans
 desires:

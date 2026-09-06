@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Hunter
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Lean and snow-pale, Hilla wears white-fur camouflage over wool, a bow across her back and
   a belt knife at her hip. She moves silently even on crusty snow, her boots carefully wrapped. Her face
   is wind-burned and watchful, and she speaks rarely and briefly.
@@ -29,6 +47,7 @@ visual_identity:
   eyes: pale green, sharp and steady
   distinctive_features: frost-scar on her right cheek, a crooked nose (broken and healed), a bow-callus
     on her left fingers
+portrait_variations: []
 affiliations:
 - org:hra-jarl-council
 desires:

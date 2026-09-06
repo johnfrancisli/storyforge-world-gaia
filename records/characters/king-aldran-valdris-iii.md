@@ -14,6 +14,24 @@ heritage: ''
 social_station: ''
 role: King of Valdris
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A tall man in royal blues and gold, his crown slightly too large for him now that he has thinned.
   He sits carefully, favors his left side, and his hands tremble slightly when he is tired. His beard
   is white and neatly trimmed. He watches his court the way a general watches a battlefield.
@@ -26,6 +44,7 @@ visual_identity:
   hair: white, thinning
   eyes: pale blue
   distinctive_features: a faded scar on the right brow from an old battle wound
+portrait_variations: []
 affiliations:
 - org:val-merchant-guild
 desires:

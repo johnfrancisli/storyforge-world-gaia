@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Scout / Messenger
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Lean and fast, Koll wears light wool and leather — travelling clothes, not armor — with a
   scout's short bow and a belt knife. He is always slightly out of breath, as though he has just arrived
   from somewhere far away, because he usually has. His face is wind-burned and his eyes are always scanning
@@ -30,6 +48,7 @@ visual_identity:
   eyes: green, bright and constantly moving
   distinctive_features: a scout's tattoo of an eye on his right wrist, a scar on his left cheek from a
     fall against rock
+portrait_variations: []
 affiliations:
 - org:hra-shipwright-brotherhood
 desires:

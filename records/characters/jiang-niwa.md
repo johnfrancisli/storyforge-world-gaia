@@ -14,6 +14,24 @@ heritage: ''
 social_station: ''
 role: Master potter and unknowing qilin-clay guardian
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Earth-stained and practical, wearing clay-spattered work clothes and a kiln-scarred apron.
 biography: ''
 personality: ''
@@ -26,6 +44,7 @@ visual_identity:
   distinctive_features:
   - kiln-burn scars on both forearms
   - clay permanently embedded in the creases of her hands
+portrait_variations: []
 affiliations:
 - org:great-academy
 desires:

@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Retired samurai (ronin, former bodyguard)
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: He wears a faded kimono and a straw hat, a cane beside his garden bench. He's thinner than
   he was, but his posture still carries the memory of armor. His hands rest on his knees in a way that
   suggests he knows where every weapon in the room is.
@@ -29,6 +47,7 @@ visual_identity:
   eyes: grey, sharp despite age
   distinctive_features: an old sword scar across the collarbone and a missing left little finger — the
     mark of a past dishonor atonement
+portrait_variations: []
 affiliations:
 - org:ashikara-shogunate
 desires:

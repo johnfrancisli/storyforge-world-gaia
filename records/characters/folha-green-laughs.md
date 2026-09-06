@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Child and unknowing spirit-host
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Small, bright-eyed, and constantly in motion. Barefoot, simple wrap, hair wild. Carries a
   woven doll made of palm leaves.
 biography: ''
@@ -29,6 +47,7 @@ visual_identity:
   distinctive_features:
   - a gap-toothed smile
   - faint, unexplained bruising on both forearms
+portrait_variations: []
 affiliations:
 - org:ver-shaman-circle
 desires:

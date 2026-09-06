@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Master jade carver and Jade Restoration operative
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Precise and self-contained, wearing fine craftsman's robes. Hands always still and deliberate.
 biography: ''
 personality: ''
@@ -27,6 +45,7 @@ visual_identity:
   distinctive_features:
   - jade-dust stains in the cuticles
   - a faint white scar on the right thumb from a carving slip
+portrait_variations: []
 affiliations:
 - org:san-merchant-cartel
 desires:

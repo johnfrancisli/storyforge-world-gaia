@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Academy cook and quiet protector
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Round and flour-dusted, wearing a cook's apron and head wrap. Always smells of star anise
   and ginger.
 biography: ''
@@ -28,6 +46,7 @@ visual_identity:
   distinctive_features:
   - a cook's burn-scar on the right wrist
   - a small mole on the left jaw
+portrait_variations: []
 affiliations:
 - org:great-academy
 desires:

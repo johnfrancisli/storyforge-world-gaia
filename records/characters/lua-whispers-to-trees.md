@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Elder storyteller and oral history keeper
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Thin and weathered, wrapped in layered cotton. Her voice is soft but carries impossible distance
   — people at the far end of a gathering always hear her clearly.
 biography: ''
@@ -29,6 +47,7 @@ visual_identity:
   distinctive_features:
   - a persistent dry whisper-clearing cough
   - ritual tattooing of small circles along the jawline, faded with age
+portrait_variations: []
 affiliations:
 - org:ver-river-consortium
 desires:

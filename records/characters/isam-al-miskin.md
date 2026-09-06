@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Beggar, former scribe, shadow intelligence network
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Thin and hollow-eyed in ragged robes, he sits against the high city wall with a begging bowl.
   His hands are ink-stained — the one detail that betrays his former life. He speaks in a whisper, and
   his eyes miss nothing that passes through the gate.
@@ -31,6 +49,7 @@ visual_identity:
   distinctive_features:
   - permanent ink stains on the right index and middle fingers — a scribe's legacy
   - a faded burn mark on the left palm where the al-Sayf family symbol was branded when he was dismissed
+portrait_variations: []
 affiliations:
 - org:alk-scholar-circle
 desires:

@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Smith
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Broad and soot-blackened, Ragna wears a leather smith's apron over rolled sleeves, her forearms
   laced with old burn scars. She works with focused intensity, hammer rising and falling in a rhythm the
   whole street can hear. Her hair is singed short at the edges from sparks.
@@ -28,6 +46,7 @@ visual_identity:
   eyes: dark brown, intense
   distinctive_features: lattice of burn scars across both forearms, a crushed-looking left thumb from
     an old hammer strike
+portrait_variations: []
 affiliations:
 - org:hra-shipwright-brotherhood
 desires:

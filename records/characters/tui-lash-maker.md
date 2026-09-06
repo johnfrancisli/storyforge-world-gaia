@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Net maker
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A compact, quick-handed woman with net fragments always draped over her lap. She works fast,
   her fingers moving in patterns so practiced they look involuntary. She talks to her nets as she makes
   them.
@@ -31,6 +49,7 @@ visual_identity:
   eyes: dark brown, quick and watchful
   distinctive_features: fiber calluses on both hands, a half-finished luminescent net she carries everywhere
     wrapped around her left arm, a habit of moving her fingers in weaving patterns even when empty-handed
+portrait_variations: []
 affiliations:
 - org:wayfinder-guilds
 desires:

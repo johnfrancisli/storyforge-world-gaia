@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Noh mask maker (men-shi)
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: She wears a carpenter's apron over a plain kimono, her hair tied back with a cloth. She holds
   a carving knife the way a calligrapher holds a brush. Wood shavings curl at her feet, and unfinished
   faces stare from every shelf.
@@ -28,6 +46,7 @@ visual_identity:
   hair: black, straight, tied back
   eyes: dark brown, intense and focused
   distinctive_features: a pale scar across the left thumb from a carving slip years ago
+portrait_variations: []
 affiliations:
 - org:tsu-tea-schools
 desires:

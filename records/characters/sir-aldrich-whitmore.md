@@ -12,6 +12,24 @@ heritage: ''
 social_station: ''
 role: Dragon-bonded knight
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A tall, broad-shouldered man in worn knight's plate, moving with the careful weight of someone
   who knows his strength. His armor is well-maintained but old. He has the controlled stillness of a fighter
   who does not need to prove anything.
@@ -25,6 +43,7 @@ visual_identity:
   hair: brown, greying at the temples, cropped short
   eyes: grey
   distinctive_features: faint scale patches on the back of the left hand — a mark of the dragon bond
+portrait_variations: []
 affiliations:
 - org:dragon-order
 desires:

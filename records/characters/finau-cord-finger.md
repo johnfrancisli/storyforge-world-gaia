@@ -18,6 +18,24 @@ heritage: ''
 social_station: ''
 role: Rope maker
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A wiry, strong-handed woman with rope burns on her palms and coils of cord always over one
   shoulder. She ties and unties knots absently while talking, her fingers never still.
 biography: ''
@@ -31,6 +49,7 @@ visual_identity:
   eyes: grey-brown, sharp
   distinctive_features: rope-burn calluses on both palms, a coil of cord always carried over the left
     shoulder, fingers that unconsciously tie and untie knots during conversation
+portrait_variations: []
 affiliations:
 - org:wayfinder-guilds
 desires:

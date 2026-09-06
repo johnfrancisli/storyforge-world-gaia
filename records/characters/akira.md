@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Scholar and tutor (jusha)
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: He wears a scholar's kimono in dark blue, a reading brush tucked in his sash. His study is
   piled with scrolls and annotated texts. He speaks slowly and precisely, weighing each word, and he has
   a habit of answering a question with a question that reshapes the conversation.
@@ -27,6 +45,7 @@ visual_identity:
   hair: grey, in a scholar's topknot
   eyes: dark brown, heavy-lidded, watchful
   distinctive_features: deep lines bracketing the mouth from a lifetime of careful expressions
+portrait_variations: []
 affiliations:
 - org:tsu-tea-schools
 desires:

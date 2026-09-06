@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Elder prince of the Ashikara shogunate
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: He wears formal court attire in dark colors and a white Noh mask that depicts a handsome,
   severe face. His movements are controlled and deliberate. He holds himself like a man who has never
   been contradicted and expects he never will be.
@@ -28,6 +46,7 @@ visual_identity:
   eyes: dark brown — visible only without the mask, which is rare
   distinctive_features: always wears a white Noh mask in public; the mask's expression seems to shift
     subtly when observed
+portrait_variations: []
 affiliations:
 - org:ashikara-shogunate
 desires:

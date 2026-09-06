@@ -12,6 +12,24 @@ heritage: ''
 social_station: ''
 role: Jarl of Skaldvik
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A tall, broad woman in fur-trimmed wool and iron, with a seax knife at her belt and a runic
   armband on her left wrist. She fills a room. Her hair is braided in the warrior style and her laugh
   carries across a mead hall.
@@ -24,6 +42,7 @@ visual_identity:
   hair: red-gold, braided warrior style
   eyes: ice blue
   distinctive_features: a scar across the bridge of the nose from a dueling cut
+portrait_variations: []
 affiliations:
 - org:hra-rune-guild
 desires:

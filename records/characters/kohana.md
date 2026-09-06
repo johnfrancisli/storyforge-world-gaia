@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Courtesan (oiran)
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: She wears elaborate layered kimono in deep crimsons and golds, her obi tied in the front as
   is the courtesan's mark. Her face is painted in the traditional style, and her hair is weighted with
   ornamental pins. She moves with studied, deliberate grace, every gesture a performance.
@@ -28,6 +46,7 @@ visual_identity:
   eyes: dark brown, kohl-lined
   distinctive_features: a small, old scar hidden beneath the hairline at the left temple — from the night
     her family died
+portrait_variations: []
 affiliations:
 - org:tsu-tea-schools
 desires:

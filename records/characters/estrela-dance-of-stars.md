@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Ceremonial dancer and trance-channel
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Graceful and expressive, with a body that seems to always be in motion even when still. Wears
   feathered dance-cloth and ankle rattles. Painted stars across her cheekbones.
 biography: ''
@@ -29,6 +47,7 @@ visual_identity:
   distinctive_features:
   - ceremonial star-paint across both cheekbones, reapplied daily
   - faint trance-scars on the feet from dancing on rough surfaces without awareness
+portrait_variations: []
 affiliations:
 - org:ver-shaman-circle
 desires:

@@ -14,6 +14,24 @@ heritage: ''
 social_station: ''
 role: Tea house owner
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A round, warm woman in a cotton apron over a plain kimono, her sleeves rolled up and her hair
   pinned with a wooden stick. She moves between tables with the speed of someone who has been doing this
   for twenty years. She always has a pot on.
@@ -26,6 +44,7 @@ visual_identity:
   hair: black, greying, pinned up with a wooden stick
   eyes: brown, warm
   distinctive_features: a splash of old burn scars on both forearms from years of kettle work
+portrait_variations: []
 affiliations:
 - org:tsu-tea-schools
 desires:

@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Elven forest-keeper, elder of the Greenhall
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A tall, slender elf in forest-green robes, her hair silver-white and very long. She moves
   slowly, as if each step is considered. Her ears are long and sharply pointed. She carries a staff of
   living wood that is still growing — small leaves bud from it in spring.
@@ -28,6 +46,7 @@ visual_identity:
   hair: silver-white, very long
   eyes: deep green
   distinctive_features: long sharply pointed ears, a staff of living wood that buds in season
+portrait_variations: []
 affiliations:
 - org:dragon-order
 desires:

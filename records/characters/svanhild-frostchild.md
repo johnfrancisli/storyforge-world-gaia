@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Child
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Small and fair-haired, Svanhild wears a child's wool tunic and fur-lined boots, her hair in
   two messy braids. She is always underfoot — climbing on the dock, chasing cats, listening to conversations
   she is not part of. She has the bright, intense stare of a child who pays attention to everything.
@@ -29,6 +47,7 @@ visual_identity:
   eyes: bright blue, wide and alert
   distinctive_features: a gap where her left upper canine is missing (baby tooth), a faded scrape-scar
     on her right knee
+portrait_variations: []
 affiliations:
 - org:hra-shipwright-brotherhood
 desires:

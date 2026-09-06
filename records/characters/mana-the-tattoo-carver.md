@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Tattoo artist, route-carver
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A stocky woman in work clothes, her arms covered in the tattoo patterns she has carved on
   others — a tradition that artists carry the routes they inscribe. She holds a bone tattooing needle
   and ink made from volcanic soot. Her hands are steady and her eyes are kind.
@@ -30,6 +48,7 @@ visual_identity:
   eyes: dark brown, kind
   distinctive_features: tattoo patterns covering both arms — twenty routes, three faded where islands
     have submerged, a bone tattooing needle always in hand or behind the ear
+portrait_variations: []
 affiliations:
 - org:wayfinder-guilds
 desires:

@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Temple ruin guardian and warning-keeper
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Lean and weather-beaten, with the focused stillness of someone who has spent years alone.
   Wears faded wraps and carries a staff carved with warning glyphs. Her eyes never stop scanning the treeline.
 biography: ''
@@ -30,6 +48,7 @@ visual_identity:
   distinctive_features:
   - warning-glyph tattoos on both forearms, faded and old
   - a rigid, braced posture as if resisting an invisible pull
+portrait_variations: []
 affiliations:
 - org:ver-shaman-circle
 desires:

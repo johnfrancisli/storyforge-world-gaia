@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Body painter and spirit-glyph keeper
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Hands and forearms permanently stained red-black from years of dye work. Bright, observant
   eyes. Wears simple wrapped cloth, always with a clay pot of fresh pigment at her hip.
 biography: ''
@@ -30,6 +48,7 @@ visual_identity:
   distinctive_features:
   - permanent red-black pigment staining from fingertips to elbows
   - a faint glyph-shaped birthmark on the right shoulder blade
+portrait_variations: []
 affiliations:
 - org:ver-canopy-council
 desires:

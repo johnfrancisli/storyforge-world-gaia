@@ -18,6 +18,24 @@ heritage: ''
 social_station: ''
 role: Wood carver
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A solid, plain man with a craftswoman's hands and an unremarkable face. She works steadily
   and without flair, and her workshop is full of functional, beautiful-in-their-simplicity wooden objects.
 biography: ''
@@ -32,6 +50,7 @@ visual_identity:
   distinctive_features: wood-stained hands, a plainness of appearance and manner that is genuine — not
     disguise, a workshop full of unfinished pieces she has been afraid to complete, a quality of distraction
     that has grown over the past month
+portrait_variations: []
 affiliations:
 - org:tide-tattoo-guild
 desires:

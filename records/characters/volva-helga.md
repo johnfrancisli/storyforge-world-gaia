@@ -14,6 +14,24 @@ heritage: ''
 social_station: ''
 role: Volva (seer, wise woman)
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: An old woman in layers of wool and fur, a pouch of runestones at her belt. She walks with
   a staff carved with runes that glow faintly in the dark. Her eyes are milky — her sight is going physical,
   but her seidr sight is sharper than ever.
@@ -26,6 +44,7 @@ visual_identity:
   hair: white, long, loose
   eyes: pale blue, milky
   distinctive_features: rune-carved staff that glows faintly, clouded eyes, ritual tattoos on both hands
+portrait_variations: []
 affiliations:
 - org:hra-rune-guild
 desires:

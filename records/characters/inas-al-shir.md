@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Court poet, verse-crafter
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Expressive and dramatic in flowing robes of deep blue, her gestures large when she recites.
   She carries a leather-bound book of verses and a reed pen. Her voice is rich and carries without effort.
 biography: ''
@@ -30,6 +48,7 @@ visual_identity:
   distinctive_features:
   - a mole on the left cheekbone
   - ink-stained lower lip from biting her pen in thought
+portrait_variations: []
 affiliations:
 - org:binding-families
 desires:

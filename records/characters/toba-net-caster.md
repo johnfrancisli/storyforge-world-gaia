@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Fisher and river-provider
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Compact and waterproof-looking, perpetually in a state of half-dryness. Wears a net-scarf
   and a fishing spear. His canoe is low and fast.
 biography: ''
@@ -31,6 +49,7 @@ visual_identity:
   - blue-green skin with mottling along the forearms
   - webbed fingers and toes
   - a fish-spine scar embedded in the left palm, permanently raised
+portrait_variations: []
 affiliations:
 - org:ver-river-consortium
 desires:

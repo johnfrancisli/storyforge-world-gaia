@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Sail maker
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A tall, long-armed woman surrounded by bolts of woven pandanus sail-cloth. Her hands are callused
   from fiber work and stained with plant dye. She hums constantly while she works.
 biography: ''
@@ -30,6 +48,7 @@ visual_identity:
   eyes: dark brown
   distinctive_features: dyed fingertips — permanently stained indigo and rust from sail-cloth dyes, a
     weaving callus on the right index finger that has hardened into a permanent ridge
+portrait_variations: []
 affiliations:
 - org:wayfinder-guilds
 desires:

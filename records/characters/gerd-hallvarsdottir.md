@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Farmer / Jarl's Sister
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Sturdy and sun-weathered for Hrafnland, Gerd wears a practical wool dress with a leather belt
   full of tools — a pruning knife, a counting-string, a key to the storehouse. She moves with the easy
   confidence of someone who knows the land is hers to tend, and her hands are always busy.
@@ -28,6 +46,7 @@ visual_identity:
   eyes: warm blue, softer than Sigrid's
   distinctive_features: a farmer's tan (rare in Hrafnland — darker skin from long outdoor hours), a old
     hay-scar on her left hand
+portrait_variations: []
 affiliations:
 - org:hra-jarl-council
 desires:

@@ -13,6 +13,24 @@ heritage: ''
 social_station: ''
 role: Guide of the Heavenly Realm
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Ageless and calm, dressed in simple undyed robes that could belong to any of the seven nations.
   They move slowly, as if time is not a concern. Their eyes are dark and patient. They carry nothing.
 biography: ''
@@ -23,6 +41,7 @@ visual_identity:
   hair: grey, long, loosely tied
   eyes: dark, patient
   distinctive_features: a faint mark on the left palm, like an old scar in the shape of a road
+portrait_variations: []
 affiliations: []
 desires:
 - To help arriving souls choose a nation to begin in, and to do this work well.

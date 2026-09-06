@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Warlord of Chu
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: An elegant man in fine silk robes, a jade pendant at his belt, a fan in his hand. He is slim,
   composed, and moves with the grace of someone trained in the martial arts who no longer needs to prove
   it. His beard is white and perfectly groomed.
@@ -27,6 +45,7 @@ visual_identity:
   hair: white, topknot, groomed beard
   eyes: dark brown, warm but calculating
   distinctive_features: a jade pendant worn at the belt, ink-calligraphy stains on the right index finger
+portrait_variations: []
 affiliations:
 - org:chu-state
 desires:

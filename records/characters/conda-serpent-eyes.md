@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Spirit-talker and serpent-pact intermediary
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Elegant and unnervingly still, with smooth green-scaled skin and a gaze that rarely blinks.
   Wears minimal wrapped garments of dark river-silk.
 biography: ''
@@ -31,6 +49,7 @@ visual_identity:
   - smooth green scales covering the forehead, temples, and neck
   - a forked tongue visible when she speaks at length
   - heat-sensory pits along the upper lip
+portrait_variations: []
 affiliations:
 - org:ver-shaman-circle
 desires:

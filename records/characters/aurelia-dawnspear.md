@@ -14,6 +14,24 @@ heritage: ''
 social_station: ''
 role: Dragon-Bonded Knight
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Tall and commanding, Aurelia wears Dragon Order plate etched with flame motifs. Her red-gold
   hair is cut short for helmet-fitting, and she moves with an awareness that suggests she is always listening
   for something inaudible.
@@ -27,6 +45,7 @@ visual_identity:
   eyes: amber
   distinctive_features: a burn-scar pattern on her left shoulder (dragon-bond mark, resembles scales),
     a broken nose that healed slightly crooked
+portrait_variations: []
 affiliations:
 - org:dragon-order
 desires:

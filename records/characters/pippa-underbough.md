@@ -13,6 +13,24 @@ heritage: ''
 social_station: ''
 role: Messenger
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Bright-eyed and perpetually in motion, Pippa wears a Dragon Order courier's vest and light
   running shoes. Her hair is cropped short for speed.
 biography: ''
@@ -25,6 +43,7 @@ visual_identity:
   eyes: bright hazel
   distinctive_features: a small gap between her front teeth, a faded bruise on her left shin (perpetual,
     from running)
+portrait_variations: []
 affiliations:
 - org:val-merchant-guild
 desires:

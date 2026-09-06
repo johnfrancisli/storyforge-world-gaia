@@ -14,6 +14,24 @@ heritage: ''
 social_station: ''
 role: Hunter, jaguar-kin
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A tall, powerful man in minimal jungle gear — a loincloth, a hunter's belt, and a bone-tipped
   spear. His skin is covered in jaguar-spot patterns, natural to his kin. He moves through the jungle
   without sound, which is unsettling when you notice it.
@@ -28,6 +46,7 @@ visual_identity:
   eyes: amber-yellow, slit-pupiled
   distinctive_features: jaguar-spot skin markings, elongated canines, a notched left ear from a jungle
     fight
+portrait_variations: []
 affiliations:
 - org:ver-canopy-council
 desires:

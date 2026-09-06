@@ -19,6 +19,24 @@ heritage: ''
 social_station: ''
 role: Drum maker
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A stocky, precise man with woodworker's calluses and a careful, measuring gaze. He treats
   every piece of wood with reverence, but he handles the dark log with something closer to caution.
 biography: ''
@@ -33,6 +51,7 @@ visual_identity:
   distinctive_features: woodworker's calluses on both hands, a large unfinished drum in a hidden workshop,
     a quality of caution — he handles most wood with confidence but the dark log with wariness, sawdust
     always on his clothing
+portrait_variations: []
 affiliations:
 - org:tide-tattoo-guild
 desires:

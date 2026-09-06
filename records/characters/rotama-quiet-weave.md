@@ -19,6 +19,24 @@ heritage: ''
 social_station: ''
 role: Sail maker's apprentice
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A small, quiet girl with a sail maker's stained hands and a tendency to watch the sky when
   others watch the sea. She is diligent and eager to please and terrified of something she cannot explain.
 biography: ''
@@ -33,6 +51,7 @@ visual_identity:
   distinctive_features: sail-cloth dye staining on both hands, pale blue eyes that are unusual for the
     Archipelago — she avoids eye contact to hide them, a habit of watching the sky rather than the sea,
     a tension in her shoulders that has grown over the past year
+portrait_variations: []
 affiliations:
 - org:wayfinder-guilds
 desires:

@@ -18,6 +18,24 @@ heritage: ''
 social_station: ''
 role: Potter and kiln-master
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Broad and soot-darkened, with burn scars on his forearms. Works shirtless near the heat of
   the kilns. His hands are permanently stained with mineral colors.
 biography: ''
@@ -32,6 +50,7 @@ visual_identity:
   - kiln-burn scarring on both forearms, layered and old
   - deep blue mineral staining on the fingers from glaze work
   - a permanent faint smokiness to his scent
+portrait_variations: []
 affiliations:
 - org:ver-river-consortium
 desires:

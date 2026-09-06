@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Martial arts teacher and philosophical pacifist
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Centered and unhurried, wearing simple Academy gray. Always has a wooden practice sword at
   his side.
 biography: ''
@@ -28,6 +46,7 @@ visual_identity:
   distinctive_features:
   - a faint scar across the left cheekbone from a tournament bout
   - hands with knuckles callused from decades of wooden-sword practice
+portrait_variations: []
 affiliations:
 - org:great-academy
 desires:

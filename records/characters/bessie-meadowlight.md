@@ -13,6 +13,24 @@ heritage: ''
 social_station: ''
 role: Farmer
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Round and weathered, Bessie wears a patched dress and a sunhat. She moves slowly but her eyes
   are sharp and miss nothing.
 biography: ''
@@ -24,6 +42,7 @@ visual_identity:
   hair: white, thin, pinned in a bun under a hat
   eyes: bright blue
   distinctive_features: deep laugh lines, a missing right thumb (harvesting accident in her youth)
+portrait_variations: []
 affiliations:
 - org:val-mages-circle
 desires:

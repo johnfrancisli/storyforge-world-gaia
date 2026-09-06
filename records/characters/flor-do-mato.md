@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Herbalist and medicine maker
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Small and wiry, always slightly muddy from foraging. Wears a wide woven hat and carries a
   basket that never seems to empty. Her fingers are stained green at the tips.
 biography: ''
@@ -29,6 +47,7 @@ visual_identity:
   distinctive_features:
   - permanent green staining at the fingertips and nails
   - a scattering of small pale scars from thorns across both hands
+portrait_variations: []
 affiliations:
 - org:ver-river-consortium
 desires:

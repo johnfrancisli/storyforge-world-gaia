@@ -14,6 +14,24 @@ heritage: ''
 social_station: ''
 role: Disguised chi-cultivation master and protector of street children
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Small and hunched in layered dirty rags, but with eyes that are too clear and a stillness
   that does not match her apparent frailty.
 biography: ''
@@ -27,6 +45,7 @@ visual_identity:
   distinctive_features:
   - a web of fine scars on the hands (old chi-training marks)
   - a barely visible, perfectly circular callus on each palm (cultivation seat-mark)
+portrait_variations: []
 affiliations:
 - org:san-merchant-cartel
 desires:

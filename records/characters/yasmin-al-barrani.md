@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Master spice merchant, political agitator
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Robust and commanding in saffron-dyed silk and gold-trimmed vest. Her hands are stained yellow
   at the fingertips from years of grading saffron threads. She wears a merchant's abacus on a chain at
   her hip.
@@ -30,6 +48,7 @@ visual_identity:
   distinctive_features:
   - permanent saffron-yellow staining on fingertips and the pads of her thumbs
   - a gold tooth in the upper left row, visible when she smiles
+portrait_variations: []
 affiliations:
 - org:alk-spice-houses
 desires:

@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Refugee and bone carver
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A quiet, skilled woman with bone dust on her hands and a heavy chest she keeps locked. She
   works with focus and reverence, as if each piece is a prayer. She does not speak about where she came
   from.
@@ -32,6 +50,7 @@ visual_identity:
   distinctive_features: bone-dust staining on both hands, a locked wooden chest she keeps within sight
     at all times, bone-carving tools worn in a roll at the belt, a quality of treating every object she
     handles as if it were sacred
+portrait_variations: []
 affiliations:
 - org:tide-refugee-council
 desires:

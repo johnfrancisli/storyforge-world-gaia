@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Shipwright
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Stocky and sawdust-covered, Greta works in a leather vest with her sleeves permanently rolled.
   Shavings cling to her arms and hair, and she carries a adze and a measuring rope looped over her shoulder.
   She talks to her ships as she builds them, naming each plank.
@@ -29,6 +47,7 @@ visual_identity:
   eyes: warm brown
   distinctive_features: a missing half of her left little finger (saw accident), deep calluses across
     both palms with a permanent ink stain on her right thumb
+portrait_variations: []
 affiliations:
 - org:hra-shipwright-brotherhood
 desires:

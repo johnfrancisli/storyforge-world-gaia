@@ -13,6 +13,24 @@ heritage: ''
 social_station: ''
 role: Binding-family scion
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A young man in fine desert robes — cream and gold — with a jeweled dagger at his belt that
   is more ornament than weapon. He carries himself well but watches the shadows. He smells of sandalwood.
 biography: ''
@@ -26,6 +44,7 @@ visual_identity:
   eyes: dark brown
   distinctive_features: a faint blue shimmer around the fingers of his right hand — a mark of proximity
     to djinn-fire
+portrait_variations: []
 affiliations:
 - org:binding-families
 desires:

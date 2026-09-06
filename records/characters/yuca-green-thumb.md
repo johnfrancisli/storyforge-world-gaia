@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Gardener and plant-tender
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Earth-toned and sun-warm, always slightly dirt-smudged. Wears a simple wrap skirt and nothing
   on her feet. Surrounded by improbably lush greenery.
 biography: ''
@@ -30,6 +48,7 @@ visual_identity:
   distinctive_features:
   - faint greenish veining visible at the wrists and ankles
   - small vine-like calluses on the palms that resemble bark
+portrait_variations: []
 affiliations:
 - org:ver-shaman-circle
 desires:

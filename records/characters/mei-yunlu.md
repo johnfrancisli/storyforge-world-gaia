@@ -13,6 +13,24 @@ heritage: ''
 social_station: ''
 role: Master silk weaver and unconscious oracle
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Gentle and focused, wearing simple weave-stained clothes. Hands always moving, as if at an
   invisible loom.
 biography: ''
@@ -26,6 +44,7 @@ visual_identity:
   distinctive_features:
   - weaver's calluses on both thumbs
   - a faint shimmer in her hair that catches light like silk thread
+portrait_variations: []
 affiliations:
 - org:jin-state
 desires:

@@ -18,6 +18,24 @@ heritage: ''
 social_station: ''
 role: Falconer, djinn-detecting bird trainer
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Sun-darkened and leather-clad in a falconer's gauntlet and vest, she carries her eldest falcon
   on her wrist. She has a still, watchful quality that mirrors her birds. Her hands are scarred from talon
   grips.
@@ -32,6 +50,7 @@ visual_identity:
   distinctive_features:
   - deep talon scars on both forearms, years of old punctures
   - a faint scar across the right eyebrow from a fledgling's beak
+portrait_variations: []
 affiliations:
 - org:binding-families
 desires:

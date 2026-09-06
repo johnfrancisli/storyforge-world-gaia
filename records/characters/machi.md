@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Merchant (akindo)
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: She wears a well-tailored kimono in muted greens and carries an abacus and a lacquered ledger
   box. She conducts business over tea in her warehouse office, surrounded by crates. She smiles when she's
   about to raise the price and goes silent when she's calculating.
@@ -27,6 +45,7 @@ visual_identity:
   hair: black, streaked silver, in a professional bun
   eyes: dark brown, calculating
   distinctive_features: an ink stain on the right index finger that never fades from years of ledger work
+portrait_variations: []
 affiliations:
 - org:ashikara-shogunate
 desires:

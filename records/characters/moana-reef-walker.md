@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Fisher
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A stocky, weathered woman with salt-bleached hair and a fishing spear always at hand. She
   wears a woven hat against the sun and moves along the reef with the sureness of someone who knows every
   step.
@@ -31,6 +49,7 @@ visual_identity:
   eyes: dark brown, narrow against the sun
   distinctive_features: a healed reef-cut scar across the left foot, a woven palm hat worn at all times
     outdoors, a fishing spear callus on the right palm
+portrait_variations: []
 affiliations:
 - org:wayfinder-guilds
 desires:

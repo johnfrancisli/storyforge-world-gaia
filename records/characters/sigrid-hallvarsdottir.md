@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Jarl of Skaldvik
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Tall and commanding, Sigrid wears a fur-trimmed cloak of deep blue over ringmail when she
   sits the high seat. Her silver-blonde hair is braided in the warrior-knot, and a brooch of polished
   iron — her brother's, reforged — pins her cloak. She speaks deliberately, as though every word is a
@@ -31,6 +49,7 @@ visual_identity:
   eyes: ice blue, pale and unwavering
   distinctive_features: a long scar from left temple to jaw, three fingers on her right hand have old
     break-calluses
+portrait_variations: []
 affiliations:
 - org:hra-shipwright-brotherhood
 desires:

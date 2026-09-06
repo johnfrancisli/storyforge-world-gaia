@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Merchant and smuggler (akindo)
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: He wears a road-worn kimono in browns and oranges, a fan tucked in his sash, and a merchant's
   cap. His cart creaks under the weight of curiosities wrapped in straw. He bows too deeply and laughs
   too readily, and his eyes calculate while his mouth smiles.
@@ -28,6 +46,7 @@ visual_identity:
   eyes: small, dark, quick
   distinctive_features: a chipped front tooth and a persistent ink stain on the right cheek from resting
     a brush there
+portrait_variations: []
 affiliations:
 - org:tsu-merchant-guild
 desires:

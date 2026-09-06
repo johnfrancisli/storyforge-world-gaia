@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Palace guard captain (banin-kashira)
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: He wears full guard captain's armor with the Ashikara crest, a katana at his side. He is solid
   and immovable, with the bearing of a man who has stood in one place watching doors for thirty years.
   He inspects his guards personally and remembers every face.
@@ -29,6 +47,7 @@ visual_identity:
   eyes: dark brown, steady
   distinctive_features: a deep scar across the bridge of the nose and a cauliflower right ear from years
     of armor helm pressure
+portrait_variations: []
 affiliations:
 - org:ashikara-shogunate
 desires:

@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: River pilot and message carrier
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Sleek and glossy, with a perpetual grin of otter confidence. Wears a waterproof satchel and
   nothing else. Moves through water like he is part of it.
 biography: ''
@@ -31,6 +49,7 @@ visual_identity:
   - fine brown fur across the entire body, thicker along the spine
   - long whiskers on both sides of the nose
   - webbed fingers and toes with short claws
+portrait_variations: []
 affiliations:
 - org:ver-river-consortium
 desires:

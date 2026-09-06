@@ -18,6 +18,24 @@ heritage: ''
 social_station: ''
 role: Herbalist and poison/antidote specialist
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Lean and still, with the economy of a snake. Works in a cluttered workshop surrounded by jars
   and dried specimens. His hands move with absolute precision.
 biography: ''
@@ -32,6 +50,7 @@ visual_identity:
   - fine dark scales across the forehead, temples, and forearms
   - a forked tongue that flicks when he is concentrating
   - chemical burn scarring on both thumbs from volatile preparations
+portrait_variations: []
 affiliations:
 - org:ver-river-consortium
 desires:

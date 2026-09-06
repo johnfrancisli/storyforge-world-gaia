@@ -19,6 +19,24 @@ heritage: ''
 social_station: ''
 role: Wayfinder (veteran navigator)
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A weathered, quiet man with extensive wayfinder tattoos covering both arms and her chest.
   She moves with the economy of someone who has spent more of her life on water than on land.
 biography: ''
@@ -33,6 +51,7 @@ visual_identity:
   distinctive_features: wayfinder tattoos covering both arms, chest, and part of the neck — more routes
     than any active wayfinder, a weathered quality that speaks of decades at sea, a wayfinder's staff
     worn smooth by years of handling
+portrait_variations: []
 affiliations:
 - org:wayfinder-guilds
 desires:

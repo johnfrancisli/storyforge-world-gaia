@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Shaman apprentice
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A slight girl in plain river-cloth, her arms not yet marked with pact-patterns — she is too
   young. Her hair is braided with river-grass, and she carries a pouch of offering-stones. She is usually
   near the water, listening to it.
@@ -29,6 +47,7 @@ visual_identity:
   eyes: dark brown, wide
   distinctive_features: unmarked arms — no pact-patterns yet, a faint blue glow around the fingertips
     when spirit-listening
+portrait_variations: []
 affiliations:
 - org:ver-river-consortium
 desires:

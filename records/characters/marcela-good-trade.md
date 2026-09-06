@@ -18,6 +18,24 @@ heritage: ''
 social_station: ''
 role: Inter-tribal trader and smuggler
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Practical and alert, with a trader's quick smile and quicker eyes. Wears travel-stained wraps
   and a wide hat. Her canoe is her home and is meticulously organized.
 biography: ''
@@ -31,6 +49,7 @@ visual_identity:
   distinctive_features:
   - a trader's tattoo of a river-confluence on the right wrist
   - a missing left little finger, lost to a river-pirate's knife years ago
+portrait_variations: []
 affiliations:
 - org:ver-river-consortium
 desires:

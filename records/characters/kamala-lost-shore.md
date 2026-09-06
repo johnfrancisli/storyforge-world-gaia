@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Refugee and net weaver
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A capable-looking woman whose hands are always busy with net fiber but whose eyes are distant
   and hollow. She is functional and helpful and quietly self-destructive.
 biography: ''
@@ -30,6 +48,7 @@ visual_identity:
   eyes: dark brown, distant
   distinctive_features: net-weaving calluses on both hands, a haunted quality to the gaze — she looks
     through people rather than at them, healing reef cuts on both feet from reckless walking at high tide
+portrait_variations: []
 affiliations:
 - org:tide-refugee-council
 desires:

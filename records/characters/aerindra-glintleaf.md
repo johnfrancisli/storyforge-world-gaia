@@ -14,6 +14,24 @@ heritage: ''
 social_station: ''
 role: Fletcher
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Slender and focused, Aerindra wears an elven work-tunic and has feather-down perpetually caught
   in her hair. She moves with the precision of someone whose craft allows no error.
 biography: ''
@@ -26,6 +44,7 @@ visual_identity:
   eyes: violet
   distinctive_features: pronounced pointed ears, a fletcher's callus on her right thumb, a tiny scar on
     her left index finger from a knife slip
+portrait_variations: []
 affiliations:
 - org:val-merchant-guild
 desires:

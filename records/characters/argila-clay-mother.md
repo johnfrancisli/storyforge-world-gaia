@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Potter and vessel maker
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Clay-dusted and serene, with strong, patient hands. Wears a wrap skirt stained with various
   clay colors. Surrounded by drying pots in every stage of completion.
 biography: ''
@@ -30,6 +48,7 @@ visual_identity:
   distinctive_features:
   - permanent clay-staining in the creases of both hands
   - a kiln-burn scar on the right thumb
+portrait_variations: []
 affiliations:
 - org:ver-shaman-circle
 desires:

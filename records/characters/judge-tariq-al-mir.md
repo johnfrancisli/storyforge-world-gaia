@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Judge, expert in contract law and the Pact
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A tall, grave man in formal judge's robes, a law scroll case at his belt. He moves deliberately,
   speaks precisely, and has the stillness of someone who has spent decades listening to liars. His beard
   is white and trimmed. He carries the law the way soldiers carry swords.
@@ -29,6 +47,7 @@ visual_identity:
   eyes: dark brown, steady
   distinctive_features: a judge's signet ring on the right index finger, ink stains on the left hand,
     a small scar on the forehead from a courtroom incident years ago
+portrait_variations: []
 affiliations:
 - org:binding-families
 desires:

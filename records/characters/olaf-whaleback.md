@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Whaler
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Burly and oil-stained, Olaf wears a heavy coat reeking of blubber and tar. His arms are thick
   and his hands are enormous, scarred from rope and harpoon work. He has a ready smile and a booming laugh,
   and he is popular in the mead hall — generous with his drink, easy with his words.
@@ -28,6 +46,7 @@ visual_identity:
   eyes: blue, warm and crinkled at the corners
   distinctive_features: a whalebone replacement for two missing front teeth, a rope-scar encircling his
     left wrist
+portrait_variations: []
 affiliations:
 - org:hra-shipwright-brotherhood
 desires:

@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Hunter / Trapper
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Lean and weather-tough, Ulf wears furs and wool in layered camouflage, his face half-hidden
   under a fur hood. He carries a bow, a belt knife, and a trapping bag, and he moves through the forest
   like he is part of it — no sound, no wasted motion. He is not a talkative man, and he has become less
@@ -30,6 +48,7 @@ visual_identity:
   eyes: grey, restless and recently haunted
   distinctive_features: a trap-scar on his left calf (his own trap, slipped in snow), three frost-nip
     scars on his fingers
+portrait_variations: []
 affiliations:
 - org:hra-rune-guild
 desires:

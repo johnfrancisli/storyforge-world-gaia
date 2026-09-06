@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Elder / Storyteller
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Tiny and birdlike, Edda sits by the fire in a chair that is too large for her, wrapped in
   shawls and furs. Her hands shake slightly, and her voice is thin but sharp when she chooses to use it.
   She is surrounded by grandchildren and great-grandchildren who bring her food and listen to her stories
@@ -30,6 +48,7 @@ visual_identity:
   eyes: pale blue, milky but still sharp
   distinctive_features: deeply lined face, a pronounced stoop, a faded tattoo of a raven on her left hand
     (nearly invisible with age)
+portrait_variations: []
 affiliations:
 - org:hra-rune-guild
 desires:

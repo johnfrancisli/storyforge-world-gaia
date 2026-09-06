@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Sail Maker
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Tall and rawboned, Thora works in a sail loft that smells of linen and tallow. She wears a
   canvas apron over rough clothes and moves among the vast spread of sailcloth like a sailor on a deck
   — sure-footed, scanning the fabric for flaws. Her hands are pale and smooth from handling cloth, which
@@ -30,6 +48,7 @@ visual_identity:
   eyes: grey, quick and detail-oriented
   distinctive_features: unusually smooth, pale hands for a Hrafnland craftswoman, a small callus on her
     right palm from sail-needle work
+portrait_variations: []
 affiliations:
 - org:hra-shipwright-brotherhood
 desires:

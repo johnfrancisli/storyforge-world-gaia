@@ -13,6 +13,24 @@ heritage: ''
 social_station: ''
 role: Tinker
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Small and road-dusty, Finneas wears a patched travelling coat with dozens of pockets, each
   holding tools and trinkets. A mule named Doris carries his wares.
 biography: ''
@@ -24,6 +42,7 @@ visual_identity:
   hair: reddish-brown, unruly curls
   eyes: bright green
   distinctive_features: perpetually ink-stained fingers, a chipped front tooth
+portrait_variations: []
 affiliations:
 - org:dragon-order
 desires:

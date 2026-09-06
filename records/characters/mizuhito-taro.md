@@ -14,6 +14,24 @@ heritage: ''
 social_station: ''
 role: Canal fisherman and unwitting intelligence asset
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Weathered and easy-smiling, wearing Mizuhito water-gear and a woven reed hat. Always smells
   of canal water and eel oil.
 biography: ''
@@ -27,6 +45,7 @@ visual_identity:
   distinctive_features:
   - a Mizuhito river-tattoo of a water-serpent on the right forearm
   - a hook-scar on the left index finger
+portrait_variations: []
 affiliations:
 - org:jin-state
 desires:

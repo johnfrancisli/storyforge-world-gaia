@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Binding family heiress, independent scholar
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Young and bookish in practical linen robes, her hair bound in a loose braid. She has ink on
   her fingers and a habit of mouthing words silently as she reads. She watches the djinn in the market
   with more intensity than fear.
@@ -30,6 +48,7 @@ visual_identity:
   distinctive_features:
   - ink stains on the right index finger from annotating contract texts
   - a small birthmark behind the left ear shaped like a flame
+portrait_variations: []
 affiliations:
 - org:binding-families
 desires:

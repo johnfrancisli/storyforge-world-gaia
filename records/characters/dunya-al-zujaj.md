@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Glassblower, accidental magician
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Sooty and bright-eyed in a leather apron and cotton scarf, working before a furnace that turns
   her face gold. She blows glass with cheeks puffed and scarred from stray sparks. Finished light-bottles
   glow on her shelves like trapped moons.
@@ -30,6 +48,7 @@ visual_identity:
   distinctive_features:
   - a spark burn scar on the right cheek
   - permanent soot darkening around the eyes
+portrait_variations: []
 affiliations:
 - org:binding-families
 desires:

@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: City Watchman
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Solid and plain-faced, Brainard wears a watchman's leather cuirass and carries a lantern and
   a club. He has the tired eyes of a man who sees the worst of the city every night.
 biography: ''
@@ -27,6 +45,7 @@ visual_identity:
   eyes: dark brown, perpetually tired
   distinctive_features: a watchman's tattoo (the city crest) on his left forearm, a crooked nose (broken
     in a bar fight during his first year), a small scar on his right eyebrow
+portrait_variations: []
 affiliations:
 - org:val-merchant-guild
 desires:

@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Monk (bozu)
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: He wears saffron robes that are faded from washing, a prayer bead bracelet on one wrist. He's
   bigger than most monks — broad-shouldered, with hands that are calloused in ways that have nothing to
   do with gardening. He bows to everyone and avoids eye contact.
@@ -28,6 +46,7 @@ visual_identity:
   hair: shaved
   eyes: dark brown, gentle but guarded
   distinctive_features: old weapons-callus scarring on both hands, partially faded
+portrait_variations: []
 affiliations:
 - org:ashikara-shogunate
 desires:

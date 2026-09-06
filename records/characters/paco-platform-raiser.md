@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Master builder and structural keeper
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Broad and capable, with builder's hands and a builder's eye for level and load. Wears a tool
   belt and a carpenter's apron. Always checking joints and braces.
 biography: ''
@@ -30,6 +48,7 @@ visual_identity:
   distinctive_features:
   - a hammer-callus on the right palm
   - a missing tip of the left ring finger from a saw accident
+portrait_variations: []
 affiliations:
 - org:ver-canopy-council
 desires:

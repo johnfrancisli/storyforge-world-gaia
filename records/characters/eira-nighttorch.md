@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Skald / Storyteller
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Slender and quick-tongued, Eira wears a dark blue poet's robe embroidered with wave-patterns
   at the hem. She carries a small harp and a pouch of memory-stones — smooth pebbles she associates with
   specific sagas, touching each before reciting. Her voice is clear and carrying, trained to fill a mead
@@ -29,6 +47,7 @@ visual_identity:
   eyes: bright grey, alert and watchful
   distinctive_features: a poet's ink-mark on her right cheekbone (a small rune for 'voice'), a chipped
     left canine
+portrait_variations: []
 affiliations:
 - org:hra-jarl-council
 desires:

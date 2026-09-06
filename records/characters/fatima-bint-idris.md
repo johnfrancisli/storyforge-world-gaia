@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Spice trader, dealer in rare and pharmacological spices
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Slim and guarded in dark robes, her face partially veiled even in the market. She moves with
   deliberate care among her wares, handling each jar as if it might bite. Her stall smells of cinnamon
   and something medicinal underneath.
@@ -30,6 +48,7 @@ visual_identity:
   distinctive_features:
   - a faint chemical burn scar on the left palm from handling raw asafoetida
   - a thin gold nose ring
+portrait_variations: []
 affiliations:
 - org:alk-spice-houses
 desires:

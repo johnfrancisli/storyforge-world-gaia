@@ -19,6 +19,24 @@ heritage: ''
 social_station: ''
 role: Bone carver
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A lean, quiet man with bone dust on her hands and a carver's careful focus. She works in a
   small shelter and speaks rarely, letting her craft communicate for her.
 biography: ''
@@ -33,6 +51,7 @@ visual_identity:
   distinctive_features: bone dust permanently staining both hands, a set of carved bone hooks kept in
     a woven pouch — each one different, a quiet intensity that makes people lower their voices around
     her, a bone fishhook worn on a cord around the neck — her first successful catch-hook
+portrait_variations: []
 affiliations:
 - org:tide-tattoo-guild
 desires:

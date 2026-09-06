@@ -13,6 +13,24 @@ heritage: ''
 social_station: ''
 role: Musician (koto player)
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: She sits behind her koto with perfect posture, her hands moving over the strings with a precision
   that comes from decades of practice. She wears a refined but faded kimono — the fabric of better days.
   Her expression is serene until she thinks no one is watching.
@@ -25,6 +43,7 @@ visual_identity:
   hair: black, greying at the temples, worn in a formal low bun
   eyes: dark brown, lined
   distinctive_features: deep calluses on the right-hand fingertips from koto picks worn for decades
+portrait_variations: []
 affiliations:
 - org:ashikara-shogunate
 desires:

@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Yuki-onna (snow woman yokai) in hiding
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: She wears layered kimono even in warm weather, pale blues and whites that match her complexion.
   She moves without sound and her breath doesn't fog in winter air. She is strikingly beautiful in a way
   that makes people uneasy, though they can't say why.
@@ -28,6 +46,7 @@ visual_identity:
   eyes: pale blue, crystalline
   distinctive_features: skin that is perpetually cool-pale, as if touched by frost; lips with a faint
     blue tint
+portrait_variations: []
 affiliations:
 - org:ashikara-shogunate
 desires:

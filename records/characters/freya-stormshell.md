@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Shellfish Gatherer / Diver
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Compact and cold-water hardened, Freya wears a sealskin diving outfit and wool underlayers,
   her skin perpetually goose-bumped from hours in the fjord. She carries a net bag and a short prying
   bar, and she moves through the tidal flats with the sure-footedness of someone who knows every rock.
@@ -29,6 +47,7 @@ visual_identity:
   eyes: sea-green, bright and water-reddened
   distinctive_features: permanently chapped lips and reddened skin around the eyes from cold-water diving,
     a small scar on her right foot from a shell cut
+portrait_variations: []
 affiliations:
 - org:hra-volur-coven
 desires:

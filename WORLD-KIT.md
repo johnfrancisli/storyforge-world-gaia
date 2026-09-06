@@ -594,6 +594,22 @@ writing the conditions from which behaviour follows.
 - **`key_phrases`** — things only this person would say. The narrator writes
   dialogue from these, so three sharp ones beat a paragraph of description.
 
+### Their statblock, and what a scene does to it
+
+`stats` is the character **as written** — level, maximum hp, mana, stamina,
+speed, defense, and the six attributes. It is canon, and it does not change
+during play. `currency` sits beside it.
+
+What changes is the *scene*. An actor in a fight carries its own `hp_current`
+against that `hp` as a ceiling, so the same person can walk into one battle
+whole and the next at a tenth of their strength — and neither fact reaches the
+other, the character record, or any other campaign playing this world. That
+separation is why a wounded companion in somebody's war scene never becomes
+everyone's wounded companion.
+
+Leave the block empty for anyone who will never be in a fight. Most of a world's
+cast never rolls anything.
+
 ### Where they stand
 
 `current_state.location` is where they are. **`purview`** is the places they are

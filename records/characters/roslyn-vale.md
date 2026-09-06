@@ -13,6 +13,24 @@ heritage: ''
 social_station: ''
 role: Fortune Teller
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Dark-haired and intense-eyed, Roslyn wears layered shawls and skirts in deep jewel tones.
   She carries a pouch of rune stones and a deck of hand-painted cards.
 biography: ''
@@ -25,6 +43,7 @@ visual_identity:
   eyes: deep amber
   distinctive_features: a small mole below her left eye, ritual tattoos on her inner wrists (old fortune-teller
     tradition)
+portrait_variations: []
 affiliations:
 - org:val-mages-circle
 desires:

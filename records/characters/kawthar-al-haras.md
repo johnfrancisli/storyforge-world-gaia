@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Night watchwoman, whistleblower
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Tall and rigid in leather armor and a watchman's turban, she carries a lantern in one hand
   and a curved sword at her hip. She walks her patrol with military precision and speaks rarely. Her face
   is weathered from years of night air.
@@ -31,6 +49,7 @@ visual_identity:
   distinctive_features:
   - a scar across the bridge of the nose from a street fight
   - a watchman's tattoo on the right forearm — a lantern sigil
+portrait_variations: []
 affiliations:
 - org:alk-scholar-circle
 desires:

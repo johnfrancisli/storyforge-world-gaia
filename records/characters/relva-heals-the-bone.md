@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Healer and bone-setter
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Clean and precise in manner and dress. Wears a wrapped sash of tools — bone needles, splints,
   poultices. Hands always washed, always ready.
 biography: ''
@@ -29,6 +47,7 @@ visual_identity:
   distinctive_features:
   - a faded bite scar on the right forearm from a panicked patient
   - perpetually clean, short-bitten nails
+portrait_variations: []
 affiliations:
 - org:ver-canopy-council
 desires:

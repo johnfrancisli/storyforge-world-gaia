@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Academic explorer
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A thin, sunburnt man in explorer's clothes — canvas trousers, a linen shirt, and a wide hat.
   He carries a leather satchel full of notebooks and a compass. His Valdris accent is strong and his jungle
   skills are improving but not great.
@@ -29,6 +47,7 @@ visual_identity:
   eyes: blue, near-sighted
   distinctive_features: round spectacles, a leather satchel always over the shoulder, mosquito bites on
     both arms
+portrait_variations: []
 affiliations:
 - org:ver-river-consortium
 desires:

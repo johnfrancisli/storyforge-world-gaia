@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Fisherman's wife and fishmonger
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: She wears a practical dark kimono with a fishmonger's apron, rubber-soled sandals for the
   dock. Her hands are rough from salt water and net-mending. She smells of the sea and wood smoke. Her
   eyes are tired in a way that has nothing to do with the hour.
@@ -27,6 +45,7 @@ visual_identity:
   hair: black, sun-faded, tied in a practical single braid
   eyes: dark brown, shadowed underneath
   distinctive_features: a rope-burn scar across the left palm from hauling nets
+portrait_variations: []
 affiliations:
 - org:ashikara-shogunate
 desires:

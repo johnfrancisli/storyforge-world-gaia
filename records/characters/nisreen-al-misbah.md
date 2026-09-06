@@ -18,6 +18,24 @@ heritage: ''
 social_station: ''
 role: Lamp maker, djinn-blooded (hidden)
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Compact and efficient in a clean apron, her hands quick with copper and brass. She is warmer
   and more social than Esam and handles their customers. In dim light, her skin has a faint, barely perceptible
   warmth to it.
@@ -32,6 +50,7 @@ visual_identity:
   distinctive_features:
   - a faint, permanent warmth to the skin — not feverish, but noticeable on contact
   - a small copper-burn scar on the left palm
+portrait_variations: []
 affiliations:
 - org:binding-families
 desires:

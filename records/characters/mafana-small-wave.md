@@ -18,6 +18,24 @@ heritage: ''
 social_station: ''
 role: Refugee child
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A small, watchful girl who moves silently and communicates through gesture. She is always
   near the water and always listening. She carries a small piece of coral she found on arrival and has
   not let go of since.
@@ -32,6 +50,7 @@ visual_identity:
   eyes: dark brown, very large and very watchful
   distinctive_features: a small piece of white coral carried always in the left hand, a complete silence
     — she has not spoken a word since her arrival, a stillness that is unusual in a child
+portrait_variations: []
 affiliations:
 - org:tide-refugee-council
 desires:

@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Innkeeper
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Cheerful and round, Calla wears a clean apron and keeps her hair in a kerchief. She has a
   ready laugh and a sharp eye for who needs a room and who needs a meal on the house.
 biography: ''
@@ -27,6 +45,7 @@ visual_identity:
   eyes: warm hazel
   distinctive_features: a burn scar on her left hand (kitchen accident), laugh lines deep enough to be
     visible across a room, a small gold hoop in her left ear
+portrait_variations: []
 affiliations:
 - org:val-merchant-guild
 desires:

@@ -14,6 +14,24 @@ heritage: ''
 social_station: ''
 role: Noodle vendor and accidental secret-bearer
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Round and ruddy, always steaming and wiping his hands on his apron. Laughs easily and loudly.
 biography: ''
 personality: ''
@@ -26,6 +44,7 @@ visual_identity:
   distinctive_features:
   - a soup-burn scar on the left forearm
   - flour permanently dusting his shoulders and sleeves
+portrait_variations: []
 affiliations:
 - org:san-merchant-cartel
 desires:

@@ -13,6 +13,24 @@ heritage: ''
 social_station: ''
 role: Court musician and covert informant
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Elegant and poised, always in layered silk of jade-green and ivory. Fingers callused from
   guqin strings. Carries a faint scent of sandalwood.
 biography: ''
@@ -26,6 +44,7 @@ visual_identity:
   distinctive_features:
   - a small crescent scar on the left wrist
   - a beauty mark beneath the right eye
+portrait_variations: []
 affiliations:
 - org:jin-state
 desires:

@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Aerial scout and perimeter watcher
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Light-boned and keen-eyed, built for sustained flight. Wears minimal gear to reduce weight.
   His feathered wings fold along his arms when at rest.
 biography: ''
@@ -31,6 +49,7 @@ visual_identity:
   - feathered crest and wing-feathers along the forearms that can spread for gliding
   - fine scales on the face and neck
   - hollow-boned lightness
+portrait_variations: []
 affiliations:
 - org:ver-hunter-clans
 desires:

@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Healer and herbalist
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A calm, grounded woman with earth-stained hands and a pouch of medicines at her belt. She
   smells of crushed leaves and salt air. Her manner is patient and unhurried, even in crisis.
 biography: ''
@@ -30,6 +48,7 @@ visual_identity:
   eyes: deep brown, warm
   distinctive_features: permanently green-stained fingertips from herb work, a medicine pouch of woven
     fiber at the belt, a calm steadiness of gaze that unsettles liars
+portrait_variations: []
 affiliations:
 - org:tide-island-council
 desires:

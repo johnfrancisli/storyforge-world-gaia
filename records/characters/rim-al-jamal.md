@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Camel herder, djinn-harborer
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Sun-darkened and strong in desert riding clothes, she moves among her camels with easy authority.
   She carries a herder's staff and a waterskin, and she sleeps in a tent among the herd. She is weathered
   beyond her years.
@@ -31,6 +49,7 @@ visual_identity:
   distinctive_features:
   - a camel-bite scar on the left shoulder
   - a herder's brand on the right forearm — a stylized camel mark
+portrait_variations: []
 affiliations:
 - org:binding-families
 desires:

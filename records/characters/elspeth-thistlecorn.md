@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Beekeeper
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Weathered and stooped but vital, Elspeth wears a wide-brimmed straw hat and a beekeeper's
   veil pushed back from her face. Her hands are scarred from decades of stings but still steady as she
   works her hives.
@@ -29,6 +47,7 @@ visual_identity:
   eyes: pale green, bright and sharp
   distinctive_features: old bee-sting scars on both hands and forearms, a pronounced stoop, a missing
     left little finger (hive accident)
+portrait_variations: []
 affiliations:
 - org:dragon-order
 desires:

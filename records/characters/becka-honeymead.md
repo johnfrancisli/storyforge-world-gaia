@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Mead Brewer / Merchant
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Vigorous and sharp-eyed, Becka wears a merchant's travelling dress with a honey-stained apron.
   She carries a ledger as naturally as others carry a sword, and her handshake is firm and deliberate.
 biography: ''
@@ -27,6 +45,7 @@ visual_identity:
   eyes: amber-brown
   distinctive_features: a honey-bee tattoo on her left shoulder (brewer's guild mark), a faint scar on
     her right lip (bee-sting allergy reaction from her youth), permanently honey-stained fingernails
+portrait_variations: []
 affiliations:
 - org:val-merchant-guild
 desires:

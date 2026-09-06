@@ -20,6 +20,24 @@ heritage: ''
 social_station: ''
 role: Child
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A small, bright-eyed boy who is always near the water and always looking at it. He wears refugee-donated
   clothing that is too large for him, and he has the restless energy of a child who has lost his home
   and is looking for a new one.
@@ -35,6 +53,7 @@ visual_identity:
   distinctive_features: donated clothing that is always too large, a constant proximity to the water's
     edge — he is always near the lagoon, a habit of watching the water and smiling at things no one else
     can see, sand always on his feet
+portrait_variations: []
 affiliations:
 - org:tide-refugee-council
 desires:

@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Palace guard (banhei)
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: She wears the dark lacquered armor of the shogun's guard, her yari resting at attention beside
   her. Her hair is cropped short under a helmet. She stands perfectly still for hours at a time and notices
   everything that moves in her peripheral vision.
@@ -27,6 +45,7 @@ visual_identity:
   hair: black, cropped short under helm
   eyes: dark brown, hard
   distinctive_features: a thin scar across the jawline from a training accident
+portrait_variations: []
 affiliations:
 - org:ashikara-shogunate
 desires:

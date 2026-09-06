@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Communal cook, quarter benefactor
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Stout and flour-dusted in a cook's apron over practical cotton, her arms ruddy from steam
   and heat. She stirs pots taller than herself with a wooden paddle and never stops moving. She smells
   of bread and cumin and rosewater.
@@ -31,6 +49,7 @@ visual_identity:
   distinctive_features:
   - a burn scar on the right forearm from a pot of boiling stew
   - a permanent flush across the cheeks from years of kitchen heat
+portrait_variations: []
 affiliations:
 - org:binding-families
 desires:

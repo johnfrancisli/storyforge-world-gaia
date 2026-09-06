@@ -14,6 +14,24 @@ heritage: ''
 social_station: ''
 role: Shogun of Tsukuyomi
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A thin, old man in formal court robes, seated straight-backed on his dais. His hair is white,
   his hands are spotted with age, and his eyes are still sharp. He speaks softly, and the room goes quiet
   to hear him.
@@ -26,6 +44,7 @@ visual_identity:
   hair: white, formal topknot
   eyes: dark brown, sharp despite age
   distinctive_features: liver spots on the hands, a formal court fan always carried
+portrait_variations: []
 affiliations:
 - org:ashikara-shogunate
 desires:

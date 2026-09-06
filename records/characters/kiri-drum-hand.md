@@ -18,6 +18,24 @@ heritage: ''
 social_station: ''
 role: Drummer
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A strong-armed, rhythmic woman with calloused palms and a drum always within reach. She moves
   to internal rhythms even when she is still, her fingers tapping, her feet marking time.
 biography: ''
@@ -32,6 +50,7 @@ visual_identity:
   distinctive_features: deep calluses on both palms from drumming, a hand drum always carried or within
     arm's reach, dark circles under the eyes from sleep loss, a constant subtle tapping of the fingers
     against any surface
+portrait_variations: []
 affiliations:
 - org:tide-island-council
 desires:

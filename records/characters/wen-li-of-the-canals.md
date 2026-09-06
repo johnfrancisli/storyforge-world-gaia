@@ -14,6 +14,24 @@ heritage: ''
 social_station: ''
 role: Canal master, river-folk
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A compact river-folk woman in work clothes, her blue-green skin damp, her webbed hands calloused
   from rope and stone work. She carries a canal surveyor's rod and wears a waterproof jacket. She is usually
   wet to the elbows.
@@ -27,6 +45,7 @@ visual_identity:
   hair: dark green-black, short, wet
   eyes: teal
   distinctive_features: webbed fingers and toes, gill-slits along the neck that close on land
+portrait_variations: []
 affiliations:
 - org:jin-state
 desires:

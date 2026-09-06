@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Communal cook and fire-tender
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Round and jolly, with flour on his arms and a perpetual stain of smoke and spice on his wrap.
   Laughs loudly, hugs freely, feeds compulsively.
 biography: ''
@@ -30,6 +48,7 @@ visual_identity:
   distinctive_features:
   - a burn-scar patch on the right forearm from a cookfire accident
   - perpetual smudges of ash and spice on the hands and forearms
+portrait_variations: []
 affiliations:
 - org:ver-river-consortium
 desires:

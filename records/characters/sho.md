@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Sake brewer's apprentice (deshi)
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: He wears a brewery apron over a plain kimono, sleeves rolled to the elbows. He's lean and
   energetic, always doing something with his hands. He smells of koji and river water, and he grins when
   he's caught doing something he shouldn't.
@@ -28,6 +46,7 @@ visual_identity:
   hair: black, messy, escaping a topknot
   eyes: dark brown, bright with curiosity
   distinctive_features: a sake-yeast rash along the jawline that comes and goes
+portrait_variations: []
 affiliations:
 - org:ashikara-shogunate
 desires:

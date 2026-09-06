@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Net Maker
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Compact and quiet, Leif works at a net-tying frame in a workshop that smells of hemp and tar.
   He wears a simple wool shirt and his hands move in constant, rhythmic knotting — even when he is not
   at the frame, his fingers twitch as though tying invisible meshes. He is a mild man, not given to strong
@@ -31,6 +49,7 @@ visual_identity:
   eyes: blue, mild and slightly worried
   distinctive_features: permanently hemp-roughened fingertips, a callus on his right thumb from the net
     shuttle
+portrait_variations: []
 affiliations:
 - org:hra-shipwright-brotherhood
 desires:

@@ -14,6 +14,24 @@ heritage: ''
 social_station: ''
 role: Baker
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Plump and floury, Margaret wears a clean apron and keeps her hair in a tight bun. She has
   a ready smile that falters when she thinks no one is looking.
 biography: ''
@@ -26,6 +44,7 @@ visual_identity:
   eyes: warm brown, red-rimmed from worrying
   distinctive_features: flour-dusted forearms, a burn mark on her left wrist (oven), deep worry lines
     on her forehead
+portrait_variations: []
 affiliations:
 - org:dragon-order
 desires:

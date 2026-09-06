@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Storehouse Keeper / Jarl's Dependent
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Soft and greying, Torsten wears decent wool — the household provides — but carries himself
   like a man who is always bracing for a blow. He manages the storehouse with meticulous attention, counting
   every grain sack and barrel of oil, because precision is the only thing he can control. He avoids Sigrid's
@@ -30,6 +48,7 @@ visual_identity:
   hair: brown, going grey, thinning
   eyes: brown, darting and anxious
   distinctive_features: a permanent tremor in his right hand, a drinker's flush across his nose and cheeks
+portrait_variations: []
 affiliations:
 - org:hra-shipwright-brotherhood
 desires:

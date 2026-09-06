@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Child
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Small and dark-haired, Hrafn wears the plain wool of a thrall's child — undyed, patched. He
   is thin and quiet, the kind of child who is easy to overlook, which is how he prefers it. He watches
   everything with dark, serious eyes that look older than ten.
@@ -28,6 +46,7 @@ visual_identity:
   eyes: very dark brown, nearly black, serious
   distinctive_features: a thrall's iron band on his left wrist (child-sized, engraved with Sigrid's mark),
     a faded burn on his right palm from tending fires
+portrait_variations: []
 affiliations:
 - org:hra-volur-coven
 desires:

@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Master dyer
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Sturdy and stained in a dyer's apron permanently marked with every color she has ever mixed.
   Her forearms are dyed blue to the elbow, and she smells of mordant and indigo. She is boisterous and
   loud in the market, the opposite of secretive in manner.
@@ -29,6 +47,7 @@ visual_identity:
   distinctive_features:
   - permanent blue staining from fingertips to elbows on both arms
   - a chemical burn scar on the right hand from mordant work
+portrait_variations: []
 affiliations:
 - org:binding-families
 desires:

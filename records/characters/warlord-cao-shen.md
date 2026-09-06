@@ -12,6 +12,24 @@ heritage: ''
 social_station: ''
 role: Warlord of Jin
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A lean man in dark robes, moving with the economy of a martial artist who has nothing to prove.
   His beard is trimmed short, his hair is bound in a topknot, and he wears a jade seal at his belt. He
   watches more than he speaks.
@@ -24,6 +42,7 @@ visual_identity:
   hair: black, greying, bound in a topknot
   eyes: dark brown, sharp
   distinctive_features: a thin scar along the jawline from an assassin's blade years ago
+portrait_variations: []
 affiliations:
 - org:jin-state
 desires:

@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Binding family patriarch, Council member
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Immaculate and reserved in dark robes with the al-Sayf sword sigil embroidered in silver.
   He carries his family's iron lamp, which burns with a steady white flame. His movements are deliberate,
   as if he calculates each one.
@@ -30,6 +48,7 @@ visual_identity:
   distinctive_features:
   - a thin scar on the right temple from a childhood fall he insists was an accident
   - hands that tremble slightly when he thinks no one is watching
+portrait_variations: []
 affiliations:
 - org:binding-families
 desires:

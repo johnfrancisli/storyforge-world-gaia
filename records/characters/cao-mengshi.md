@@ -13,6 +13,24 @@ heritage: ''
 social_station: ''
 role: Master strategist and military advisor
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Plain-faced and practical, robes always ink-stained. Moves with deliberate economy.
 biography: ''
 personality: ''
@@ -25,6 +43,7 @@ visual_identity:
   distinctive_features:
   - ink stains permanently embedded in right index and middle fingers
   - a persistent dry cough
+portrait_variations: []
 affiliations:
 - org:wei-state
 desires:

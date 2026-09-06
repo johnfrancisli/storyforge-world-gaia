@@ -19,6 +19,24 @@ heritage: ''
 social_station: ''
 role: Guard
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A strong, steady woman with a watch-guard's bearing and a torch always at hand. She wears
   practical cloth and carries a staff, not a weapon. She is calm under pressure and slow to alarm.
 biography: ''
@@ -33,6 +51,7 @@ visual_identity:
   distinctive_features: a watch-guard's torch carried at all times, a staff worn across the back, a habit
     of scanning the waterline even in conversation, a small scar on the right hand from a night-rescue
     rope burn
+portrait_variations: []
 affiliations:
 - org:tide-tattoo-guild
 desires:

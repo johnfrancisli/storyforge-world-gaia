@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Fisherman (ryoshi)
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: He wears a salt-stained work kimono with rubber-soled boots, a fishing knife at his belt.
   His skin is weathered dark from decades of sea wind, and he squints from permanently salt-reddened eyes.
   He smells of fish and cheap sake, and his hands shake when he's not holding something.
@@ -29,6 +47,7 @@ visual_identity:
   eyes: pale brown, bloodshot
   distinctive_features: a rope-scar around the right wrist and a permanently crooked left ring finger
     from a net accident
+portrait_variations: []
 affiliations:
 - org:ashikara-shogunate
 desires:

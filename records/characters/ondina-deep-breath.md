@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Midwife and water-birth specialist
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Solid and reassuring, with the serene patience of deep water. Wears a wet wrap and a belt
   of tools. Her webbed hands are extraordinarily gentle.
 biography: ''
@@ -30,6 +48,7 @@ visual_identity:
   - blue-green skin with darker mottling across the shoulders
   - webbed fingers and toes
   - gill-like slits along the ribcage that flare when she breathes deeply
+portrait_variations: []
 affiliations:
 - org:ver-shaman-circle
 desires:

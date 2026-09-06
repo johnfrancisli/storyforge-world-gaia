@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Librarian and archivist (shiryo-kan)
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: She wears a practical grey kimono with ink-stained sleeves and a pair of smoked-glass spectacles
   perched on her nose. She moves between scroll shelves on a rolling ladder with practiced ease. She carries
   a brush and notebook everywhere and writes in a shorthand no one else can read.
@@ -28,6 +46,7 @@ visual_identity:
   hair: steel grey, in a tight bun secured with two pins
   eyes: hazel, behind round spectacles
   distinctive_features: ink stains on the right middle finger and the tip of the nose from close work
+portrait_variations: []
 affiliations:
 - org:ashikara-shogunate
 desires:

@@ -14,6 +14,24 @@ heritage: ''
 social_station: ''
 role: General of the Jin army
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A tall, imposing man in military robes and lamellar armor, a dao sword at his hip. He stands
   the way soldiers do — balanced, ready, aware of exits. His beard is thick and his topknot is precise.
   He speaks rarely and means it.
@@ -26,6 +44,7 @@ visual_identity:
   hair: black, topknot, thick beard
   eyes: dark brown
   distinctive_features: a old arrow scar on the left shoulder, callused sword-hand
+portrait_variations: []
 affiliations:
 - org:jin-state
 desires:

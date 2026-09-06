@@ -18,6 +18,24 @@ heritage: ''
 social_station: ''
 role: Refugee and community organizer
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A composed, watchful woman who carries herself with quiet authority. She wears donated cloth
   and keeps her three children close. Her grief is visible only in her stillness.
 biography: ''
@@ -31,6 +49,7 @@ visual_identity:
   eyes: dark brown, guarded
   distinctive_features: a refugee's cloth wrap — clearly not her own, too large for her, a rope-mark on
     the left wrist from the canoe journey, three children always within arm's reach
+portrait_variations: []
 affiliations:
 - org:tide-refugee-council
 desires:

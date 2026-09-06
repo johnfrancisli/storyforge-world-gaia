@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Fisher
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Compact and weather-beaten, Helga wears oilskin over thick wool and rubber boots that go to
   her knees. She smells of fish and salt and tar. Her hands are enormous for her size, cracked and red
   from cold water and rope work.
@@ -29,6 +47,7 @@ visual_identity:
   eyes: dark brown, watchful
   distinctive_features: a rope-burn scar across both palms, a chipped front tooth, a small blue tattoo
     of a fish-hook on her right knuckle
+portrait_variations: []
 affiliations:
 - org:hra-volur-coven
 desires:

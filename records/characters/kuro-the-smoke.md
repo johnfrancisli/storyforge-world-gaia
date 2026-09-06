@@ -12,6 +12,24 @@ heritage: ''
 social_station: ''
 role: Thief
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A lean cat-folk man in dark, close-fitting clothes, his ears flat and his tail curled tight
   — the posture of someone who is used to being hunted. He moves through crowds like water. His eyes catch
   light in the dark.
@@ -24,6 +42,7 @@ visual_identity:
   hair: black, short, messy
   eyes: green, slit-pupiled
   distinctive_features: black cat ears, long black tail, a small chip in the left ear
+portrait_variations: []
 affiliations:
 - org:tsu-merchant-guild
 desires:

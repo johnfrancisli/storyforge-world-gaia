@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Chant keeper and elder
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A tiny, frail woman wrapped in fine woven cloth, her eyes milky but sharp. She sits in the
   meeting house and chants in a voice that is barely a whisper but carries across the entire hall.
 biography: ''
@@ -31,6 +49,7 @@ visual_identity:
   distinctive_features: a woven chant-keeper's scarf always worn over the hair, hands that move unconsciously
     in the gesture-patterns of chants even when she is silent, a voice that carries far further than its
     volume should allow
+portrait_variations: []
 affiliations:
 - org:wayfinder-guilds
 desires:

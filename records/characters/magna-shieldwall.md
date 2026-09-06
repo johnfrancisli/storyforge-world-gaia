@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Guard / Watchman
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Solid and square-jawed, Magna wears the white cloak and ringmail of the jarl's guard with
   a shield on her back and a spear in her hand. She is younger than most of the guard, and she takes the
   watch more seriously than anyone — because for her, the watch is also a deception.
@@ -29,6 +47,7 @@ visual_identity:
   eyes: blue, steady and alert
   distinctive_features: a guard's raven tattoo on her right shoulder, a scar on her left knuckles from
     a training accident
+portrait_variations: []
 affiliations:
 - org:hra-raid-crews
 desires:

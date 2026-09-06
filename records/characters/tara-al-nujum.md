@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Astrologer, true-name reader
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Quiet and intense in dark scholar's robes, she carries a brass astrolabe and a tube of star
   charts. She works on the rooftop of her tower at night and sleeps during the day. Her eyes are always
   slightly unfocused, as if watching something beyond the room.
@@ -30,6 +48,7 @@ visual_identity:
   distinctive_features:
   - a star-shaped scar on the left wrist from a hot astrolabe
   - permanently dark-circled eyes from years of night work
+portrait_variations: []
 affiliations:
 - org:binding-families
 desires:

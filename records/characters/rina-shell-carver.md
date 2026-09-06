@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Shell worker
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A fine-featured, precise woman with shell-dust on her hands and a carving tool always nearby.
   She works in careful, deliberate strokes and examines every piece as if it might hold a secret.
 biography: ''
@@ -30,6 +48,7 @@ visual_identity:
   eyes: grey-green, sharp and searching
   distinctive_features: shell-dust staining on both hands, a fine carving knife worn at the belt, a large
     spiraled shell of unknown origin always carried in a pouch — she never lets it out of arm's reach
+portrait_variations: []
 affiliations:
 - org:tide-tattoo-guild
 desires:

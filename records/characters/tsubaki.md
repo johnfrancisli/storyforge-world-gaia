@@ -13,6 +13,24 @@ heritage: ''
 social_station: ''
 role: Pottery maker (toki)
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: She wears a clay-spattered apron and keeps her hair tied under a cloth. Her hands are always
   dusted with kaolin. She speaks quickly when anyone asks about her firing techniques and changes the
   subject to glazes.
@@ -25,6 +43,7 @@ visual_identity:
   hair: black, cropped short for practicality
   eyes: dark brown
   distinctive_features: a pale clay-colored callus on the right thumb from years of wheel work
+portrait_variations: []
 affiliations:
 - org:tsu-merchant-guild
 desires:

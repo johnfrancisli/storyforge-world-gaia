@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Spirit musician and keeper of ancient melodies
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Ethereal and quiet, wearing Academy gray-white robes. Always carries a pale bamboo flute.
 biography: ''
 personality: ''
@@ -27,6 +45,7 @@ visual_identity:
   distinctive_features:
   - a faint blue-tinged birthmark on the left collarbone shaped like a musical note
   - flute-callus on the lower lip
+portrait_variations: []
 affiliations:
 - org:great-academy
 desires:

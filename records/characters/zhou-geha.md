@@ -14,6 +14,24 @@ heritage: ''
 social_station: ''
 role: Canal pilot and underground smuggler of refugees
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Sun-darkened and river-worn, wearing water-resistant hemp clothing and a wide bamboo hat.
 biography: ''
 personality: ''
@@ -26,6 +44,7 @@ visual_identity:
   distinctive_features:
   - a river-tattoo of a carp on her left forearm (Mizuhito clan mark)
   - a missing tip of the right ring finger
+portrait_variations: []
 affiliations:
 - org:san-merchant-cartel
 desires:

@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Court physician and keeper of a poisoning secret
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Distinguished and grave, wearing fine Jin court physician's robes. Moves with a physician's
   careful deliberateness.
 biography: ''
@@ -28,6 +46,7 @@ visual_identity:
   distinctive_features:
   - a physician's pulse-callus on all three fingers of the right hand
   - a faint liver-spot map across the brow
+portrait_variations: []
 affiliations:
 - org:jin-state
 desires:

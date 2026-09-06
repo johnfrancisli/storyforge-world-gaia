@@ -14,6 +14,24 @@ heritage: ''
 social_station: ''
 role: Cook
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: She wears a clean apron over a simple kimono, her sleeves bound with cords. She tastes everything
   she serves and adjusts by instinct. Her station is immaculate, and she moves between cutting board,
   hearth, and serving tray with choreographed efficiency.
@@ -26,6 +44,7 @@ visual_identity:
   hair: black, short, tied under a cloth cap
   eyes: warm brown
   distinctive_features: a small burn scar on the left wrist from a kitchen accident years ago
+portrait_variations: []
 affiliations:
 - org:ashikara-shogunate
 desires:

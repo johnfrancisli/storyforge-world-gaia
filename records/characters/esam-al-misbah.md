@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Lamp maker, accidental djinn-jailer
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Stocky and soot-stained in a leather apron, his hands scarred from metalwork. He works at
   a bench covered in brass sheeting, copper wire, and half-finished lamps. He has been sleeping at his
   bench since the djinn entered the lamp, afraid to leave it unattended.
@@ -31,6 +49,7 @@ visual_identity:
   distinctive_features:
   - a welding burn scar across the back of the right hand
   - a missing tip of the left index finger from a metal-cutting accident
+portrait_variations: []
 affiliations:
 - org:binding-families
 desires:

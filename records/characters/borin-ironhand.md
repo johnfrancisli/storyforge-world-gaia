@@ -14,6 +14,24 @@ heritage: ''
 social_station: ''
 role: Master smith
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A compact, broad man in a leather apron over forge-stained clothes, his arms bare and heavily
   muscled. His beard is iron-grey and braided in the mountain-dwarf style. His hands are scarred from
   decades of forge work. He smells of coal and hot metal.
@@ -28,6 +46,7 @@ visual_identity:
   eyes: dark brown
   distinctive_features: extensive burn scars on both forearms and hands, a metal replacement tip on the
     left thumb
+portrait_variations: []
 affiliations:
 - org:val-dawnfire-church
 desires:

@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Tea brewer, unwitting truth-brewer
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Warm and motherly in a clean apron and headscarf, she pours tea from a height to aerate it,
   a practiced flourish. Her stall is small and lit by lanterns, and she always has a pot ready.
 biography: ''
@@ -29,6 +47,7 @@ visual_identity:
   distinctive_features:
   - tea-stained fingertips
   - a small mole above the right eyebrow
+portrait_variations: []
 affiliations:
 - org:binding-families
 desires:

@@ -18,6 +18,24 @@ heritage: ''
 social_station: ''
 role: Elder, living archive of the Pact
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Wizened and still in layered robes, his eyes bright in a face lined like old leather. He sits
   in the courtyard of the elders' house, wrapped in blankets even in the heat, and people come to him
   for stories of the old days. He remembers everything and tells you exactly what you asked, no more.
@@ -32,6 +50,7 @@ visual_identity:
   distinctive_features:
   - deeply lined face, skin like old parchment
   - a faded tattoo on the right hand — an old Zaffar elder's mark
+portrait_variations: []
 affiliations:
 - org:binding-families
 desires:

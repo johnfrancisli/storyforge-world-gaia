@@ -13,6 +13,24 @@ heritage: ''
 social_station: ''
 role: Merchant and information broker
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A round, well-fed man in fine silk robes, a fan in one hand and a cup of tea in the other.
   He laughs easily and watches everything. His rings are expensive and his smile is professional. He smells
   of sandalwood and money.
@@ -25,6 +43,7 @@ visual_identity:
   hair: black, oiled, topknot
   eyes: small, sharp, calculating
   distinctive_features: expensive jade rings on both hands, a gold tooth visible when smiling
+portrait_variations: []
 affiliations:
 - org:chu-state
 desires:

@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Djinn, bound by contract to the Idris family
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A figure that shifts between forms — sometimes a man with skin like dark obsidian cracked
   with lines of blue fire, sometimes a pillar of blue flame wearing clothes, sometimes just heat shimmer
   in the air. When he chooses a human form, he is tall, composed, and dresses in the style of a desert
@@ -30,6 +48,7 @@ visual_identity:
   eyes: blue fire, always
   distinctive_features: skin that sometimes shows cracks of blue fire, a faint smell of ozone and hot
     sand, heat shimmer around the hands
+portrait_variations: []
 affiliations:
 - org:binding-families
 desires:

@@ -18,6 +18,24 @@ heritage: ''
 social_station: ''
 role: Glassblower, reluctant weaponsmith
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Broad and furnace-red in a leather apron, his forearms thick from glasswork. He is quieter
   than his cousin and slower to laugh. He works at a larger furnace than hers and handles bigger pieces
   — bowls, jars, vessels the size of a man's torso.
@@ -32,6 +50,7 @@ visual_identity:
   distinctive_features:
   - a large furnace-burn scar on the right forearm
   - a glassblower's callus on the left thumb from pipe work
+portrait_variations: []
 affiliations:
 - org:binding-families
 desires:

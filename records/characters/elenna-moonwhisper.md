@@ -13,6 +13,24 @@ heritage: ''
 social_station: ''
 role: Librarian
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Slender and ethereal, Elenna wears simple robes and keeps her silver hair in a precise coil.
   She smells of old paper and lavender.
 biography: ''
@@ -25,6 +43,7 @@ visual_identity:
   eyes: pale violet
   distinctive_features: slightly pointed ears (elven), a faint shimmer in her skin when candlelight catches
     it (subtle elven trait)
+portrait_variations: []
 affiliations:
 - org:val-mages-circle
 desires:

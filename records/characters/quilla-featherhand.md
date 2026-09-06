@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Master feather worker and ceremonial artisan
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Vivid and bright-eyed, draped in her own feather-work — mantles of scarlet, gold, and iridescent
   green. Her fingers are perpetually stained with natural dyes.
 biography: ''
@@ -31,6 +49,7 @@ visual_identity:
   - feathered crest along the crown that molts seasonally
   - fine scales faintly visible on the cheekbones and ears
   - hollow-boned lightness to her step
+portrait_variations: []
 affiliations:
 - org:ver-shaman-circle
 desires:

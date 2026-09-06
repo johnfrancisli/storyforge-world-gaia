@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Master carpet weaver
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Graceful and focused in a dyed apron over simple robes, her hands moving across the loom with
   rhythmic precision. Thread dust clings to her clothes and hair. She hums while working — always the
   same melody, one she says the loom taught her.
@@ -31,6 +49,7 @@ visual_identity:
   distinctive_features:
   - weaver's calluses on both thumbs and index fingers
   - a faded dye-stain on the left wrist in the shape of a crescent
+portrait_variations: []
 affiliations:
 - org:binding-families
 desires:

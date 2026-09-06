@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Midwife and birth-healer
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Soft-featured and warm, with gentle hands and a calming voice. Wears clean wraps and carries
   a satchel of birth-supplies. Her face carries a permanent shadow of private sadness.
 biography: ''
@@ -30,6 +48,7 @@ visual_identity:
   distinctive_features:
   - a small mole on the left cheek
   - exceptionally smooth, uncalloused hands for a woman of her community
+portrait_variations: []
 affiliations:
 - org:ver-river-consortium
 desires:

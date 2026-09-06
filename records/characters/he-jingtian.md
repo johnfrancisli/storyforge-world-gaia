@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Wei strategist and potential defector
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Dignified and somber, wearing Wei-state scholar's robes of deep blue. Carries a fan inscribed
   with strategic diagrams.
 biography: ''
@@ -28,6 +46,7 @@ visual_identity:
   distinctive_features:
   - a scholar's ink-stain on the right forefinger
   - a thin, old scar on the left brow from a riding accident
+portrait_variations: []
 affiliations:
 - org:wei-state
 desires:

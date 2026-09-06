@@ -18,6 +18,24 @@ heritage: ''
 social_station: ''
 role: Scout
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A lean, watchful woman who squints even in shade. She carries a light scout's pack and moves
   with absolute silence. She is always scanning the horizon, even when indoors.
 biography: ''
@@ -31,6 +49,7 @@ visual_identity:
   eyes: pale grey — noticeably lighter than they were a year ago, and growing paler
   distinctive_features: pale grey eyes that are unnervingly sharp and growing lighter, a squint that persists
     even in shade, a habit of scanning the horizon even in enclosed spaces
+portrait_variations: []
 affiliations:
 - org:wayfinder-guilds
 desires:

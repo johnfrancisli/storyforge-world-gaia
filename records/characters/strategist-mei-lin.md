@@ -14,6 +14,24 @@ heritage: ''
 social_station: ''
 role: Scholar-strategist, junior advisor
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A slight woman in plain scholar's robes, ink-stained fingers, and hair pinned hastily with
   a wooden pin. She carries scrolls everywhere and reads while walking, which has caused three collisions
   this month. Her spectacles are held on with a string.
@@ -26,6 +44,7 @@ visual_identity:
   hair: black, hastily pinned
   eyes: dark brown, behind round spectacles
   distinctive_features: ink stains on right hand and fingertips, round spectacles on a string
+portrait_variations: []
 affiliations:
 - org:jin-state
 desires:

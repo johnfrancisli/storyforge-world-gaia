@@ -14,6 +14,24 @@ heritage: ''
 social_station: ''
 role: Master calligrapher and unwitting chi-cultivator
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Refined and expressive, wearing flowing Wei-state blue robes. Often has ink on her sleeves
   and jaw.
 biography: ''
@@ -27,6 +45,7 @@ visual_identity:
   distinctive_features:
   - permanent ink callus on the right middle finger
   - a fading scar on the left palm from a childhood accident with a knife
+portrait_variations: []
 affiliations:
 - org:wei-state
 desires:

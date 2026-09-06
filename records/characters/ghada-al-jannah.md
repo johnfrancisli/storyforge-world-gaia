@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Head gardener of the Hanging Gardens
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Earth-stained and sun-warm in a gardener's apron over loose green cotton. She carries pruning
   shears and a watering can, and her hands are perpetually dirt-streaked. She smells of wet earth and
   pomegranate.
@@ -30,6 +48,7 @@ visual_identity:
   distinctive_features:
   - permanent earth staining under the fingernails
   - a scar on the right forearm from a date-palm thorn that became infected
+portrait_variations: []
 affiliations:
 - org:binding-families
 desires:

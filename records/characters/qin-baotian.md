@@ -14,6 +14,24 @@ heritage: ''
 social_station: ''
 role: Jin army general and unknowing beneficiary of chi-warfare
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Commanding and immaculate in Jin-state military uniform of dark green and gold. Carries a
   legendary war-halberd.
 biography: ''
@@ -27,6 +45,7 @@ visual_identity:
   distinctive_features:
   - a war-halberd scar across the right palm
   - a gold victory medal tattooed on the left forearm (Jin military tradition)
+portrait_variations: []
 affiliations:
 - org:jin-state
 desires:

@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Pearl diver
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A lean, salt-darkened woman in minimal diving cloth, her hair bleached copper-red by sun and
   saltwater. She moves through water like she belongs to it. Pearl-shell earrings gleam at her earlobes.
 biography: ''
@@ -30,6 +48,7 @@ visual_identity:
   eyes: grey-green, the color of deep lagoon water
   distinctive_features: pearl-shell earrings carved from a single massive pearl, faint scarring on both
     earlobes from repeated pressure damage, a birthmark shaped like a wave on the left shoulder
+portrait_variations: []
 affiliations:
 - org:tide-fishing-coop
 desires:

@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Sail Maker (Apprentice)
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Young and bright-eyed, Alvilda wears a canvas apron over practical wool, her hands already
   showing the calluses of the sail loft. She is quicker to smile than her master and quicker to ask questions,
   which Thora sometimes appreciates and sometimes endures.
@@ -30,6 +48,7 @@ visual_identity:
   eyes: bright green, curious and quick
   distinctive_features: a spray of freckles across nose and cheeks, a small callus on her right palm from
     the sail needle
+portrait_variations: []
 affiliations:
 - org:hra-volur-coven
 desires:

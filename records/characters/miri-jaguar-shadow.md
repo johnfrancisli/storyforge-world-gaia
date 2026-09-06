@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Hunter and deep-forest tracker
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Powerful and fluid, with prominent jaguar-spot patterning. Wears minimal spotted hide. Carries
   a heavy hunting spear and a belt of bone knives.
 biography: ''
@@ -31,6 +49,7 @@ visual_identity:
   - prominent jaguar-spot rosette patterning across temples, shoulders, and arms
   - elongated canines
   - a fresh scar on the right forearm from a jaguar's claw
+portrait_variations: []
 affiliations:
 - org:ver-canopy-council
 desires:

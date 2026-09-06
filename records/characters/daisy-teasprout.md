@@ -14,6 +14,24 @@ heritage: ''
 social_station: ''
 role: Street Child / Beggar
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Small and underfed, Daisy wears a threadbare dress too large for her, belted with rope. Her
   hair is tangled and her face is dirty, but her eyes are alert and wary beyond her years.
 biography: ''
@@ -26,6 +44,7 @@ visual_identity:
   eyes: large grey-green
   distinctive_features: a faded bruise on her right forearm, bare feet with calloused soles, a rope-belt
     with a small stolen pouch tied to it
+portrait_variations: []
 affiliations:
 - org:val-mages-circle
 desires:

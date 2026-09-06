@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Court socialite and double agent
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Polished and fashion-forward, wearing Chu-state court silks of deep red. Always perfectly
   composed.
 biography: ''
@@ -28,6 +46,7 @@ visual_identity:
   distinctive_features:
   - a small jade Chu-court pendant at the throat
   - a nervous habit of pressing the right thumbnail into the left palm
+portrait_variations: []
 affiliations:
 - org:chu-state
 desires:

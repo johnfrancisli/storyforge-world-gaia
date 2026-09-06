@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Salt maker and trade-journey leader
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Dust-pale and weathered from sun exposure, unusual for a serpent-kin. Carries salt-crusted
   baskets and a long walking staff. Moves with patient, deliberate endurance.
 biography: ''
@@ -31,6 +49,7 @@ visual_identity:
   - fine scales across the forehead and forearms, pale and salt-encrusted
   - a patch of roughened, salt-burned skin on the right hand
   - forked tongue
+portrait_variations: []
 affiliations:
 - org:ver-river-consortium
 desires:

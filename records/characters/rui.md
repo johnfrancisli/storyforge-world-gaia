@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Gambling den owner and information broker
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: She wears a dramatic kimono in deep purples and blacks, a fan always in hand. She sits at
   the head of the room where she can see every table. She smiles when she's winning and smiles wider when
   she's about to fold — both look the same, which is the point.
@@ -27,6 +45,7 @@ visual_identity:
   hair: black, long, styled with gambling chips as hairpins
   eyes: dark brown, heavy-lidded
   distinctive_features: a tiny fox tattoo behind the right ear — the mark of her network
+portrait_variations: []
 affiliations:
 - org:ashikara-shogunate
 desires:

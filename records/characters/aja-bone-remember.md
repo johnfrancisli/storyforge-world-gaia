@@ -18,6 +18,24 @@ heritage: ''
 social_station: ''
 role: Genealogy keeper and oral historian
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Thin and precise, with a scholar's bearing despite living in a rainforest. Wears simple robes
   and carries bone tablets in a woven satchel. His memory is legendary.
 biography: ''
@@ -31,6 +49,7 @@ visual_identity:
   distinctive_features:
   - carved bone bead necklace marking his office as genealogist
   - a slight tremor in the right hand from age
+portrait_variations: []
 affiliations:
 - org:ver-shaman-circle
 desires:

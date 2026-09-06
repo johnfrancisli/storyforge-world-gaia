@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Stable hand, djinn-marked
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Quiet and scarred in stable clothes, his hands rough from grooming and mucking. He moves among
   the animals with the gentleness of someone who finds peace in their company. He rarely speaks above
   a murmur and startles at sudden sounds.
@@ -30,6 +48,7 @@ visual_identity:
   distinctive_features:
   - extensive burn scarring on the left arm and shoulder from the djinn-fire ambush
   - a permanent tremor in the left hand
+portrait_variations: []
 affiliations:
 - org:binding-families
 desires:

@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Child
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: He wears a plain boy's kimono with a cloth satchel slung across one shoulder. He has scrapes
   on his knees from climbing and a slingshot tucked in his sash. He walks with the squared shoulders of
   someone trying to look older than he is.
@@ -28,6 +46,7 @@ visual_identity:
   hair: black, cropped short
   eyes: dark brown, serious
   distinctive_features: a chipped left canine tooth
+portrait_variations: []
 affiliations:
 - org:ashikara-shogunate
 desires:

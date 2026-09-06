@@ -14,6 +14,24 @@ heritage: ''
 social_station: ''
 role: Prince of Valdris, northern commander
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A broad, battle-scarred man in plate and mail, a war-hammer at his side. He stands like someone
   who expects rooms to accommodate him. His beard is cropped military-short. He shakes hands too firmly,
   on purpose.
@@ -28,6 +46,7 @@ visual_identity:
   eyes: grey
   distinctive_features: a scar across the chin from a northern skirmish, a missing tip of the left little
     finger
+portrait_variations: []
 affiliations:
 - org:dragon-order
 desires:

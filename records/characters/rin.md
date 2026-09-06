@@ -14,6 +14,24 @@ heritage: ''
 social_station: ''
 role: Florist and ikebana artist
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: She wears a pale work kimono with a sash full of small shears and twine. Cut stems trail from
   her basket. She moves silently and is often overlooked by the very people she arranges flowers for.
 biography: ''
@@ -25,6 +43,7 @@ visual_identity:
   hair: black, long, braided and pinned with a single wooden pin
   eyes: grey-green
   distinctive_features: green-stained fingertips permanent from years of handling plant stems
+portrait_variations: []
 affiliations:
 - org:tsu-tea-schools
 desires:

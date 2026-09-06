@@ -18,6 +18,24 @@ heritage: ''
 social_station: ''
 role: Binding family cook, saboteur
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Unassuming and efficient in a cook's whites, he is the model of a professional estate cook
   — quiet, fast, clean. He serves exquisite food and never tastes it himself, claiming a sensitive stomach.
   His hands are steady and his manner is unremarkable, which is exactly how he wants it.
@@ -33,6 +51,7 @@ visual_identity:
   - a small knife scar on the left thumb from kitchen work
   - a faded tan line on the right ring finger — he once wore a wedding band, but his wife left after his
     sister was collected
+portrait_variations: []
 affiliations:
 - org:alk-spice-houses
 desires:

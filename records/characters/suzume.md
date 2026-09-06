@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Wandering tengu (exile)
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: She wears traveling clothes in dark forest colors, a cloth wrapping her head to hide the feathers
   that grow along her temples. Her naginata is wrapped in cloth to look like a walking stick. She watches
   the sky too much and the ground too little.
@@ -27,6 +45,7 @@ visual_identity:
   hair: black, with iridescent feathers growing along the hairline at the temples
   eyes: amber, sharp
   distinctive_features: feathers along the temples (hidden by a head wrap) and slightly talon-like nails
+portrait_variations: []
 affiliations:
 - org:ashikara-shogunate
 desires:

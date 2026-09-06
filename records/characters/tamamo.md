@@ -13,6 +13,24 @@ heritage: ''
 social_station: ''
 role: Wild kitsune (fox spirit)
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A woman who is almost human — almost. Fox ears rise through her hair, and three tails shift
   behind her, visible when she chooses. She wears a layered kimono in autumn colors, and she moves like
   something that has never been in a hurry. Her smile is too wide and too warm.
@@ -24,6 +42,7 @@ visual_identity:
   hair: silver-white, long, loose
   eyes: gold, slit-pupiled
   distinctive_features: three fox tails, fox ears, faint vulpine fangs visible when smiling
+portrait_variations: []
 affiliations:
 - org:ashikara-shogunate
 desires:

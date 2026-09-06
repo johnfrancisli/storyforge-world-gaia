@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Potter, accidental vessel-maker
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Compact and focused in a clay-spattered apron, her hands perpetually dusted with pale kaolin.
   She works with quiet intensity at her wheel, and her kiln glows behind her workshop at all hours. Her
   shelves hold both ordinary wares and a few sealed vessels she will not sell.
@@ -30,6 +48,7 @@ visual_identity:
   distinctive_features:
   - a pale clay-colored callus on the right thumb from wheel work
   - a kiln-burn scar on the left forearm
+portrait_variations: []
 affiliations:
 - org:binding-families
 desires:

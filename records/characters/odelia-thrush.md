@@ -13,6 +13,24 @@ heritage: ''
 social_station: ''
 role: Minstrel
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Bright and performative, Odelia wears colourful travelling clothes and a lutenist's callus
   on her fingers. Her smile is quick and warm, but does not always reach her eyes.
 biography: ''
@@ -25,6 +43,7 @@ visual_identity:
   eyes: green
   distinctive_features: a lutenist's callus on her left fingertips, a small scar on her lower lip (bit
     through it during a childhood fall)
+portrait_variations: []
 affiliations:
 - org:dragon-order
 desires:

@@ -14,6 +14,24 @@ heritage: ''
 social_station: ''
 role: Farmer (hyakusho)
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: She wears a conical straw hat, a patched kimono with the sleeves tied back, and straw sandals
   caked with mud. She carries a hoe over one shoulder and a basket of early vegetables on the other. Her
   face is sun-darkened and open.
@@ -26,6 +44,7 @@ visual_identity:
   hair: iron grey, under a straw hat
   eyes: dark brown, deeply lined at the corners
   distinctive_features: a permanent soil-dark crease across both palms
+portrait_variations: []
 affiliations:
 - org:ashikara-shogunate
 desires:

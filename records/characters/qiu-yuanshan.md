@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Veteran restaurateur and deserter-network protector
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Stocky and scarred, wearing a cook's apron over an old military undershirt. Left arm ends
   at the wrist in a leather cap.
 biography: ''
@@ -28,6 +46,7 @@ visual_identity:
   distinctive_features:
   - left hand missing, wrist capped in leather
   - a network of battle scars across the chest and back (visible when sleeves roll)
+portrait_variations: []
 affiliations:
 - org:jin-state
 desires:

@@ -19,6 +19,24 @@ heritage: ''
 social_station: ''
 role: Refugee and former chief
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A dignified, composed woman who carries herself with a chief's bearing even in refugee cloth.
   She is always in conversation, always building relationships, always listening more than she speaks.
 biography: ''
@@ -33,6 +51,7 @@ visual_identity:
   distinctive_features: a chief's whale-bone pendant — the only remnant of her island, worn openly, a
     quality of authority that persists even in donated cloth, a habit of counting people — always knowing
     exactly how many are in a room and who they are
+portrait_variations: []
 affiliations:
 - org:tide-refugee-council
 desires:

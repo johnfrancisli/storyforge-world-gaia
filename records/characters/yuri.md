@@ -14,6 +14,24 @@ heritage: ''
 social_station: ''
 role: Bathhouse owner (yuya)
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: She wears a crisp yukata and carries a stack of fresh towels. Her hair is pinned up practically,
   and she moves barefoot on the warm wooden floors with sure-footed ease. She greets every customer by
   name and remembers their preferred water temperature.
@@ -26,6 +44,7 @@ visual_identity:
   hair: black, wet-sheened, pinned up with a tortoiseshell pin
   eyes: dark brown, watchful
   distinctive_features: permanently pink-tinged fingertips from years of hot water work
+portrait_variations: []
 affiliations:
 - org:tsu-tea-schools
 desires:

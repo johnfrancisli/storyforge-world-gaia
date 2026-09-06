@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Stable hand (umakata)
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: She wears rough work clothes and high wooden clogs to keep out of the muck, her hair tied
   in a cloth. She smells of hay and horse, and she talks to the animals in a low, constant murmur. Her
   hands are calloused and she's stronger than she looks.
@@ -27,6 +45,7 @@ visual_identity:
   hair: black, tied under a cloth cap
   eyes: dark brown, observant
   distinctive_features: a crooked nose from being kicked by a horse at fourteen
+portrait_variations: []
 affiliations:
 - org:tsu-tea-schools
 desires:

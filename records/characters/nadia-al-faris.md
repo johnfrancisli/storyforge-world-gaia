@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Binding family matriarch, Council of Binding Families
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Regal and composed in dark indigo robes embroidered with the al-Faris lamp sigil. She carries
   a small slate board and chalk on a cord around her neck and writes in a precise, elegant hand. Her family's
   bronze lamp hangs at her belt, always cold.
@@ -30,6 +48,7 @@ visual_identity:
   distinctive_features:
   - a thin scar across the throat from a childhood illness
   - the al-Faris lamp sigil tattooed on the inside of her left wrist
+portrait_variations: []
 affiliations:
 - org:binding-families
 desires:

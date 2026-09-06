@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Baker
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Round and flour-dusted, Isa works at the bread-stone in the jarl's kitchen, her hands moving
   in the practiced rhythm of kneading and shaping. She wears a clean apron and keeps her hair under a
   cap, and she always smells of warm bread. She is cheerful in the way of someone who knows how to make
@@ -31,6 +49,7 @@ visual_identity:
   eyes: warm brown, gentle and crinkled
   distinctive_features: flour-dust permanently in the creases of her hands, a small burn-scar on her right
     wrist from the bread-stone
+portrait_variations: []
 affiliations:
 - org:hra-volur-coven
 desires:

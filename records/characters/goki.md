@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Reformed oni (mountain demon)
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: He wears rough homespun clothes far too small for his frame, his skin a deep iron-grey. He
   keeps a woven hat low over his face and his hands hidden when he can. He hunches to seem smaller than
   he is, and he speaks in a low rumble that he tries to make gentle.
@@ -29,6 +47,7 @@ visual_identity:
   hair: black, coarse, wild
   eyes: amber, single-horn protruding from the forehead (usually hidden under a hat)
   distinctive_features: iron-grey skin, a single oni horn at the brow, tusks visible when he speaks
+portrait_variations: []
 affiliations:
 - org:ashikara-shogunate
 desires:

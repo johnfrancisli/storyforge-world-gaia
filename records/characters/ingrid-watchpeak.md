@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Guard Captain
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Solid and watchful, Ingrid wears ringmail and a white cloak — the guard's color — with a longsword
   at her hip and a shield painted with Skaldvik's raven crest. She stands at the jarl's right hand in
   the hall and walks the walls every morning and evening, counting faces, checking gates. She never drinks
@@ -31,6 +49,7 @@ visual_identity:
   eyes: grey, level and unblinking
   distinctive_features: a scar across her left eyebrow (sword cut), a guard's tattoo of a raven on her
     right shoulder
+portrait_variations: []
 affiliations:
 - org:hra-raid-crews
 desires:

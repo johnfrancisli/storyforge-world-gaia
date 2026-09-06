@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Oud player, musician
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Serene and absorbed in a musician's loose robes, her oud cradled against her chest like a
   child. She closes her eyes when she plays and opens them between songs with a startled expression, as
   if returning from far away. Her fingers are long and quick.
@@ -30,6 +48,7 @@ visual_identity:
   distinctive_features:
   - deep calluses on the left-hand fingertips from oud strings
   - a faded scar on the right thumb from a snapped string
+portrait_variations: []
 affiliations:
 - org:binding-families
 desires:

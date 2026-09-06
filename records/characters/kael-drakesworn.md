@@ -13,6 +13,24 @@ heritage: ''
 social_station: ''
 role: Dragon-Bonded Knight
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Handsome and intense, Kael wears Dragon Order plate with a black dragon sigil. He has dark
   circles under his eyes from sleepless nights and moves with the tension of someone carrying an unbearable
   weight.
@@ -26,6 +44,7 @@ visual_identity:
   eyes: dark brown, intense
   distinctive_features: a dragon-bond scar covering his entire chest (hidden by armour), premature grey
     at his temples from bond-stress
+portrait_variations: []
 affiliations:
 - org:dragon-order
 desires:

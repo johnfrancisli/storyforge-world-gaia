@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Canal lock-keeper and keeper of sealed-channel secrets
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Old and river-worn, wearing Mizuhito canal-worker's garb and a faded official's sash from
   the old kingdom. Works methodically.
 biography: ''
@@ -28,6 +46,7 @@ visual_identity:
   distinctive_features:
   - a Mizuhito river-tattoo of a lock-gate on both forearms (master lock-keeper mark)
   - a permanently crooked left ring finger from a lock-chain accident
+portrait_variations: []
 affiliations:
 - org:jin-state
 desires:

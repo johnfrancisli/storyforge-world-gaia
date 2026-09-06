@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Prince of the Ashikara shogunate
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: He wears a youth's court kimono in pale blue, well-kept but not ostentatious. He carries a
   wakizashi he's barely trained to use. His posture is open and unguarded in a way that makes his guard
   detail nervous. He reads scrolls while walking, which is why he trips on doorframes.
@@ -28,6 +46,7 @@ visual_identity:
   hair: black, in a young man's topknot
   eyes: dark brown, earnest
   distinctive_features: a faint childhood scar on the chin from falling out of a persimmon tree
+portrait_variations: []
 affiliations:
 - org:ashikara-shogunate
 desires:

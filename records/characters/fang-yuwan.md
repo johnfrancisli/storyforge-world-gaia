@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Boat builder and unwilling military supplier
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Practical and wood-shaving-dusted, wearing Mizuhito boat-builder's leather work clothes. Strong
   hands, measuring eye.
 biography: ''
@@ -29,6 +47,7 @@ visual_identity:
   distinctive_features:
   - a Mizuhito river-tattoo of a boat-hull on the right shoulder
   - resin-stained hands with a missing left ring finger (table-saw accident)
+portrait_variations: []
 affiliations:
 - org:san-merchant-cartel
 desires:

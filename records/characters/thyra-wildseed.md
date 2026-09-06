@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Thrall (Bondservant)
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: 'Dark-haired and sun-darkened compared to the fair people of Skaldvik, Thyra wears the plain
   wool of a thrall — undyed, unadorned — and moves through the household with efficient quiet. She is
   always working: scrubbing, carrying, mending. She speaks Hrafnland well but with an accent she has tried
@@ -30,6 +48,7 @@ visual_identity:
   eyes: dark brown, watchful and guarded
   distinctive_features: a thrall's iron band on her left wrist (engraved with Sigrid's mark), a faded
     scar on her right forearm from a childhood injury before her capture
+portrait_variations: []
 affiliations:
 - org:hra-jarl-council
 desires:

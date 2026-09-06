@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Dancer
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A lithe, expressive woman who moves like water even when she is standing still. She wears
   light performing cloth and carries fire-poi wrapped in protective fiber. Her energy is intense and slightly
   feverish.
@@ -31,6 +49,7 @@ visual_identity:
   eyes: dark brown, intense
   distinctive_features: fire-poi always carried wrapped in fiber at the belt, a burn scar on the right
     forearm from a performance, dark circles under the eyes from sleepless nights
+portrait_variations: []
 affiliations:
 - org:tide-island-council
 desires:

@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Snake charmer, djinn-charmer
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Lean and weathered in performer's clothes — a colorful vest over rough cotton, a turban wound
   with a serpent motif. He sits cross-legged with his basket of serpents and plays a bone flute with an
   intensity that makes the air feel heavy. His snakes coil in perfect synchronization with his music.
@@ -31,6 +49,7 @@ visual_identity:
   distinctive_features:
   - a snake-bite scar on the right hand, puckered and old
   - the bone flute itself, yellowed and carved with symbols no one recognizes
+portrait_variations: []
 affiliations:
 - org:alk-city-guard
 desires:

@@ -13,6 +13,24 @@ heritage: ''
 social_station: ''
 role: Monk / Scribe
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Thin and pale from years indoors, Galen wears simple brown robes and wire-rimmed spectacles.
   His hands are ink-stained and trembling slightly with age.
 biography: ''
@@ -25,6 +43,7 @@ visual_identity:
   eyes: pale blue behind spectacles
   distinctive_features: permanently ink-stained fingers, a pronounced stoop from decades at a writing
     desk
+portrait_variations: []
 affiliations:
 - org:val-mages-circle
 desires:

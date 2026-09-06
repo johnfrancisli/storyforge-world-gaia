@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Blacksmith (kaji)
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: She wears a leather smith's apron over a soot-stained kimono, her sleeves bound tight. She's
   broad-shouldered from years at the anvil, and she wields a hammer with controlled, rhythmic force. Her
   forge-glow is always behind her, outlining her in red and shadow.
@@ -27,6 +45,7 @@ visual_identity:
   hair: black, greying, cropped very short
   eyes: dark brown, steady
   distinctive_features: burn scars across both forearms and a permanent forge-tan on the hands
+portrait_variations: []
 affiliations:
 - org:ashikara-shogunate
 desires:

@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Tea ceremony teacher (chajin)
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: She wears an immaculate, subdued kimono in slate grey or deep indigo, with a white fukusa
   cloth folded precisely at her collar. Her movements in the tea room are liquid and unhurried. She speaks
   softly, and people lean in to hear her — which is the point.
@@ -27,6 +45,7 @@ visual_identity:
   hair: iron grey, in a smooth low bun
   eyes: dark brown, warm but observant
   distinctive_features: a faint tea-stain discoloration on the right thumb and forefinger, permanent
+portrait_variations: []
 affiliations:
 - org:tsu-tea-schools
 desires:

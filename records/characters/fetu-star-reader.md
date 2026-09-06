@@ -19,6 +19,24 @@ heritage: ''
 social_station: ''
 role: Wayfinder (junior navigator)
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A young, bright-eyed woman with wayfinder tattoos just beginning on her forearms — only two
   routes marked so far. She carries a star compass carved from shell and watches the night sky with unusual
   intensity.
@@ -33,6 +51,7 @@ visual_identity:
   eyes: very dark brown — nearly black, with a quality of absorbing light rather than reflecting it
   distinctive_features: wayfinder tattoos beginning on both forearms — only two routes, a shell star-compass
     carried on a cord around the neck, a three-day gap in memory she will not discuss
+portrait_variations: []
 affiliations:
 - org:wayfinder-guilds
 desires:

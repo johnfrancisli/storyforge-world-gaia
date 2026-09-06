@@ -14,6 +14,24 @@ heritage: ''
 social_station: ''
 role: Skald (poet, storyteller)
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A thin, animated man in colorful wool — more colorful than is strictly practical in Hrafnland.
   He carries a lyre everywhere and plays it at every opportunity. His hair is long and he has a performer's
   sense of when to pause.
@@ -27,6 +45,7 @@ visual_identity:
   hair: red, long, flowing
   eyes: green
   distinctive_features: a lyre always in hand, ink-stained fingers from composing, a silver ear ring
+portrait_variations: []
 affiliations:
 - org:hra-jarl-council
 desires:

@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Court dancer and patient assassin-in-waiting
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Luminous and expressive, wearing Chu-state performance silks of crimson and gold. Moves like
   water and smoke.
 biography: ''
@@ -28,6 +46,7 @@ visual_identity:
   distinctive_features:
   - a dancer's callus on the balls of both feet
   - a tiny, faded scar on the left jaw from a childhood fall
+portrait_variations: []
 affiliations:
 - org:chu-state
 desires:

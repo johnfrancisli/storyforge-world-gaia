@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Charcoal Burner
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Broad and smoke-blackened, Grim wears rough charcoal-stained clothing and a leather cap. He
   is less solitary than Ulla — he comes to town more often, drinks more, talks more. His laugh is loud
   and his hands are always dirty. He smells of woodsmoke and sweat and something slightly bitter.
@@ -29,6 +47,7 @@ visual_identity:
   eyes: brown, sharp and quick to look away
   distinctive_features: permanent charcoal staining on face and hands, a prominent scar across his left
     eyebrow (axe-slip while cutting timber)
+portrait_variations: []
 affiliations:
 - org:hra-rune-guild
 desires:

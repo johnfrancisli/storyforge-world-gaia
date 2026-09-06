@@ -14,6 +14,24 @@ heritage: ''
 social_station: ''
 role: Princess of Valdris
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A sharp-featured woman in practical riding clothes more often than court gowns, her hair braided
   and pinned for travel. She carries a knife at her belt — not ceremonial. She moves with purpose and
   speaks with precision.
@@ -26,6 +44,7 @@ visual_identity:
   hair: auburn, braided
   eyes: green
   distinctive_features: a small mole below the left eye
+portrait_variations: []
 affiliations:
 - org:dragon-order
 desires:

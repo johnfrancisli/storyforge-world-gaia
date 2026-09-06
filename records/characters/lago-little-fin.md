@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Child and river-born
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Small and sleek, perpetually damp. Always near the water's edge. Carries a piece of charcoal
   for drawing on bark.
 biography: ''
@@ -31,6 +49,7 @@ visual_identity:
   - blue-green skin with faint mottling
   - webbed fingers and toes, still developing
   - incipient gill-slits along the ribcage, more pronounced than typical Mizuhito children
+portrait_variations: []
 affiliations:
 - org:ver-shaman-circle
 desires:

@@ -13,6 +13,24 @@ heritage: ''
 social_station: ''
 role: Miller
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Strong-armed and practical, Talia wears flour-dusted work clothes and keeps her hair tied
   back. She has a warm but no-nonsense demeanour and a firm handshake.
 biography: ''
@@ -25,6 +43,7 @@ visual_identity:
   eyes: brown
   distinctive_features: permanently flour-dusted eyebrows, a scar on her right forearm from the mill's
     gear mechanism
+portrait_variations: []
 affiliations:
 - org:val-merchant-guild
 desires:

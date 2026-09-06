@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Basket weaver and secret scryer
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Sturdy and calm-handed, always working. Sits cross-legged on her platform with materials spread
   around her. Her baskets hang from every rafter.
 biography: ''
@@ -30,6 +48,7 @@ visual_identity:
   distinctive_features:
   - permanent grooves in both index fingers from palm-leaf fibers
   - a dark mole beneath the left ear
+portrait_variations: []
 affiliations:
 - org:ver-shaman-circle
 desires:

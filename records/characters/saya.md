@@ -14,6 +14,24 @@ heritage: ''
 social_station: ''
 role: Sake brewer (toji)
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: She wears a stained indono apron over a plain kimono, sleeves rolled to the elbow. Her forearms
   are strong from stirring mash, and she smells of koji and cool water. She has a habit of tapping the
   rim of her earthenware jugs to judge their contents by sound.
@@ -26,6 +44,7 @@ visual_identity:
   hair: salt-and-pepper black, tied in a loose bun
   eyes: warm brown
   distinctive_features: a faint fermentation scar across the right thumb and forefinger
+portrait_variations: []
 affiliations:
 - org:ashikara-shogunate
 desires:

@@ -12,6 +12,24 @@ heritage: ''
 social_station: ''
 role: Tavern Keeper
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Auburn-haired and quick-smiling, Sera moves through the tavern with practiced grace. She wears
   a clean apron and keeps a dagger hidden beneath the bar counter at all times.
 biography: ''
@@ -23,6 +41,7 @@ visual_identity:
   hair: auburn, shoulder-length, often braided
   eyes: hazel
   distinctive_features: a faint scar on her right cheekbone, a tattoo of a small falcon on her left wrist
+portrait_variations: []
 affiliations:
 - org:dragon-order
 desires:

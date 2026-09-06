@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Cook and food preserver
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A broad, solid woman with flour-dusted hands and a permanent smell of woodsmoke. She moves
   efficiently between cooking pits and drying racks, always checking, always preparing.
 biography: ''
@@ -30,6 +48,7 @@ visual_identity:
   eyes: dark brown, watchful
   distinctive_features: smoke-darkened staining on both hands and forearms, a cloth wrap always worn over
     the hair, keys to the storehouse worn on a cord around the neck
+portrait_variations: []
 affiliations:
 - org:wayfinder-guilds
 desires:

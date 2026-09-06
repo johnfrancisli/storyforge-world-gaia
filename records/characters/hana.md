@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Messenger and courier (hikyaku)
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: She wears a lightweight traveling kimono with tight sleeves and straw sandals, a courier's
   pack strapped to her back. She's lean from running and always slightly out of breath when she stops.
   She carries a knife in her sash that she knows how to use.
@@ -27,6 +45,7 @@ visual_identity:
   hair: black, cut short to the jaw for speed
   eyes: dark brown, quick-moving
   distinctive_features: a road-dust tan line at the wrists from long sleeves worn while running
+portrait_variations: []
 affiliations:
 - org:ashikara-shogunate
 desires:

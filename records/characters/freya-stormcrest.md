@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Castle Guard
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Alert and athletic, Freya wears a castle guard's chainmail and a crimson tabard. She carries
   a halberd and moves with the coiled readiness of someone who expects trouble at any moment.
 biography: ''
@@ -27,6 +45,7 @@ visual_identity:
   eyes: steel grey
   distinctive_features: a guard's brand on her left forearm (castle crest), a scar across her right knuckles
     (sparring injury), a slightly crooked right index finger (healed break)
+portrait_variations: []
 affiliations:
 - org:dragon-order
 desires:

@@ -14,6 +14,24 @@ heritage: ''
 social_station: ''
 role: Fortune teller and reluctant seer
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Mystical and theatrical in market-performers' robes, draped in auspicious charms. Eyes that
   seem to look through people.
 biography: ''
@@ -27,6 +45,7 @@ visual_identity:
   distinctive_features:
   - a tortoise-shell burn scar on the right palm from divination rites
   - a white streak in the left temple hair
+portrait_variations: []
 affiliations:
 - org:san-merchant-cartel
 desires:

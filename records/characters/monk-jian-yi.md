@@ -14,6 +14,24 @@ heritage: ''
 social_station: ''
 role: Wandering chi monk
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A thin, wiry man in faded grey robes, barefoot, with a bamboo staff. His head is shaved and
   tanned by decades of sun. He moves with a fluidity that is subtly wrong for his apparent age — the walk
   of someone whose body is reinforced by decades of chi cultivation.
@@ -28,6 +46,7 @@ visual_identity:
   eyes: dark brown, calm
   distinctive_features: barefoot in all weather, a circular burn-scar on the right palm from a chi cultivation
     injury
+portrait_variations: []
 affiliations:
 - org:san-chi-sect
 desires:

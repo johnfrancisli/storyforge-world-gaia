@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Army blacksmith and secret qilin-iron weapons dealer
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Soot-blackened and taciturn, wearing a heavy leather forge-apron. Arms like tree trunks.
 biography: ''
 personality: ''
@@ -27,6 +45,7 @@ visual_identity:
   distinctive_features:
   - extensive forge-burn scarring on both forearms and hands
   - a thick blacksmith's callus on the right palm
+portrait_variations: []
 affiliations:
 - org:chu-state
 desires:

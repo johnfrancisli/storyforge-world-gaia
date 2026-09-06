@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Singer
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A slight, bright-voiced woman who seems to vibrate with sound even when she is silent. She
   wears simple cloth and goes barefoot, always near the water's edge.
 biography: ''
@@ -31,6 +49,7 @@ visual_identity:
   distinctive_features: a voice that carries unnaturally far — even her speaking voice carries further
     than it should, sand on her feet from nightly beach visits, a faint luminescence on her throat that
     is only visible in the dark
+portrait_variations: []
 affiliations:
 - org:wayfinder-guilds
 desires:

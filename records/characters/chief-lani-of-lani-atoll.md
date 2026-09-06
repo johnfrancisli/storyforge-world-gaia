@@ -14,6 +14,24 @@ heritage: ''
 social_station: ''
 role: Chief of Lani Atoll
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A sturdy, sun-darkened woman in fine island cloth and a chief's whale-bone necklace. She moves
   with the authority of someone who has been making hard decisions for decades. Her arms are tattooed
   with the route-maps of her youth — she was a wayfinder before she was a chief.
@@ -28,6 +46,7 @@ visual_identity:
   eyes: dark brown
   distinctive_features: a chief's whale-bone necklace, wayfinder tattoos on both arms (faded), a small
     scar on the left calf from a shark encounter
+portrait_variations: []
 affiliations:
 - org:wayfinder-guilds
 desires:

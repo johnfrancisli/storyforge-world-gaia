@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Herbalist
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Small and earthy, Dis wears a moss-green dress with pockets full of dried herbs and seed packets.
   Her hair is tied with twine and she always has dirt under her nails. She carries a gathering basket
   and a small bone-handled knife, and she talks to her plants as she walks through the garden.
@@ -28,6 +46,7 @@ visual_identity:
   eyes: warm brown, gentle
   distinctive_features: permanently green-stained fingertips, a round birthmark on her left forearm shaped
     like a leaf
+portrait_variations: []
 affiliations:
 - org:hra-volur-coven
 desires:

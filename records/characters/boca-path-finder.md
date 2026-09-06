@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Rainforest guide and path-reader
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Wiry and alert, with a guide's economy of movement. Wears light travel gear and a machete.
   Barefoot — she says she can feel the path through her feet.
 biography: ''
@@ -30,6 +48,7 @@ visual_identity:
   distinctive_features:
   - deeply calloused, toughened soles from a lifetime of barefoot travel
   - a faded machete-scar across the left shin
+portrait_variations: []
 affiliations:
 - org:ver-river-consortium
 desires:

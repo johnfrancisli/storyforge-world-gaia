@@ -19,6 +19,24 @@ heritage: ''
 social_station: ''
 role: Elder rope maker
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A thin, weathered old man with rope-worker's hands that are still steady despite his age.
   He sits outside his home making cord, his fingers moving in patterns he has known for sixty years.
 biography: ''
@@ -33,6 +51,7 @@ visual_identity:
   distinctive_features: rope-worker's calluses that have hardened into permanent ridges on both hands,
     a coil of cord always in his lap, fingers that tie and untie complex knots absently, a quality of
     watchfulness toward the sea that goes beyond normal islander caution
+portrait_variations: []
 affiliations:
 - org:tide-island-council
 desires:

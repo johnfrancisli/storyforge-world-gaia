@@ -20,6 +20,24 @@ heritage: ''
 social_station: ''
 role: Pearl diver (deep)
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A lean, deep-chested man with a diver's build and an ease in the water that is unsettling
   to watch. He moves through the sea as if it is his natural element, which, secretly, it is.
 biography: ''
@@ -34,6 +52,7 @@ visual_identity:
   distinctive_features: hidden gill slits along both sides of the ribcage — invisible unless arms are
     raised in water, an unnatural ease in the water that other divers find remarkable but unsettling,
     a diver's barotrauma scarring on both earlobes that has healed despite the depth he reaches
+portrait_variations: []
 affiliations:
 - org:tide-fishing-coop
 desires:

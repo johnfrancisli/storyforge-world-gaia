@@ -14,6 +14,24 @@ heritage: ''
 social_station: ''
 role: Chief of Iara
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A stocky, sun-darkened man in fine river-cloth and featherwork — the marks of his office.
   He carries a chief's staff of carved driftwood. He is usually in the council hall, arguing. He has a
   loud voice and uses it.
@@ -27,6 +45,7 @@ visual_identity:
   hair: grey, close-cropped
   eyes: dark brown
   distinctive_features: a chief's featherwork collar, a ritual scar on the left cheek marking his election
+portrait_variations: []
 affiliations:
 - org:ver-shaman-circle
 desires:

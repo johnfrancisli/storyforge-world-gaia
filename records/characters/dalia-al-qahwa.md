@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Coffee house owner, keeper of the neutrality tradition
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Dignified and welcoming in a long apron over dark robes, she moves between tables with a coffee
   pot in one hand and a stack of cups in the other. The coffee house is her life's work, and she treats
   every guest as if the Pact depends on their comfort.
@@ -31,6 +49,7 @@ visual_identity:
   distinctive_features:
   - a coffee-stain birthmark on the left palm
   - a thin gold chain around the neck with a tiny lamp charm
+portrait_variations: []
 affiliations:
 - org:alk-spice-houses
 desires:

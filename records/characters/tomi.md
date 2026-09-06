@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Servant and double agent
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: She wears a plain servant's kimono in muted grey, her hair in a simple bun. She moves through
   rooms like a shadow — present, useful, and invisible. She pours tea at precisely the right moment and
   never interrupts.
@@ -28,6 +46,7 @@ visual_identity:
   hair: black, plain bun
   eyes: dark brown, downcast by habit
   distinctive_features: a small mole at the corner of the left eye
+portrait_variations: []
 affiliations:
 - org:takeda-clan
 desires:

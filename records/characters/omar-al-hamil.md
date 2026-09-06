@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Porter, djinn-seer
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Large and gentle-eyed in a porter's rough tunic and head wrap, he carries crates with careful,
   deliberate movements. He watches the market with an alertness that surprises those who assume he is
   simple. He often has charcoal on his fingers from drawing.
@@ -31,6 +49,7 @@ visual_identity:
   distinctive_features:
   - a callus ridge across both shoulders from years of carrying crates
   - permanent charcoal staining on the right hand and fingertips
+portrait_variations: []
 affiliations:
 - org:alk-spice-houses
 desires:

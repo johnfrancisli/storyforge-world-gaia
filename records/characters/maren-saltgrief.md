@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Navigator / Sailor
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Lean and salt-wind-burned, Maren wears a sealskin coat over wool, a chart-roller slung across
   her back. She squints at the horizon more than she used to and tilts her head toward the wind as though
   listening to it. Her hands move constantly, tracing invisible maps on any flat surface.
@@ -28,6 +46,7 @@ visual_identity:
   eyes: pale blue, slightly clouded at the edges
   distinctive_features: frost-nip scars on the tip of her nose and both ears, a faded tattoo of the North
     Star on her left inner wrist
+portrait_variations: []
 affiliations:
 - org:hra-shipwright-brotherhood
 desires:

@@ -13,6 +13,24 @@ heritage: ''
 social_station: ''
 role: Innkeeper
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A small, round halfling woman in a flour-dusted apron, her curly hair tied back with a kerchief.
   She moves behind the bar with the efficiency of someone who can pour three drinks and serve two plates
   simultaneously. Her face is sun-reddened and she smiles easily.
@@ -27,6 +45,7 @@ visual_identity:
   eyes: hazel
   distinctive_features: a flour dusting that never quite leaves her apron, laugh lines deep around the
     eyes
+portrait_variations: []
 affiliations:
 - org:val-merchant-guild
 desires:

@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Wild herbalist and qilin-spirit intermediary
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Wild-haired and forest-worn, wearing layered patched clothes and carrying baskets of drying
   herbs.
 biography: ''
@@ -28,6 +46,7 @@ visual_identity:
   distinctive_features:
   - mud-stained fingers with green herbal stains
   - a necklace of small animal bones and dried seed pods
+portrait_variations: []
 affiliations:
 - org:san-strategist-circle
 desires:

@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Bounty Hunter / Sellsword
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Lean and hard-eyed, Sable wears worn leather armour and a dark cloak. She carries a short
   sword and a set of manacles on her belt — the manacles have not been used in weeks. She has the watchful
   stillness of a hunter, but something in her expression has softened recently.
@@ -28,6 +46,7 @@ visual_identity:
   eyes: dark brown
   distinctive_features: a deserter's brand scratched off her left shoulder (the mark was burned in, then
     cut away — leaving a ragged scar), a knife scar on her right bicep, a chipped left canine
+portrait_variations: []
 affiliations:
 - org:val-mages-circle
 desires:

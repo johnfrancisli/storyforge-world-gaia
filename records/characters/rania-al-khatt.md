@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Master calligrapher, contract scribe
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Refined and still in flowing dark robes, her hands stained with ink to the wrist. She writes
   with a reed pen in a hand so steady it is said she can draw a line the width of a hair. She speaks softly
   and never repeats herself.
@@ -31,6 +49,7 @@ visual_identity:
   distinctive_features:
   - permanent ink staining on the right index and middle fingers
   - a callus on the right middle finger from years of reed pen grip
+portrait_variations: []
 affiliations:
 - org:alk-scholar-circle
 desires:

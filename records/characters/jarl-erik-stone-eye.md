@@ -14,6 +14,24 @@ heritage: ''
 social_station: ''
 role: Jarl of the southern fjords
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A young, handsome man in fine fur and iron, a throwing axe at his belt. He has a jarl's bearing
   and a younger man's certainty. His left eye is pale and unseeing — the stone-eye that gives him his
   name — and he wears an eyepatch of polished slate.
@@ -27,6 +45,7 @@ visual_identity:
   hair: blond, braided
   eyes: right eye blue, left eye pale and unseeing
   distinctive_features: a polished slate eyepatch over the left eye, a young jarl's silver arm-ring
+portrait_variations: []
 affiliations:
 - org:hra-jarl-council
 desires:

@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Oasis keeper, guardian of the Mirror Oasis
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Sun-darkened and weathered in loose white cotton and a wide-brimmed palm hat. She moves among
   the date palms with the ease of someone who has lived in one place her entire life. Her hands are calloused
   from pruning and water-channel maintenance.
@@ -30,6 +48,7 @@ visual_identity:
   distinctive_features:
   - deep tan lines across the forehead from years of wearing a palm hat
   - a missing left little finger, lost to a desert viper bite years ago
+portrait_variations: []
 affiliations:
 - org:alk-spice-houses
 desires:

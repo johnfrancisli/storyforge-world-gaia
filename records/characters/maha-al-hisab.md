@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Mathematician, scholar
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Neat and reserved in scholar's robes, she carries a case of drafting tools and a leather notebook
   full of equations. She counts everything — steps, breaths, tiles in a pattern — and finds it calming.
 biography: ''
@@ -30,6 +48,7 @@ visual_identity:
   distinctive_features:
   - a compass-point callus on the right thumb
   - ink stains on the left palm from pressing her notebook
+portrait_variations: []
 affiliations:
 - org:alk-scholar-circle
 desires:

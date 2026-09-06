@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Courier, intelligence gatherer
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Weathered and compact in desert riding clothes and a wrapping scarf, she moves with the economy
   of someone who conserves every motion. Her camel is lean and fast, and she treats it better than herself.
 biography: ''
@@ -29,6 +47,7 @@ visual_identity:
   distinctive_features:
   - a rider's callus on the inner right thigh
   - a small tattoo of a stylized bird on the left wrist — a messenger's guild mark
+portrait_variations: []
 affiliations:
 - org:binding-families
 desires:

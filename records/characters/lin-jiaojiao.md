@@ -14,6 +14,24 @@ heritage: ''
 social_station: ''
 role: Child chi-prodigy and object of a three-way search
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Small for her age and wiry, wearing simple paper-maker's child clothes. Always looks slightly
   apologetic.
 biography: ''
@@ -27,6 +45,7 @@ visual_identity:
   distinctive_features:
   - a faint lattice of hairline cracks across the palms (from channeling chi)
   - a small chip in the right front tooth
+portrait_variations: []
 affiliations:
 - org:san-merchant-cartel
 desires:

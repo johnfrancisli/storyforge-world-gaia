@@ -18,6 +18,24 @@ heritage: ''
 social_station: ''
 role: Binding family child, djinn-voice hearer
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Small and serious in a child's robes with the al-Sayf sigil embroidered small at the collar.
   She has large dark eyes that observe more than a ten-year-old should, and she holds her cloth camel
   tightly when she is nervous, which is often lately.
@@ -32,6 +50,7 @@ visual_identity:
   distinctive_features:
   - a faded birthmark on the left shoulder blade, shaped roughly like a flame
   - a small scar on the chin from a fall in the courtyard
+portrait_variations: []
 affiliations:
 - org:binding-families
 desires:

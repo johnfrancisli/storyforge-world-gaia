@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Midwife
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A calm, sure-handed woman with a healer's gentleness and an iron core. She wears simple cloth
   and carries a birthing kit in a woven bag. Her presence alone steadies panicked rooms.
 biography: ''
@@ -31,6 +49,7 @@ visual_identity:
   distinctive_features: a woven birthing kit bag always at the shoulder, hands that radiate warmth — noticeably
     warmer than they should be, a faint humming that she does unconsciously in any room where someone
     is ill
+portrait_variations: []
 affiliations:
 - org:tide-island-council
 desires:

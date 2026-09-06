@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Master painter and unwitting intelligence source
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Free-spirited and paint-stained, wearing travel-worn scholar-artist robes. Carries a bulky
   scroll-pack and brush case.
 biography: ''
@@ -28,6 +46,7 @@ visual_identity:
   distinctive_features:
   - paint stains in permanent rings around the right wrist
   - a sun-faded tan line from a hat she rarely wears
+portrait_variations: []
 affiliations:
 - org:chu-state
 desires:

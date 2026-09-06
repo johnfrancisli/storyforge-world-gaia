@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Gambling den operator and underground fixer
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Hard-edged and watchful, wearing dark, practical clothes under a gambler's coat. Rings on
   every finger, eyes on every door.
 biography: ''
@@ -28,6 +46,7 @@ visual_identity:
   distinctive_features:
   - a knife-scar from the right ear to the jaw
   - a gambler's callus on the right thumb from dice and cards
+portrait_variations: []
 affiliations:
 - org:san-merchant-cartel
 desires:

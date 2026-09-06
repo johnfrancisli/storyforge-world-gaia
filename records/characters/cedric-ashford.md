@@ -12,6 +12,24 @@ heritage: ''
 social_station: ''
 role: Stable Hand
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Grey-templed and quiet, Cedric wears nondescript roughspun clothing. He moves with a soldier's
   efficiency despite his humble station, a detail not lost on the observant.
 biography: ''
@@ -24,6 +42,7 @@ visual_identity:
   eyes: blue, deep-set
   distinctive_features: an old brand mark on his right shoulder (the Dragon Order sigil, partially scarred
     over), calloused knuckles consistent with sword training
+portrait_variations: []
 affiliations:
 - org:val-mages-circle
 desires:

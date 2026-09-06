@@ -14,6 +14,24 @@ heritage: ''
 social_station: ''
 role: Iron mine foreman and secret qilin-iron dealer
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Stocky and soot-stained, wearing heavy leather work clothes and a miner's leather cap.
 biography: ''
 personality: ''
@@ -26,6 +44,7 @@ visual_identity:
   distinctive_features:
   - a burn scar across the bridge of the nose
   - missing the left earlobe from a mining explosion
+portrait_variations: []
 affiliations:
 - org:wei-state
 desires:

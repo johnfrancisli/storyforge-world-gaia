@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Whale-speaker
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A lean young man in simple island cloth, barefoot, sitting at the water's edge. He has the
   distant look of someone who is always half-listening to something else. His skin is dark and his hair
   is salt-bleached. He carries a conch shell horn for calling whales.
@@ -29,6 +47,7 @@ visual_identity:
   eyes: grey-blue, distant
   distinctive_features: a conch shell horn worn on a cord around the neck, webbed toes (a minor birth
     trait common in whale-speaker families), a far-listening expression
+portrait_variations: []
 affiliations:
 - org:wayfinder-guilds
 desires:

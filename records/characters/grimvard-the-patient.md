@@ -14,6 +14,24 @@ heritage: ''
 social_station: ''
 role: Frost giant elder, emissary
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A towering figure, grey-skinned and broad, wrapped in layers of white fur. He sits cross-legged
   outside the town walls, his hands on his knees, and does not move. His eyes are pale blue, ancient,
   and unbothered. He speaks rarely, in a voice like grinding ice.
@@ -27,6 +45,7 @@ visual_identity:
   hair: white, long, matted with frost
   eyes: pale blue, ancient
   distinctive_features: ritual scarring on both cheeks, frost crystals in the beard that never melt
+portrait_variations: []
 affiliations:
 - org:hra-jarl-council
 desires:

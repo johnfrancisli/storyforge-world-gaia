@@ -14,6 +14,24 @@ heritage: ''
 social_station: ''
 role: Retired Knight / Weapons Trainer
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Grey-bearded and scarred, Aldric wears a faded Dragon Order tabard over chainmail. He favours
   his left leg, an old injury, and his right hand trembles slightly — a remnant of bond-sickness.
 biography: ''
@@ -26,6 +44,7 @@ visual_identity:
   eyes: pale blue
   distinctive_features: a dragon-scale burn scar covering his right hand and forearm, a limp on the left
     leg from a shattered knee
+portrait_variations: []
 affiliations:
 - org:dragon-order
 desires:

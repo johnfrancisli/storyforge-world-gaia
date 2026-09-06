@@ -14,6 +14,24 @@ heritage: ''
 social_station: ''
 role: Shrine maiden (miko)
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: She wears the traditional white kosode and red hakama of a shrine maiden, her sleeves tied
   back for work. Her hands are rough from scrubbing stone steps. She moves with careful, deliberate grace
   and bows a little too deeply when addressed.
@@ -26,6 +44,7 @@ visual_identity:
   hair: black, straight, hip-length, tied back with a white ribbon
   eyes: dark brown, wide-set
   distinctive_features: a faint birthmark like a crescent moon at the base of her neck
+portrait_variations: []
 affiliations:
 - org:ashikara-shogunate
 desires:

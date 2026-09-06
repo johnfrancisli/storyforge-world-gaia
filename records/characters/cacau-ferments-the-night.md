@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Fermenter, cook, and dream-wine maker
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Round and floury, perpetually warm-smelling. Wears an apron stained with fruit and root dyes.
   Laughs easily and often — a sharp contrast to her secret anxiety.
 biography: ''
@@ -30,6 +48,7 @@ visual_identity:
   distinctive_features:
   - fermentation-stain discoloration across both palms
   - a burn scar on the left forearm from a vat accident
+portrait_variations: []
 affiliations:
 - org:ver-shaman-circle
 desires:

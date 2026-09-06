@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Astrologer, information broker
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Smooth-faced and well-dressed in scholar's robes with too much silver jewelry, he carries
   a brass telescope and a case of charts. He is handsome and knows it, and he speaks with the confidence
   of a man who believes his intelligence makes him untouchable.
@@ -31,6 +49,7 @@ visual_identity:
   distinctive_features:
   - a silver star earring in the left ear
   - ink stains on the right cuff from chart work
+portrait_variations: []
 affiliations:
 - org:alk-scholar-circle
 desires:

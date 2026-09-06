@@ -16,6 +16,24 @@ heritage: ''
 social_station: ''
 role: Midwife
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Weathered and warm, Kata wears a clean wool dress with a shawl she can wrap around anything
   — a cold infant, a laboring mother, her own shoulders. Her hands are gentle and sure, and she carries
   a bundle of clean cloth and a small knife for cutting cords. She smells of soap and lavender.
@@ -29,6 +47,7 @@ visual_identity:
   eyes: warm brown, deeply lined at the corners
   distinctive_features: a mole on her left cheek, a slight curvature of the spine from decades of leaning
     over beds
+portrait_variations: []
 affiliations:
 - org:hra-volur-coven
 desires:

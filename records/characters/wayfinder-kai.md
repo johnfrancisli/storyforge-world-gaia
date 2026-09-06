@@ -13,6 +13,24 @@ heritage: ''
 social_station: ''
 role: Wayfinder (navigator)
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A compact man in light island cloth, barefoot, with a carved wayfinding staff in his hand.
   His arms are covered in tattoo patterns — geometric lines and stars that map the routes he has sailed.
   He watches the water the way most people watch faces.
@@ -26,6 +44,7 @@ visual_identity:
   hair: black, short, salt-stiffened
   eyes: dark brown
   distinctive_features: tattoo patterns covering both arms — wayfinding route maps in geometric ink
+portrait_variations: []
 affiliations:
 - org:wayfinder-guilds
 desires:

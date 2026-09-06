@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Shepherd
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Weather-worn and sharp-eyed, Nanna wears a thick wool coat (her namesake) and carries a shepherd's
   crook and a short bow. She is always with her dogs — three border collies who never leave her side.
   She has not slept a full night in weeks, and the dark circles under her eyes are visible from across
@@ -29,6 +47,7 @@ visual_identity:
   eyes: hazel, red-rimmed from sleeplessness
   distinctive_features: dark circles under both eyes (chronic), a sheep-dog bite scar on her right hand
     (training accident, years old)
+portrait_variations: []
 affiliations:
 - org:hra-shipwright-brotherhood
 desires:

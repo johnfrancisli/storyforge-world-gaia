@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Caravan guard captain, unwitting djinn agent
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Battle-worn and watchful in desert travel clothes and a guard's leather vest, he carries a
   curved sword and a shield made of hardened camel hide. His face is weathered and his eyes are always
   on the horizon. He commands his guards with quiet authority.
@@ -31,6 +49,7 @@ visual_identity:
   distinctive_features:
   - a curved scar from a blade across the left cheek
   - a missing left earlobe from a desert skirmish
+portrait_variations: []
 affiliations:
 - org:binding-families
 desires:

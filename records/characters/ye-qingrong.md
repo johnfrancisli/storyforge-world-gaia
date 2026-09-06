@@ -15,6 +15,24 @@ heritage: ''
 social_station: ''
 role: Chi-cultivation nun, war-ritual performer, and monastery protector
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: Calm and luminous, wearing simple white cultivation robes. Moves with a cultivator's centered
   stillness.
 biography: ''
@@ -28,6 +46,7 @@ visual_identity:
   distinctive_features:
   - cultivation calluses on both palms
   - a faint chi-glow around the hands visible in dim light
+portrait_variations: []
 affiliations:
 - org:san-merchant-cartel
 desires:

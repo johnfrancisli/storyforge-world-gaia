@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Fisher (deep water)
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A big, sun-darkened man with a fisher's scars and a quiet, solitary manner. He works alone
   and speaks little. His canoe is always loaded for deep water.
 biography: ''
@@ -31,6 +49,7 @@ visual_identity:
   distinctive_features: fishing scars on both hands and forearms, a solitary quality that keeps people
     at a distance, three carved stone fragments kept hidden in a waterproof pouch, a deep-water canoe
     always loaded and ready
+portrait_variations: []
 affiliations:
 - org:tide-tattoo-guild
 desires:

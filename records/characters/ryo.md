@@ -17,6 +17,24 @@ heritage: ''
 social_station: ''
 role: Lantern maker (chochin-shi)
 proficient_skills: []
+stats:
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
+  attributes:
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
+currency:
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: He wears a craftsman's apron over a simple kimono, his hands nimble with bamboo and paper.
   He works surrounded by half-finished lantern frames in every color. He is quiet, meticulous, and has
   a habit of checking where his lanterns are hung when he walks the market street at night.
@@ -29,6 +47,7 @@ visual_identity:
   hair: black, in a simple topknot
   eyes: dark brown, focused
   distinctive_features: paper-cut calluses on both thumbs and a faint glue stain on the left forearm
+portrait_variations: []
 affiliations:
 - org:ashikara-shogunate
 desires:
