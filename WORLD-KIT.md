@@ -80,10 +80,22 @@ engine. The output is a directory:
 
 ```
 <slug>/
-  world.json      identity, settings, and records
+  world.json      identity and settings. Small, and it stays small.
+  records/        one record, one file -- characters/, locations/, threads/, ...
+  lore/           free prose, no schema. Most of a world belongs here.
   rules/          optional: .md files that change how this world plays
-  lore/           optional: free prose, no schema
+  assets/         images, audio, video
 ```
+
+**One record, one file.** A character is `records/characters/mira-vale.md`:
+YAML frontmatter for the fields the engine computes over, a body for the prose.
+Write one file at a time and never read the whole world -- that is the point of
+the layout, and past a few hundred kilobytes a single file cannot be read at
+all. Never add a record to `world.json`; the records left it.
+
+A world small enough to be one file may still keep its records inside
+`world.json`, and the engine reads either. `world.py split` converts one into
+the other.
 
 You are not writing a novel and you are not writing a rulebook. You are writing
 the smallest amount of material from which a game can start, in a form the

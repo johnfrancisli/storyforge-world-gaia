@@ -1,0 +1,12 @@
+---
+id: org:alk-water-keys
+name: The Guild of the Water Keys
+seat: location:alk-qadira
+wants: To maintain their control over the water supply. To keep the qanat maps secret.
+pressure: steady
+holdings:
+- location:alk-qadira
+- location:zaffar
+---
+
+The subterranean syndicate that controls the qanats -- the deep water channels and reservoirs beneath Al-Khayzar's cities. Without the Water Keys, no city in Al-Khayzar has drinking water for more than three days. They are quiet, patient, and absolutely powerful. The Saffron Houses set prices; the Water Keys set survival. A water-keeper who falls from favor finds his qanat blocked by a rockfall that looks natural. It never is.

@@ -1,0 +1,35 @@
+---
+id: character:tsu-jiro-elder
+name: Jiro
+gm_notes: 'Jiro was the shogun''s bodyguard thirty years ago and carries a secret that could shatter the
+  Ashikara line: the current shogun (character:shogun-ashikara) is not the original heir. The true heir
+  was a sickly child who was secretly swapped with a healthier cousin from a branch family to prevent
+  a succession crisis during a yokai plague. The swap was ordered by the previous shogun and carried out
+  by Jiro and the court physician, both now dead. The current shogun knows the truth — Jiro told him on
+  his deathbed-equivalent twenty years ago — and it''s part of why he agonizes over the succession. Jiro
+  is the only other living person who knows, and he''s dying of old age. He''s been writing a letter he
+  can''t decide whether to send.'
+role: Retired samurai (ronin, former bodyguard)
+appearance: He wears a faded kimono and a straw hat, a cane beside his garden bench. He's thinner than
+  he was, but his posture still carries the memory of armor. His hands rest on his knees in a way that
+  suggests he knows where every weapon in the room is.
+visual_identity:
+  age: early eighties
+  body_build: thin, formerly powerful, still straight-backed
+  hair: white, sparse, under a cap
+  eyes: grey, sharp despite age
+  distinctive_features: an old sword scar across the collarbone and a missing left little finger — the
+    mark of a past dishonor atonement
+affiliations:
+- org:ashikara-shogunate
+desires:
+- To decide whether to reveal the succession secret before he dies, or take it to his grave as he promised.
+- To see the shogunate survive, regardless of whose blood sits on the throne.
+fears_or_limits:
+- Revealing the secret could destabilize the shogunate more than the succession crisis itself.
+- He is dying and running out of time to decide — and a letter, once sent, cannot be unsent.
+current_state:
+  location: location:tsukuyomi
+---
+
+A retired samurai living in a small house in rural Tsukuyomi, tending a vegetable garden and dozing in the sun. He walks with a cane and tells stories about his soldiering days that everyone assumes are exaggerated. He keeps to himself and watches the road with habits that never left him.

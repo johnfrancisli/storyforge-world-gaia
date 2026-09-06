@@ -1,0 +1,13 @@
+---
+id: org:ver-hunter-clans
+name: The Clans of the Deep Canopy
+seat: location:ver-altacanopy
+wants: Enforce the old hunting pacts and keep outsider traders out of the deep forest.
+pressure: rising
+holdings:
+- location:ver-altacanopy-ropebridgegate
+- location:ver-templeruins-plazamarket
+- location:ver-tidalreach-fisherfleet
+---
+
+The coalition of deep-forest hunter clans — jaguar-kin and their human allies — who provide meat, pelts, and the forest-patrol for the canopy tribes, with Kaa the Jaguar-kin, Miri Jaguar-Shadow, Roça Silent-Step, and the night-patrol guard Urutu among their number. The older hunters honor the jaguar-spirit pact and take only what the forest offers, while younger hunters over-hunt to feed the canopy market's hunger for pelts and rare parts. The clans want to enforce the old hunting pacts and keep outsider traders out of the deep forest before the jaguar spirits turn vengeful.

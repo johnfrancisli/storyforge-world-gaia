@@ -1,0 +1,31 @@
+---
+id: character:val-odelia-thrush
+name: Odelia Thrush
+gm_notes: Odelia is a minstrel who travels the kingdom performing songs and stories. She is also a spy
+  for a foreign power — not a Valdris loyalist at all. She reports on troop movements, political tensions,
+  and the succession crisis. However, she has genuinely come to love Valdris and its people during her
+  years undercover. Her handler has demanded she facilitate the assassination of a key Valdris noble during
+  the autumn festival. She is torn between her orders, her cover, and her conscience.
+role: Minstrel
+appearance: Bright and performative, Odelia wears colourful travelling clothes and a lutenist's callus
+  on her fingers. Her smile is quick and warm, but does not always reach her eyes.
+visual_identity:
+  age: 30
+  body_build: slender and expressive
+  hair: honey-blonde, long, worn loose or in a quick braid
+  eyes: green
+  distinctive_features: a lutenist's callus on her left fingertips, a small scar on her lower lip (bit
+    through it during a childhood fall)
+affiliations:
+- org:dragon-order
+desires:
+- to find a way out of her spy contract without being killed by her handler
+- to continue making music that genuinely moves people
+fears_or_limits:
+- that her handler will expose her or harm innocents if she refuses orders
+- that she will be discovered as a spy by Valdris authorities and executed
+current_state:
+  location: location:valdris
+---
+
+A beloved minstrel whose songs capture the hearts of every village — and whose handler's letters capture secrets she no longer wants to share.
