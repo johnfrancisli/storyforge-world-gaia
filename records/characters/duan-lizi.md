@@ -1,5 +1,5 @@
 ---
-id: character:san-duan-lizi
+id: character:duan-lizi
 name: Duan Lizi
 gm_notes: 'A noodle vendor in Jin-an''s market who served a bowl of noodles to a dying man who whispered
   a military secret into his soup before expiring. The secret: the Wei military is building a fleet of

@@ -7,9 +7,9 @@ stakes: If the runes are genuinely re-writing themselves, the entire foundation 
   the stones, harness the changing runes, or decide whether the 'cures' are a blessing or a lure.
 pressure: steady
 participants:
-- character:hra-yrsa-fogborn
-- character:hra-haldur-blackrune
-- character:hra-edda-cloudcarver
+- character:yrsa-fogborn
+- character:haldur-blackrune
+- character:edda-cloudcarver
 locations:
 - location:hra-runarholm-stones
 - location:hra-runarholm-volva

@@ -2,8 +2,8 @@
 id: relationship:torsten-coinwave-and-sigunn
 name: Two traders of the fjords
 participants:
-- character:hra-torsten-coinwave
-- character:hra-sigunn-ironbar
+- character:torsten-coinwave
+- character:sigunn-ironbar
 association: rivalry
 public_status: Torsten Coinwave and Sigunn Ironbar are the two principal traders of Skaldvik, and their
   competition for import contracts is open.

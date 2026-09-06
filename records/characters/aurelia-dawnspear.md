@@ -1,5 +1,5 @@
 ---
-id: character:val-aurelia-dawnspear
+id: character:aurelia-dawnspear
 name: Aurelia Dawnspear
 gm_notes: Aurelia is one of the few female dragon-bonded knights of the Dragon Order. Her dragon, a young
   female named Emberthyst, has been acting strangely — flying toward the northern mountains as if drawn

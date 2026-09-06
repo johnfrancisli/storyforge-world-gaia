@@ -2,8 +2,8 @@
 id: relationship:quilla-and-tito
 name: Master feather worker and headdress restorer
 participants:
-- character:ver-quilla-featherhand
-- character:ver-tito-feather
+- character:quilla-featherhand
+- character:tito-feather-bound
 association: mentor-student
 public_status: Tito Feather-Bound works under Quilla Featherhand, learning the restoration of old headdresses
   and ceremonial featherwork.

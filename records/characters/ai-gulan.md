@@ -1,5 +1,5 @@
 ---
-id: character:san-ai-gulan
+id: character:ai-gulan
 name: Ai Gulan
 gm_notes: A servant in the Wei warlord's household who has been spying for the Jin state for six years.
   She was recruited after Jin agents rescued her daughter from a Wei prison. Her handler threatens to

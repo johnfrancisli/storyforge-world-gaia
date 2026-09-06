@@ -1,5 +1,5 @@
 ---
-id: character:san-qiu-yuanshan
+id: character:qiu-yuanshan
 name: Qiu Yuanshan
 gm_notes: A retired Jin army sergeant who lost his left hand to a Wei sword at the Battle of Red Marsh.
   He runs a small restaurant in Jin-an that is a gathering place for veterans from all three states—he

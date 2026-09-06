@@ -1,5 +1,5 @@
 ---
-id: character:san-bai-shuyi
+id: character:bai-shuyi
 name: Bai Shuyi
 gm_notes: An archivist at the Great Academy who has discovered a sealed scroll repository beneath the
   library containing pre-war records from before the three states split. The records reveal that the original

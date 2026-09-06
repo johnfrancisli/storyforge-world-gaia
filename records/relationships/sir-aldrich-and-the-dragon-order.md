@@ -2,7 +2,7 @@
 id: relationship:aldrich-and-dragon-order
 name: Sir Aldrich and the Dragon Order
 participants:
-- character:sir-aldrich
+- character:aldrich-whitmore
 association: knight and order
 public_status: A respected senior knight, loyal to the order, though quiet at council meetings.
 bond: Aldrich is losing faith in the order's ability to resolve its own crisis. He stays because leaving

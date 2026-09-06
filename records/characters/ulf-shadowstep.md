@@ -1,5 +1,5 @@
 ---
-id: character:hra-ulf-shadowstep
+id: character:ulf-shadowstep
 name: Ulf Shadowstep
 gm_notes: 'Ulf is a hunter and trapper who works the mountain forests, setting lines of traps for fox,
   marten, and ermine whose pelts are valuable in trade. His secret: he has found a cave in the high passes

@@ -1,5 +1,5 @@
 ---
-id: character:san-jiang-niwa
+id: character:jiang-niwa
 name: Jiang Niwa
 gm_notes: A potter whose clay vessels can hold chi-infused liquids without degrading. She discovered this
   when a physician asked her to make a vessel for a medicinal chi-potion and the potion retained potency

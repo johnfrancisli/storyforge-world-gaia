@@ -2,8 +2,8 @@
 id: relationship:tari-and-iuri
 name: Shaman apprentice and shaman-in-training
 participants:
-- character:apprentice-tari
-- character:ver-iuri-moonflower
+- character:tari-river-listener
+- character:iuri-moonflower
 association: friendship
 public_status: Tari, apprentice to Shaman Nara, and Iuri, a shaman-in-training of the Moonflower line,
   are known to spend time together at tribal gatherings.

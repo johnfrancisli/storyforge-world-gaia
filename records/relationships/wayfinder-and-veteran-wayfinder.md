@@ -2,8 +2,8 @@
 id: relationship:kai-and-hoku
 name: Wayfinder and veteran wayfinder
 participants:
-- character:wayfinder-kai
-- character:tide-hoku-star-path
+- character:kai-far-horizon
+- character:hoku-star-path
 association: mentor-student
 public_status: Kai is a wayfinder of the guilds and Hoku Star-Path is a veteran navigator; Kai is known
   to have trained in part under Hoku's guidance.

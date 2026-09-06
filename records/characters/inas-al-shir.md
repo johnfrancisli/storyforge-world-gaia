@@ -1,5 +1,5 @@
 ---
-id: character:alk-inas-poet
+id: character:inas-al-shir
 name: Inas al-Shi'r
 gm_notes: The most celebrated poet in Zaffar, whose verses are sung in every coffee house and recited
   at every Council gathering. Inas has been writing poems that, when recited aloud in the presence of

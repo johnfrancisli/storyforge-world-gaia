@@ -1,5 +1,5 @@
 ---
-id: character:hra-olaf-whaleback
+id: character:olaf-whaleback
 name: Olaf Whaleback
 gm_notes: 'Olaf is a whaler who works alongside Brita on the whaling crew. His secret: he has been poaching
   whales in a fjord that Jarl Sigrid declared protected three years ago — a breeding ground where no hunting

@@ -1,5 +1,5 @@
 ---
-id: character:hra-haldur-blackrune
+id: character:haldur-blackrune
 name: Haldur Blackrune
 gm_notes: 'Haldur is a rune carver who cuts memorial stones — the standing stones that commemorate the
   dead, placed at fjord mouths and crossroads throughout Hrafnland. His secret: he has been carving false

@@ -1,5 +1,5 @@
 ---
-id: character:san-lin-zhiyao
+id: character:lin-zhiyao
 name: Lin Zhiyao
 gm_notes: Secretly the illegitimate daughter of the Jin warlord and a Wei court musician. Her mother was
   quietly 'disappeared' when Zhiyao was seven. The Jin court believes she is the orphaned niece of a minor

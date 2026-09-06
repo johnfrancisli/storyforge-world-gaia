@@ -1,5 +1,5 @@
 ---
-id: character:val-marcus-briarwood
+id: character:marcus-briarwood
 name: Marcus Briarwood
 gm_notes: Marcus is a mercenary captain who leads a company of sellswords currently stationed in Crownhaven.
   He was hired by one of the succession factions to serve as private security, but he has discovered that

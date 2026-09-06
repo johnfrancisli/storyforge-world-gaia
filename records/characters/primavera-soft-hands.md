@@ -1,5 +1,5 @@
 ---
-id: character:ver-primavera-midwife
+id: character:primavera-soft-hands
 name: Primavera Soft-Hands
 gm_notes: 'A human midwife who specializes in difficult births and who has never lost a mother — though
   she has lost three infants, a fact that haunts her. Her secret is more complex than grief: during the

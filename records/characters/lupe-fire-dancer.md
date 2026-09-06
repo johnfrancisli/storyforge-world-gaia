@@ -1,5 +1,5 @@
 ---
-id: character:tide-lupe-fire-dancer
+id: character:lupe-fire-dancer
 name: Lupe Fire-Dancer
 gm_notes: Lupe is the fire-dancer who performs at every great gathering, and her dances are said to call
   the spirits of the islands to watch. What no one knows is that Lupe does not choreograph her dances

@@ -1,5 +1,5 @@
 ---
-id: character:tide-rotama-quiet-weave
+id: character:rotama-quiet-weave
 name: Rotama Quiet-Weave
 gm_notes: Rotama is a sail maker's apprentice who works under Leilani Wave-Singer. She is quiet, diligent,
   and learns fast. She is fifteen and one of the youngest apprentices in the craft. Her secret is that

@@ -1,5 +1,5 @@
 ---
-id: character:val-gwendolyn-fairhold
+id: character:gwendolyn-fairhold
 name: Gwendolyn Fairhold
 gm_notes: Gwendolyn is the wife of a minor baron who has positioned herself as a neutral mediator in the
   succession crisis. Publicly, she hosts peace talks and advocates for unity. Privately, she has been

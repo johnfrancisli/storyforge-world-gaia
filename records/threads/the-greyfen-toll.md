@@ -8,9 +8,9 @@ stakes: If the toll stands, Rivenspire's river trade—the lifeblood of western 
   it.
 pressure: breaking
 participants:
-- character:val-brainard-stonewell
-- character:val-gwendolyn-fairhold
-- character:val-marcus-briarwood
+- character:brainard-stonewell
+- character:gwendolyn-fairhold
+- character:marcus-briarwood
 locations:
 - location:val-rivenspire-docks
 - location:val-rivenspire-bridge

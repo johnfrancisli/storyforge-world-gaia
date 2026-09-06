@@ -1,5 +1,5 @@
 ---
-id: character:tide-pilialoha-kava-brew
+id: character:pilialoha-kava-brew
 name: Pilialoha Kava-Brew
 gm_notes: 'Pilialoha brews the kava that is drunk at every council meeting, every reconciliation, every
   celebration on Lani Atoll. Her kava is known for making people honest — not just relaxed, but genuinely

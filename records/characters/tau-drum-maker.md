@@ -1,5 +1,5 @@
 ---
-id: character:tide-tau-drum-maker
+id: character:tau-drum-maker
 name: Tau Drum-Maker
 gm_notes: Tau makes the drums that every island uses for ceremony, communication, and rhythm-keeping.
   He is a master woodworker who selects every tree personally and cures every drumhead with care. His

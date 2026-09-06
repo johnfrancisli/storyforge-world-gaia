@@ -1,5 +1,5 @@
 ---
-id: character:alk-faisal-stable-hand
+id: character:faisal-al-istabl
 name: Faisal al-Istabl
 gm_notes: A male stable hand who tends the camels and horses of a binding family's estate. Faisal was
   a caravan driver who lost his entire caravan to a djinn-fire ambush in the deep desert five years ago.

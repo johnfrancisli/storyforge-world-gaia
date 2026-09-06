@@ -2,8 +2,8 @@
 id: relationship:yan-qiulin-and-pan-yaqing
 name: General's wife spymaster and court socialite double agent
 participants:
-- character:san-yan-qiulin
-- character:san-pan-yaqing
+- character:yan-qiulin
+- character:pan-yaqing
 association: secret_alliance
 public_status: The general's wife of Chu and the court socialite are known to move in the same Chu court
   circles and attend the same salons.

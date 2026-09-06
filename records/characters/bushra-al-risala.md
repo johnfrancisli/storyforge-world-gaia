@@ -1,5 +1,5 @@
 ---
-id: character:alk-bushra-messenger
+id: character:bushra-al-risala
 name: Bushra al-Risala
 gm_notes: A messenger who carries letters between the city-states of Al-Khayzar, crossing the desert alone
   on camelback. She is the fastest courier in the confederation and is trusted with the most sensitive

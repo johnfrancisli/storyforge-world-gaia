@@ -1,5 +1,5 @@
 ---
-id: character:val-odelia-thrush
+id: character:odelia-thrush
 name: Odelia Thrush
 gm_notes: Odelia is a minstrel who travels the kingdom performing songs and stories. She is also a spy
   for a foreign power — not a Valdris loyalist at all. She reports on troop movements, political tensions,

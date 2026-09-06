@@ -1,5 +1,5 @@
 ---
-id: character:alk-yasmin-spice-merchant
+id: character:yasmin-al-barrani
 name: Yasmin al-Barrani
 gm_notes: The most successful spice merchant in Zaffar, controlling nearly a third of the saffron trade
   through the deep desert routes. She built her network from nothing after her family lost everything

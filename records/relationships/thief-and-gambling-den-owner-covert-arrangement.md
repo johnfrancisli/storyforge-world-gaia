@@ -2,8 +2,8 @@
 id: relationship:kuro-and-rui
 name: Thief and gambling den owner, covert arrangement
 participants:
-- character:kuro
-- character:tsu-rui-gambler
+- character:kagemori-kuro
+- character:kanzaki-rui
 association: secret_alliance
 public_status: Kuro is known to frequent Rui's gambling den, where the thief is said to lose more than
   he wins.

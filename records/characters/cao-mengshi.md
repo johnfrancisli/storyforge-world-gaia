@@ -1,5 +1,5 @@
 ---
-id: character:san-cao-mengshi
+id: character:cao-mengshi
 name: Cao Mengshi
 gm_notes: 'She is the Wei state''s foremost strategist and has authored three military treatises under
   a male pen name. The Wei warlord knows her true identity and deliberately keeps it secret: if rival

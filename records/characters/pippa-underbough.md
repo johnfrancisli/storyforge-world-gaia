@@ -1,5 +1,5 @@
 ---
-id: character:val-pippa-underbough
+id: character:pippa-underbough
 name: Pippa Underbough
 gm_notes: Pippa is a young halfling messenger who carries dispatches between Crownhaven and Dragonrest.
   On her last run, she accidentally delivered a sealed letter to the wrong recipient for a few minutes

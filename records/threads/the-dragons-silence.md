@@ -7,7 +7,7 @@ stakes: If the order fractures completely, Valdris loses its most powerful defen
   accelerates both.
 pressure: rising
 participants:
-- character:sir-aldrich
+- character:aldrich-whitmore
 locations:
 - location:valdris
 - location:dragonrest

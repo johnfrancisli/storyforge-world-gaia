@@ -1,5 +1,5 @@
 ---
-id: character:tide-rina-shell-carver
+id: character:rina-shell-carver
 name: Rina Shell-Carver
 gm_notes: Rina carves shell ornaments that are worn by every chief's family and traded across the Archipelago,
   and she is the finest shell worker alive. Her secret is that she found a shell six months ago that is

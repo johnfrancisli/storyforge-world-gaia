@@ -2,8 +2,8 @@
 id: relationship:merchant-zhou-and-su-wanqing
 name: Two information brokers of the trade routes
 participants:
-- character:merchant-zhou
-- character:san-su-wanqing
+- character:zhou-ba
+- character:su-wanqing
 association: rivalry
 public_status: Zhou Ba the merchant and Su Wanqing the tea merchant are both known to trade in information
   as much as goods, and their networks overlap.

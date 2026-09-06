@@ -1,5 +1,5 @@
 ---
-id: character:tide-kiri-drum-hand
+id: character:kiri-drum-hand
 name: Kiri Drum-Hand
 gm_notes: Kiri is the master drummer who provides the rhythm for every ceremony, every canoe launch, every
   gathering on Lani Atoll. She can play twenty different drum patterns from memory, each one matching

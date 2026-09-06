@@ -2,8 +2,8 @@
 id: relationship:alvilda-and-thora
 name: Sail maker apprentice and the master sail maker
 participants:
-- character:hra-alvilda-longthread
-- character:hra-thora-linenhand
+- character:alvilda-longthread
+- character:thora-linenhand
 association: mentor-student
 public_status: Alvilda Longthread is apprenticed to Thora Linenhand, the master sail maker of Skaldvik,
   learning the craft at the waterfront loft.

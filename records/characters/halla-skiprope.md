@@ -1,5 +1,5 @@
 ---
-id: character:hra-halla-skiprope
+id: character:halla-skiprope
 name: Halla Skiprope
 gm_notes: 'Halla is a sailor who crews on the Frostwing under Astrid — she handles rigging, lines, and
   the physical work of sailing a longship in rough northern waters. Her secret: she is the one who noticed

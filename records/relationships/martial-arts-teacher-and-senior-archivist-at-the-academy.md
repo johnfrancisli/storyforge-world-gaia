@@ -2,8 +2,8 @@
 id: relationship:lu-haichen-and-bai-shuyi
 name: Martial arts teacher and senior archivist at the Academy
 participants:
-- character:san-lu-haichen
-- character:san-bai-shuyi
+- character:lu-haichen
+- character:bai-shuyi
 association: friendship
 public_status: The martial arts teacher and the senior archivist are both long-serving members of the
   Great Academy and are known to share tea and conversation.

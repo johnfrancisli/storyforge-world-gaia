@@ -8,9 +8,9 @@ stakes: If the pre-Pact contract is genuine and unbroken, a djinn of unknown pow
   leverage.
 pressure: rising
 participants:
-- character:alk-yusuf-elder
-- character:alk-isam-beggar
-- character:alk-rania-calligrapher
+- character:yusuf-al-hakim
+- character:isam-al-miskin
+- character:rania-al-khatt
 locations:
 - location:alk-khalesh-brokenroads
 - location:alk-khalesh-wardenskeep

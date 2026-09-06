@@ -1,5 +1,5 @@
 ---
-id: character:val-bessie-meadowlight
+id: character:bessie-meadowlight
 name: Bessie Meadowlight
 gm_notes: Bessie is an elderly halfling farmer who has been quietly sheltering a wounded elven refugee
   — a scholar who fled the border skirmishes with documents proving that a Valdris border lord deliberately

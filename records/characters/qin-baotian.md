@@ -1,5 +1,5 @@
 ---
-id: character:san-qin-baotian
+id: character:qin-baotian
 name: Qin Baotian
 gm_notes: 'A Jin army general who has won seven battles and lost none. The secret: before each battle,
   his sister—a chi-cultivator nun at a mountain monastery—performs a ritual that channels aggressive chi

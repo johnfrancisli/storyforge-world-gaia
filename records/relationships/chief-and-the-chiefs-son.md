@@ -2,8 +2,8 @@
 id: relationship:lani-and-tamatoa
 name: Chief and the chief's son
 participants:
-- character:chief-lani
-- character:tide-tamatoa-chief-son
+- character:lani-reef-born
+- character:tamatoa-wave-born
 association: family
 public_status: Tamatoa is the son of Chief Lani and a fisher of the atoll, and his position as the chief's
   son is well known.

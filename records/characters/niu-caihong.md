@@ -1,5 +1,5 @@
 ---
-id: character:san-niu-caihong
+id: character:niu-caihong
 name: Niu Caihong
 gm_notes: An elderly beggar woman in Jin-an who is actually a retired chi-cultivation master who faked
   her death twenty years ago to escape the Jin warlord's father, who wanted to conscript her into his

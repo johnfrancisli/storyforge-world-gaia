@@ -1,5 +1,5 @@
 ---
-id: character:san-yun-bixin
+id: character:yun-bixin
 name: Yun Bixin
 gm_notes: A musician at the Great Academy who plays the dizi (bamboo flute) and is one of the few living
   practitioners of 'spirit music'—melodies that can attract or repel qilin spirits. She learned this art

@@ -1,5 +1,5 @@
 ---
-id: character:alk-rania-calligrapher
+id: character:rania-al-khatt
 name: Rania al-Khatt
 gm_notes: A calligrapher who can write binding contracts that are more binding than any other scribe's
   — her brushwork has a quality that makes the supernatural terms stick harder, as if her ink carries

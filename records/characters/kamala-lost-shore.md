@@ -1,5 +1,5 @@
 ---
-id: character:tide-kamala-lost-shore
+id: character:kamala-lost-shore
 name: Kamala Lost-Shore
 gm_notes: Kamala is a refugee from a southern island that submerged four months ago. She is a skilled
   net weaver and has been contributing to the community, but she has a secret that is eating her alive.

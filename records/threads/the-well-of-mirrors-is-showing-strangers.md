@@ -8,9 +8,9 @@ stakes: If the well is genuinely showing the future, Qadira is about to receive 
   or seal it before more arrive.
 pressure: steady
 participants:
-- character:alk-layla-oasis-keeper
-- character:alk-amira-water-finder
-- character:alk-tara-astrologer
+- character:layla-al-waha
+- character:amira-al-main
+- character:tara-al-nujum
 locations:
 - location:alk-qadira-wellofmirrors
 - location:alk-qadira-dunerest

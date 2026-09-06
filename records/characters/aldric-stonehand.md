@@ -1,5 +1,5 @@
 ---
-id: character:val-aldric-stonehand
+id: character:aldric-stonehand
 name: Aldric Stonehand
 gm_notes: 'Aldric is a retired knight of the Dragon Order who lost his bonded dragon twenty years ago
   in battle. The bond-breaking nearly killed him. He now serves as a weapons trainer for new squires but

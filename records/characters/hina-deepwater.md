@@ -1,5 +1,5 @@
 ---
-id: character:tide-hina-deepwater
+id: character:hina-deepwater
 name: Hina Deepwater
 gm_notes: 'Hina is the most skilled pearl diver in the eastern reefs, capable of holding her breath for
   nearly five minutes. Three months ago she found something on the sea floor that no one else has seen:

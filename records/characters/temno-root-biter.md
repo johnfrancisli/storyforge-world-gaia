@@ -1,5 +1,5 @@
 ---
-id: character:ver-temno-serpent
+id: character:temno-root-biter
 name: Temno Root-Biter
 gm_notes: 'A serpent beast-kin herbalist who specializes in poisons and antidotes — knowledge that is
   both respected and feared. He can cure any venom in the rainforest and can also make any poison, a duality

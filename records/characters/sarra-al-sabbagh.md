@@ -1,5 +1,5 @@
 ---
-id: character:alk-sarra-dyer
+id: character:sarra-al-sabbagh
 name: Sarra al-Sabbagh
 gm_notes: A master dyer who can produce colors no other dyer in Zaffar can replicate — specifically, a
   blue so deep it appears to contain fire, which she calls 'djinn-blue.' The secret is that she uses water

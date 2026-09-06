@@ -2,8 +2,8 @@
 id: relationship:thyra-and-kata
 name: Bondservant and the midwife who advocates for her
 participants:
-- character:hra-thyra-wildseed
-- character:hra-kata-mossheart
+- character:thyra-wildseed
+- character:kata-mossheart
 association: friendship
 public_status: Kata Mossheart the midwife is known to look in on Thyra Wildseed, a thrall in service to
   the hall, and Thyra is known to assist at births.

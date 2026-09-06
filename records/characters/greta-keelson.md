@@ -1,5 +1,5 @@
 ---
-id: character:hra-greta-keelson
+id: character:greta-keelson
 name: Greta Keelson
 gm_notes: Greta is Skaldvik's most gifted shipwright, and she has a secret method for clinker-planking
   that produces hulls lighter and faster than any other yard. She learned the technique from her late

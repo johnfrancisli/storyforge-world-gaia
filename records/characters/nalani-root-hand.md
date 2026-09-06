@@ -1,5 +1,5 @@
 ---
-id: character:tide-nalani-root-hand
+id: character:nalani-root-hand
 name: Nalani Root-Hand
 gm_notes: 'Nalani is the healer every islander comes to when the usual remedies fail, and her medicines
   work when no one else''s do. The reason is a secret garden on an uninhabited islet that she tends alone:

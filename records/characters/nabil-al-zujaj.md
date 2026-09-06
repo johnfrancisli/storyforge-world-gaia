@@ -1,7 +1,7 @@
 ---
-id: character:alk-nabil-glassblower
+id: character:nabil-al-zujaj
 name: Nabil al-Zujaj
-gm_notes: A male glassblower and Dunya's (character:alk-dunya-glassblower) older cousin, who works in
+gm_notes: A male glassblower and Dunya's (character:dunya-al-zujaj) older cousin, who works in
   the same Crafts Quarter. Nabil has been secretly supplying the binding families with glass vessels designed
   to contain djinn essence — not the djinn themselves, but fragments of their power, harvested from the
   sites of old binding contracts. The binding families are using these vessels to build an arsenal of

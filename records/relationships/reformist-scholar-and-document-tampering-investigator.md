@@ -2,8 +2,8 @@
 id: relationship:kang-wenzhao-and-zheng-lianshu
 name: Reformist scholar and document-tampering investigator
 participants:
-- character:san-kang-wenzhao
-- character:san-zheng-lianshu
+- character:kang-wenzhao
+- character:zheng-lianshu
 association: friendship
 public_status: Two Academy scholars known for their reformist leanings and their collaboration on questions
   of historical record.

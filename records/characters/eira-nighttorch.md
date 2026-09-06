@@ -1,5 +1,5 @@
 ---
-id: character:hra-eira-nighttorch
+id: character:eira-nighttorch
 name: Eira Nighttorch
 gm_notes: 'Eira is a skald who carries the oral histories of Skaldvik in her memory — genealogies, raid-sagas,
   law-verses, and jokes. Her secret: she has been composing a saga about Jarl Sigrid''s brother Hallvar

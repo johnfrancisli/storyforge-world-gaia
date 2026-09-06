@@ -1,5 +1,5 @@
 ---
-id: character:alk-karim-caravan-guard
+id: character:karim-al-qafila
 name: Karim al-Qafila
 gm_notes: 'A male caravan guard captain who has protected spice caravans across the deep desert for twenty
   years. Eight months ago, his caravan was attacked by bandits who used a bound djinn to blind his guards

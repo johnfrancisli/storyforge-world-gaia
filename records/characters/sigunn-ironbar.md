@@ -1,5 +1,5 @@
 ---
-id: character:hra-sigunn-ironbar
+id: character:sigunn-ironbar
 name: Sigunn Ironbar
 gm_notes: 'Sigunn is a trader who sails between Skaldvik and the southern ports, exchanging furs, whale
   oil, and iron for grain, cloth, and luxury goods. Her secret: she has been quietly smuggling runestones

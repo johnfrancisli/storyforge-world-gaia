@@ -1,9 +1,9 @@
 ---
 id: relationship:ravn-and-grimvard
-name: Skald Ravn and Grimvard the Patient
+name: Ravn Word-Weaver and Grimvard the Patient
 participants:
-- character:skald-ravn
-- character:giant-emissary-frost
+- character:ravn-word-weaver
+- character:grimvard-the-patient
 association: poet and offended party
 public_status: A frost giant is sitting outside Skaldvik because the skald's poem got the giants' history
   wrong. Ravn thinks it is funny. Everyone else is nervous.

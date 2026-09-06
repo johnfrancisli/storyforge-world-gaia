@@ -1,5 +1,5 @@
 ---
-id: character:ver-yuca-gardener
+id: character:yuca-green-thumb
 name: Yuca Green-Thumb
 gm_notes: 'A gardener who tends the floating gardens of the Verdania river-cities and who has an almost
   magical ability to grow plants — any cutting she touches takes root. The secret is that Yuca is not

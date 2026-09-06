@@ -1,5 +1,5 @@
 ---
-id: character:hra-torsten-brokenshield
+id: character:torsten-brokenshield
 name: Torsten Brokenshield
 gm_notes: 'Torsten is the widower of Jarl Sigrid''s dead brother Hallvar. He lives in the jarl''s household
   as a dependent, nominally managing the jarl''s storehouses but effectively under Sigrid''s thumb. His

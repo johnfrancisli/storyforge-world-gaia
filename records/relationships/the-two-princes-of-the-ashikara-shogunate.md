@@ -2,8 +2,8 @@
 id: relationship:prince-haru-and-prince-ren
 name: The two princes of the Ashikara shogunate
 participants:
-- character:tsu-prince-haru
-- character:tsu-prince-ren
+- character:ashikara-haru
+- character:ashikara-renjiro
 association: family
 public_status: The elder and younger princes of the Ashikara line are presented at court as a united front,
   each supporting the other's roles.

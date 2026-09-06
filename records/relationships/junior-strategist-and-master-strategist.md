@@ -2,8 +2,8 @@
 id: relationship:mei-lin-and-cao-mengshi
 name: Junior strategist and master strategist
 participants:
-- character:strategist-mei
-- character:san-cao-mengshi
+- character:mei-lin
+- character:cao-mengshi
 association: rivalry
 public_status: Strategist Mei Lin of Jin and the master strategist Cao Mengshi of Wei are both known as
   brilliant advisors, and their names are often compared in court.

@@ -7,7 +7,7 @@ stakes: If the canals fail, Jin'an loses its grain supply within a season. Two h
   will to repair is forced. Either way, people suffer.
 pressure: rising
 participants:
-- character:wen-canalmaster
+- character:wen-li-of-the-canals
 locations:
 - location:jin-an
 organizations:

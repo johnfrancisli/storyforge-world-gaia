@@ -2,8 +2,8 @@
 id: relationship:sigrid-and-erik
 name: Jarl Sigrid and Jarl Erik
 participants:
-- character:jarl-sigrid
-- character:young-jarl-erik
+- character:sigrid-hallvarsdottir
+- character:erik-stone-eye
 association: political rivals at the Althing
 public_status: Two jarls who disagree about the frost giant threat. Sigrid wants action; Erik wants restraint.
   The Althing watches them and waits.

@@ -2,8 +2,8 @@
 id: relationship:oron-and-sol
 name: Chief of Iara and the chief's wife
 participants:
-- character:chief-oron
-- character:ver-sol-elder
+- character:oron-deep-root
+- character:sol-many-seasons
 association: family
 public_status: Chief Oron and Sol Many-Seasons are husband and wife and jointly lead the Iara community,
   she as elder council member, he as chief.

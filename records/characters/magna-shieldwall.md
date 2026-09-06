@@ -1,5 +1,5 @@
 ---
-id: character:hra-magna-shieldwall
+id: character:magna-shieldwall
 name: Magna Shieldwall
 gm_notes: 'Magna is a guard in Jarl Sigrid''s household, one of the twelve under Captain Ingrid. Her secret:
   she is the one who has been leaving the hall gate unlatched on certain nights — not for a betrayer,

@@ -1,5 +1,5 @@
 ---
-id: character:ver-lago-child
+id: character:lago-little-fin
 name: Lago Little-Fin
 gm_notes: 'An eight-year-old Mizuhito boy who is one of the four river-born children secretly placed by
   the midwife Ondina. Lago does not know his own origin, but he has always been different: he can breathe

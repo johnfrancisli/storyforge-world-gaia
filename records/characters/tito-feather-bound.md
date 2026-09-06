@@ -1,5 +1,5 @@
 ---
-id: character:ver-tito-feather
+id: character:tito-feather-bound
 name: Tito Feather-Bound
 gm_notes: 'A human feather worker who repairs and maintains Quilla''s headdresses — a secondary role that
   he performs with quiet pride, though he is often overshadowed by Quilla''s fame. His secret: he has

@@ -2,7 +2,7 @@
 id: relationship:takeda-and-tamamo
 name: Daimyo Takeda and Tamamo
 participants:
-- character:daimyo-takeda
+- character:takeda-renji
 - character:tamamo
 association: covert alliance
 public_status: No public relationship. A daimyo and a wild kitsune would not be seen together.

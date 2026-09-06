@@ -1,5 +1,5 @@
 ---
-id: character:ver-nectar-wild
+id: character:nectar-wild-hive
 name: Nectar Wild-Hive
 gm_notes: 'A honey gatherer who has a genuine bond with the giant rainforest bees — she can approach their
   hives without smoke or protection, and the bees never sting her. This gift is real but has a secret

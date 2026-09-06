@@ -2,8 +2,8 @@
 id: relationship:elara-and-roderick
 name: Princess Elara and Prince Roderick
 participants:
-- character:princess-elara
-- character:prince-roderick
+- character:elara-valdris
+- character:roderick-valdris
 association: siblings, political rivals
 public_status: The king's two eldest children, publicly civil, privately competing for the succession.
   The court watches them and bets quietly.

@@ -3,7 +3,7 @@ id: relationship:malik-and-zuhayr
 name: Malik Idris and Zuhayr the Patient
 participants:
 - character:malik-idris
-- character:djinn-zuhayr
+- character:zuhayr-the-patient
 association: 'contract-bound: creditor and debtor'
 public_status: Malik is the heir to the Idris family's oldest djinn contract. Zuhayr is the djinn bound
   by it. The contract's terms are family knowledge but not public.

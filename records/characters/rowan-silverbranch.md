@@ -1,5 +1,5 @@
 ---
-id: character:val-rowan-silverbranch
+id: character:rowan-silverbranch
 name: Rowan Silverbranch
 gm_notes: 'Rowan is an elf who has lived in the forest near Valdris for over two centuries. She remembers
   the founding of the Dragon Order and knew the first dragon-bonded knights personally. She has been watching

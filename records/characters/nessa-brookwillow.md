@@ -1,5 +1,5 @@
 ---
-id: character:val-nessa-brookwillow
+id: character:nessa-brookwillow
 name: Nessa Brookwillow
 gm_notes: Nessa is a young weaver whose loom produces tapestries of startling beauty and eerie accuracy.
   She has woven two tapestries depicting events before they happened — one showed a fire at the harbour

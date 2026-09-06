@@ -2,8 +2,8 @@
 id: relationship:ariki-and-vanya
 name: Refugee former chief and community organizer
 participants:
-- character:tide-ariki-lost-chief
-- character:tide-vanya-salt-home
+- character:ariki-storm-shelter
+- character:vanya-salt-home
 association: friendship
 public_status: Ariki Lost-Chief, a refugee and former chief, and Vanya Salt-Home, a refugee community
   organizer, are known to lead the refugee council together.

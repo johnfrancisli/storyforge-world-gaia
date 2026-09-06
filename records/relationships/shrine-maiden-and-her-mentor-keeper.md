@@ -2,8 +2,8 @@
 id: relationship:miko-sora-and-yuki
 name: Shrine maiden and her mentor keeper
 participants:
-- character:miko-sora
-- character:tsu-miko-yuki
+- character:amemiya-sora
+- character:shimizu-yuki
 association: mentor-student
 public_status: Yuki serves under Miko Sora at the shrine, learning the rites and purification ceremonies
   as a junior maiden.

@@ -1,5 +1,5 @@
 ---
-id: character:val-becka-honeymead
+id: character:becka-honeymead
 name: Becka Honeymead
 gm_notes: Becka is a mead brewer and merchant who trades honey and mead across the Valdris countryside.
   She has discovered that a rival merchant house with ties to Lord Cael has been systematically buying

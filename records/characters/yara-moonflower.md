@@ -1,5 +1,5 @@
 ---
-id: character:ver-yara-moonflower
+id: character:yara-moonflower
 name: Yara Moonflower
 gm_notes: The eldest living shaman of the Teluna tribe and keeper of the Moonflower Pact, a spirit agreement
   made three generations ago between the tribe and a being called the Mother of Jaguars. The Pact guarantees

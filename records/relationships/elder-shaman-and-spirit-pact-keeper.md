@@ -2,8 +2,8 @@
 id: relationship:nara-and-yara
 name: Elder shaman and spirit-pact keeper
 participants:
-- character:shaman-nara
-- character:ver-yara-moonflower
+- character:nara-stillwater
+- character:yara-moonflower
 association: rivalry
 public_status: Shaman Nara and Yara Moonflower are both regarded as powerful shamans of the Verdania peoples,
   and their differing counsel is sometimes sought in tandem.

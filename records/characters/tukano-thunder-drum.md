@@ -1,5 +1,5 @@
 ---
-id: character:ver-tukano-drums
+id: character:tukano-thunder-drum
 name: Tukano Thunder-Drum
 gm_notes: A bird beast-kin drummer whose rhythms can induce trance states, heal sickness, and — though
   only she knows this — summon rain. Tukano's drum was given to her by a thunder-spirit that lives in

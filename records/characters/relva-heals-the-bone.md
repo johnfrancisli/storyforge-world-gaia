@@ -1,5 +1,5 @@
 ---
-id: character:ver-relva-heals
+id: character:relva-heals-the-bone
 name: Relva Heals-the-Bone
 gm_notes: A healer specializing in bone-setting and wound care who served as field medic during the last
   inter-tribal conflict. During that conflict, she was forced to choose between treating two wounded patients

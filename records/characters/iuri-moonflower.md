@@ -1,5 +1,5 @@
 ---
-id: character:ver-iuri-moonflower
+id: character:iuri-moonflower
 name: Iuri Moonflower
 gm_notes: 'Yara Moonflower''s eighteen-year-old granddaughter, being groomed to inherit the shamanic lineage
   of the Teluna tribe. Iuri is genuinely gifted — she can hear spirits clearly and has a natural talent

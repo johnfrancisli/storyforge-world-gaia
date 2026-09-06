@@ -1,5 +1,5 @@
 ---
-id: character:san-hua-suxin
+id: character:hua-suxin
 name: Hua Suxin
 gm_notes: The greatest acupuncturist in Jin-an and secretly a chi-cultivation master who can sense illness
   in a patient's meridian flow by touch. She learned her arts from a wandering qilin-spirit monk who left

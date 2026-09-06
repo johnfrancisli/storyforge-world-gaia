@@ -3,7 +3,7 @@ id: relationship:fatima-idris-and-reem
 name: Idris reformer daughter and al-Faris scholar heiress
 participants:
 - character:fatima-idris
-- character:alk-reem-al-faris
+- character:reem-al-faris
 association: friendship
 public_status: The Idris daughter and the al-Faris heiress are both educated women of the binding families
   and are known to correspond on scholarly matters.

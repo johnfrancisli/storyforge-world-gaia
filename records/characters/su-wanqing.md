@@ -1,5 +1,5 @@
 ---
-id: character:san-su-wanqing
+id: character:su-wanqing
 name: Su Wanqing
 gm_notes: A tea merchant whose tea blends are renowned across all three states. She is also the Great
   Academy's primary information broker—her tea caravans carry coded messages hidden in the tea packaging.

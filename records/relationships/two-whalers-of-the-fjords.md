@@ -2,8 +2,8 @@
 id: relationship:brita-and-olaf
 name: Two whalers of the fjords
 participants:
-- character:hra-brita-whalejaw
-- character:hra-olaf-whaleback
+- character:brita-whalejaw
+- character:olaf-whaleback
 association: friendship
 public_status: Brita Whalejaw and Olaf Whaleback are both veteran whalers and are known to drink together
   after the season's hunt.

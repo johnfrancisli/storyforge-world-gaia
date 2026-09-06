@@ -1,5 +1,5 @@
 ---
-id: character:hra-sten-ironwake
+id: character:sten-ironwake
 name: Sten Ironwake
 gm_notes: 'Sten is a smith who works alongside Ragna, sharing a forge. His secret: he has discovered that
   Ragna has been forging counterfeit ingots — he found a misaligned stamp in the scrap pile and put the

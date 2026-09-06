@@ -1,5 +1,5 @@
 ---
-id: character:san-tang-ruixiang
+id: character:tang-ruixiang
 name: Tang Ruixiang
 gm_notes: 'An acrobat and street performer who travels the tri-border region with a small troupe. Her
   acrobatic troupe is actually a spy ring: they perform at festivals and military camps, and during performances,

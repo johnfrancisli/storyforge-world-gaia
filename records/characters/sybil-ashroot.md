@@ -1,5 +1,5 @@
 ---
-id: character:val-sybil-ashroot
+id: character:sybil-ashroot
 name: Sybil Ashroot
 gm_notes: 'Sybil is an herbalist and midwife who delivered many of the children in the villages around
   Dragonrest. She has noticed a troubling pattern: three infants born in the past year share an unusual

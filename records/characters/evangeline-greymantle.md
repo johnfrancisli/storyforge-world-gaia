@@ -1,5 +1,5 @@
 ---
-id: character:val-evangeline-greymantle
+id: character:evangeline-greymantle
 name: Evangeline Greymantle
 gm_notes: Evangeline is a priest of the Temple of the Sacred Flame who genuinely believes in her faith
   — but she has discovered that the High Priest has been reading private confessions and selling the secrets

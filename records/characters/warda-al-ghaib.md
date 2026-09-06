@@ -1,5 +1,5 @@
 ---
-id: character:alk-warda-fortune-teller
+id: character:warda-al-ghaib
 name: Warda al-Ghaib
 gm_notes: 'A fortune teller in the Star Bazaar who reads futures in coffee grounds and sand patterns.
   Her readings are genuine — she has a true gift of foresight, limited to events within the next seven

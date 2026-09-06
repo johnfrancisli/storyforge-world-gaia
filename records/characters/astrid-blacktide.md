@@ -1,5 +1,5 @@
 ---
-id: character:hra-astrid-blacktide
+id: character:astrid-blacktide
 name: Astrid Blacktide
 gm_notes: Astrid commands the longship Frostwing and has led six successful raids down the southern coasts.
   What no one knows is that on her last raid she spared a southern village — burned its ships but left

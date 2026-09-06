@@ -1,5 +1,5 @@
 ---
-id: character:alk-zahra-binding-daughter
+id: character:zahra-al-dhahab
 name: Zahra al-Dhahab
 gm_notes: The daughter of the al-Dhahab binding family, the wealthiest house on the Council. Zahra is
   thirty and has refused every marriage arrangement her family has proposed for a decade, because she

@@ -1,5 +1,5 @@
 ---
-id: character:ver-urutu-jaguar
+id: character:urutu-night-patrol
 name: Urutu Night-Patrol
 gm_notes: 'A jaguar beast-kin guard who patrols Iara''s perimeter at night and who has a reputation for
   being relentless and incorruptible. His secret: he is the one who has been making nightly visits to

@@ -8,9 +8,9 @@ stakes: If the self-replenishing grain is a chi-working or a relic's doing, whoe
   fragile peace.
 pressure: rising
 participants:
-- character:san-shen-wuguang
-- character:san-ai-gulan
-- character:san-yang-fuhai
+- character:shen-wuguang
+- character:ai-gulan
+- character:yang-fuhai
 locations:
 - location:san-river-junction-granary
 - location:san-river-junction-magistrate-yamen

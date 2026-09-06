@@ -1,5 +1,5 @@
 ---
-id: character:hra-edda-cloudcarver
+id: character:edda-cloudcarver
 name: Edda Cloudcarver
 gm_notes: 'Edda is the eldest person in Skaldvik — old enough to remember stories her grandmother told,
   stories that go back before the Althing was formalized. Her secret: she knows the location of a thing

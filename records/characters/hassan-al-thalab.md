@@ -1,5 +1,5 @@
 ---
-id: character:alk-hassan-snake-charmer
+id: character:hassan-al-thalab
 name: Hassan al-Tha'lab
 gm_notes: A male snake charmer who performs in the Star Bazaar with a collection of desert vipers and
   cobras that respond to his flute as if hypnotized. Hassan's flute was carved from the bone of a djinn's

@@ -1,5 +1,5 @@
 ---
-id: character:hra-koll-farseek
+id: character:koll-farseek
 name: Koll Farseek
 gm_notes: 'Koll is a scout and messenger who runs the mountain trails for Jarl Sigrid, watching for ships
   in the fjord and carrying word between Skaldvik and the outlying farms. His secret: he has been mapping

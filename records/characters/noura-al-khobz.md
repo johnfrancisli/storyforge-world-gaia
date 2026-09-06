@@ -1,5 +1,5 @@
 ---
-id: character:alk-noura-baker
+id: character:noura-al-khobz
 name: Noura al-Khobz
 gm_notes: A baker whose flatbread is a staple of the Zaffar morning market — and whose oven is built over
   a sealed chamber containing a small, weak djinn that her great-grandmother trapped there two centuries

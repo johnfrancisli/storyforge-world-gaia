@@ -8,9 +8,9 @@ stakes: If the forges stay cold, the Takeda clan must buy blades from rival smit
   the adulteration.
 pressure: rising
 participants:
-- character:tsu-kazue-smith
-- character:tsu-kaede-honoka
-- character:tsu-goki-oni
+- character:shibata-kazue
+- character:takeda-honoka
+- character:goki
 locations:
 - location:tsu-kaeden-forge-quarter
 - location:tsu-kaeden-castle

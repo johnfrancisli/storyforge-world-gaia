@@ -1,5 +1,5 @@
 ---
-id: character:tide-maile-watch-woman
+id: character:maile-watch-woman
 name: Maile Watch-Woman
 gm_notes: Maile is the head of the informal guard on Lani Atoll — not a military force, but the women
   and men who watch the beaches at night for drift debris, lost canoes, and refugees arriving in distress.

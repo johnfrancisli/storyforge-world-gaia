@@ -1,5 +1,5 @@
 ---
-id: character:san-zhou-geha
+id: character:zhou-geha
 name: Zhou Geha
 gm_notes: 'A river-folk (Mizuhito) canal pilot who knows every underwater passage and current in the canal
   network connecting Jin, Chu, and Wei territories. She smuggles people, not goods—specifically refugees

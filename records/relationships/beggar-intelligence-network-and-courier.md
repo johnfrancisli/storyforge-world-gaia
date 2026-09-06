@@ -2,8 +2,8 @@
 id: relationship:isam-and-bushra
 name: Beggar intelligence network and courier
 participants:
-- character:alk-isam-beggar
-- character:alk-bushra-messenger
+- character:isam-al-miskin
+- character:bushra-al-risala
 association: secret_alliance
 public_status: A beggar and a courier of Al-Khayzar are not publicly known to have any relationship.
 bond: Isam runs a shadow intelligence network from the gutter, and Bushra is his fastest courier — together

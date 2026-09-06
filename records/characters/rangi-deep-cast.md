@@ -1,5 +1,5 @@
 ---
-id: character:tide-rangi-deep-cast
+id: character:rangi-deep-cast
 name: Rangi Deep-Cast
 gm_notes: 'Rangi is a deep-water fisher who works alone, sailing his canoe to the edge of the Archipelago''s
   waters to catch fish that no one else will pursue. He is known for his strength and his fearlessness.

@@ -1,5 +1,5 @@
 ---
-id: character:val-coralee-wickwright
+id: character:coralee-wickwright
 name: Coralee Wickwright
 gm_notes: Coralee is a chandler (candle-maker) whose husband, a city watchman, disappeared three months
   ago. The watch declared him a deserter, but Coralee found his watchman's badge hidden in their chimney

@@ -1,5 +1,5 @@
 ---
-id: character:tide-tama-iti-little-wave
+id: character:tama-iti-little-wave
 name: Tama-iti Little-Wave
 gm_notes: Tama-iti is an eight-year-old boy, the son of a refugee family living on Lani Atoll. He is bright,
   curious, and always underfoot, and the adults tolerate him with the affectionate exasperation reserved

@@ -1,5 +1,5 @@
 ---
-id: character:ver-petala-weaves
+id: character:petala-weaves-the-river
 name: Petala Weaves-the-River
 gm_notes: A basket weaver whose baskets are so tightly woven they can hold water indefinitely — a skill
   she learned from her grandmother, who claimed the technique was taught by a river-spirit. Petala recently

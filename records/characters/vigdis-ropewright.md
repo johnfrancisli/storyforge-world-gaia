@@ -1,5 +1,5 @@
 ---
-id: character:hra-vigdis-ropewright
+id: character:vigdis-ropewright
 name: Vigdis Ropewright
 gm_notes: 'Vigdis makes rope — anchor rope, fishing line, rigging, and the heavy hawsers that moor longships.
   Her secret: she is in love with Gerd Hallvarsdottir, the jarl''s sister, and they have been meeting

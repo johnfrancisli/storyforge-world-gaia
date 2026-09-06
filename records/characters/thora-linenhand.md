@@ -1,5 +1,5 @@
 ---
-id: character:hra-thora-linenhand
+id: character:thora-linenhand
 name: Thora Linenhand
 gm_notes: 'Thora makes sails for every longship in Skaldvik — enormous panels of linen and wool, dyed
   in stripes of red and white. Her secret: the sailcloth she makes is woven with a technique her mother

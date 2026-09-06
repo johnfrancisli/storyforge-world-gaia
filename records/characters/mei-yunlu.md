@@ -1,5 +1,5 @@
 ---
-id: character:san-mei-yunlu
+id: character:mei-yunlu
 name: Mei Yunlu
 gm_notes: A silk weaver whose loom produces fabric with patterns that seem to move in candlelight. She
   weaves prophetic images into ceremonial robes—a gift from a qilin spirit that visited her mother during

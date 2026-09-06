@@ -1,5 +1,5 @@
 ---
-id: character:val-jorah-quillback
+id: character:jorah-quillback
 name: Jorah Quillback
 gm_notes: Jorah is a scribe who works for the city magistrate, recording legal proceedings and property
   disputes. He has been falsifying land records to slowly transfer properties from absent or refugee landowners

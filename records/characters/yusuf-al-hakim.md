@@ -1,5 +1,5 @@
 ---
-id: character:alk-yusuf-elder
+id: character:yusuf-al-hakim
 name: Yusuf al-Hakim
 gm_notes: 'A male elder who is the oldest person in Zaffar — old enough to remember the last time a binding
   family''s contract came due and the chaos it caused. Yusuf is 103 years old, kept alive by a djinn contract

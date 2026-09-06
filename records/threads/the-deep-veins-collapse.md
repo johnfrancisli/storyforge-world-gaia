@@ -7,9 +7,9 @@ stakes: If the collapse was sabotage, whoever sealed the vein now controls Naqd'
   player could reopen the vein, find the saboteur, or evacuate the town before the next shift.
 pressure: breaking
 participants:
-- character:alk-amira-water-finder
-- character:alk-nabil-glassblower
-- character:alk-walid-spice-merchant
+- character:amira-al-main
+- character:nabil-al-zujaj
+- character:walid-al-tujjar
 locations:
 - location:alk-naqd-deepveins
 - location:alk-naqd-stoneseat

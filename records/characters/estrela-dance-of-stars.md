@@ -1,5 +1,5 @@
 ---
-id: character:ver-estrela-dance
+id: character:estrela-dance-of-stars
 name: Estrela Dance-of-Stars
 gm_notes: 'A dancer whose performances are considered the most beautiful in the region and who is sought
   after for every major ceremony. Estrela''s dancing is not merely art — she enters a genuine trance during

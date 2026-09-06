@@ -1,5 +1,5 @@
 ---
-id: character:val-elenna-moonwhisper
+id: character:elenna-moonwhisper
 name: Elenna Moonwhisper
 gm_notes: Elenna is an elven librarian who has been quietly altering records in the royal archive to hide
   the existence of a third heir — a child born to the late king's second marriage, believed dead in infancy

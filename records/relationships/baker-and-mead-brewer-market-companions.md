@@ -2,8 +2,8 @@
 id: relationship:margaret-and-becka
 name: Baker and mead brewer, market companions
 participants:
-- character:val-margaret-honeybun
-- character:val-becka-honeymead
+- character:margaret-honeybun
+- character:becka-honeymead
 association: friendship
 public_status: The baker and the mead brewer are known to share a market stall and trade goods — bread
   for mead — on festival days.

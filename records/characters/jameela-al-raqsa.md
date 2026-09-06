@@ -1,5 +1,5 @@
 ---
-id: character:alk-jameela-dancer
+id: character:jameela-al-raqsa
 name: Jameela al-Raqsa
 gm_notes: 'A dancer at the Star Bazaar whose performances draw crowds from every quarter of Zaffar. Jameela
   was born with a condition that should have left her unable to walk — her legs were twisted at birth

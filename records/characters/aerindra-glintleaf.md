@@ -1,5 +1,5 @@
 ---
-id: character:val-aerindra-glintleaf
+id: character:aerindra-glintleaf
 name: Aerindra Glintleaf
 gm_notes: Aerindra is an elven fletcher who crafts arrows for the Dragon Order's archers. She uses wood
   from ancient trees and her arrows are prized for their accuracy. She has discovered that a batch of

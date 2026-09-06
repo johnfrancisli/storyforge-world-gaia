@@ -1,5 +1,5 @@
 ---
-id: character:ver-lua-whispers
+id: character:lua-whispers-to-trees
 name: Lua Whispers-to-Trees
 gm_notes: 'An elder storyteller who knows every oral history of the Verdania tribes — but the last true
   keeper of a story that has never been spoken aloud: the story of the Binding, the event that sealed

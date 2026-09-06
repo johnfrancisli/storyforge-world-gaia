@@ -1,5 +1,5 @@
 ---
-id: character:alk-maha-mathematician
+id: character:maha-al-hisab
 name: Maha al-Hisab
 gm_notes: A mathematician who has discovered that the Pact of the Lamp's original contract contains a
   mathematical error — a miscalculation in the amortization of the djinn's payments that means the binding

@@ -1,5 +1,5 @@
 ---
-id: character:alk-nadia-al-faris
+id: character:nadia-al-faris
 name: Nadia al-Faris
 gm_notes: Matriarch of the al-Faris binding family, one of the seven founding houses of the Pact of the
   Lamp. Her family's contract with the djinn Kashan is the oldest in Zaffar — signed four hundred years

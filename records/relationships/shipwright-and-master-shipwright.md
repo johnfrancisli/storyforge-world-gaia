@@ -2,8 +2,8 @@
 id: relationship:greta-and-bjorn
 name: Shipwright and master shipwright
 participants:
-- character:hra-greta-keelson
-- character:hra-bjorn-keelwright
+- character:greta-keelson
+- character:bjorn-keelwright
 association: rivalry
 public_status: Greta Keelson and Bjorn Keelwright are both shipwrights of Skaldvik, and their competing
   longships are launched from adjacent slipways.

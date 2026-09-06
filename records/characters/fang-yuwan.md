@@ -1,5 +1,5 @@
 ---
-id: character:san-fang-yuwan
+id: character:fang-yuwan
 name: Fang Yuwan
 gm_notes: 'A Mizuhito boat builder who constructs canal boats using a technique passed down through her
   family for generations: planks sealed with a chi-infused resin that makes the boats nearly silent in

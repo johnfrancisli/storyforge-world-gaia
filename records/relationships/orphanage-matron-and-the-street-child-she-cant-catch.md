@@ -2,8 +2,8 @@
 id: relationship:hilda-and-daisy
 name: Orphanage matron and the street child she can't catch
 participants:
-- character:val-hilda-ironstove
-- character:val-daisy-teasprout
+- character:hilda-ironstove
+- character:daisy-teasprout
 association: mentor-student
 public_status: The orphanage matron is known to chase the street child Daisy away from her kitchen door,
   and Daisy is known to steal from her anyway.

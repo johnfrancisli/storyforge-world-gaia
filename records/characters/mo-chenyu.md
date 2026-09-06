@@ -1,5 +1,5 @@
 ---
-id: character:san-mo-chenyu
+id: character:mo-chenyu
 name: Mo Chenyu
 gm_notes: A Jin palace guard captain who has served the warlord for twenty years. She discovered that
   the warlord's chief advisor has been replacing palace guards loyal to the warlord with guards loyal

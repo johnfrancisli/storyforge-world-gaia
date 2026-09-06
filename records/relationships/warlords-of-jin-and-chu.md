@@ -3,7 +3,7 @@ id: relationship:cao-shen-and-sun-liang
 name: Warlords of Jin and Chu
 participants:
 - character:cao-shen
-- character:warlord-sun-liang
+- character:sun-liang
 association: enemies
 public_status: The warlord of Jin and the warlord of Chu are the principal rivals of the Sangguo conflict,
   and their enmity is the stuff of popular legend.

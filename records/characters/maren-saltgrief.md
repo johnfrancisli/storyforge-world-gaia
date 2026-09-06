@@ -1,5 +1,5 @@
 ---
-id: character:hra-maren-saltgrief
+id: character:maren-saltgrief
 name: Maren Saltgrief
 gm_notes: 'Maren is the navigator aboard the Frostwing, and she can read stars, currents, and bird-flight
   with uncanny accuracy. Her secret: she has been losing her sight. The colors are going first — she can

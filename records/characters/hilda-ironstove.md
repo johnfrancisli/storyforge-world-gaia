@@ -1,5 +1,5 @@
 ---
-id: character:val-hilda-ironstove
+id: character:hilda-ironstove
 name: Hilda Ironstove
 gm_notes: Hilda runs a small orphanage in Crownhaven's lower town, taking in children displaced by the
   border conflicts. She is struggling to feed them all. A noblewoman offered to fund the orphanage generously

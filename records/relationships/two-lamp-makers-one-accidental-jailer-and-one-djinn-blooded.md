@@ -2,8 +2,8 @@
 id: relationship:esam-and-nisreen
 name: Two lamp makers, one accidental jailer and one djinn-blooded
 participants:
-- character:alk-esam-lamp-maker
-- character:alk-nisreen-lamp-maker
+- character:esam-al-misbah
+- character:nisreen-al-misbah
 association: family
 public_status: Esam al-Misbah and Nisreen al-Misbah are both lamp makers of the same quarter and are assumed
   to be kin by their shared craft surname.

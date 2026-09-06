@@ -1,5 +1,5 @@
 ---
-id: character:hra-gerd-hallvarsdottir
+id: character:gerd-hallvarsdottir
 name: Gerd Hallvarsdottir
 gm_notes: 'Gerd is Jarl Sigrid''s younger sister, and she manages the jarl''s farmstead — the herds, the
   fields, the storehouses that feed the household through winter. Her secret: she is in love with a woman

@@ -2,8 +2,8 @@
 id: relationship:leilani-and-rotama
 name: Sail maker and her apprentice
 participants:
-- character:tide-leilani-wave-singer
-- character:tide-rotama-quiet-weave
+- character:leilani-wave-singer
+- character:rotama-quiet-weave
 association: mentor-student
 public_status: Leilani Wave-Singer, a sail maker of the wayfinder guilds, has taken on Rotama Quiet-Weave
   as her apprentice.

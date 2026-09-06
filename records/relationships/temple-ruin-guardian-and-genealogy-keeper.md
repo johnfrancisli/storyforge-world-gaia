@@ -2,8 +2,8 @@
 id: relationship:zel-and-aja
 name: Temple ruin guardian and genealogy keeper
 participants:
-- character:ver-zel-temple-guard
-- character:ver-aja-elder
+- character:zel-stone-watch
+- character:aja-bone-remember
 association: friendship
 public_status: The guardian of the old temple ruins and the genealogy keeper are both elders concerned
   with preservation and are often seen in counsel.

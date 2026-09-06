@@ -1,7 +1,7 @@
 ---
-id: character:alk-imran-astrologer
+id: character:imran-al-nujum
 name: Imran al-Nujum
-gm_notes: A male astrologer and Tara's (character:alk-tara-astrologer) former student, now a rival. Imran
+gm_notes: A male astrologer and Tara's (character:tara-al-nujum) former student, now a rival. Imran
   discovered independently that certain star alignments weaken djinn contracts temporarily, and he has
   been selling this information to the highest bidder among the binding families. He does not know Tara
   can read true names, but he has noticed that her star charts contain annotations he cannot explain —

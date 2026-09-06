@@ -1,5 +1,5 @@
 ---
-id: character:tsu-kayo-rokurokubi
+id: character:kayo
 name: Kayo
 gm_notes: Kayo is a rokurokubi — a yokai whose neck extends grotesquely at night while she sleeps. By
   day she is a normal woman, a weaver in Haru's Shrine Town, kind and unremarkable. At night, her sleeping
@@ -7,7 +7,7 @@ gm_notes: Kayo is a rokurokubi — a yokai whose neck extends grotesquely at nig
   points. She's seen someone — she can't tell who, they wore a hood — entering the old shrine site behind
   Hanako's (character:hanako) tea house at night and handling the old bell. She's terrified of being discovered
   as a yokai, but she's more terrified of whoever is tampering with the shrine site. She's been leaving
-  anonymous notes for the shrine maiden Katsura (character:tsu-katsura-kitsune).
+  anonymous notes for the shrine maiden Katsura (character:katsura).
 aliases: []
 race: ''
 gender: ''

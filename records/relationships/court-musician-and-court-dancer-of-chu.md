@@ -2,8 +2,8 @@
 id: relationship:lin-zhiyao-and-han-xueling
 name: Court musician and court dancer of Chu
 participants:
-- character:san-lin-zhiyao
-- character:san-han-xueling
+- character:lin-zhiyao
+- character:han-xueling
 association: secret_alliance
 public_status: The court musician and the court dancer often perform together at Chu state functions and
   are regarded as artistic collaborators.

@@ -1,5 +1,5 @@
 ---
-id: character:val-thorin-graniteborn
+id: character:thorin-graniteborn
 name: Thorin Graniteborn
 gm_notes: Thorin is a dwarf stonemason who discovered a hidden chamber beneath Crownhaven Castle while
   doing repair work. The chamber contains ancient draconic runes that mention a 'first bond' between humans

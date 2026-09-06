@@ -1,7 +1,7 @@
 ---
-id: character:alk-nisreen-lamp-maker
+id: character:nisreen-al-misbah
 name: Nisreen al-Misbah
-gm_notes: A female lamp maker who is Esam's (character:alk-esam-lamp-maker) business partner and has known
+gm_notes: A female lamp maker who is Esam's (character:esam-al-misbah) business partner and has known
   him for twenty years. Nisreen has noticed Esam's anxiety, his sleeplessness, and his refusal to leave
   the workshop, and she has correctly deduced that something is wrong with one of the lamps on his bench.
   She does not know a djinn is trapped inside, but she has noticed that the lamp in question is warm to

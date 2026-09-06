@@ -2,8 +2,8 @@
 id: relationship:tengu-soji-and-jiro
 name: Wandering swordmaster and retired ronin
 participants:
-- character:tengu-soji
-- character:tsu-jiro-elder
+- character:soji
+- character:sakurai-jiro
 association: mentor-student
 public_status: Jiro, a retired ronin, occasionally trains with the tengu swordmaster Soji, though most
   assume the old bodyguard's days of fighting are past.

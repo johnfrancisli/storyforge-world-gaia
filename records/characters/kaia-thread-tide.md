@@ -1,5 +1,5 @@
 ---
-id: character:tide-kaia-thread-tide
+id: character:kaia-thread-tide
 name: Kaia Thread-Tide
 gm_notes: Kaia weaves the fine cloth that chiefs and ceremony demand, and she is the best in three islands.
   Her secret is that she has been weaving burial cloth for islands — not people. When an island is about

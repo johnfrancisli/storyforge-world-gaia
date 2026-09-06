@@ -1,5 +1,5 @@
 ---
-id: character:tide-fetu-star-reader
+id: character:fetu-star-reader
 name: Fetu Star-Reader
 gm_notes: Fetu is the youngest wayfinder to achieve journeyman rank in a generation, and she is considered
   a prodigy. She can read the stars, currents, and bird patterns with an accuracy that rivals elders twice

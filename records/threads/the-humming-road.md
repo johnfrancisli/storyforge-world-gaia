@@ -7,7 +7,7 @@ stakes: A working Old Road fragment is the most valuable secret in Gaia — it c
   are not supposed to do. If the wrong person learns about it, the secret becomes a weapon.
 pressure: steady
 participants:
-- character:desert-guide-rashid
+- character:rashid-al-rimal
 locations:
 - location:al-khayzar
 organizations: []

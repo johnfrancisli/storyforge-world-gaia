@@ -1,5 +1,5 @@
 ---
-id: character:alk-afaf-herbalist
+id: character:afaf-al-ashab
 name: Afaf al-A'shab
 gm_notes: 'An herbalist who grows plants that should not survive in the desert — mountain ferns, water
   lilies, mosses — because her garden sits over an underground spring that a djinn directed to the surface

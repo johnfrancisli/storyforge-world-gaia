@@ -3,7 +3,7 @@ id: relationship:tamamo-and-katsura
 name: Wild kitsune and shrine kitsune
 participants:
 - character:tamamo
-- character:tsu-katsura-kitsune
+- character:katsura
 association: family
 public_status: The two fox spirits are occasionally seen near the shrine grounds together, though most
   folk cannot tell them apart and assume them the same creature.

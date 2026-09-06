@@ -1,5 +1,5 @@
 ---
-id: character:alk-amira-water-finder
+id: character:amira-al-main
 name: Amira al-Ma'in
 gm_notes: 'A water finder who can locate underground aquifers by walking barefoot over sand and feeling
   the water through the soles of her feet — a gift she inherited from her grandmother, who claimed it

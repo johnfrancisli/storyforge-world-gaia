@@ -1,5 +1,5 @@
 ---
-id: character:val-elspeth-thistlecorn
+id: character:elspeth-thistlecorn
 name: Elspeth Thistlecorn
 gm_notes: 'Elspeth is an elderly beekeeper who tends the largest apiary in the Valdris countryside. Forty
   years ago, she witnessed something she has never told anyone: a dragon landed in the meadow beside her

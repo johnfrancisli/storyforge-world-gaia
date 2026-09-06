@@ -1,5 +1,5 @@
 ---
-id: character:val-mira-greenbottle
+id: character:mira-greenbottle
 name: Mira Greenbottle
 gm_notes: Mira is a halfling herbalist who discovered a rare mushroom that can temporarily suppress a
   dragon-bonded knight's connection to their dragon. She has not told anyone, but a noble has been pressuring

@@ -1,5 +1,5 @@
 ---
-id: character:san-tan-ruolan
+id: character:tan-ruolan
 name: Tan Ruolan
 gm_notes: A fortune teller in Jin-an's market district who reads palms and tortoise shells. She is genuinely
   gifted—her readings are accurate about seventy percent of the time, a gift from a qilin-spirit encounter

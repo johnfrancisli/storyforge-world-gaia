@@ -1,5 +1,5 @@
 ---
-id: character:san-lu-haichen
+id: character:lu-haichen
 name: Lu Haichen
 gm_notes: A martial arts teacher at the Great Academy who teaches swordsmanship but is secretly a pacifist
   who has never killed anyone. He won his reputation through tournament fighting—always non-lethal. He

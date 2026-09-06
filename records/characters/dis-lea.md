@@ -1,5 +1,5 @@
 ---
-id: character:hra-dis-lea
+id: character:dis-lea
 name: Dis Lea
 gm_notes: 'Dis is an herbalist who tends a garden of medicinal plants behind her house and gathers wild
   herbs from the fjord slopes. Her secret: she has been treating a man she believes is a frost giant half-breed

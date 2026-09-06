@@ -1,5 +1,5 @@
 ---
-id: character:san-sha-wuyin
+id: character:sha-wuyin
 name: Sha Wuyin
 gm_notes: A shadowy figure who operates Jin-an's underground gambling den and is the city's premier fixer—able
   to arrange forged documents, discreet passage, and anonymous contacts for a price. She lost her entire

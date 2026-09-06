@@ -1,5 +1,5 @@
 ---
-id: character:san-ouyang-shuang
+id: character:ouyang-shuang
 name: Ouyang Shuang
 gm_notes: A painter whose landscape paintings are so detailed they have been used as military maps by
   the Chu warlord's scouts—unbeknownst to her. She paints from observation and has traveled the tri-border

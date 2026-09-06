@@ -1,5 +1,5 @@
 ---
-id: character:alk-mariam-potter
+id: character:mariam-al-khazaf
 name: Mariam al-Khazaf
 gm_notes: A potter who discovered that clay from a specific wadi outside Zaffar, when fired in her kiln,
   produces vessels that can contain a djinn's voice — not the djinn itself, but the sound of its speech,

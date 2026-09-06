@@ -2,8 +2,8 @@
 id: relationship:honoka-and-daichi
 name: Female samurai and palace guard captain
 participants:
-- character:tsu-kaede-honoka
-- character:tsu-dai-guard-captain
+- character:takeda-honoka
+- character:mori-daichi
 association: romance
 public_status: The onna-bugeisha of the Takeda clan and the shogunate's guard captain are regarded as
   professional peers who cross paths at official functions.

@@ -1,5 +1,5 @@
 ---
-id: character:tide-mafana-small-wave
+id: character:mafana-small-wave
 name: Mafana Small-Wave
 gm_notes: 'Mafana is nine years old and arrived at Lani Atoll with nothing — no family, no island, no
   lineage. She was found alone on a canoe drifting in the lagoon, and no one knows where she came from.

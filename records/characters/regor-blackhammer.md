@@ -1,5 +1,5 @@
 ---
-id: character:val-regor-blackhammer
+id: character:regor-blackhammer
 name: Regor Blackhammer
 gm_notes: Regor is a dwarf armorer who holds a contract with the Dragon Order to maintain their dragon-scale
   plate armour. He has discovered hairline fractures in three suits of armour — fractures that look like

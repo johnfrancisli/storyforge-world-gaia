@@ -1,5 +1,5 @@
 ---
-id: character:hra-ragna-forgebreak
+id: character:ragna-forgebreak
 name: Ragna Forgebreak
 gm_notes: 'Ragna is a smith who works iron, bronze, and a little silver. Her secret: she has been forging
   counterfeit trade-ingots — iron bars stamped with the mark of a rival fjord''s smithy and secretly introduced

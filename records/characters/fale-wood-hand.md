@@ -1,5 +1,5 @@
 ---
-id: character:tide-fale-wood-hand
+id: character:fale-wood-hand
 name: Fale Wood-Hand
 gm_notes: 'Fale is a wood carver who makes the practical wooden tools of the Archipelago — bowls, utensils,
   paddles, house posts. She is not an artist; she is a craftswoman, and her work is valued for its durability

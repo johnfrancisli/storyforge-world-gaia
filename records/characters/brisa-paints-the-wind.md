@@ -1,5 +1,5 @@
 ---
-id: character:ver-brisa-paints
+id: character:brisa-paints-the-wind
 name: Brisa Paints-the-Wind
 gm_notes: A body painter whose designs are more than decoration — they are spirit-glyphs that can temporarily
   grant protection, courage, or luck. Brisa learned the true glyph-language from her mother, who learned

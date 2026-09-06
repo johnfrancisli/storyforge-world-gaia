@@ -1,5 +1,5 @@
 ---
-id: character:tide-moana-reef-walker
+id: character:moana-reef-walker
 name: Moana Reef-Walker
 gm_notes: 'Moana fishes the shallow reefs at dawn every day and has done so for twenty years. She knows
   every coral head, every channel, every tide pool by name. Six months ago she noticed the reef was changing

@@ -7,9 +7,9 @@ stakes: If a wayfinder of Hoku's stature can lose the stars, no navigator in the
   Hoku's memory, learn the unknown chant, or guide Lio's stranded cargo themselves for a share.
 pressure: rising
 participants:
-- character:tide-hoku-star-path
-- character:tide-vehina-the-rememberer
-- character:tide-lio-deep-pearl
+- character:hoku-star-path
+- character:vehina-the-rememberer
+- character:lio-deep-pearl
 locations:
 - location:lani-atoll
 - location:iara-chiefsfloat

@@ -1,5 +1,5 @@
 ---
-id: character:tide-eseta-bone-remember
+id: character:eseta-bone-rememberer
 name: Eseta Bone-Rememberer
 gm_notes: Eseta is a bone carver who arrived as a refugee six months ago. She carves bone ornaments and
   tools with extraordinary skill and has quickly become valued at Lani Atoll. Her secret is that she does

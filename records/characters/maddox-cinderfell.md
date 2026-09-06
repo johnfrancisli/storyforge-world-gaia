@@ -1,5 +1,5 @@
 ---
-id: character:val-maddox-cinderfell
+id: character:maddox-cinderfell
 name: Maddox Cinderfell
 gm_notes: 'Maddox is a gravedigger who has noticed an unusual pattern: bodies have been arriving at the
   cemetery with identical marks — a small, precise puncture at the base of the skull, hidden by hair.

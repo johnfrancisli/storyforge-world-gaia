@@ -1,5 +1,5 @@
 ---
-id: character:hra-brita-whalejaw
+id: character:brita-whalejaw
 name: Brita Whalejaw
 gm_notes: 'Brita is the most experienced whaler in Skaldvik, and she has killed seventeen whales in her
   career. Her secret: two years ago, during a hunt, a great whale surfaced directly beneath her boat and

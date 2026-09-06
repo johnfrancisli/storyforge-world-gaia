@@ -2,8 +2,8 @@
 id: relationship:lyria-and-regor
 name: Two blacksmiths of Valdris
 participants:
-- character:val-lyria-ironheart
-- character:val-regor-blackhammer
+- character:lyria-ironheart
+- character:regor-blackhammer
 association: rivalry
 public_status: Lyria Ironheart and Regor Blackhammer are the two foremost smiths in the town, and their
   competition for commissions is well known.

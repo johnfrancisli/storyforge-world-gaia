@@ -1,5 +1,5 @@
 ---
-id: character:river-trader-amara
+id: character:amara-of-the-long-boat
 name: Amara of the Long Boat
 gm_notes: Amara is the person who connects Verdania to the outside world. Her boat is one of the few that
   travels the full river from the Mist Falls to Iara and back. She has noticed that the river's behavior

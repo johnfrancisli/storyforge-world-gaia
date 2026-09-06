@@ -1,5 +1,5 @@
 ---
-id: character:shipwright-tor
+id: character:tor-longkeel
 name: Tor Longkeel
 gm_notes: Tor's wife was on a fishing boat that vanished near the deep fjords two months ago — one of
   the villages Sigrid has been worried about. The boat was found empty, no signs of violence. Tor has

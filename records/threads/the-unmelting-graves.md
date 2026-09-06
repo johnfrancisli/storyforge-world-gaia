@@ -7,9 +7,9 @@ stakes: If the warmth is a sign of something gestating, Northwatch may be one th
   chapter—or uncover a contagion that forces the quarantine of the entire fortress town.
 pressure: rising
 participants:
-- character:val-maddox-cinderfell
-- character:val-galen-frosthollow
-- character:val-isolde-ravenwood
+- character:maddox-cinderfell
+- character:galen-frosthollow
+- character:isolde-ravenwood
 locations:
 - location:val-northwatch-graveyard
 - location:val-northwatch-chapter

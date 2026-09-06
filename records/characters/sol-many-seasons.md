@@ -1,5 +1,5 @@
 ---
-id: character:ver-sol-elder
+id: character:sol-many-seasons
 name: Sol Many-Seasons
 gm_notes: 'An elder who sits on the informal council of Iara and is respected for her wisdom and her decades
   of service as a healer before retirement. Sol is the wife of the chief of the Verdana tribe, a political

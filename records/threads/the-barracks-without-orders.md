@@ -7,9 +7,9 @@ stakes: If the Silverward marches without clear orders, it could mean a coup aga
   missing orders, expose whoever intercepted them, or choose which faction to arm.
 pressure: breaking
 participants:
-- character:val-aldric-stonehand
-- character:elf-lindrel
-- character:val-aurelia-dawnspear
+- character:aldric-stonehand
+- character:lindrel-of-the-greenhall
+- character:aurelia-dawnspear
 locations:
 - location:val-elfshade-warquarter
 - location:val-elfshade-court

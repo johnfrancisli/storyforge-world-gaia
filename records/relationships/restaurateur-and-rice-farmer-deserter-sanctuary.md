@@ -2,8 +2,8 @@
 id: relationship:qiu-yuanshan-and-feng-qiaomu
 name: Restaurateur and rice farmer, deserter sanctuary
 participants:
-- character:san-qiu-yuanshan
-- character:san-feng-qiaomu
+- character:qiu-yuanshan
+- character:feng-qiaomu
 association: secret_alliance
 public_status: A veteran restaurateur of Jin and a rice farmer have no publicly known relationship.
 bond: 'Together they run a hidden sanctuary for army deserters — Yuanshan provides shelter and work in

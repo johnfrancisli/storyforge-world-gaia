@@ -2,8 +2,8 @@
 id: relationship:rina-and-pili
 name: Shell carver and bone carver, rival artists
 participants:
-- character:tide-rina-shell-carver
-- character:tide-pili-bone-cutter
+- character:rina-shell-carver
+- character:pili-bone-cutter
 association: rivalry
 public_status: Rina Shell-Carver and Pili Bone-Cutter are both carvers of the archipelago — she of shell,
   he of bone — and their competing artistry is a common comparison.

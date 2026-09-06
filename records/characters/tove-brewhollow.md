@@ -1,5 +1,5 @@
 ---
-id: character:hra-tove-brewhollow
+id: character:tove-brewhollow
 name: Tove Brewhollow
 gm_notes: 'Tove runs the cookfire in Jarl Sigrid''s mead hall, feeding the household and any traveler
   who sits at the long table. Her secret: she is the daughter of a jarl from a neighboring fjord — Fjord

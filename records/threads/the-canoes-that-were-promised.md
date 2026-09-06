@@ -9,9 +9,9 @@ stakes: If the council is denied its canoes, the refugees remain dependent on th
   and their hosts.
 pressure: breaking
 participants:
-- character:tide-vanya-salt-home
-- character:chief-lani
-- character:tide-solomona-drowned-home
+- character:vanya-salt-home
+- character:lani-reef-born
+- character:solomona-drowned-home
 locations:
 - location:lani-atoll
 - location:iara-floatmarket

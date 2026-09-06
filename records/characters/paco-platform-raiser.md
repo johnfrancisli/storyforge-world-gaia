@@ -1,5 +1,5 @@
 ---
-id: character:ver-paco-builder
+id: character:paco-platform-raiser
 name: Paco Platform-Raiser
 gm_notes: 'A human builder who constructs and repairs the stilt-platforms that are Iara''s foundation.
   He is the only person who knows the full structural layout of the city''s supports, having inherited

@@ -1,5 +1,5 @@
 ---
-id: character:tide-tala-quiet-foot
+id: character:tala-quiet-foot
 name: Tala Quiet-Foot
 gm_notes: 'Tala is the scout who goes ahead of every inter-island expedition, reading the water and the
   weather for danger. She is the best scout in the guild because she can see farther than anyone — not

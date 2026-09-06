@@ -1,5 +1,5 @@
 ---
-id: character:hra-sigrid-hallvarsdottir
+id: character:sigrid-hallvarsdottir
 name: Sigrid Hallvarsdottir
 gm_notes: 'Sigrid''s father was killed by a frost giant twelve years ago during a trade dispute. Her older
   brother Hallvar inherited the fjord, then died on a raid the following year. The thingmenn expected
@@ -11,7 +11,8 @@ gm_notes: 'Sigrid''s father was killed by a frost giant twelve years ago during 
   her sister Gerd. At the same time, she is quietly building a coalition of jarls who want to push the
   frost giants out of the deep mountains. She believes they are preparing to expand southward, but she
   has not proved it to the Althing.'
-aliases: []
+aliases:
+- 'Jarl Sigrid Hallvarsdottir'
 race: ''
 gender: ''
 heritage: ''

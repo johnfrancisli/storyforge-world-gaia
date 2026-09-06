@@ -2,8 +2,8 @@
 id: relationship:koa-and-tala
 name: Two scouts of the archipelago
 participants:
-- character:tide-koa-far-eye
-- character:tide-tala-quiet-foot
+- character:koa-far-eye
+- character:tala-quiet-foot
 association: rivalry
 public_status: Koa Far-Eye and Tala Quiet-Foot are both scouts — he of the wayfinder guilds, she of the
   same — and their competing methods are a running debate.

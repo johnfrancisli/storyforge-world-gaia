@@ -1,5 +1,5 @@
 ---
-id: character:san-han-xueling
+id: character:han-xueling
 name: Han Xueling
 gm_notes: A dancer in the Chu court who performs at state banquets and is the Chu warlord's favorite entertainer.
   She is also the daughter of a Jin spy who was executed by the Chu warlord fifteen years ago. She was

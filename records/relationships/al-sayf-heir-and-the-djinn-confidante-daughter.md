@@ -2,8 +2,8 @@
 id: relationship:rashid-al-sayf-and-zahra-binding-daughter
 name: Al-Sayf heir and the djinn-confidante daughter
 participants:
-- character:alk-rashid-binding-son
-- character:alk-zahra-binding-daughter
+- character:rashid-al-sayf
+- character:zahra-al-dhahab
 association: romance
 public_status: The al-Sayf heir and Zahra al-Dhahab, a daughter of another binding family, are publicly
   acquainted through binding family circles.

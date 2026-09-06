@@ -1,8 +1,8 @@
 ---
-id: character:tsu-kaede-honoka
+id: character:takeda-honoka
 name: Takeda Honoka
-gm_notes: Honoka serves Daimyo Takeda (character:daimyo-takeda) as a vassal warrior, but she has fallen
-  secretly in love with Prince Haru (character:tsu-prince-haru), the shogun's younger son, after meeting
+gm_notes: Honoka serves Daimyo Takeda (character:takeda-renji) as a vassal warrior, but she has fallen
+  secretly in love with Prince Haru (character:ashikara-haru), the shogun's younger son, after meeting
   him at a border inspection. She has been passing no information to either side, but both Takeda's retainer
   and the prince's attendant have noticed her distraction. Takeda is beginning to suspect her loyalty.
   She carries a letter from the prince that she has neither sent nor destroyed.

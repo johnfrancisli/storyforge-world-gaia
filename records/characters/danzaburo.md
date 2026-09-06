@@ -1,13 +1,13 @@
 ---
-id: character:tsu-danuki-tanuki
+id: character:danzaburo
 name: Danzaburo
 gm_notes: 'Danzaburo is a tanuki — a raccoon dog spirit — who has run a noodle shop in Haru''s Shrine
   Town for forty years in the guise of a jolly old man. His noodles are enchanted: they make people happy
   and generous, which has been quietly sustaining the town''s mood through hard times. He knows the shrine
-  kitsune Katsura (character:tsu-katsura-kitsune) is losing her power, and he''s been secretly directing
+  kitsune Katsura (character:katsura) is losing her power, and he''s been secretly directing
   the happy energy from his enchanted noodles toward the shrine to help her maintain the local wards —
   a tanuki helping a kitsune, which would scandalize both their kinds if they knew. He''s also been quietly
-  feeding the kitsune cub that Chiyo (character:tsu-chiyo-child) visits, making sure it stays healthy
+  feeding the kitsune cub that Chiyo (character:kobayashi-chiyo) visits, making sure it stays healthy
   and small rather than growing into something dangerous. He''s aging, and tanuki magic fades with age
   — he doesn''t know how much longer he can keep it up.'
 aliases: []

@@ -1,5 +1,5 @@
 ---
-id: character:hra-varg-stormhold
+id: character:varg-stormhold
 name: Varg Stormhold
 gm_notes: 'Varg is a guard in Jarl Sigrid''s household, one of the twelve under Captain Ingrid. His secret:
   he is in debt to Sigunn Ironbar, the trader, for a loan he took to pay his father''s funeral costs.

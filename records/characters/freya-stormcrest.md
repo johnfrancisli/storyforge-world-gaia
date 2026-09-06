@@ -1,5 +1,5 @@
 ---
-id: character:val-freya-stormcrest
+id: character:freya-stormcrest
 name: Freya Stormcrest
 gm_notes: Freya is a castle guard stationed on Crownhaven's outer wall. She discovered that the night
   watch rotation has been altered to leave a specific section of the wall unguarded for exactly one hour

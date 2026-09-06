@@ -1,5 +1,5 @@
 ---
-id: character:wen-canalmaster
+id: character:wen-li-of-the-canals
 name: Wen Li of the Canals
 gm_notes: Wen Li is a river-folk woman who manages the canal system that feeds Jin'an's grain supply.
   The canals are silting up because the truce diverted maintenance funds to the military. If the canals

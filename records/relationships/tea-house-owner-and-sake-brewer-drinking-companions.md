@@ -3,7 +3,7 @@ id: relationship:hanako-and-saya
 name: Tea house owner and sake brewer, drinking companions
 participants:
 - character:hanako
-- character:tsu-saya-brewer
+- character:morikawa-saya
 association: friendship
 public_status: The tea house owner and the sake brewer are known to be old friends who share drinks after
   hours and refer customers to each other.

@@ -1,5 +1,5 @@
 ---
-id: character:ver-suri-scales
+id: character:suri-salt-scales
 name: Suri Salt-Scales
 gm_notes: 'A serpent beast-kin salt maker who travels to the distant salt flats every season to harvest
   and refine salt for trade. On one of these journeys, she found a salt-crystal formation in a cave that

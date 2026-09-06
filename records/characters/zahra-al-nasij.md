@@ -1,5 +1,5 @@
 ---
-id: character:alk-zahra-weaver
+id: character:zahra-al-nasij
 name: Zahra al-Nasij
 gm_notes: A carpet weaver whose carpets are said to show the pattern of a person's fate if they sleep
   on them. This is not superstition — Zahra's loom was built from the wood of a djinn-burning tree, and

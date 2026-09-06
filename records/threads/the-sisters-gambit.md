@@ -10,7 +10,7 @@ pressure: rising
 participants:
 - character:fatima-idris
 - character:malik-idris
-- character:judge-tariq
+- character:tariq-al-mir
 locations:
 - location:zaffar
 organizations:

@@ -1,5 +1,5 @@
 ---
-id: character:dwarf-borin
+id: character:borin-ironhand
 name: Borin Ironhand
 gm_notes: Borin has been asked by the reformist faction to examine dragonbone artifacts that Elara's people
   have been collecting. He has discovered that the bones still carry a faint resonance — a shadow of the

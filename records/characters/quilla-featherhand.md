@@ -1,5 +1,5 @@
 ---
-id: character:ver-quilla-featherhand
+id: character:quilla-featherhand
 name: Quilla Featherhand
 gm_notes: 'The most skilled feather worker in the western rainforest, famous for ceremonial headdresses
   that are said to carry fragments of bird-spirits. What no one knows is that Quilla''s mastery comes

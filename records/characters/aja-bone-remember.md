@@ -1,5 +1,5 @@
 ---
-id: character:ver-aja-elder
+id: character:aja-bone-remember
 name: Aja Bone-Remember
 gm_notes: 'An elder who keeps the tribal genealogies and historical records through oral tradition and
   carved bone-tablets. He can recite the lineage of every family in the region back eight generations.

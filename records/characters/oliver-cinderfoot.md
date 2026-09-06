@@ -1,5 +1,5 @@
 ---
-id: character:val-oliver-cinderfoot
+id: character:oliver-cinderfoot
 name: Oliver Cinderfoot
 gm_notes: 'Oliver is a chimney sweep''s apprentice, a young boy who climbs the narrow flues of Crownhaven''s
   buildings. While sweeping the chimney of a nobleman''s study, he witnessed a secret meeting through

@@ -1,5 +1,5 @@
 ---
-id: character:san-shen-wuguang
+id: character:shen-wuguang
 name: Shen Wuguang
 gm_notes: A Chu court official who has been managing the warlord's treasury for fifteen years. He has
   been skimming a small percentage of war taxes and funneling the money into a hidden orphanage he runs

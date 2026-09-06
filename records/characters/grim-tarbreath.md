@@ -1,5 +1,5 @@
 ---
-id: character:hra-grim-tarbreath
+id: character:grim-tarbreath
 name: Grim Tarbreath
 gm_notes: 'Grim is a charcoal burner who tends the forest kilns in the pine woods above Skaldvik. His
   secret: he has been cutting timber from a grove that is sacred to the volur — trees marked with rune-carvings

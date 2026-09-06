@@ -1,10 +1,10 @@
 ---
-id: character:alk-gamal-cook
+id: character:gamal-al-tabbak
 name: Gamal al-Tabbak
 gm_notes: 'A male cook who runs a kitchen in a binding family''s estate, preparing feasts for the Council
   and private dinners for the family heads. Gamal has been poisoning the binding families'' food with
   a slow-acting compound that suppresses the binding connection — not enough to break contracts, but enough
-  to make the djinn''s power erratic and unreliable. He obtained the compound from Fatima bint Idris (character:alk-fatima-spice-trader),
+  to make the djinn''s power erratic and unreliable. He obtained the compound from Fatima bint Idris (character:fatima-bint-idris),
   who does not know what he is using it for. Gamal''s motivation is personal: his sister was a binding
   family servant who was ''collected'' by a djinn when a family contract came due and the family chose
   to pay the debt with a servant''s life instead of their own. He has been weakening the binding families''

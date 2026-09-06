@@ -1,5 +1,5 @@
 ---
-id: character:hra-thyra-wildseed
+id: character:thyra-wildseed
 name: Thyra Wildseed
 gm_notes: 'Thyra is a thrall — a bondservant in Jarl Sigrid''s household, captured in a raid on a southern
   coast village twelve years ago. She was a child then. Her secret: she remembers her birth name, her

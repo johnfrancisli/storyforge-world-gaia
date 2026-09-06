@@ -1,5 +1,5 @@
 ---
-id: character:tide-hina-ke-chant-daughter
+id: character:hina-ke-chant-daughter
 name: Hina-ke Chant-Daughter
 gm_notes: Hina-ke is a chant keeper, one of the few who knows the full sequence of the tide chants — the
   songs that map the daily and seasonal tides of the Archipelago. She is Vehina's former student and was

@@ -1,5 +1,5 @@
 ---
-id: character:alk-reem-al-faris
+id: character:reem-al-faris
 name: Reem al-Faris
 gm_notes: 'Nadia''s granddaughter and heir to the al-Faris binding line. Reem has been hearing a voice
   since she was nine — not a djinn''s, but something older and stranger that speaks in a language she

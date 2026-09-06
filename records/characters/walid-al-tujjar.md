@@ -1,8 +1,8 @@
 ---
-id: character:alk-walid-spice-merchant
+id: character:walid-al-tujjar
 name: Walid al-Tujjar
 gm_notes: A male spice merchant who controls the pepper and clove trade through the mountain passes. Walid
-  is secretly the half-brother of Yasmin al-Barrani (character:alk-yasmin-spice-merchant) — they share
+  is secretly the half-brother of Yasmin al-Barrani (character:yasmin-al-barrani) — they share
   a mother, though neither knows it. Their mother was a caravan driver who had children by two different
   merchants and gave both up. Walid has been contracted by a binding family to spy on Yasmin, who they
   suspect is building a political movement against them. Walid has been reporting Yasmin's activities

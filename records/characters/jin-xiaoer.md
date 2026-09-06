@@ -1,5 +1,5 @@
 ---
-id: character:san-jin-xiaoer
+id: character:jin-xiaoer
 name: Jin Xiao'er
 gm_notes: An eight-year-old boy who is the Jin warlord's youngest son and is deliberately kept out of
   public view because he was born with a lame left leg. The warlord considers him an embarrassment. Jin

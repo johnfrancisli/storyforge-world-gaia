@@ -1,5 +1,5 @@
 ---
-id: character:hra-helga-deepnet
+id: character:helga-deepnet
 name: Helga Deepnet
 gm_notes: Helga fishes the deep waters of the fjord and has pulled up things from the bottom that no one
   else has seen. Six months ago she dredged up a runestone in her nets — not a carved memorial, but a

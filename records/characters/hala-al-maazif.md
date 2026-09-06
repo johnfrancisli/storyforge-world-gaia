@@ -1,5 +1,5 @@
 ---
-id: character:alk-hala-oud-player
+id: character:hala-al-maazif
 name: Hala al-Ma'azif
 gm_notes: An oud player whose music can soothe djinn — a gift she inherited from her father, who was a
   binding family servant and played oud to calm a captive djinn in the family vault. Her father died when

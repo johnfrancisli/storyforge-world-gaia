@@ -1,5 +1,5 @@
 ---
-id: character:hra-alvilda-longthread
+id: character:alvilda-longthread
 name: Alvilda Longthread
 gm_notes: 'Alvilda is a sail maker who works under Thora, learning the craft. Her secret: she has been
   watching Thora closely and has noticed that Thora uses a special thread from a sealed box — a thread

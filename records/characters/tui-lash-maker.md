@@ -1,5 +1,5 @@
 ---
-id: character:tide-tui-lash-maker
+id: character:tui-lash-maker
 name: Tui Lash-Maker
 gm_notes: 'Tui makes the nets that every fishing family on three islands depends on, and she has been
   weaving something else in secret: a net made from fiber she collects from the hulls of canoes that have

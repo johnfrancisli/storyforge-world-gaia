@@ -2,8 +2,8 @@
 id: relationship:sera-and-calla
 name: Tavern keeper and innkeeper, competing hosts
 participants:
-- character:val-sera-thornwick
-- character:val-calla-riversong
+- character:sera-thornwick
+- character:calla-riversong
 association: friendship
 public_status: The tavern keeper and the innkeeper are neighboring establishments and apparent competitors
   for travelers' coin.

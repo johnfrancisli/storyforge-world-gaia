@@ -1,5 +1,5 @@
 ---
-id: character:tide-vehina-the-rememberer
+id: character:vehina-the-rememberer
 name: Vehina the Rememberer
 gm_notes: 'Vehina is the oldest person on Lani Atoll and the keeper of the genealogy chants that trace
   every family line back eight generations. She has been losing her memory for the past year — slowly,

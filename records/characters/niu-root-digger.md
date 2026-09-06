@@ -1,5 +1,5 @@
 ---
-id: character:tide-niu-root-digger
+id: character:niu-root-digger
 name: Niu Root-Digger
 gm_notes: Niu is a farmer who cultivates taro, breadfruit, and coconut on one of the larger agricultural
   islands. He is a quiet, practical man who feeds his community and asks for little. His secret is that

@@ -1,9 +1,9 @@
 ---
 id: relationship:nara-and-tari
-name: Shaman Nara and Apprentice Tari
+name: Nara Stillwater and Tari River-Listener
 participants:
-- character:shaman-nara
-- character:apprentice-tari
+- character:nara-stillwater
+- character:tari-river-listener
 association: master and apprentice
 public_status: Nara is training Tari in the shamanic traditions. Tari is young and talented. A normal
   master-apprentice relationship.

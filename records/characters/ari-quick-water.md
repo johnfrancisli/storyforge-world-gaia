@@ -1,5 +1,5 @@
 ---
-id: character:ver-ari-otterpelt
+id: character:ari-quick-water
 name: Ari Quick-Water
 gm_notes: 'An otter beast-kin scout who patrols the river tributaries and reports on movement — animal,
   human, and spirit. Three months ago, while scouting the upper reaches near the temple ruins, she witnessed

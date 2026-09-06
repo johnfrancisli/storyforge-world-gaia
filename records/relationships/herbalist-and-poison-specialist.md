@@ -2,8 +2,8 @@
 id: relationship:flor-and-temno
 name: Herbalist and poison specialist
 participants:
-- character:ver-flor-do-mato
-- character:ver-temno-serpent
+- character:flor-do-mato
+- character:temno-root-biter
 association: rivalry
 public_status: Flor do Mato and Temno Root-Biter are both herbalists of the Verdania peoples, and locals
   consult each for different needs.

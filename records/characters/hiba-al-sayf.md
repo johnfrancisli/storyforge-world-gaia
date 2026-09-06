@@ -1,7 +1,7 @@
 ---
-id: character:alk-hiba-child
+id: character:hiba-al-sayf
 name: Hiba al-Sayf
-gm_notes: 'The ten-year-old daughter of Tariq al-Sayf (character:alk-tariq-binding-patriarch) and the
+gm_notes: 'The ten-year-old daughter of Tariq al-Sayf (character:tariq-al-sayf) and the
   child her father is considering trading to a new djinn to save her brother Rashid. Hiba does not know
   the specifics of her father''s dilemma, but she is unusually perceptive and has overheard fragments
   of his private meetings. She knows something is being decided about her, and she has been having nightmares

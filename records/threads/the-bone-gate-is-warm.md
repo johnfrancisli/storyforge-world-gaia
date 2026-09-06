@@ -8,9 +8,9 @@ stakes: If something beneath the pyramid is waking, the serpent-pact that has ke
   bidder.
 pressure: rising
 participants:
-- character:ver-zel-temple-guard
-- character:ver-conda-serpenteyes
-- character:ver-petala-weaves
+- character:zel-stone-watch
+- character:conda-serpent-eyes
+- character:petala-weaves-the-river
 locations:
 - location:ver-templeruins-spiritgate
 - location:ver-templeruins-pyramidsummit

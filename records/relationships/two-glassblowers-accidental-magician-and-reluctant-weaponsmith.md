@@ -2,8 +2,8 @@
 id: relationship:dunya-and-nabil
 name: Two glassblowers, accidental magician and reluctant weaponsmith
 participants:
-- character:alk-dunya-glassblower
-- character:alk-nabil-glassblower
+- character:dunya-al-zujaj
+- character:nabil-al-zujaj
 association: family
 public_status: Dunya al-Zujaj and Nabil al-Zujaj are both glassblowers of the same quarter and share a
   workshop name, and are assumed to be kin.

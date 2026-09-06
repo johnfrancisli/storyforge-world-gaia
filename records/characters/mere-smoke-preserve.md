@@ -1,5 +1,5 @@
 ---
-id: character:tide-mere-smoke-preserve
+id: character:mere-smoke-preserve
 name: Mere Smoke-Preserve
 gm_notes: 'Mere is the cook who feeds the great meeting house on Lani Atoll, and her preserved foods —
   smoked fish, fermented breadfruit, dried sea-vegetable — keep the atoll fed through the storm season

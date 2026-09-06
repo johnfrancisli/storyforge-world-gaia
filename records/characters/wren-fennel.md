@@ -1,5 +1,5 @@
 ---
-id: character:val-wren-fennel
+id: character:wren-fennel
 name: Wren Fennel
 gm_notes: 'Wren is a refugee who fled the border conflicts with nothing but her mother''s recipe book
   and a locked box she was told never to open until she reached Crownhaven. The box has no key — it must

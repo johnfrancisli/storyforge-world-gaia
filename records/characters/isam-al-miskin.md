@@ -1,5 +1,5 @@
 ---
-id: character:alk-isam-beggar
+id: character:isam-al-miskin
 name: Isam al-Miskin
 gm_notes: A male beggar who sits at the gate of the high city and asks for alms in a voice that is barely
   a whisper. Isam was once a binding family scribe — a man who wrote contracts for the al-Sayf family

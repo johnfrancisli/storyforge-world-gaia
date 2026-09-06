@@ -1,5 +1,5 @@
 ---
-id: character:ver-caju-cook
+id: character:caju-hearth-tender
 name: Caju Hearth-Tender
 gm_notes: 'A human cook who runs the communal cooking fire of Iara and feeds the entire community. He
   is beloved — generous, warm, and always feeding someone. His secret: he is a compulsive hoarder of food,

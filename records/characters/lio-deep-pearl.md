@@ -1,5 +1,5 @@
 ---
-id: character:tide-lio-deep-pearl
+id: character:lio-deep-pearl
 name: Lio Deep-Pearl
 gm_notes: Lio is a pearl trader who travels between islands buying and selling pearls, and she knows the
   value of every pearl in the Archipelago. Her secret is that she has been buying black pearls — a specific

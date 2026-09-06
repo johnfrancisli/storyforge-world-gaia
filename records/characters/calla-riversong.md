@@ -1,5 +1,5 @@
 ---
-id: character:val-calla-riversong
+id: character:calla-riversong
 name: Calla Riversong
 gm_notes: Calla is a halfling innkeeper in a village along the main road between Crownhaven and Dragonrest.
   Her inn is a known stopping point for travelers, merchants, and soldiers. She has been secretly allowing

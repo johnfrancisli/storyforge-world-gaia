@@ -1,5 +1,5 @@
 ---
-id: character:alk-dunya-glassblower
+id: character:dunya-al-zujaj
 name: Dunya al-Zujaj
 gm_notes: A glassblower whose glass vessels can hold light — not metaphorically, but literally. A bottle
   blown from her furnace traps sunlight and releases it slowly over hours, glowing in the dark like a

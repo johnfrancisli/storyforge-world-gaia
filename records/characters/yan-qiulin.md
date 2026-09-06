@@ -1,5 +1,5 @@
 ---
-id: character:san-yan-qiulin
+id: character:yan-qiulin
 name: Yan Qiulin
 gm_notes: The wife of a Chu general who has been missing on the northern front for eight months. Officially
   she maintains the household and raises their daughter. Unofficially, she has taken over her husband's

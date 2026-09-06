@@ -1,5 +1,5 @@
 ---
-id: character:alk-qamar-tea-brewer
+id: character:qamar-al-shay
 name: Qamar al-Shay
 gm_notes: A tea brewer in the Star Bazaar who serves tea that reveals a single truth to the drinker —
   not a grand revelation, but a small, personal truth they have been avoiding, surfacing as a thought

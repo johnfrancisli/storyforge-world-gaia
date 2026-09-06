@@ -1,5 +1,5 @@
 ---
-id: character:san-xie-mengxue
+id: character:xie-mengxue
 name: Xie Mengxue
 gm_notes: A young woman who was the Wei warlord's personal chi-cultivation student until she discovered
   that the warlord's training method involved draining chi from prisoners to fuel his students' advancement.

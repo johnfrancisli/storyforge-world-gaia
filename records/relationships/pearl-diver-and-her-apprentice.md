@@ -2,8 +2,8 @@
 id: relationship:hina-deepwater-and-tama-pearl-blood
 name: Pearl diver and her apprentice
 participants:
-- character:tide-hina-deepwater
-- character:tide-tama-pearl-blood
+- character:hina-deepwater
+- character:tama-pearl-blood
 association: mentor-student
 public_status: Tama Pearl-Blood is a pearl diver apprentice under Hina Deepwater, and the two are known
   to dive together.

@@ -1,5 +1,5 @@
 ---
-id: character:san-zheng-lianshu
+id: character:zheng-lianshu
 name: Zheng Lianshu
 gm_notes: 'A librarian at the Great Academy who manages the student reading rooms. She has noticed that
   someone has been systematically removing and replacing pages from historical texts about the qilin-spirit

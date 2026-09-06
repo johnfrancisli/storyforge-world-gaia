@@ -1,5 +1,5 @@
 ---
-id: character:hra-ingrid-watchpeak
+id: character:ingrid-watchpeak
 name: Ingrid Watchpeak
 gm_notes: 'Ingrid commands Jarl Sigrid''s household guard — twelve warriors who keep order in Skaldvik
   and protect the jarl''s hall. Her secret: she has been approached by an emissary from Jarl Hakon of

@@ -1,9 +1,9 @@
 ---
 id: relationship:garrick-and-maggie
-name: Garrick the Wolf and Maggie Pippin
+name: Garrick Moorcroft and Maggie Pippin
 participants:
-- character:the-wolf
-- character:maggie-pip
+- character:garrick-moorcroft
+- character:maggie-pippin
 association: bandit and innkeeper, uneasy mutual tolerance
 public_status: Maggie's inn is on the Greywood road, which Garrick controls. He does not rob her. She
   does not report him. A practical arrangement.

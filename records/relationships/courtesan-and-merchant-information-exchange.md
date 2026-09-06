@@ -2,8 +2,8 @@
 id: relationship:kohana-and-machi
 name: Courtesan and merchant, information exchange
 participants:
-- character:tsu-kohana-oiran
-- character:tsu-machi-merchant
+- character:ayase-kohana
+- character:sugawara-machi
 association: secret_alliance
 public_status: Machi the merchant is a known patron of Kohana's tea house entertainments, nothing more.
 bond: Kohana hears what powerful men say when they believe they are only entertaining a courtesan, and

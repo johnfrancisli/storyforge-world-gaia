@@ -1,5 +1,5 @@
 ---
-id: character:hra-kata-mossheart
+id: character:kata-mossheart
 name: Kata Mossheart
 gm_notes: 'Kata is the midwife of Skaldvik, who has brought nearly every living person under thirty into
   the world. Her secret: she has been falsifying birth records — not for money, but to protect children.

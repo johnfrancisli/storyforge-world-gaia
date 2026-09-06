@@ -1,5 +1,5 @@
 ---
-id: character:san-feng-qiaomu
+id: character:feng-qiaomu
 name: Feng Qiaomu
 gm_notes: A rice farmer whose paddies sit at the border where Jin, Chu, and Wei territories meet. Her
   farm has been raided by soldiers from all three states, each demanding her rice as 'taxation.' She has

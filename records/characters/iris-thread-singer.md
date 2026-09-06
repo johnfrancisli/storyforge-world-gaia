@@ -1,5 +1,5 @@
 ---
-id: character:ver-iris-weaver
+id: character:iris-thread-singer
 name: Iris Thread-Singer
 gm_notes: 'A cloth weaver who produces the fine cotton and bark-cloth garments worn throughout Iara. Her
   cloth is distinctive for its intricate patterns, which she says are inspired by dreams. The truth: the

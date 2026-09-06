@@ -1,5 +1,5 @@
 ---
-id: character:val-edmund-greyfeather
+id: character:edmund-greyfeather
 name: Edmund Greyfeather
 gm_notes: Edmund is a half-elf forester who patrols the King's Wood. He discovered a poaching camp that
   was not just taking deer — it was trapping live dragons, young ones, barely fledged. The trappers are

@@ -1,5 +1,5 @@
 ---
-id: character:alk-rim-camel-herder
+id: character:rim-al-jamal
 name: Rim al-Jamal
 gm_notes: A female camel herder who tends a herd of forty camels on the desert fringe outside Zaffar.
   Her herd includes one camel — a massive white female named Sahar — that is not a camel at all but a

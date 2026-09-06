@@ -1,5 +1,5 @@
 ---
-id: character:val-maren-stormwing
+id: character:maren-stormwing
 name: Maren Stormwing
 gm_notes: 'Maren is a squire to a Dragon Order knight who was killed in a skirmish three weeks ago. Her
   knight died before completing her squire training, leaving Maren in limbo — not a knight, but too trained

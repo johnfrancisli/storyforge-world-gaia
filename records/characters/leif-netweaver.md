@@ -1,5 +1,5 @@
 ---
-id: character:hra-leif-netweaver
+id: character:leif-netweaver
 name: Leif Netweaver
 gm_notes: 'Leif makes fishing nets — enormous, intricate affairs of knotted hemp and sinew, as well as
   the seine nets used for cooperative catches. His secret: he has been weaving a net that is not for fishing.

@@ -1,5 +1,5 @@
 ---
-id: character:tide-vanya-salt-home
+id: character:vanya-salt-home
 name: Vanya Salt-Home
 gm_notes: Vanya arrived at Lani Atoll eight months ago with her three children and nothing else. Her island,
   Vela, submerged in a single night — faster than anyone thought possible. She lost her husband, her parents,

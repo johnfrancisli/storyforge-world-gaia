@@ -1,5 +1,5 @@
 ---
-id: character:hra-runa-stonebench
+id: character:runa-stonebench
 name: Runa Stonebench
 gm_notes: 'Runa is a brewer who makes ale from barley and herbs — the daily drink of Skaldvik, consumed
   in quantities that would stagger a southern city. Her secret: she has been experimenting with fermentation

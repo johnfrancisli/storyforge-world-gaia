@@ -1,5 +1,5 @@
 ---
-id: character:tide-aroha-many-stories
+id: character:aroha-many-stories
 name: Aroha Many-Stories
 gm_notes: Aroha is the storyteller every child gathers around at dusk, and she knows every story in the
   Archipelago — or so everyone believes. The truth is that she has been making up new stories for years,

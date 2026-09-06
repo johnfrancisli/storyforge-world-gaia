@@ -1,5 +1,5 @@
 ---
-id: character:alk-layla-oasis-keeper
+id: character:layla-al-waha
 name: Layla al-Waha
 gm_notes: 'The keeper of the Mirror Oasis, the waystation on the deep desert route between Zaffar and
   the distant trade cities. The oasis''s water has a peculiar property: at moonless midnight, the pool

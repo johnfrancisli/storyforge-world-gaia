@@ -1,5 +1,5 @@
 ---
-id: character:tsu-katsura-kitsune
+id: character:katsura
 name: Katsura
 gm_notes: Katsura is a shrine kitsune who has served Haru Shrine for three hundred years, appearing as
   a human maiden to the villagers. She knows Tamamo (character:tamamo) — they are ancient rivals, having
@@ -52,7 +52,7 @@ affiliations:
 - org:ashikara-shogunate
 desires:
 - To maintain the shrine network long enough to find a way to renew it permanently.
-- To protect the young maiden Yuki (character:tsu-miko-yuki) who she suspects has the spirit-sight needed
+- To protect the young maiden Yuki (character:shimizu-yuki) who she suspects has the spirit-sight needed
   for the work.
 fears_or_limits:
 - As the network weakens, she is losing her power and her human form — soon she won't be able to maintain

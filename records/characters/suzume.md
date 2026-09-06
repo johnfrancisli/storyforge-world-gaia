@@ -1,7 +1,7 @@
 ---
-id: character:tsu-suzu-tengu
+id: character:suzume
 name: Suzume
-gm_notes: 'Suzume is the younger sister of the wandering swordmaster Soji (character:tengu-soji), who
+gm_notes: 'Suzume is the younger sister of the wandering swordmaster Soji (character:soji), who
   left the tengu mountain dojo over a dispute about whether to intervene in the shrine network''s decline.
   She followed him into exile against the elders'' explicit orders — a grave act for a tengu. But she
   disagrees with Soji''s approach: he wants to find a human champion to help from the outside, while she

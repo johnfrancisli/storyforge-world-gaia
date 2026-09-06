@@ -8,9 +8,9 @@ stakes: If the cask is sold, a generational treasure leaves Eyrby and the meader
   the trader's side for a cut.
 pressure: rising
 participants:
-- character:jarl-sigrid
-- character:hra-runa-stonebench
-- character:hra-torsten-coinwave
+- character:sigrid-hallvarsdottir
+- character:runa-stonebench
+- character:torsten-coinwave
 locations:
 - location:hra-eyrby-meadery
 - location:hra-eyrby-thingmound

@@ -7,8 +7,8 @@ stakes: If Takeda's agents recover the document, Kuro is dead and the coalition 
   the shogunate cracks down on the provincial clans and the coalition goes underground or open revolt.
 pressure: rising
 participants:
-- character:kuro
-- character:daimyo-takeda
+- character:kagemori-kuro
+- character:takeda-renji
 locations:
 - location:tsuki-no-miyako
 - location:tsukuyomi

@@ -1,5 +1,5 @@
 ---
-id: character:hra-freya-stormshell
+id: character:freya-stormshell
 name: Freya Stormshell
 gm_notes: 'Freya is a shellfish gatherer who works the fjord''s tidal flats, collecting mussels, clams,
   and occasionally the rare deep-water shellfish that are a delicacy in the jarl''s hall. Her secret:

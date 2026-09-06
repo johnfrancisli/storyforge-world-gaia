@@ -1,5 +1,5 @@
 ---
-id: character:alk-ghada-gardener
+id: character:ghada-al-jannah
 name: Ghada al-Jannah
 gm_notes: Head gardener of the Hanging Gardens of Zaffar, an oasis garden built on terraced stone that
   is the pride of the high city. Ghada discovered that the gardens' oldest tree — a pomegranate planted

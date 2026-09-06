@@ -2,8 +2,8 @@
 id: relationship:corrente-and-bahri
 name: Two river pilots, masters of the current
 participants:
-- character:ver-corrente-watersong
-- character:ver-bahri-otter
+- character:corrente-watersong
+- character:bahri-swift-current
 association: rivalry
 public_status: Corrente Watersong and Bahri Swift-Current are both master river pilots and are known to
   compete for the most challenging navigation contracts.

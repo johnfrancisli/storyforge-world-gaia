@@ -1,5 +1,5 @@
 ---
-id: character:ver-folha-green
+id: character:folha-green-laughs
 name: Folha Green-Laughs
 gm_notes: 'A ten-year-old human girl who is the happiest child in Iara and who has an invisible friend
   she calls ''the Gentle One.'' The Gentle One is real — it is a spirit of the shallow water that has

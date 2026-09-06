@@ -1,5 +1,5 @@
 ---
-id: character:tsu-yukina-spirit
+id: character:yukina
 name: Yukina
 gm_notes: Yukina is a yuki-onna — a snow woman — who fell in love with a human woodcutter and married
   him, suppressing her nature to live as a mortal wife. He doesn't know what she is. Each winter, her

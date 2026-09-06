@@ -1,5 +1,5 @@
 ---
-id: character:maggie-pip
+id: character:maggie-pippin
 name: Maggie Pippin
 gm_notes: Maggie's inn is the Greywood's informal post office. Messages pass through her kitchen, and
   she has a memory for faces and names that would shame a spymaster. She has noticed that the traffic

@@ -1,5 +1,5 @@
 ---
-id: character:ver-bahri-otter
+id: character:bahri-swift-current
 name: Bahri Swift-Current
 gm_notes: 'An otter beast-kin river pilot who runs the fastest message route between Iara and the southern
   city-states, making the journey in half the time of any other pilot. His speed is genuine skill, but

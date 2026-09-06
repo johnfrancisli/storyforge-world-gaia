@@ -1,5 +1,5 @@
 ---
-id: character:alk-tariq-binding-patriarch
+id: character:tariq-al-sayf
 name: Tariq al-Sayf
 gm_notes: 'Patriarch of the al-Sayf binding family, the second-oldest house on the Council. Tariq''s family
   contract with the djinn Nuria is coming due in six months — Nuria provided military protection for the

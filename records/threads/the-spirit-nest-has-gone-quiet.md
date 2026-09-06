@@ -8,9 +8,9 @@ stakes: If the spirit-pacts are truly broken, every ceremonial artisan, hunter, 
   or a door.
 pressure: breaking
 participants:
-- character:ver-yara-moonflower
-- character:ver-folha-green
-- character:ver-zel-temple-guard
+- character:yara-moonflower
+- character:folha-green-laughs
+- character:zel-stone-watch
 locations:
 - location:ver-altacanopy-spiritnest
 - location:ver-altacanopy-canopysevenhall

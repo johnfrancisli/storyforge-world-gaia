@@ -7,9 +7,9 @@ stakes: If the scouts were taken by something in the passes, the Shogunate's ent
   scouts alive, or reveal that the frontier itself is no longer safe to hold.
 pressure: rising
 participants:
-- character:tsu-dai-guard-captain
-- character:miko-sora
-- character:tsu-rei-guard
+- character:mori-daichi
+- character:amemiya-sora
+- character:takamori-rei
 locations:
 - location:tsu-kitagoe-scout-hall
 - location:tsu-kitagoe-gate-shrine

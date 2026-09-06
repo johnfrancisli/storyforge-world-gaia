@@ -1,5 +1,5 @@
 ---
-id: character:tide-poto-old-cord
+id: character:poto-old-cord
 name: Poto Old-Cord
 gm_notes: Poto is an elder rope maker, the oldest in the Archipelago, and he has been making cord for
   sixty years. He is Finau's father and taught her the knot that holds the world together — but he did

@@ -1,5 +1,5 @@
 ---
-id: character:ver-flor-do-mato
+id: character:flor-do-mato
 name: Flor do Mato
 gm_notes: 'An herbalist who can cure any rainforest ailment but carries a terrible burden: three years
   ago, she brewed a medicine for a beloved elder chief who was dying of a slow poison. The medicine worked,

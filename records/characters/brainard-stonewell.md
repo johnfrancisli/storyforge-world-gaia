@@ -1,5 +1,5 @@
 ---
-id: character:val-brainard-stonewell
+id: character:brainard-stonewell
 name: Brainard Stonewell
 gm_notes: 'Brainard is a city watchman on the night shift in Crownhaven''s lower town. He is honest in
   a district where most of his fellow watchmen take bribes. He has been documenting the corruption in

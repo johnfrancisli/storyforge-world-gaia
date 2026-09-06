@@ -7,7 +7,7 @@ stakes: If Sigrid acts without Althing approval, she splits Hrafnland and may tr
   the giants' intentions, she has spent political capital on a phantom threat.
 pressure: steady
 participants:
-- character:jarl-sigrid
+- character:sigrid-hallvarsdottir
 locations:
 - location:hrafnland
 - location:skaldvik

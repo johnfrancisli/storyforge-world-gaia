@@ -1,5 +1,5 @@
 ---
-id: character:hra-solvi-cliffshadow
+id: character:solvi-cliffshadow
 name: Solvi Cliffshadow
 gm_notes: 'Solvi is a watchman who keeps the night watch on the cliff above Skaldvik''s harbor, scanning
   the sea for ships and the mountains for fire-signals. Her secret: she has been seeing lights on the

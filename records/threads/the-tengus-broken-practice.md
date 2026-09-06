@@ -7,9 +7,9 @@ stakes: A broken truce means the pilgrimage road through Yamadera becomes unsafe
   mediate a renewed accord—or be the spark that turns a cold rivalry into bloodshed on the mountain.
 pressure: rising
 participants:
-- character:tsu-jinichi-monk
-- character:tsu-suzu-tengu
-- character:tsu-shiori-librarian
+- character:okabe-jinichi
+- character:suzume
+- character:minase-shiori
 locations:
 - location:tsu-yamadera-tengu-grounds
 - location:tsu-yamadera-monastery

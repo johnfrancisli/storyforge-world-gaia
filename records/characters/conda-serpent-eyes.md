@@ -1,5 +1,5 @@
 ---
-id: character:ver-conda-serpenteyes
+id: character:conda-serpent-eyes
 name: Conda Serpent-Eyes
 gm_notes: 'A serpent beast-kin spirit-talker who serves as intermediary between the living and the river-serpent
   spirits that dwell in the deep channels. Conda was born with the ability to enter a trance state in

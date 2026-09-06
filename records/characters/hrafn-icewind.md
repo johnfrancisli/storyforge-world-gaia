@@ -1,5 +1,5 @@
 ---
-id: character:hra-hrafn-icewind
+id: character:hrafn-icewind
 name: Hrafn Icewind
 gm_notes: 'Hrafn is a boy of ten, the son of two of the jarl''s household thralls. His secret: he has
   been sneaking out at night to listen to the volur''s chanting when Yrsa goes into trance. He is drawn

@@ -1,5 +1,5 @@
 ---
-id: character:alk-esam-lamp-maker
+id: character:esam-al-misbah
 name: Esam al-Misbah
 gm_notes: A male lamp maker whose brass and copper lamps are the finest in Zaffar — and who has accidentally
   created a lamp that can contain a djinn without a formal contract. He discovered this when a minor djinn,

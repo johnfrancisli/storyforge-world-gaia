@@ -2,8 +2,8 @@
 id: relationship:evangeline-and-galen
 name: Priest and monk-scribe, faith and ink
 participants:
-- character:val-evangeline-greymantle
-- character:val-galen-frosthollow
+- character:evangeline-greymantle
+- character:galen-frosthollow
 association: friendship
 public_status: The priest and the monk-scribe are known to collaborate on copying holy texts and preserving
   old records.

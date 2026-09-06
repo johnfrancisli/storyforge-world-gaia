@@ -1,5 +1,5 @@
 ---
-id: character:hra-siv-frostborn
+id: character:siv-frostborn
 name: Siv Frostborn
 gm_notes: 'Siv is a healer who combines herbalism with seidr — a rare and somewhat feared practice. She
   can ease pain, slow bleeding, and once set a broken bone that three other healers said would never heal

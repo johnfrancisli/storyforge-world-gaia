@@ -1,5 +1,5 @@
 ---
-id: character:tide-solomona-drowned-home
+id: character:solomona-drowned-home
 name: Solomona Drowned-Home
 gm_notes: 'Solomona is a refugee who arrived at Lani Atoll with his two children after his island submerged.
   He is a skilled canoe builder who has been repairing boats at the atoll to earn his family''s keep.

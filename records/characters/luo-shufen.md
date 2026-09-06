@@ -1,5 +1,5 @@
 ---
-id: character:san-luo-shufen
+id: character:luo-shufen
 name: Luo Shufen
 gm_notes: A cook in the Great Academy's kitchens who has been feeding the Academy community for thirty
   years and knows every student, teacher, and visitor by their food preferences. She is the Academy's

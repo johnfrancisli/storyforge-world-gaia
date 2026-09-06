@@ -1,5 +1,5 @@
 ---
-id: character:val-sable-quickthorn
+id: character:sable-quickthorn
 name: Sable Quickthorn
 gm_notes: Sable is a bounty hunter and former soldier who deserted the kingdom's border forces after refusing
   to participate in the massacre of a refugee column. She has been living as a sellsword and bounty hunter

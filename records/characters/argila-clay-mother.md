@@ -1,5 +1,5 @@
 ---
-id: character:ver-argila-pots
+id: character:argila-clay-mother
 name: Argila Clay-Mother
 gm_notes: A potter who makes all the storage vessels for Iara — water jars, fermentation pots, cooking
   vessels, and ceremonial urns. She fires her clay in a kiln near the riverbank and has recently discovered

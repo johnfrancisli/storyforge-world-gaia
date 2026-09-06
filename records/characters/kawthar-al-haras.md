@@ -1,5 +1,5 @@
 ---
-id: character:alk-kawthar-watchwoman
+id: character:kawthar-al-haras
 name: Kawthar al-Haras
 gm_notes: 'A night watchwoman who patrols the high city walls and has witnessed something she was not
   supposed to see: a binding family member meeting with a chained djinn in the old cistern beneath the

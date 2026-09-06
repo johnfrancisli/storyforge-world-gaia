@@ -1,5 +1,5 @@
 ---
-id: character:tide-anahera-wood-spirit
+id: character:anahera-wood-spirit
 name: Anahera Wood-Spirit
 gm_notes: Anahera carves the figureheads that sit on the prows of voyaging canoes — the faces that meet
   the sea first. She is known for carving faces that seem to watch you. Her secret is that they do. Every

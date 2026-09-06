@@ -2,8 +2,8 @@
 id: relationship:edmund-and-wenna
 name: Forester and shepherd, hill companions
 participants:
-- character:val-edmund-greyfeather
-- character:val-wenna-fieldscott
+- character:edmund-greyfeather
+- character:wenna-fieldscott
 association: friendship
 public_status: The forester and the shepherd work the same high pastures and are often seen walking the
   ridge trails together.

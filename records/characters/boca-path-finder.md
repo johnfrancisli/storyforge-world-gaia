@@ -1,5 +1,5 @@
 ---
-id: character:ver-boca-guia
+id: character:boca-path-finder
 name: Boca Path-Finder
 gm_notes: 'A human guide who knows paths through the rainforest that no map records — game trails, spirit-paths,
   and seasonal routes that appear and disappear with the water levels. She has guided traders, hunters,

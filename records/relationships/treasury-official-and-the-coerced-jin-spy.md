@@ -2,8 +2,8 @@
 id: relationship:shen-wuguang-and-ai-gulan
 name: Treasury official and the coerced Jin spy
 participants:
-- character:san-shen-wuguang
-- character:san-ai-gulan
+- character:shen-wuguang
+- character:ai-gulan
 association: secret_alliance
 public_status: The Chu treasury official and a palace servant are known to have no particular relationship
   beyond passing in the halls.

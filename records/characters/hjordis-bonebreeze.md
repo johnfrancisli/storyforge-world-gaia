@@ -1,5 +1,5 @@
 ---
-id: character:hra-hjordis-bonebreeze
+id: character:hjordis-bonebreeze
 name: Hjordis Bonebreeze
 gm_notes: 'Hjordis carves bone and antler — dice, combs, needle cases, brooches, and the small decorative
   panels that decorate longship prows. Her secret: she can carve runes that work. Not the decorative,

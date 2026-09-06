@@ -1,5 +1,5 @@
 ---
-id: character:hra-liva-longwalk
+id: character:liva-longwalk
 name: Liva Longwalk
 gm_notes: 'Liva is a messenger who carries news, invitations, and legal summons between the fjords. She
   knows every trail, every shortcut, every bothy and shelter in Hrafnland. Her secret: she has been carrying

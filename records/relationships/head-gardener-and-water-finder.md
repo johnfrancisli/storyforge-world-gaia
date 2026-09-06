@@ -2,8 +2,8 @@
 id: relationship:ghada-and-amira
 name: Head gardener and water finder
 participants:
-- character:alk-ghada-gardener
-- character:alk-amira-water-finder
+- character:ghada-al-jannah
+- character:amira-al-main
 association: friendship
 public_status: The head gardener of the Hanging Gardens and the water finder are known to work together,
   each enabling the other's craft.

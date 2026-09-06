@@ -1,5 +1,5 @@
 ---
-id: character:san-zhao-tiegun
+id: character:zhao-tiegun
 name: Zhao Tiegun
 gm_notes: A blacksmith who forges weapons for the Chu army and has secretly developed a method to fold
   qilin-iron into ordinary steel, creating blades that hold a chi-edge three times sharper than normal.

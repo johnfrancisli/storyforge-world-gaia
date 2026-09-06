@@ -1,5 +1,5 @@
 ---
-id: character:val-margaret-honeybun
+id: character:margaret-honeybun
 name: Margaret Honeybun
 gm_notes: Margaret is a baker whose son was conscripted into the kingdom's border forces and sent to the
   contested frontier. She has not received a letter from him in four months and has heard rumours that

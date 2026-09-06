@@ -1,5 +1,5 @@
 ---
-id: character:hra-erik-frostbeard
+id: character:erik-frostbeard
 name: Erik Frostbeard
 gm_notes: 'Erik is a veteran navigator who sailed the northern routes for thirty years before his joints
   forced him ashore. He now advises younger navigators and tells stories in the mead hall. His secret:

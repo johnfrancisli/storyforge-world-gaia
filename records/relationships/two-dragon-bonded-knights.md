@@ -2,8 +2,8 @@
 id: relationship:aurelia-and-kael
 name: Two dragon-bonded knights
 participants:
-- character:val-aurelia-dawnspear
-- character:val-kael-drakesworn
+- character:aurelia-dawnspear
+- character:kael-drakesworn
 association: rivalry
 public_status: Dawnspear and Drakesworn are the two most prominent active dragon-bonded knights of the
   Order, often compared in tavern talk.

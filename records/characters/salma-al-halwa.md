@@ -1,5 +1,5 @@
 ---
-id: character:alk-salma-sweet-maker
+id: character:salma-al-halwa
 name: Salma al-Halwa
 gm_notes: 'A sweet maker renowned for her baklava and date-paste candies, which she infuses with rosewater
   from a private rose garden. The rose garden was a gift from a djinn to her grandmother in exchange for

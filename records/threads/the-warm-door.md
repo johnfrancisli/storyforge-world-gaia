@@ -8,11 +8,11 @@ stakes: If the door is opening on its own, something is changing beneath the wor
   volva, and shamans — is frightened.
 pressure: rising
 participants:
-- character:hunter-jaguar
-- character:explorer-dr-voss
-- character:shaman-nara
-- character:monk-jian
-- character:volva-helga
+- character:kaa-night-pelt
+- character:voss-alemann
+- character:nara-stillwater
+- character:jian-yi
+- character:helga-rune-sight
 locations:
 - location:verdania
 - location:iara

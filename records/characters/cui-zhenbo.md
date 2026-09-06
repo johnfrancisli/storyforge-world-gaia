@@ -1,5 +1,5 @@
 ---
-id: character:san-cui-zhenbo
+id: character:cui-zhenbo
 name: Cui Zhenbo
 gm_notes: A Jin court physician who serves the warlord's family and is one of the few people who knows
   the Jin warlord is slowly being poisoned. The poison is chi-based and undetectable by normal examination—it

@@ -1,5 +1,5 @@
 ---
-id: character:san-yang-fuhai
+id: character:yang-fuhai
 name: Yang Fuhai
 gm_notes: A canal worker and Mizuhito elder who has maintained the canal locks at the tri-border junction
   for forty years. He knows the original canal blueprints, which include sealed channels that predate

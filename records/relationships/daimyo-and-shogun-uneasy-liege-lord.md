@@ -2,8 +2,8 @@
 id: relationship:takeda-and-ashikara
 name: Daimyo and Shogun, uneasy liege-lord
 participants:
-- character:daimyo-takeda
-- character:shogun-ashikara
+- character:takeda-renji
+- character:ashikara-yoshito
 association: rivalry
 public_status: Daimyo Takeda is a loyal provincial lord to Shogun Ashikara, governing his lands in the
   shogun's name.

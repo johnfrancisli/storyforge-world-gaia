@@ -1,5 +1,5 @@
 ---
-id: character:tide-tane-hull-shaper
+id: character:tane-hull-shaper
 name: Tane Hull-Shaper
 gm_notes: 'Tane is the master canoe builder of Lani Atoll, and his voyaging canoes are sailed across the
   entire Archipelago. He is known for hulls that are light, strong, and fast. His secret is that he has

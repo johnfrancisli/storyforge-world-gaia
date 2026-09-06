@@ -1,5 +1,5 @@
 ---
-id: character:tide-mele-wave-voice
+id: character:mele-wave-voice
 name: Mele Wave-Voice
 gm_notes: Mele is the singer who leads the canoe songs that keep paddlers in rhythm and the evening songs
   that close the day. She has a voice that carries over wind and water without effort. Her secret is that

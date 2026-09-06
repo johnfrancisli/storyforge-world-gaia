@@ -7,9 +7,9 @@ stakes: If the salt is genuinely tainted, Tidal Reach loses its most important i
   The player could clear Suri's name, find the poisoner, or profit from the disruption either way.
 pressure: rising
 participants:
-- character:ver-suri-scales
-- character:ver-toba-fisher
-- character:ver-ari-otterpelt
+- character:suri-salt-scales
+- character:toba-net-caster
+- character:ari-quick-water
 locations:
 - location:ver-tidalreach-fishmarket
 - location:ver-tidalreach-fisherfleet

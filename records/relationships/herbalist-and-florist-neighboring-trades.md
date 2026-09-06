@@ -2,8 +2,8 @@
 id: relationship:nana-and-rin
 name: Herbalist and florist, neighboring trades
 participants:
-- character:tsu-nana-herbalist
-- character:tsu-rin-florist
+- character:aoyama-nana
+- character:hanabusa-rin
 association: friendship
 public_status: The herbalist and the florist work adjacent trades and are often seen sharing cuttings
   and market gossip.

@@ -1,5 +1,5 @@
 ---
-id: character:giant-emissary-frost
+id: character:grimvard-the-patient
 name: Grimvard the Patient
 gm_notes: 'Grimvard is not a warrior — he is a frost giant elder, a keeper of their oral history. He has
   come to Skaldvik not to threaten but to correct the record: Ravn''s poem has the giants'' history wrong,

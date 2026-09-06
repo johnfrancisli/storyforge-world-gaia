@@ -8,9 +8,9 @@ stakes: If the omen is genuine, Sangguo may be standing at the threshold of a dy
   meaning, or be paid handsomely to suppress it.
 pressure: steady
 participants:
-- character:monk-jian
-- character:san-guo-mingyue
-- character:san-tan-ruolan
+- character:jian-yi
+- character:guo-mingyue
+- character:tan-ruolan
 locations:
 - location:san-chudu-lotus-temple
 - location:san-chudu-tea-house

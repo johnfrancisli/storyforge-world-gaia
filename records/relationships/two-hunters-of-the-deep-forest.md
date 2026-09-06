@@ -2,8 +2,8 @@
 id: relationship:kaa-and-miri
 name: Two hunters of the deep forest
 participants:
-- character:hunter-jaguar
-- character:ver-miri-jaguarshadow
+- character:kaa-night-pelt
+- character:miri-jaguar-shadow
 association: friendship
 public_status: Kaa the Jaguar-kin and Miri Jaguar-Shadow are both renowned hunters and are known to coordinate
   on difficult tracking.

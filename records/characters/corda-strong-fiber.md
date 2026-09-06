@@ -1,5 +1,5 @@
 ---
-id: character:ver-corda-ropes
+id: character:corda-strong-fiber
 name: Corda Strong-Fiber
 gm_notes: A rope maker who produces the binding cords that hold the stilt-city of Iara together — structural
   ropes, bridge ropes, fishing nets, and ceremonial bindings. She discovered six months ago that someone

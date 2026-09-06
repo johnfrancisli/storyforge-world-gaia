@@ -1,5 +1,5 @@
 ---
-id: character:hra-nanna-woolcoat
+id: character:nanna-woolcoat
 name: Nanna Woolcoat
 gm_notes: 'Nanna tends a flock of hardy mountain sheep on the high pastures above Skaldvik. Her secret:
   she has been finding dead sheep — not killed by wolves, not dead from exposure, but drained. The bodies

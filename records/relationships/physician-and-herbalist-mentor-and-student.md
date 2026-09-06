@@ -2,8 +2,8 @@
 id: relationship:shifa-and-afaf
 name: Physician and herbalist, mentor and student
 participants:
-- character:alk-shifa-physician
-- character:alk-afaf-herbalist
+- character:shifa-al-tabib
+- character:afaf-al-ashab
 association: mentor-student
 public_status: Afaf al-A'shab the herbalist is known to supply Shifa al-Tabib the physician with rare
   medicinal plants, and the two consult on difficult cases.

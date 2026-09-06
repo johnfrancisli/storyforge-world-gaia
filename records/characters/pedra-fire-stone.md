@@ -1,5 +1,5 @@
 ---
-id: character:ver-pedra-potter
+id: character:pedra-fire-stone
 name: Pedra Fire-Stone
 gm_notes: 'A human potter who specializes in fire-resistant cooking vessels and who maintains the kilns
   used by the community. He is Argila''s younger brother and works alongside her, though their relationship

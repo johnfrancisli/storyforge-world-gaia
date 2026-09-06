@@ -1,6 +1,6 @@
 ---
 id: relationship:cao-shen-and-lu-fang
-name: Cao Shen and General Lu Fang
+name: Cao Shen and Lu Fang
 participants:
 - character:cao-shen
 association: lord and general

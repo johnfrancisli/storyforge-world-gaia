@@ -1,5 +1,5 @@
 ---
-id: character:alk-shifa-physician
+id: character:shifa-al-tabib
 name: Shifa al-Tabib
 gm_notes: 'A physician who can heal injuries caused by djinn fire — burns that do not respond to normal
   medicine — using a salve made from the ash of a specific desert plant mixed with her own blood. The

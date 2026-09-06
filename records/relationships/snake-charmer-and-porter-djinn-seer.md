@@ -2,8 +2,8 @@
 id: relationship:hassan-and-omar
 name: Snake charmer and porter, djinn-seer
 participants:
-- character:alk-hassan-snake-charmer
-- character:alk-omar-porter
+- character:hassan-al-thalab
+- character:omar-al-hamil
 association: friendship
 public_status: The snake charmer and the porter are both minor figures of the same quarter and are known
   to share a water pipe at day's end.

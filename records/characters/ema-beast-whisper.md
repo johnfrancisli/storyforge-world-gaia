@@ -1,5 +1,5 @@
 ---
-id: character:ver-ema-trainer
+id: character:ema-beast-whisper
 name: Ema Beast-Whisper
 gm_notes: An animal trainer who works with the rainforest's creatures — capybaras as pack animals, river
   otters as scouts, and most importantly, the great winged seriemas that serve as messengers between the

@@ -1,5 +1,5 @@
 ---
-id: character:tide-iolana-feather-gift
+id: character:iolana-feather-gift
 name: Iolana Feather-Gift
 gm_notes: Iolana creates the feather cloaks and headdresses worn by chiefs and used in the most important
   ceremonies, and her work is considered the finest in the Archipelago. Her secret is that she has been

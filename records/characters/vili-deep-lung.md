@@ -1,5 +1,5 @@
 ---
-id: character:tide-vili-deep-lung
+id: character:vili-deep-lung
 name: Vili Deep-Lung
 gm_notes: Vili is a pearl diver, one of the few men in the profession, and he is known for his deep dives
   — deeper than anyone else in the Archipelago. He can reach depths that would kill most divers, and he

@@ -1,5 +1,5 @@
 ---
-id: character:san-he-jingtian
+id: character:he-jingtian
 name: He Jingtian
 gm_notes: A Wei scholar-strategist who authored the Wei warlord's most successful battle plans. He has
   had a crisis of conscience after the Battle of Sorrowful Ford, where his flanking strategy worked perfectly

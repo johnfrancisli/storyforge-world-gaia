@@ -7,9 +7,9 @@ stakes: Whoever secures the qilin-iron supply gains a material edge that could d
   state, or destroy the supply to deny it to everyone.
 pressure: rising
 participants:
-- character:san-tian-baoshan
-- character:san-zhao-tiegun
-- character:san-mo-chenyu
+- character:tian-baoshan
+- character:zhao-tiegun
+- character:mo-chenyu
 locations:
 - location:san-weidu-forge-quarter
 - location:san-weidu-garrison-barracks

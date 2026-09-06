@@ -2,8 +2,8 @@
 id: relationship:lindrel-and-rowan
 name: Two elven elders of the forests
 participants:
-- character:elf-lindrel
-- character:val-rowan-silverbranch
+- character:lindrel-of-the-greenhall
+- character:rowan-silverbranch
 association: friendship
 public_status: Lindrel of the Greenhall and Rowan Silverbranch are both elven elders of the region's forests,
   and are said to consult on woodland matters.

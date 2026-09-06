@@ -1,5 +1,5 @@
 ---
-id: character:san-kang-wenzhao
+id: character:kang-wenzhao
 name: Kang Wenzhao
 gm_notes: A scholar at the Great Academy specializing in pre-war political philosophy. He has written
   a treatise arguing that the three-state division is illegitimate and that the unified kingdom should

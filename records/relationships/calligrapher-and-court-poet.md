@@ -2,8 +2,8 @@
 id: relationship:rania-and-inas
 name: Calligrapher and court poet
 participants:
-- character:alk-rania-calligrapher
-- character:alk-inas-poet
+- character:rania-al-khatt
+- character:inas-al-shir
 association: friendship
 public_status: The master calligrapher and the court poet are known collaborators, Inas composing verses
   that Rania renders in fine script.

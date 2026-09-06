@@ -1,5 +1,5 @@
 ---
-id: character:tide-finau-cord-finger
+id: character:finau-cord-finger
 name: Finau Cord-Finger
 gm_notes: Finau makes the rope that lashes every canoe, every house, every net in the eastern islands,
   and her cord is famous for never breaking. The secret is the knot she ties at the end of every length

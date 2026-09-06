@@ -8,9 +8,9 @@ stakes: If Takeda's coalition succeeds in forcing the shogunate's hand, the prov
   grievance becomes a bloody opportunism.
 pressure: rising
 participants:
-- character:daimyo-takeda
+- character:takeda-renji
 - character:tamamo
-- character:shogun-ashikara
+- character:ashikara-yoshito
 locations:
 - location:tsuki-no-miyako
 - location:tsukuyomi

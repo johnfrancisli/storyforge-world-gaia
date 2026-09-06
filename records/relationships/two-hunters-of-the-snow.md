@@ -2,8 +2,8 @@
 id: relationship:hilla-and-ulf
 name: Two hunters of the snow
 participants:
-- character:hra-hilla-snowstep
-- character:hra-ulf-shadowstep
+- character:hilla-snowstep
+- character:ulf-shadowstep
 association: friendship
 public_status: Hilla Snowstep and Ulf Shadowstep are both hunters and trappers of the fjords and are known
   to run traplines in the same country.

@@ -1,5 +1,5 @@
 ---
-id: character:san-chen-xiuran
+id: character:chen-xiuran
 name: Chen Xiuran
 gm_notes: A herbalist who lives at the edge of the Wei mountains and gathers rare medicinal herbs. She
   is the only person who knows the location of the 'Ghost Orchid,' a flower that blooms once every twelve

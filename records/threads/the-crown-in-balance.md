@@ -7,9 +7,9 @@ stakes: If the king dies without naming an heir, civil war. If Roderick wins, th
   If Tomas wins — no one knows, including Tomas.
 pressure: rising
 participants:
-- character:king-aldran
-- character:princess-elara
-- character:prince-roderick
+- character:aldran-valdris-iii
+- character:elara-valdris
+- character:roderick-valdris
 locations:
 - location:crownhaven
 - location:valdris

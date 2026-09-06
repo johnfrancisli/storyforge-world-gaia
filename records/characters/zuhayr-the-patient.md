@@ -1,5 +1,5 @@
 ---
-id: character:djinn-zuhayr
+id: character:zuhayr-the-patient
 name: Zuhayr the Patient
 gm_notes: 'Zuhayr is not malicious. He is a djinn of fire and law, and the contract is real — Malik''s
   grandfather agreed to it, and the terms are clear. Zuhayr does not want to collect Malik. He would prefer

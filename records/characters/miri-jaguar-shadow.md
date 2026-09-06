@@ -1,5 +1,5 @@
 ---
-id: character:ver-miri-jaguarshadow
+id: character:miri-jaguar-shadow
 name: Miri Jaguar-Shadow
 gm_notes: A jaguar beast-kin hunter who is the best tracker in the western rainforest and who has been
   having recurring dreams of a black jaguar with golden eyes that speaks to her in a language she almost

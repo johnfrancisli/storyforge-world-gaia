@@ -1,5 +1,5 @@
 ---
-id: character:san-miao-qingci
+id: character:miao-qingci
 name: Miao Qingci
 gm_notes: 'A physician at the Great Academy''s medical hall who specializes in chi-pathology—the study
   of how chi disruption causes disease. She has identified a new illness she calls ''spirit-drift'' affecting

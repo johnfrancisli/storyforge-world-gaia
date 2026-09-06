@@ -1,5 +1,5 @@
 ---
-id: character:san-xu-anwen
+id: character:xu-anwen
 name: Xu Anwen
 gm_notes: A paper maker from a family of paper makers who has developed a method to infuse paper with
   chi, creating 'spirit paper' that can hold written spells and activate them when read. This is the technology

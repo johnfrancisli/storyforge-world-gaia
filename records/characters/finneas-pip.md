@@ -1,5 +1,5 @@
 ---
-id: character:val-finneas-pip
+id: character:finneas-pip
 name: Finneas Pip
 gm_notes: Finneas is a halfling tinker who travels between villages repairing pots, tools, and locks.
   He is also a master lockpick who has been secretly hired by a minor lord to copy the keys to Crownhaven's

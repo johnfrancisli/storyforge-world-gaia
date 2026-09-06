@@ -2,8 +2,8 @@
 id: relationship:king-aldran-and-gwendolyn
 name: King and baroness mediator, political confidantes
 participants:
-- character:king-aldran
-- character:val-gwendolyn-fairhold
+- character:aldran-valdris-iii
+- character:gwendolyn-fairhold
 association: secret_alliance
 public_status: Baroness Gwendolyn Fairhold is known as a political mediator occasionally summoned to the
   king's court to settle noble disputes.

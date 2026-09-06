@@ -3,7 +3,7 @@ id: relationship:malik-and-tariq-al-sayf
 name: Two binding family scions, Idris and al-Sayf
 participants:
 - character:malik-idris
-- character:alk-tariq-binding-patriarch
+- character:tariq-al-sayf
 association: rivalry
 public_status: Malik Idris of the Idris family and Tariq al-Sayf, patriarch of the al-Sayf family, are
   the two foremost figures of the binding families and their competition for Council influence is public.

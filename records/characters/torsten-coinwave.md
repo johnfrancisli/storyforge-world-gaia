@@ -1,5 +1,5 @@
 ---
-id: character:hra-torsten-coinwave
+id: character:torsten-coinwave
 name: Torsten Coinwave
 gm_notes: 'Torsten is a trader who specializes in luxury goods — silk, spices, silver jewelry — brought
   from the southern ports and sold at a premium in Hrafnland where such things are rare. His secret: he

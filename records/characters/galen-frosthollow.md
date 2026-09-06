@@ -1,5 +1,5 @@
 ---
-id: character:val-galen-frosthollow
+id: character:galen-frosthollow
 name: Galen Frosthollow
 gm_notes: Galen is a monk at the Temple of the Sacred Flame who has spent thirty years copying religious
   texts. He recently discovered that a text he copied twenty years ago — a genealogy of the royal family

@@ -1,5 +1,5 @@
 ---
-id: character:hra-isa-breadstone
+id: character:isa-breadstone
 name: Isa Breadstone
 gm_notes: 'Isa bakes flatbread for the jarl''s household — the dense, long-keeping barley bread that sustains
   Skaldvik through winter. Her secret: she has been grinding a dried root into the flour — a root that

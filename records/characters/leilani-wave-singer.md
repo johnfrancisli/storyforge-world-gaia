@@ -1,5 +1,5 @@
 ---
-id: character:tide-leilani-wave-singer
+id: character:leilani-wave-singer
 name: Leilani Wave-Singer
 gm_notes: 'Leilani makes the sails that carry every voyaging canoe in the Archipelago, and she has a gift:
   the sails she weaves catch wind that isn''t there. She has always assumed this was a blessing of her

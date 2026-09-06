@@ -1,5 +1,5 @@
 ---
-id: character:elf-lindrel
+id: character:lindrel-of-the-greenhall
 name: Lindrel of the Greenhall
 gm_notes: 'Lindrel is the last of the old elven forest-keepers of the Greenhall, an ancient forest within
   Valdris. She is two hundred and thirty years old and remembers when the dragon bond was new. She knows

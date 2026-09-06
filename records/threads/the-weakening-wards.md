@@ -7,7 +7,7 @@ stakes: If the ward chain breaks along the Cedar Road, the pilgrimage route beco
   when the boundary is weak.
 pressure: steady
 participants:
-- character:miko-sora
+- character:amemiya-sora
 locations:
 - location:tsukuyomi
 - location:haru-shrine-town

@@ -1,5 +1,5 @@
 ---
-id: character:alk-fatima-spice-trader
+id: character:fatima-bint-idris
 name: Fatima bint Idris
 gm_notes: 'A spice trader who specializes in the rarest and most dangerous commodities: spices that can
   alter emotion, induce sleep, or kill in the right dose. She inherited this trade from her mother, who

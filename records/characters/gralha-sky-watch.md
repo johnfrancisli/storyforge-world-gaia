@@ -1,5 +1,5 @@
 ---
-id: character:ver-gralha-scout
+id: character:gralha-sky-watch
 name: Gralha Sky-Watch
 gm_notes: 'A bird beast-kin scout who surveys the rainforest from above and reports movements, weather
   patterns, and threats to Iara. His secret: during a high-altitude scouting flight three weeks ago, he

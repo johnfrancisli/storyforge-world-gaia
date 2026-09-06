@@ -1,5 +1,5 @@
 ---
-id: character:tide-keola-song-keeper
+id: character:keola-song-keeper
 name: Keola Song-Keeper
 gm_notes: Keola is a song-keeper, one of the few who maintains the route-songs — the chants that wayfinders
   use to memorize the star paths and current patterns between islands. She is precise, dedicated, and

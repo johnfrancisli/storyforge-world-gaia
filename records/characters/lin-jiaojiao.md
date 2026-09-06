@@ -1,5 +1,5 @@
 ---
-id: character:san-lin-jiaojiao
+id: character:lin-jiaojiao
 name: Lin Jiaojiao
 gm_notes: An eleven-year-old girl who is the strongest unconscious chi-cultivator the Great Academy has
   seen in a century. She accidentally shattered a stone table during a tantrum at age eight and has been

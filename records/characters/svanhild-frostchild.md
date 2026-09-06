@@ -1,5 +1,5 @@
 ---
-id: character:hra-svanhild-frostchild
+id: character:svanhild-frostchild
 name: Svanhild Frostchild
 gm_notes: 'Svanhild is a child of twelve, the daughter of one of the jarl''s household guards. Her secret:
   she has been having dreams that come true. Small things — a dream about a boat sinking, and the next

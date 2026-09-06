@@ -2,8 +2,8 @@
 id: relationship:edda-and-erik-frostbeard
 name: Two elders and storytellers
 participants:
-- character:hra-edda-cloudcarver
-- character:hra-erik-frostbeard
+- character:edda-cloudcarver
+- character:erik-frostbeard
 association: friendship
 public_status: Edda Cloudcarver and Erik Frostbeard are both elders of Skaldvik and are known to trade
   stories at the longfire.

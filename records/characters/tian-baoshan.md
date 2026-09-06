@@ -1,5 +1,5 @@
 ---
-id: character:san-tian-baoshan
+id: character:tian-baoshan
 name: Tian Baoshan
 gm_notes: An iron mine foreman in the Wei mountains who discovered a vein of ore that glows faintly green
   and seems to strengthen chi in anyone who carries it. He has been secretly mining this 'qilin iron'

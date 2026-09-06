@@ -1,5 +1,5 @@
 ---
-id: character:val-daisy-teasprout
+id: character:daisy-teasprout
 name: Daisy Teasprout
 gm_notes: Daisy is a halfling girl, just twelve years old, who ran away from her village after her uncle
   — her only remaining family — began selling her belongings to pay debts. She made her way to Crownhaven

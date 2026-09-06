@@ -1,5 +1,5 @@
 ---
-id: character:val-sera-thornwick
+id: character:sera-thornwick
 name: Sera Thornwick
 gm_notes: Sera was the secret lover of Prince Edran, who died under suspicious circumstances during a
   hunt. She believes he was murdered by his uncle, Lord Cael. She has been quietly gathering evidence

@@ -1,5 +1,5 @@
 ---
-id: character:ver-ondina-deep
+id: character:ondina-deep-breath
 name: Ondina Deep-Breath
 gm_notes: 'A Mizuhito midwife who has delivered over three hundred babies — human, beast-kin, and Mizuhito
   alike — and who can hold her breath underwater for nearly an hour. Her secret is that she has delivered

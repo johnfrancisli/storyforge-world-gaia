@@ -1,5 +1,5 @@
 ---
-id: character:tide-kaimana-garden-hand
+id: character:kaimana-garden-hand
 name: Kaimana Garden-Hand
 gm_notes: 'Kaimana tends the taro gardens on the inland of a large island, the gardens that feed three
   communities. She has a secret: the gardens are failing. Not visibly — the taro still grows, the breadfruit

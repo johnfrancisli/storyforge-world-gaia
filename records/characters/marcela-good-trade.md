@@ -1,5 +1,5 @@
 ---
-id: character:ver-marcela-trades
+id: character:marcela-good-trade
 name: Marcela Good-Trade
 gm_notes: 'A trader who travels between the river city-states and carries goods, news, and sometimes people.
   She has built a reputation for fairness over twenty years. Her secret: she has been quietly smuggling

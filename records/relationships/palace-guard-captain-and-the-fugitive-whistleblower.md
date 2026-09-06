@@ -2,8 +2,8 @@
 id: relationship:mo-chenyu-and-xie-mengxue
 name: Palace guard captain and the fugitive whistleblower
 participants:
-- character:san-mo-chenyu
-- character:san-xie-mengxue
+- character:mo-chenyu
+- character:xie-mengxue
 association: enemies
 public_status: The Jin palace guard captain is tasked with internal security; the fugitive chi-cultivator
   is wanted by the Jin state. No public connection is known.

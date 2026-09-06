@@ -8,8 +8,8 @@ stakes: If Garrick accepts Roderick's offer, Roderick gains a deniable military 
   entirely.
 pressure: steady
 participants:
-- character:the-wolf
-- character:maggie-pip
+- character:garrick-moorcroft
+- character:maggie-pippin
 locations:
 - location:valdris
 organizations: []

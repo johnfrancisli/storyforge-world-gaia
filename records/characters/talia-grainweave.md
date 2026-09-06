@@ -1,5 +1,5 @@
 ---
-id: character:val-talia-grainweave
+id: character:talia-grainweave
 name: Talia Grainweave
 gm_notes: Talia is a miller who controls the only functioning mill in the Valdris countryside after the
   other two were burned in raids. She has been charging fair prices but has been secretly approached by

@@ -1,5 +1,5 @@
 ---
-id: character:val-cedric-ashford
+id: character:cedric-ashford
 name: Cedric Ashford
 gm_notes: Cedric was once a knight of the Dragon Order who broke his oath to protect a village from a
   dragon raid, fleeing instead. He carries immense guilt and has secretly abandoned his knightly identity,

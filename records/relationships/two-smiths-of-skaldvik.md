@@ -2,8 +2,8 @@
 id: relationship:ragna-and-sten
 name: Two smiths of Skaldvik
 participants:
-- character:hra-ragna-forgebreak
-- character:hra-sten-ironwake
+- character:ragna-forgebreak
+- character:sten-ironwake
 association: rivalry
 public_status: Ragna Forgebreak and Sten Ironwake are both smiths serving the Skaldvik community, and
   their competing work is a common comparison.

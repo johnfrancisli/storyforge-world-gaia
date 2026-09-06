@@ -1,5 +1,5 @@
 ---
-id: character:alk-huda-cook
+id: character:huda-al-tabbakha
 name: Huda al-Tabbakha
 gm_notes: A cook who runs a kitchen feeding the poor of the eastern quarter, funded by binding family
   charity. Huda has discovered that the grain shipments from the binding families' storehouses have been

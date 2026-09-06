@@ -1,5 +1,5 @@
 ---
-id: character:hra-yrsa-fogborn
+id: character:yrsa-fogborn
 name: Yrsa Fogborn
 gm_notes: 'Yrsa is a volva — a seeress who walks between worlds in trance. She is genuinely gifted: her
   prophecies are fragmentary but real, drawn from the seidr trance. The secret she guards: three years

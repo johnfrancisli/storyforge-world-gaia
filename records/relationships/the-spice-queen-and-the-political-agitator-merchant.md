@@ -2,8 +2,8 @@
 id: relationship:layla-and-yasmin
 name: The Spice Queen and the political agitator merchant
 participants:
-- character:spice-merchant-layla
-- character:alk-yasmin-spice-merchant
+- character:layla-al-zaffari
+- character:yasmin-al-barrani
 association: rivalry
 public_status: Layla the Spice Queen and Yasmin al-Barrani are the two most powerful spice merchants in
   Al-Khayzar, and their competition is the talk of the market.

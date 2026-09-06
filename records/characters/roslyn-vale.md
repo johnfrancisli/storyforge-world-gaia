@@ -1,5 +1,5 @@
 ---
-id: character:val-roslyn-vale
+id: character:roslyn-vale
 name: Roslyn Vale
 gm_notes: Roslyn is a fortune teller who genuinely has prophetic dreams — but they are fragmentary and
   symbolic, never clear. She dreamed of a crown falling into a dragon's mouth three nights before the

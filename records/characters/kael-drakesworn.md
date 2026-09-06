@@ -1,5 +1,5 @@
 ---
-id: character:val-kael-drakesworn
+id: character:kael-drakesworn
 name: Kael Drakesworn
 gm_notes: Kael is a young knight of the Dragon Order whose bonded dragon, a male named Voidgaze, is one
   of the largest and oldest in the Order. But Voidgaze is dying of old age — a fact Kael is hiding from

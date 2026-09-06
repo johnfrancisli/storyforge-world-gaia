@@ -1,5 +1,5 @@
 ---
-id: character:tide-hoku-star-path
+id: character:hoku-star-path
 name: Hoku Star-Path
 gm_notes: Hoku is a veteran wayfinder, one of the most experienced in the guilds, and she has sailed every
   known route in the Archipelago. She is quiet, reliable, and the person the guild sends when a route

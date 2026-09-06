@@ -1,5 +1,5 @@
 ---
-id: character:san-pan-yaqing
+id: character:pan-yaqing
 name: Pan Yaqing
 gm_notes: 'A Chu court official''s daughter who was betrothed to the Chu general who defected to Wei—Yan
   Qiulin''s missing husband. Pan and the general had a secret affair before his defection, and she helped

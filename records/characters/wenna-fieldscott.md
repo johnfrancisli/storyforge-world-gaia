@@ -1,5 +1,5 @@
 ---
-id: character:val-wenna-fieldscott
+id: character:wenna-fieldscott
 name: Wenna Fieldscott
 gm_notes: Wenna is a shepherdess who tends her flocks on the high meadows near Dragonrest. She has found
   dragon scales shed in the mountain passes — fresh ones — and has been quietly collecting and selling

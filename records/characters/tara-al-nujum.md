@@ -1,5 +1,5 @@
 ---
-id: character:alk-tara-astrologer
+id: character:tara-al-nujum
 name: Tara al-Nujum
 gm_notes: An astrologer who can read the true names of djinn in the stars — a gift no other astrologer
   in Al-Khayzar possesses. True names are the only leverage a human can hold over a djinn outside of a

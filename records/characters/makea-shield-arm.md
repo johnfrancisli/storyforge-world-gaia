@@ -1,5 +1,5 @@
 ---
-id: character:tide-makea-shield-arm
+id: character:makea-shield-arm
 name: Makea Shield-Arm
 gm_notes: Makea is a guard on Lani Atoll who patrols the meeting house and the chief's compound. He is
   large, gentle, and loyal, and most people see him as a friendly presence rather than a warrior. His

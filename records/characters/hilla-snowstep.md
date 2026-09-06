@@ -1,5 +1,5 @@
 ---
-id: character:hra-hilla-snowstep
+id: character:hilla-snowstep
 name: Hilla Snowstep
 gm_notes: 'Hilla hunts the mountain forests above Skaldvik for deer, elk, and occasionally bear. Her secret:
   she has found tracks in the high passes that are not bear, not elk, not human — tracks that are enormous,

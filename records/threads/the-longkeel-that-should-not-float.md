@@ -8,9 +8,9 @@ stakes: If the ship launches flawed, it could founder on its first voyage—taki
   the ship sails regardless.
 pressure: rising
 participants:
-- character:hra-bjorn-keelwright
-- character:hra-haldur-blackrune
-- character:jarl-sigrid
+- character:bjorn-keelwright
+- character:haldur-blackrune
+- character:sigrid-hallvarsdottir
 locations:
 - location:hra-drekahofn-shipyard
 - location:hra-drekahofn-prows

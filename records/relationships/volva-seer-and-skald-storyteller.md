@@ -2,8 +2,8 @@
 id: relationship:yrsa-and-eira
 name: Volva seer and skald storyteller
 participants:
-- character:hra-yrsa-fogborn
-- character:hra-eira-nighttorch
+- character:yrsa-fogborn
+- character:eira-nighttorch
 association: friendship
 public_status: The seer and the skald are often seen together, the one who sees the future and the one
   who remembers the past.

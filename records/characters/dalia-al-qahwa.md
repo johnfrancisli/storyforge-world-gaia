@@ -1,5 +1,5 @@
 ---
-id: character:alk-dalia-coffee-house-owner
+id: character:dalia-al-qahwa
 name: Dalia al-Qahwa
 gm_notes: 'The owner of The Amber Lamp, the oldest coffee house in Zaffar, where the Pact of the Lamp
   was supposedly negotiated over coffee four centuries ago. Dalia''s coffee house has a standing tradition:

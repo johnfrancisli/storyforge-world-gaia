@@ -2,8 +2,8 @@
 id: relationship:astrid-and-ingrid
 name: Raid captain and guard captain
 participants:
-- character:hra-astrid-blacktide
-- character:hra-ingrid-watchpeak
+- character:astrid-blacktide
+- character:ingrid-watchpeak
 association: rivalry
 public_status: The raid captain and the guard captain are the two foremost women-at-arms of Skaldvik,
   and their differing views on the settlement's future are well known.

@@ -1,5 +1,5 @@
 ---
-id: character:alk-omar-porter
+id: character:omar-al-hamil
 name: Omar al-Hamil
 gm_notes: 'A male porter who works the spice market docks, carrying crates and bales for merchants. Omar
   is developmentally disabled — he does not speak and struggles with complex tasks — but he has an extraordinary

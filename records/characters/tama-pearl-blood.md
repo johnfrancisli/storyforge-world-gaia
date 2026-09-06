@@ -1,5 +1,5 @@
 ---
-id: character:tide-tama-pearl-blood
+id: character:tama-pearl-blood
 name: Tama Pearl-Blood
 gm_notes: Tama is a young pearl diver, apprenticed to Hina Deepwater, and she is nearly as skilled as
   her teacher — at nineteen, she can already hold her breath for four minutes. She does not know that

@@ -2,8 +2,8 @@
 id: relationship:karim-and-muna
 name: Caravan guard captain and falconer
 participants:
-- character:alk-karim-caravan-guard
-- character:alk-muna-falconer
+- character:karim-al-qafila
+- character:muna-al-saqr
 association: friendship
 public_status: The caravan guard captain and the falconer work the same desert routes and are known to
   coordinate on caravan security, her birds scouting the road.

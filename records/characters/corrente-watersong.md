@@ -1,5 +1,5 @@
 ---
-id: character:ver-corrente-watersong
+id: character:corrente-watersong
 name: Corrente Watersong
 gm_notes: A Mizuhito river pilot who knows every submerged channel between Iara and the distant salt mouth
   — knowledge she inherited from her mother, who drowned under circumstances no one will discuss. Corrente

@@ -1,5 +1,5 @@
 ---
-id: character:san-guo-mingyue
+id: character:guo-mingyue
 name: Guo Mingyue
 gm_notes: 'A jade carver whose work is sought after by all three courts. She has discovered that a specific
   type of jade, when carved with precise geometric patterns, can store and release chi in controlled bursts.

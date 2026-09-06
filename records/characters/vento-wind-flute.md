@@ -1,5 +1,5 @@
 ---
-id: character:ver-vento-flutes
+id: character:vento-wind-flute
 name: Vento Wind-Flute
 gm_notes: A bird beast-kin flute player whose melodies can calm animals, soothe spirits, and — though
   she has only done it once — command the wind itself. She discovered the wind-command melody by accident

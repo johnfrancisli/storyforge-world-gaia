@@ -2,8 +2,8 @@
 id: relationship:shiori-and-akira
 name: Librarian and scholar, intellectual rivals
 participants:
-- character:tsu-shiori-librarian
-- character:tsu-akira-teacher
+- character:minase-shiori
+- character:kuroda-akira
 association: rivalry
 public_status: The archivist and the tutor are known to debate historical interpretation at length, sometimes
   heatedly, in the library reading room.

@@ -1,5 +1,5 @@
 ---
-id: character:val-lyria-ironheart
+id: character:lyria-ironheart
 name: Lyria Ironheart
 gm_notes: Secretly the illegitimate daughter of the late King Aldric and a blacksmith's daughter. Her
   birth was hidden to protect the succession line. A sealed letter from her mother, only to be opened

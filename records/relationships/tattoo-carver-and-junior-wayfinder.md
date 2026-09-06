@@ -2,8 +2,8 @@
 id: relationship:mana-and-fetu
 name: Tattoo-carver and junior wayfinder
 participants:
-- character:tattoo-artist-mana
-- character:tide-fetu-star-reader
+- character:mana-tide-ink
+- character:fetu-star-reader
 association: mentor-student
 public_status: Mana the Tattoo-carver is known to mark the routes on the bodies of navigators, and Fetu
   Star-Reader, a junior wayfinder, is among those she has carved.

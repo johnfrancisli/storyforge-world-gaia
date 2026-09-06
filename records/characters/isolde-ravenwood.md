@@ -1,5 +1,5 @@
 ---
-id: character:val-isolde-ravenwood
+id: character:isolde-ravenwood
 name: Isolde Ravenwood
 gm_notes: Isolde is a healer who once served the royal family directly. She was dismissed after she failed
   to save the queen from a mysterious illness — but she believes the queen was poisoned, and that the

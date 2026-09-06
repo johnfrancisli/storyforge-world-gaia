@@ -1,5 +1,5 @@
 ---
-id: character:tide-pili-bone-cutter
+id: character:pili-bone-cutter
 name: Pili Bone-Cutter
 gm_notes: Pili is a bone carver who creates tools, fishhooks, and ornaments from the bones of fish and
   sea mammals. She is skilled and respected and has been trading her work for years. Her secret is that

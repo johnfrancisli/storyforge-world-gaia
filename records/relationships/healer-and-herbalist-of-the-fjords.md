@@ -2,8 +2,8 @@
 id: relationship:siv-and-dis-lea
 name: Healer and herbalist of the fjords
 participants:
-- character:hra-siv-frostborn
-- character:hra-dis-lea
+- character:siv-frostborn
+- character:dis-lea
 association: friendship
 public_status: The healer and the herbalist are known to work closely together, Siv treating wounds and
   Dis Lea providing the medicines.

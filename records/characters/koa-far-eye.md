@@ -1,5 +1,5 @@
 ---
-id: character:tide-koa-far-eye
+id: character:koa-far-eye
 name: Koa Far-Eye
 gm_notes: Koa is a scout who watches the southern approaches to the Archipelago from a watchtower on the
   southernmost inhabited island. He is young, sharp-eyed, and reliable, and his reports of weather and

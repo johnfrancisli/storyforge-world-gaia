@@ -1,5 +1,5 @@
 ---
-id: character:san-wei-fengge
+id: character:wei-fengge
 name: Wei Fengge
 gm_notes: A calligrapher of extraordinary talent whose brushwork is said to carry chi that can calm or
   agitate the viewer. This is not superstition—she is an unconscious chi-cultivator who channels emotional

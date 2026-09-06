@@ -2,8 +2,8 @@
 id: relationship:marcela-and-suri
 name: Inter-tribal trader and salt-trade journey leader
 participants:
-- character:ver-marcela-trades
-- character:ver-suri-scales
+- character:marcela-good-trade
+- character:suri-salt-scales
 association: rivalry
 public_status: Marcela Good-Trade and Suri Salt-Scales are both women who lead trade journeys between
   the tribes and are known to compete for routes and contracts.

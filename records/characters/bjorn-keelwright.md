@@ -1,5 +1,5 @@
 ---
-id: character:hra-bjorn-keelwright
+id: character:bjorn-keelwright
 name: Bjorn Keelwright
 gm_notes: 'Bjorn is a master shipwright who lays the keels — the first timber, the spine of every longship.
   He is Greta''s senior in the yard, and the two work together. His secret: he knows the clinker-planking

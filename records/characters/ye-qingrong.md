@@ -1,5 +1,5 @@
 ---
-id: character:san-ye-qingrong
+id: character:ye-qingrong
 name: Ye Qingrong
 gm_notes: A chi-cultivation nun who runs a small mountain monastery that is a refuge for women fleeing
   abusive situations in all three states. She is Qin Baotian's sister—the one who performs the chi-war-rituals

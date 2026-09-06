@@ -1,5 +1,5 @@
 ---
-id: character:ver-sangue-guard
+id: character:sangue-iron-heart
 name: Sangue Iron-Heart
 gm_notes: 'A jaguar beast-kin guard who protects the chief of the Verdana tribe and has done so for twelve
   years with unwavering loyalty. Her secret: she is in love with the chief''s wife, Yara Moonflower''s

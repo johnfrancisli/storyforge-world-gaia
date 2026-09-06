@@ -1,5 +1,5 @@
 ---
-id: character:tsu-goki-oni
+id: character:goki
 name: Goki
 gm_notes: Goki is an oni — a demon of mountain and rage — who was sealed by a shrine maiden 200 years
   ago in a cave in the Tsukuyomi mountains. The shrine maiden who bound him was the first human to show

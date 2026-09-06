@@ -1,5 +1,5 @@
 ---
-id: character:ver-toba-fisher
+id: character:toba-net-caster
 name: Toba Net-Caster
 gm_notes: 'A Mizuhito fisher who provides much of Iara''s daily catch and who has an extraordinary ability
   to predict where fish will be on any given day. His secret: he has been fishing a stretch of river that
