@@ -1001,6 +1001,18 @@ python rpg/tools/world.py check <slug>
 
 It reports two kinds of thing.
 
+It also reports **field drift** — records of one type that have stopped
+carrying the same shape. Two kinds, and the first matters more:
+
+- **`apperance` is not a field of this type (did you mean `appearance`?)** — a
+  misspelled field is a paragraph nothing will ever read, and without this
+  nothing says so.
+- **`key_phrases` is missing from 20 of 37** — usually a field added to the
+  template after those records were written.
+
+Both are grouped by field rather than listed per record, because three hundred
+lines about one missing key is not a report anybody reads.
+
 **Errors** — fix before importing:
 
 - A `rules/*.md` naming a slot that does not exist. This is the one that
