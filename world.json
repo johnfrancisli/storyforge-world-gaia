@@ -1,0 +1,460 @@
+{
+  "_about": [
+    "A world, as one file. Fill it in, then run:",
+    "    python rpg/tools/world_import.py docs/world-template/world.json --dry-run",
+    "and when it reports clean, run it again without --dry-run.",
+    "",
+    "Every block has a `_help` key explaining what it is and what it may contain.",
+    "`_help` keys are stripped on import; leave them or delete them, it makes no",
+    "difference. Every value below is a PLACEHOLDER — replace all of it.",
+    "",
+    "`_layer` on each block says who owns it (see LAYERS.md):",
+    "  world  — yours, nothing else has an opinion",
+    "  kit    — you are replacing an engine default; fine, and only affects you",
+    "",
+    "`_status` says how far the engine consumes it today:",
+    "  live     — read by the engine now",
+    "  stored   — saved on the record, not yet read by anything",
+    "  planned  — has no home yet; the importer will tell you and skip it"
+  ],
+  "world": {
+    "_help": [
+      "Identity. Becomes the `worlds` row. `genre` seeds your calendar and tone",
+      "set, so pick it before those blocks. `theme` is a one-word steer used in",
+      "scene prompts (grounded, cozy, light-novel...).",
+      "`image_profile` must be one the appliance supports; leave it unless you",
+      "know you want another."
+    ],
+    "_layer": "world",
+    "_status": "live",
+    "id": "world-4596a5b0-2b95-4aad-86b2-779e97d470e6",
+    "name": "PLACEHOLDER World Name",
+    "tagline": "One line a player sees before their first turn.",
+    "description": "Two or three sentences. What this place is, and what is already wrong with it.",
+    "genre": "Fantasy",
+    "theme": "grounded",
+    "narration_model": "narrator-large",
+    "image_profile": "oneobsession-v23"
+  },
+  "voice": {
+    "_help": [
+      "How the world sounds. The engine already enforces how narration BEHAVES",
+      "— second person, player agency, who can know what. This is the part that",
+      "is yours: register, refusals, and whether there is a named narrator.",
+      "",
+      "`narrator` empty means a clean unnamed narrator, which is a real choice.",
+      "A named one is a character, and characters can be wrong — say what they",
+      "are not allowed to know.",
+      "",
+      "`sample_paragraph` is the most useful field here. Four sentences of an",
+      "ordinary moment in the voice you want."
+    ],
+    "_layer": "world",
+    "_status": "stored",
+    "register": "Plain, close, unhurried. Concrete nouns. No ornament for its own sake.",
+    "narrator": {
+      "name": "",
+      "who_they_are": "",
+      "what_they_cannot_know": ""
+    },
+    "never": [
+      "No prophecy.",
+      "Nobody explains how the world works mid-scene.",
+      "No scene closes on weather."
+    ],
+    "sample_paragraph": "Write four sentences here, in the voice you want. This does more work than every adjective above it."
+  },
+  "art": {
+    "_help": [
+      "What every picture in this world carries. `global_prompt` is appended to",
+      "each image prompt; `negative_prompt` is ruled out of all of them.",
+      "",
+      "The engine decides SIZE and FRAMING per record type and you cannot change",
+      "those — a scene renders 1216x832, a record 896x1152, a portrait 832x1216,",
+      "because those are the image model's native buckets. See LAYERS.md.",
+      "",
+      "`entry_type_styles` overrides the engine's per-type defaults. Leave it",
+      "empty and you inherit sensible ones. Overriding a style does NOT remove",
+      "the framing tags — you can restyle your art, you cannot make it",
+      "uncroppable."
+    ],
+    "_layer": "world, except entry_type_styles which is kit",
+    "_status": "live",
+    "global_prompt": "Describe the medium, palette, light and finish. Long is fine; this is a tag block, not a sentence.",
+    "negative_prompt": "",
+    "entry_type_styles": {}
+  },
+  "calendar": {
+    "_help": [
+      "Time. Leave this block out entirely and you get a calendar seeded from",
+      "your genre, which is usually enough to start.",
+      "`day_phases` is what the tracker shows instead of clock time.",
+      "`start` is where the campaign opens; `month_index` is zero-based."
+    ],
+    "_layer": "world",
+    "_status": "live",
+    "era_label": "AM",
+    "year": 412,
+    "months": [
+      "Month One",
+      "Month Two",
+      "Month Three",
+      "Month Four",
+      "Month Five",
+      "Month Six",
+      "Month Seven",
+      "Month Eight",
+      "Month Nine",
+      "Month Ten",
+      "Month Eleven",
+      "Month Twelve"
+    ],
+    "seasons": [
+      "Spring",
+      "Summer",
+      "Autumn",
+      "Winter"
+    ],
+    "days_per_month": 30,
+    "day_phases": [
+      "Dawn",
+      "Morning",
+      "Midday",
+      "Afternoon",
+      "Dusk",
+      "Night"
+    ],
+    "start": {
+      "year": 412,
+      "month_index": 8,
+      "day": 15,
+      "phase": "Dawn"
+    }
+  },
+  "tones": {
+    "_help": [
+      "What your campaign accumulates. Exactly SEVEN; five of one forges a",
+      "Momento — a real item linked to the scenes that earned it.",
+      "",
+      "Leave this out to inherit seven seeded from your genre. If you write your",
+      "own, they should be moods a scene can be tagged with, not virtues. Avoid",
+      "borrowing another setting's cosmology; that is how a world ends up",
+      "wearing someone else's clothes.",
+      "",
+      "`id` is lowercase and stable. `label` is what the panel shows."
+    ],
+    "_layer": "world",
+    "_status": "live",
+    "set": [
+      {
+        "id": "tone-one",
+        "label": "Placeholder One",
+        "summary": "What a scene tagged this feels like."
+      },
+      {
+        "id": "tone-two",
+        "label": "Placeholder Two",
+        "summary": ""
+      },
+      {
+        "id": "tone-three",
+        "label": "Placeholder Three",
+        "summary": ""
+      },
+      {
+        "id": "tone-four",
+        "label": "Placeholder Four",
+        "summary": ""
+      },
+      {
+        "id": "tone-five",
+        "label": "Placeholder Five",
+        "summary": ""
+      },
+      {
+        "id": "tone-six",
+        "label": "Placeholder Six",
+        "summary": ""
+      },
+      {
+        "id": "tone-seven",
+        "label": "Placeholder Seven",
+        "summary": ""
+      }
+    ]
+  },
+  "terminology": {
+    "_help": [
+      "Words this world uses for things the engine has generic names for. Keep",
+      "it short — this is pinned context and every line costs budget on every",
+      "turn. Only include words a narrator would get WRONG without being told."
+    ],
+    "_layer": "world",
+    "_status": "live",
+    "terms": {
+      "the currency": "PLACEHOLDER",
+      "the ruling body": "PLACEHOLDER",
+      "what people call outsiders": "PLACEHOLDER"
+    }
+  },
+  "locations": {
+    "_help": [
+      "Places. `id` must be unique and is what everything else points at — use",
+      "`location:slug` and never change it afterwards.",
+      "",
+      "`parent_location_id` builds the containment tree, and that tree is what",
+      "makes jurisdiction real: a patrol belonging to one polity has no business",
+      "inside another. Set it even for obvious things.",
+      "",
+      "`map_size_ft` and `rooms` are only needed for interiors you will draw a",
+      "floorplan for. Leave them out for a region."
+    ],
+    "_layer": "world",
+    "_status": "live",
+    "entries": [
+      {
+        "id": "location:region-one",
+        "name": "PLACEHOLDER Region",
+        "visibility": "shared",
+        "payload": {
+          "summary": "One paragraph. What it is, who holds it, what it is like to be there.",
+          "parent_location_id": null,
+          "jurisdiction": "Who rules here, and how lightly.",
+          "terrain": "",
+          "resources": []
+        }
+      },
+      {
+        "id": "location:opening-scene",
+        "name": "PLACEHOLDER Opening Place",
+        "visibility": "shared",
+        "payload": {
+          "summary": "Where the first turn happens. Be concrete: light, sound, who else is here.",
+          "parent_location_id": "location:region-one",
+          "jurisdiction": "",
+          "map_size_ft": {
+            "width": 72,
+            "height": 48
+          },
+          "rooms": [],
+          "portals": [],
+          "pins": []
+        }
+      }
+    ]
+  },
+  "organizations": {
+    "_help": [
+      "Factions, houses, guilds, companies. `pressure` is the field that makes",
+      "one generative rather than decorative: something this group wants that is",
+      "not going well, and a sense of how close it is to acting.",
+      "",
+      "NOTE: `pressure` on an organization is stored but nothing moves it yet",
+      "(Phase 2, W2.2). Threads already carry a live `pressure`."
+    ],
+    "_layer": "world",
+    "_status": "stored",
+    "entries": [
+      {
+        "id": "org:placeholder",
+        "name": "PLACEHOLDER Faction",
+        "visibility": "shared",
+        "payload": {
+          "summary": "What they are and what they are for.",
+          "seat": "location:region-one",
+          "wants": "The thing they are trying to get.",
+          "pressure": "rising",
+          "holdings": [
+            "location:region-one"
+          ]
+        }
+      }
+    ]
+  },
+  "characters": {
+    "_help": [
+      "People. The player's own character is created with the campaign, not",
+      "here — these are everyone else.",
+      "",
+      "`appearance` is prose the image pipeline reads. `visual_identity` is the",
+      "anchor that keeps portraits consistent across generations: put the",
+      "unchanging things there (hair, eyes, a scar), not today's mood.",
+      "",
+      "`gm_notes` is GM-private and never reaches the narrator or any NPC.",
+      "Put what they are hiding there, not in `summary`.",
+      "",
+      "`current_state.location` is LIVE: when the player is at that location,",
+      "this person is named to the narrator and the planner as being present.",
+      "Use a location id from the block above. `home` is the fallback for",
+      "where they are when nothing has moved them."
+    ],
+    "_layer": "world",
+    "_status": "live",
+    "entries": [
+      {
+        "id": "character:placeholder-one",
+        "name": "PLACEHOLDER Person",
+        "visibility": "shared",
+        "gm_notes": "What this person is hiding. Private.",
+        "payload": {
+          "summary": "Who they are, in two sentences a stranger could observe.",
+          "role": "",
+          "appearance": "Prose. What someone sees on meeting them.",
+          "visual_identity": {
+            "hair": "",
+            "eyes": "",
+            "distinctive_features": ""
+          },
+          "affiliations": [
+            "org:placeholder"
+          ],
+          "desires": [
+            "The thing they want and will act on."
+          ],
+          "fears_or_limits": [
+            "The thing that stops them."
+          ],
+          "current_state": {
+            "location": "location:opening-scene"
+          }
+        }
+      }
+    ]
+  },
+  "relationships": {
+    "_help": [
+      "Bonds between people. Keep the shared and private halves separate:",
+      "`public_status` is what anyone can observe; `bond` is your assessment and",
+      "stays GM-side.",
+      "",
+      "`disposition` is a number from -100 to 100. It is stored today and does",
+      "not drift on its own yet (Phase 2, W2.3)."
+    ],
+    "_layer": "world",
+    "_status": "stored",
+    "entries": [
+      {
+        "id": "relationship:placeholder",
+        "name": "PLACEHOLDER and PLACEHOLDER",
+        "visibility": "shared",
+        "payload": {
+          "participants": [
+            "character:placeholder-one"
+          ],
+          "association": "colleagues",
+          "public_status": "What a bystander would say about these two.",
+          "bond": "What is actually going on. GM-side.",
+          "disposition": 0
+        }
+      }
+    ]
+  },
+  "threads": {
+    "_help": [
+      "The engine of the campaign. A thread is something unresolved that will",
+      "get worse if ignored.",
+      "",
+      "`next_possible_moves` is the most valuable field in this file. Write the",
+      "two or three things that could happen NEXT if the player does nothing.",
+      "It is what stops a scene ending on a still frame, and you should revise",
+      "it as the campaign moves.",
+      "",
+      "`pressure` here IS live. `stakes` is what is lost if it resolves badly."
+    ],
+    "_layer": "world",
+    "_status": "live",
+    "entries": [
+      {
+        "id": "thread:opening",
+        "name": "PLACEHOLDER Opening Thread",
+        "visibility": "shared",
+        "payload": {
+          "thread_type": "quest",
+          "summary": "The situation the campaign opens inside.",
+          "stakes": "What is lost if this goes badly.",
+          "pressure": "rising",
+          "participants": [
+            "character:placeholder-one"
+          ],
+          "locations": [
+            "location:opening-scene"
+          ],
+          "organizations": [
+            "org:placeholder"
+          ],
+          "known_clues": [],
+          "next_possible_moves": [
+            "Something that happens on its own if nobody intervenes.",
+            "Someone acting on what they want.",
+            "A deadline arriving."
+          ],
+          "resolution": null
+        }
+      }
+    ]
+  },
+  "lore": {
+    "_help": [
+      "Prose. Religions, histories, laws, languages, how the world got here.",
+      "",
+      "Do not reach for a record here unless something must point at it, be",
+      "counted, appear in a panel, or be hidden from the player. Until then a",
+      "paragraph in your world/*.md files is better — see MIGRATING.md.",
+      "",
+      "`context_tier` controls whether the narrator may reason about it:",
+      "pinned (always) / partial (one line) / searchable / hidden."
+    ],
+    "_layer": "world",
+    "_status": "live",
+    "entries": [
+      {
+        "id": "lore:placeholder",
+        "name": "PLACEHOLDER Belief or History",
+        "visibility": "shared",
+        "context_tier": "partial",
+        "payload": {
+          "summary": "The thing itself, written to be read aloud rather than filed."
+        }
+      }
+    ]
+  },
+  "items": {
+    "_help": [
+      "Objects worth naming. `appearance` feeds the image pipeline; keep story",
+      "and provenance in `description`, which the pipeline never reads."
+    ],
+    "_layer": "world",
+    "_status": "live",
+    "entries": [
+      {
+        "id": "item:placeholder",
+        "name": "PLACEHOLDER Object",
+        "visibility": "shared",
+        "payload": {
+          "item_type": "tool",
+          "appearance": "What it looks like. Material, wear, size.",
+          "description": "What it means and where it came from.",
+          "item_tags": []
+        }
+      }
+    ]
+  },
+  "campaign": {
+    "_help": [
+      "The opening. One campaign is created from this; you can make more later",
+      "in the app.",
+      "",
+      "`player_name` and `character_class` are the player's, and the engine",
+      "builds their character record. `current_location` must be one of the",
+      "location ids above."
+    ],
+    "_layer": "world",
+    "_status": "live",
+    "title": "PLACEHOLDER Campaign Title",
+    "player_name": "PLACEHOLDER",
+    "character_class": "PLACEHOLDER",
+    "current_location": "location:opening-scene",
+    "current_quest": "What the player thinks they are doing on turn one.",
+    "opening_scene": "Two or three sentences of where they are and what is happening as play begins."
+  }
+}
