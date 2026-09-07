@@ -13,36 +13,51 @@ gm_notes: Rotama is a sail maker's apprentice who works under Leilani Wave-Singe
   around. It is north of the Archipelago, high in the sky, and it is getting larger. She has not told
   Leilani because she does not know how to describe what she sees without sounding insane.
 aliases: []
-race: ''
-gender: ''
-age: fifteen
-heritage: ''
-social_station: ''
+race: Human
+gender: Female
+age: 15
+heritage: Archipelagan
+social_station: Artisan
 role: Sail maker's apprentice
-proficient_skills: []
+proficient_skills:
+- Crafting (Sailmaking)
+- Sewing
+- Seamanship
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 2
+  hp: 36
+  mana: 41
+  stamina: 45
+  speed: 25
+  defense: 21
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 13
+    DEX: 10
+    CON: 12
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 5
+  silver: 7
+  copper: 23
 appearance: A small, quiet girl with a sail maker's stained hands and a tendency to watch the sky when
   others watch the sea. She is diligent and eager to please and terrified of something she cannot explain.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Rotama is a sail maker's apprentice who works under Leilani Wave-Singer. She is quiet, diligent,
+  and learns fast. She is fifteen and one of the youngest apprentices in the craft. Her secret is that
+  she can see the wind. Not feel it — see it. The air moves in visible currents to her eyes, colored faintly
+  by temperature and moisture. She has always seen this and assumed everyone did. When she realized that
+  others could not, she said nothing, because the ability lets her trim sails more precisely than any
+  sailor and she did not want to be treated as a freak. But she has been watching the wind patterns change
+  over the past year, and what she sees terrifies her. The wind is not just changing direction — it is
+  being displaced. Something is pushing the air aside, something very large and very high that she can
+  see only as a disturbance in the wind patterns — a shape that is not visible but that the wind flows
+  around. It is north of the Archipelago, high in the sky, and it is getting larger. She has not told
+  Leilani because she does not know how to describe what she sees without sounding insane.
+personality: Precise and detail-oriented, reserved and soft-spoken, guarded and cautious with trust.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
 visual:
   body_build: small, quiet, quick-handed
   skin: light brown
@@ -68,5 +83,7 @@ current_state:
   location: location:lani-atoll
 purview: []
 ---
+
+
 
 A fifteen-year-old sail maker's apprentice who can see the wind — and who has been watching something invisible displace the air north of the Archipelago. It is large, high, and growing.

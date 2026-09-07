@@ -7,35 +7,46 @@ gm_notes: The greatest acupuncturist in Jin-an and secretly a chi-cultivation ma
   'incurable' patients and both times the extracted corruption coalesced into a small black stone she
   keeps in a sealed box. She fears the stones are accumulating something aware.
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Female
 age: 52
-heritage: ''
-social_station: ''
+heritage: Sangguo (Jin)
+social_station: Artisan
 role: Master physician and acupuncturist
-proficient_skills: []
+proficient_skills:
+- Medicine
+- Diagnosis
+- Lore (Anatomy)
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 6
+  hp: 53
+  mana: 68
+  stamina: 58
+  speed: 29
+  defense: 21
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 11
+    WIS: 14
+    CHA: 11
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 2
+  silver: 3
+  copper: 8
 appearance: Calm and attentive, wearing simple linen healer's robes. Always carries a silk needle roll.
-biography: ''
-personality: ''
-key_phrases: []
+biography: The greatest acupuncturist in Jin-an and secretly a chi-cultivation master who can sense illness
+  in a patient's meridian flow by touch. She learned her arts from a wandering qilin-spirit monk who left
+  her a jade needle that can actually draw corrupted chi out of a body. She has used it twice to cure
+  'incurable' patients and both times the extracted corruption coalesced into a small black stone she
+  keeps in a sealed box. She fears the stones are accumulating something aware.
+personality: Composed and even-tempered, guarded and cautious with trust, carries a secret that shapes
+  every decision.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
+- I will not rest until I understand what the black stones are becoming.
 visual:
   body_build: compact and sturdy
   hair: silver-streaked black, practical bun
@@ -57,5 +68,8 @@ current_state:
   location: location:jin-an
 purview: []
 ---
+
+
+
 
 A renowned physician-acupuncturist whose clinic in Jin-an is always crowded with patients from every social class.

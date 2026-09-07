@@ -5,43 +5,56 @@ gm_notes: Kenta is Chiyo's (character:kobayashi-chiyo) best friend and the only 
   about seeing spirits. He's been helping her feed the kitsune cub in the shrine grove. Three days ago,
   he found an old ofuda — a spirit ward — half-buried in the ruins near the shrine and has been carrying
   it in his shirt as a lucky charm. He doesn't know it's a genuine, powerful ward that's been protecting
-  them both from the shadow-creature that Obaba Kiku (character:matsuda-kiku) has been warning
-  about — the same thing Chiyo calls the 'tall shadow with too many eyes.' The ward's power is fading,
-  and when it goes, whatever it's been holding back will notice the two children who've been visiting
-  the sealed stone.
+  them both from the shadow-creature that Obaba Kiku (character:matsuda-kiku) has been warning about —
+  the same thing Chiyo calls the 'tall shadow with too many eyes.' The ward's power is fading, and when
+  it goes, whatever it's been holding back will notice the two children who've been visiting the sealed
+  stone.
 aliases:
-- 'Kenta'
-race: ''
-gender: ''
-age: twelve
-heritage: ''
-social_station: ''
+- Kenta
+race: Kitsune (Yokai)
+gender: Male
+age: 12
+heritage: Tsukuyomi
+social_station: Commoner
 role: Child
-proficient_skills: []
+proficient_skills:
+- Streetwise
+- Sneaking
+- Survival
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 1
+  hp: 22
+  mana: 25
+  stamina: 31
+  speed: 29
+  defense: 19
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
   gold: 0
   silver: 0
-  copper: 0
+  copper: 2
 appearance: He wears a plain boy's kimono with a cloth satchel slung across one shoulder. He has scrapes
   on his knees from climbing and a slingshot tucked in his sash. He walks with the squared shoulders of
   someone trying to look older than he is.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Kenta is Chiyo's (character:kobayashi-chiyo) best friend and the only person who believes her
+  about seeing spirits. He's been helping her feed the kitsune cub in the shrine grove. Three days ago,
+  he found an old ofuda — a spirit ward — half-buried in the ruins near the shrine and has been carrying
+  it in his shirt as a lucky charm. He doesn't know it's a genuine, powerful ward that's been protecting
+  them both from the shadow-creature that Obaba Kiku (character:matsuda-kiku) has been warning about —
+  the same thing Chiyo calls the 'tall shadow with too many eyes.' The ward's power is fading, and when
+  it goes, whatever it's been holding back will notice the two children who've been visiting the sealed
+  stone.
+personality: Wary and watchful, perceptive and watchful, reserved and soft-spoken.
+key_phrases:
+- I'm not afraid. I'm just... careful.
+- When you're small, you learn to notice things.
+- I will not rest until I protect chiyo from the things she sees — even if he can't see them himself.
 visual:
   body_build: lean, growing fast
   hair: black, cropped short
@@ -63,4 +76,6 @@ current_state:
 purview: []
 ---
 
-A boy of twelve in Haru's Shrine Town, practical and protective of his younger friend Chiyo. He carries a school satchel and a slingshot and takes his self-appointed role as Chiyo's guardian very seriously. He doesn't believe in ghosts — he just believes in Chiyo.
+
+
+A boy of twelve in [[location:haru-shrine-town|Haru's Shrine Town]], practical and protective of his younger friend Chiyo. He carries a school satchel and a slingshot and takes his self-appointed role as Chiyo's guardian very seriously. He doesn't believe in ghosts — he just believes in Chiyo.

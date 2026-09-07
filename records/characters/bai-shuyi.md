@@ -9,36 +9,47 @@ gm_notes: An archivist at the Great Academy who has discovered a sealed scroll r
   legitimacy of all three warlords. She has been slowly copying the records and hiding the copies in different
   locations, preparing for the day she must release them.
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Female
 age: 58
-heritage: ''
-social_station: ''
+heritage: Sangguo (Jin)
+social_station: Commoner
 role: Senior archivist and keeper of forbidden history
-proficient_skills: []
+proficient_skills:
+- Research
+- Lore (History)
+- Calligraphy
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 9
+  hp: 68
+  mana: 76
+  stamina: 71
+  speed: 30
+  defense: 21
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 14
+    WIS: 12
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 4
+  silver: 18
+  copper: 21
 appearance: Bookish and unobtrusive, always in Academy brown robes. Carries a scroll-case and reading
   spectacles.
-biography: ''
-personality: ''
-key_phrases: []
+biography: An archivist at the Great Academy who has discovered a sealed scroll repository beneath the
+  library containing pre-war records from before the three states split. The records reveal that the original
+  unified kingdom fell not through conquest but through a deliberate chi-ritual gone wrong—a ritual the
+  current warlords' ancestors attempted to harness a qilin spirit's power. The ritual shattered the kingdom
+  and scattered qilin spirits across the land. If this knowledge became public, it would undermine the
+  legitimacy of all three warlords. She has been slowly copying the records and hiding the copies in different
+  locations, preparing for the day she must release them.
+personality: Guarded and cautious with trust, blunt and rough-spoken.
+key_phrases:
+- History is not the past. It is the argument about the past.
+- What is written can be unwritten. What is burned cannot.
 visual:
   body_build: slight and slightly stooped from years at reading desks
   hair: white, in a tight bun
@@ -60,5 +71,8 @@ current_state:
   location: location:jin-an
 purview: []
 ---
+
+
+
 
 A quiet, meticulous archivist at the Great Academy's grand library who knows every shelf, scroll, and secret catalog by heart.

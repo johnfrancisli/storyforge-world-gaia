@@ -9,38 +9,50 @@ gm_notes: 'Siv is a healer who combines herbalism with seidr — a rare and some
   something: every time she uses it deeply, she loses a small memory — a face, a name, a day from her
   childhood. She has been healing for fifteen years, and her early memories are now full of holes.'
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Female
 age: 36
-heritage: ''
-social_station: ''
+heritage: Hrafnish
+social_station: Artisan
 role: Healer
-proficient_skills: []
+proficient_skills:
+- Medicine
+- Herbalism
+- First Aid
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 7
+  hp: 58
+  mana: 72
+  stamina: 58
+  speed: 28
+  defense: 22
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 11
+    WIS: 14
+    CHA: 11
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 4
+  silver: 5
+  copper: 18
 appearance: Quiet and slightly fragile-looking, Siv wears a white wool dress — the healer's color — with
   a grey shawl. Her hands are always warm, even in the coldest weather, and she keeps them pressed together
   when not working, as if holding something in. She sometimes pauses mid-sentence with a look of confusion,
   then continues.
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'Siv is a healer who combines herbalism with seidr — a rare and somewhat feared practice. She
+  can ease pain, slow bleeding, and once set a broken bone that three other healers said would never heal
+  straight. Her secret: her seidr healing does not come from training. It comes from a bargain her mother
+  made with something in the fjord — a spirit, a creature, or something older — when Siv was dying of
+  fever as an infant. Siv does not know the full terms of the bargain. She knows her healing gift costs
+  something: every time she uses it deeply, she loses a small memory — a face, a name, a day from her
+  childhood. She has been healing for fifteen years, and her early memories are now full of holes.'
+personality: Reserved and soft-spoken, guarded and cautious with trust, generous and welcoming.
+key_phrases:
+- A healer's first task is to listen.
+- Pain speaks louder than words, but silence tells the deeper truth.
+- I will not rest until I find out what me mother's bargain was and whether it can be renegotiated.
 visual:
   body_build: slender and slightly frail-looking, deceptively strong
   hair: white-blonde, fine, worn loose
@@ -62,5 +74,9 @@ current_state:
   location: location:skaldvik
 purview: []
 ---
+
+
+
+
 
 A healer whose hands carry warmth that ordinary fire does not explain, and who pays for every miracle with a piece of herself she cannot get back.

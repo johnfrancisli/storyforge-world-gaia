@@ -11,37 +11,51 @@ gm_notes: A male snake charmer who performs in the Star Bazaar with a collection
   practicing in the deep desert where no one can hear. He does not know what he will do with this power,
   but he knows the binding families would kill him if they learned of it.
 aliases: []
-race: ''
-gender: ''
+race: Elf
+gender: Male
 age: 42
-heritage: ''
-social_station: ''
+heritage: Al-Khayzari
+social_station: Artisan
 role: Snake charmer, djinn-charmer
-proficient_skills: []
+proficient_skills:
+- Animal Handling
+- Lore (Djinn)
+- Performance
+- Lore (Forests)
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 7
+  hp: 45
+  mana: 100
+  stamina: 56
+  speed: 36
+  defense: 20
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 9
+    DEX: 14
+    CON: 9
+    INT: 14
+    WIS: 12
+    CHA: 12
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 1
+  silver: 19
+  copper: 15
 appearance: Lean and weathered in performer's clothes — a colorful vest over rough cotton, a turban wound
   with a serpent motif. He sits cross-legged with his basket of serpents and plays a bone flute with an
   intensity that makes the air feel heavy. His snakes coil in perfect synchronization with his music.
-biography: ''
-personality: ''
-key_phrases: []
+biography: A male snake charmer who performs in the Star Bazaar with a collection of desert vipers and
+  cobras that respond to his flute as if hypnotized. Hassan's flute was carved from the bone of a djinn's
+  mortal host — a human who was bound to a djinn so long that their bones absorbed the djinn's essence.
+  When Hassan plays, djinn within earshot feel a pull toward him, an involuntary attraction that the binding
+  families would consider extremely dangerous. Hassan discovered this when a djinn in human form walked
+  into his performance area and could not leave, circling closer and closer until it collapsed at his
+  feet. The djinn begged him to stop playing, and Hassan did — but he kept the flute, and he has been
+  practicing in the deep desert where no one can hear. He does not know what he will do with this power,
+  but he knows the binding families would kill him if they learned of it.
+personality: Guarded and cautious with trust, blunt and rough-spoken.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
 visual:
   body_build: lean and sinewy, performer's grace
   hair: black, grey-streaked, under a performer's turban
@@ -65,5 +79,7 @@ current_state:
   location: location:zaffar
 purview: []
 ---
+
+
 
 A snake charmer in the Star Bazaar who performs with desert vipers that respond to his bone flute as if hypnotized. His music makes the air feel heavy, and his snakes coil in perfect synchronization with his melody.

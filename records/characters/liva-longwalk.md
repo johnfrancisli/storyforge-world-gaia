@@ -10,38 +10,52 @@ gm_notes: 'Liva is a messenger who carries news, invitations, and legal summons 
   mean, but they frighten her. She is now carrying a message to Skaldvik itself — to someone inside the
   jarl''s household — and she does not know whether to deliver it or burn it.'
 aliases: []
-race: ''
-gender: ''
+race: Elf
+gender: Female
 age: 30
-heritage: ''
-social_station: ''
+heritage: Hrafnish
+social_station: Artisan
 role: Messenger
-proficient_skills: []
+proficient_skills:
+- Survival
+- Endurance
+- Perception
+- Lore (Forests)
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 5
+  hp: 47
+  mana: 62
+  stamina: 51
+  speed: 35
+  defense: 15
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 9
+    DEX: 14
+    CON: 9
+    INT: 14
+    WIS: 12
+    CHA: 12
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 4
+  silver: 13
+  copper: 12
 appearance: Lean and tireless, Liva wears travelling clothes — wool, leather, and a waterproof cloak —
   with a messenger's satchel across her chest. She carries a walking staff and a small knife, nothing
   more. She is weather-tanned, her face lined from wind and sun, and she moves with the efficient gait
   of someone who measures distance in days.
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'Liva is a messenger who carries news, invitations, and legal summons between the fjords. She
+  knows every trail, every shortcut, every bothy and shelter in Hrafnland. Her secret: she has been carrying
+  messages for Jarl Hakon of Fjord Ull — messages she suspects are part of a conspiracy against Skaldvik.
+  She took the work because Hakon pays well and she needed the silver to pay a healer for her mother''s
+  illness. She has read some of the messages (she is not supposed to, but the seals are not complex).
+  The most recent one mentioned ''the Althing fire'' and ''the signal.'' She does not know what those
+  mean, but they frighten her. She is now carrying a message to Skaldvik itself — to someone inside the
+  jarl''s household — and she does not know whether to deliver it or burn it.'
+personality: Guarded and cautious with trust, thoughtful and philosophical, carries a secret that shapes
+  every decision.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
 visual:
   body_build: lean and long-legged, built for distance walking
   hair: brown, sun-bleached, worn in a tight knot
@@ -64,4 +78,7 @@ current_state:
 purview: []
 ---
 
-A messenger who has walked every fjord path in Hrafnland and who is currently carrying a letter that might be the match that lights a war.
+
+
+
+A messenger who has walked every fjord path in [[location:hrafnland|Hrafnland]] and who is currently carrying a letter that might be the match that lights a war.

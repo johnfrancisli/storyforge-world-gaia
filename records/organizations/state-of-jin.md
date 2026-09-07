@@ -10,4 +10,4 @@ visual:
   prompt: ''
 ---
 
-The northern state of Sangguo, ruled by Warlord Cao Shen and his court of scholar-strategists. The strongest of the three states militarily, but stretched thin across a large territory. The truce is three years old and the younger officers are restless.
+The northern state of [[location:sangguo|Sangguo]], ruled by Warlord [[character:cao-shen|Cao Shen]] and his court of scholar-strategists. The strongest of the three states militarily, but stretched thin across a large territory. The truce is three years old and the younger officers are restless.

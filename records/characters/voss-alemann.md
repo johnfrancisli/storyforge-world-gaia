@@ -9,38 +9,49 @@ gm_notes: 'Voss is from Valdris — a human academic who came to Verdania to stu
   does not know about Kaa or Jian Yi. He wants to mount an expedition, but the tribal council will not
   authorize it because the deep jungle is sacred ground.'
 aliases:
-- 'Dr. Voss Alemann'
-race: ''
-gender: ''
-age: late forties
-heritage: ''
-social_station: ''
+- Dr. Voss Alemann
+race: Human
+gender: Male
+age: 25
+heritage: Verdanian
+social_station: Artisan
 role: Academic explorer
-proficient_skills: []
+proficient_skills:
+- Survival
+- Crafting
+- Perception
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 4
+  hp: 43
+  mana: 48
+  stamina: 51
+  speed: 29
+  defense: 17
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 5
+  silver: 12
+  copper: 14
 appearance: A thin, sunburnt man in explorer's clothes — canvas trousers, a linen shirt, and a wide hat.
   He carries a leather satchel full of notebooks and a compass. His Valdris accent is strong and his jungle
   skills are improving but not great.
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'Voss is from Valdris — a human academic who came to Verdania to study the temple cities. He
+  has been here for three years and has made progress that the local tribes find unsettling: he has been
+  mapping the temple network and has found a pattern that suggests the temples are not random — they form
+  a grid, and the grid converges on a point deep in the jungle that no one has explored. The point is
+  the same direction that Kaa found his warm door, and the same direction Monk Jian Yi is walking. Voss
+  does not know about Kaa or Jian Yi. He wants to mount an expedition, but the tribal council will not
+  authorize it because the deep jungle is sacred ground.'
+personality: Generous and welcoming.
+key_phrases:
+- I do what must be done.
+- The work comes first. Everything else can wait.
 visual:
   body_build: thin, wiry
   skin: pale, sunburnt on the nose and forearms
@@ -65,4 +76,6 @@ current_state:
 purview: []
 ---
 
-A human academic from Valdris, living in Iara to study the temple cities of the old civilization. A middle-aged man with a scholar's build and an explorer's obsession. He is well-meaning, slightly oblivious to local politics, and deeply curious about things that may be better left alone.
+
+
+A human academic from Valdris, living in [[location:iara|Iara]] to study the temple cities of the old civilization. A middle-aged man with a scholar's build and an explorer's obsession. He is well-meaning, slightly oblivious to local politics, and deeply curious about things that may be better left alone.

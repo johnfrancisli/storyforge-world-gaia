@@ -8,36 +8,47 @@ gm_notes: A tea merchant whose tea blends are renowned across all three states. 
   meeting years later. She is being courted by both Jin and Chu intelligence services and has been feeding
   both slightly altered versions of the same information to maintain a balance of power.
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Female
 age: 44
-heritage: ''
-social_station: ''
+heritage: Sangguo (Jin)
+social_station: Merchant
 role: Tea merchant and Academy information broker
-proficient_skills: []
+proficient_skills:
+- Appraisal
+- Negotiation
+- Accounting
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 7
+  hp: 58
+  mana: 64
+  stamina: 63
+  speed: 25
+  defense: 19
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 11
+    WIS: 11
+    CHA: 14
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 24
+  silver: 55
+  copper: 31
 appearance: Warm and round-faced, always offering tea. Wears travel-worn but quality clothes and carries
   sample tins.
-biography: ''
-personality: ''
-key_phrases: []
+biography: A tea merchant whose tea blends are renowned across all three states. She is also the Great
+  Academy's primary information broker—her tea caravans carry coded messages hidden in the tea packaging.
+  She chose this life after the Academy saved her from a Wei prison where she was held for 'treasonous
+  poetry.' She has a photographic memory for faces and conversations and can recall details from a single
+  meeting years later. She is being courted by both Jin and Chu intelligence services and has been feeding
+  both slightly altered versions of the same information to maintain a balance of power.
+personality: Tired and carrying a heavy burden, guarded and cautious with trust, thoughtful and philosophical.
+key_phrases:
+- A fair deal leaves both sides slightly unhappy. That is how you know it was fair.
+- Trust is the only currency that compounds.
+- I will not rest until I maintain the balance between the three states until a peace is brokered.
 visual:
   body_build: plump and comfortable
   hair: black streaked with white, in a practical merchant's wrap
@@ -59,5 +70,7 @@ current_state:
   location: location:sangguo
 purview: []
 ---
+
+
 
 A genial, well-connected tea merchant whose caravans travel between all three warring states, welcomed everywhere for her superb blends.

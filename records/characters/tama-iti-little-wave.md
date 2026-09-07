@@ -14,27 +14,30 @@ gm_notes: Tama-iti is an eight-year-old boy, the son of a refugee family living 
   what he is describing is a spirit, and he does not know that it is showing him the future, and he does
   not know that the next picture it shows him might be of Lani Atoll.
 aliases: []
-race: ''
-gender: ''
-age: eight
-heritage: ''
-social_station: ''
+race: Human
+gender: Male
+age: 8
+heritage: Archipelagan
+social_station: Commoner
 role: Child
-proficient_skills: []
+proficient_skills:
+- Streetwise
+- Sneaking
+- Survival
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 1
+  hp: 16
+  mana: 21
+  stamina: 25
+  speed: 25
+  defense: 18
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
   gold: 0
   silver: 0
@@ -42,9 +45,22 @@ currency:
 appearance: A small, bright-eyed boy who is always near the water and always looking at it. He wears refugee-donated
   clothing that is too large for him, and he has the restless energy of a child who has lost his home
   and is looking for a new one.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Tama-iti is an eight-year-old boy, the son of a refugee family living on Lani Atoll. He is
+  bright, curious, and always underfoot, and the adults tolerate him with the affectionate exasperation
+  reserved for children who are everywhere at once. His secret is that he has a friend no one else can
+  see. The friend is tall, made of water, and lives in the lagoon. It appeared to him the day he arrived
+  on the atoll, and it has been with him every day since. It does not speak — it shows him things by changing
+  shape. It showed him a picture of a canoe, and the next day a canoe arrived with refugees. It showed
+  him a picture of a storm, and a storm came. It showed him a picture of an island with water rising around
+  it, and he does not know which island it is or when it will happen. He told his mother about the friend
+  once, and she told him it was a dream from the journey. He has not mentioned it again, but he goes to
+  the lagoon every day to see what his friend will show him next. He is eight, and he does not know that
+  what he is describing is a spirit, and he does not know that it is showing him the future, and he does
+  not know that the next picture it shows him might be of Lani Atoll.
+personality: Warm and optimistic, reserved and soft-spoken, inquisitive and eager to learn.
+key_phrases:
+- I'm not afraid. I'm just... careful.
+- When you're small, you learn to notice things.
 visual:
   body_build: small, wiry, bright-eyed
   skin: light brown
@@ -67,5 +83,7 @@ current_state:
   location: location:lani-atoll
 purview: []
 ---
+
+
 
 An eight-year-old refugee boy who has a water-spirit friend in the lagoon that shows him visions of the future. He does not know what it is — only that it is his friend.

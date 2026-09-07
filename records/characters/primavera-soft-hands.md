@@ -11,36 +11,49 @@ gm_notes: 'A human midwife who specializes in difficult births and who has never
   she saved — now a boy of seven — has begun showing signs of being spirit-touched, and Primavera fears
   the bargain had consequences she did not foresee.'
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Female
 age: 40
-heritage: ''
-social_station: ''
+heritage: Verdanian
+social_station: Artisan
 role: Midwife and birth-healer
-proficient_skills: []
+proficient_skills:
+- Medicine
+- Herbalism
+- First Aid
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 6
+  hp: 51
+  mana: 66
+  stamina: 57
+  speed: 25
+  defense: 18
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 11
+    WIS: 14
+    CHA: 11
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 4
+  silver: 3
+  copper: 23
 appearance: Soft-featured and warm, with gentle hands and a calming voice. Wears clean wraps and carries
   a satchel of birth-supplies. Her face carries a permanent shadow of private sadness.
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'A human midwife who specializes in difficult births and who has never lost a mother — though
+  she has lost three infants, a fact that haunts her. Her secret is more complex than grief: during the
+  most difficult birth she ever attended, a breech birth where both mother and child were dying, she made
+  a desperate bargain with a spirit she could not see, trading her own future fertility for the lives
+  of both patients. The mother and child survived. Primavera has since been unable to conceive, though
+  she has tried with her partner for years. She does not regret the trade, but she has not told her partner
+  the real reason they are childless, and the silence is eroding their relationship. Recently, the child
+  she saved — now a boy of seven — has begun showing signs of being spirit-touched, and Primavera fears
+  the bargain had consequences she did not foresee.'
+personality: Composed and even-tempered, compassionate and tender-hearted, guarded and cautious with trust.
+key_phrases:
+- A healer's first task is to listen.
+- Pain speaks louder than words, but silence tells the deeper truth.
 visual:
   body_build: soft and rounded, gentle in bearing
   hair: dark brown, streaked with early grey, worn in a loose bun
@@ -62,5 +75,7 @@ current_state:
   location: location:verdania
 purview: []
 ---
+
+
 
 A gentle human midwife with an extraordinary record of safe deliveries, whose calm presence is sought after for every difficult birth in the region.

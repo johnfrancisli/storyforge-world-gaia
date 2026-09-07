@@ -10,37 +10,50 @@ gm_notes: A glassblower whose glass vessels can hold light — not metaphoricall
   the sand from that one dune makes magical glass and she has been quietly mining it for three years.
   The dune is nearly depleted.
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Female
 age: 27
-heritage: ''
-social_station: ''
+heritage: Al-Khayzari
+social_station: Artisan
 role: Glassblower, accidental magician
-proficient_skills: []
+proficient_skills:
+- Crafting (Glasswork)
+- Artistry
+- Endurance
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 3
+  hp: 40
+  mana: 46
+  stamina: 46
+  speed: 28
+  defense: 18
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 3
+  silver: 2
+  copper: 28
 appearance: Sooty and bright-eyed in a leather apron and cotton scarf, working before a furnace that turns
   her face gold. She blows glass with cheeks puffed and scarred from stray sparks. Finished light-bottles
   glow on her shelves like trapped moons.
-biography: ''
-personality: ''
-key_phrases: []
+biography: A glassblower whose glass vessels can hold light — not metaphorically, but literally. A bottle
+  blown from her furnace traps sunlight and releases it slowly over hours, glowing in the dark like a
+  captured star. She discovered this by accident when she used sand from a site where a djinn had been
+  bound and released centuries ago. She has been selling these light-bottles to the poor quarters as lamps
+  that need no oil, and the binding families have noticed — they are concerned because djinn-bound sites
+  are supposed to be under their control. Dunya does not know the political implications; she only knows
+  the sand from that one dune makes magical glass and she has been quietly mining it for three years.
+  The dune is nearly depleted.
+personality: Warm and optimistic, reserved and soft-spoken, guarded and cautious with trust.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
+- I will not rest until I find another source of the special sand before the dune runs out.
 visual:
   body_build: wiry, strong-lunged
   hair: black, short, singed at the edges
@@ -62,5 +75,8 @@ current_state:
   location: location:zaffar
 purview: []
 ---
+
+
+
 
 A glassblower whose light-bottles glow in the dark like captured stars, sold cheaply to the poor quarters as oil-free lamps. She works at a furnace in the Crafts Quarter and guards her sand supply with quiet ferocity.

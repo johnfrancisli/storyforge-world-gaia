@@ -8,38 +8,50 @@ gm_notes: Lani is Kai's mother — a fact she has deliberately kept out of her g
   would be politically explosive if the other islands found out — the Archipelago's identity is built
   on self-sufficiency.
 aliases:
-- 'Chief Lani of Lani Atoll'
-race: ''
-gender: ''
-age: mid-fifties
-heritage: ''
-social_station: ''
+- Chief Lani of Lani Atoll
+race: Elf
+gender: Female
+age: 25
+heritage: Archipelagan
+social_station: Nobility
 role: Chief of Lani Atoll
-proficient_skills: []
+proficient_skills:
+- Appraisal
+- Negotiation
+- Accounting
+- Lore (Forests)
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 5
+  hp: 44
+  mana: 58
+  stamina: 48
+  speed: 38
+  defense: 18
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 9
+    DEX: 14
+    CON: 9
+    INT: 14
+    WIS: 12
+    CHA: 12
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 134
+  silver: 58
+  copper: 53
 appearance: A sturdy, sun-darkened woman in fine island cloth and a chief's whale-bone necklace. She moves
   with the authority of someone who has been making hard decisions for decades. Her arms are tattooed
   with the route-maps of her youth — she was a wayfinder before she was a chief.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Lani is Kai's mother — a fact she has deliberately kept out of her governance to avoid accusations
+  of nepotism, and which Kai has respected by never invoking it publicly. She is the one who must decide
+  what happens to the forty families displaced by the latest island submergence, and she has nowhere to
+  put them. She has been secretly negotiating with Verdania's Chief Oron to accept island refugees, which
+  would be politically explosive if the other islands found out — the Archipelago's identity is built
+  on self-sufficiency.
+personality: Guarded and cautious with trust, blunt and rough-spoken, carries a secret that shapes every
+  decision.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
 visual:
   body_build: sturdy, strong
   skin: deep tan
@@ -63,4 +75,7 @@ current_state:
 purview: []
 ---
 
-The chief of Lani Atoll, the central gathering island of the Tide Archipelago. A woman in her fifties who has led her island through twenty years of gradual crisis. She is warm, decisive, and carrying more than she shows. The meeting house on her island is still open to all, but the shore is closer to the door than it was last year.
+
+
+
+The chief of [[location:lani-atoll|Lani Atoll]], the central gathering island of the Tide Archipelago. A woman in her fifties who has led her island through twenty years of gradual crisis. She is warm, decisive, and carrying more than she shows. The meeting house on her island is still open to all, but the shore is closer to the door than it was last year.

@@ -11,37 +11,52 @@ gm_notes: A cook who runs a kitchen feeding the poor of the eastern quarter, fun
   the djinn contract crisis to cause, and they plan to let the poor bear the shortage while the high city
   eats well.
 aliases: []
-race: ''
-gender: ''
+race: Elf
+gender: Female
 age: 50
-heritage: ''
-social_station: ''
+heritage: Al-Khayzari
+social_station: Commoner
 role: Communal cook, quarter benefactor
-proficient_skills: []
+proficient_skills:
+- Cooking
+- Herbalism
+- Hospitality
+- Lore (Forests)
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 7
+  hp: 56
+  mana: 70
+  stamina: 60
+  speed: 37
+  defense: 18
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 9
+    DEX: 14
+    CON: 9
+    INT: 14
+    WIS: 12
+    CHA: 12
 currency:
   gold: 0
-  silver: 0
-  copper: 0
+  silver: 2
+  copper: 16
 appearance: Stout and flour-dusted in a cook's apron over practical cotton, her arms ruddy from steam
   and heat. She stirs pots taller than herself with a wooden paddle and never stops moving. She smells
   of bread and cumin and rosewater.
-biography: ''
-personality: ''
-key_phrases: []
+biography: A cook who runs a kitchen feeding the poor of the eastern quarter, funded by binding family
+  charity. Huda has discovered that the grain shipments from the binding families' storehouses have been
+  cut by a third — the families are hoarding food against a coming crisis they have not announced publicly.
+  Huda has been stretching her recipes with sawdust and bulgur to keep feeding the same number of people
+  and has not told anyone the shipments are short. She obtained a copy of the binding families' private
+  grain ledger from a sympathetic stable hand and knows the hoarding began the same month the oldest djinn
+  contracts started coming due. She believes the binding families are preparing for a famine they expect
+  the djinn contract crisis to cause, and they plan to let the poor bear the shortage while the high city
+  eats well.
+personality: Strict and disciplined, guarded and cautious with trust.
+key_phrases:
+- Food is love made edible.
+- A good cook feeds the body. A great cook feeds the soul.
+- I will not rest until I expose the binding families' hoarding before the shortage becomes a famine.
 visual:
   body_build: stout and strong-armed
   hair: grey-black, covered by a cloth cap
@@ -63,5 +78,7 @@ current_state:
   location: location:zaffar
 purview: []
 ---
+
+
 
 A warm, tireless cook who runs the eastern quarter's communal kitchen, feeding hundreds daily from enormous copper pots. She knows every family in the quarter by name and what each child will eat.

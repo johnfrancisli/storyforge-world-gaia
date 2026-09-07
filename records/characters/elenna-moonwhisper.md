@@ -7,36 +7,47 @@ gm_notes: Elenna is an elven librarian who has been quietly altering records in 
   the child's location with her life. The child, now a young adult, lives as a simple shepherd in the
   countryside, unaware of their bloodline.
 aliases: []
-race: ''
-gender: ''
+race: Elf
+gender: Female
 age: 140
-heritage: ''
-social_station: ''
+heritage: Valdrian
+social_station: Commoner
 role: Librarian
-proficient_skills: []
+proficient_skills:
+- Research
+- Lore (History)
+- Organization
+- Lore (Forests)
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 9
+  hp: 64
+  mana: 86
+  stamina: 66
+  speed: 34
+  defense: 18
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 9
+    DEX: 14
+    CON: 9
+    INT: 18
+    WIS: 14
+    CHA: 12
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 2
+  silver: 2
+  copper: 23
 appearance: Slender and ethereal, Elenna wears simple robes and keeps her silver hair in a precise coil.
   She smells of old paper and lavender.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Elenna is an elven librarian who has been quietly altering records in the royal archive to
+  hide the existence of a third heir — a child born to the late king's second marriage, believed dead
+  in infancy but actually smuggled to safety by an elven midwife. Elenna's own mother was that midwife.
+  She guards the child's location with her life. The child, now a young adult, lives as a simple shepherd
+  in the countryside, unaware of their bloodline.
+personality: Precise and detail-oriented, reserved and soft-spoken, guarded and cautious with trust.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
+- I will not rest until I protect the hidden heir until the time is right for revelation.
 visual:
   body_build: slender and graceful, elven
   hair: silver-white, long, worn in a coil
@@ -58,5 +69,7 @@ current_state:
   location: location:crownhaven
 purview: []
 ---
+
+
 
 An ageless elven librarian whose quiet days among dusty scrolls conceal a decades-long guardianship of a hidden heir.

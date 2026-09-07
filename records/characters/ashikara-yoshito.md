@@ -8,38 +8,48 @@ gm_notes: 'The shogun is dying. He has been dying for two years — a slow decli
   is failing, but the treasury is empty and the clans will not pay for it. He puts on a strong face in
   public but is privately terrified of what happens after him.'
 aliases:
-- 'Shogun Ashikara Yoshito'
-race: ''
-gender: ''
-age: seventies
-heritage: ''
-social_station: ''
+- Shogun Ashikara Yoshito
+race: Human
+gender: Male
+age: 25
+heritage: Tsukuyomi
+social_station: Nobility
 role: Shogun of Tsukuyomi
-proficient_skills: []
+proficient_skills:
+- Leadership
+- Strategy
+- Politics
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 7
+  hp: 56
+  mana: 60
+  stamina: 58
+  speed: 26
+  defense: 23
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 51
+  silver: 46
+  copper: 2
 appearance: A thin, old man in formal court robes, seated straight-backed on his dais. His hair is white,
   his hands are spotted with age, and his eyes are still sharp. He speaks softly, and the room goes quiet
   to hear him.
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'The shogun is dying. He has been dying for two years — a slow decline that his physicians
+  cannot explain and his court pretends not to see. He knows he is dying and has refused to name an heir
+  because he cannot decide between his two sons: the elder, who is competent but cruel, and the younger,
+  who is kind but untested. He is using his remaining time to try to shore up the shrine network, which
+  he understands is failing, but the treasury is empty and the clans will not pay for it. He puts on a
+  strong face in public but is privately terrified of what happens after him.'
+personality: Reserved and soft-spoken, compassionate and tender-hearted.
+key_phrases:
+- I do what must be done.
+- The work comes first. Everything else can wait.
 visual:
   body_build: thin, frail but straight-backed
   hair: white, formal topknot
@@ -58,5 +68,7 @@ current_state:
   location: location:tsuki-no-miyako
 purview: []
 ---
+
+
 
 The ruling shogun of Tsukuyomi, elderly and declining. A man who was once a great warrior and is now a careful politician trying to hold his domain together with weakening hands. He has not been seen in public this season, which is itself a political statement.

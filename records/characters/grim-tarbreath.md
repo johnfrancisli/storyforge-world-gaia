@@ -10,37 +10,51 @@ gm_notes: 'Grim is a charcoal burner who tends the forest kilns in the pine wood
   investigate. Grim knows the investigation will find him — the stumps are in his section of the forest
   — and he is preparing to run.'
 aliases: []
-race: ''
-gender: ''
+race: Elf
+gender: Male
 age: 41
-heritage: ''
-social_station: ''
+heritage: Hrafnish
+social_station: Artisan
 role: Charcoal Burner
-proficient_skills: []
+proficient_skills:
+- Appraisal
+- Negotiation
+- Accounting
+- Lore (Forests)
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 4
+  hp: 41
+  mana: 55
+  stamina: 44
+  speed: 36
+  defense: 17
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 9
+    DEX: 14
+    CON: 9
+    INT: 14
+    WIS: 12
+    CHA: 12
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 4
+  silver: 17
+  copper: 13
 appearance: Broad and smoke-blackened, Grim wears rough charcoal-stained clothing and a leather cap. He
   is less solitary than Ulla — he comes to town more often, drinks more, talks more. His laugh is loud
   and his hands are always dirty. He smells of woodsmoke and sweat and something slightly bitter.
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'Grim is a charcoal burner who tends the forest kilns in the pine woods above Skaldvik. His
+  secret: he has been cutting timber from a grove that is sacred to the volur — trees marked with rune-carvings
+  that designate them as offering-trees. He does not believe in the sacredness, or he tells himself he
+  does not, because the wood from those trees is exceptionally fine — dense, straight-grained, perfect
+  for charcoal. He has been cutting selectively and hiding the stumps by scattering brush. But the volur
+  are beginning to notice that some of their offering-trees are missing, and Yrsa has asked the jarl to
+  investigate. Grim knows the investigation will find him — the stumps are in his section of the forest
+  — and he is preparing to run.'
+personality: Guarded and cautious with trust, blunt and rough-spoken, carries a secret that shapes every
+  decision.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
 visual:
   body_build: broad and heavy, strong-armed
   hair: brown, thick, worn short under a leather cap
@@ -63,4 +77,6 @@ current_state:
 purview: []
 ---
 
-A charcoal burner who feeds the forges and hearths of Skaldvik, and who has been cutting trees that the volur say belong to something older than the fjord.
+
+
+A charcoal burner who feeds the forges and hearths of [[location:skaldvik|Skaldvik]], and who has been cutting trees that the volur say belong to something older than the fjord.

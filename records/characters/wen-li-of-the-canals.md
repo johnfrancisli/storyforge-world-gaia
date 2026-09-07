@@ -8,37 +8,49 @@ gm_notes: Wen Li is a river-folk woman who manages the canal system that feeds J
   to pay attention — a desperate act that would cause immediate food shortages but might save the system
   in the long run. She has not decided yet.
 aliases: []
-race: ''
-gender: ''
-age: late thirties
-heritage: ''
-social_station: ''
+race: Mizuhito
+gender: Female
+age: 25
+heritage: Sangguo (Jin)
+social_station: Artisan
 role: Canal master, river-folk
-proficient_skills: []
+proficient_skills:
+- Survival
+- Crafting
+- Perception
+- Swimming
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 4
+  hp: 44
+  mana: 57
+  stamina: 53
+  speed: 36
+  defense: 21
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 13
+    CON: 11
+    INT: 12
+    WIS: 12
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 2
+  silver: 3
+  copper: 29
 appearance: A compact river-folk woman in work clothes, her blue-green skin damp, her webbed hands calloused
   from rope and stone work. She carries a canal surveyor's rod and wears a waterproof jacket. She is usually
   wet to the elbows.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Wen Li is a river-folk woman who manages the canal system that feeds Jin'an's grain supply.
+  The canals are silting up because the truce diverted maintenance funds to the military. If the canals
+  fail, Jin'an loses its food supply within a season. Wen Li has been writing reports to the warlord's
+  court for two years and has been ignored. She is now considering sabotaging a canal to force the court
+  to pay attention — a desperate act that would cause immediate food shortages but might save the system
+  in the long run. She has not decided yet.
+personality: Composed and even-tempered, perceptive and watchful, grounded and sensible.
+key_phrases:
+- I do what must be done.
+- The work comes first. Everything else can wait.
+- I will not rest until I get the canal system repaired before it fails and jin'an starves.
 visual:
   body_build: compact, strong
   skin: blue-green, smooth, slightly scaled
@@ -60,4 +72,7 @@ current_state:
 purview: []
 ---
 
-A river-folk canal master who maintains the water system feeding Jin'an's grain supply. A practical, weathered woman who has been fighting for maintenance funding for two years and losing. She knows the canals better than anyone alive, and she knows they are failing.
+
+
+
+A river-folk canal master who maintains the water system feeding [[location:jin-an|Jin'an]]'s grain supply. A practical, weathered woman who has been fighting for maintenance funding for two years and losing. She knows the canals better than anyone alive, and she knows they are failing.

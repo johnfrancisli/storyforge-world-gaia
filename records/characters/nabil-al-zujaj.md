@@ -1,48 +1,64 @@
 ---
 id: character:nabil-al-zujaj
 name: Nabil al-Zujaj
-gm_notes: A male glassblower and Dunya's (character:dunya-al-zujaj) older cousin, who works in
-  the same Crafts Quarter. Nabil has been secretly supplying the binding families with glass vessels designed
-  to contain djinn essence — not the djinn themselves, but fragments of their power, harvested from the
-  sites of old binding contracts. The binding families are using these vessels to build an arsenal of
-  captured djinn fragments that could be weaponized to overwhelm any single family's contracts. Nabil
-  does not understand the full implications of what he is making — he is a craftsman who was paid well
-  for specific designs — but he has noticed that the vessels he makes are being filled in the binding
-  family vaults and stored in a locked chamber he is not allowed to enter. He became suspicious enough
-  to sneak a look and saw hundreds of glowing vessels on shelves, each humming with a different pitch.
-  He has not told Dunya, fearing for her safety, but he is looking for a way to stop what he helped start.
+gm_notes: A male glassblower and Dunya's (character:dunya-al-zujaj) older cousin, who works in the same
+  Crafts Quarter. Nabil has been secretly supplying the binding families with glass vessels designed to
+  contain djinn essence — not the djinn themselves, but fragments of their power, harvested from the sites
+  of old binding contracts. The binding families are using these vessels to build an arsenal of captured
+  djinn fragments that could be weaponized to overwhelm any single family's contracts. Nabil does not
+  understand the full implications of what he is making — he is a craftsman who was paid well for specific
+  designs — but he has noticed that the vessels he makes are being filled in the binding family vaults
+  and stored in a locked chamber he is not allowed to enter. He became suspicious enough to sneak a look
+  and saw hundreds of glowing vessels on shelves, each humming with a different pitch. He has not told
+  Dunya, fearing for her safety, but he is looking for a way to stop what he helped start.
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Male
 age: 34
-heritage: ''
-social_station: ''
+heritage: Al-Khayzari
+social_station: Artisan
 role: Glassblower, reluctant weaponsmith
-proficient_skills: []
+proficient_skills:
+- Crafting (Metalwork)
+- Appraisal
+- Endurance
+- Acrobatics
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 3
+  hp: 38
+  mana: 46
+  stamina: 49
+  speed: 37
+  defense: 24
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 12
+    DEX: 16
+    CON: 11
+    INT: 12
+    WIS: 11
+    CHA: 13
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 1
+  silver: 13
+  copper: 16
 appearance: Broad and furnace-red in a leather apron, his forearms thick from glasswork. He is quieter
   than his cousin and slower to laugh. He works at a larger furnace than hers and handles bigger pieces
   — bowls, jars, vessels the size of a man's torso.
-biography: ''
-personality: ''
-key_phrases: []
+biography: A male glassblower and Dunya's (character:dunya-al-zujaj) older cousin, who works in the same
+  Crafts Quarter. Nabil has been secretly supplying the binding families with glass vessels designed to
+  contain djinn essence — not the djinn themselves, but fragments of their power, harvested from the sites
+  of old binding contracts. The binding families are using these vessels to build an arsenal of captured
+  djinn fragments that could be weaponized to overwhelm any single family's contracts. Nabil does not
+  understand the full implications of what he is making — he is a craftsman who was paid well for specific
+  designs — but he has noticed that the vessels he makes are being filled in the binding family vaults
+  and stored in a locked chamber he is not allowed to enter. He became suspicious enough to sneak a look
+  and saw hundreds of glowing vessels on shelves, each humming with a different pitch. He has not told
+  Dunya, fearing for her safety, but he is looking for a way to stop what he helped start.
+personality: Reserved and soft-spoken, guarded and cautious with trust, carries a secret that shapes every
+  decision.
+key_phrases:
+- Metal has opinions. My job is to negotiate.
+- The forge teaches patience whether you want to learn it or not.
 visual:
   body_build: broad-shouldered, strong-armed
   hair: black, short, soot-darkened
@@ -66,5 +82,7 @@ current_state:
   location: location:zaffar
 purview: []
 ---
+
+
 
 A broad, furnace-red glassblower in the Crafts Quarter who works at a larger furnace than his cousin's. He is quieter than his cousin and slower to laugh, and he has been handling bigger and bigger pieces with worried eyes.

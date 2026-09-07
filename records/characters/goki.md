@@ -11,37 +11,50 @@ gm_notes: Goki is an oni — a demon of mountain and rage — who was sealed by 
   had a shrine maiden to talk to. He's been trying to warn someone, but he's a demon, and no one trusts
   a demon.
 aliases: []
-race: ''
-gender: ''
-age: ancient — appears mid-forties in human terms
-heritage: ''
-social_station: ''
+race: Oni (Yokai)
+gender: Male
+age: 25
+heritage: Tsukuyomi
+social_station: Artisan
 role: Reformed oni (mountain demon)
-proficient_skills: []
+proficient_skills:
+- Diplomacy
+- Politics
+- Leadership
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 5
+  hp: 46
+  mana: 51
+  stamina: 51
+  speed: 28
+  defense: 17
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 4
+  silver: 6
+  copper: 28
 appearance: He wears rough homespun clothes far too small for his frame, his skin a deep iron-grey. He
   keeps a woven hat low over his face and his hands hidden when he can. He hunches to seem smaller than
   he is, and he speaks in a low rumble that he tries to make gentle.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Goki is an oni — a demon of mountain and rage — who was sealed by a shrine maiden 200 years
+  ago in a cave in the Tsukuyomi mountains. The shrine maiden who bound him was the first human to show
+  him kindness; she spoke to him through the seal for years, and that contact changed him fundamentally.
+  When the shrine network's weakening cracked his seal last winter, he emerged into a world he doesn't
+  recognize — but with a spirit that has been gentled by two centuries of one person's kindness. He's
+  been living as a hermit, suppressing the violent nature that is fundamental to what he is. He knows
+  that when the network falls fully, the seals on other, much worse oni will crack too — oni who never
+  had a shrine maiden to talk to. He's been trying to warn someone, but he's a demon, and no one trusts
+  a demon.
+personality: Compassionate and tender-hearted, guarded and cautious with trust, blunt and rough-spoken.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
 visual:
   body_build: massive, towering, boulder-like
   hair: black, coarse, wild
@@ -64,5 +77,8 @@ current_state:
   location: location:tsukuyomi
 purview: []
 ---
+
+
+
 
 A large, quiet figure who lives alone in a cave in the Tsukuyomi mountains, occasionally helping lost travelers find the road before disappearing back into the trees. He is built like a boulder and moves with surprising gentleness. Villagers tell stories about a helpful mountain spirit; they don't know he's an oni.

@@ -14,36 +14,52 @@ gm_notes: Vili is a pearl diver, one of the few men in the profession, and he is
   a mutation but a heritage — that someone in his bloodline was not entirely human, and that what lives
   beneath the islands is where he came from.
 aliases: []
-race: ''
-gender: ''
-age: thirty
-heritage: ''
-social_station: ''
+race: Human
+gender: Male
+age: 30
+heritage: Archipelagan
+social_station: Artisan
 role: Pearl diver (deep)
-proficient_skills: []
+proficient_skills:
+- Diving
+- Endurance
+- Swimming
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 7
+  hp: 59
+  mana: 59
+  stamina: 60
+  speed: 27
+  defense: 19
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 3
+  silver: 14
+  copper: 29
 appearance: A lean, deep-chested man with a diver's build and an ease in the water that is unsettling
   to watch. He moves through the sea as if it is his natural element, which, secretly, it is.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Vili is a pearl diver, one of the few men in the profession, and he is known for his deep dives
+  — deeper than anyone else in the Archipelago. He can reach depths that would kill most divers, and he
+  has never suffered the sickness that affects divers who surface too fast. His secret is that he should
+  not be able to do this. He has gills. Not visible ones — slits along his ribcage that open when he is
+  submerged and close when he is in air. They are hidden beneath his arms and are invisible unless he
+  raises his arms above his head in water. He has had them since birth and has never shown anyone, not
+  even his wife. He has been diving deeper and deeper, not for pearls but to explore the sea floor, and
+  he has seen things that no one else can reach — including, recently, structures beneath the Archipelago
+  that are too regular to be natural. He has seen what looks like a foundation — a vast, flat stone surface
+  beneath the islands, as if the Archipelago was built on something. He is afraid that his gills are not
+  a mutation but a heritage — that someone in his bloodline was not entirely human, and that what lives
+  beneath the islands is where he came from.
+personality: Guarded and cautious with trust, driven and relentless in pursuit of goals, blunt and rough-spoken.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
 visual:
   body_build: lean, deep-chested, long-limbed
   skin: medium brown, salt-lightened
@@ -68,5 +84,7 @@ current_state:
   location: location:tide-archipelago
 purview: []
 ---
+
+
 
 A pearl diver with hidden gills who can reach depths no one else survives. He has seen structures beneath the Archipelago — a vast stone foundation, as if the islands were built on something.

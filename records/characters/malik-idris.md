@@ -7,36 +7,46 @@ gm_notes: Malik's grandfather bound a djinn named Zuhayr three generations ago. 
   and he has found nothing. The djinn Zuhayr has begun appearing to him, patient and polite, reminding
   him that the contract is almost due.
 aliases: []
-race: ''
-gender: ''
-age: early twenties
-heritage: ''
-social_station: ''
+race: Elf
+gender: Male
+age: 25
+heritage: Al-Khayzari
+social_station: Nobility
 role: Binding-family scion
-proficient_skills: []
+proficient_skills:
+- Diplomacy
+- Politics
+- Leadership
+- Lore (Forests)
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 5
+  hp: 47
+  mana: 58
+  stamina: 48
+  speed: 33
+  defense: 18
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 9
+    DEX: 14
+    CON: 9
+    INT: 14
+    WIS: 12
+    CHA: 12
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 133
+  silver: 41
+  copper: 17
 appearance: A young man in fine desert robes — cream and gold — with a jeweled dagger at his belt that
   is more ornament than weapon. He carries himself well but watches the shadows. He smells of sandalwood.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Malik's grandfather bound a djinn named Zuhayr three generations ago. The contract's price
+  was 'the firstborn of each generation.' Malik is the firstborn. He has known since childhood that he
+  is owed to a djinn. He has been researching ways to renegotiate or break the contract for years, secretly,
+  and he has found nothing. The djinn Zuhayr has begun appearing to him, patient and polite, reminding
+  him that the contract is almost due.
+personality: Precise and detail-oriented, composed and even-tempered, guarded and cautious with trust.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
 visual:
   body_build: slim, tall
   skin: warm brown
@@ -60,4 +70,6 @@ current_state:
 purview: []
 ---
 
-A young binding-family scion of Zaffar. Handsome, educated, and visibly uneasy. He is the heir to one of the oldest djinn contracts in Al-Khayzar, and he carries that weight in the set of his shoulders. He can be found in the Star Bazaar at night, haggling with the ease of someone raised in it.
+
+
+A young binding-family scion of [[location:zaffar|Zaffar]]. Handsome, educated, and visibly uneasy. He is the heir to one of the oldest djinn contracts in [[location:al-khayzar|Al-Khayzar]], and he carries that weight in the set of his shoulders. He can be found in the Star Bazaar at night, haggling with the ease of someone raised in it.

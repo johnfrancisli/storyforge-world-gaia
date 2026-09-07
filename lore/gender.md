@@ -25,7 +25,7 @@ Most of Gaia, most of the time, recognises:
 - **Woman** — `gender: woman`
 - **Man** — `gender: man`
 
-These carry different weight in different places. A woman in Hrafnland who owns
+These carry different weight in different places. A woman in [[location:hrafnland|Hrafnland]] who owns
 a ship commands it; a woman in Valdris who owns land often holds it through a
 male relative's name. Neither is the default and neither is the exception.
 
@@ -36,17 +36,17 @@ who serve a shrine may set aside their prior standing entirely, and are
 addressed by their office rather than by gender. The spirit-touched are
 frequently among them. Record as `gender: shrine-bound`.
 
-**The Tide Archipelago** treats gender as something a person may be recognised
+**[[location:tide-archipelago|The Tide Archipelago]]** treats gender as something a person may be recognised
 into rather than born with. A navigator's standing follows the voyage, not the
 body. Record as `gender: navigator-kind` when it applies — most Archipelago
 characters simply use woman or man.
 
-**Verdania**'s canopy cities have no fixed term at all. The jungle-facing
+**[[location:verdania|Verdania]]**'s canopy cities have no fixed term at all. The jungle-facing
 communities describe people by what they tend, not by what they are, and a
 character raised there may hold no gender in the sense other nations mean.
 Record as `gender: untold`.
 
-**Al-Khayzar** distinguishes those under a djinn contract, whose standing is
+**[[location:al-khayzar|Al-Khayzar]]** distinguishes those under a djinn contract, whose standing is
 suspended for its duration. This is a legal condition rather than a gender, but
 it displaces one, and characters bound this way are addressed neither as women
 nor as men. Record as `gender: contract-held`.

@@ -9,38 +9,49 @@ gm_notes: Tariq is the Pact of the Lamp's enforcer — not through violence but 
   he relies on was written for a world that no longer exists. He is worried, and a worried judge in Al-Khayzar
   is a dangerous thing.
 aliases:
-- 'Judge Tariq al-Mir'
-race: ''
-gender: ''
-age: sixties
-heritage: ''
-social_station: ''
+- Judge Tariq al-Mir
+race: Human
+gender: Male
+age: 25
+heritage: Al-Khayzari
+social_station: Artisan
 role: Judge, expert in contract law and the Pact
-proficient_skills: []
+proficient_skills:
+- Survival
+- Crafting
+- Perception
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 3
+  hp: 38
+  mana: 46
+  stamina: 42
+  speed: 25
+  defense: 18
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
   gold: 0
-  silver: 0
-  copper: 0
+  silver: 7
+  copper: 7
 appearance: A tall, grave man in formal judge's robes, a law scroll case at his belt. He moves deliberately,
   speaks precisely, and has the stillness of someone who has spent decades listening to liars. His beard
   is white and trimmed. He carries the law the way soldiers carry swords.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Tariq is the Pact of the Lamp's enforcer — not through violence but through law. He is the
+  judge who interprets contract disputes between binding families and djinn. He is honest, incorruptible,
+  and absolutely bound by precedent. If Malik comes to him for a legal remedy, Tariq will help — but only
+  within the law, and the law may not have a remedy for a contract this old. Tariq has noticed that the
+  oldest contracts are becoming unstable — the djinn are restive, the terms are fraying, and the precedent
+  he relies on was written for a world that no longer exists. He is worried, and a worried judge in Al-Khayzar
+  is a dangerous thing.
+personality: Precise and detail-oriented, wary and watchful, blunt and rough-spoken.
+key_phrases:
+- I do what must be done.
+- The work comes first. Everything else can wait.
 visual:
   body_build: tall, straight-backed
   skin: warm brown
@@ -66,4 +77,6 @@ current_state:
 purview: []
 ---
 
-A judge of Al-Khayzar, the foremost authority on contract law and the Pact of the Lamp. A tall, grave man in judge's robes — dark blue and gold — who speaks in measured sentences and means every word. He is honest, which in Zaffar makes him unusual, and he is worried, which in Zaffar makes him dangerous.
+
+
+A judge of [[location:al-khayzar|Al-Khayzar]], the foremost authority on contract law and the Pact of the Lamp. A tall, grave man in judge's robes — dark blue and gold — who speaks in measured sentences and means every word. He is honest, which in [[location:zaffar|Zaffar]] makes him unusual, and he is worried, which in [[location:zaffar|Zaffar]] makes him dangerous.

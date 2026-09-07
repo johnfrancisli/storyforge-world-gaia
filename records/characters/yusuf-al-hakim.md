@@ -12,37 +12,51 @@ gm_notes: 'A male elder who is the oldest person in Zaffar — old enough to rem
   will believe the word of a ''confused old man.'' He is looking for someone who can verify his memories
   through other means.'
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Male
 age: 103
-heritage: ''
-social_station: ''
+heritage: Al-Khayzari
+social_station: Commoner
 role: Elder, living archive of the Pact
-proficient_skills: []
+proficient_skills:
+- Survival
+- Crafting
+- Perception
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 11
+  hp: 77
+  mana: 77
+  stamina: 78
+  speed: 29
+  defense: 20
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 3
+  silver: 5
+  copper: 30
 appearance: Wizened and still in layered robes, his eyes bright in a face lined like old leather. He sits
   in the courtyard of the elders' house, wrapped in blankets even in the heat, and people come to him
   for stories of the old days. He remembers everything and tells you exactly what you asked, no more.
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'A male elder who is the oldest person in Zaffar — old enough to remember the last time a binding
+  family''s contract came due and the chaos it caused. Yusuf is 103 years old, kept alive by a djinn contract
+  his own father signed: longevity in exchange for the family''s memory. Yusuf cannot forget anything
+  — every face, every conversation, every day of his 103 years is as clear as this morning. He remembers
+  the original terms of every binding family''s contract as they were signed, not as they have been modified
+  over centuries. He has discovered that three of the seven founding contracts have been secretly altered
+  — the terms changed by the djinn without the families'' knowledge, shifting the debts to be larger than
+  originally agreed. He has proof in his perfect memory but no physical evidence, and no one on the Council
+  will believe the word of a ''confused old man.'' He is looking for someone who can verify his memories
+  through other means.'
+personality: Precise and detail-oriented, warm and optimistic, guarded and cautious with trust.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
 visual:
   body_build: thin and frail, but upright when seated
   hair: pure white, thin, wispy
@@ -68,4 +82,6 @@ current_state:
 purview: []
 ---
 
-The oldest person in Zaffar, a 103-year-old elder who sits in the courtyard of the elders' house and remembers everything. People come to him for stories of the old days, and he tells them exactly what happened, no more.
+
+
+The oldest person in [[location:zaffar|Zaffar]], a 103-year-old elder who sits in the courtyard of the elders' house and remembers everything. People come to him for stories of the old days, and he tells them exactly what happened, no more.

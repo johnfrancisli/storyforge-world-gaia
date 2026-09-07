@@ -12,36 +12,51 @@ gm_notes: 'Fale is a wood carver who makes the practical wooden tools of the Arc
   The canoe sank three days later. She has been afraid to carve anything since, because the wood is showing
   her things that have not happened, and she does not know if she is seeing the future or causing it.'
 aliases: []
-race: ''
-gender: ''
-age: thirty-three
-heritage: ''
-social_station: ''
+race: Human
+gender: Female
+age: 33
+heritage: Archipelagan
+social_station: Artisan
 role: Wood carver
-proficient_skills: []
+proficient_skills:
+- Crafting (Carving)
+- Artistry
+- Appraisal
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 5
+  hp: 45
+  mana: 54
+  stamina: 50
+  speed: 34
+  defense: 22
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 13
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 11
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 4
+  silver: 14
+  copper: 16
 appearance: A solid, plain man with a craftswoman's hands and an unremarkable face. She works steadily
   and without flair, and her workshop is full of functional, beautiful-in-their-simplicity wooden objects.
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'Fale is a wood carver who makes the practical wooden tools of the Archipelago — bowls, utensils,
+  paddles, house posts. She is not an artist; she is a craftswoman, and her work is valued for its durability
+  rather than its beauty. Her secret is that the wood she uses has been talking to her. Not in words —
+  in grain. When she carves a piece of wood, she can feel its history: where it grew, what weather it
+  endured, what touched it. She has always had a feel for wood, but over the past year, the sensation
+  has become specific and detailed — she can feel events that happened near the tree, including ones that
+  happened after the wood was cut. She carved a paddle from driftwood last month and felt, through the
+  grain, the image of a canoe sinking in a storm that had not happened yet. She dismissed it as imagination.
+  The canoe sank three days later. She has been afraid to carve anything since, because the wood is showing
+  her things that have not happened, and she does not know if she is seeing the future or causing it.'
+personality: Guarded and cautious with trust, blunt and rough-spoken, carries a secret that shapes every
+  decision.
+key_phrases:
+- The material tells you what it wants to become.
+- My hands remember what my mind forgets.
 visual:
   body_build: solid, strong-handed, plain
   skin: medium brown, wood-stained
@@ -67,5 +82,8 @@ current_state:
   location: location:tide-archipelago
 purview: []
 ---
+
+
+
 
 A practical wood carver whose wood has begun showing her future events through its grain. She carved a paddle and saw a canoe sink three days before it happened.

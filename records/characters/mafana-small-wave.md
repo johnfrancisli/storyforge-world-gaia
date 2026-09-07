@@ -12,27 +12,30 @@ gm_notes: 'Mafana is nine years old and arrived at Lani Atoll with nothing — n
   the old songs as they are — they are the old songs as they will be, with new verses that name islands
   that have not yet submerged.'
 aliases: []
-race: ''
-gender: ''
-age: nine
-heritage: ''
-social_station: ''
+race: Human
+gender: Female
+age: 9
+heritage: Archipelagan
+social_station: Commoner
 role: Refugee child
-proficient_skills: []
+proficient_skills:
+- Streetwise
+- Sneaking
+- Survival
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 1
+  hp: 15
+  mana: 22
+  stamina: 25
+  speed: 25
+  defense: 18
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
   gold: 0
   silver: 0
@@ -40,9 +43,20 @@ currency:
 appearance: A small, watchful girl who moves silently and communicates through gesture. She is always
   near the water and always listening. She carries a small piece of coral she found on arrival and has
   not let go of since.
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'Mafana is nine years old and arrived at Lani Atoll with nothing — no family, no island, no
+  lineage. She was found alone on a canoe drifting in the lagoon, and no one knows where she came from.
+  She does not speak. She communicates through gesture and expression and is remarkably easy to understand
+  once you learn her signals. Her secret — the one no one has discovered because no one has thought to
+  check — is that she can sing. Not just sing: she can sing the deep-water songs that Elder Wayfinder
+  Pua has spent a lifetime learning. She sang one in her sleep the first night at the refugee shelter,
+  and the woman sleeping next to her recognized it and has not told anyone. Mafana does not know she is
+  doing it. She does not know where the songs come from. And the songs she sings in her sleep are not
+  the old songs as they are — they are the old songs as they will be, with new verses that name islands
+  that have not yet submerged.'
+personality: Reserved and soft-spoken, guarded and cautious with trust, blunt and rough-spoken.
+key_phrases:
+- I'm not afraid. I'm just... careful.
+- When you're small, you learn to notice things.
 visual:
   body_build: small, thin, watchful
   skin: light brown
@@ -65,5 +79,6 @@ current_state:
   location: location:lani-atoll
 purview: []
 ---
+
 
 A nine-year-old refugee girl who does not speak but sings ancient songs in her sleep — songs she has never been taught, with new verses that prophesy islands not yet lost.

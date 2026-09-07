@@ -8,36 +8,47 @@ gm_notes: A fortune teller in Jin-an's market district who reads palms and torto
   warn a powerful person, her family was killed in reprisal. She is now weighing whether to warn the warlord
   (who she despises) to save innocent festival-goers who might die in the violence.
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Female
 age: 42
-heritage: ''
-social_station: ''
+heritage: Sangguo (Jin)
+social_station: Clergy
 role: Fortune teller and reluctant seer
-proficient_skills: []
+proficient_skills:
+- Divination
+- Spirit Lore
+- Ritual Magic
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 5
+  hp: 37
+  mana: 91
+  stamina: 55
+  speed: 27
+  defense: 23
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 11
+    WIS: 14
+    CHA: 11
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 5
+  silver: 16
+  copper: 14
 appearance: Mystical and theatrical in market-performers' robes, draped in auspicious charms. Eyes that
   seem to look through people.
-biography: ''
-personality: ''
-key_phrases: []
+biography: A fortune teller in Jin-an's market district who reads palms and tortoise shells. She is genuinely
+  gifted—her readings are accurate about seventy percent of the time, a gift from a qilin-spirit encounter
+  in childhood. She has read the palms of three of the Jin warlord's inner circle and knows that a coup
+  is being planned for the autumn festival. She has not told anyone because the last time she tried to
+  warn a powerful person, her family was killed in reprisal. She is now weighing whether to warn the warlord
+  (who she despises) to save innocent festival-goers who might die in the violence.
+personality: Strict and disciplined, blunt and rough-spoken.
+key_phrases:
+- The future is not fixed. It is inclined.
+- I see patterns, not certainties. Do not confuse the two.
+- I will not rest until I warn someone about the coup without endangering herself.
 visual:
   body_build: thin and angular
   hair: black with gray streaks, loose and talisman-pinned
@@ -59,5 +70,8 @@ current_state:
   location: location:jin-an
 purview: []
 ---
+
+
+
 
 A popular fortune teller in Jin-an's market whose palm readings are eerily accurate, drawing clients from all social classes.

@@ -9,37 +9,49 @@ gm_notes: Sable is a bounty hunter and former soldier who deserted the kingdom's
   that she lost the trail, buying time. Her client is growing impatient and has hinted that if she cannot
   retrieve the girl, others will be sent — and they will not be as gentle.
 aliases: []
-race: ''
-gender: ''
+race: Halfling
+gender: Female
 age: 28
-heritage: ''
-social_station: ''
+heritage: Valdrian
+social_station: Military
 role: Bounty Hunter / Sellsword
-proficient_skills: []
+proficient_skills:
+- Survival
+- Crafting
+- Perception
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 5
+  hp: 50
+  mana: 57
+  stamina: 57
+  speed: 33
+  defense: 24
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 8
+    DEX: 14
+    CON: 12
+    INT: 10
+    WIS: 12
+    CHA: 12
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 1
+  silver: 18
+  copper: 9
 appearance: Lean and hard-eyed, Sable wears worn leather armour and a dark cloak. She carries a short
   sword and a set of manacles on her belt — the manacles have not been used in weeks. She has the watchful
   stillness of a hunter, but something in her expression has softened recently.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Sable is a bounty hunter and former soldier who deserted the kingdom's border forces after
+  refusing to participate in the massacre of a refugee column. She has been living as a sellsword and
+  bounty hunter ever since, hunting criminals for coin. She was recently offered a lucrative contract
+  to find and capture a young halfling girl who stole a sealed letter from a nobleman in Crownhaven. Sable
+  tracked the girl — Daisy Teasprout — but upon realizing the target is a twelve-year-old child, she stalled.
+  She has reported that she lost the trail, buying time. Her client is growing impatient and has hinted
+  that if she cannot retrieve the girl, others will be sent — and they will not be as gentle.
+personality: Composed and even-tempered, dignified and self-assured, compassionate and tender-hearted.
+key_phrases:
+- I do what must be done.
+- The work comes first. Everything else can wait.
+- I will not rest until I find a way to protect daisy without exposing me own identity as a deserter.
 visual:
   body_build: lean and sinewy
   hair: black, short, uneven (cut with a knife)
@@ -60,5 +72,9 @@ current_state:
   location: location:crownhaven
 purview: []
 ---
+
+
+
+
 
 A deserting soldier turned bounty hunter who has tracked her target to a frightened child — and found, for the second time in her life, an order she cannot follow.

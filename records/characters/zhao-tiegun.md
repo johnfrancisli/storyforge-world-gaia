@@ -9,35 +9,48 @@ gm_notes: A blacksmith who forges weapons for the Chu army and has secretly deve
   the miners. He is being investigated by the Chu army's quartermaster for quality inconsistencies in
   army-issue blades.
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Male
 age: 40
-heritage: ''
-social_station: ''
+heritage: Sangguo (Jin)
+social_station: Merchant
 role: Army blacksmith and secret qilin-iron weapons dealer
-proficient_skills: []
+proficient_skills:
+- Crafting (Metalwork)
+- Appraisal
+- Endurance
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 5
+  hp: 52
+  mana: 50
+  stamina: 58
+  speed: 28
+  defense: 22
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 13
+    DEX: 10
+    CON: 12
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 6
+  silver: 35
+  copper: 31
 appearance: Soot-blackened and taciturn, wearing a heavy leather forge-apron. Arms like tree trunks.
-biography: ''
-personality: ''
-key_phrases: []
+biography: A blacksmith who forges weapons for the Chu army and has secretly developed a method to fold
+  qilin-iron into ordinary steel, creating blades that hold a chi-edge three times sharper than normal.
+  He is selling these enhanced weapons on the black market to fighters from all three states. He does
+  not know the qilin-iron comes from Tian Baoshan's mine, and he does not know the iron is poisonous.
+  His enhanced blades are slowly killing their wielders through the same chi-wasting sickness affecting
+  the miners. He is being investigated by the Chu army's quartermaster for quality inconsistencies in
+  army-issue blades.
+personality: Guarded and cautious with trust, blunt and rough-spoken, carries a secret that shapes every
+  decision.
+key_phrases:
+- Metal has opinions. My job is to negotiate.
+- The forge teaches patience whether you want to learn it or not.
+- I will not rest until I perfect the qilin-iron folding technique and create a legendary blade.
 visual:
   body_build: massive, heavy-armed, thick-necked
   hair: shaved, scarred from forge-sparks
@@ -59,5 +72,7 @@ current_state:
   location: location:jin-an
 purview: []
 ---
+
+
 
 A broad-shouldered Chu blacksmith whose forge produces army blades by day and secretive high-quality weapons by night.

@@ -75,4 +75,4 @@ current_state:
 purview: []
 ---
 
-A thin, precise human elder who keeps the oral genealogies and carved bone-records of the Verdania tribes and can recite family lines back centuries.
+A thin, precise human elder who keeps the oral genealogies and carved bone-records of the [[location:verdania|Verdania]] tribes and can recite family lines back centuries.

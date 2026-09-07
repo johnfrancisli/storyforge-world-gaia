@@ -7,36 +7,46 @@ gm_notes: Mira is a halfling herbalist who discovered a rare mushroom that can t
   knight by severing their bond mid-flight. She is hiding the remaining supply in a false-bottomed root
   cellar.
 aliases: []
-race: ''
-gender: ''
+race: Halfling
+gender: Female
 age: 38
-heritage: ''
-social_station: ''
+heritage: Valdrian
+social_station: Artisan
 role: Herbalist
-proficient_skills: []
+proficient_skills:
+- Herbalism
+- Medicine
+- Lore (Local Flora)
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 7
+  hp: 61
+  mana: 76
+  stamina: 63
+  speed: 37
+  defense: 18
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 8
+    DEX: 14
+    CON: 12
+    INT: 11
+    WIS: 16
+    CHA: 13
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 2
+  silver: 13
+  copper: 13
 appearance: Small and round-faced, Mira wears a patched green dress and carries herbs in every pocket.
   Her curly hair always seems to have a leaf or twig caught in it.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Mira is a halfling herbalist who discovered a rare mushroom that can temporarily suppress a
+  dragon-bonded knight's connection to their dragon. She has not told anyone, but a noble has been pressuring
+  her to sell her entire supply. She suspects the mushrooms could be used to assassinate a dragon-bonded
+  knight by severing their bond mid-flight. She is hiding the remaining supply in a false-bottomed root
+  cellar.
+personality: Dignified and self-assured, guarded and cautious with trust.
+key_phrases:
+- Every plant has a purpose, if you listen closely enough.
+- The earth provides, if you know where to look.
+- I will not rest until I keep me village healthy without relying on expensive city healers.
 visual:
   body_build: short and soft, halfling stature
   hair: sandy blonde, tightly curled, perpetually unruly
@@ -57,5 +67,9 @@ current_state:
   location: location:valdris
 purview: []
 ---
+
+
+
+
 
 A cheerful halfling herbalist with dirt under her nails and a dangerous secret growing in her cellar.

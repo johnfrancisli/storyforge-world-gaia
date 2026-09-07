@@ -7,36 +7,46 @@ gm_notes: Finneas is a halfling tinker who travels between villages repairing po
   employer mentioning 'the night of the red moon,' which he believes is a planned attack on the castle.
   He has the copied keys and does not know whether to deliver them or warn the castle.
 aliases: []
-race: ''
-gender: ''
+race: Halfling
+gender: Male
 age: 33
-heritage: ''
-social_station: ''
+heritage: Valdrian
+social_station: Artisan
 role: Tinker
-proficient_skills: []
+proficient_skills:
+- Survival
+- Crafting
+- Perception
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 5
+  hp: 51
+  mana: 59
+  stamina: 52
+  speed: 34
+  defense: 20
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 8
+    DEX: 14
+    CON: 12
+    INT: 10
+    WIS: 12
+    CHA: 12
 currency:
   gold: 0
-  silver: 0
-  copper: 0
+  silver: 19
+  copper: 26
 appearance: Small and road-dusty, Finneas wears a patched travelling coat with dozens of pockets, each
   holding tools and trinkets. A mule named Doris carries his wares.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Finneas is a halfling tinker who travels between villages repairing pots, tools, and locks.
+  He is also a master lockpick who has been secretly hired by a minor lord to copy the keys to Crownhaven's
+  outer gates. Finneas took the job for the money but is now having second thoughts — he overheard his
+  employer mentioning 'the night of the red moon,' which he believes is a planned attack on the castle.
+  He has the copied keys and does not know whether to deliver them or warn the castle.
+personality: Guarded and cautious with trust, carries a secret that shapes every decision.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
+- I will not rest until I earn enough to settle down and open a proper shop.
 visual:
   body_build: short and wiry, halfling stature
   hair: reddish-brown, unruly curls
@@ -56,5 +66,7 @@ current_state:
   location: location:valdris
 purview: []
 ---
+
+
 
 A road-worn halfling tinker whose nimble fingers fix broken things — and open locked ones — far more often than he'd like to admit.

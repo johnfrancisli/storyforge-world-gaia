@@ -9,37 +9,49 @@ gm_notes: 'Maren is a squire to a Dragon Order knight who was killed in a skirmi
   the Order''s oath of bonding is sworn upon. If the relic has been replaced with a forgery, every oath
   sworn upon it may be invalid.'
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Female
 age: 17
-heritage: ''
-social_station: ''
+heritage: Valdrian
+social_station: Artisan
 role: Squire
-proficient_skills: []
+proficient_skills:
+- Survival
+- Crafting
+- Perception
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 2
+  hp: 31
+  mana: 40
+  stamina: 39
+  speed: 25
+  defense: 17
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 5
+  silver: 2
+  copper: 12
 appearance: Young and determined, Maren wears a squire's padded tunic and carries her late knight's sword,
   which is slightly too large for her. She has the posture of someone who refuses to grieve until the
   work is done.
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'Maren is a squire to a Dragon Order knight who was killed in a skirmish three weeks ago. Her
+  knight died before completing her squire training, leaving Maren in limbo — not a knight, but too trained
+  to be a civilian. What no one knows is that her knight''s dying words were not a farewell but a warning:
+  ''The scale is a lie. The scale in the vault is not the true scale.'' Maren does not know what scale
+  or vault her knight meant, but she believes it refers to the Dragon Heart Scale — the sacred relic that
+  the Order''s oath of bonding is sworn upon. If the relic has been replaced with a forgery, every oath
+  sworn upon it may be invalid.'
+personality: Tired and carrying a heavy burden, driven and relentless in pursuit of goals.
+key_phrases:
+- I do what must be done.
+- The work comes first. Everything else can wait.
+- I will not rest until I understand me knight's final warning about the dragon heart scale.
 visual:
   body_build: athletic and still growing
   hair: black, cut short in the squire's style
@@ -60,5 +72,9 @@ current_state:
   location: location:dragonrest
 purview: []
 ---
+
+
+
+
 
 A squire whose knight died in her arms with a warning on her lips — a warning Maren does not yet understand but knows she must unravel before the truth is buried with the dead.

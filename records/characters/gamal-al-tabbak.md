@@ -12,37 +12,52 @@ gm_notes: 'A male cook who runs a kitchen in a binding family''s estate, prepari
   the system. He does not know that his slow poison is also weakening the Pact''s enforcement mechanisms,
   which protect the entire city from inter-family war.'
 aliases: []
-race: ''
-gender: ''
+race: Elf
+gender: Male
 age: 40
-heritage: ''
-social_station: ''
+heritage: Al-Khayzari
+social_station: Commoner
 role: Binding family cook, saboteur
-proficient_skills: []
+proficient_skills:
+- Cooking
+- Herbalism
+- Hospitality
+- Lore (Forests)
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 5
+  hp: 47
+  mana: 58
+  stamina: 49
+  speed: 37
+  defense: 19
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 9
+    DEX: 14
+    CON: 9
+    INT: 14
+    WIS: 12
+    CHA: 12
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 1
+  silver: 10
+  copper: 21
 appearance: Unassuming and efficient in a cook's whites, he is the model of a professional estate cook
   — quiet, fast, clean. He serves exquisite food and never tastes it himself, claiming a sensitive stomach.
   His hands are steady and his manner is unremarkable, which is exactly how he wants it.
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'A male cook who runs a kitchen in a binding family''s estate, preparing feasts for the Council
+  and private dinners for the family heads. Gamal has been poisoning the binding families'' food with
+  a slow-acting compound that suppresses the binding connection — not enough to break contracts, but enough
+  to make the djinn''s power erratic and unreliable. He obtained the compound from Fatima bint Idris (character:fatima-bint-idris),
+  who does not know what he is using it for. Gamal''s motivation is personal: his sister was a binding
+  family servant who was ''collected'' by a djinn when a family contract came due and the family chose
+  to pay the debt with a servant''s life instead of their own. He has been weakening the binding families''
+  contracts for two years, waiting for enough degradation to cause a public failure that would expose
+  the system. He does not know that his slow poison is also weakening the Pact''s enforcement mechanisms,
+  which protect the entire city from inter-family war.'
+personality: Precise and detail-oriented, reserved and soft-spoken, guarded and cautious with trust.
+key_phrases:
+- Food is love made edible.
+- A good cook feeds the body. A great cook feeds the soul.
 visual:
   body_build: medium, unremarkable
   hair: black, cropped, under a cook's cap
@@ -68,5 +83,7 @@ current_state:
   location: location:zaffar
 purview: []
 ---
+
+
 
 An unassuming, efficient cook in a binding family's estate kitchen who prepares feasts for the Council and private dinners for the family heads. He is the model of a professional estate cook — quiet, fast, clean — and never tastes his own food.

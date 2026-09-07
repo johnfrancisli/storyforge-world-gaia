@@ -2,46 +2,60 @@
 id: character:walid-al-tujjar
 name: Walid al-Tujjar
 gm_notes: A male spice merchant who controls the pepper and clove trade through the mountain passes. Walid
-  is secretly the half-brother of Yasmin al-Barrani (character:yasmin-al-barrani) — they share
-  a mother, though neither knows it. Their mother was a caravan driver who had children by two different
+  is secretly the half-brother of Yasmin al-Barrani (character:yasmin-al-barrani) — they share a mother,
+  though neither knows it. Their mother was a caravan driver who had children by two different merchants
+  and gave both up. Walid has been contracted by a binding family to spy on Yasmin, who they suspect is
+  building a political movement against them. Walid has been reporting Yasmin's activities to the binding
+  family for six months, feeding them just enough to stay paid. He has begun to admire Yasmin from afar,
+  not knowing she is his sister, and is conflicted about the spying. He is looking for a way to warn her
+  without exposing himself, and he has recently found their mother's name in an old shipping manifest
+  — a discovery that is pulling him toward a truth that will upend everything.
+aliases: []
+race: Elf
+gender: Male
+age: 52
+heritage: Al-Khayzari
+social_station: Merchant
+role: Spice merchant, binding family informant
+proficient_skills:
+- Appraisal
+- Negotiation
+- Accounting
+- Lore (Forests)
+stats:
+  level: 8
+  hp: 58
+  mana: 75
+  stamina: 59
+  speed: 37
+  defense: 20
+  attributes:
+    STR: 9
+    DEX: 14
+    CON: 9
+    INT: 15
+    WIS: 13
+    CHA: 16
+currency:
+  gold: 25
+  silver: 23
+  copper: 26
+appearance: Round-faced and jovial in a merchant's fine robes, he is the picture of a successful trader
+  — generous with samples, free with compliments, always smiling. His eyes, however, are calculating,
+  and his smile reaches them less often than it should.
+biography: A male spice merchant who controls the pepper and clove trade through the mountain passes.
+  Walid is secretly the half-brother of Yasmin al-Barrani (character:yasmin-al-barrani) — they share a
+  mother, though neither knows it. Their mother was a caravan driver who had children by two different
   merchants and gave both up. Walid has been contracted by a binding family to spy on Yasmin, who they
   suspect is building a political movement against them. Walid has been reporting Yasmin's activities
   to the binding family for six months, feeding them just enough to stay paid. He has begun to admire
   Yasmin from afar, not knowing she is his sister, and is conflicted about the spying. He is looking for
   a way to warn her without exposing himself, and he has recently found their mother's name in an old
   shipping manifest — a discovery that is pulling him toward a truth that will upend everything.
-aliases: []
-race: ''
-gender: ''
-age: 52
-heritage: ''
-social_station: ''
-role: Spice merchant, binding family informant
-proficient_skills: []
-stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
-  attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
-currency:
-  gold: 0
-  silver: 0
-  copper: 0
-appearance: Round-faced and jovial in a merchant's fine robes, he is the picture of a successful trader
-  — generous with samples, free with compliments, always smiling. His eyes, however, are calculating,
-  and his smile reaches them less often than it should.
-biography: ''
-personality: ''
-key_phrases: []
+personality: Shrewd and calculating, guarded and cautious with trust, blunt and rough-spoken.
+key_phrases:
+- A fair deal leaves both sides slightly unhappy. That is how you know it was fair.
+- Trust is the only currency that compounds.
 visual:
   body_build: stout and round, prosperous
   hair: black, greying, oiled and well-kept
@@ -63,5 +77,7 @@ current_state:
   location: location:zaffar
 purview: []
 ---
+
+
 
 A round-faced, jovial spice merchant who controls the pepper and clove trade through the mountain passes. He is the picture of a successful trader — generous with samples, free with compliments, always smiling — though his eyes calculate more than his smile suggests.

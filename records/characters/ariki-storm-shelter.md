@@ -13,37 +13,53 @@ gm_notes: 'Ariki was the chief of a small island that submerged two years ago. S
   because she is afraid they will see it as a power grab rather than a survival plan, and she needs everything
   in place before she announces it.'
 aliases:
-- 'Ariki Lost-Chief'
-race: ''
-gender: ''
-age: fifty-five
-heritage: ''
-social_station: ''
+- Ariki Lost-Chief
+race: Elf
+gender: Female
+age: 55
+heritage: Archipelagan
+social_station: Nobility
 role: Refugee and former chief
-proficient_skills: []
+proficient_skills:
+- Survival
+- Endurance
+- Streetwise
+- Lore (Forests)
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 9
+  hp: 63
+  mana: 76
+  stamina: 65
+  speed: 37
+  defense: 17
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 9
+    DEX: 14
+    CON: 9
+    INT: 14
+    WIS: 12
+    CHA: 12
 currency:
   gold: 0
-  silver: 0
-  copper: 0
+  silver: 3
+  copper: 1
 appearance: A dignified, composed woman who carries herself with a chief's bearing even in refugee cloth.
   She is always in conversation, always building relationships, always listening more than she speaks.
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'Ariki was the chief of a small island that submerged two years ago. She arrived at Lani Atoll
+  with her people — twelve families — and has been living as a refugee ever since. She is technically
+  still a chief, but without an island, her authority is symbolic at best. She has been quiet, helpful,
+  and unobtrusive, and most people see her as a dignified elder. Her secret is that she is not quiet at
+  all. She has been meeting with chiefs from three other islands that are projected to submerge within
+  the next year, and she is building a coalition to do something unprecedented: merge their populations
+  onto a single island that can support them all, and form a new joint governance. She has identified
+  the island — a large, elevated islet that is currently uninhabited — and she has been quietly negotiating
+  with its nearest neighbor for water rights. She has not told the refugee council or the wayfinder guilds
+  because she is afraid they will see it as a power grab rather than a survival plan, and she needs everything
+  in place before she announces it.'
+personality: Reserved and soft-spoken, dignified and self-assured, guarded and cautious with trust.
+key_phrases:
+- Home is not a place. It is the people who remember your name.
+- I lost everything. I will not lose who I am.
 visual:
   body_build: dignified, composed, straight-backed
   skin: deep brown
@@ -70,5 +86,7 @@ current_state:
   location: location:lani-atoll
 purview: []
 ---
+
+
 
 A chief who lost her island and has been living quietly as a refugee while secretly building a coalition to merge four sinking islands' populations onto one that can survive.

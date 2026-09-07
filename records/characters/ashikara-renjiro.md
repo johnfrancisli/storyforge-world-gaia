@@ -9,38 +9,50 @@ gm_notes: 'The elder prince was not always cruel. Before the Noh mask made by Me
   behavior changing and it frightens him — but he can''t identify the source. He hasn''t removed the mask
   in public since he received it, and the spirit has made him afraid to take it off.'
 aliases:
-- 'Prince Ashikara Renjiro'
-race: ''
-gender: ''
-age: mid-twenties
-heritage: ''
-social_station: ''
+- Prince Ashikara Renjiro
+race: Elf
+gender: Male
+age: 25
+heritage: Tsukuyomi
+social_station: Nobility
 role: Elder prince of the Ashikara shogunate
-proficient_skills: []
+proficient_skills:
+- Leadership
+- Strategy
+- Politics
+- Lore (Forests)
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 6
+  hp: 52
+  mana: 63
+  stamina: 56
+  speed: 33
+  defense: 15
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 9
+    DEX: 14
+    CON: 9
+    INT: 14
+    WIS: 12
+    CHA: 12
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 41
+  silver: 35
+  copper: 11
 appearance: He wears formal court attire in dark colors and a white Noh mask that depicts a handsome,
   severe face. His movements are controlled and deliberate. He holds himself like a man who has never
   been contradicted and expects he never will be.
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'The elder prince was not always cruel. Before the Noh mask made by Mei (character:kurosawa-mei)
+  was given to him as a court gift two years ago, he was sharp, ambitious, but fundamentally fair — a
+  stern man, not a vicious one. The spirit housed in the mask has been amplifying his worst impulses:
+  paranoia, contempt, aggression. He''s been having gaps in his memory during council meetings, where
+  the mask''s influence is strongest. A part of him is aware something is wrong — he''s noticed his own
+  behavior changing and it frightens him — but he can''t identify the source. He hasn''t removed the mask
+  in public since he received it, and the spirit has made him afraid to take it off.'
+personality: Reserved and soft-spoken, strict and disciplined, driven and relentless in pursuit of goals.
+key_phrases:
+- I will not be my father. I will not be his mistake.
+- The throne is not my goal. It is my responsibility.
 visual:
   body_build: tall, erect, military bearing
   hair: black, in a formal topknot
@@ -61,5 +73,7 @@ current_state:
   location: location:tsuki-no-miyako
 purview: []
 ---
+
+
 
 The elder son of the Shogun, a man in his mid-twenties known for his competence in administration and his growing cruelty toward subordinates. He wears a Noh mask at all public functions — a practice he began two years ago that everyone attributes to eccentricity. He speaks precisely and never raises his voice, which makes his words cut deeper.

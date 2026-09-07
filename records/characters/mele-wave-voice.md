@@ -11,36 +11,49 @@ gm_notes: Mele is the singer who leads the canoe songs that keep paddlers in rhy
   did not run. She sang louder. The shape came closer. She is afraid she is being called by something
   that lives in the deep water, and she is afraid that what she feels is not fear but longing.
 aliases: []
-race: ''
-gender: ''
-age: twenty-three
-heritage: ''
-social_station: ''
+race: Human
+gender: Female
+age: 23
+heritage: Archipelagan
+social_station: Artisan
 role: Singer
-proficient_skills: []
+proficient_skills:
+- Appraisal
+- Negotiation
+- Accounting
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 3
+  hp: 35
+  mana: 43
+  stamina: 45
+  speed: 29
+  defense: 22
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 4
+  silver: 10
+  copper: 16
 appearance: A slight, bright-voiced woman who seems to vibrate with sound even when she is silent. She
   wears simple cloth and goes barefoot, always near the water's edge.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Mele is the singer who leads the canoe songs that keep paddlers in rhythm and the evening songs
+  that close the day. She has a voice that carries over wind and water without effort. Her secret is that
+  she has been hearing a harmony she did not sing — a second voice that joins hers when she sings alone
+  on the beach at night. It started three months ago, and it sings in a register she cannot reach, words
+  she cannot understand but that feel like they are saying her name. She has been going to the beach every
+  night to sing with the voice, and it has been getting closer. Last week, for the first time, she saw
+  something in the water when the voice sang — a shape, pale and large, just beneath the surface. She
+  did not run. She sang louder. The shape came closer. She is afraid she is being called by something
+  that lives in the deep water, and she is afraid that what she feels is not fear but longing.
+personality: Warm and optimistic, reserved and soft-spoken, guarded and cautious with trust.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
 visual:
   body_build: slight, thin, resonant-voiced
   skin: medium brown
@@ -64,5 +77,8 @@ current_state:
   location: location:lani-atoll
 purview: []
 ---
+
+
+
 
 A singer whose voice has attracted something from the deep water. Every night she sings on the beach, it comes closer, and she is not sure she wants it to stop.

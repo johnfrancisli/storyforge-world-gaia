@@ -8,38 +8,48 @@ gm_notes: Oron is a politician, not a shaman. He respects Nara but is tired of h
   the river spirit's warning is about something supernatural; he thinks it is about the river flooding,
   which is a problem engineering can solve, not magic.
 aliases:
-- 'Chief Oron of Iara'
-race: ''
-gender: ''
-age: mid-fifties
-heritage: ''
-social_station: ''
+- Chief Oron of Iara
+race: Human
+gender: Male
+age: 25
+heritage: Verdanian
+social_station: Nobility
 role: Chief of Iara
-proficient_skills: []
+proficient_skills:
+- Ritual Magic
+- Lore (Spirits)
+- Meditation
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 4
+  hp: 40
+  mana: 51
+  stamina: 51
+  speed: 25
+  defense: 20
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 40
+  silver: 86
+  copper: 49
 appearance: A stocky, sun-darkened man in fine river-cloth and featherwork — the marks of his office.
   He carries a chief's staff of carved driftwood. He is usually in the council hall, arguing. He has a
   loud voice and uses it.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Oron is a politician, not a shaman. He respects Nara but is tired of her spiritual warnings
+  taking priority over practical problems. The city is flooding, people need housing, and the council
+  spends its time discussing spirit-pacts. He has been quietly building support to relocate Iara upstream,
+  away from the rising river — a massive undertaking that would split the community. He does not believe
+  the river spirit's warning is about something supernatural; he thinks it is about the river flooding,
+  which is a problem engineering can solve, not magic.
+personality: Reserved and soft-spoken, strict and disciplined, tired and carrying a heavy burden.
+key_phrases:
+- I do what must be done.
+- The work comes first. Everything else can wait.
 visual:
   body_build: stocky, broad
   skin: deep brown
@@ -63,4 +73,6 @@ current_state:
 purview: []
 ---
 
-The elected chief of Iara, a man in his fifties who governs the river capital. Practical, political, and increasingly frustrated with the shamans' influence over council decisions. He wants to solve the flooding with engineering, not spirit-pacts.
+
+
+The elected chief of [[location:iara|Iara]], a man in his fifties who governs the river capital. Practical, political, and increasingly frustrated with the shamans' influence over council decisions. He wants to solve the flooding with engineering, not spirit-pacts.

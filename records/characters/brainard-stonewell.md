@@ -9,36 +9,48 @@ gm_notes: 'Brainard is a city watchman on the night shift in Crownhaven''s lower
   — it belongs to Lord Cael. Brainard has not reported this because he knows the report would vanish and
   he would be reassigned or worse. He is sitting on the most dangerous secret in Crownhaven.'
 aliases: []
-race: ''
-gender: ''
+race: Elf
+gender: Male
 age: 33
-heritage: ''
-social_station: ''
+heritage: Valdrian
+social_station: Military
 role: City Watchman
-proficient_skills: []
+proficient_skills:
+- Combat
+- Tactics
+- Endurance
+- Lore (Forests)
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 6
+  hp: 51
+  mana: 64
+  stamina: 52
+  speed: 34
+  defense: 19
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 9
+    DEX: 14
+    CON: 9
+    INT: 14
+    WIS: 12
+    CHA: 12
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 1
+  silver: 16
+  copper: 7
 appearance: Solid and plain-faced, Brainard wears a watchman's leather cuirass and carries a lantern and
   a club. He has the tired eyes of a man who sees the worst of the city every night.
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'Brainard is a city watchman on the night shift in Crownhaven''s lower town. He is honest in
+  a district where most of his fellow watchmen take bribes. He has been documenting the corruption in
+  a private journal for two years, intending to present it to the captain — but the captain himself is
+  on the take. Recently, Brainard interrupted a murder in progress: a man in nobleman''s clothing was
+  killing a street vendor with a thin blade. The nobleman fled, but Brainard recognized his signet ring
+  — it belongs to Lord Cael. Brainard has not reported this because he knows the report would vanish and
+  he would be reassigned or worse. He is sitting on the most dangerous secret in Crownhaven.'
+personality: Dignified and self-assured, strict and disciplined, tired and carrying a heavy burden.
+key_phrases:
+- I do what must be done.
+- The work comes first. Everything else can wait.
 visual:
   body_build: stocky and solid
   hair: brown, short, practical
@@ -59,5 +71,7 @@ current_state:
   location: location:crownhaven
 purview: []
 ---
+
+
 
 An honest night watchman in a district that runs on bribes, carrying a journal full of names and a memory full of a face he wishes he could forget.

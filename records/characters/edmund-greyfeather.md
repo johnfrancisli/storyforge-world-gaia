@@ -7,36 +7,47 @@ gm_notes: Edmund is a half-elf forester who patrols the King's Wood. He discover
   by a lookout. He is now hiding in the forest, afraid to return to his post or his home, because the
   trappers know his face. He has information that could expose the operation but no one to trust.
 aliases: []
-race: ''
-gender: ''
+race: Elf
+gender: Male
 age: 35
-heritage: ''
-social_station: ''
+heritage: Valdrian
+social_station: Artisan
 role: Forester
-proficient_skills: []
+proficient_skills:
+- Diplomacy
+- Politics
+- Leadership
+- Lore (Forests)
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 9
+  hp: 65
+  mana: 77
+  stamina: 66
+  speed: 36
+  defense: 21
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 9
+    DEX: 14
+    CON: 9
+    INT: 14
+    WIS: 12
+    CHA: 12
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 4
+  silver: 14
+  copper: 3
 appearance: Lean and weathered, Edmund wears forest-green garb and a hooded cloak. His ears are slightly
   pointed but less pronounced than a full elf's, and he carries a longbow.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Edmund is a half-elf forester who patrols the King's Wood. He discovered a poaching camp that
+  was not just taking deer — it was trapping live dragons, young ones, barely fledged. The trappers are
+  well-equipped and organized, suggesting a wealthy backer. Edmund disabled two traps but was spotted
+  by a lookout. He is now hiding in the forest, afraid to return to his post or his home, because the
+  trappers know his face. He has information that could expose the operation but no one to trust.
+personality: Guarded and cautious with trust.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
+- I will not rest until I expose the dragon-trapping operation and bring its backers to justice.
 visual:
   body_build: lean and rangy
   hair: dark brown, shaggy
@@ -57,5 +68,7 @@ current_state:
   location: location:valdris
 purview: []
 ---
+
+
 
 A half-elf forester who knows every tree in the King's Wood — and who is currently hiding among them, hunted by men who trap dragons.

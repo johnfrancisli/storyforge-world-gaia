@@ -10,37 +10,49 @@ gm_notes: Katsura is a shrine kitsune who has served Haru Shrine for three hundr
   tired. She fears that when the network falls, she will revert to a wild fox with no memory of her centuries
   of service.
 aliases: []
-race: ''
-gender: ''
-age: ageless — appears early thirties
-heritage: ''
-social_station: ''
+race: Kitsune (Yokai)
+gender: Female
+age: 25
+heritage: Tsukuyomi
+social_station: Artisan
 role: Shrine kitsune (tame fox spirit)
-proficient_skills: []
+proficient_skills:
+- Diplomacy
+- Politics
+- Leadership
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 5
+  hp: 39
+  mana: 75
+  stamina: 52
+  speed: 29
+  defense: 20
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 1
+  silver: 3
+  copper: 10
 appearance: She wears the white and red of a senior shrine maiden, her movements precise and ancient in
   a way that feels like watching a ceremony rather than a person. A faint smell of autumn leaves follows
   her. In certain light, something shifts behind her — a shadow that doesn't match her silhouette.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Katsura is a shrine kitsune who has served Haru Shrine for three hundred years, appearing as
+  a human maiden to the villagers. She knows Tamamo (character:tamamo) — they are ancient rivals, having
+  clashed a century ago over the question of whether wild yokai should be brought into the shrine system.
+  Katsura believes the network must be maintained at all costs; Tamamo believes it should fall. Katsura's
+  power is directly tied to the shrine network, and as it weakens, she is losing her ability to maintain
+  her human form. She's begun to flicker — her tails showing at odd moments, her ears appearing when she's
+  tired. She fears that when the network falls, she will revert to a wild fox with no memory of her centuries
+  of service.
+personality: Precise and detail-oriented, tired and carrying a heavy burden, blunt and rough-spoken.
+key_phrases:
+- I do what must be done.
+- The work comes first. Everything else can wait.
 visual:
   body_build: slender, still
   hair: pale gold, long, bound with a shimenawa cord
@@ -64,5 +76,7 @@ current_state:
   location: location:haru-shrine-town
 purview: []
 ---
+
+
 
 A shrine maiden at Haru Shrine who has served the village for longer than anyone can remember. She tends the inner garden, trains the younger maidens, and keeps the shrine's oldest rituals alive. She is always the first to arrive and the last to leave.

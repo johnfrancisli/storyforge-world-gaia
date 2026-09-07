@@ -7,36 +7,46 @@ gm_notes: Galen is a monk at the Temple of the Sacred Flame who has spent thirty
   trying to trace the original unaltered version and believes it may be in a private collection in Crownhaven.
   He suspects the alteration was ordered by someone who is still alive and powerful.
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Male
 age: 67
-heritage: ''
-social_station: ''
+heritage: Valdrian
+social_station: Clergy
 role: Monk / Scribe
-proficient_skills: []
+proficient_skills:
+- Meditation
+- Calligraphy
+- Lore (Scriptures)
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 10
+  hp: 74
+  mana: 79
+  stamina: 70
+  speed: 25
+  defense: 22
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 11
+    WIS: 14
+    CHA: 11
 currency:
-  gold: 0
-  silver: 0
+  gold: 8
+  silver: 8
   copper: 0
 appearance: Thin and pale from years indoors, Galen wears simple brown robes and wire-rimmed spectacles.
   His hands are ink-stained and trembling slightly with age.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Galen is a monk at the Temple of the Sacred Flame who has spent thirty years copying religious
+  texts. He recently discovered that a text he copied twenty years ago — a genealogy of the royal family
+  — was altered before it reached him. The alteration removed a branch of the family tree. He has been
+  trying to trace the original unaltered version and believes it may be in a private collection in Crownhaven.
+  He suspects the alteration was ordered by someone who is still alive and powerful.
+personality: Guarded and cautious with trust.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
+- I will not rest until I find the unaltered genealogy and restore the truth.
 visual:
   body_build: thin and stooped
   hair: white, wispy, tonsured
@@ -57,5 +67,7 @@ current_state:
   location: location:crownhaven
 purview: []
 ---
+
+
 
 A gentle old monk whose life among manuscripts has made him the kingdom's quietest threat to those who would rewrite history.

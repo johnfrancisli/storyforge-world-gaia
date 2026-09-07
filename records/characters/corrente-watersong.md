@@ -9,36 +9,51 @@ gm_notes: A Mizuhito river pilot who knows every submerged channel between Iara 
   trade alliance. She has begun teaching her own daughter a secret technique — a way to sense sabotaged
   spirit-bindings by touch — that she hopes will one day serve as evidence and protection both.
 aliases: []
-race: ''
-gender: ''
+race: Mizuhito
+gender: Female
 age: 52
-heritage: ''
-social_station: ''
+heritage: Verdanian
+social_station: Artisan
 role: Master river pilot and canoe navigator
-proficient_skills: []
+proficient_skills:
+- Navigation
+- Astronomy
+- Survival
+- Swimming
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 8
+  hp: 63
+  mana: 77
+  stamina: 69
+  speed: 42
+  defense: 19
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 16
+    CON: 11
+    INT: 13
+    WIS: 14
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 3
+  silver: 3
+  copper: 3
 appearance: Compact and weathered, perpetually damp. Wears minimal clothing of woven river-reed. Her webbed
   hands are callused from decades of paddle work.
-biography: ''
-personality: ''
-key_phrases: []
+biography: A Mizuhito river pilot who knows every submerged channel between Iara and the distant salt
+  mouth — knowledge she inherited from her mother, who drowned under circumstances no one will discuss.
+  Corrente privately believes her mother was killed by a rival pilot family that sabotaged her canoe's
+  spirit-binding. She has spent years quietly mapping their involvement and has confirmed the family's
+  identity, but the saboteurs are now allied with the Iara dock council, meaning any accusation would
+  collapse the fragile trade alliance. She has begun teaching her own daughter a secret technique — a
+  way to sense sabotaged spirit-bindings by touch — that she hopes will one day serve as evidence and
+  protection both.
+personality: Reserved and soft-spoken, guarded and cautious with trust, carries a secret that shapes every
+  decision.
+key_phrases:
+- The stars do not lie, but they do not explain themselves.
+- The ocean is not empty. It is full of things you cannot see.
+- I will not rest until I expose the rival pilot family without destroying the iara trade alliance.
 visual:
   body_build: broad-shouldered and short, powerful arms
   hair: dark green-blue, cropped short and clinging to the skull
@@ -61,5 +76,7 @@ current_state:
   location: location:iara
 purview: []
 ---
+
+
 
 A blue-skinned Mizuhito river pilot who navigates the flooded forests with an almost supernatural sense for hidden currents and submerged obstacles.

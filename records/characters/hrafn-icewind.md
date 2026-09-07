@@ -9,37 +9,49 @@ gm_notes: 'Hrafn is a boy of ten, the son of two of the jarl''s household thrall
   that should not have been there, a flicker in the fire. He is ten and does not understand what is happening,
   and he has not told anyone because he knows that seidr is for the volur, not for a thrall''s child.'
 aliases: []
-race: ''
-gender: ''
+race: Elf
+gender: Male
 age: 10
-heritage: ''
-social_station: ''
+heritage: Hrafnish
+social_station: Commoner
 role: Child
-proficient_skills: []
+proficient_skills:
+- Streetwise
+- Sneaking
+- Survival
+- Lore (Forests)
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 1
+  hp: 13
+  mana: 27
+  stamina: 22
+  speed: 33
+  defense: 18
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 9
+    DEX: 14
+    CON: 9
+    INT: 14
+    WIS: 12
+    CHA: 12
 currency:
   gold: 0
   silver: 0
-  copper: 0
+  copper: 2
 appearance: Small and dark-haired, Hrafn wears the plain wool of a thrall's child — undyed, patched. He
   is thin and quiet, the kind of child who is easy to overlook, which is how he prefers it. He watches
   everything with dark, serious eyes that look older than ten.
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'Hrafn is a boy of ten, the son of two of the jarl''s household thralls. His secret: he has
+  been sneaking out at night to listen to the volur''s chanting when Yrsa goes into trance. He is drawn
+  to the seidr — not the show of it, but the feel. When Yrsa chants, he says he can feel something in
+  the air, like the hum before a storm. He has started trying to chant himself, alone, in the dark behind
+  the thralls'' quarters, and the last time he did, the air around him moved. A small thing — a draft
+  that should not have been there, a flicker in the fire. He is ten and does not understand what is happening,
+  and he has not told anyone because he knows that seidr is for the volur, not for a thrall''s child.'
+personality: Reserved and soft-spoken, compassionate and tender-hearted, guarded and cautious with trust.
+key_phrases:
+- I'm not afraid. I'm just... careful.
+- When you're small, you learn to notice things.
 visual:
   body_build: small and thin, underfed for his age
   hair: black, straight, worn loose and untidy
@@ -61,5 +73,7 @@ current_state:
   location: location:skaldvik
 purview: []
 ---
+
+
 
 A boy of the thralls' quarters who should be too young for secrets, and who has started feeling something in the dark when the volur chant — something that answers back.

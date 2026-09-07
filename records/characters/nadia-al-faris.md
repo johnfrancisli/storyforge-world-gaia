@@ -10,37 +10,49 @@ gm_notes: Matriarch of the al-Faris binding family, one of the seven founding ho
   Council meetings speaking normally, pretending she hired a discreet healer, while secretly trying to
   determine whether Kashan still lives.
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Female
 age: 62
-heritage: ''
-social_station: ''
+heritage: Al-Khayzari
+social_station: Artisan
 role: Binding family matriarch, Council of Binding Families
-proficient_skills: []
+proficient_skills:
+- Survival
+- Crafting
+- Perception
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 7
+  hp: 58
+  mana: 63
+  stamina: 60
+  speed: 29
+  defense: 22
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 3
+  silver: 11
+  copper: 23
 appearance: Regal and composed in dark indigo robes embroidered with the al-Faris lamp sigil. She carries
   a small slate board and chalk on a cord around her neck and writes in a precise, elegant hand. Her family's
   bronze lamp hangs at her belt, always cold.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Matriarch of the al-Faris binding family, one of the seven founding houses of the Pact of the
+  Lamp. Her family's contract with the djinn Kashan is the oldest in Zaffar — signed four hundred years
+  ago — and the price was 'the first voice of each firstborn.' Nadia was the firstborn and lost her voice
+  at age twelve, communicating through gestures and a slate board ever since. She regained it three months
+  ago without explanation and has told no one. She fears Kashan is dead, which would mean the family's
+  protective contract is void and their political enemies on the Council know it. She has been attending
+  Council meetings speaking normally, pretending she hired a discreet healer, while secretly trying to
+  determine whether Kashan still lives.
+personality: Precise and detail-oriented, guarded and cautious with trust, blunt and rough-spoken.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
 visual:
   body_build: tall and upright, unbowed by age
   hair: silver-white, worn in a braided crown
@@ -63,5 +75,8 @@ current_state:
   location: location:zaffar
 purview: []
 ---
+
+
+
 
 The matriarch of the al-Faris binding family, a silver-haired woman who communicates through a slate board and is never without her family's bronze lamp. She attends Council meetings with the quiet authority of someone whose ancestors signed the Pact itself.

@@ -12,36 +12,51 @@ gm_notes: 'A human guide who leads expeditions into the rainforest for traders, 
   guide them to the upper tributaries, and he is torn between the money and the conviction that their
   intentions are not what they claim.'
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Male
 age: 44
-heritage: ''
-social_station: ''
+heritage: Verdanian
+social_station: Commoner
 role: Expedition guide and river-reader
-proficient_skills: []
+proficient_skills:
+- Survival
+- Navigation
+- Lore (Local Terrain)
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 4
+  hp: 40
+  mana: 53
+  stamina: 47
+  speed: 32
+  defense: 23
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 13
+    CON: 10
+    INT: 11
+    WIS: 12
+    CHA: 10
 currency:
   gold: 0
-  silver: 0
-  copper: 0
+  silver: 20
+  copper: 22
 appearance: Lean and weathered, with a guide's cautious eyes. Wears practical travel gear and carries
   a walking staff with river-markings. Always checking the water, the sky, the current.
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'A human guide who leads expeditions into the rainforest for traders, hunters, and diplomats,
+  and who is known for reading the river''s mood — he can predict floods, find channels, and sense danger
+  before it arrives. His secret: he lost his entire first expedition party seven years ago to a flash
+  flood that he did not predict. He tells people it was an unprecedented event, but the truth is he was
+  overconfident and ignored warning signs he should have recognized. Three people died. He has been carrying
+  the guilt ever since and has become hyper-vigilant to the point of anxiety — he sometimes turns expeditions
+  back at the first sign of questionable conditions, which has cost him clients and reputation. Recently,
+  a group of outsiders — the same ones the basket weaver Petala has been observing — has hired him to
+  guide them to the upper tributaries, and he is torn between the money and the conviction that their
+  intentions are not what they claim.'
+personality: Wary and watchful, guarded and cautious with trust, carries a secret that shapes every decision.
+key_phrases:
+- The path exists whether or not you can see it.
+- Knowing where you are is not the same as knowing where you're going.
+- I will not rest until I atone for the expedition he lost by never losing another person.
 visual:
   body_build: lean and weathered, built for river travel
   hair: black, greying, cut short and practical
@@ -63,5 +78,7 @@ current_state:
   location: location:verdania
 purview: []
 ---
+
+
 
 A lean, watchful human man who reads the river like a book and guides expeditions through the rainforest with a cautious, methodical hand.

@@ -7,41 +7,53 @@ gm_notes: Daichi commands the shogun's palace guard and has been receiving writt
   these orders come from filial concern for the ailing shogun. He's beginning to suspect something is
   wrong — the younger prince has been turned away three times, and the elder prince's tone in the orders
   has shifted from concerned to commanding. But Daichi's loyalty to the chain of command is absolute,
-  and questioning a prince's orders is unthinkable. The stable hand Ume (character:nomura-ume) tried
-  to report something to him last week, and he dismissed her — a decision that's starting to trouble him.
+  and questioning a prince's orders is unthinkable. The stable hand Ume (character:nomura-ume) tried to
+  report something to him last week, and he dismissed her — a decision that's starting to trouble him.
 aliases:
-- 'Daichi'
-race: ''
-gender: ''
-age: early sixties
-heritage: ''
-social_station: ''
+- Daichi
+race: Human
+gender: Male
+age: 25
+heritage: Tsukuyomi
+social_station: Military
 role: Palace guard captain (banin-kashira)
-proficient_skills: []
+proficient_skills:
+- Awareness
+- Combat
+- Intimidation
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 6
+  hp: 76
+  mana: 28
+  stamina: 61
+  speed: 28
+  defense: 22
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 13
+    DEX: 11
+    CON: 12
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 12
+  silver: 16
+  copper: 24
 appearance: He wears full guard captain's armor with the Ashikara crest, a katana at his side. He is solid
   and immovable, with the bearing of a man who has stood in one place watching doors for thirty years.
   He inspects his guards personally and remembers every face.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Daichi commands the shogun's palace guard and has been receiving written orders from the elder
+  prince (character:ashikara-renjiro) to increase security around the shogun's private chambers — restricting
+  access to all visitors, including the younger prince Haru (character:ashikara-haru). Daichi believes
+  these orders come from filial concern for the ailing shogun. He's beginning to suspect something is
+  wrong — the younger prince has been turned away three times, and the elder prince's tone in the orders
+  has shifted from concerned to commanding. But Daichi's loyalty to the chain of command is absolute,
+  and questioning a prince's orders is unthinkable. The stable hand Ume (character:nomura-ume) tried to
+  report something to him last week, and he dismissed her — a decision that's starting to trouble him.
+personality: Strict and disciplined, steadfast and devoted.
+key_phrases:
+- I do what must be done.
+- The work comes first. Everything else can wait.
 visual:
   body_build: stocky, heavily built
   hair: grey, in a tight topknot
@@ -63,5 +75,7 @@ current_state:
   location: location:tsuki-no-miyako
 purview: []
 ---
+
+
 
 The captain of the shogun's palace guard, a career soldier who has served three generations of the Ashikara household. He is disciplined, blunt, and trusted by the guard. He runs the palace security with a precision that leaves no gap — which is exactly why someone has been using his own protocols against him.

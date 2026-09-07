@@ -11,36 +11,49 @@ gm_notes: 'Hina is the most skilled pearl diver in the eastern reefs, capable of
   water, and a voice that asks her to come back. She is afraid the voice is the cause of the rising seas,
   and she is afraid it is not hostile.'
 aliases: []
-race: ''
-gender: ''
-age: thirty-four
-heritage: ''
-social_station: ''
+race: Human
+gender: Female
+age: 34
+heritage: Archipelagan
+social_station: Artisan
 role: Pearl diver
-proficient_skills: []
+proficient_skills:
+- Diving
+- Endurance
+- Swimming
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 5
+  hp: 46
+  mana: 50
+  stamina: 50
+  speed: 26
+  defense: 20
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 5
+  silver: 12
+  copper: 10
 appearance: A lean, salt-darkened woman in minimal diving cloth, her hair bleached copper-red by sun and
   saltwater. She moves through water like she belongs to it. Pearl-shell earrings gleam at her earlobes.
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'Hina is the most skilled pearl diver in the eastern reefs, capable of holding her breath for
+  nearly five minutes. Three months ago she found something on the sea floor that no one else has seen:
+  a stone archway covered in carvings, standing upright in sixty feet of water, in a spot that was dry
+  land two generations ago. The carvings match no known island pattern. She dove it twice and on the second
+  dive saw that the arch opens onto a passage leading deeper. She has not told anyone because the last
+  person who found a submerged structure — her grandmother''s diving partner — went down to explore it
+  and never came back. Hina has been having dreams since the second dive: dreams of a light beneath the
+  water, and a voice that asks her to come back. She is afraid the voice is the cause of the rising seas,
+  and she is afraid it is not hostile.'
+personality: Strict and disciplined, guarded and cautious with trust, thoughtful and philosophical.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
 visual:
   body_build: lean, long-limbed, deep-chested
   skin: deep brown, sun-darkened and salt-roughened
@@ -64,5 +77,8 @@ current_state:
   location: location:tide-archipelago
 purview: []
 ---
+
+
+
 
 A legendary pearl diver who can hold her breath long enough to reach the drowned ruins beneath the eastern reef. She has found something down there that has changed everything she thought she knew about the Archipelago.

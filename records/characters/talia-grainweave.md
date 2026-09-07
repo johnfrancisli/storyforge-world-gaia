@@ -7,36 +7,46 @@ gm_notes: Talia is a miller who controls the only functioning mill in the Valdri
   shortage — which would drive up prices and destabilize the region. She refused, but the guild has since
   threatened her family and sabotaged her mill's waterwheel once already. She fears they will escalate.
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Female
 age: 40
-heritage: ''
-social_station: ''
+heritage: Valdrian
+social_station: Artisan
 role: Miller
-proficient_skills: []
+proficient_skills:
+- Appraisal
+- Negotiation
+- Accounting
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 6
+  hp: 50
+  mana: 55
+  stamina: 56
+  speed: 30
+  defense: 23
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 5
+  silver: 16
+  copper: 10
 appearance: Strong-armed and practical, Talia wears flour-dusted work clothes and keeps her hair tied
   back. She has a warm but no-nonsense demeanour and a firm handshake.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Talia is a miller who controls the only functioning mill in the Valdris countryside after the
+  other two were burned in raids. She has been charging fair prices but has been secretly approached by
+  a merchant guild offering her triple the normal rate if she restricts grain flow to create an artificial
+  shortage — which would drive up prices and destabilize the region. She refused, but the guild has since
+  threatened her family and sabotaged her mill's waterwheel once already. She fears they will escalate.
+personality: Strict and disciplined, guarded and cautious with trust, generous and welcoming.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
+- I will not rest until I keep the mill running and the villages fed.
 visual:
   body_build: strong-armed and sturdy
   hair: dark blonde, tied in a practical bun
@@ -57,5 +67,7 @@ current_state:
   location: location:valdris
 purview: []
 ---
+
+
 
 A determined miller whose mill feeds the surrounding villages — and who is being squeezed by those who would profit from hunger.

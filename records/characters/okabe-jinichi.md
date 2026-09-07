@@ -10,38 +10,50 @@ gm_notes: Jinichi was a samurai who killed a child during a raid on a rebel vill
   killed, and the dreams are changing — the child is smiling at him now, and he doesn't know if that's
   forgiveness or something else.
 aliases:
-- 'Jinichi'
-race: ''
-gender: ''
-age: early forties
-heritage: ''
-social_station: ''
+- Jinichi
+race: Human
+gender: Male
+age: 25
+heritage: Tsukuyomi
+social_station: Clergy
 role: Monk (bozu)
-proficient_skills: []
+proficient_skills:
+- Meditation
+- Calligraphy
+- Lore (Scriptures)
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 5
+  hp: 50
+  mana: 60
+  stamina: 53
+  speed: 30
+  defense: 18
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 11
+    WIS: 14
+    CHA: 11
 currency:
   gold: 0
-  silver: 0
-  copper: 0
+  silver: 4
+  copper: 3
 appearance: He wears saffron robes that are faded from washing, a prayer bead bracelet on one wrist. He's
   bigger than most monks — broad-shouldered, with hands that are calloused in ways that have nothing to
   do with gardening. He bows to everyone and avoids eye contact.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Jinichi was a samurai who killed a child during a raid on a rebel village fifteen years ago.
+  The horror of what he'd done drove him to renounce violence and become a monk at a mountain temple in
+  Tsukuyomi. He has lived in peace since — until the shrine network's decline allowed violent spirits
+  to creep into the area around his temple. Three weeks ago, a bakeneko (monster cat) attacked a pilgrim
+  on the temple road, and Jinichi killed it with his bare hands to save the man. The violence felt natural
+  and good, and that terrifies him more than the yokai did. He's been having dreams about the child he
+  killed, and the dreams are changing — the child is smiling at him now, and he doesn't know if that's
+  forgiveness or something else.
+personality: Precise and detail-oriented, defiant and independently minded.
+key_phrases:
+- I do what must be done.
+- The work comes first. Everything else can wait.
 visual:
   body_build: large, broad-shouldered, deceptively powerful
   hair: shaved
@@ -63,5 +75,7 @@ current_state:
   location: location:tsukuyomi
 purview: []
 ---
+
+
 
 A Buddhist monk at a small mountain temple in Tsukuyomi, known for his gentleness and the way he feeds the wild birds from his hand. He tends the temple garden and sweeps the steps. He is large for a monk and moves with a fighter's economy that he tries to hide.

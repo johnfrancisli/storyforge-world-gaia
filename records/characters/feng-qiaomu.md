@@ -8,35 +8,46 @@ gm_notes: A rice farmer whose paddies sit at the border where Jin, Chu, and Wei 
   settlement they call 'No Flag Village.' She is their sole food supplier and the village would starve
   without her. She is beginning to dream of the village becoming a true sanctuary—neutral ground.
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Female
 age: 46
-heritage: ''
-social_station: ''
+heritage: Sangguo (Jin)
+social_station: Commoner
 role: Rice farmer and secret provider for deserters' sanctuary
-proficient_skills: []
+proficient_skills:
+- Farming
+- Animal Husbandry
+- Survival
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 5
+  hp: 49
+  mana: 54
+  stamina: 58
+  speed: 29
+  defense: 22
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 13
+    DEX: 10
+    CON: 12
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 3
+  silver: 2
+  copper: 8
 appearance: Sun-browned and strong, wearing mud-stained farmer's clothes and a woven rice-straw hat.
-biography: ''
-personality: ''
-key_phrases: []
+biography: A rice farmer whose paddies sit at the border where Jin, Chu, and Wei territories meet. Her
+  farm has been raided by soldiers from all three states, each demanding her rice as 'taxation.' She has
+  developed a system of hidden underground grain stores and has been secretly feeding a growing community
+  of deserters from all three armies who live in the marshlands nearby. The deserters have formed a small
+  settlement they call 'No Flag Village.' She is their sole food supplier and the village would starve
+  without her. She is beginning to dream of the village becoming a true sanctuary—neutral ground.
+personality: Guarded and cautious with trust, carries a secret that shapes every decision.
+key_phrases:
+- The land doesn't care about your plans.
+- Patience is the only crop that grows in any season.
+- I will not rest until I see no flag village recognized as neutral territory by all three states.
 visual:
   body_build: sturdy and broad-hipped from years of field labor
   hair: dark brown, gray at the temples, in a tight braid
@@ -58,5 +69,7 @@ current_state:
   location: location:sangguo
 purview: []
 ---
+
+
 
 A weathered rice farmer at the tri-border who feeds soldiers from all three armies and grumbles about every one of them.

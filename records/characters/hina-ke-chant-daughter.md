@@ -12,36 +12,50 @@ gm_notes: Hina-ke is a chant keeper, one of the few who knows the full sequence 
   what happens. She is afraid that Vehina is using the child as a vessel for songs too dangerous to carry
   in an old woman's failing memory — and she is afraid that is actually wise.
 aliases: []
-race: ''
-gender: ''
-age: forty
-heritage: ''
-social_station: ''
+race: Human
+gender: Female
+age: 40
+heritage: Archipelagan
+social_station: Artisan
 role: Chant keeper
-proficient_skills: []
+proficient_skills:
+- Appraisal
+- Negotiation
+- Accounting
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 4
+  hp: 43
+  mana: 49
+  stamina: 51
+  speed: 29
+  defense: 18
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 5
+  silver: 16
+  copper: 11
 appearance: A composed, precise woman with a chanter's trained voice and a scholar's attention to detail.
   She wears the markers of a chant keeper — a woven scarf and bone pins — and carries a tapa-book of notation.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Hina-ke is a chant keeper, one of the few who knows the full sequence of the tide chants —
+  the songs that map the daily and seasonal tides of the Archipelago. She is Vehina's former student and
+  was expected to be her successor, but Vehina chose Mafana instead, and Hina-ke does not know why. She
+  has been hurt and confused by this choice and has been quietly investigating Mafana — watching her,
+  listening to her sleep, trying to understand what Vehina sees in a silent refugee child. What she has
+  discovered is that Mafana sings deep-water songs in her sleep, and Hina-ke is frightened because she
+  recognizes them — they are the songs Vehina has refused to teach anyone, the songs Vehina says are too
+  dangerous. Hina-ke is torn between telling the guild council what Mafana is singing and keeping the
+  secret to see what happens. She is afraid that Vehina is using the child as a vessel for songs too dangerous
+  to carry in an old woman's failing memory — and she is afraid that is actually wise.
+personality: Precise and detail-oriented, reserved and soft-spoken, wary and watchful.
+key_phrases:
+- I do what must be done.
+- The work comes first. Everything else can wait.
 visual:
   body_build: composed, upright, precise
   skin: medium brown
@@ -65,5 +79,7 @@ current_state:
   location: location:lani-atoll
 purview: []
 ---
+
+
 
 A chant keeper who was passed over as her teacher's successor in favor of a silent refugee child. She has discovered the child sings forbidden songs in her sleep and must decide what to do with the knowledge.

@@ -8,36 +8,48 @@ gm_notes: An eleven-year-old girl who is the strongest unconscious chi-cultivato
   her as a living weapon. Her parents are trying to get her to the Academy before the warlord's agents
   arrive. She does not understand her power and is terrified of herself.
 aliases: []
-race: ''
-gender: ''
+race: Elf
+gender: Female
 age: 11
-heritage: ''
-social_station: ''
+heritage: Sangguo (Jin)
+social_station: Commoner
 role: Child chi-prodigy and object of a three-way search
-proficient_skills: []
+proficient_skills:
+- Streetwise
+- Sneaking
+- Survival
+- Lore (Forests)
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 1
+  hp: 16
+  mana: 27
+  stamina: 23
+  speed: 35
+  defense: 20
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 9
+    DEX: 14
+    CON: 9
+    INT: 14
+    WIS: 12
+    CHA: 12
 currency:
   gold: 0
   silver: 0
-  copper: 0
+  copper: 3
 appearance: Small for her age and wiry, wearing simple paper-maker's child clothes. Always looks slightly
   apologetic.
-biography: ''
-personality: ''
-key_phrases: []
+biography: An eleven-year-old girl who is the strongest unconscious chi-cultivator the Great Academy has
+  seen in a century. She accidentally shattered a stone table during a tantrum at age eight and has been
+  hidden by her parents—humble paper makers—ever since. The Academy sent a scout who found her and discreetly
+  offered a scholarship, but the Jin warlord's chi-cultivation corps also heard rumors and wants to conscript
+  her as a living weapon. Her parents are trying to get her to the Academy before the warlord's agents
+  arrive. She does not understand her power and is terrified of herself.
+personality: Guarded and cautious with trust, carries a secret that shapes every decision.
+key_phrases:
+- I'm not afraid. I'm just... careful.
+- When you're small, you learn to notice things.
+- I will not rest until I stop being afraid of me own hands.
 visual:
   body_build: small, slight, and wiry
   hair: black, in two simple braids
@@ -59,5 +71,9 @@ current_state:
   location: location:sangguo
 purview: []
 ---
+
+
+
+
 
 A small, quiet girl of eleven with enormous dark eyes who tries very hard to be good and very hard not to break things.

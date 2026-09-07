@@ -10,37 +10,49 @@ gm_notes: An astrologer who can read the true names of djinn in the stars — a 
   their own terms before the rival family can renegotiate. Tara has refused, and the pressure has become
   threats against her teenage son, who is an apprentice to a binding family and lives in the high city.
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Female
 age: 44
-heritage: ''
-social_station: ''
+heritage: Al-Khayzari
+social_station: Artisan
 role: Astrologer, true-name reader
-proficient_skills: []
+proficient_skills:
+- Survival
+- Crafting
+- Perception
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 7
+  hp: 55
+  mana: 60
+  stamina: 63
+  speed: 30
+  defense: 21
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 5
+  silver: 20
+  copper: 25
 appearance: Quiet and intense in dark scholar's robes, she carries a brass astrolabe and a tube of star
   charts. She works on the rooftop of her tower at night and sleeps during the day. Her eyes are always
   slightly unfocused, as if watching something beyond the room.
-biography: ''
-personality: ''
-key_phrases: []
+biography: An astrologer who can read the true names of djinn in the stars — a gift no other astrologer
+  in Al-Khayzar possesses. True names are the only leverage a human can hold over a djinn outside of a
+  formal contract, and Tara has recorded seventeen djinn true names in a private star chart she keeps
+  in a lead-lined box. A binding family has discovered her ability and is pressuring her to reveal the
+  true name of a specific djinn — one whose contract with a rival family is about to expire, giving that
+  family freedom. With the true name, the binding family could force the djinn into a new contract on
+  their own terms before the rival family can renegotiate. Tara has refused, and the pressure has become
+  threats against her teenage son, who is an apprentice to a binding family and lives in the high city.
+personality: Reserved and soft-spoken, guarded and cautious with trust.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
 visual:
   body_build: thin and angular
   hair: black, silver-streaked, loose
@@ -64,4 +76,6 @@ current_state:
 purview: []
 ---
 
-An astrologer who reads the true names of djinn in the stars from her rooftop tower in Zaffar. She works at night and sleeps by day, and her star charts contain annotations no other astrologer can decipher.
+
+
+An astrologer who reads the true names of djinn in the stars from her rooftop tower in [[location:zaffar|Zaffar]]. She works at night and sleeps by day, and her star charts contain annotations no other astrologer can decipher.

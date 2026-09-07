@@ -10,38 +10,50 @@ gm_notes: 'Erik is a veteran navigator who sailed the northern routes for thirty
   real, and because if it is real, he does not know what it means — a new land, an old one, or something
   that should not be found. The latitude was higher than any ship should survive, and yet his ship did.'
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Male
 age: 67
-heritage: ''
-social_station: ''
+heritage: Hrafnish
+social_station: Commoner
 role: Retired Navigator / Elder
-proficient_skills: []
+proficient_skills:
+- Navigation
+- Astronomy
+- Survival
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 10
+  hp: 71
+  mana: 78
+  stamina: 70
+  speed: 32
+  defense: 20
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 13
+    CON: 10
+    INT: 11
+    WIS: 12
+    CHA: 10
 currency:
   gold: 0
-  silver: 0
-  copper: 0
+  silver: 3
+  copper: 27
 appearance: Weathered and white-bearded, Erik sits in the mead hall with a horn of mead and a far-away
   look. He wears a faded sailor's coat and his hands move constantly — tracing currents and coastlines
   on the table, as though the maps are always in front of him. He walks with a cane and a limp, both legs
   stiff from decades of cold and wet.
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'Erik is a veteran navigator who sailed the northern routes for thirty years before his joints
+  forced him ashore. He now advises younger navigators and tells stories in the mead hall. His secret:
+  on his final voyage, he sailed further north than anyone in Hrafnland has ever gone — past the ice,
+  past the known islands — and he saw something. A coastline where no land should be. Not ice, not mirage
+  — land, with what looked like structures on it. He turned back without approaching, because the wind
+  was fair and the crew was restless. He has told no one because he is not sure whether what he saw was
+  real, and because if it is real, he does not know what it means — a new land, an old one, or something
+  that should not be found. The latitude was higher than any ship should survive, and yet his ship did.'
+personality: Bold and uncompromising, shrewd and calculating, guarded and cautious with trust.
+key_phrases:
+- The stars do not lie, but they do not explain themselves.
+- The ocean is not empty. It is full of things you cannot see.
 visual:
   body_build: tall but stooped, once powerful now thinning
   hair: white, long beard, thinning on top
@@ -64,5 +76,7 @@ current_state:
   location: location:skaldvik
 purview: []
 ---
+
+
 
 An old navigator who sailed further than maps allow and came back with a sighting he has never spoken of — land where no land should be, in a cold where no ship should sail.

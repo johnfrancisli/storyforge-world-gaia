@@ -10,37 +10,49 @@ gm_notes: 'A dancer at the Star Bazaar whose performances draw crowds from every
   that the djinn has been captured or killed and that she is losing the gift it gave her. She has been
   searching the market for any sign of her djinn.'
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Female
 age: 34
-heritage: ''
-social_station: ''
+heritage: Al-Khayzari
+social_station: Commoner
 role: Dancer, contracted performer
-proficient_skills: []
+proficient_skills:
+- Performance
+- Dance
+- Artistry
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 4
+  hp: 43
+  mana: 46
+  stamina: 49
+  speed: 33
+  defense: 22
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 13
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 11
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 4
+  silver: 2
+  copper: 18
 appearance: Graceful and luminous in layered silk veils and finger cymbals, she moves as if her bones
   are liquid. She is small and lithe, and every gesture is deliberate. She favors golden silk and kohl-lined
   eyes.
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'A dancer at the Star Bazaar whose performances draw crowds from every quarter of Zaffar. Jameela
+  was born with a condition that should have left her unable to walk — her legs were twisted at birth
+  — but a djinn healed her in exchange for a promise: that she would dance for the djinn every full moon
+  for the rest of her life. She has kept this promise for twenty years, dancing alone in the deep desert
+  at midnight for an audience of fire and air. The djinn has not appeared for the last three full moons,
+  and Jameela''s legs have begun to ache and stiffen, as if the healing is reversing. She is terrified
+  that the djinn has been captured or killed and that she is losing the gift it gave her. She has been
+  searching the market for any sign of her djinn.'
+personality: Reserved and soft-spoken, guarded and cautious with trust.
+key_phrases:
+- The body says what the voice cannot.
+- Every step is a sentence. Every turn is a word.
 visual:
   body_build: lithe and small, dancer's physique
   hair: black, long, loose when performing
@@ -64,4 +76,6 @@ current_state:
 purview: []
 ---
 
-A dancer whose performances at the Star Bazaar are the talk of Zaffar — fluid, impossible movements that seem to defy the body's limits. She dances with silk veils and finger cymbals and never appears to tire.
+
+
+A dancer whose performances at the Star Bazaar are the talk of [[location:zaffar|Zaffar]] — fluid, impossible movements that seem to defy the body's limits. She dances with silk veils and finger cymbals and never appears to tire.

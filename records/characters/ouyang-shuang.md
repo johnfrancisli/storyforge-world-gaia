@@ -9,36 +9,47 @@ gm_notes: A painter whose landscape paintings are so detailed they have been use
   has identified her paintings as a security breach and has dispatched agents to confiscate her work and
   silence her.
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Female
 age: 35
-heritage: ''
-social_station: ''
+heritage: Sangguo (Jin)
+social_station: Artisan
 role: Master painter and unwitting intelligence source
-proficient_skills: []
+proficient_skills:
+- Artistry
+- Lore (Glyphs)
+- Crafting (Painting)
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 5
+  hp: 50
+  mana: 52
+  stamina: 50
+  speed: 31
+  defense: 19
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 13
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 11
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 2
+  silver: 7
+  copper: 29
 appearance: Free-spirited and paint-stained, wearing travel-worn scholar-artist robes. Carries a bulky
   scroll-pack and brush case.
-biography: ''
-personality: ''
-key_phrases: []
+biography: A painter whose landscape paintings are so detailed they have been used as military maps by
+  the Chu warlord's scouts—unbeknownst to her. She paints from observation and has traveled the tri-border
+  region extensively. She is a Chu loyalist who believes she is documenting the beauty of the land for
+  posterity. She has unknowingly painted the locations of Jin military supply routes, Wei fortification
+  weaknesses, and the hidden canal paths used by the smuggler 'Silent Rain.' The Jin intelligence service
+  has identified her paintings as a security breach and has dispatched agents to confiscate her work and
+  silence her.
+personality: Reserved and soft-spoken, tired and carrying a heavy burden, steadfast and devoted.
+key_phrases:
+- I do what must be done.
+- The work comes first. Everything else can wait.
 visual:
   body_build: tall and lean from constant travel
   hair: dark, loose, and perpetually paint-flecked
@@ -60,5 +71,8 @@ current_state:
   location: location:sangguo
 purview: []
 ---
+
+
+
 
 A wandering landscape painter from Chu whose breathtaking scrolls capture the rivers, mountains, and cities of all three states in vivid detail.

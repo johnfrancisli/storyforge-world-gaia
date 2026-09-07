@@ -8,38 +8,49 @@ gm_notes: Elara has been secretly meeting with the reformist faction of the drag
   trusts completely. She underestimates Roderick — she thinks he is blunt and predictable, but Roderick
   has been feeding her false information through a double agent.
 aliases:
-- 'Princess Elara Valdris'
-race: ''
-gender: ''
-age: early thirties
-heritage: ''
-social_station: ''
+- Princess Elara Valdris
+race: Human
+gender: Female
+age: 25
+heritage: Valdrian
+social_station: Nobility
 role: Princess of Valdris
-proficient_skills: []
+proficient_skills:
+- Diplomacy
+- Swordsmanship
+- Politics
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 5
+  hp: 48
+  mana: 55
+  stamina: 52
+  speed: 25
+  defense: 18
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 23
+  silver: 72
+  copper: 53
 appearance: A sharp-featured woman in practical riding clothes more often than court gowns, her hair braided
   and pinned for travel. She carries a knife at her belt — not ceremonial. She moves with purpose and
   speaks with precision.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Elara has been secretly meeting with the reformist faction of the dragon order. She believes
+  the old oath is a relic and that the kingdom needs a new kind of defender — one not dependent on dragons'
+  whims. She has been funding research into alternative bond methods using dragonbone artifacts. She has
+  not told her father because she knows he would disapprove, but she has told her brother Tomas, who she
+  trusts completely. She underestimates Roderick — she thinks he is blunt and predictable, but Roderick
+  has been feeding her false information through a double agent.
+personality: Compassionate and tender-hearted, defiant and independently minded, guarded and cautious
+  with trust.
+key_phrases:
+- I will not be my father. I will not be his mistake.
+- The throne is not my goal. It is my responsibility.
 visual:
   body_build: slim, athletic
   hair: auburn, braided
@@ -60,5 +71,7 @@ current_state:
   location: location:crownhaven
 purview: []
 ---
+
+
 
 The king's daughter, second-born, in her early thirties. Sharp, political, and frustrated. She is the kingdom's best administrator and the one the merchants trust. She believes the dragon bond must be reformed, which makes her the traditionalists' enemy.

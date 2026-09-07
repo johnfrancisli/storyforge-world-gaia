@@ -10,4 +10,4 @@ visual:
   prompt: ''
 ---
 
-The scholars and sorcerers of Al-Khayzar who study celestial magic, timekeeping, and mechanical clockwork. The Academy of the Astrolabe operates from Khalesh, the City of the Broken Road, where the best sky-observations in Gaia are possible thanks to the thin desert air and the absence of canopy. They maintain the most accurate star charts in the world, and they will tell you that the stars are not where they were a hundred years ago. They do not know why.
+The scholars and sorcerers of [[location:al-khayzar|Al-Khayzar]] who study celestial magic, timekeeping, and mechanical clockwork. The Academy of the Astrolabe operates from [[location:alk-khalesh|Khalesh, the City of the Broken Road]], where the best sky-observations in Gaia are possible thanks to the thin desert air and the absence of canopy. They maintain the most accurate star charts in the world, and they will tell you that the stars are not where they were a hundred years ago. They do not know why.

@@ -8,36 +8,47 @@ gm_notes: Gwendolyn is the wife of a minor baron who has positioned herself as a
   but legitimate bloodline — to gain traction. She has been cultivating support among the lesser nobility,
   waiting for the stronger claimants to destroy each other.
 aliases: []
-race: ''
-gender: ''
+race: Elf
+gender: Female
 age: 38
-heritage: ''
-social_station: ''
+heritage: Valdrian
+social_station: Nobility
 role: Baroness / Political Mediator
-proficient_skills: []
+proficient_skills:
+- Diplomacy
+- Politics
+- Leadership
+- Lore (Forests)
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 9
+  hp: 68
+  mana: 81
+  stamina: 65
+  speed: 33
+  defense: 15
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 9
+    DEX: 14
+    CON: 9
+    INT: 15
+    WIS: 13
+    CHA: 16
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 141
+  silver: 73
+  copper: 74
 appearance: Elegant and composed, Gwendolyn wears fine but understated gowns and minimal jewellery. She
   has a gift for making everyone she speaks to feel uniquely heard.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Gwendolyn is the wife of a minor baron who has positioned herself as a neutral mediator in
+  the succession crisis. Publicly, she hosts peace talks and advocates for unity. Privately, she has been
+  playing both sides against each other, feeding each faction information about the other to prolong the
+  crisis. Her goal is to keep the succession unresolved long enough for her own family's claim — a distant
+  but legitimate bloodline — to gain traction. She has been cultivating support among the lesser nobility,
+  waiting for the stronger claimants to destroy each other.
+personality: Shrewd and calculating, guarded and cautious with trust.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
 visual:
   body_build: slender and poised
   hair: dark auburn, elaborately styled
@@ -58,5 +69,7 @@ current_state:
   location: location:crownhaven
 purview: []
 ---
+
+
 
 A gracious and diplomatic baroness who pours tea for rival factions with equal warmth — while quietly ensuring neither side ever quite wins.

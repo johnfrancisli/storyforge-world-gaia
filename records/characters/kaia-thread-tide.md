@@ -11,36 +11,49 @@ gm_notes: Kaia weaves the fine cloth that chiefs and ceremony demand, and she is
   the unburned shroud is still there, sitting on the highest rock, dry. She does not know if she has saved
   the island or trapped its spirit in a worse state.
 aliases: []
-race: ''
-gender: ''
-age: thirty-seven
-heritage: ''
-social_station: ''
+race: Human
+gender: Female
+age: 37
+heritage: Archipelagan
+social_station: Artisan
 role: Weaver
-proficient_skills: []
+proficient_skills:
+- Crafting (Weaving)
+- Artistry
+- Appraisal
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 5
+  hp: 45
+  mana: 54
+  stamina: 51
+  speed: 32
+  defense: 18
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 13
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 11
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 2
+  silver: 8
+  copper: 19
 appearance: A slim, precise woman with ink-stained fingers and cloth samples draped over one shoulder.
   She moves with deliberate grace and speaks carefully, as if every word is a thread she is placing.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Kaia weaves the fine cloth that chiefs and ceremony demand, and she is the best in three islands.
+  Her secret is that she has been weaving burial cloth for islands — not people. When an island is about
+  to submerge, Kaia weaves a ceremonial shroud from fibers gathered on that island, and she burns it at
+  the highest point as the water rises. She believes this releases the island's spirit. She has done this
+  for four islands. The secret is that the last time she did it, the cloth did not burn — it floated on
+  the rising water and then sank, intact, and the island did not submerge as expected. It is still there,
+  partially flooded but not gone. Kaia has been returning to it in secret by canoe and has found that
+  the unburned shroud is still there, sitting on the highest rock, dry. She does not know if she has saved
+  the island or trapped its spirit in a worse state.
+personality: Precise and detail-oriented, reserved and soft-spoken, guarded and cautious with trust.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
 visual:
   body_build: slim, fine-boned, precise in movement
   skin: medium brown
@@ -63,5 +76,7 @@ current_state:
   location: location:lani-atoll
 purview: []
 ---
+
+
 
 A master weaver whose ceremonial cloth is sought for every important occasion. She has a private ritual for dying islands that has produced an impossible result — an island that refused to sink.

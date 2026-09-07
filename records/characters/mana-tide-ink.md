@@ -10,38 +10,50 @@ gm_notes: Mana's tattoo work is more than art — each route-map she carves into
   wayfinders are not just navigating the sea — they are holding it together, and that is a burden the
   guild is not ready to hear.
 aliases:
-- 'Mana the Tattoo-carver'
-race: ''
-gender: ''
-age: early forties
-heritage: ''
-social_station: ''
+- Mana the Tattoo-carver
+race: Human
+gender: Female
+age: 25
+heritage: Archipelagan
+social_station: Artisan
 role: Tattoo artist, route-carver
-proficient_skills: []
+proficient_skills:
+- Crafting (Carving)
+- Artistry
+- Appraisal
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 4
+  hp: 45
+  mana: 50
+  stamina: 49
+  speed: 33
+  defense: 17
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 13
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 11
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 5
+  silver: 3
+  copper: 14
 appearance: A stocky woman in work clothes, her arms covered in the tattoo patterns she has carved on
   others — a tradition that artists carry the routes they inscribe. She holds a bone tattooing needle
   and ink made from volcanic soot. Her hands are steady and her eyes are kind.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Mana's tattoo work is more than art — each route-map she carves into a wayfinder's skin creates
+  a real connection between the wayfinder and the routes. When a route is lost to rising seas, the wayfinder
+  who carries it feels the loss as a physical ache in the tattoo. Mana has been feeling aches in her own
+  arms all year — she carries twenty routes, and three have gone silent. She believes the route-maps are
+  not just records but anchors — that the tattoos help hold the routes in existence. If the tattoos fade
+  or the wayfinder dies, the route weakens. She has not told the guild because the implication is that
+  wayfinders are not just navigating the sea — they are holding it together, and that is a burden the
+  guild is not ready to hear.
+personality: Reserved and soft-spoken, compassionate and tender-hearted, guarded and cautious with trust.
+key_phrases:
+- The material tells you what it wants to become.
+- My hands remember what my mind forgets.
 visual:
   body_build: stocky, strong-armed
   skin: deep tan
@@ -67,4 +79,6 @@ current_state:
 purview: []
 ---
 
-The tattoo artist of Lani Atoll, a woman in her forties who carves the route-maps into wayfinders' skin. Her work is art, craft, and something more — the tattoos are not just records, they are connections. She is quiet, skilled, and carrying a theory about the rising seas that no one has asked her for.
+
+
+The tattoo artist of [[location:lani-atoll|Lani Atoll]], a woman in her forties who carves the route-maps into wayfinders' skin. Her work is art, craft, and something more — the tattoos are not just records, they are connections. She is quiet, skilled, and carrying a theory about the rising seas that no one has asked her for.

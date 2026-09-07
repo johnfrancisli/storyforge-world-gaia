@@ -7,36 +7,46 @@ gm_notes: Pippa is a young halfling messenger who carries dispatches between Cro
   did not recognize, read it before she snatched it back. She has been terrified ever since that she has
   compromised a military operation. She has not told anyone, fearing she will lose her position.
 aliases: []
-race: ''
-gender: ''
+race: Halfling
+gender: Female
 age: 19
-heritage: ''
-social_station: ''
+heritage: Valdrian
+social_station: Artisan
 role: Messenger
-proficient_skills: []
+proficient_skills:
+- Appraisal
+- Negotiation
+- Accounting
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 3
+  hp: 43
+  mana: 47
+  stamina: 44
+  speed: 36
+  defense: 20
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 8
+    DEX: 14
+    CON: 12
+    INT: 10
+    WIS: 12
+    CHA: 12
 currency:
   gold: 0
-  silver: 0
-  copper: 0
+  silver: 5
+  copper: 28
 appearance: Bright-eyed and perpetually in motion, Pippa wears a Dragon Order courier's vest and light
   running shoes. Her hair is cropped short for speed.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Pippa is a young halfling messenger who carries dispatches between Crownhaven and Dragonrest.
+  On her last run, she accidentally delivered a sealed letter to the wrong recipient for a few minutes
+  before realizing her mistake. The letter contained military deployments. The recipient, a courtier she
+  did not recognize, read it before she snatched it back. She has been terrified ever since that she has
+  compromised a military operation. She has not told anyone, fearing she will lose her position.
+personality: Warm and optimistic.
+key_phrases:
+- I do what must be done.
+- The work comes first. Everything else can wait.
+- I will not rest until I make up for me mistake without losing me job.
 visual:
   body_build: small and lean, halfling stature, built for running
   hair: light brown, cropped short
@@ -57,5 +67,8 @@ current_state:
   location: location:crownhaven
 purview: []
 ---
+
+
+
 
 A fast-footed halfling messenger who knows every trail between the capital and the dragon keep, and who is now terrified she has let a secret fall into the wrong hands.

@@ -9,4 +9,4 @@ visual:
   prompt: ''
 ---
 
-The southern state of Sangguo, ruled by Warlord Sun Liang. Wealthier than Jin in trade and agriculture, but militarily weaker. Chu's strategy has always been to outlast its rivals economically. The truce has been good for Chu's treasury.
+The southern state of [[location:sangguo|Sangguo]], ruled by Warlord [[character:sun-liang|Sun Liang]]. Wealthier than Jin in trade and agriculture, but militarily weaker. Chu's strategy has always been to outlast its rivals economically. The truce has been good for Chu's treasury.

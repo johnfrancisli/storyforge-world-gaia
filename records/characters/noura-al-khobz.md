@@ -10,37 +10,49 @@ gm_notes: A baker whose flatbread is a staple of the Zaffar morning market — a
   renew the seal without asking questions about what is sealed, but binders are all bound to the binding
   families, and she trusts none of them.
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Female
 age: 37
-heritage: ''
-social_station: ''
+heritage: Al-Khayzari
+social_station: Artisan
 role: Baker, seal-keeper
-proficient_skills: []
+proficient_skills:
+- Survival
+- Crafting
+- Perception
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 5
+  hp: 48
+  mana: 50
+  stamina: 51
+  speed: 29
+  defense: 21
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 2
+  silver: 15
+  copper: 5
 appearance: Round and rosy-cheeked in a baker's apron dusted with flour, her arms strong from kneading.
   She works with rhythmic efficiency, shaping dough and pulling bread from the oven with a long wooden
   peel. She is always warm to the touch.
-biography: ''
-personality: ''
-key_phrases: []
+biography: A baker whose flatbread is a staple of the Zaffar morning market — and whose oven is built
+  over a sealed chamber containing a small, weak djinn that her great-grandmother trapped there two centuries
+  ago. The djinn's heat bakes the bread from below, and Noura's family has maintained the seal for generations.
+  The seal is cracking. Noura has noticed the oven temperature fluctuating and heard sounds from below
+  — not words, but breathing. She does not know what the djinn will do if released after two hundred years
+  of imprisonment, but she knows it will not be grateful. She has been trying to find a binder who can
+  renew the seal without asking questions about what is sealed, but binders are all bound to the binding
+  families, and she trusts none of them.
+personality: Guarded and cautious with trust, generous and welcoming.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
 visual:
   body_build: stout, strong-armed from kneading
   hair: black, tied in a bun under a flour-dusted cloth
@@ -63,5 +75,8 @@ current_state:
   location: location:zaffar
 purview: []
 ---
+
+
+
 
 A baker who rises before dawn to feed the morning market, her flatbread golden and perfect every day. She works in a stone bakery that has been in her family for five generations and is always warm from the oven below.

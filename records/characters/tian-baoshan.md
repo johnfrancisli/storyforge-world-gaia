@@ -8,35 +8,46 @@ gm_notes: An iron mine foreman in the Wei mountains who discovered a vein of ore
   them to distant clinics. He is afraid the Wei military will seize the mine if they learn of the ore's
   properties.
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Male
 age: 47
-heritage: ''
-social_station: ''
+heritage: Sangguo (Jin)
+social_station: Merchant
 role: Iron mine foreman and secret qilin-iron dealer
-proficient_skills: []
+proficient_skills:
+- Appraisal
+- Negotiation
+- Accounting
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 8
+  hp: 65
+  mana: 64
+  stamina: 62
+  speed: 28
+  defense: 23
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 6
+  silver: 30
+  copper: 40
 appearance: Stocky and soot-stained, wearing heavy leather work clothes and a miner's leather cap.
-biography: ''
-personality: ''
-key_phrases: []
+biography: An iron mine foreman in the Wei mountains who discovered a vein of ore that glows faintly green
+  and seems to strengthen chi in anyone who carries it. He has been secretly mining this 'qilin iron'
+  and forging small ingots, selling them to martial artists at exorbitant prices. He does not know the
+  ore is slowly poisoning the miners—three have developed a wasting sickness he has been hiding by sending
+  them to distant clinics. He is afraid the Wei military will seize the mine if they learn of the ore's
+  properties.
+personality: Guarded and cautious with trust, carries a secret that shapes every decision.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
+- I will not rest until I sell enough qilin iron to retire far from the mines.
 visual:
   body_build: thick and muscular, barrel-chested
   hair: shaved head, scarred from mine accidents
@@ -58,5 +69,7 @@ current_state:
   location: location:sangguo
 purview: []
 ---
+
+
 
 A burly, no-nonsense iron mine foreman in the Wei mountains who keeps his workers productive and his operations discreet.

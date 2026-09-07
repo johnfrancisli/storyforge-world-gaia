@@ -12,37 +12,51 @@ gm_notes: 'A physician who can heal injuries caused by djinn fire — burns that
   the djinn''s promise was not generosity — it was a guarantee that the worst people in Zaffar would always
   be healed, ensuring they could continue to do harm.'
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Female
 age: 47
-heritage: ''
-social_station: ''
+heritage: Al-Khayzari
+social_station: Artisan
 role: Physician, djinn-fire specialist
-proficient_skills: []
+proficient_skills:
+- Medicine
+- Diagnosis
+- Lore (Anatomy)
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 8
+  hp: 51
+  mana: 106
+  stamina: 67
+  speed: 25
+  defense: 20
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 11
+    WIS: 14
+    CHA: 11
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 3
+  silver: 13
+  copper: 23
 appearance: Composed and professional in clean white healer's robes, her hands steady and her manner reassuring.
   She keeps her clinic spotless and her supplies organized with military precision. She carries a leather
   case of salves and a brass scalpel.
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'A physician who can heal injuries caused by djinn fire — burns that do not respond to normal
+  medicine — using a salve made from the ash of a specific desert plant mixed with her own blood. The
+  technique was taught to her by a djinn who appeared to her in medical school and offered the knowledge
+  in exchange for a promise: that she would treat any patient who came to her, regardless of who they
+  were or what they had done. She agreed, thinking it a simple healer''s oath. She has since treated thieves,
+  a murderer, and — three weeks ago — a man with djinn-fire burns who she realized was a binding family
+  enforcer who had tortured someone with a djinn''s help. The enforcer had been burned when the djinn
+  turned on him. Treating him violated her conscience, but her contract demanded it. She now understands
+  the djinn''s promise was not generosity — it was a guarantee that the worst people in Zaffar would always
+  be healed, ensuring they could continue to do harm.'
+personality: Composed and even-tempered.
+key_phrases:
+- I do what must be done.
+- The work comes first. Everything else can wait.
 visual:
   body_build: medium, steady-handed
   hair: black with grey, tied in a practical bun
@@ -66,4 +80,7 @@ current_state:
 purview: []
 ---
 
-A physician whose clinic in the middle ring of Zaffar treats injuries no other healer can — particularly the strange burns left by djinn fire. She is calm, methodical, and treats everyone with the same level of care.
+
+
+
+A physician whose clinic in the middle ring of [[location:zaffar|Zaffar]] treats injuries no other healer can — particularly the strange burns left by djinn fire. She is calm, methodical, and treats everyone with the same level of care.

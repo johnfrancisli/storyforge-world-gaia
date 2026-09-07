@@ -7,36 +7,47 @@ gm_notes: Secretly the illegitimate daughter of the Jin warlord and a Wei court 
   years, not for money but because she believes the Jin warlord ordered her mother's death. She does not
   know Grey Crane is actually her half-brother.
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Female
 age: 24
-heritage: ''
-social_station: ''
+heritage: Sangguo (Jin)
+social_station: Commoner
 role: Court musician and covert informant
-proficient_skills: []
+proficient_skills:
+- Performance
+- Music
+- Artistry
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 3
+  hp: 38
+  mana: 47
+  stamina: 44
+  speed: 27
+  defense: 18
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 11
+    WIS: 11
+    CHA: 14
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 5
+  silver: 5
+  copper: 7
 appearance: Elegant and poised, always in layered silk of jade-green and ivory. Fingers callused from
   guqin strings. Carries a faint scent of sandalwood.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Secretly the illegitimate daughter of the Jin warlord and a Wei court musician. Her mother
+  was quietly 'disappeared' when Zhiyao was seven. The Jin court believes she is the orphaned niece of
+  a minor official. She has been passing Wei military movements to a Chu spymaster named 'Grey Crane'
+  for three years, not for money but because she believes the Jin warlord ordered her mother's death.
+  She does not know Grey Crane is actually her half-brother.
+personality: Reserved and soft-spoken, guarded and cautious with trust, carries a secret that shapes every
+  decision.
+key_phrases:
+- Music is what words feel when they are honest.
+- Every song is a conversation with silence.
+- I will not rest until I learn the truth of me mother's disappearance.
 visual:
   body_build: slender and graceful
   hair: long black hair worn in elaborate court pins
@@ -58,5 +69,9 @@ current_state:
   location: location:jin-an
 purview: []
 ---
+
+
+
+
 
 A composed court lady of Jin who plays the guqin at diplomatic functions and is whispered to be the most beautiful woman in the warlord's court.

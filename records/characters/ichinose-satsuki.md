@@ -2,45 +2,57 @@
 id: character:ichinose-satsuki
 name: Ichinose Satsuki
 gm_notes: Satsuki teaches tea ceremony to Prince Haru (character:ashikara-haru) and has become a mother
-  figure to him since his own mother died. She knows the shogun (character:ashikara-yoshito) is dying —
-  she's seen the medicines being prepared in the palace kitchens and recognized the herbs. She's been
+  figure to him since his own mother died. She knows the shogun (character:ashikara-yoshito) is dying
+  — she's seen the medicines being prepared in the palace kitchens and recognized the herbs. She's been
   quietly preparing the younger prince for leadership under the guise of tea lessons, teaching him patience,
   observation, and the art of reading people. She believes the elder prince (character:ashikara-renjiro)
   is dangerous but has no proof beyond instinct. She's also been in quiet contact with Rin (character:hanabusa-rin),
   who arranges flowers for the same tea room.
 aliases:
-- 'Satsuki'
-race: ''
-gender: ''
-age: early sixties
-heritage: ''
-social_station: ''
+- Satsuki
+race: Human
+gender: Female
+age: 25
+heritage: Tsukuyomi
+social_station: Artisan
 role: Tea ceremony teacher (chajin)
-proficient_skills: []
+proficient_skills:
+- Survival
+- Crafting
+- Perception
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 5
+  hp: 48
+  mana: 51
+  stamina: 55
+  speed: 28
+  defense: 20
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 5
+  silver: 17
+  copper: 26
 appearance: She wears an immaculate, subdued kimono in slate grey or deep indigo, with a white fukusa
   cloth folded precisely at her collar. Her movements in the tea room are liquid and unhurried. She speaks
   softly, and people lean in to hear her — which is the point.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Satsuki teaches tea ceremony to Prince Haru (character:ashikara-haru) and has become a mother
+  figure to him since his own mother died. She knows the shogun (character:ashikara-yoshito) is dying
+  — she's seen the medicines being prepared in the palace kitchens and recognized the herbs. She's been
+  quietly preparing the younger prince for leadership under the guise of tea lessons, teaching him patience,
+  observation, and the art of reading people. She believes the elder prince (character:ashikara-renjiro)
+  is dangerous but has no proof beyond instinct. She's also been in quiet contact with Rin (character:hanabusa-rin),
+  who arranges flowers for the same tea room.
+personality: Precise and detail-oriented, reserved and soft-spoken.
+key_phrases:
+- I do what must be done.
+- The work comes first. Everything else can wait.
+- I will not rest until I prepare prince haru to lead without anyone realizing she's doing it.
 visual:
   body_build: slender, composed
   hair: iron grey, in a smooth low bun
@@ -60,5 +72,8 @@ current_state:
   location: location:tsuki-no-miyako
 purview: []
 ---
+
+
+
 
 A tea ceremony teacher in the capital who instructs the shogunate's household in the way of tea. She is calm, precise, and quietly authoritative in a space where she controls every movement. She has taught two generations of the Ashikara household.

@@ -8,37 +8,47 @@ gm_notes: Hanako's tea house is a neutral meeting ground where clan agents, merc
   shrine's bell behind the counter and rings it sometimes, for luck, though she tells people it's just
   decoration.
 aliases: []
-race: ''
-gender: ''
-age: mid-forties
-heritage: ''
-social_station: ''
+race: Human
+gender: Female
+age: 25
+heritage: Tsukuyomi
+social_station: Artisan
 role: Tea house owner
-proficient_skills: []
+proficient_skills:
+- Survival
+- Crafting
+- Perception
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 5
+  hp: 47
+  mana: 55
+  stamina: 53
+  speed: 27
+  defense: 20
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 4
+  silver: 10
+  copper: 29
 appearance: A round, warm woman in a cotton apron over a plain kimono, her sleeves rolled up and her hair
   pinned with a wooden stick. She moves between tables with the speed of someone who has been doing this
   for twenty years. She always has a pot on.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Hanako's tea house is a neutral meeting ground where clan agents, merchants, and travelers
+  cross paths. She hears everything and repeats nothing — unless the price is right, or the information
+  concerns the shrine network, which she cares about more than she lets on. Her grandmother was a shrine
+  keeper, and the tea house sits on the site of an old minor shrine that was decommissioned. She keeps
+  the old shrine's bell behind the counter and rings it sometimes, for luck, though she tells people it's
+  just decoration.
+personality: Generous and welcoming.
+key_phrases:
+- I do what must be done.
+- The work comes first. Everything else can wait.
 visual:
   body_build: round, comfortable
   hair: black, greying, pinned up with a wooden stick
@@ -58,4 +68,6 @@ current_state:
 purview: []
 ---
 
-The owner of the Cedar Tea House in Haru's Shrine Town. A cheerful, round woman in her forties who knows everyone's business and serves excellent tea. Her tea house is the social center of the village.
+
+
+The owner of the Cedar Tea House in [[location:haru-shrine-town|Haru's Shrine Town]]. A cheerful, round woman in her forties who knows everyone's business and serves excellent tea. Her tea house is the social center of the village.

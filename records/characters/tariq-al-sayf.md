@@ -10,37 +10,49 @@ gm_notes: 'Patriarch of the al-Sayf binding family, the second-oldest house on t
   djinn is demanding a price Tariq finds worse: the family''s firstborn daughter, who is currently ten
   years old. He is considering which debt is worse to pay.'
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Male
 age: 52
-heritage: ''
-social_station: ''
+heritage: Al-Khayzari
+social_station: Artisan
 role: Binding family patriarch, Council member
-proficient_skills: []
+proficient_skills:
+- Survival
+- Crafting
+- Perception
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 7
+  hp: 56
+  mana: 59
+  stamina: 60
+  speed: 27
+  defense: 19
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 5
+  silver: 16
+  copper: 9
 appearance: Immaculate and reserved in dark robes with the al-Sayf sword sigil embroidered in silver.
   He carries his family's iron lamp, which burns with a steady white flame. His movements are deliberate,
   as if he calculates each one.
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'Patriarch of the al-Sayf binding family, the second-oldest house on the Council. Tariq''s
+  family contract with the djinn Nuria is coming due in six months — Nuria provided military protection
+  for the family for three centuries, and the price was ''the courage of each heir,'' taken at age thirty.
+  Tariq lost his courage at thirty and has lived as a quietly terrified man for twenty years, hiding his
+  fearlessness-less behind a stern exterior and political maneuvering. He has been secretly negotiating
+  with a different djinn to take over the contract on new terms, but Nuria has refused to release the
+  family, and the other djinn is demanding a price Tariq finds worse: the family''s firstborn daughter,
+  who is currently ten years old. He is considering which debt is worse to pay.'
+personality: Reserved and soft-spoken, strict and disciplined, guarded and cautious with trust.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
 visual:
   body_build: tall and thin, rigid posture
   hair: black, grey at the temples, precisely trimmed
@@ -62,5 +74,7 @@ current_state:
   location: location:zaffar
 purview: []
 ---
+
+
 
 The patriarch of the al-Sayf binding family, a stern, controlled man who sits on the Council and commands respect through formality rather than warmth. He never raises his voice and never relaxes his posture.

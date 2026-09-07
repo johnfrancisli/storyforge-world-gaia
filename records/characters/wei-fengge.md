@@ -8,36 +8,47 @@ gm_notes: A calligrapher of extraordinary talent whose brushwork is said to carr
   die in battle. She is horrified and has begun deliberately corrupting her chi-channeling to neutralize
   the effect, but this is causing her own emotional numbing.
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Female
 age: 33
-heritage: ''
-social_station: ''
+heritage: Sangguo (Jin)
+social_station: Artisan
 role: Master calligrapher and unwitting chi-cultivator
-proficient_skills: []
+proficient_skills:
+- Calligraphy
+- Artistry
+- Lore (Literature)
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 3
+  hp: 37
+  mana: 42
+  stamina: 46
+  speed: 36
+  defense: 18
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 13
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 11
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 3
+  silver: 14
+  copper: 19
 appearance: Refined and expressive, wearing flowing Wei-state blue robes. Often has ink on her sleeves
   and jaw.
-biography: ''
-personality: ''
-key_phrases: []
+biography: A calligrapher of extraordinary talent whose brushwork is said to carry chi that can calm or
+  agitate the viewer. This is not superstition—she is an unconscious chi-cultivator who channels emotional
+  energy into her ink. The Wei warlord has commissioned her to write victory proclamations that inflame
+  patriotism; she has realized the proclamations are making citizens fanatically loyal and willing to
+  die in battle. She is horrified and has begun deliberately corrupting her chi-channeling to neutralize
+  the effect, but this is causing her own emotional numbing.
+personality: Composed and even-tempered, steadfast and devoted, guarded and cautious with trust.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
+- I will not rest until I create a work of pure beauty with no chi manipulation whatsoever.
 visual:
   body_build: willowy, with long expressive hands
   hair: long black, loosely pinned with a brush-rest stick
@@ -59,5 +70,8 @@ current_state:
   location: location:jin-an
 purview: []
 ---
+
+
+
 
 A celebrated calligrapher in Wei whose work hangs in government halls and is said to stir the heart of anyone who reads it.

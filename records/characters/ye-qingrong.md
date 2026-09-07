@@ -9,36 +9,48 @@ gm_notes: A chi-cultivation nun who runs a small mountain monastery that is a re
   than they should be—a discrepancy that a careful observer might notice. She is looking for a way to
   free herself from the warlord's coercion without abandoning the women she protects.
 aliases: []
-race: ''
-gender: ''
+race: Elf
+gender: Female
 age: 39
-heritage: ''
-social_station: ''
+heritage: Sangguo (Jin)
+social_station: Clergy
 role: Chi-cultivation nun, war-ritual performer, and monastery protector
-proficient_skills: []
+proficient_skills:
+- Ritual Magic
+- Lore (Spirits)
+- Meditation
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 7
+  hp: 56
+  mana: 59
+  stamina: 59
+  speed: 30
+  defense: 23
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 9
+    DEX: 14
+    CON: 9
+    INT: 14
+    WIS: 12
+    CHA: 12
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 7
+  silver: 17
+  copper: 10
 appearance: Calm and luminous, wearing simple white cultivation robes. Moves with a cultivator's centered
   stillness.
-biography: ''
-personality: ''
-key_phrases: []
+biography: A chi-cultivation nun who runs a small mountain monastery that is a refuge for women fleeing
+  abusive situations in all three states. She is Qin Baotian's sister—the one who performs the chi-war-rituals
+  on his soldiers. She believes the rituals are necessary because the Jin warlord has threatened to destroy
+  her monastery if she does not cooperate. She has been secretly diverting some of the chi she channels
+  to sustain a protective barrier around the monastery, which is why her rituals are slightly less effective
+  than they should be—a discrepancy that a careful observer might notice. She is looking for a way to
+  free herself from the warlord's coercion without abandoning the women she protects.
+personality: Precise and detail-oriented, composed and even-tempered, guarded and cautious with trust.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
+- I will not rest until I free herself from the warlord's coercion without endangering the monastery.
 visual:
   body_build: slender and upright, cultivator's posture
   hair: black, cropped short in monastic style
@@ -60,5 +72,8 @@ current_state:
   location: location:sangguo
 purview: []
 ---
+
+
+
 
 A serene, white-robed chi-cultivation nun at a mountain monastery who welcomes all women who seek shelter, no questions asked.

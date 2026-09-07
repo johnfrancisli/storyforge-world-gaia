@@ -2,7 +2,7 @@
 
 Magic is one force. It does not have a name. The people of Gaia do not agree on what it is, where it comes from, or how it works. They only agree that it exists, and that every nation has found a different way to speak to it.
 
-No system is stronger than another. A shrine maiden from Tsukuyomi and a djinn-binder from Al-Khayzar are not using different levels of the same thing -- they are using entirely different languages for something that does not care which language you use. What matters is fluency, practice, and the cost you are willing to pay.
+No system is stronger than another. A shrine maiden from Tsukuyomi and a djinn-binder from [[location:al-khayzar|Al-Khayzar]] are not using different levels of the same thing -- they are using entirely different languages for something that does not care which language you use. What matters is fluency, practice, and the cost you are willing to pay.
 
 ## The Seven Traditions
 
@@ -43,6 +43,6 @@ Songs that carry power across water. A wayfinder's song can calm a storm, call a
 
 ## The Old Roads
 
-Not magic in the same sense, but related. The Old Roads are spirit-paths that once connected every nation in Gaia. Walking a working stretch can take you from Tsukuyomi to Al-Khayzar in an afternoon. Most are broken. Some are lost. A few are deliberately kept shut by the people who live near them, because the Roads do not check who is using them.
+Not magic in the same sense, but related. [[lore:old-roads|The Old Roads]] are spirit-paths that once connected every nation in Gaia. Walking a working stretch can take you from Tsukuyomi to [[location:al-khayzar|Al-Khayzar]] in an afternoon. Most are broken. Some are lost. A few are deliberately kept shut by the people who live near them, because the Roads do not check who is using them.
 
 The Roads are not gates or portals. They are paths -- you walk them, and the distance is shorter than it should be. The entrance is the hard part. Most entrances are hidden, overgrown, or sealed. Finding one is valuable. Using one is noticeable -- the Roads leave a trace that certain people can follow.

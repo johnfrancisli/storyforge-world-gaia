@@ -4,15 +4,15 @@ Above Gaia, above the clouds and the sky that anyone can see, there is a place t
 
 ## What it is
 
-The Heavenly Realm is a quiet, luminous place of floating islands, gentle mist, and gardens that bloom in every season at once. It is not infinite. It is not crowded. It is mostly empty, and that emptiness is intentional. This is a place of choosing, not of living.
+[[location:heavenly-realm|The Heavenly Realm]] is a quiet, luminous place of floating islands, gentle mist, and gardens that bloom in every season at once. It is not infinite. It is not crowded. It is mostly empty, and that emptiness is intentional. This is a place of choosing, not of living.
 
-A pavilion stands at its center, open on all sides, with a view that looks down through layers of cloud to the world below. From there you can see all seven nations spread out like a map -- the green of Valdris, the island-dotted blue of the Tide Archipelago, the brown and gold of Sangguo's river valleys, the deep green of Verdania, the grey-white of Hrafnland's fjords, the amber of Al-Khayzar's deserts, the misted green of Tsukuyomi's mountains.
+A pavilion stands at its center, open on all sides, with a view that looks down through layers of cloud to the world below. From there you can see all seven nations spread out like a map -- the green of Valdris, the island-dotted blue of the Tide Archipelago, the brown and gold of [[location:sangguo|Sangguo]]'s river valleys, the deep green of [[location:verdania|Verdania]], the grey-white of [[location:hrafnland|Hrafnland]]'s fjords, the amber of [[location:al-khayzar|Al-Khayzar]]'s deserts, the misted green of Tsukuyomi's mountains.
 
 A figure waits there. Not a god -- a guide. They are old, or they seem old, and they have been here longer than anyone currently alive in Gaia. They do not judge. They do not command. They ask one question: where do you want to begin?
 
 ## What happens here
 
-The Heavenly Realm is where a soul new to Gaia arrives. Not every person in Gaia passes through here -- most are born to parents, live their lives, and never know this place exists. But some arrive. The reincarnated, the displaced, the ones who come from elsewhere. They wake here, in the garden, with fragmented memories of another life and no clear understanding of how they got here.
+[[location:heavenly-realm|The Heavenly Realm]] is where a soul new to Gaia arrives. Not every person in Gaia passes through here -- most are born to parents, live their lives, and never know this place exists. But some arrive. The reincarnated, the displaced, the ones who come from elsewhere. They wake here, in the garden, with fragmented memories of another life and no clear understanding of how they got here.
 
 The guide offers them a choice. Not a grand destiny -- a starting point. Which nation, which life, which beginning. The choice is real, and it is permanent. Once you walk down from the Heavenly Realm into one of the seven nations, you cannot come back here to choose again.
 

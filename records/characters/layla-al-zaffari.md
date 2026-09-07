@@ -9,38 +9,49 @@ gm_notes: 'Layla is the richest merchant in Zaffar and sits on the city council.
   if the family cracks so she can pick up the pieces. She would also help Malik if he came to her — for
   a price.'
 aliases:
-- 'Layla the Spice Queen'
-race: ''
-gender: ''
-age: mid-sixties
-heritage: ''
-social_station: ''
+- Layla the Spice Queen
+race: Human
+gender: Female
+age: 25
+heritage: Al-Khayzari
+social_station: Merchant
 role: Spice merchant, council member
-proficient_skills: []
+proficient_skills:
+- Appraisal
+- Negotiation
+- Accounting
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 5
+  hp: 48
+  mana: 56
+  stamina: 50
+  speed: 25
+  defense: 19
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 11
+    WIS: 11
+    CHA: 14
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 28
+  silver: 39
+  copper: 29
 appearance: An elegant older woman in rich desert silks — amber and burgundy — with gold jewelry at the
   wrists and neck. She moves slowly, deliberately, and speaks in a voice that carries across a market
   without raising. She smells of saffron and authority.
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'Layla is the richest merchant in Zaffar and sits on the city council. She is not a binder
+  — she has no djinn contracts — but she has built her trade network by being smarter and faster than
+  the binding families, who rely on djinn power instead of business sense. She sees the binding families''
+  debt problem as an opportunity: if they collapse, their trade networks become available. She is not
+  malicious, but she is opportunistic. She has noticed Malik''s distress and is watching, waiting to see
+  if the family cracks so she can pick up the pieces. She would also help Malik if he came to her — for
+  a price.'
+personality: Bold and uncompromising.
+key_phrases:
+- A fair deal leaves both sides slightly unhappy. That is how you know it was fair.
+- Trust is the only currency that compounds.
 visual:
   body_build: slim, elegant, straight-backed
   skin: deep brown, sun-lined
@@ -63,4 +74,6 @@ current_state:
 purview: []
 ---
 
-The wealthiest spice merchant in Zaffar, and the only council member who is not a binder. A woman in her sixties who built her trade empire without djinn contracts, through sheer business sense. She is formidable, elegant, and watching the binding families' problems with the patience of a cat at a mouse hole.
+
+
+The wealthiest spice merchant in [[location:zaffar|Zaffar]], and the only council member who is not a binder. A woman in her sixties who built her trade empire without djinn contracts, through sheer business sense. She is formidable, elegant, and watching the binding families' problems with the patience of a cat at a mouse hole.

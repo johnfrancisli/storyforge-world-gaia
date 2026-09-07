@@ -11,36 +11,50 @@ gm_notes: 'Rangi is a deep-water fisher who works alone, sailing his canoe to th
   same script. He cannot read it, but the fragments fit together like pieces of a broken thing, and he
   is afraid they are instructions — for something that was supposed to stay at the bottom of the sea.'
 aliases: []
-race: ''
-gender: ''
-age: thirty-nine
-heritage: ''
-social_station: ''
+race: Human
+gender: Male
+age: 39
+heritage: Archipelagan
+social_station: Commoner
 role: Fisher (deep water)
-proficient_skills: []
+proficient_skills:
+- Fishing
+- Seamanship
+- Survival
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 6
+  hp: 57
+  mana: 54
+  stamina: 65
+  speed: 27
+  defense: 25
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 13
+    DEX: 10
+    CON: 12
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 1
+  silver: 7
+  copper: 24
 appearance: A big, sun-darkened man with a fisher's scars and a quiet, solitary manner. He works alone
   and speaks little. His canoe is always loaded for deep water.
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'Rangi is a deep-water fisher who works alone, sailing his canoe to the edge of the Archipelago''s
+  waters to catch fish that no one else will pursue. He is known for his strength and his fearlessness.
+  His secret is that he has been catching fish that should not exist — deep-water fish surfacing in shallow
+  water, fish with bioluminescent patterns that match no known species, and most recently, a fish with
+  an object in its belly: a small carved stone tablet inscribed with a script that resembles the patterns
+  in wayfinder tattoos. He has been keeping the tablet hidden and has been trying to catch more fish from
+  the same area, hoping to find more tablets. He has caught two more since, each with a fragment of the
+  same script. He cannot read it, but the fragments fit together like pieces of a broken thing, and he
+  is afraid they are instructions — for something that was supposed to stay at the bottom of the sea.'
+personality: Reserved and soft-spoken, guarded and cautious with trust, carries a secret that shapes every
+  decision.
+key_phrases:
+- The river gives and the river takes. You learn to accept both.
+- A bad day fishing is still a day on the water.
 visual:
   body_build: big, broad, powerful
   skin: deep brown, heavily scarred
@@ -67,5 +81,7 @@ current_state:
   location: location:tide-archipelago
 purview: []
 ---
+
+
 
 A deep-water fisher who has been catching impossible fish and recovering carved stone tablets from their bellies. The tablets form a message he cannot read, and he is afraid of what they say.

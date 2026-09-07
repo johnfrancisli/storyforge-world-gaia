@@ -9,36 +9,48 @@ gm_notes: A shadowy figure who operates Jin-an's underground gambling den and is
   a coordinated coup. She has kept this information because she is waiting to sell it to the highest bidder,
   but the coup timeline is approaching and she is running out of time to find a buyer she trusts.
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Female
 age: 44
-heritage: ''
-social_station: ''
+heritage: Sangguo (Jin)
+social_station: Merchant
 role: Gambling den operator and underground fixer
-proficient_skills: []
+proficient_skills:
+- Appraisal
+- Negotiation
+- Accounting
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 5
+  hp: 46
+  mana: 54
+  stamina: 52
+  speed: 26
+  defense: 17
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 44
+  silver: 46
+  copper: 40
 appearance: Hard-edged and watchful, wearing dark, practical clothes under a gambler's coat. Rings on
   every finger, eyes on every door.
-biography: ''
-personality: ''
-key_phrases: []
+biography: A shadowy figure who operates Jin-an's underground gambling den and is the city's premier fixer—able
+  to arrange forged documents, discreet passage, and anonymous contacts for a price. She lost her entire
+  family to a Wei military raid twenty years ago and rebuilt her life in the criminal underworld. She
+  is the only person who knows that the Jin warlord's chief advisor and the Chu warlord's chancellor have
+  been secretly corresponding about a partition plan to divide Jin territory between Wei and Chu after
+  a coordinated coup. She has kept this information because she is waiting to sell it to the highest bidder,
+  but the coup timeline is approaching and she is running out of time to find a buyer she trusts.
+personality: Guarded and cautious with trust, thoughtful and philosophical, perceptive and watchful.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
+- I will not rest until I sell the partition plan before the coup happens.
 visual:
   body_build: lean and wiry, coiled-tight
   hair: black with a white streak at the right temple, in a practical gambler's ponytail
@@ -60,5 +72,8 @@ current_state:
   location: location:jin-an
 purview: []
 ---
+
+
+
 
 A sharp-eyed, sharp-tongued woman who runs Jin-an's most discreet gambling den and knows where every secret in the city is buried.

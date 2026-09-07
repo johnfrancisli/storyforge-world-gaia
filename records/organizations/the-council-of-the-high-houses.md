@@ -11,4 +11,4 @@ visual:
   prompt: ''
 ---
 
-The council of noble houses that advise the Crown and guard their feudal privileges, with Baroness Gwendolyn Fairhold acting as political mediator and King Aldran Valdris III presiding from Sunhelm Keep. The northern houses back Prince Roderick's militarism while southern baronesses like Gwendolyn push for mediation, and the Dragon Order's swelling influence threatens noble autonomy on every front. The council wants to curb the Dragon Order's power and restore noble prerogative over royal appointments.
+The council of noble houses that advise the Crown and guard their feudal privileges, with Baroness [[character:gwendolyn-fairhold|Gwendolyn Fairhold]] acting as political mediator and King [[character:aldran-valdris-iii|Aldran Valdris III]] presiding from [[location:val-crownhaven-keep|Sunhelm Keep]]. The northern houses back Prince Roderick's militarism while southern baronesses like Gwendolyn push for mediation, and the Dragon Order's swelling influence threatens noble autonomy on every front. The council wants to curb the Dragon Order's power and restore noble prerogative over royal appointments.

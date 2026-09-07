@@ -8,38 +8,48 @@ gm_notes: 'Helga has seen the same thing in her seidr visions that Shaman Nara''
   her his path and hers will cross, and that the crossing matters. She has begun traveling toward Verdania,
   following the vision.'
 aliases:
-- 'Volva Helga'
-race: ''
-gender: ''
-age: seventies
-heritage: ''
-social_station: ''
+- Volva Helga
+race: Human
+gender: Female
+age: 25
+heritage: Hrafnish
+social_station: Clergy
 role: Volva (seer, wise woman)
-proficient_skills: []
+proficient_skills:
+- Divination
+- Spirit Lore
+- Ritual Magic
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 4
+  hp: 34
+  mana: 87
+  stamina: 51
+  speed: 26
+  defense: 21
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 11
+    WIS: 14
+    CHA: 11
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 6
+  silver: 3
+  copper: 18
 appearance: An old woman in layers of wool and fur, a pouch of runestones at her belt. She walks with
   a staff carved with runes that glow faintly in the dark. Her eyes are milky — her sight is going physical,
   but her seidr sight is sharper than ever.
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'Helga has seen the same thing in her seidr visions that Shaman Nara''s river spirit warned
+  about and Monk Jian Yi has been seeing in meditation: something behind a door, deep beneath the world,
+  stirring. She has also seen something else — a figure walking south through Sangguo, barefoot, which
+  she recognizes as a chi monk of significant power. She does not know who he is, but the vision tells
+  her his path and hers will cross, and that the crossing matters. She has begun traveling toward Verdania,
+  following the vision.'
+personality: Blunt and rough-spoken.
+key_phrases:
+- The future is not fixed. It is inclined.
+- I see patterns, not certainties. Do not confuse the two.
 visual:
   body_build: thin, wiry
   hair: white, long, loose
@@ -61,4 +71,6 @@ current_state:
 purview: []
 ---
 
-A volva — a wise woman and seer — of Hrafnland. An old woman who reads runes, sees visions, and is respected and slightly feared by everyone in Skaldvik. She lives in a hut outside the town and comes in when the visions demand it. She is currently in Skaldvik because the visions have been demanding it.
+
+
+A volva — a wise woman and seer — of [[location:hrafnland|Hrafnland]]. An old woman who reads runes, sees visions, and is respected and slightly feared by everyone in [[location:skaldvik|Skaldvik]]. She lives in a hut outside the town and comes in when the visions demand it. She is currently in [[location:skaldvik|Skaldvik]] because the visions have been demanding it.

@@ -11,36 +11,50 @@ gm_notes: A body painter whose designs are more than decoration — they are spi
   sub-glyph as an infant. She has stopped using the protection glyph entirely but has not told anyone
   why, and hunters have begun asking why their luck has changed.
 aliases: []
-race: ''
-gender: ''
+race: Elf
+gender: Female
 age: 34
-heritage: ''
-social_station: ''
+heritage: Verdanian
+social_station: Artisan
 role: Body painter and spirit-glyph keeper
-proficient_skills: []
+proficient_skills:
+- Artistry
+- Lore (Glyphs)
+- Crafting (Painting)
+- Lore (Forests)
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 4
+  hp: 30
+  mana: 81
+  stamina: 43
+  speed: 40
+  defense: 20
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 9
+    DEX: 17
+    CON: 9
+    INT: 14
+    WIS: 12
+    CHA: 13
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 3
+  silver: 10
+  copper: 8
 appearance: Hands and forearms permanently stained red-black from years of dye work. Bright, observant
   eyes. Wears simple wrapped cloth, always with a clay pot of fresh pigment at her hip.
-biography: ''
-personality: ''
-key_phrases: []
+biography: A body painter whose designs are more than decoration — they are spirit-glyphs that can temporarily
+  grant protection, courage, or luck. Brisa learned the true glyph-language from her mother, who learned
+  it from a painted-spirit that lives in the cliff caves above the river. Brisa has discovered that one
+  of the glyph patterns she was taught — the one used for 'protection from harm' — actually contains a
+  sub-glyph that marks the wearer as a target for a specific predator-spirit. Her mother used it on hunters
+  before dangerous expeditions. Brisa now suspects her mother was deliberately feeding hunters to the
+  predator-spirit in exchange for the glyph-knowledge, and that Brisa herself was marked with the same
+  sub-glyph as an infant. She has stopped using the protection glyph entirely but has not told anyone
+  why, and hunters have begun asking why their luck has changed.
+personality: Warm and optimistic, guarded and cautious with trust, perceptive and watchful.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
 visual:
   body_build: compact and strong from preparing dye materials
   hair: black, tied back with a cord of woven fiber
@@ -63,4 +77,7 @@ current_state:
 purview: []
 ---
 
-A human body painter whose swirling urucu and genipapo designs adorn every important figure in Iara before ceremonies, hunts, and journeys.
+
+
+
+A human body painter whose swirling urucu and genipapo designs adorn every important figure in [[location:iara|Iara]] before ceremonies, hunts, and journeys.

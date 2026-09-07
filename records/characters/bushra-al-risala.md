@@ -10,36 +10,49 @@ gm_notes: A messenger who carries letters between the city-states of Al-Khayzar,
   most informed person in Al-Khayzar about the binding families' intentions. She is waiting for the right
   buyer — not for money, but for someone who will use the information to break the families' hold on power.
 aliases: []
-race: ''
-gender: ''
+race: Elf
+gender: Female
 age: 28
-heritage: ''
-social_station: ''
+heritage: Al-Khayzari
+social_station: Merchant
 role: Courier, intelligence gatherer
-proficient_skills: []
+proficient_skills:
+- Endurance
+- Navigation
+- Riding
+- Lore (Forests)
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 4
+  hp: 42
+  mana: 62
+  stamina: 47
+  speed: 41
+  defense: 19
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 9
+    DEX: 17
+    CON: 9
+    INT: 15
+    WIS: 14
+    CHA: 12
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 28
+  silver: 24
+  copper: 34
 appearance: Weathered and compact in desert riding clothes and a wrapping scarf, she moves with the economy
   of someone who conserves every motion. Her camel is lean and fast, and she treats it better than herself.
-biography: ''
-personality: ''
-key_phrases: []
+biography: A messenger who carries letters between the city-states of Al-Khayzar, crossing the desert
+  alone on camelback. She is the fastest courier in the confederation and is trusted with the most sensitive
+  correspondence. Bushra has been opening and reading the binding families' sealed letters for two years,
+  using a technique taught to her by a djinn she encountered at a desert waystation. The djinn did not
+  ask for payment — it simply told her 'knowledge is its own currency' and vanished. Bushra has compiled
+  a dossier of every binding family's private communications and has become, without anyone knowing, the
+  most informed person in Al-Khayzar about the binding families' intentions. She is waiting for the right
+  buyer — not for money, but for someone who will use the information to break the families' hold on power.
+personality: Perceptive and watchful, reserved and soft-spoken, shrewd and calculating.
+key_phrases:
+- I do what must be done.
+- The work comes first. Everything else can wait.
 visual:
   body_build: lean and wiry, rider's build
   hair: dark brown, short, under a wrapping scarf
@@ -62,5 +75,7 @@ current_state:
   location: location:al-khayzar
 purview: []
 ---
+
+
 
 A lean, sun-darkened messenger who rides the desert routes between city-states faster than anyone else. She carries a leather satchel of sealed letters and is known for never being late and never being caught.

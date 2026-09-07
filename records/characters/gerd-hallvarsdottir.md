@@ -9,37 +9,49 @@ gm_notes: 'Gerd is Jarl Sigrid''s younger sister, and she manages the jarl''s fa
   angry — she will be practical, and the practical response will be to arrange a marriage for Gerd anyway.
   Gerd would rather stay hidden than be managed.'
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Female
 age: 41
-heritage: ''
-social_station: ''
+heritage: Hrafnish
+social_station: Nobility
 role: Farmer / Jarl's Sister
-proficient_skills: []
+proficient_skills:
+- Farming
+- Animal Husbandry
+- Survival
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 6
+  hp: 56
+  mana: 55
+  stamina: 66
+  speed: 26
+  defense: 25
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 13
+    DEX: 10
+    CON: 12
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 96
+  silver: 40
+  copper: 43
 appearance: Sturdy and sun-weathered for Hrafnland, Gerd wears a practical wool dress with a leather belt
   full of tools — a pruning knife, a counting-string, a key to the storehouse. She moves with the easy
   confidence of someone who knows the land is hers to tend, and her hands are always busy.
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'Gerd is Jarl Sigrid''s younger sister, and she manages the jarl''s farmstead — the herds,
+  the fields, the storehouses that feed the household through winter. Her secret: she is in love with
+  a woman — Vigdis, the rope maker — and they have been meeting secretly for three years. Gerd has not
+  told Sigrid because she fears her sister will see it as a political liability: a jarl''s sister who
+  will not make a marriage alliance is a tool gone blunt. Gerd also fears that if Sigrid finds out, she
+  will not be angry — she will be practical, and the practical response will be to arrange a marriage
+  for Gerd anyway. Gerd would rather stay hidden than be managed.'
+personality: Tired and carrying a heavy burden, guarded and cautious with trust, blunt and rough-spoken.
+key_phrases:
+- The land doesn't care about your plans.
+- Patience is the only crop that grows in any season.
+- I will not rest until I live openly with vigdis without losing me place in me sister's hall.
 visual:
   body_build: medium height, strong and practical
   hair: silver-blonde like her sister's, worn in a single thick braid
@@ -60,5 +72,9 @@ current_state:
   location: location:skaldvik
 purview: []
 ---
+
+
+
+
 
 The jarl's sister, who runs the farmstead with quiet competence and hides a love that her sister's politics would not allow her to keep.

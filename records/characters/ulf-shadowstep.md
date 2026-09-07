@@ -10,38 +10,50 @@ gm_notes: 'Ulf is a hunter and trapper who works the mountain forests, setting l
   not about the cave — the cave, he has told no one. He is afraid that if the ice melts, or if the things
   wake, the mountains will not be safe for anyone.'
 aliases: []
-race: ''
-gender: ''
+race: Beast-kin
+gender: Male
 age: 38
-heritage: ''
-social_station: ''
+heritage: Hrafnish
+social_station: Artisan
 role: Hunter / Trapper
-proficient_skills: []
+proficient_skills:
+- Appraisal
+- Negotiation
+- Accounting
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 4
+  hp: 42
+  mana: 50
+  stamina: 46
+  speed: 27
+  defense: 20
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 2
+  silver: 4
+  copper: 25
 appearance: Lean and weather-tough, Ulf wears furs and wool in layered camouflage, his face half-hidden
   under a fur hood. He carries a bow, a belt knife, and a trapping bag, and he moves through the forest
   like he is part of it — no sound, no wasted motion. He is not a talkative man, and he has become less
   so since the cave.
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'Ulf is a hunter and trapper who works the mountain forests, setting lines of traps for fox,
+  marten, and ermine whose pelts are valuable in trade. His secret: he has found a cave in the high passes
+  that contains something he should not have seen — a chamber filled with ice, and in the ice, shapes.
+  Not animals. Not people, exactly. Tall, still, with features that are almost human but wrong — too long
+  in the limb, too wide in the jaw. Frozen, not dead. He touched the ice and it was warm. He ran. He has
+  not gone back, but he thinks about it every night. He told Hilla Snowstep about the giant tracks but
+  not about the cave — the cave, he has told no one. He is afraid that if the ice melts, or if the things
+  wake, the mountains will not be safe for anyone.'
+personality: Precise and detail-oriented, guarded and cautious with trust, blunt and rough-spoken.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
 visual:
   body_build: lean and long-limbed, built for silent movement
   hair: dark brown, worn short under a fur hood
@@ -62,5 +74,7 @@ current_state:
   location: location:hrafnland
 purview: []
 ---
+
+
 
 A trapper who knows the mountain forests track by track and trap by trap, and who found something frozen in a cave that he wishes he could freeze out of his own memory.

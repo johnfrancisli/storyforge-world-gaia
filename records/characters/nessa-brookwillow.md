@@ -7,36 +7,46 @@ gm_notes: Nessa is a young weaver whose loom produces tapestries of startling be
   accident. She does not understand how or why this happens and is terrified. A local priest has begun
   asking questions, calling her gift 'divine.' She fears being labelled a prophet — or worse, a witch.
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Female
 age: 21
-heritage: ''
-social_station: ''
+heritage: Valdrian
+social_station: Artisan
 role: Weaver
-proficient_skills: []
+proficient_skills:
+- Crafting (Weaving)
+- Artistry
+- Appraisal
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 3
+  hp: 39
+  mana: 46
+  stamina: 47
+  speed: 34
+  defense: 23
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 13
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 11
 currency:
   gold: 0
-  silver: 0
-  copper: 0
+  silver: 6
+  copper: 25
 appearance: Fine-boned and shy, Nessa wears a simple dress with thread-snarls caught in her sleeves. She
   keeps her head down and speaks barely above a whisper.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Nessa is a young weaver whose loom produces tapestries of startling beauty and eerie accuracy.
+  She has woven two tapestries depicting events before they happened — one showed a fire at the harbour
+  district three days before it occurred, another showed a knight falling from his horse before the tournament
+  accident. She does not understand how or why this happens and is terrified. A local priest has begun
+  asking questions, calling her gift 'divine.' She fears being labelled a prophet — or worse, a witch.
+personality: Reserved and soft-spoken, strict and disciplined.
+key_phrases:
+- I do what must be done.
+- The work comes first. Everything else can wait.
+- I will not rest until I weave beautiful things without the frightening visions.
 visual:
   body_build: petite and delicate
   hair: pale blonde, long, worn loose
@@ -57,5 +67,8 @@ current_state:
   location: location:valdris
 purview: []
 ---
+
+
+
 
 A quiet young weaver whose threads seem to know the future, though she desperately wishes they did not.

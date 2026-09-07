@@ -25,4 +25,4 @@ visual:
   prompt: ''
 ---
 
-Wen Li, the river-folk canal master in Jin'an, has been warning that the canal system feeding the city's grain supply is failing. Two years of ignored reports and diverted maintenance funds have brought the system to the edge. Wen Li is considering sabotage to force the court's attention.
+Wen Li, the river-folk canal master in [[location:jin-an|Jin'an]], has been warning that the canal system feeding the city's grain supply is failing. Two years of ignored reports and diverted maintenance funds have brought the system to the edge. Wen Li is considering sabotage to force the court's attention.

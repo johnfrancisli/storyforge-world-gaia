@@ -6,36 +6,45 @@ gm_notes: Sera was the secret lover of Prince Edran, who died under suspicious c
   — a torn arrow fletching, a bootprint in mud — but speaking out means death. She hides her investigation
   behind her duties as a tavern keeper, listening to every traveler's gossip.
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Female
 age: 32
-heritage: ''
-social_station: ''
+heritage: Valdrian
+social_station: Merchant
 role: Tavern Keeper
-proficient_skills: []
+proficient_skills:
+- Hospitality
+- Brewing
+- Gossip
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 3
+  hp: 37
+  mana: 43
+  stamina: 46
+  speed: 25
+  defense: 19
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 41
+  silver: 27
+  copper: 34
 appearance: Auburn-haired and quick-smiling, Sera moves through the tavern with practiced grace. She wears
   a clean apron and keeps a dagger hidden beneath the bar counter at all times.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Sera was the secret lover of Prince Edran, who died under suspicious circumstances during a
+  hunt. She believes he was murdered by his uncle, Lord Cael. She has been quietly gathering evidence
+  — a torn arrow fletching, a bootprint in mud — but speaking out means death. She hides her investigation
+  behind her duties as a tavern keeper, listening to every traveler's gossip.
+personality: Reserved and soft-spoken, wary and watchful, guarded and cautious with trust.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
+- I will not rest until I prove lord cael murdered prince edran.
 visual:
   body_build: tall and wiry
   hair: auburn, shoulder-length, often braided
@@ -55,5 +64,8 @@ current_state:
   location: location:crownhaven
 purview: []
 ---
+
+
+
 
 A sharp-tongued tavern keeper whose warmth masks a cold determination to avenge her murdered love.

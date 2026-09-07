@@ -10,38 +10,50 @@ gm_notes: 'Koll is a scout and messenger who runs the mountain trails for Jarl S
   size, moving between the structures with what looked like purpose. Koll has not reported any of this
   because he does not want the jarl to send a war party. He wants to make contact.'
 aliases: []
-race: ''
-gender: ''
+race: Frost Giant
+gender: Male
 age: 24
-heritage: ''
-social_station: ''
+heritage: Hrafnish
+social_station: Military
 role: Scout / Messenger
-proficient_skills: []
+proficient_skills:
+- Stealth
+- Perception
+- Survival
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 10
+  hp: 91
+  mana: 88
+  stamina: 106
+  speed: 35
+  defense: 38
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 22
+    DEX: 13
+    CON: 20
+    INT: 13
+    WIS: 16
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 3
+  silver: 23
+  copper: 25
 appearance: Lean and fast, Koll wears light wool and leather — travelling clothes, not armor — with a
   scout's short bow and a belt knife. He is always slightly out of breath, as though he has just arrived
   from somewhere far away, because he usually has. His face is wind-burned and his eyes are always scanning
   the horizon.
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'Koll is a scout and messenger who runs the mountain trails for Jarl Sigrid, watching for ships
+  in the fjord and carrying word between Skaldvik and the outlying farms. His secret: he has been mapping
+  the frost giant territories in the high mountains — not for Sigrid, but for himself. He is obsessed
+  with the giants. He has found evidence of a settlement — not a cave, a settlement, with shaped stones
+  and arranged hearths — high enough that no human should be able to live there. He has been spending
+  his rest days climbing to observe it from a distance. He has seen one giant, twice — a figure of enormous
+  size, moving between the structures with what looked like purpose. Koll has not reported any of this
+  because he does not want the jarl to send a war party. He wants to make contact.'
+personality: Guarded and cautious with trust, carries a secret that shapes every decision.
+key_phrases:
+- I see what others miss because I know what to look for.
+- The wilderness does not forgive carelessness.
 visual:
   body_build: lean and quick, built for running and climbing
   hair: sandy brown, sun-bleached, worn short
@@ -63,5 +75,7 @@ current_state:
   location: location:hrafnland
 purview: []
 ---
+
+
 
 A scout who runs the high trails with a messenger's speed and a hunter's eyes, and who has been spending his off days watching something in the mountains that everyone else believes is a myth.

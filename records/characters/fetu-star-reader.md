@@ -13,37 +13,52 @@ gm_notes: Fetu is the youngest wayfinder to achieve journeyman rank in a generat
   and a new way of seeing the sky, and she does not know if something happened to her or if she was always
   this way.
 aliases: []
-race: ''
-gender: ''
-age: twenty
-heritage: ''
-social_station: ''
+race: Human
+gender: Female
+age: 20
+heritage: Archipelagan
+social_station: Artisan
 role: Wayfinder (junior navigator)
-proficient_skills: []
+proficient_skills:
+- Navigation
+- Astronomy
+- Survival
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 3
+  hp: 36
+  mana: 49
+  stamina: 42
+  speed: 32
+  defense: 19
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 13
+    CON: 10
+    INT: 11
+    WIS: 12
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 4
+  silver: 12
+  copper: 30
 appearance: A young, bright-eyed woman with wayfinder tattoos just beginning on her forearms — only two
   routes marked so far. She carries a star compass carved from shell and watches the night sky with unusual
   intensity.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Fetu is the youngest wayfinder to achieve journeyman rank in a generation, and she is considered
+  a prodigy. She can read the stars, currents, and bird patterns with an accuracy that rivals elders twice
+  her age. Her secret is that she does not read the stars — she reads the spaces between them. She has
+  a form of sight that lets her see the dark sky as a map, where the gaps between stars are the routes
+  and the stars themselves are the hazards. She has never described this to anyone because she assumed
+  everyone saw it this way. When she overheard another wayfinder describe navigating by star positions,
+  she realized her sight was different and has been hiding it since. She is afraid that her way of seeing
+  is not human — that something changed her during a storm she sailed through alone at fourteen, when
+  she was lost for three days and does not remember what happened. She has a three-day gap in her memory
+  and a new way of seeing the sky, and she does not know if something happened to her or if she was always
+  this way.
+personality: Warm and optimistic, guarded and cautious with trust, blunt and rough-spoken.
+key_phrases:
+- The stars do not lie, but they do not explain themselves.
+- The ocean is not empty. It is full of things you cannot see.
 visual:
   body_build: lean, quick, bright-eyed
   skin: medium brown
@@ -67,5 +82,7 @@ current_state:
   location: location:lani-atoll
 purview: []
 ---
+
+
 
 A young wayfinder prodigy who navigates by the dark spaces between stars, not the stars themselves. She does not know if her sight is a gift, a mutation, or the result of something that happened to her during three days she cannot remember.

@@ -6,36 +6,45 @@ gm_notes: Cedric was once a knight of the Dragon Order who broke his oath to pro
   living as a lowly stable hand. He recognizes one of the dragon-bonded knights who visits the stables
   as the son of a man who died in that village — and fears eventual recognition.
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Male
 age: 45
-heritage: ''
-social_station: ''
+heritage: Valdrian
+social_station: Commoner
 role: Stable Hand
-proficient_skills: []
+proficient_skills:
+- Animal Husbandry
+- Horsemanship
+- Endurance
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 6
+  hp: 54
+  mana: 58
+  stamina: 54
+  speed: 29
+  defense: 19
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 5
+  silver: 3
+  copper: 23
 appearance: Grey-templed and quiet, Cedric wears nondescript roughspun clothing. He moves with a soldier's
   efficiency despite his humble station, a detail not lost on the observant.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Cedric was once a knight of the Dragon Order who broke his oath to protect a village from a
+  dragon raid, fleeing instead. He carries immense guilt and has secretly abandoned his knightly identity,
+  living as a lowly stable hand. He recognizes one of the dragon-bonded knights who visits the stables
+  as the son of a man who died in that village — and fears eventual recognition.
+personality: Reserved and soft-spoken, guarded and cautious with trust, blunt and rough-spoken.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
+- I will not rest until I earn forgiveness he believes he does not deserve.
 visual:
   body_build: broad and thickening with age
   hair: greying brown, cropped short
@@ -56,5 +65,7 @@ current_state:
   location: location:dragonrest
 purview: []
 ---
+
+
 
 A weathered stable hand who tends horses with excessive gentleness, as though seeking forgiveness from creatures who cannot grant it.

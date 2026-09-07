@@ -7,37 +7,47 @@ gm_notes: Secretly the illegitimate daughter of the late King Aldric and a black
   crisis — or resolve it. She does not yet know the full truth, only that her mother whispered 'you have
   your father's hands' on her deathbed. The sealed letter sits in a lockbox beneath the forge.
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Female
 age: 24
-heritage: ''
-social_station: ''
+heritage: Valdrian
+social_station: Artisan
 role: Blacksmith
-proficient_skills: []
+proficient_skills:
+- Crafting (Metalwork)
+- Appraisal
+- Endurance
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 3
+  hp: 42
+  mana: 42
+  stamina: 49
+  speed: 28
+  defense: 23
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 13
+    DEX: 10
+    CON: 12
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 1
+  silver: 15
+  copper: 7
 appearance: Broad-shouldered and soot-stained, with calloused hands and a permanent burn scar curling
   up her left forearm. She wears a leather apron over simple linen, her dark hair tied back with iron
   wire.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Secretly the illegitimate daughter of the late King Aldric and a blacksmith's daughter. Her
+  birth was hidden to protect the succession line. A sealed letter from her mother, only to be opened
+  upon the queen's death, proves her royal blood. If revealed, she could destabilize the entire succession
+  crisis — or resolve it. She does not yet know the full truth, only that her mother whispered 'you have
+  your father's hands' on her deathbed. The sealed letter sits in a lockbox beneath the forge.
+personality: Guarded and cautious with trust, carries a secret that shapes every decision.
+key_phrases:
+- Metal has opinions. My job is to negotiate.
+- The forge teaches patience whether you want to learn it or not.
+- I will not rest until I forge a blade worthy of legend, something that will outlast me.
 visual:
   body_build: stocky and muscular
   hair: dark brown, thick, worn tied back
@@ -57,5 +67,8 @@ current_state:
   location: location:crownhaven
 purview: []
 ---
+
+
+
 
 A brooding blacksmith's apprentice whose hammer strikes ring with unnatural precision, haunted by a lineage she cannot yet name.

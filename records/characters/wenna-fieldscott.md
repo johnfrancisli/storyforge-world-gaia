@@ -7,36 +7,45 @@ gm_notes: Wenna is a shepherdess who tends her flocks on the high meadows near D
   selling them illegally carries severe punishment. She needs the coin to pay off her late husband's gambling
   debts to a dangerous moneylender who has threatened her children.
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Female
 age: 36
-heritage: ''
-social_station: ''
+heritage: Valdrian
+social_station: Artisan
 role: Shepherd
-proficient_skills: []
+proficient_skills:
+- Appraisal
+- Negotiation
+- Accounting
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 5
+  hp: 49
+  mana: 55
+  stamina: 50
+  speed: 27
+  defense: 21
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 1
+  silver: 11
+  copper: 13
 appearance: Sun-weathered and practical, Wenna wears a woollen shawl and rough boots. A shepherd's crook
   is always in her hand, and she carries a slingshot tucked in her belt.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Wenna is a shepherdess who tends her flocks on the high meadows near Dragonrest. She has found
+  dragon scales shed in the mountain passes — fresh ones — and has been quietly collecting and selling
+  them to an alchemist in Crownhaven. Dragon scale trade is strictly controlled by the Dragon Order, and
+  selling them illegally carries severe punishment. She needs the coin to pay off her late husband's gambling
+  debts to a dangerous moneylender who has threatened her children.
+personality: Reserved and soft-spoken, strict and disciplined, blunt and rough-spoken.
+key_phrases:
+- I do what must be done.
+- The work comes first. Everything else can wait.
 visual:
   body_build: lean and wiry from years on the hills
   hair: wheat blonde, sun-bleached, worn in a single braid
@@ -56,5 +65,7 @@ current_state:
   location: location:dragonrest
 purview: []
 ---
+
+
 
 A weathered shepherdess who knows the mountain passes better than anyone, and who has been quietly breaking the kingdom's strictest laws to keep her family safe.

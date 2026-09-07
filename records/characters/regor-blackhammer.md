@@ -7,36 +7,47 @@ gm_notes: Regor is a dwarf armorer who holds a contract with the Dragon Order to
   the Dragon Order's armour. He reported it to his guild master, who told him to keep quiet and finish
   the repairs quietly. The guild master's brother is Lord Cael's steward.
 aliases: []
-race: ''
-gender: ''
+race: Dwarf
+gender: Male
 age: 48
-heritage: ''
-social_station: ''
+heritage: Valdrian
+social_station: Artisan
 role: Armorer
-proficient_skills: []
+proficient_skills:
+- Survival
+- Crafting
+- Perception
+- Lore (Stone)
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 8
+  hp: 74
+  mana: 67
+  stamina: 76
+  speed: 26
+  defense: 24
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 14
+    DEX: 9
+    CON: 15
+    INT: 11
+    WIS: 11
+    CHA: 9
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 1
+  silver: 4
+  copper: 17
 appearance: Compact and scowling, Regor wears a heavy leather apron over dwarven work-garb. His beard
   is short and singed, his hands perpetually smudged with oil.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Regor is a dwarf armorer who holds a contract with the Dragon Order to maintain their dragon-scale
+  plate armour. He has discovered hairline fractures in three suits of armour — fractures that look like
+  natural wear but were, he is certain, deliberately weakened with a corrosive agent. Someone is sabotaging
+  the Dragon Order's armour. He reported it to his guild master, who told him to keep quiet and finish
+  the repairs quietly. The guild master's brother is Lord Cael's steward.
+personality: Reserved and soft-spoken, guarded and cautious with trust.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
+- I will not rest until I expose the armour sabotage before a knight dies because of it.
 visual:
   body_build: short and heavily muscled, dwarven build
   hair: black with early grey streaks, short singed beard
@@ -57,5 +68,7 @@ current_state:
   location: location:dragonrest
 purview: []
 ---
+
+
 
 A meticulous dwarf armorer whose eye for metal is matched only by his stubbornness — which is why he cannot stay quiet about what he found in the armour.

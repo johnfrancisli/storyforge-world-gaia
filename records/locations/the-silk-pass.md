@@ -10,4 +10,4 @@ visual:
   prompt: ''
 ---
 
-The only overland route between Sangguo and Al-Khayzar -- a narrow canyon through red rock mountains, hot enough to kill a man at midday. Caravans move through in the cool hours: spice and saffron going north, silk and lacquer going south. Toll stations at both ends take their cut. Bandits hide in the side-gorges where the canyon narrows to single-file width. The rock walls are scarved with graffiti in a dozen languages, some of them dead.
+The only overland route between [[location:sangguo|Sangguo]] and [[location:al-khayzar|Al-Khayzar]] -- a narrow canyon through red rock mountains, hot enough to kill a man at midday. Caravans move through in the cool hours: spice and saffron going north, silk and lacquer going south. Toll stations at both ends take their cut. Bandits hide in the side-gorges where the canyon narrows to single-file width. The rock walls are scarved with graffiti in a dozen languages, some of them dead.

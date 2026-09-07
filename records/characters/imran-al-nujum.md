@@ -1,47 +1,61 @@
 ---
 id: character:imran-al-nujum
 name: Imran al-Nujum
-gm_notes: A male astrologer and Tara's (character:tara-al-nujum) former student, now a rival. Imran
-  discovered independently that certain star alignments weaken djinn contracts temporarily, and he has
-  been selling this information to the highest bidder among the binding families. He does not know Tara
-  can read true names, but he has noticed that her star charts contain annotations he cannot explain —
-  symbols that correspond to no constellation he knows. He has been stealing glances at her charts during
-  Academy meetings and is close to deciphering the true-name notation system. If he succeeds, he will
-  have the most dangerous information in Al-Khayzar, and he has already shown he will sell anything to
-  anyone. He is being followed by a djinn in human form who he has not noticed, and the djinn is reporting
-  his progress to its own masters.
+gm_notes: A male astrologer and Tara's (character:tara-al-nujum) former student, now a rival. Imran discovered
+  independently that certain star alignments weaken djinn contracts temporarily, and he has been selling
+  this information to the highest bidder among the binding families. He does not know Tara can read true
+  names, but he has noticed that her star charts contain annotations he cannot explain — symbols that
+  correspond to no constellation he knows. He has been stealing glances at her charts during Academy meetings
+  and is close to deciphering the true-name notation system. If he succeeds, he will have the most dangerous
+  information in Al-Khayzar, and he has already shown he will sell anything to anyone. He is being followed
+  by a djinn in human form who he has not noticed, and the djinn is reporting his progress to its own
+  masters.
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Male
 age: 34
-heritage: ''
-social_station: ''
+heritage: Al-Khayzari
+social_station: Merchant
 role: Astrologer, information broker
-proficient_skills: []
+proficient_skills:
+- Appraisal
+- Negotiation
+- Accounting
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 4
+  hp: 41
+  mana: 51
+  stamina: 48
+  speed: 29
+  defense: 20
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 11
+  silver: 76
+  copper: 39
 appearance: Smooth-faced and well-dressed in scholar's robes with too much silver jewelry, he carries
   a brass telescope and a case of charts. He is handsome and knows it, and he speaks with the confidence
   of a man who believes his intelligence makes him untouchable.
-biography: ''
-personality: ''
-key_phrases: []
+biography: A male astrologer and Tara's (character:tara-al-nujum) former student, now a rival. Imran discovered
+  independently that certain star alignments weaken djinn contracts temporarily, and he has been selling
+  this information to the highest bidder among the binding families. He does not know Tara can read true
+  names, but he has noticed that her star charts contain annotations he cannot explain — symbols that
+  correspond to no constellation he knows. He has been stealing glances at her charts during Academy meetings
+  and is close to deciphering the true-name notation system. If he succeeds, he will have the most dangerous
+  information in Al-Khayzar, and he has already shown he will sell anything to anyone. He is being followed
+  by a djinn in human form who he has not noticed, and the djinn is reporting his progress to its own
+  masters.
+personality: Guarded and cautious with trust.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
+- I will not rest until I decipher tara's notation system and gain access to djinn true names.
 visual:
   body_build: slender, precise
   hair: black, oiled, immaculately kept
@@ -63,5 +77,7 @@ current_state:
   location: location:zaffar
 purview: []
 ---
+
+
 
 A smooth-faced, well-dressed astrologer with too much silver jewelry who carries a brass telescope and a case of charts. He is handsome and knows it, and he speaks with the confidence of a man who believes his intelligence makes him untouchable.

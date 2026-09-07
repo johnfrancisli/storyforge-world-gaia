@@ -6,38 +6,46 @@ gm_notes: Cao Shen is not as healthy as he appears. He has been taking chi-enhan
   is genuine, but his timeline is shorter than anyone realizes. He wants to reunify Sangguo before he
   dies, and he is running out of time.
 aliases:
-- 'Warlord Cao Shen'
-race: ''
-gender: ''
-age: mid-fifties
-heritage: ''
-social_station: ''
+- Warlord Cao Shen
+race: Human
+gender: Male
+age: 25
+heritage: Sangguo (Jin)
+social_station: Nobility
 role: Warlord of Jin
-proficient_skills: []
+proficient_skills:
+- Leadership
+- Strategy
+- Combat
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 7
+  hp: 59
+  mana: 62
+  stamina: 59
+  speed: 26
+  defense: 19
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 118
+  silver: 98
+  copper: 64
 appearance: A lean man in dark robes, moving with the economy of a martial artist who has nothing to prove.
   His beard is trimmed short, his hair is bound in a topknot, and he wears a jade seal at his belt. He
   watches more than he speaks.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Cao Shen is not as healthy as he appears. He has been taking chi-enhancing elixirs that are
+  quietly damaging his heart. His court physician knows but has been silenced. Cao Shen's strategic brilliance
+  is genuine, but his timeline is shorter than anyone realizes. He wants to reunify Sangguo before he
+  dies, and he is running out of time.
+personality: Reserved and soft-spoken, steadfast and devoted, driven and relentless in pursuit of goals.
+key_phrases:
+- I do what must be done.
+- The work comes first. Everything else can wait.
 visual:
   body_build: lean, wiry
   hair: black, greying, bound in a topknot
@@ -57,4 +65,6 @@ current_state:
 purview: []
 ---
 
-The warlord of Jin, the strongest state in Sangguo. A man in his fifties who commands rooms by being the quietest person in them. His reputation is built on a career of military victories and strategic masterstrokes. He is patient in public and impatient in private.
+
+
+The warlord of Jin, the strongest state in [[location:sangguo|Sangguo]]. A man in his fifties who commands rooms by being the quietest person in them. His reputation is built on a career of military victories and strategic masterstrokes. He is patient in public and impatient in private.

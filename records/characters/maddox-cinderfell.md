@@ -7,36 +7,47 @@ gm_notes: 'Maddox is a gravedigger who has noticed an unusual pattern: bodies ha
   all transients or refugees with no families to ask questions. He believes someone is using the refugee
   crisis as cover for serial murder. He kept one body buried separately and has not reported it.'
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Male
 age: 51
-heritage: ''
-social_station: ''
+heritage: Valdrian
+social_station: Artisan
 role: Gravedigger
-proficient_skills: []
+proficient_skills:
+- Survival
+- Crafting
+- Perception
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 5
+  hp: 49
+  mana: 55
+  stamina: 55
+  speed: 25
+  defense: 18
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 3
+  silver: 6
+  copper: 30
 appearance: Gaunt and pale, Maddox wears heavy work clothes and gloves. He smells of turned earth and
   lye. He speaks rarely and never makes eye contact.
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'Maddox is a gravedigger who has noticed an unusual pattern: bodies have been arriving at the
+  cemetery with identical marks — a small, precise puncture at the base of the skull, hidden by hair.
+  These are not battlefield deaths or plague victims. He has counted seven such bodies over the past year,
+  all transients or refugees with no families to ask questions. He believes someone is using the refugee
+  crisis as cover for serial murder. He kept one body buried separately and has not reported it.'
+personality: Precise and detail-oriented, guarded and cautious with trust, carries a secret that shapes
+  every decision.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
+- I will not rest until I give the dead justice, even though they cannot thank him.
 visual:
   body_build: tall and gaunt
   hair: lank black, grey-streaked, shoulder-length
@@ -56,5 +67,7 @@ current_state:
   location: location:crownhaven
 purview: []
 ---
+
+
 
 A solitary gravedigger who knows the dead better than the living — and who has noticed that some of them were not supposed to die.

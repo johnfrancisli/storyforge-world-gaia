@@ -10,37 +10,49 @@ gm_notes: 'Hilla hunts the mountain forests above Skaldvik for deer, elk, and oc
   — and Hilla does not believe the giant is a threat. It was avoiding the settlement, staying high, staying
   hidden. She thinks it is alone and possibly wounded.'
 aliases: []
-race: ''
-gender: ''
+race: Frost Giant
+gender: Female
 age: 29
-heritage: ''
-social_station: ''
+heritage: Hrafnish
+social_station: Artisan
 role: Hunter
-proficient_skills: []
+proficient_skills:
+- Diplomacy
+- Politics
+- Leadership
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 10
+  hp: 91
+  mana: 85
+  stamina: 104
+  speed: 26
+  defense: 39
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 22
+    DEX: 10
+    CON: 20
+    INT: 12
+    WIS: 14
+    CHA: 10
 currency:
   gold: 0
-  silver: 0
-  copper: 0
+  silver: 16
+  copper: 21
 appearance: Lean and snow-pale, Hilla wears white-fur camouflage over wool, a bow across her back and
   a belt knife at her hip. She moves silently even on crusty snow, her boots carefully wrapped. Her face
   is wind-burned and watchful, and she speaks rarely and briefly.
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'Hilla hunts the mountain forests above Skaldvik for deer, elk, and occasionally bear. Her
+  secret: she has found tracks in the high passes that are not bear, not elk, not human — tracks that
+  are enormous, three-toed, and pressed deep into frozen ground by something very heavy. She followed
+  them for half a day before the trail entered a ravine that smelled of old ice and something else — something
+  alive. She turned back. She has not told anyone because the obvious explanation is a frost giant, and
+  reporting a frost giant sighting would bring hunters, warriors, and possibly a jarl''s expedition into
+  the mountains — and Hilla does not believe the giant is a threat. It was avoiding the settlement, staying
+  high, staying hidden. She thinks it is alone and possibly wounded.'
+personality: Precise and detail-oriented, reserved and soft-spoken, guarded and cautious with trust.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
 visual:
   body_build: lean and long-limbed, built for stalking and endurance
   hair: pale blonde, worn in a single tight braid
@@ -61,5 +73,8 @@ current_state:
   location: location:hrafnland
 purview: []
 ---
+
+
+
 
 A hunter who reads the mountain snow like a page of text, and who has read something in it recently that she is not sure anyone else should know.

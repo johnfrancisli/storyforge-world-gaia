@@ -10,38 +10,50 @@ gm_notes: Shiori has discovered records in the shogunal archive that reveal the 
   pact terms to see if it can be renewed, but key pages have been torn from the oldest scroll — recently,
   and by someone with archive access.
 aliases:
-- 'Shiori'
-race: ''
-gender: ''
-age: early fifties
-heritage: ''
-social_station: ''
+- Shiori
+race: Human
+gender: Female
+age: 25
+heritage: Tsukuyomi
+social_station: Commoner
 role: Librarian and archivist (shiryo-kan)
-proficient_skills: []
+proficient_skills:
+- Research
+- Lore (History)
+- Calligraphy
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 6
+  hp: 55
+  mana: 62
+  stamina: 55
+  speed: 27
+  defense: 20
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 14
+    WIS: 12
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 3
+  silver: 3
+  copper: 22
 appearance: She wears a practical grey kimono with ink-stained sleeves and a pair of smoked-glass spectacles
   perched on her nose. She moves between scroll shelves on a rolling ladder with practiced ease. She carries
   a brush and notebook everywhere and writes in a shorthand no one else can read.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Shiori has discovered records in the shogunal archive that reveal the shrine network was originally
+  powered by a pact between humans and yokai — not by human shrine magic alone. The pact was broken centuries
+  ago during a puritanical reform, and the network has been running on stored spiritual energy ever since.
+  This means the network's decline isn't a maintenance failure — it's the last embers of a fire that was
+  put out generations ago. She's afraid this information would destabilize the entire shogunate if it
+  became public, undermining the shrine authority's legitimacy. She's been trying to find the original
+  pact terms to see if it can be renewed, but key pages have been torn from the oldest scroll — recently,
+  and by someone with archive access.
+personality: Wary and watchful, defiant and independently minded, guarded and cautious with trust.
+key_phrases:
+- History is not the past. It is the argument about the past.
+- What is written can be unwritten. What is burned cannot.
 visual:
   body_build: thin, angular
   hair: steel grey, in a tight bun secured with two pins
@@ -64,5 +76,8 @@ current_state:
   location: location:tsuki-no-miyako
 purview: []
 ---
+
+
+
 
 An archivist in the shogunate's records hall in the capital. She maintains scrolls, maps, and ledgers that date back centuries. She works alone in a dusty hall that smells of paper and cedar oil, and she knows where everything is — including things that aren't supposed to exist.

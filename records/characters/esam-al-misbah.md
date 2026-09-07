@@ -11,37 +11,50 @@ gm_notes: A male lamp maker whose brass and copper lamps are the finest in Zaffa
   of holding a djinn captive. He knows the binding families are searching for the fugitive djinn, and
   his workshop is not hard to find.
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Male
 age: 51
-heritage: ''
-social_station: ''
+heritage: Al-Khayzari
+social_station: Artisan
 role: Lamp maker, accidental djinn-jailer
-proficient_skills: []
+proficient_skills:
+- Survival
+- Crafting
+- Perception
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 8
+  hp: 48
+  mana: 94
+  stamina: 64
+  speed: 26
+  defense: 17
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 2
+  silver: 6
+  copper: 23
 appearance: Stocky and soot-stained in a leather apron, his hands scarred from metalwork. He works at
   a bench covered in brass sheeting, copper wire, and half-finished lamps. He has been sleeping at his
   bench since the djinn entered the lamp, afraid to leave it unattended.
-biography: ''
-personality: ''
-key_phrases: []
+biography: A male lamp maker whose brass and copper lamps are the finest in Zaffar — and who has accidentally
+  created a lamp that can contain a djinn without a formal contract. He discovered this when a minor djinn,
+  fleeing a binding family enforcer, took refuge in one of his unsold lamps and could not leave. The djinn
+  is now trapped in the lamp on Esam's workbench and has been bargaining for its release for three weeks.
+  It has offered him knowledge of every binding family's contract terms, protection from all djinn for
+  the rest of his life, and the location of a buried treasure in the deep desert. Esam is a simple craftsman
+  who never wanted power over anything except metal and flame, and he is paralyzed by the responsibility
+  of holding a djinn captive. He knows the binding families are searching for the fugitive djinn, and
+  his workshop is not hard to find.
+personality: Guarded and cautious with trust.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
 visual:
   body_build: stocky, thick-armed from metalwork
   hair: greying black, cropped short, singed at the edges
@@ -65,4 +78,6 @@ current_state:
 purview: []
 ---
 
-A lamp maker in the Crafts Quarter whose brass and copper lamps are the finest in Zaffar. He has been sleeping at his workbench for three weeks, guarding a lamp that hums with something alive inside it.
+
+
+A lamp maker in the Crafts Quarter whose brass and copper lamps are the finest in [[location:zaffar|Zaffar]]. He has been sleeping at his workbench for three weeks, guarding a lamp that hums with something alive inside it.

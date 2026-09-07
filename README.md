@@ -34,6 +34,11 @@ costs nothing and reads better. Promote a paragraph to a record when something
 must point at it, be counted, appear in a panel, or be hidden from the player —
 not before.
 
+**Use wiki links to reference canonical records in prose.** When you mention
+an existing record in Markdown, use `[[type:stable-id]]` or
+`[[type:stable-id|display text]]`. The target comes before the optional
+display text. See [`WORLD-KIT.md`](WORLD-KIT.md) for the full convention.
+
 **`world.id` never changes.** The engine keys canon on it, and campaigns record
 which commit of this repository they were started from. Rename Gaia freely; do
 not touch its id, or every campaign playing it is orphaned.

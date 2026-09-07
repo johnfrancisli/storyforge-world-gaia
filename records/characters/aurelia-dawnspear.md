@@ -8,37 +8,48 @@ gm_notes: Aurelia is one of the few female dragon-bonded knights of the Dragon O
   dragon may be building a nest — something not seen in a century. If true, it could mean a new generation
   of dragons, and a shift in power.
 aliases: []
-race: ''
-gender: ''
+race: Dragon-kin (Ryujin)
+gender: Female
 age: 29
-heritage: ''
-social_station: ''
+heritage: Valdrian
+social_station: Military
 role: Dragon-Bonded Knight
-proficient_skills: []
+proficient_skills:
+- Swordsmanship
+- Horsemanship
+- Tactics
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 5
+  hp: 75
+  mana: 29
+  stamina: 71
+  speed: 30
+  defense: 31
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 17
+    DEX: 12
+    CON: 16
+    INT: 12
+    WIS: 12
+    CHA: 12
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 15
+  silver: 21
+  copper: 20
 appearance: Tall and commanding, Aurelia wears Dragon Order plate etched with flame motifs. Her red-gold
   hair is cut short for helmet-fitting, and she moves with an awareness that suggests she is always listening
   for something inaudible.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Aurelia is one of the few female dragon-bonded knights of the Dragon Order. Her dragon, a young
+  female named Emberthyst, has been acting strangely — flying toward the northern mountains as if drawn
+  by something. Aurelia has been concealing this from the Order's leadership, fearing they will ground
+  her or separate them. She believes Emberthyst is responding to a wild dragon's call, and that the wild
+  dragon may be building a nest — something not seen in a century. If true, it could mean a new generation
+  of dragons, and a shift in power.
+personality: Guarded and cautious with trust.
+key_phrases:
+- The oath is the man. Break it and nothing remains.
+- Steel serves the cause; the cause does not serve the steel.
+- I will not rest until I follow emberthyst's call and discover what lies in the northern mountains.
 visual:
   body_build: tall and athletic
   hair: red-gold, cropped short
@@ -59,5 +70,8 @@ current_state:
   location: location:dragonrest
 purview: []
 ---
+
+
+
 
 A fierce dragon-bonded knight whose bond with her young dragon is the most important thing in her life — and who is hiding the fact that her dragon may be leading her to a discovery that changes everything.

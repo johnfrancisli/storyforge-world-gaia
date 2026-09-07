@@ -8,36 +8,47 @@ gm_notes: A scholar at the Great Academy specializing in pre-war political philo
   Kang does not know the warlord has read it. He has been invited to a 'scholarly symposium' at the Jin
   court, which is actually a trap to arrest him. The Academy has suspicions but no proof.
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Male
 age: 38
-heritage: ''
-social_station: ''
+heritage: Sangguo (Jin)
+social_station: Artisan
 role: Political philosopher and reformist scholar
-proficient_skills: []
+proficient_skills:
+- Research
+- Lore (History)
+- Analysis
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 4
+  hp: 41
+  mana: 56
+  stamina: 46
+  speed: 29
+  defense: 17
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 14
+    WIS: 12
+    CHA: 10
 currency:
   gold: 0
-  silver: 0
-  copper: 0
+  silver: 20
+  copper: 16
 appearance: Earnest and slightly rumpled, wearing Academy scholar's robes with ink on the cuffs. Always
   carrying scrolls.
-biography: ''
-personality: ''
-key_phrases: []
+biography: A scholar at the Great Academy specializing in pre-war political philosophy. He has written
+  a treatise arguing that the three-state division is illegitimate and that the unified kingdom should
+  be restored—not by conquest but by a council of scholars. The treatise has circulated secretly among
+  Academy scholars and is gaining support. The Jin warlord has obtained a copy and considers it treasonous.
+  Kang does not know the warlord has read it. He has been invited to a 'scholarly symposium' at the Jin
+  court, which is actually a trap to arrest him. The Academy has suspicions but no proof.
+personality: Guarded and cautious with trust, carries a secret that shapes every decision.
+key_phrases:
+- Knowledge is not power. Knowledge is a lantern in a large, dark room.
+- The truth does not need you to believe in it.
+- I will not rest until I see the reunification council become reality.
 visual:
   body_build: medium and slightly soft from scholarly life
   hair: black, in a scholar's topknot, often loosening
@@ -59,5 +70,7 @@ current_state:
   location: location:jin-an
 purview: []
 ---
+
+
 
 A passionate, idealistic Academy scholar whose writings on reunification have made him a hero among students and a target among warlords.

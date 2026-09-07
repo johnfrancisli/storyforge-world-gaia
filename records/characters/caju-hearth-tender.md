@@ -11,36 +11,50 @@ gm_notes: 'A human cook who runs the communal cooking fire of Iara and feeds the
   noticed, and the council has been discussing the possibility of a thief. Caju is terrified that his
   cache will be found and his shame exposed.'
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Male
 age: 38
-heritage: ''
-social_station: ''
+heritage: Verdanian
+social_station: Commoner
 role: Communal cook and fire-tender
-proficient_skills: []
+proficient_skills:
+- Cooking
+- Herbalism
+- Hospitality
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 6
+  hp: 55
+  mana: 56
+  stamina: 54
+  speed: 27
+  defense: 20
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 2
+  silver: 2
+  copper: 9
 appearance: Round and jolly, with flour on his arms and a perpetual stain of smoke and spice on his wrap.
   Laughs loudly, hugs freely, feeds compulsively.
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'A human cook who runs the communal cooking fire of Iara and feeds the entire community. He
+  is beloved — generous, warm, and always feeding someone. His secret: he is a compulsive hoarder of food,
+  a scar from a famine he experienced as a child that killed two of his siblings. He maintains a hidden
+  cache of preserved food beneath his cooking platform that could feed Iara for a month — far more than
+  any rational preparation requires. The cache includes food he has quietly diverted from communal stores,
+  which is technically theft. He knows the hoarding is irrational and that discovery would be humiliating,
+  but he cannot stop. Recently, the food stores have been coming up short in ways that other people have
+  noticed, and the council has been discussing the possibility of a thief. Caju is terrified that his
+  cache will be found and his shame exposed.'
+personality: Warm and optimistic, reserved and soft-spoken, guarded and cautious with trust.
+key_phrases:
+- Food is love made edible.
+- A good cook feeds the body. A great cook feeds the soul.
+- I will not rest until I feel safe enough that the hoarding compulsion stops.
 visual:
   body_build: round and soft, strong-armed from stirring large pots
   hair: black, thick, tied back with a cloth
@@ -63,4 +77,6 @@ current_state:
 purview: []
 ---
 
-A round, warm human man who tends the communal cooking fire of Iara and feeds everyone who comes hungry, no questions asked.
+
+
+A round, warm human man who tends the communal cooking fire of [[location:iara|Iara]] and feeds everyone who comes hungry, no questions asked.

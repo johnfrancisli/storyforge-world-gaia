@@ -8,38 +8,49 @@ gm_notes: Garrick is a bandit lord who controls a stretch of the Greywood road. 
   crown. He is being secretly courted by Prince Roderick, who wants a deniable asset on the trade road.
   Garrick has not agreed — he does not trust Roderick, but the alternative is the hangman's noose.
 aliases:
-- 'Garrick the Wolf'
-race: ''
-gender: ''
-age: mid-forties
-heritage: ''
-social_station: ''
+- Garrick the Wolf
+race: Dwarf
+gender: Male
+age: 25
+heritage: Valdrian
+social_station: Nobility
 role: Bandit lord, former soldier
-proficient_skills: []
+proficient_skills:
+- Combat
+- Endurance
+- Discipline
+- Lore (Stone)
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 5
+  hp: 80
+  mana: 27
+  stamina: 71
+  speed: 27
+  defense: 29
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 17
+    DEX: 10
+    CON: 17
+    INT: 11
+    WIS: 11
+    CHA: 9
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 74
+  silver: 40
+  copper: 76
 appearance: A big, weathered man in worn leather armor and a wolf-pelt cloak that gives him his name.
   He carries a longsword that is too good for a bandit — army-issue, well-maintained. His face is wind-burned,
   his beard unkempt, and his eyes are tired in a way that has nothing to do with sleep.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Garrick is a bandit lord who controls a stretch of the Greywood road. He is not a common thug
+  — he was a sergeant in the king's army who left after a dispute with a noble officer who ordered a massacre
+  of a dwarf settlement during a border conflict. Garrick killed the officer and fled. He now robs the
+  wealthy and leaves the poor alone, which has made him popular with the villagers and a problem for the
+  crown. He is being secretly courted by Prince Roderick, who wants a deniable asset on the trade road.
+  Garrick has not agreed — he does not trust Roderick, but the alternative is the hangman's noose.
+personality: Bold and uncompromising, dignified and self-assured, tired and carrying a heavy burden.
+key_phrases:
+- I do what must be done.
+- The work comes first. Everything else can wait.
 visual:
   body_build: big, broad, scarred
   height: tall
@@ -61,5 +72,7 @@ current_state:
   location: location:valdris
 purview: []
 ---
+
+
 
 A former army sergeant turned bandit lord, controlling a stretch of the Greywood road. A big, weathered man who robs the wealthy and leaves common folk alone. His men are disciplined — more like a rogue military unit than a gang. The crown wants him dead. The villagers tolerate him.

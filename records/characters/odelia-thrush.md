@@ -7,36 +7,46 @@ gm_notes: Odelia is a minstrel who travels the kingdom performing songs and stor
   years undercover. Her handler has demanded she facilitate the assassination of a key Valdris noble during
   the autumn festival. She is torn between her orders, her cover, and her conscience.
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Female
 age: 30
-heritage: ''
-social_station: ''
+heritage: Valdrian
+social_station: Artisan
 role: Minstrel
-proficient_skills: []
+proficient_skills:
+- Survival
+- Crafting
+- Perception
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 4
+  hp: 40
+  mana: 49
+  stamina: 46
+  speed: 29
+  defense: 20
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 4
+  silver: 10
+  copper: 19
 appearance: Bright and performative, Odelia wears colourful travelling clothes and a lutenist's callus
   on her fingers. Her smile is quick and warm, but does not always reach her eyes.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Odelia is a minstrel who travels the kingdom performing songs and stories. She is also a spy
+  for a foreign power — not a Valdris loyalist at all. She reports on troop movements, political tensions,
+  and the succession crisis. However, she has genuinely come to love Valdris and its people during her
+  years undercover. Her handler has demanded she facilitate the assassination of a key Valdris noble during
+  the autumn festival. She is torn between her orders, her cover, and her conscience.
+personality: Warm and optimistic, dignified and self-assured, wary and watchful.
+key_phrases:
+- I do what must be done.
+- The work comes first. Everything else can wait.
+- I will not rest until I find a way out of me spy contract without being killed by me handler.
 visual:
   body_build: slender and expressive
   hair: honey-blonde, long, worn loose or in a quick braid
@@ -57,5 +67,9 @@ current_state:
   location: location:valdris
 purview: []
 ---
+
+
+
+
 
 A beloved minstrel whose songs capture the hearts of every village — and whose handler's letters capture secrets she no longer wants to share.

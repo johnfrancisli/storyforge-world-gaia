@@ -10,38 +10,51 @@ gm_notes: 'Thyra is a thrall — a bondservant in Jarl Sigrid''s household, capt
   of silver — hidden in the wall of the thralls'' quarters — and she dreams of buying her freedom, though
   the price is more than she can imagine earning.'
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Female
 age: 23
-heritage: ''
-social_station: ''
+heritage: Hrafnish
+social_station: Commoner
 role: Thrall (Bondservant)
-proficient_skills: []
+proficient_skills:
+- Diplomacy
+- Politics
+- Leadership
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 5
+  hp: 48
+  mana: 50
+  stamina: 52
+  speed: 26
+  defense: 23
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
   gold: 0
   silver: 0
-  copper: 0
+  copper: 1
 appearance: 'Dark-haired and sun-darkened compared to the fair people of Skaldvik, Thyra wears the plain
   wool of a thrall — undyed, unadorned — and moves through the household with efficient quiet. She is
   always working: scrubbing, carrying, mending. She speaks Hrafnland well but with an accent she has tried
   and failed to erase.'
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'Thyra is a thrall — a bondservant in Jarl Sigrid''s household, captured in a raid on a southern
+  coast village twelve years ago. She was a child then. Her secret: she remembers her birth name, her
+  birth language, and her birth family — things that thralls are expected to forget. She has been pretending
+  to have no memory of her past because a thrall who remembers is a thrall who might try to go home, and
+  the punishment for escape is severe. She has also been quietly teaching her birth language to her own
+  daughter, born in Skaldvik, so that something of who she was will survive. She has saved a small amount
+  of silver — hidden in the wall of the thralls'' quarters — and she dreams of buying her freedom, though
+  the price is more than she can imagine earning.'
+personality: Reserved and soft-spoken, guarded and cautious with trust, blunt and rough-spoken.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
+- I will not rest until I buy me freedom and me daughter's — or to find a way home with both of them.
 visual:
   body_build: slender and strong from constant labor
   hair: dark brown, long, worn in a single plain braid
@@ -62,5 +75,9 @@ current_state:
   location: location:skaldvik
 purview: []
 ---
+
+
+
+
 
 A thrall who serves the jarl's household with quiet competence, and who carries an entire lost life behind her eyes — a name, a language, a home she is not allowed to want.

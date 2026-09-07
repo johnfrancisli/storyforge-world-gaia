@@ -6,38 +6,46 @@ gm_notes: Takeda is quietly assembling a coalition of rural clans who feel the s
   exist. He is not above engineering a yokai incident to prove the shrine network's weakness. He has been
   in contact with a wild kitsune named Tamamo who is willing to cause trouble for the right price.
 aliases:
-- 'Daimyo Takeda Renji'
-race: ''
-gender: ''
-age: mid-fifties
-heritage: ''
-social_station: ''
+- Daimyo Takeda Renji
+race: Kitsune (Yokai)
+gender: Male
+age: 25
+heritage: Tsukuyomi
+social_station: Nobility
 role: Daimyo (provincial lord)
-proficient_skills: []
+proficient_skills:
+- Leadership
+- Strategy
+- Swordsmanship
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 6
+  hp: 54
+  mana: 58
+  stamina: 58
+  speed: 30
+  defense: 22
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 16
+  silver: 90
+  copper: 19
 appearance: A stern man in dark samurai armor, his helmet carried by a retainer behind him. He wears a
   daisho — katana and wakizashi — at all times, even indoors. His posture is perfect. He smells of iron
   and cedar oil.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Takeda is quietly assembling a coalition of rural clans who feel the shogunate has abandoned
+  them. He does not want to overthrow the shogun — he wants the shogunate to remember that the provinces
+  exist. He is not above engineering a yokai incident to prove the shrine network's weakness. He has been
+  in contact with a wild kitsune named Tamamo who is willing to cause trouble for the right price.
+personality: Reserved and soft-spoken, strict and disciplined, defiant and independently minded.
+key_phrases:
+- I do what must be done.
+- The work comes first. Everything else can wait.
 visual:
   body_build: solid, compact
   height: medium
@@ -58,5 +66,7 @@ current_state:
   location: location:tsuki-no-miyako
 purview: []
 ---
+
+
 
 A daimyo of the Takeda clan, holding the northern mountain province of Tsukuyomi. A disciplined man in his fifties who maintains a well-run territory and a grudge against the capital. He speaks slowly and means every word.

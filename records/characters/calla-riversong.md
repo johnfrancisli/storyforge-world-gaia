@@ -9,36 +9,49 @@ gm_notes: Calla is a halfling innkeeper in a village along the main road between
   husband's final dispatch, which details the true scope of the military disaster at the border. The dispatch
   was never delivered because the courier was killed. Calla has it now.
 aliases: []
-race: ''
-gender: ''
+race: Halfling
+gender: Female
 age: 45
-heritage: ''
-social_station: ''
+heritage: Valdrian
+social_station: Merchant
 role: Innkeeper
-proficient_skills: []
+proficient_skills:
+- Hospitality
+- Cooking
+- Gossip
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 6
+  hp: 57
+  mana: 58
+  stamina: 61
+  speed: 38
+  defense: 20
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 8
+    DEX: 14
+    CON: 12
+    INT: 10
+    WIS: 12
+    CHA: 12
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 40
+  silver: 26
+  copper: 28
 appearance: Cheerful and round, Calla wears a clean apron and keeps her hair in a kerchief. She has a
   ready laugh and a sharp eye for who needs a room and who needs a meal on the house.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Calla is a halfling innkeeper in a village along the main road between Crownhaven and Dragonrest.
+  Her inn is a known stopping point for travelers, merchants, and soldiers. She has been secretly allowing
+  refugees from the border conflicts to stay in her cellar overnight, against the local lord's edict that
+  refugees must register and be confined to camps. One of the refugees she sheltered was a woman with
+  a young child who confided that she is the widow of a Valdris border commander — and she carries her
+  husband's final dispatch, which details the true scope of the military disaster at the border. The dispatch
+  was never delivered because the courier was killed. Calla has it now.
+personality: Warm and optimistic, guarded and cautious with trust, carries a secret that shapes every
+  decision.
+key_phrases:
+- Everyone who walks through my door has a story. Most of them I don't ask for.
+- A warm meal and a dry bed — that's half of any problem solved.
+- I will not rest until I deliver the dead commander's dispatch to someone who can act on it.
 visual:
   body_build: short and round, halfling stature
   hair: greying brown, under a kerchief
@@ -59,5 +72,8 @@ current_state:
   location: location:valdris
 purview: []
 ---
+
+
+
 
 A warm halfling innkeeper who pours ale and stew for the road-weary by day — and shelters the desperate and the secretly important by night.

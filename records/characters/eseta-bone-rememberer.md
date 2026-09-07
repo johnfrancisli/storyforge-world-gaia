@@ -11,37 +11,50 @@ gm_notes: Eseta is a bone carver who arrived as a refugee six months ago. She ca
   is afraid someone will recognize bone for what it is, and she is afraid that if she stops carving, her
   ancestors will be truly gone — ground to dust instead of carried as objects of use and beauty.
 aliases: []
-race: ''
-gender: ''
-age: forty-four
-heritage: ''
-social_station: ''
+race: Human
+gender: Female
+age: 44
+heritage: Archipelagan
+social_station: Commoner
 role: Refugee and bone carver
-proficient_skills: []
+proficient_skills:
+- Crafting (Carving)
+- Artistry
+- Appraisal
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 4
+  hp: 45
+  mana: 48
+  stamina: 46
+  speed: 31
+  defense: 21
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 13
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 11
 currency:
   gold: 0
-  silver: 0
-  copper: 0
+  silver: 2
+  copper: 6
 appearance: A quiet, skilled woman with bone dust on her hands and a heavy chest she keeps locked. She
   works with focus and reverence, as if each piece is a prayer. She does not speak about where she came
   from.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Eseta is a bone carver who arrived as a refugee six months ago. She carves bone ornaments and
+  tools with extraordinary skill and has quickly become valued at Lani Atoll. Her secret is that she does
+  not carve from animal bone. She carves from the bones of her ancestors. On her island, the dead were
+  buried in sand, and when the seas rose, the burial grounds were exposed. Eseta collected her family's
+  bones before the water took them — three generations of ancestors, carried in a chest on the canoe that
+  brought her here. She carves them into ornaments because she believes her ancestors want to be useful,
+  not buried. She has been selling the carvings to islanders who do not know what they are made of. She
+  is afraid someone will recognize bone for what it is, and she is afraid that if she stops carving, her
+  ancestors will be truly gone — ground to dust instead of carried as objects of use and beauty.
+personality: Reserved and soft-spoken, guarded and cautious with trust, blunt and rough-spoken.
+key_phrases:
+- Home is not a place. It is the people who remember your name.
+- I lost everything. I will not lose who I am.
 visual:
   body_build: quiet, steady-handed, watchful
   skin: deep brown
@@ -65,5 +78,7 @@ current_state:
   location: location:lani-atoll
 purview: []
 ---
+
+
 
 A refugee bone carver who carries her ancestors' remains and carves them into ornaments. She sells them to people who do not know what they are holding.

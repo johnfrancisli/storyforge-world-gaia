@@ -9,38 +9,50 @@ gm_notes: Pua is the keeper of the oldest songs — the deep-water songs that ca
   Pua has been careful not to sing it again. She is now considering whether the rising seas require her
   to sing it, despite the risk.
 aliases:
-- 'Elder Wayfinder Pua'
-race: ''
-gender: ''
-age: seventies
-heritage: ''
-social_station: ''
+- Elder Wayfinder Pua
+race: Elf
+gender: Female
+age: 25
+heritage: Archipelagan
+social_station: Commoner
 role: Elder wayfinder, song-keeper
-proficient_skills: []
+proficient_skills:
+- Navigation
+- Wayfinding Songs
+- Astronomy
+- Lore (Forests)
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 4
+  hp: 42
+  mana: 61
+  stamina: 47
+  speed: 41
+  defense: 20
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 9
+    DEX: 17
+    CON: 9
+    INT: 15
+    WIS: 14
+    CHA: 12
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 5
+  silver: 19
+  copper: 25
 appearance: A small, weathered woman in simple island cloth, her arms covered in faded tattoos so old
   they have blurred to blue shadows. She carries a wayfinder's staff that is older than she is, dark with
   salt and handling. She moves slowly but her eyes are sharp.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Pua is the keeper of the oldest songs — the deep-water songs that can call whales, calm storms,
+  and, according to legends she does not share publicly, speak to the sea itself. She has not sung the
+  deepest song in forty years because the last time she did, the sea answered, and the answer frightened
+  her. The sea is not a spirit in the way river spirits are — it is vast, old, and does not think in the
+  way people think. It responded to the song with something that was not words but was not silence, and
+  Pua has been careful not to sing it again. She is now considering whether the rising seas require her
+  to sing it, despite the risk.
+personality: Precise and detail-oriented, composed and even-tempered, guarded and cautious with trust.
+key_phrases:
+- The song is the map. The water is the road.
+- Stars and currents and birds — the ocean speaks in many voices.
 visual:
   body_build: small, wiry, weathered
   skin: deep tan, sun-weathered
@@ -65,5 +77,7 @@ current_state:
   location: location:lani-atoll
 purview: []
 ---
+
+
 
 An elder wayfinder, the oldest in the Archipelago. A woman in her seventies who has sailed every route and sung every song. She taught Kai and most of the active wayfinders. She is small, quiet, and carries more knowledge than anyone realizes — including songs she has never taught because she is afraid of what they do.

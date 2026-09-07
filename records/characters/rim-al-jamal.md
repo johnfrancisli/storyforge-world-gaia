@@ -11,37 +11,50 @@ gm_notes: A female camel herder who tends a herd of forty camels on the desert f
   grazing lands, asking caravan drivers about a white camel with unusual eyes. Rim is running out of ways
   to hide a six-foot-tall white camel that occasionally glows.
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Female
 age: 29
-heritage: ''
-social_station: ''
+heritage: Al-Khayzari
+social_station: Artisan
 role: Camel herder, djinn-harborer
-proficient_skills: []
+proficient_skills:
+- Survival
+- Crafting
+- Perception
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 5
+  hp: 40
+  mana: 78
+  stamina: 54
+  speed: 28
+  defense: 23
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 5
+  silver: 2
+  copper: 9
 appearance: Sun-darkened and strong in desert riding clothes, she moves among her camels with easy authority.
   She carries a herder's staff and a waterskin, and she sleeps in a tent among the herd. She is weathered
   beyond her years.
-biography: ''
-personality: ''
-key_phrases: []
+biography: A female camel herder who tends a herd of forty camels on the desert fringe outside Zaffar.
+  Her herd includes one camel — a massive white female named Sahar — that is not a camel at all but a
+  djinn in animal form, hiding from a binding contract she (the djinn uses female pronouns) broke. Sahar
+  has been in Rim's herd for eight years, and Rim has known the truth for six of them. She discovered
+  it when Sahar spoke to her during a sandstorm, begging her not to reveal the disguise. Rim has protected
+  the djinn-camel out of a simple belief that no creature should be bound against its will. The binding
+  family whose contract Sahar broke has been searching for her, and their agents have been seen near Rim's
+  grazing lands, asking caravan drivers about a white camel with unusual eyes. Rim is running out of ways
+  to hide a six-foot-tall white camel that occasionally glows.
+personality: Guarded and cautious with trust, carries a secret that shapes every decision.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
 visual:
   body_build: sturdy and strong-legged, desert-built
   hair: sandy brown, long, braided under a headscarf
@@ -65,4 +78,7 @@ current_state:
 purview: []
 ---
 
-A desert-hardened camel herder who lives on the fringe of Zaffar with a herd of forty camels. She talks to her animals constantly and is known among caravan drivers for having the best-tempered camels in the region.
+
+
+
+A desert-hardened camel herder who lives on the fringe of [[location:zaffar|Zaffar]] with a herd of forty camels. She talks to her animals constantly and is known among caravan drivers for having the best-tempered camels in the region.

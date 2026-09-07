@@ -12,39 +12,53 @@ gm_notes: 'Sigrid''s father was killed by a frost giant twelve years ago during 
   frost giants out of the deep mountains. She believes they are preparing to expand southward, but she
   has not proved it to the Althing.'
 aliases:
-- 'Jarl Sigrid Hallvarsdottir'
-race: ''
-gender: ''
+- Jarl Sigrid Hallvarsdottir
+race: Frost Giant
+gender: Female
 age: 48
-heritage: ''
-social_station: ''
+heritage: Hrafnish
+social_station: Nobility
 role: Jarl of Skaldvik
-proficient_skills: []
+proficient_skills:
+- Oratory
+- Poetry
+- Lore (History)
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 10
+  hp: 94
+  mana: 81
+  stamina: 106
+  speed: 25
+  defense: 38
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 22
+    DEX: 10
+    CON: 20
+    INT: 12
+    WIS: 14
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 101
+  silver: 55
+  copper: 21
 appearance: Tall and commanding, Sigrid wears a fur-trimmed cloak of deep blue over ringmail when she
-  sits the high seat. Her red-gold hair, now streaked with silver, is braided in the warrior-knot, and a brooch of polished
-  iron — her brother's, reforged — pins her cloak. She speaks deliberately, as though every word is a
-  stone she is placing in a wall.
-biography: ''
-personality: ''
-key_phrases: []
+  sits the high seat. Her red-gold hair, now streaked with silver, is braided in the warrior-knot, and
+  a brooch of polished iron — her brother's, reforged — pins her cloak. She speaks deliberately, as though
+  every word is a stone she is placing in a wall.
+biography: 'Sigrid''s father was killed by a frost giant twelve years ago during a trade dispute. Her
+  older brother Hallvar inherited the fjord, then died on a raid the following year. The thingmenn expected
+  Hallvar''s widower, a weak man named Torsten, to claim the seat, but Sigrid stood at the Althing with
+  her brother''s axe in her hand and named herself jarl before anyone could object. What no one knows:
+  she found Hallvar''s body before anyone else, and he was not killed by foreign blades. Torsten stabbed
+  him in the back during a quarrel over the raid''s plunder. Sigrid has kept Torsten alive and under her
+  thumb ever since, using the threat of revelation to keep him compliant. She has told no one, not even
+  her sister Gerd. At the same time, she is quietly building a coalition of jarls who want to push the
+  frost giants out of the deep mountains. She believes they are preparing to expand southward, but she
+  has not proved it to the Althing.'
+personality: Precise and detail-oriented, reserved and soft-spoken, guarded and cautious with trust.
+key_phrases:
+- A life worth living is a life worth singing.
+- The saga does not care about your feelings. It cares about your deeds.
 visual:
   body_build: tall, broad-shouldered, still strong
   hair: red-gold streaked with silver, worn in a tight warrior-knot
@@ -71,4 +85,7 @@ current_state:
 purview: []
 ---
 
-The jarl of Skaldvik, who rules her fjord from the high seat of the mead hall with a voice that carries over storms and a memory that forgives nothing.
+
+
+
+The jarl of [[location:skaldvik|Skaldvik]], who rules her fjord from the high seat of the mead hall with a voice that carries over storms and a memory that forgives nothing.

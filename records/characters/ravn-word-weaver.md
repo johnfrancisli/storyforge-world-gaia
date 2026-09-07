@@ -8,38 +8,48 @@ gm_notes: Ravn has been composing an epic about the frost giants that is not ent
   is by sitting outside the settlement and refusing to leave until the offending poem is corrected. Ravn
   thinks this is hilarious. Sigrid does not.
 aliases:
-- 'Skald Ravn'
-race: ''
-gender: ''
-age: mid-thirties
-heritage: ''
-social_station: ''
+- Skald Ravn
+race: Frost Giant
+gender: Male
+age: 25
+heritage: Hrafnish
+social_station: Commoner
 role: Skald (poet, storyteller)
-proficient_skills: []
+proficient_skills:
+- Oratory
+- Lore (History)
+- Performance
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 10
+  hp: 95
+  mana: 82
+  stamina: 102
+  speed: 28
+  defense: 33
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 22
+    DEX: 10
+    CON: 20
+    INT: 12
+    WIS: 14
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 5
+  silver: 15
+  copper: 25
 appearance: A thin, animated man in colorful wool — more colorful than is strictly practical in Hrafnland.
   He carries a lyre everywhere and plays it at every opportunity. His hair is long and he has a performer's
   sense of when to pause.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Ravn has been composing an epic about the frost giants that is not entirely flattering to the
+  giants — and not entirely accurate, because Ravn has been embellishing for dramatic effect. The giants,
+  who have oral traditions of their own, have heard about the poem and are offended. A giant emissary
+  has come to Skaldvik not to threaten but to complain — formally, in the way that giants complain, which
+  is by sitting outside the settlement and refusing to leave until the offending poem is corrected. Ravn
+  thinks this is hilarious. Sigrid does not.
+personality: Strict and disciplined.
+key_phrases:
+- A story forgotten is a person erased.
+- The best stories are the ones that change in the telling.
 visual:
   body_build: thin, lanky
   height: tall
@@ -62,4 +72,6 @@ current_state:
 purview: []
 ---
 
-A skald — a poet and storyteller — of Skaldvik. A thin, dramatic man in his thirties who carries a lyre and a reputation. He knows every saga, can improvise verse on any subject, and has opinions about everything. He is the social glue of the mead hall and the biggest mouth in Hrafnland.
+
+
+A skald — a poet and storyteller — of [[location:skaldvik|Skaldvik]]. A thin, dramatic man in his thirties who carries a lyre and a reputation. He knows every saga, can improvise verse on any subject, and has opinions about everything. He is the social glue of the mead hall and the biggest mouth in [[location:hrafnland|Hrafnland]].

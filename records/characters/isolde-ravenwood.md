@@ -7,36 +7,46 @@ gm_notes: Isolde is a healer who once served the royal family directly. She was 
   town, but she has been quietly cultivating connections with current servants to investigate. She recently
   obtained a sample of a rare toxin from an apothecary that matches the symptoms she witnessed.
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Female
 age: 44
-heritage: ''
-social_station: ''
+heritage: Valdrian
+social_station: Artisan
 role: Healer
-proficient_skills: []
+proficient_skills:
+- Medicine
+- Herbalism
+- First Aid
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 7
+  hp: 58
+  mana: 71
+  stamina: 63
+  speed: 30
+  defense: 21
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 11
+    WIS: 14
+    CHA: 11
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 2
+  silver: 7
+  copper: 16
 appearance: Dignified and composed, Isolde wears clean but plain grey robes. Her hands are steady and
   her manner is clinical, though warmth surfaces when she treats children.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Isolde is a healer who once served the royal family directly. She was dismissed after she failed
+  to save the queen from a mysterious illness — but she believes the queen was poisoned, and that the
+  poisoner is still in the court. She has since set up a modest healing practice in Crownhaven's lower
+  town, but she has been quietly cultivating connections with current servants to investigate. She recently
+  obtained a sample of a rare toxin from an apothecary that matches the symptoms she witnessed.
+personality: Reserved and soft-spoken, dignified and self-assured, generous and welcoming.
+key_phrases:
+- A healer's first task is to listen.
+- Pain speaks louder than words, but silence tells the deeper truth.
+- I will not rest until I identify and expose the person who poisoned the queen.
 visual:
   body_build: tall and straight-backed
   hair: dark brown, shot through with silver, worn in a bun
@@ -57,5 +67,7 @@ current_state:
   location: location:crownhaven
 purview: []
 ---
+
+
 
 A gifted healer exiled from the royal court, who tends the poor in the lower town while quietly hunting a poisoner she failed to catch years ago.

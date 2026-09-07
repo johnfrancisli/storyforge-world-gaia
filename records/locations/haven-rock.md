@@ -10,4 +10,4 @@ visual:
   prompt: ''
 ---
 
-The largest skerry, flat enough for a dozen tents and a signal fire. Hrafnland raiders use it as a waystation. There is a shallow cave with a hearth and marks on the wall counting the ships that have passed.
+The largest skerry, flat enough for a dozen tents and a signal fire. [[location:hrafnland|Hrafnland]] raiders use it as a waystation. There is a shallow cave with a hearth and marks on the wall counting the ships that have passed.

@@ -9,36 +9,48 @@ gm_notes: A paper maker from a family of paper makers who has developed a method
   told its purpose. She has recently seen one of the proclamations and recognized her paper, and the calligraphy's
   unsettling emotional effect has made her suspect something is wrong.
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Female
 age: 30
-heritage: ''
-social_station: ''
+heritage: Sangguo (Jin)
+social_station: Artisan
 role: Paper maker and unknowing supplier of chi-propaganda technology
-proficient_skills: []
+proficient_skills:
+- Survival
+- Crafting
+- Perception
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 5
+  hp: 50
+  mana: 53
+  stamina: 54
+  speed: 27
+  defense: 17
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 1
+  silver: 19
+  copper: 27
 appearance: Patient and earthy, wearing paper-maker's work clothes stained with pulp. Hands always slightly
   damp from pulp.
-biography: ''
-personality: ''
-key_phrases: []
+biography: A paper maker from a family of paper makers who has developed a method to infuse paper with
+  chi, creating 'spirit paper' that can hold written spells and activate them when read. This is the technology
+  behind the Jin warlord's chi-propaganda proclamations—Wei Fengge's chi-infused calligraphy is written
+  on Xu's spirit paper, which is why the emotional manipulation works. Xu does not know her paper is being
+  used for propaganda; she was commissioned by the Jin court to make 'fine ceremonial paper' and was not
+  told its purpose. She has recently seen one of the proclamations and recognized her paper, and the calligraphy's
+  unsettling emotional effect has made her suspect something is wrong.
+personality: Composed and even-tempered, guarded and cautious with trust.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
+- I will not rest until I discover what the jin court is doing with me paper.
 visual:
   body_build: compact and strong-armed from pulp-mashing
   hair: dark, wrapped in a cloth headband
@@ -60,5 +72,9 @@ current_state:
   location: location:jin-an
 purview: []
 ---
+
+
+
+
 
 A skilled paper maker from a long line of paper makers whose fine ceremonial paper is prized by the Jin court for important documents.

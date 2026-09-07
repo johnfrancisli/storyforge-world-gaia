@@ -9,38 +9,49 @@ gm_notes: Machi trades in rare materials — shrine-grade lumber, forge iron, an
   contain three years of transactions that would implicate her in treason if they fell into the shogunate's
   hands.
 aliases:
-- 'Machi'
-race: ''
-gender: ''
-age: late forties
-heritage: ''
-social_station: ''
+- Machi
+race: Human
+gender: Female
+age: 25
+heritage: Tsukuyomi
+social_station: Merchant
 role: Merchant (akindo)
-proficient_skills: []
+proficient_skills:
+- Appraisal
+- Negotiation
+- Accounting
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 6
+  hp: 52
+  mana: 62
+  stamina: 56
+  speed: 27
+  defense: 18
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 11
+    WIS: 11
+    CHA: 14
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 44
+  silver: 49
+  copper: 26
 appearance: She wears a well-tailored kimono in muted greens and carries an abacus and a lacquered ledger
   box. She conducts business over tea in her warehouse office, surrounded by crates. She smiles when she's
   about to raise the price and goes silent when she's calculating.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Machi trades in rare materials — shrine-grade lumber, forge iron, and silk — and has been secretly
+  supplying Takeda's (character:takeda-renji) coalition with materials suitable for fortification. She
+  doesn't care about the politics; she cares about profit margins. But she's begun to realize that Takeda's
+  plans, if enacted, would destabilize the entire region and sever her trade routes to the southern provinces.
+  She's quietly looking for a way to cut her ties to Takeda without making him an enemy, but her ledgers
+  contain three years of transactions that would implicate her in treason if they fell into the shogunate's
+  hands.
+personality: Reserved and soft-spoken, shrewd and calculating, guarded and cautious with trust.
+key_phrases:
+- A fair deal leaves both sides slightly unhappy. That is how you know it was fair.
+- Trust is the only currency that compounds.
 visual:
   body_build: compact, erect
   hair: black, streaked silver, in a professional bun
@@ -60,5 +71,8 @@ current_state:
   location: location:tsuki-no-miyako
 purview: []
 ---
+
+
+
 
 A sharp-eyed merchant in the capital who deals in specialty goods — lumber, metals, textiles — and always seems to know where to find what no one else can. She keeps meticulous ledgers and never negotiates without a fan in front of her face.

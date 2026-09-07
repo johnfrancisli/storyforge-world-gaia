@@ -21,8 +21,8 @@
 
 ## Scale
 
-A week's travel is a meaningful journey within a nation. Crossing from one nation to another by conventional means is a month or more, depending on the route. The Old Roads, when they work, collapse that to hours -- but finding a working stretch is rare, and using one always draws attention.
+A week's travel is a meaningful journey within a nation. Crossing from one nation to another by conventional means is a month or more, depending on the route. [[lore:old-roads|The Old Roads]], when they work, collapse that to hours -- but finding a working stretch is rare, and using one always draws attention.
 
-The largest city in Gaia is Sangguo's capital, Jin'an, with roughly two hundred thousand people. Valdris's capital, Crownhaven, is near a hundred thousand. Most settlements the player will visit are towns of a few thousand or villages of a few hundred.
+The largest city in Gaia is [[location:sangguo|Sangguo]]'s capital, [[location:jin-an|Jin'an]], with roughly two hundred thousand people. Valdris's capital, [[location:crownhaven|Crownhaven]], is near a hundred thousand. Most settlements the player will visit are towns of a few thousand or villages of a few hundred.
 
 An army is thousands. A village militia is dozens. A band of adventurers is three to seven. The player is one person, and the world does not scale to them.

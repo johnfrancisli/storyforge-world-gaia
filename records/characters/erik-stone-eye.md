@@ -8,38 +8,48 @@ gm_notes: Erik is Sigrid's rival on the Althing council — a young jarl from th
   next Althing, and he has enough support to force a stalemate. He does not know about the abandoned village
   — if he did, it would change his position.
 aliases:
-- 'Jarl Erik Stone-eye'
-race: ''
-gender: ''
-age: early thirties
-heritage: ''
-social_station: ''
+- Jarl Erik Stone-eye
+race: Human
+gender: Male
+age: 25
+heritage: Hrafnish
+social_station: Nobility
 role: Jarl of the southern fjords
-proficient_skills: []
+proficient_skills:
+- Leadership
+- Seamanship
+- Politics
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 5
+  hp: 48
+  mana: 52
+  stamina: 53
+  speed: 27
+  defense: 20
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 147
+  silver: 79
+  copper: 68
 appearance: A young, handsome man in fine fur and iron, a throwing axe at his belt. He has a jarl's bearing
   and a younger man's certainty. His left eye is pale and unseeing — the stone-eye that gives him his
   name — and he wears an eyepatch of polished slate.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Erik is Sigrid's rival on the Althing council — a young jarl from the southern fjords who opposes
+  her coalition against the giants. He does not believe the giants are a threat and thinks Sigrid is using
+  them as an excuse to consolidate power. He is not wrong to be suspicious of Sigrid's motives, but he
+  is wrong about the giants. Erik has been quietly gathering support to block Sigrid's coalition at the
+  next Althing, and he has enough support to force a stalemate. He does not know about the abandoned village
+  — if he did, it would change his position.
+personality: Reserved and soft-spoken.
+key_phrases:
+- I do what must be done.
+- The work comes first. Everything else can wait.
 visual:
   body_build: lean, fit, athletic
   height: tall
@@ -63,4 +73,6 @@ current_state:
 purview: []
 ---
 
-A young jarl from Hrafnland's southern fjords, in his early thirties. Handsome, opinionated, and suspicious of Sigrid's coalition. He opposes action against the frost giants and believes Sigrid is using the threat to consolidate power. He is a political rival, not an enemy — but rivals can become enemies fast in Hrafnland.
+
+
+A young jarl from [[location:hrafnland|Hrafnland]]'s southern fjords, in his early thirties. Handsome, opinionated, and suspicious of Sigrid's coalition. He opposes action against the frost giants and believes Sigrid is using the threat to consolidate power. He is a political rival, not an enemy — but rivals can become enemies fast in [[location:hrafnland|Hrafnland]].

@@ -63,6 +63,7 @@ You are not fighting these — they are what makes the rest trustworthy. See
 - [Stage 7 — Check, and what "done" means](#stage-7--check-and-what-done-means)
 
 **Part III — Reference**
+- [Wiki-link entity references](#wiki-link-entity-references)
 - [Running the checker](#running-the-checker)
 - [Keeping this folder in sync](#keeping-this-folder-in-sync)
 
@@ -180,6 +181,73 @@ See [Stage 5 — Art](#stage-5--art) before writing either.
 - **Ids are permanent.** `location:harbour-steps`, `character:mira-vale`.
   Lowercase, hyphenated, prefixed by type. Nothing may point at an id that does
   not exist, and renaming one later breaks every reference.
+- **Wiki-link entity references in prose.** When you mention an existing
+  canonical record inside Markdown prose, use a wiki-style link so the engine
+  can resolve it, build backlinks, and load connected context. The syntax is:
+
+  ```
+  [[type:stable-id]]              short form — displays the record's canonical name
+  [[type:stable-id|display text]]  piped form — displays your contextual text
+  ```
+
+  The reference target **must** come before the optional display text.
+
+  Examples:
+
+  ```markdown
+  [[character:aerindra]] resolves to "Aerindra Glintleaf"
+  [[character:aerindra|the pale-haired fletcher]] displays the contextual text
+  [[location:harus-shrine|Haru's shrine]]
+  [[org:briar-wardens|the Wardens of the Briar]]
+  [[thread:broken-road|the broken Old Roads]]
+  ```
+
+  **Do not** use these forms:
+
+  ```markdown
+  [character:aerindra|Aerindra]            single brackets — not a wiki link
+  [[Aerindra|character:aerindra]]           reversed — target must come first
+  [Aerindra](character:aerindra)            Markdown link — not resolvable
+  ```
+
+  Rules:
+
+  1. Double square brackets `[[...]]` are reserved for resolvable entity
+     references. Do not use them for anything else in Markdown.
+  2. The target uses the entity's stable typed ID (`character:aerindra`), not
+     its visible name.
+  3. The target always comes before the display text.
+  4. Names can change; stable IDs must not. Never change an ID because a
+     record was renamed.
+  5. `[[type:id]]` displays the record's current canonical name.
+  6. `[[type:id|text]]` preserves the supplied display text.
+  7. Plain mentions remain ordinary prose — only wrap a mention in `[[...]]`
+     when it should be a resolvable reference.
+  8. A wiki link creates a mention/reference edge, **not** a structured
+     relationship. Use relationship records for actual bonds.
+  9. Structured JSON/YAML fields that expect raw IDs (`participants`,
+     `locations`, `affiliations`) must continue using raw IDs — never put
+     wiki-link markup inside them.
+  10. Wiki links belong only in Markdown or prose fields unless the schema
+      explicitly says otherwise.
+  11. Do not create links for generic or incidental nouns. "The innkeeper"
+      is plain text unless a `character:` record exists for that person.
+  12. Do not expose raw wiki-link markup in player-facing narration; render
+      it as its display text or canonical name.
+  13. Preserve wiki links when editing internal lore unless the referenced
+      record is intentionally removed.
+  14. Report unresolved references rather than silently converting them to
+      plain text.
+
+  Valid entity type prefixes: `character`, `location`, `organization`, `org`
+  (abbreviation used in existing records), `thread`, `item`, `relationship`,
+  `lore`.
+
+  Future syntax (not yet implemented): section anchors like
+  `[[location:crossford#market|Crossford market]]`. The portion before `#`
+  is the stable record ID; the portion after is a sub-anchor. Do not rely on
+  this until it is officially supported.
+
 - **`gm_notes` is private.** It never reaches the narrator or any NPC. What a
   character is hiding goes there, never in `summary`.
 - **Leave `_help`, `_layer` and `_status` keys alone.** They are guidance and
@@ -1079,6 +1147,128 @@ quietly guessed and got wrong.
 ---
 
 # Part III — Reference
+
+---
+
+# Wiki-link entity references
+
+## Canonical syntax
+
+```
+[[type:stable-id]]              short form — resolves to the record's canonical name
+[[type:stable-id|display text]]  piped form — displays your contextual text
+```
+
+The target (a stable typed ID like `character:aerindra`) always comes before
+the optional display text. This follows the convention used by MediaWiki,
+Obsidian, and DokuWiki.
+
+### Valid entity types
+
+| Type prefix | Example |
+|---|---|
+| `character` | `[[character:aerindra]]` |
+| `location` | `[[location:harus-shrine]]` |
+| `organization` | `[[organization:dragon-order]]` |
+| `org` | `[[org:briar-wardens]]` (abbreviation used in existing records) |
+| `thread` | `[[thread:broken-road]]` |
+| `item` | `[[item:raikiri]]` |
+| `relationship` | `[[relationship:two-blacksmiths-of-valdris]]` |
+| `lore` | `[[lore:reincarnation-in-gaia]]` |
+
+### What not to do
+
+```markdown
+[character:aerindra|Aerindra]            single brackets — not a wiki link
+[[Aerindra|character:aerindra]]           reversed — target must come first
+[Aerindra](character:aerindra)            Markdown link — not resolvable
+```
+
+Do not put wiki-link markup inside structured JSON/YAML fields that expect
+raw IDs:
+
+```json
+// Wrong:
+{ "participants": ["[[character:aerindra|Aerindra]]"] }
+
+// Correct:
+{ "participants": ["character:aerindra"] }
+```
+
+### AI authoring instruction
+
+When referring to an existing canonical record in authoring Markdown, use
+`[[type:stable-id]]` or `[[type:stable-id|contextual display text]]`. The
+stable reference must appear before the optional display text. Resolve
+existing records before creating links; never invent an ID for a record that
+has not been created. Use plain text for incidental people and things that
+are not canonical records. Wiki links represent references, not relationships.
+
+- Reuse an existing record ID whenever the entity already exists.
+- Never resolve entities by visible name alone when a stable ID is available.
+- Never change a stable ID merely because a record was renamed.
+- Do not create links for generic or incidental nouns.
+- Do not expose raw wiki-link markup in final player-facing narration; render
+  it as its display text or canonical name.
+- Preserve wiki links when editing internal lore unless the referenced record
+  is intentionally removed.
+- Report unresolved references rather than silently converting them to plain
+  text.
+
+### Retrieval and connection semantics
+
+Storyforge may index each wiki link as:
+
+```
+source document or record → referenced entity
+```
+
+This supports backlinks, validation, graph navigation, and selective context
+loading.
+
+The context loader should:
+
+1. Resolve directly referenced entities.
+2. Load the active entity's relevant relationship records.
+3. Include compact summaries of one-hop connected entities.
+4. Load full connected records only when required by the current scene.
+5. Avoid recursively loading the entire connection graph.
+6. Respect the prompt's token budget and visibility rules.
+
+### Future syntax (not yet implemented)
+
+Section anchors:
+
+```
+[[location:crossford#market|Crossford market]]
+```
+
+The portion before `#` is the stable record ID; the portion after is a section
+or sub-anchor. Do not rely on this syntax until it is officially supported.
+
+### Validation
+
+The checker (`validate_wiki_links.py`) can detect:
+
+- Unknown entity types (a prefix not in the valid set)
+- Malformed wiki links (missing brackets, empty targets)
+- References to nonexistent IDs
+- Reversed links that appear to use `[[display name|type:id]]`
+- Wiki-link markup inside structured fields that require raw IDs
+
+Unresolved references produce a warning or error containing:
+
+- Source file or record
+- Referenced target
+- Suggested correction, when determinable
+
+Wiki-link-like text inside fenced code blocks and inline code is ignored by
+the validator.
+
+When using `|` inside Markdown tables, ensure wiki links are recognized as
+complete inline tokens before interpreting table separators. If the current
+Markdown parser cannot support this safely, escape the pipe as `\|` inside
+the link.
 
 ---
 

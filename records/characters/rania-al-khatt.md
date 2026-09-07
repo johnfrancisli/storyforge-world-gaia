@@ -11,37 +11,51 @@ gm_notes: A calligrapher who can write binding contracts that are more binding t
   a loophole, a forgotten promise. She has altered eleven contracts and no one has noticed yet. She is
   waiting for a djinn to notice.
 aliases: []
-race: ''
-gender: ''
+race: Elf
+gender: Female
 age: 36
-heritage: ''
-social_station: ''
+heritage: Al-Khayzari
+social_station: Artisan
 role: Master calligrapher, contract scribe
-proficient_skills: []
+proficient_skills:
+- Calligraphy
+- Lore (History)
+- Research
+- Lore (Forests)
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 5
+  hp: 43
+  mana: 60
+  stamina: 49
+  speed: 44
+  defense: 18
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 9
+    DEX: 17
+    CON: 9
+    INT: 14
+    WIS: 12
+    CHA: 13
 currency:
   gold: 0
-  silver: 0
-  copper: 0
+  silver: 19
+  copper: 10
 appearance: Refined and still in flowing dark robes, her hands stained with ink to the wrist. She writes
   with a reed pen in a hand so steady it is said she can draw a line the width of a hair. She speaks softly
   and never repeats herself.
-biography: ''
-personality: ''
-key_phrases: []
+biography: A calligrapher who can write binding contracts that are more binding than any other scribe's
+  — her brushwork has a quality that makes the supernatural terms stick harder, as if her ink carries
+  weight the djinn can feel. She does not know why; she was simply born with steady hands and an instinct
+  for the formal language. The binding families pay her fortunes to write their contracts, but she has
+  begun to notice that the contracts she writes feel wrong — she can sense the terms are weighted against
+  the humans, and the djinn always get slightly more than agreed. She has started subtly altering the
+  contracts she writes, inserting clauses that give the human signers small advantages — a few extra years,
+  a loophole, a forgotten promise. She has altered eleven contracts and no one has noticed yet. She is
+  waiting for a djinn to notice.
+personality: Guarded and cautious with trust.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
 visual:
   body_build: slender, long-fingered
   hair: black, long, pinned with a silver pen-clip
@@ -65,4 +79,6 @@ current_state:
 purview: []
 ---
 
-A celebrated calligrapher whose binding contracts are sought after by every binding family in Zaffar. She works in a quiet studio filled with ink stones, reed pens, and drying scrolls, and she is never rushed.
+
+
+A celebrated calligrapher whose binding contracts are sought after by every binding family in [[location:zaffar|Zaffar]]. She works in a quiet studio filled with ink stones, reed pens, and drying scrolls, and she is never rushed.

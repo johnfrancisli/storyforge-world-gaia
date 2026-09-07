@@ -7,36 +7,46 @@ gm_notes: The Guide is not a god. They are a remnant of whatever built the Old R
   They are genuinely kind but not warm — they do their work and do not explain why. They cannot leave
   the Heavenly Realm.
 aliases: []
-race: ''
-gender: ''
-age: indeterminate — old but not frail
-heritage: ''
-social_station: ''
+race: Spirit
+gender: Uncertain
+age: 45
+heritage: Heavenly Realm
+social_station: Commoner
 role: Guide of the Heavenly Realm
-proficient_skills: []
+proficient_skills:
+- Survival
+- Navigation
+- Lore (Local Terrain)
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 7
+  hp: 55
+  mana: 66
+  stamina: 63
+  speed: 31
+  defense: 20
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 13
+    CON: 10
+    INT: 11
+    WIS: 12
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 5
+  silver: 6
+  copper: 11
 appearance: Ageless and calm, dressed in simple undyed robes that could belong to any of the seven nations.
   They move slowly, as if time is not a concern. Their eyes are dark and patient. They carry nothing.
-biography: ''
-personality: ''
-key_phrases: []
+biography: The Guide is not a god. They are a remnant of whatever built the Old Roads — a part of the
+  world left behind when the rest took shape. They have been in the Heavenly Realm longer than anyone
+  alive in Gaia. They do not know the future. They know the nations in general terms but not current events.
+  They are genuinely kind but not warm — they do their work and do not explain why. They cannot leave
+  the Heavenly Realm.
+personality: Composed and even-tempered, compassionate and tender-hearted, generous and welcoming.
+key_phrases:
+- The path exists whether or not you can see it.
+- Knowing where you are is not the same as knowing where you're going.
+- I will not rest until I help arriving souls choose a nation to begin in, and to do this work well.
 visual:
   hair: grey, long, loosely tied
   eyes: dark, patient
@@ -53,5 +63,7 @@ current_state:
   location: location:heavenly-realm
 purview: []
 ---
+
+
 
 A figure who tends the Heavenly Realm. They appear old, or seem old — grey-haired, calm, dressed in simple robes that could belong to any nation. They have been here longer than anyone currently alive in Gaia.

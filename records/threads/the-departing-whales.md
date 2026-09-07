@@ -28,4 +28,4 @@ visual:
   prompt: ''
 ---
 
-Fin the Whale-speaker has learned that the great whales are leaving the Tide Archipelago — not migrating, but departing permanently. They are swimming south, past Verdania, toward the open ocean. The images they send him — deep water, a door, something waking — match the warnings from Shaman Nara, Monk Jian Yi, and Volva Helga. Without the whales, voyaging in the Archipelago becomes vastly more dangerous.
+Fin the Whale-speaker has learned that the great whales are leaving the Tide Archipelago — not migrating, but departing permanently. They are swimming south, past [[location:verdania|Verdania]], toward the open ocean. The images they send him — deep water, a door, something waking — match the warnings from Shaman Nara, Monk [[character:jian-yi|Jian Yi]], and Volva Helga. Without the whales, voyaging in the Archipelago becomes vastly more dangerous.

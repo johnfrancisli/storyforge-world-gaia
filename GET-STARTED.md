@@ -56,6 +56,17 @@ Copy everything in this block.
 >   you chose without being told, and what you left empty on purpose. The
 >   second one is how I find the thing you quietly guessed wrong.
 >
+> - **Wiki-link entity references.** When you mention an existing canonical
+>   record inside Markdown prose, use `[[type:stable-id]]` or
+>   `[[type:stable-id|contextual display text]]`. The stable reference must
+>   appear before the optional display text. Resolve existing records before
+>   creating links; never invent an ID for a record that has not been created.
+>   Use plain text for incidental people and things that are not canonical
+>   records. Wiki links represent references, not relationships. Structured
+>   JSON/YAML fields that expect raw IDs (`participants`, `locations`,
+>   `affiliations`) must continue using raw IDs — never put wiki-link markup
+>   inside them. See `WORLD-KIT.md` for the full convention.
+>
 > Begin with Stage 0.
 
 ---

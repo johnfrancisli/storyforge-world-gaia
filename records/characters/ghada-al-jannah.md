@@ -10,37 +10,49 @@ gm_notes: Head gardener of the Hanging Gardens of Zaffar, an oasis garden built 
   hidden a handful of these seeds, suspecting they are connected to the djinn's power and could be used
   to renegotiate or break the water contract.
 aliases: []
-race: ''
-gender: ''
+race: Elf
+gender: Female
 age: 40
-heritage: ''
-social_station: ''
+heritage: Al-Khayzari
+social_station: Artisan
 role: Head gardener of the Hanging Gardens
-proficient_skills: []
+proficient_skills:
+- Botany
+- Farming
+- Lore (Plants)
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 4
+  hp: 48
+  mana: 54
+  stamina: 58
+  speed: 33
+  defense: 26
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 13
+    DEX: 12
+    CON: 13
+    INT: 12
+    WIS: 11
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 4
+  silver: 19
+  copper: 7
 appearance: Earth-stained and sun-warm in a gardener's apron over loose green cotton. She carries pruning
   shears and a watering can, and her hands are perpetually dirt-streaked. She smells of wet earth and
   pomegranate.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Head gardener of the Hanging Gardens of Zaffar, an oasis garden built on terraced stone that
+  is the pride of the high city. Ghada discovered that the gardens' oldest tree — a pomegranate planted
+  when the Pact was signed — is dying, and its death coincides with the weakening of a binding contract
+  that ties the garden's water supply to a djinn named Azura. She has been secretly diverting water from
+  the binding families' private cisterns at night to keep the tree alive, a theft that could see her imprisoned.
+  The tree itself bears fruit with seeds that glow faintly blue at night, and Ghada has collected and
+  hidden a handful of these seeds, suspecting they are connected to the djinn's power and could be used
+  to renegotiate or break the water contract.
+personality: Strict and disciplined, guarded and cautious with trust, generous and welcoming.
+key_phrases:
+- A garden is a conversation with patience.
+- Every plant has a lesson, if you are willing to learn it slowly.
 visual:
   body_build: medium, strong-armed from terraced work
   hair: dark brown, braided and wrapped in a cloth
@@ -63,4 +75,6 @@ current_state:
 purview: []
 ---
 
-A gentle, patient woman who tends the Hanging Gardens of Zaffar with an expertise passed down through four generations of gardeners in her family. She speaks to plants as if they answer and can name every species in the gardens by scent alone.
+
+
+A gentle, patient woman who tends the Hanging Gardens of [[location:zaffar|Zaffar]] with an expertise passed down through four generations of gardeners in her family. She speaks to plants as if they answer and can name every species in the gardens by scent alone.

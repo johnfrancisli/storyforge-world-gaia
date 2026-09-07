@@ -13,36 +13,52 @@ gm_notes: Maile is the head of the informal guard on Lani Atoll — not a milita
   had a figure on its prow that she recognized — it was carved in the style of Anahera, the wood carver,
   but Anahera did not carve it.
 aliases: []
-race: ''
-gender: ''
-age: thirty-eight
-heritage: ''
-social_station: ''
+race: Human
+gender: Female
+age: 38
+heritage: Archipelagan
+social_station: Military
 role: Guard
-proficient_skills: []
+proficient_skills:
+- Awareness
+- Combat
+- Intimidation
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 5
+  hp: 68
+  mana: 27
+  stamina: 57
+  speed: 28
+  defense: 25
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 13
+    DEX: 11
+    CON: 12
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 6
+  silver: 30
+  copper: 6
 appearance: A strong, steady woman with a watch-guard's bearing and a torch always at hand. She wears
   practical cloth and carries a staff, not a weapon. She is calm under pressure and slow to alarm.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Maile is the head of the informal guard on Lani Atoll — not a military force, but the women
+  and men who watch the beaches at night for drift debris, lost canoes, and refugees arriving in distress.
+  She is steady, reliable, and trusted by Chief Lani. Her secret is that she has been turning away canoes.
+  Not refugee canoes — different ones. Three times in the past two months, she has seen canoes arrive
+  at night from the south, carrying people who are not Archipelago Islanders. They do not speak any language
+  she knows, and their canoes are of a design she has never seen. They ask for something — she does not
+  know what — and when she signals them to wait for the chief, they leave. She has not reported them because
+  she does not know if they are a threat or people in need, and she is afraid that if she reports them,
+  the response will be violence rather than welcome. She is also afraid because the last canoe that came
+  had a figure on its prow that she recognized — it was carved in the style of Anahera, the wood carver,
+  but Anahera did not carve it.
+personality: Composed and even-tempered, guarded and cautious with trust, carries a secret that shapes
+  every decision.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
 visual:
   body_build: strong, steady, broad-shouldered
   skin: deep brown, sun-darkened
@@ -67,4 +83,6 @@ current_state:
 purview: []
 ---
 
-The head of Lani Atoll's beach guard, who has been secretly turning away mysterious visitors from the south. She does not know if they are refugees, traders, or something else.
+
+
+The head of [[location:lani-atoll|Lani Atoll]]'s beach guard, who has been secretly turning away mysterious visitors from the south. She does not know if they are refugees, traders, or something else.

@@ -7,36 +7,46 @@ gm_notes: Roslyn is a fortune teller who genuinely has prophetic dreams — but 
   an alliance or betrayal during the autumn festival. She fears her visions are being watched by someone
   who wants to use them, and she has noticed a hooded figure following her through the market.
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Female
 age: 27
-heritage: ''
-social_station: ''
+heritage: Valdrian
+social_station: Artisan
 role: Fortune Teller
-proficient_skills: []
+proficient_skills:
+- Survival
+- Crafting
+- Perception
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 5
+  hp: 48
+  mana: 50
+  stamina: 51
+  speed: 25
+  defense: 17
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 4
+  silver: 14
+  copper: 13
 appearance: Dark-haired and intense-eyed, Roslyn wears layered shawls and skirts in deep jewel tones.
   She carries a pouch of rune stones and a deck of hand-painted cards.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Roslyn is a fortune teller who genuinely has prophetic dreams — but they are fragmentary and
+  symbolic, never clear. She dreamed of a crown falling into a dragon's mouth three nights before the
+  king died. She has since dreamed of 'two shadows merging at the harvest moon,' which she believes foretells
+  an alliance or betrayal during the autumn festival. She fears her visions are being watched by someone
+  who wants to use them, and she has noticed a hooded figure following her through the market.
+personality: Shrewd and calculating, blunt and rough-spoken.
+key_phrases:
+- I do what must be done.
+- The work comes first. Everything else can wait.
+- I will not rest until I understand me visions before they overwhelm me.
 visual:
   body_build: slender and willowy
   hair: raven black, long, loose
@@ -57,5 +67,9 @@ current_state:
   location: location:crownhaven
 purview: []
 ---
+
+
+
+
 
 A young fortune teller whose cryptic visions have started coming true, making her both sought after and deeply afraid.

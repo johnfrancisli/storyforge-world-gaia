@@ -10,4 +10,4 @@ visual:
   prompt: ''
 ---
 
-An ad-hoc council of islanders displaced by the rising seas, formed at Lani Atoll as more families arrive. They are not part of the formal governance structure and have no official voice, but they are growing in numbers and frustration. They want representation, resources, and answers.
+An ad-hoc council of islanders displaced by the rising seas, formed at [[location:lani-atoll|Lani Atoll]] as more families arrive. They are not part of the formal governance structure and have no official voice, but they are growing in numbers and frustration. They want representation, resources, and answers.

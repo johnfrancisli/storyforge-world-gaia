@@ -9,36 +9,48 @@ gm_notes: A cook in the Great Academy's kitchens who has been feeding the Academ
   friend and she believes he is trying to protect the Academy. She has begun leaving anonymous notes in
   the headmaster's meals suggesting resistance strategies.
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Female
 age: 63
-heritage: ''
-social_station: ''
+heritage: Sangguo (Jin)
+social_station: Commoner
 role: Academy cook and quiet protector
-proficient_skills: []
+proficient_skills:
+- Cooking
+- Herbalism
+- Hospitality
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 9
+  hp: 65
+  mana: 66
+  stamina: 70
+  speed: 27
+  defense: 20
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 2
+  silver: 4
+  copper: 27
 appearance: Round and flour-dusted, wearing a cook's apron and head wrap. Always smells of star anise
   and ginger.
-biography: ''
-personality: ''
-key_phrases: []
+biography: A cook in the Great Academy's kitchens who has been feeding the Academy community for thirty
+  years and knows every student, teacher, and visitor by their food preferences. She is the Academy's
+  unofficial counselor—students confide in her over bowls of soup. She has pieced together from hundreds
+  of conversations that the Academy's headmaster is being coerced by the Jin warlord to subtly steer Academy
+  research toward military applications. She has not told anyone because the headmaster is her oldest
+  friend and she believes he is trying to protect the Academy. She has begun leaving anonymous notes in
+  the headmaster's meals suggesting resistance strategies.
+personality: Defiant and independently minded, guarded and cautious with trust.
+key_phrases:
+- Food is love made edible.
+- A good cook feeds the body. A great cook feeds the soul.
+- I will not rest until I help the headmaster find a way to resist the warlord's coercion.
 visual:
   body_build: round and sturdy
   hair: white, under a cook's head wrap
@@ -60,5 +72,8 @@ current_state:
   location: location:jin-an
 purview: []
 ---
+
+
+
 
 A warm, motherly cook in the Great Academy kitchens whose soups are legendary and whose ear is always open.

@@ -9,37 +9,49 @@ gm_notes: 'Sten is a smith who works alongside Ragna, sharing a forge. His secre
   bride-price situation, and he pities them both. But his corrections are costing him silver, and he cannot
   keep it up indefinitely. He is trapped between loyalty to a fellow smith and loyalty to the trade.'
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Male
 age: 54
-heritage: ''
-social_station: ''
+heritage: Hrafnish
+social_station: Artisan
 role: Smith
-proficient_skills: []
+proficient_skills:
+- Crafting (Metalwork)
+- Appraisal
+- Endurance
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 6
+  hp: 57
+  mana: 57
+  stamina: 62
+  speed: 28
+  defense: 22
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 13
+    DEX: 10
+    CON: 12
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 1
+  silver: 18
+  copper: 18
 appearance: Compact and soot-blackened, Sten works the bellows and the anvil with methodical precision.
   He wears a leather apron and iron-shield gloves, his hair tied back in a singed knot. He is quieter
   than Ragna and older, with the deliberate movements of a man who has learned that haste costs fingers.
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'Sten is a smith who works alongside Ragna, sharing a forge. His secret: he has discovered
+  that Ragna has been forging counterfeit ingots — he found a misaligned stamp in the scrap pile and put
+  the pieces together. He has not reported her. He has not confronted her either. Instead, he has been
+  quietly correcting the weights on his own ingots to offset the discrepancy, hoping that the overall
+  trade balance will even out and no one will notice. He does this because he knows Ragna''s daughter
+  and knows the bride-price situation, and he pities them both. But his corrections are costing him silver,
+  and he cannot keep it up indefinitely. He is trapped between loyalty to a fellow smith and loyalty to
+  the trade.'
+personality: Reserved and soft-spoken, steadfast and devoted, guarded and cautious with trust.
+key_phrases:
+- Metal has opinions. My job is to negotiate.
+- The forge teaches patience whether you want to learn it or not.
 visual:
   body_build: compact and barrel-chested, powerful for his height
   hair: iron grey, tied back, singed at the tips
@@ -61,5 +73,7 @@ current_state:
   location: location:skaldvik
 purview: []
 ---
+
+
 
 A smith who works the forge with steady hands and honest iron, and who has been quietly covering for the smith across the fire — at a cost he cannot afford forever.

@@ -8,36 +8,48 @@ gm_notes: Coralee is a chandler (candle-maker) whose husband, a city watchman, d
   the other watchmen have been evasive. She suspects one of his fellow watchmen killed him to cover up
   corruption.
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Female
 age: 34
-heritage: ''
-social_station: ''
+heritage: Valdrian
+social_station: Artisan
 role: Candle Maker / Chandler
-proficient_skills: []
+proficient_skills:
+- Crafting (Chandler)
+- Appraisal
+- Botany
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 4
+  hp: 40
+  mana: 50
+  stamina: 47
+  speed: 26
+  defense: 22
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 1
+  silver: 6
+  copper: 20
 appearance: Practical and composed, Coralee wears a clean linen dress under a wax-spotted apron. Her hair
   is pinned up and covered with a kerchief. Her hands are smooth but slightly waxy.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Coralee is a chandler (candle-maker) whose husband, a city watchman, disappeared three months
+  ago. The watch declared him a deserter, but Coralee found his watchman's badge hidden in their chimney
+  — a place no deserter would think to put it. She believes he was murdered and the badge was planted
+  to be 'found later' as evidence against him. She has been making quiet inquiries among the watch, but
+  the other watchmen have been evasive. She suspects one of his fellow watchmen killed him to cover up
+  corruption.
+personality: Reserved and soft-spoken, guarded and cautious with trust, carries a secret that shapes every
+  decision.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
+- I will not rest until I find out what happened to me husband and clear me name.
 visual:
   body_build: medium height, sturdy
   hair: chestnut brown, pinned up under a kerchief
@@ -58,5 +70,9 @@ current_state:
   location: location:crownhaven
 purview: []
 ---
+
+
+
+
 
 A candle-maker who keeps her shop burning bright, even as she searches the shadows for the truth about her missing husband.

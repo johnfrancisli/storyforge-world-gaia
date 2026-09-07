@@ -10,37 +10,50 @@ gm_notes: The most successful spice merchant in Zaffar, controlling nearly a thi
   every binding family debt that has come due in the past decade and is waiting for the right moment to
   publish it and collapse public confidence in the old houses.
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Female
 age: 48
-heritage: ''
-social_station: ''
+heritage: Al-Khayzari
+social_station: Merchant
 role: Master spice merchant, political agitator
-proficient_skills: []
+proficient_skills:
+- Appraisal
+- Negotiation
+- Accounting
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 5
+  hp: 50
+  mana: 55
+  stamina: 54
+  speed: 26
+  defense: 21
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 11
+    WIS: 11
+    CHA: 14
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 22
+  silver: 35
+  copper: 17
 appearance: Robust and commanding in saffron-dyed silk and gold-trimmed vest. Her hands are stained yellow
   at the fingertips from years of grading saffron threads. She wears a merchant's abacus on a chain at
   her hip.
-biography: ''
-personality: ''
-key_phrases: []
+biography: The most successful spice merchant in Zaffar, controlling nearly a third of the saffron trade
+  through the deep desert routes. She built her network from nothing after her family lost everything
+  to a broken djinn contract twenty years ago — her father traded his luck to a djinn for success and
+  then the djinn collected, taking every fortune the family had accumulated. Yasmin despises the binding
+  families and has been quietly funding a movement among the merchant class to demand representation on
+  the Council, arguing that trade, not djinn contracts, is what keeps Zaffar alive. She has a ledger documenting
+  every binding family debt that has come due in the past decade and is waiting for the right moment to
+  publish it and collapse public confidence in the old houses.
+personality: Reserved and soft-spoken, blunt and rough-spoken.
+key_phrases:
+- A fair deal leaves both sides slightly unhappy. That is how you know it was fair.
+- Trust is the only currency that compounds.
+- I will not rest until I break the binding families' monopoly on the council and win a merchant seat.
 visual:
   body_build: stout and strong, commanding presence
   hair: black with grey streaks, pinned under a silk headscarf
@@ -65,4 +78,7 @@ current_state:
 purview: []
 ---
 
-A formidable spice merchant whose saffron-scented warehouse is the largest in the Spice Quarter. She receives caravans personally, negotiates in five languages, and is respected — and feared — by every trader in Zaffar.
+
+
+
+A formidable spice merchant whose saffron-scented warehouse is the largest in the Spice Quarter. She receives caravans personally, negotiates in five languages, and is respected — and feared — by every trader in [[location:zaffar|Zaffar]].

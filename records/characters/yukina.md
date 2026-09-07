@@ -9,37 +9,49 @@ gm_notes: Yukina is a yuki-onna — a snow woman — who fell in love with a hum
   meaning to — the cold inside her is not something she fully controls. She's been considering asking
   the shrine for help, but revealing herself would mean exile — or worse.
 aliases: []
-race: ''
-gender: ''
-age: ageless — appears mid-twenties
-heritage: ''
-social_station: ''
+race: Elf
+gender: Female
+age: 25
+heritage: Tsukuyomi
+social_station: Artisan
 role: Yuki-onna (snow woman yokai) in hiding
-proficient_skills: []
+proficient_skills:
+- Diplomacy
+- Politics
+- Leadership
+- Lore (Forests)
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 7
+  hp: 56
+  mana: 67
+  stamina: 59
+  speed: 34
+  defense: 17
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 9
+    DEX: 14
+    CON: 9
+    INT: 14
+    WIS: 12
+    CHA: 12
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 5
+  silver: 11
+  copper: 5
 appearance: She wears layered kimono even in warm weather, pale blues and whites that match her complexion.
   She moves without sound and her breath doesn't fog in winter air. She is strikingly beautiful in a way
   that makes people uneasy, though they can't say why.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Yukina is a yuki-onna — a snow woman — who fell in love with a human woodcutter and married
+  him, suppressing her nature to live as a mortal wife. He doesn't know what she is. Each winter, her
+  power grows stronger as the cold deepens, and the urge to let the frost take over becomes harder to
+  resist. Last winter, she froze the bedroom door shut in her sleep, and her husband nearly lost his fingers
+  opening it. She told him it was a faulty latch. She's afraid that one winter she'll kill him without
+  meaning to — the cold inside her is not something she fully controls. She's been considering asking
+  the shrine for help, but revealing herself would mean exile — or worse.
+personality: Wary and watchful, defiant and independently minded, guarded and cautious with trust.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
 visual:
   body_build: slender, willowy
   hair: white, long, straight
@@ -61,5 +73,7 @@ current_state:
   location: location:tsukuyomi
 purview: []
 ---
+
+
 
 A quiet, beautiful woman in a mountain village in Tsukuyomi, married to the local woodcutter. She keeps the house cold even in summer, which her husband finds strange but endearing. She rarely touches anyone skin-to-skin.

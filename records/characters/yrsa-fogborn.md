@@ -10,38 +10,51 @@ gm_notes: 'Yrsa is a volva — a seeress who walks between worlds in trance. She
   last time she warned a jarl, that jarl used the warning to preemptively kill three innocent people.
   Yrsa does not trust power with prophecy.'
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Female
 age: 63
-heritage: ''
-social_station: ''
+heritage: Hrafnish
+social_station: Clergy
 role: Volva / Rune Reader / Seer
-proficient_skills: []
+proficient_skills:
+- Divination
+- Spirit Lore
+- Ritual Magic
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 7
+  hp: 48
+  mana: 105
+  stamina: 58
+  speed: 28
+  defense: 19
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 11
+    WIS: 14
+    CHA: 11
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 7
+  silver: 22
+  copper: 14
 appearance: Gaunt and draped in layers of dark wool and reindeer fur, Yrsa moves like smoke through the
   market. Her staff is ironwood tipped with a raven skull, and she carries a pouch of runestones that
   click when she walks. Her eyes are pale and unfocused, as though she is always half-looking at something
   behind the world.
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'Yrsa is a volva — a seeress who walks between worlds in trance. She is genuinely gifted: her
+  prophecies are fragmentary but real, drawn from the seidr trance. The secret she guards: three years
+  ago she saw, in a deep trance, a vision of Skaldvik burning — not from raiders, but from within. A fire
+  set deliberately during the Althing, when every jarl would be present. She did not see who sets it,
+  only that the spark comes from someone who sits at Jarl Sigrid''s own table. She has been watching the
+  jarl''s household ever since, waiting for the pattern to clarify. She has not told Sigrid because the
+  last time she warned a jarl, that jarl used the warning to preemptively kill three innocent people.
+  Yrsa does not trust power with prophecy.'
+personality: Guarded and cautious with trust, blunt and rough-spoken, carries a secret that shapes every
+  decision.
+key_phrases:
+- The future is not fixed. It is inclined.
+- I see patterns, not certainties. Do not confuse the two.
 visual:
   body_build: thin and angular, weathered by decades of trance-cold
   hair: white, long, loose and uncombed
@@ -62,5 +75,7 @@ current_state:
   location: location:skaldvik
 purview: []
 ---
+
+
 
 A volva who reads runes in the smoke of offerings and walks the border between the living and the dead, answering questions no one else can answer — and asking some she will not share.

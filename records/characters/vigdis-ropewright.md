@@ -10,38 +10,50 @@ gm_notes: 'Vigdis makes rope — anchor rope, fishing line, rigging, and the hea
   both times, but a third deflection will raise questions she cannot answer without either lying or exposing
   the truth.'
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Female
 age: 38
-heritage: ''
-social_station: ''
+heritage: Hrafnish
+social_station: Artisan
 role: Rope Maker
-proficient_skills: []
+proficient_skills:
+- Crafting (Ropemaking)
+- Endurance
+- Appraisal
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 4
+  hp: 45
+  mana: 51
+  stamina: 56
+  speed: 28
+  defense: 24
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 13
+    DEX: 10
+    CON: 12
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
   gold: 0
-  silver: 0
-  copper: 0
+  silver: 11
+  copper: 19
 appearance: Strong-armed and sun-roughened, Vigdis works at the ropewalk in a leather apron, her hands
   moving in the constant twisting rhythm of her trade. She wears her hair short — it catches in the hemp
   otherwise — and her forearms are roped with muscle and old friction-burns. She is quiet, with a dry
   sense of humor that surfaces when she is comfortable.
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'Vigdis makes rope — anchor rope, fishing line, rigging, and the heavy hawsers that moor longships.
+  Her secret: she is in love with Gerd Hallvarsdottir, the jarl''s sister, and they have been meeting
+  in secret for three years. Vigdis is content with secrecy — she is a craftswoman, not a politician,
+  and she does not need public recognition. But she has noticed that Gerd is growing more anxious, and
+  Vigdis fears that the strain of hiding is hurting Gerd more than the revelation would. Vigdis has also
+  been asked, twice, by a jarl''s retainer whether she would be interested in marriage — and she has deflected
+  both times, but a third deflection will raise questions she cannot answer without either lying or exposing
+  the truth.'
+personality: Reserved and soft-spoken, wary and watchful, guarded and cautious with trust.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
 visual:
   body_build: medium height, powerful arms and shoulders
   hair: dark brown, cropped short
@@ -62,5 +74,8 @@ current_state:
   location: location:skaldvik
 purview: []
 ---
+
+
+
 
 A rope maker whose hands twist hemp and sinew into the lines that hold ships to the earth, and who is quietly tangled in a love she cannot speak of in daylight.

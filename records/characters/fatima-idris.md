@@ -9,37 +9,48 @@ gm_notes: 'Fatima discovered Malik''s research notes three days ago. She is not 
   her brother, but she also sees him as useful to her larger cause. She has not told Malik she found his
   notes.'
 aliases: []
-race: ''
-gender: ''
-age: late teens
-heritage: ''
-social_station: ''
+race: Human
+gender: Female
+age: 25
+heritage: Al-Khayzari
+social_station: Artisan
 role: Binding-family daughter, political reformer
-proficient_skills: []
+proficient_skills:
+- Survival
+- Crafting
+- Perception
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 4
+  hp: 43
+  mana: 48
+  stamina: 46
+  speed: 25
+  defense: 20
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 3
+  silver: 16
+  copper: 12
 appearance: A young woman in fine desert robes — deep blue and silver, less flashy than her brother's.
   She carries a book of contract law under her arm and has ink on her fingers. She is quieter than Malik
   and pays closer attention. She watches her brother the way a chess player watches a piece.
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'Fatima discovered Malik''s research notes three days ago. She is not bound by the contract
+  — she is the second child — but she has her own reasons for wanting the family''s debts exposed: the
+  binding families'' power is built on contracts that are quietly crushing them, and Fatima believes the
+  system is unsustainable. She wants to reform the binding families from within, which means breaking
+  the secrecy around the contracts. She is not above using Malik''s desperation as a catalyst. She loves
+  her brother, but she also sees him as useful to her larger cause. She has not told Malik she found his
+  notes.'
+personality: Reserved and soft-spoken, defiant and independently minded, guarded and cautious with trust.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
 visual:
   body_build: slim, small
   skin: warm brown
@@ -63,5 +74,8 @@ current_state:
   location: location:zaffar
 purview: []
 ---
+
+
+
 
 Malik's younger sister, in her late teens. Sharp, political, and frustrated with her family's culture of secrecy. She is not bound by the family's oldest contract — only firstborns are — and she sees that as both a freedom and an injustice. She has opinions about the binding families' system that would scandalize the council.

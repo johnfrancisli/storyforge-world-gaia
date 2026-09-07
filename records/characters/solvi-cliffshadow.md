@@ -10,38 +10,50 @@ gm_notes: 'Solvi is a watchman who keeps the night watch on the cliff above Skal
   though they are avoiding it. She has started keeping her own log, sketching the positions and times,
   and the pattern suggests the lights are getting closer to the harbor mouth.'
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Female
 age: 29
-heritage: ''
-social_station: ''
+heritage: Hrafnish
+social_station: Military
 role: Watchman
-proficient_skills: []
+proficient_skills:
+- Combat
+- Tactics
+- Endurance
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 6
+  hp: 54
+  mana: 57
+  stamina: 54
+  speed: 30
+  defense: 17
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 3
+  silver: 36
+  copper: 21
 appearance: Lean and sharp-eyed, Solvi wears a heavy watchman's cloak and carries a signal-horn and a
   lantern. She is weather-roughened and quiet, the kind of person who notices things others do not because
   she spends more time looking. She has a habit of sketching in a small leather book during the slow hours
   of the watch.
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'Solvi is a watchman who keeps the night watch on the cliff above Skaldvik''s harbor, scanning
+  the sea for ships and the mountains for fire-signals. Her secret: she has been seeing lights on the
+  water at night — not ships, not reflections, but lights that move against the current and the wind,
+  as though something is swimming below the surface with its own illumination. She has reported ''unusual
+  lights'' twice and been dismissed both times — the harbor master says it is phosphorescence, the volur
+  say it is aurora on the water. But Solvi has seen the lights change direction when a ship passes, as
+  though they are avoiding it. She has started keeping her own log, sketching the positions and times,
+  and the pattern suggests the lights are getting closer to the harbor mouth.'
+personality: Reserved and soft-spoken, compassionate and tender-hearted, guarded and cautious with trust.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
 visual:
   body_build: tall and lean, built for long still hours in the cold
   hair: dark brown, worn in a tight braid under a watchman's cap
@@ -62,5 +74,8 @@ current_state:
   location: location:skaldvik
 purview: []
 ---
+
+
+
 
 A watchman who scans the dark water every night for threats, and who has been watching something move in the fjord that no one else will take seriously — yet.

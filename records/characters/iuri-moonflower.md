@@ -13,37 +13,55 @@ gm_notes: 'Yara Moonflower''s eighteen-year-old granddaughter, being groomed to 
   with her through the dreams may be the very corruption her grandmother fears, wearing the Mother''s
   face.'
 aliases: []
-race: ''
-gender: ''
+race: Elf
+gender: Female
 age: 18
-heritage: ''
-social_station: ''
+heritage: Verdanian
+social_station: Clergy
 role: Shaman-in-training and pact-heir
-proficient_skills: []
+proficient_skills:
+- Spirit Pacts
+- Ritual Magic
+- Lore (Spirits)
+- Lore (Forests)
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 3
+  hp: 29
+  mana: 90
+  stamina: 42
+  speed: 34
+  defense: 17
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 9
+    DEX: 14
+    CON: 9
+    INT: 15
+    WIS: 16
+    CHA: 13
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 5
+  silver: 15
+  copper: 1
 appearance: Young and intense, with faint spotted patterning just emerging along her temples. Wears apprentice's
   garments — simpler than her grandmother's but marked with the same moonflower symbols. Always watching,
   always listening.
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'Yara Moonflower''s eighteen-year-old granddaughter, being groomed to inherit the shamanic
+  lineage of the Teluna tribe. Iuri is genuinely gifted — she can hear spirits clearly and has a natural
+  talent for the pact-rituals that surpass even her grandmother''s at the same age. Her secret: she has
+  been having recurring dreams of the Moonflower Pact from the perspective of the Mother of Jaguars, and
+  in those dreams the Mother is not corrupted — she is trapped. Iuri believes the Pact is not a bargain
+  but a cage, and that the offerings are not feeding the Mother but keeping her imprisoned. She has been
+  secretly communicating with the Mother of Jaguars through dreams and has begun to sympathize with it,
+  believing her grandmother is wrong about the corruption. Iuri is planning to offer herself at the next
+  ritual — not as a sacrifice, but as a key, to free the Mother. She does not realize that the thing communicating
+  with her through the dreams may be the very corruption her grandmother fears, wearing the Mother''s
+  face.'
+personality: Guarded and cautious with trust, blunt and rough-spoken, carries a secret that shapes every
+  decision.
+key_phrases:
+- The spirits do not serve. They negotiate.
+- Every pact is a conversation that never ends.
+- I will not rest until I free the mother of jaguars from what she believes is a cage.
 visual:
   body_build: lithe and alert, built for both study and rainforest travel
   hair: tawny-black with emerging rosette patterning at the temples
@@ -66,5 +84,8 @@ current_state:
   location: location:iara
 purview: []
 ---
+
+
+
 
 A young jaguar beast-kin woman with piercing amber eyes and a quiet intensity, being trained as the next shaman of the Teluna tribe.

@@ -9,38 +9,49 @@ gm_notes: 'Zuhayr is not malicious. He is a djinn of fire and law, and the contr
   before the deadline, Zuhayr must collect. He is, genuinely, on Malik''s side, which makes him the most
   dangerous kind of creditor: one who wants to help but cannot.'
 aliases: []
-race: ''
-gender: ''
-age: ancient — djinn are older than human civilization
-heritage: ''
-social_station: ''
+race: Human
+gender: Male
+age: 45
+heritage: Al-Khayzari
+social_station: Artisan
 role: Djinn, bound by contract to the Idris family
-proficient_skills: []
+proficient_skills:
+- Survival
+- Crafting
+- Perception
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 6
+  hp: 40
+  mana: 81
+  stamina: 56
+  speed: 28
+  defense: 22
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 4
+  silver: 9
+  copper: 25
 appearance: A figure that shifts between forms — sometimes a man with skin like dark obsidian cracked
   with lines of blue fire, sometimes a pillar of blue flame wearing clothes, sometimes just heat shimmer
   in the air. When he chooses a human form, he is tall, composed, and dresses in the style of a desert
   scholar. His eyes are always fire.
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'Zuhayr is not malicious. He is a djinn of fire and law, and the contract is real — Malik''s
+  grandfather agreed to it, and the terms are clear. Zuhayr does not want to collect Malik. He would prefer
+  a renegotiation, because Malik is interesting and a bound servant who resents you is less useful than
+  a willing partner. But the contract has terms, and the terms have a deadline, and Zuhayr cannot extend
+  the deadline unilaterally — djinn law is as binding on djinn as it is on humans. If Malik does not renegotiate
+  before the deadline, Zuhayr must collect. He is, genuinely, on Malik''s side, which makes him the most
+  dangerous kind of creditor: one who wants to help but cannot.'
+personality: Compassionate and tender-hearted, strict and disciplined, blunt and rough-spoken.
+key_phrases:
+- I do what must be done.
+- The work comes first. Everything else can wait.
 visual:
   body_build: tall, composed
   skin: dark obsidian with cracks of blue fire (in true form); warm brown (in human form)
@@ -66,5 +77,7 @@ current_state:
   location: location:zaffar
 purview: []
 ---
+
+
 
 A djinn — a fire-spirit of the desert, bound to the Idris family by a contract three generations old. He appears as a figure of blue fire in human form, or as a pillar of flame, or as a man with skin like cracked obsidian. He is patient, polite, and entirely bound by the contract's terms. He has been appearing to Malik to remind him that the deadline is approaching.

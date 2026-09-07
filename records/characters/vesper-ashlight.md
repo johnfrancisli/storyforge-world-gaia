@@ -11,37 +11,50 @@ gm_notes: 'Vesper is a falconer who tends hunting birds for a minor lord''s esta
   the Dragon Order directly, but a falconer has no standing to request an audience with dragon-bonded
   knights.'
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Female
 age: 31
-heritage: ''
-social_station: ''
+heritage: Valdrian
+social_station: Artisan
 role: Falconer
-proficient_skills: []
+proficient_skills:
+- Survival
+- Crafting
+- Perception
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 4
+  hp: 45
+  mana: 46
+  stamina: 50
+  speed: 30
+  defense: 18
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
   gold: 0
-  silver: 0
-  copper: 0
+  silver: 15
+  copper: 4
 appearance: Quiet and watchful, Vesper wears a leather falconer's gauntlet on her left arm and a simple
   tunic. A peregrine falcon named Ash is usually perched on her wrist. She has an stillness about her
   that comes from hours of patient stillness with her birds.
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'Vesper is a falconer who tends hunting birds for a minor lord''s estate near Dragonrest. Over
+  the past month, her falcons have begun refusing to fly toward the northern mountains — they launch,
+  circle, and return immediately, shrieking and agitated. This behaviour coincides with Aurelia Dawnspear''s
+  secret observation that her dragon Emberthyst is being drawn to the same mountains. Vesper does not
+  know about Aurelia''s situation, but she has her own theory: something large and predatory has established
+  territory in the northern peaks, something that terrifies even birds of prey. She has tried to warn
+  the local lord, who laughed and told her falcons are skittish creatures. She is now trying to reach
+  the Dragon Order directly, but a falconer has no standing to request an audience with dragon-bonded
+  knights.'
+personality: Composed and even-tempered, reserved and soft-spoken, guarded and cautious with trust.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
 visual:
   body_build: lean and still
   hair: dark brown, braided and pinned close to her head
@@ -62,5 +75,8 @@ current_state:
   location: location:dragonrest
 purview: []
 ---
+
+
+
 
 A dedicated falconer whose birds refuse to fly north — and who cannot get anyone to listen when she says something terrible has taken residence in the mountains.

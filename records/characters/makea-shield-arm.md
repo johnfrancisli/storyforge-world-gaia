@@ -13,36 +13,51 @@ gm_notes: Makea is a guard on Lani Atoll who patrols the meeting house and the c
   comes off the water, growing louder. He is afraid the song is not in the wind but in his blood, and
   that it has been waiting for him to come back to the sea.
 aliases: []
-race: ''
-gender: ''
-age: thirty-eight
-heritage: ''
-social_station: ''
+race: Human
+gender: Male
+age: 38
+heritage: Archipelagan
+social_station: Military
 role: Guard
-proficient_skills: []
+proficient_skills:
+- Awareness
+- Combat
+- Intimidation
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 6
+  hp: 72
+  mana: 29
+  stamina: 61
+  speed: 28
+  defense: 21
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 13
+    DEX: 11
+    CON: 12
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 1
+  silver: 14
+  copper: 8
 appearance: A large, gentle man with a guard's staff and a former wayfinder's faded tattoos on his arms.
   He moves with care for his size and has a warm, reassuring presence that belies his private fear.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Makea is a guard on Lani Atoll who patrols the meeting house and the chief's compound. He is
+  large, gentle, and loyal, and most people see him as a friendly presence rather than a warrior. His
+  secret is that he was not always a guard. He was a wayfinder — one of the best of his generation — until
+  he lost his nerve. Twelve years ago, he was navigating a route through a storm when he heard something
+  singing in the wind. The song was so beautiful and so alien that he lost his orientation and nearly
+  sailed his canoe into a reef. He landed safely, but when he tried to sail again, he heard the song every
+  time — always in the wind, always at sea. He could not navigate with that sound in his ears, so he quit
+  the guild and took a land-based role. He has told everyone he lost his nerve due to a near-death experience.
+  He has never told anyone about the song. And now he is hearing it on land — faintly, in the wind that
+  comes off the water, growing louder. He is afraid the song is not in the wind but in his blood, and
+  that it has been waiting for him to come back to the sea.
+personality: Compassionate and tender-hearted, defiant and independently minded, steadfast and devoted.
+key_phrases:
+- I do what must be done.
+- The work comes first. Everything else can wait.
 visual:
   body_build: large, broad, gentle in movement
   skin: deep brown
@@ -67,5 +82,7 @@ current_state:
   location: location:lani-atoll
 purview: []
 ---
+
+
 
 A guard who was once a gifted wayfinder until he heard an alien song in the wind at sea. He quit sailing and has hidden the reason for twelve years. Now he is hearing the song on land.

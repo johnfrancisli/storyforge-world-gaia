@@ -73,4 +73,4 @@ current_state:
 purview: []
 ---
 
-A river-folk trader who runs a long boat between the Mist Falls trading post and Iara. A practical, weathered woman who knows the river the way a wayfinder knows the sea. She carries goods, news, and mail, and she is the closest thing Verdania has to a postal service.
+A river-folk trader who runs a long boat between the Mist Falls trading post and [[location:iara|Iara]]. A practical, weathered woman who knows the river the way a wayfinder knows the sea. She carries goods, news, and mail, and she is the closest thing [[location:verdania|Verdania]] has to a postal service.

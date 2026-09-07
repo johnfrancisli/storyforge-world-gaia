@@ -9,38 +9,50 @@ gm_notes: Rui runs a gambling den in the capital that is a front for an informat
   or if he's been sent by someone else. She's been trying to make contact with him, but he's gone to ground
   — Takeda's agents are hunting him.
 aliases:
-- 'Rui'
-race: ''
-gender: ''
-age: late thirties
-heritage: ''
-social_station: ''
+- Rui
+race: Nekomata
+gender: Female
+age: 25
+heritage: Tsukuyomi
+social_station: Merchant
 role: Gambling den owner and information broker
-proficient_skills: []
+proficient_skills:
+- Diplomacy
+- Politics
+- Leadership
+- Acrobatics
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 6
+  hp: 52
+  mana: 63
+  stamina: 54
+  speed: 40
+  defense: 20
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 9
+    DEX: 16
+    CON: 9
+    INT: 12
+    WIS: 11
+    CHA: 13
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 44
+  silver: 70
+  copper: 38
 appearance: She wears a dramatic kimono in deep purples and blacks, a fan always in hand. She sits at
   the head of the room where she can see every table. She smiles when she's winning and smiles wider when
   she's about to fold — both look the same, which is the point.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Rui runs a gambling den in the capital that is a front for an information-brokering network
+  — she doesn't gamble for money, she gambles for secrets. Last month, she won a bet that gave her knowledge
+  of a hidden vault beneath the shogun's palace, sealed by shrine wards, containing artifacts from the
+  original human-yokai pact. She's been planning a break-in, but the cat-folk thief Kuro (character:kagemori-kuro)
+  has been spotted near the same vault by her informants. She doesn't know if he's after the same thing
+  or if he's been sent by someone else. She's been trying to make contact with him, but he's gone to ground
+  — Takeda's agents are hunting him.
+personality: Guarded and cautious with trust, carries a secret that shapes every decision.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
 visual:
   body_build: voluptuous, imposing
   hair: black, long, styled with gambling chips as hairpins
@@ -61,5 +73,8 @@ current_state:
   location: location:tsuki-no-miyako
 purview: []
 ---
+
+
+
 
 The proprietor of the Fox Dice gambling parlor in the capital's entertainment district. She deals cards with elegant hands and never loses her composure. The parlor is always full, the sake is always flowing, and the stakes are never just money.

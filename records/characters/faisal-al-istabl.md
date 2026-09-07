@@ -10,37 +10,50 @@ gm_notes: A male stable hand who tends the camels and horses of a binding family
   djinn's voice twice more, always in dreams, always saying 'not yet.' He does not know what the djinn
   will ask, but he knows he will not be able to refuse, and the waiting is slowly breaking him.
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Male
 age: 38
-heritage: ''
-social_station: ''
+heritage: Al-Khayzari
+social_station: Commoner
 role: Stable hand, djinn-marked
-proficient_skills: []
+proficient_skills:
+- Animal Husbandry
+- Horsemanship
+- Endurance
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 5
+  hp: 38
+  mana: 75
+  stamina: 54
+  speed: 26
+  defense: 21
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 5
+  silver: 7
+  copper: 28
 appearance: Quiet and scarred in stable clothes, his hands rough from grooming and mucking. He moves among
   the animals with the gentleness of someone who finds peace in their company. He rarely speaks above
   a murmur and startles at sudden sounds.
-biography: ''
-personality: ''
-key_phrases: []
+biography: A male stable hand who tends the camels and horses of a binding family's estate. Faisal was
+  a caravan driver who lost his entire caravan to a djinn-fire ambush in the deep desert five years ago.
+  He survived because a djinn — the same one bound to the binding family he now serves — pulled him from
+  the flames. The djinn then told him, in a voice like cooling iron, 'I will call for you one day. Be
+  ready.' Faisal has been living in the binding family's stables ever since, waiting for the djinn's call,
+  working as a stable hand because it is the closest he can be to the family's lamp. He has heard the
+  djinn's voice twice more, always in dreams, always saying 'not yet.' He does not know what the djinn
+  will ask, but he knows he will not be able to refuse, and the waiting is slowly breaking him.
+personality: Reserved and soft-spoken, compassionate and tender-hearted, blunt and rough-spoken.
+key_phrases:
+- I do what must be done.
+- The work comes first. Everything else can wait.
+- I will not rest until I learn what the djinn will ask of him and whether he can prepare for it.
 visual:
   body_build: lean, weathered
   hair: black, thinning, cropped short
@@ -63,5 +76,7 @@ current_state:
   location: location:zaffar
 purview: []
 ---
+
+
 
 A quiet, scarred stable hand who tends the camels and horses of a binding family's estate. He moves among the animals with the gentleness of someone who finds peace in their company.

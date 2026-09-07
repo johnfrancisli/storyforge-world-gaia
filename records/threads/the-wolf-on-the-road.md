@@ -26,4 +26,4 @@ visual:
   prompt: ''
 ---
 
-Garrick the Wolf controls a stretch of the Greywood road in Valdris. He is being courted by Prince Roderick as a deniable asset. Maggie Pippin at the Copper Kettle has noticed increased armed traffic. The crown's patrols are getting more aggressive. Garrick's men are hungry and loyal, but loyalty has a shelf life.
+Garrick the Wolf controls a stretch of the Greywood road in Valdris. He is being courted by Prince Roderick as a deniable asset. [[character:maggie-pippin|Maggie Pippin]] at the Copper Kettle has noticed increased armed traffic. The crown's patrols are getting more aggressive. Garrick's men are hungry and loyal, but loyalty has a shelf life.

@@ -31,4 +31,4 @@ visual:
   prompt: ''
 ---
 
-Kaa the Jaguar-kin found a temple door in the deep jungle of Verdania that was not open before and is warm to the touch. Dr. Voss has calculated a convergence point in the same area. Shaman Nara's river spirit has warned of 'the deep place' and 'the old door.' Monk Jian Yi is walking south toward the same location. Volva Helga has seen it in visions. Multiple independent sources are converging on the same point.
+Kaa the Jaguar-kin found a temple door in the deep jungle of [[location:verdania|Verdania]] that was not open before and is warm to the touch. Dr. Voss has calculated a convergence point in the same area. Shaman Nara's river spirit has warned of 'the deep place' and 'the old door.' Monk [[character:jian-yi|Jian Yi]] is walking south toward the same location. Volva Helga has seen it in visions. Multiple independent sources are converging on the same point.

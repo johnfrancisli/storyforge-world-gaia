@@ -81,4 +81,4 @@ current_state:
 purview: []
 ---
 
-An herbalist whose walled garden in the middle ring of Zaffar is an impossibility of green — ferns, lilies, and mosses thriving in the desert heat. She tends it with quiet devotion and gives medicines to all who ask.
+An herbalist whose walled garden in the middle ring of [[location:zaffar|Zaffar]] is an impossibility of green — ferns, lilies, and mosses thriving in the desert heat. She tends it with quiet devotion and gives medicines to all who ask.

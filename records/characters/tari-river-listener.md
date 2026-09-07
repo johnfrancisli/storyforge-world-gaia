@@ -9,38 +9,49 @@ gm_notes: 'Tari has a gift that Nara has not seen in thirty years of teaching: s
   Nara will say she is too young to understand, and she is also afraid Nara will understand too well and
   do something dangerous.'
 aliases:
-- 'Apprentice Tari'
-race: ''
-gender: ''
-age: sixteen
-heritage: ''
-social_station: ''
+- Apprentice Tari
+race: Human
+gender: Female
+age: 16
+heritage: Verdanian
+social_station: Clergy
 role: Shaman apprentice
-proficient_skills: []
+proficient_skills:
+- Spirit Pacts
+- Ritual Magic
+- Lore (Spirits)
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 2
+  hp: 26
+  mana: 76
+  stamina: 43
+  speed: 27
+  defense: 17
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 11
+    WIS: 14
+    CHA: 11
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 5
+  silver: 23
+  copper: 7
 appearance: A slight girl in plain river-cloth, her arms not yet marked with pact-patterns — she is too
   young. Her hair is braided with river-grass, and she carries a pouch of offering-stones. She is usually
   near the water, listening to it.
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'Tari has a gift that Nara has not seen in thirty years of teaching: she can hear spirits without
+  a formal pact. They speak to her unbidden, sometimes spirits she has no relationship with. This is not
+  entirely a blessing — the spirits do not always say things she wants to hear, and some of them are frightened.
+  Tari has been hearing fragments of the same warning Nara''s river spirit gave — ''the deep place'' and
+  ''the old door'' — but from multiple spirits, not just one. She has not told Nara because she is afraid
+  Nara will say she is too young to understand, and she is also afraid Nara will understand too well and
+  do something dangerous.'
+personality: Composed and even-tempered, compassionate and tender-hearted, thoughtful and philosophical.
+key_phrases:
+- The spirits do not serve. They negotiate.
+- Every pact is a conversation that never ends.
 visual:
   body_build: slight, young
   skin: warm brown
@@ -64,4 +75,6 @@ current_state:
 purview: []
 ---
 
-A young shaman apprentice in Iara, studying under Shaman Nara. A girl of sixteen who is talented, anxious, and hearing things she does not want to hear. She has a gift for spirit-communication that is emerging faster than her training can keep up with.
+
+
+A young shaman apprentice in [[location:iara|Iara]], studying under Shaman Nara. A girl of sixteen who is talented, anxious, and hearing things she does not want to hear. She has a gift for spirit-communication that is emerging faster than her training can keep up with.

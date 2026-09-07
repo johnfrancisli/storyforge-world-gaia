@@ -11,4 +11,4 @@ visual:
   prompt: ''
 ---
 
-The joint Sangguo-Al-Khayzar trade authority that administers the Silk Pass toll stations. The Toll Guild is technically a cooperative venture, but in practice the two sides skim independently and blame each other for the shortfalls. The Guild's clerks are multilingual, corrupt, and efficient in that order. A caravan master who pays the right bribe passes in a day; one who does not may wait a week for 'inspection.'
+The joint [[location:sangguo|Sangguo]]-[[location:al-khayzar|Al-Khayzar]] trade authority that administers the Silk Pass toll stations. The Toll Guild is technically a cooperative venture, but in practice the two sides skim independently and blame each other for the shortfalls. The Guild's clerks are multilingual, corrupt, and efficient in that order. A caravan master who pays the right bribe passes in a day; one who does not may wait a week for 'inspection.'

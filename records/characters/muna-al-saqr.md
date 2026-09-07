@@ -12,37 +12,51 @@ gm_notes: 'A female falconer who trains hunting falcons for the binding families
   while secretly planning to fly her falcon over the binding family estates to map how many djinn are
   embedded there — and whether any are there voluntarily.'
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Female
 age: 30
-heritage: ''
-social_station: ''
+heritage: Al-Khayzari
+social_station: Artisan
 role: Falconer, djinn-detecting bird trainer
-proficient_skills: []
+proficient_skills:
+- Survival
+- Crafting
+- Perception
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 3
+  hp: 29
+  mana: 69
+  stamina: 42
+  speed: 29
+  defense: 20
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 3
+  silver: 4
+  copper: 9
 appearance: Sun-darkened and leather-clad in a falconer's gauntlet and vest, she carries her eldest falcon
   on her wrist. She has a still, watchful quality that mirrors her birds. Her hands are scarred from talon
   grips.
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'A female falconer who trains hunting falcons for the binding families and has discovered that
+  her eldest falcon — a bird she raised from a chick — can see djinn in their true forms and will dive
+  at them aggressively. She has been quietly testing this, flying the falcon near known djinn haunts in
+  the market, and the bird''s reactions confirm what she suspected: there are far more djinn in Zaffar
+  than anyone realizes, many in positions of influence. The binding family that employs her has noticed
+  the falcon''s unusual behavior and asked her to train a pair of djinn-detecting falcons for them. Muna
+  knows they would use the birds to hunt djinn who are hiding from binding contracts, effectively enforcing
+  contract collection through fear. She has been delaying the training, claiming the birds are difficult,
+  while secretly planning to fly her falcon over the binding family estates to map how many djinn are
+  embedded there — and whether any are there voluntarily.'
+personality: Bold and uncompromising, reserved and soft-spoken, guarded and cautious with trust.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
 visual:
   body_build: lean and wiry, outdoor-hardened
   hair: sandy brown, braided, under a falconer's cap
@@ -65,5 +79,7 @@ current_state:
   location: location:zaffar
 purview: []
 ---
+
+
 
 A weathered falconer who keeps her birds on the rooftop of the high city's falconry tower. She is quiet and focused, her attention usually on the sky, and she speaks to her falcons in a low murmur no one else can hear.

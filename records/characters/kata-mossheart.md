@@ -10,37 +10,50 @@ gm_notes: 'Kata is the midwife of Skaldvik, who has brought nearly every living 
   a talent, a temperament — that the nominal father''s bloodline does not explain, and the husband is
   starting to ask questions.'
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Female
 age: 57
-heritage: ''
-social_station: ''
+heritage: Hrafnish
+social_station: Artisan
 role: Midwife
-proficient_skills: []
+proficient_skills:
+- Survival
+- Crafting
+- Perception
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 6
+  hp: 55
+  mana: 56
+  stamina: 59
+  speed: 29
+  defense: 23
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 1
+  silver: 8
+  copper: 9
 appearance: Weathered and warm, Kata wears a clean wool dress with a shawl she can wrap around anything
   — a cold infant, a laboring mother, her own shoulders. Her hands are gentle and sure, and she carries
   a bundle of clean cloth and a small knife for cutting cords. She smells of soap and lavender.
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'Kata is the midwife of Skaldvik, who has brought nearly every living person under thirty into
+  the world. Her secret: she has been falsifying birth records — not for money, but to protect children.
+  Three children born in the last decade are technically the offspring of married women who were not married
+  to the men they were with when the child was conceived. Kata recorded the husband''s name in each case,
+  because exposing the truth would have meant shame, violence, or abandonment for the mother and child.
+  She carries the true parentage in her head alone. One of those children is now showing traits — a birthmark,
+  a talent, a temperament — that the nominal father''s bloodline does not explain, and the husband is
+  starting to ask questions.'
+personality: Compassionate and tender-hearted, guarded and cautious with trust, blunt and rough-spoken.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
+- I will not rest until I protect the three families whose secrets she holds — even from themselves.
 visual:
   body_build: medium height, soft and solid
   hair: grey, thick, pinned in a practical coil
@@ -63,4 +76,6 @@ current_state:
 purview: []
 ---
 
-A midwife who has caught every baby in Skaldvik for twenty years and who carries more family secrets in her head than any living person — including some she made herself.
+
+
+A midwife who has caught every baby in [[location:skaldvik|Skaldvik]] for twenty years and who carries more family secrets in her head than any living person — including some she made herself.

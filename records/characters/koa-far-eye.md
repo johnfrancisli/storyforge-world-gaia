@@ -13,36 +13,52 @@ gm_notes: Koa is a scout who watches the southern approaches to the Archipelago 
   are refugees from somewhere farther south, a war fleet would be a catastrophe. He is also afraid that
   if the lights are not refugees, a war fleet would be too late.
 aliases: []
-race: ''
-gender: ''
-age: twenty-five
-heritage: ''
-social_station: ''
+race: Human
+gender: Male
+age: 25
+heritage: Archipelagan
+social_station: Military
 role: Scout
-proficient_skills: []
+proficient_skills:
+- Stealth
+- Perception
+- Survival
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 5
+  hp: 48
+  mana: 58
+  stamina: 55
+  speed: 35
+  defense: 19
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 13
+    CON: 10
+    INT: 11
+    WIS: 12
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 13
+  silver: 23
+  copper: 10
 appearance: A young, lean man with a scout's trained eyes and a watcher's patience. He spends most of
   his time in the watchtower and has the sun-weathered look of someone who is always outdoors.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Koa is a scout who watches the southern approaches to the Archipelago from a watchtower on
+  the southernmost inhabited island. He is young, sharp-eyed, and reliable, and his reports of weather
+  and approaching ships are trusted by the guild. His secret is that he has seen something in the south
+  that he has not reported. Three months ago, he saw a light on the horizon at night — not a star, not
+  a ship's lamp, but a steady green glow beneath the water's surface, moving slowly north. He has seen
+  it every night since, and it is closer. It moves against the current and the wind, as if it has its
+  own direction. It is now close enough that he can see it is not a single light but a formation — a line
+  of lights, evenly spaced, moving in formation like a convoy. He has not reported it because he does
+  not know what it is, and he is afraid that if he reports it, the response will be a war fleet — and
+  if the lights are refugees from somewhere farther south, a war fleet would be a catastrophe. He is also
+  afraid that if the lights are not refugees, a war fleet would be too late.
+personality: Guarded and cautious with trust, thoughtful and philosophical, carries a secret that shapes
+  every decision.
+key_phrases:
+- I see what others miss because I know what to look for.
+- The wilderness does not forgive carelessness.
 visual:
   body_build: lean, sharp-eyed, patient
   skin: medium brown, sun-weathered
@@ -69,5 +85,7 @@ current_state:
   location: location:tide-archipelago
 purview: []
 ---
+
+
 
 A southern watchtower scout who has been tracking a formation of underwater lights moving north toward the Archipelago. They are getting closer every night, and he has not told anyone.

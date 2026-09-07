@@ -7,38 +7,47 @@ gm_notes: Fumiko was once the shogunate's court koto player, dismissed when she 
   no standing to make accusations. He's been sending agents to the teahouse where she now plays, making
   inquiries. She recognizes the pattern — he's deciding whether she's a threat that needs silencing.
 aliases:
-- 'Fumiko'
-race: ''
-gender: ''
-age: early forties
-heritage: ''
-social_station: ''
+- Fumiko
+race: Human
+gender: Female
+age: 25
+heritage: Tsukuyomi
+social_station: Commoner
 role: Musician (koto player)
-proficient_skills: []
+proficient_skills:
+- Performance
+- Music
+- Artistry
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 6
+  hp: 55
+  mana: 59
+  stamina: 55
+  speed: 35
+  defense: 21
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 13
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 11
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 2
+  silver: 4
+  copper: 12
 appearance: She sits behind her koto with perfect posture, her hands moving over the strings with a precision
   that comes from decades of practice. She wears a refined but faded kimono — the fabric of better days.
   Her expression is serene until she thinks no one is watching.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Fumiko was once the shogunate's court koto player, dismissed when she refused the advances
+  of a court official who has since risen to become the shogun's senior advisor — the same man Yuri (character:onodera-yuri)
+  saw something wrong with. She knows things about his character that could end his career, but she has
+  no standing to make accusations. He's been sending agents to the teahouse where she now plays, making
+  inquiries. She recognizes the pattern — he's deciding whether she's a threat that needs silencing.
+personality: Composed and even-tempered.
+key_phrases:
+- Music is what words feel when they are honest.
+- Every song is a conversation with silence.
 visual:
   body_build: slender, straight-backed
   hair: black, greying at the temples, worn in a formal low bun
@@ -58,5 +67,7 @@ current_state:
   location: location:tsuki-no-miyako
 purview: []
 ---
+
+
 
 A koto musician who plays in a modest teahouse in the capital's entertainment district. She was once the shogunate's finest court musician. She plays with extraordinary skill for small audiences and pretends she doesn't miss the palace.

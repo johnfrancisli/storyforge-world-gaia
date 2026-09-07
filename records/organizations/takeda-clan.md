@@ -11,4 +11,4 @@ visual:
   prompt: ''
 ---
 
-A powerful samurai clan holding the northern mountain province of Tsukuyomi. Disciplined, well-run, and increasingly resentful of the shogunate's neglect of the provinces. Daimyo Takeda Renji is building a coalition of like-minded rural clans.
+A powerful samurai clan holding the northern mountain province of Tsukuyomi. Disciplined, well-run, and increasingly resentful of the shogunate's neglect of the provinces. Daimyo [[character:takeda-renji|Takeda Renji]] is building a coalition of like-minded rural clans.

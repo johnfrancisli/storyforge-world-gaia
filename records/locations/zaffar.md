@@ -10,4 +10,4 @@ visual:
   prompt: ''
 ---
 
-The spice capital of Al-Khayzar. A city of domes and minarets, sun-baked sandstone walls, and narrow streets that open suddenly into courtyard markets. The Star Bazaar opens after sundown and runs until dawn — lanterns, silk canopies, the smell of cardamom and saffron. The old binding families have their estates in the high city, where the contracts with djinn are kept in vaults. The Pact of the Lamp holds here, and the djinn who enforce it are visible in the market — a figure of blue fire haggling over the price of dates is not unusual.
+The spice capital of [[location:al-khayzar|Al-Khayzar]]. A city of domes and minarets, sun-baked sandstone walls, and narrow streets that open suddenly into courtyard markets. The Star Bazaar opens after sundown and runs until dawn — lanterns, silk canopies, the smell of cardamom and saffron. The old binding families have their estates in the high city, where the contracts with djinn are kept in vaults. The Pact of the Lamp holds here, and the djinn who enforce it are visible in the market — a figure of blue fire haggling over the price of dates is not unusual.

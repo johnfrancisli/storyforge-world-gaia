@@ -11,37 +11,50 @@ gm_notes: 'A night watchwoman who patrols the high city walls and has witnessed 
   sketches of the binding runes on the chains. She suspects the watch commander is on the binding family''s
   payroll.'
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Female
 age: 36
-heritage: ''
-social_station: ''
+heritage: Al-Khayzari
+social_station: Artisan
 role: Night watchwoman, whistleblower
-proficient_skills: []
+proficient_skills:
+- Survival
+- Crafting
+- Perception
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 6
+  hp: 50
+  mana: 58
+  stamina: 59
+  speed: 27
+  defense: 17
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 1
+  silver: 4
+  copper: 15
 appearance: Tall and rigid in leather armor and a watchman's turban, she carries a lantern in one hand
   and a curved sword at her hip. She walks her patrol with military precision and speaks rarely. Her face
   is weathered from years of night air.
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'A night watchwoman who patrols the high city walls and has witnessed something she was not
+  supposed to see: a binding family member meeting with a chained djinn in the old cistern beneath the
+  high city, not to renegotiate a contract but to torture the djinn for information about a rival family''s
+  contract terms. The djinn was bound in iron chains inscribed with binding runes — technology that should
+  not exist, as the Pact prohibits the forcible confinement of djinn. Kawthar reported this to her watch
+  commander, who told her to forget it and reassigned her to a different patrol. She has not forgotten.
+  She has been sneaking back to the cistern on her off nights and documenting the meetings, including
+  sketches of the binding runes on the chains. She suspects the watch commander is on the binding family''s
+  payroll.'
+personality: Strict and disciplined, guarded and cautious with trust.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
 visual:
   body_build: tall and muscular
   hair: black, short, under a turban
@@ -65,5 +78,8 @@ current_state:
   location: location:zaffar
 purview: []
 ---
+
+
+
 
 A tall, armored night watchwoman who patrols the high city walls with a lantern and a curved sword. She is known for being incorruptible and humorless, and other watchmen find her company uncomfortable.

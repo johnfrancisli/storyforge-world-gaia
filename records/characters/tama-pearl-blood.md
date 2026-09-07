@@ -13,37 +13,53 @@ gm_notes: Tama is a young pearl diver, apprenticed to Hina Deepwater, and she is
   that the calling is not from the archway but from herself — that she is the one who is drawing Hina
   to the deep.
 aliases: []
-race: ''
-gender: ''
-age: nineteen
-heritage: ''
-social_station: ''
+race: Elf
+gender: Female
+age: 19
+heritage: Archipelagan
+social_station: Artisan
 role: Pearl diver (apprentice)
-proficient_skills: []
+proficient_skills:
+- Diving
+- Endurance
+- Swimming
+- Lore (Forests)
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 5
+  hp: 44
+  mana: 62
+  stamina: 52
+  speed: 36
+  defense: 15
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 9
+    DEX: 14
+    CON: 9
+    INT: 14
+    WIS: 12
+    CHA: 12
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 3
+  silver: 17
+  copper: 15
 appearance: A young, lean, water-confident woman with the first pearl-shell earrings of a diver and the
   sun-bleached hair that marks long hours in the sea. She is always near Hina and always watching the
   water.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Tama is a young pearl diver, apprenticed to Hina Deepwater, and she is nearly as skilled as
+  her teacher — at nineteen, she can already hold her breath for four minutes. She does not know that
+  Hina has found a submerged archway, but she has noticed that Hina has been diving alone to a specific
+  spot and coming back shaken. Tama followed her once — to the surface only, not below — and saw the location.
+  She has not dived it herself because she promised Hina she would not go to the eastern reef alone, and
+  Tama keeps her promises. But she has been having dreams about the eastern reef, dreams of something
+  calling her from below, and she does not know if the dreams are her own or if whatever Hina found is
+  calling her too. She is afraid to tell Hina about the dreams because she fears Hina will stop diving
+  to protect her — and Hina is the only person who might understand what is happening. She is also afraid
+  that the calling is not from the archway but from herself — that she is the one who is drawing Hina
+  to the deep.
+personality: Strict and disciplined.
+key_phrases:
+- I do what must be done.
+- The work comes first. Everything else can wait.
 visual:
   body_build: lean, long-limbed, deep-chested like her teacher
   skin: medium brown, sun-lightened
@@ -68,4 +84,7 @@ current_state:
 purview: []
 ---
 
-A nineteen-year-old pearl diver, Hina Deepwater's apprentice, who is being called to the same deep-water something that is drawing her teacher down. She does not know if she is being called or if she is the one calling.
+
+
+
+A nineteen-year-old pearl diver, [[character:hina-deepwater|Hina Deepwater]]'s apprentice, who is being called to the same deep-water something that is drawing her teacher down. She does not know if she is being called or if she is the one calling.

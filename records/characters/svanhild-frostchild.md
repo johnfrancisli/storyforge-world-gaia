@@ -10,27 +10,30 @@ gm_notes: 'Svanhild is a child of twelve, the daughter of one of the jarl''s hou
   and terrified by the pattern she sees forming. Last night she dreamed of fire over the mead hall during
   a gathering, and the smoke was shaped like a raven.'
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Female
 age: 12
-heritage: ''
-social_station: ''
+heritage: Hrafnish
+social_station: Commoner
 role: Child
-proficient_skills: []
+proficient_skills:
+- Streetwise
+- Sneaking
+- Survival
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 1
+  hp: 16
+  mana: 23
+  stamina: 23
+  speed: 28
+  defense: 19
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
   gold: 0
   silver: 0
@@ -38,9 +41,20 @@ currency:
 appearance: Small and fair-haired, Svanhild wears a child's wool tunic and fur-lined boots, her hair in
   two messy braids. She is always underfoot — climbing on the dock, chasing cats, listening to conversations
   she is not part of. She has the bright, intense stare of a child who pays attention to everything.
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'Svanhild is a child of twelve, the daughter of one of the jarl''s household guards. Her secret:
+  she has been having dreams that come true. Small things — a dream about a boat sinking, and the next
+  day a fishing skiff capsizes in the harbor; a dream about a wolf in the byre, and the next morning a
+  fox gets into the goat pen. She has not told anyone because the last child in Skaldvik who ''saw things''
+  was taken to live with the volur, and Svanhild does not want to leave her family. She has started keeping
+  a dream-journal — scratched runes on birch bark, hidden under her sleeping furs — and she is both fascinated
+  and terrified by the pattern she sees forming. Last night she dreamed of fire over the mead hall during
+  a gathering, and the smoke was shaped like a raven.'
+personality: Warm and optimistic, guarded and cautious with trust, carries a secret that shapes every
+  decision.
+key_phrases:
+- I'm not afraid. I'm just... careful.
+- When you're small, you learn to notice things.
+- I will not rest until I understand me dreams without being taken away to live with the volur.
 visual:
   body_build: small and wiry, still growing
   hair: pale blonde, worn in two braids
@@ -61,5 +75,9 @@ current_state:
   location: location:skaldvik
 purview: []
 ---
+
+
+
+
 
 A child of the jarl's household who plays among the longships and dreams of things that happen the next day, and who has started keeping a record she shows no one.

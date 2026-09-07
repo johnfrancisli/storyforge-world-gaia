@@ -8,36 +8,47 @@ gm_notes: A Jin palace guard captain who has served the warlord for twenty years
   before acting. She is the only guard the warlord trusts, and she has been tasked with quietly gathering
   evidence. The advisor suspects her loyalty and has assigned two of his own men to watch her.
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Female
 age: 45
-heritage: ''
-social_station: ''
+heritage: Sangguo (Jin)
+social_station: Nobility
 role: Palace guard captain and the warlord's hidden investigator
-proficient_skills: []
+proficient_skills:
+- Awareness
+- Combat
+- Intimidation
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 10
+  hp: 101
+  mana: 35
+  stamina: 82
+  speed: 31
+  defense: 23
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 13
+    DEX: 11
+    CON: 12
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
+  gold: 104
+  silver: 94
   copper: 0
 appearance: Imposing and armor-ready, wearing Jin-state guard uniform of dark green and black. Always
   armed.
-biography: ''
-personality: ''
-key_phrases: []
+biography: A Jin palace guard captain who has served the warlord for twenty years. She discovered that
+  the warlord's chief advisor has been replacing palace guards loyal to the warlord with guards loyal
+  to the advisor's own faction—a slow coup. She reported this to the warlord, who dismissed it as paranoia.
+  She now realizes the warlord already knows and is allowing the infiltration to identify the full conspiracy
+  before acting. She is the only guard the warlord trusts, and she has been tasked with quietly gathering
+  evidence. The advisor suspects her loyalty and has assigned two of his own men to watch her.
+personality: Reserved and soft-spoken, steadfast and devoted, guarded and cautious with trust.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
+- I will not rest until I expose the advisor's conspiracy before it turns violent.
 visual:
   body_build: tall and muscular, broad-shouldered
   hair: black, cropped to the jaw, practical
@@ -59,5 +70,8 @@ current_state:
   location: location:jin-an
 purview: []
 ---
+
+
+
 
 A stern, battle-scarred captain of the Jin palace guard who is trusted by the warlord and feared by the court for her unflinching discipline.

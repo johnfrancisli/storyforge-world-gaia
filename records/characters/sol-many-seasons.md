@@ -11,36 +11,50 @@ gm_notes: 'An elder who sits on the informal council of Iara and is respected fo
   loses all political standing and protection, and she would become vulnerable. She has not told Sangue
   about the marriage negotiations because she fears what Sangue might do.'
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Female
 age: 62
-heritage: ''
-social_station: ''
+heritage: Verdanian
+social_station: Nobility
 role: Elder council member and chief's wife
-proficient_skills: []
+proficient_skills:
+- Survival
+- Crafting
+- Perception
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 6
+  hp: 51
+  mana: 56
+  stamina: 58
+  speed: 30
+  defense: 21
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 41
+  silver: 39
+  copper: 29
 appearance: Dignified and composed, with the bearing of someone who has spent decades navigating tribal
   politics. Wears fine woven garments and ceremonial paint. Her eyes miss nothing.
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'An elder who sits on the informal council of Iara and is respected for her wisdom and her
+  decades of service as a healer before retirement. Sol is the wife of the chief of the Verdana tribe,
+  a political marriage arranged thirty years ago. Her secret: she has been in love with Sangue, the chief''s
+  guard, since they were both young women, and the love is mutual and known to both but never acted upon.
+  Recently, the chief has begun negotiating a second marriage with a younger woman from a rival tribe
+  for a new alliance, which would politically sideline Sol. She has been quietly gathering support among
+  the council elders to block the marriage — not out of love for the chief, but because a discarded wife
+  in this culture loses all political standing and protection, and she would become vulnerable. She has
+  not told Sangue about the marriage negotiations because she fears what Sangue might do.'
+personality: Bold and uncompromising, reserved and soft-spoken, dignified and self-assured.
+key_phrases:
+- I do what must be done.
+- The work comes first. Everything else can wait.
+- I will not rest until I block the second marriage and preserve me political standing.
 visual:
   body_build: medium and straight-backed, dignified in bearing
   hair: silver-black, worn in a formal arrangement with bone pins
@@ -63,4 +77,7 @@ current_state:
 purview: []
 ---
 
-A dignified human elder and former healer who serves on Iara's council and is known for her measured wisdom and her political acumen.
+
+
+
+A dignified human elder and former healer who serves on [[location:iara|Iara]]'s council and is known for her measured wisdom and her political acumen.

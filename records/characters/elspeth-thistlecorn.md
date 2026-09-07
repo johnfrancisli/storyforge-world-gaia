@@ -10,37 +10,49 @@ gm_notes: 'Elspeth is an elderly beekeeper who tends the largest apiary in the V
   history, she is beginning to wonder if what she saw was a remnant of something older than the Order
   — and if it matters now.'
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Female
 age: 73
-heritage: ''
-social_station: ''
+heritage: Valdrian
+social_station: Artisan
 role: Beekeeper
-proficient_skills: []
+proficient_skills:
+- Survival
+- Crafting
+- Perception
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 8
+  hp: 62
+  mana: 65
+  stamina: 63
+  speed: 25
+  defense: 20
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 5
+  silver: 7
+  copper: 16
 appearance: Weathered and stooped but vital, Elspeth wears a wide-brimmed straw hat and a beekeeper's
   veil pushed back from her face. Her hands are scarred from decades of stings but still steady as she
   works her hives.
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'Elspeth is an elderly beekeeper who tends the largest apiary in the Valdris countryside. Forty
+  years ago, she witnessed something she has never told anyone: a dragon landed in the meadow beside her
+  hives and simply watched her — not threatening, not bonding, just observing. The dragon had a rider,
+  a woman in ancient armour unlike anything the Dragon Order uses, with runes etched into her plate that
+  glowed faintly. The rider nodded to Elspeth, then flew away. Elspeth has never spoken of it because
+  who would believe a beekeeper? But with the succession crisis and the talk of ancient bonds and forgotten
+  history, she is beginning to wonder if what she saw was a remnant of something older than the Order
+  — and if it matters now.'
+personality: Shrewd and calculating, blunt and rough-spoken.
+key_phrases:
+- I do what must be done.
+- The work comes first. Everything else can wait.
 visual:
   body_build: small and wiry, bent but energetic
   hair: white, thin, under a straw hat
@@ -61,5 +73,7 @@ current_state:
   location: location:valdris
 purview: []
 ---
+
+
 
 An old beekeeper who has tended her hives for half a century — and who saw something in the meadow forty years ago that she is only now beginning to understand might matter.

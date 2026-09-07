@@ -10,38 +10,50 @@ gm_notes: Tomi serves in Daimyo Takeda's (character:takeda-renji) household as a
   and suspects why, but she hasn't reported it to Takeda — a small act of mercy that could cost her everything
   if discovered.
 aliases:
-- 'Tomi'
-race: ''
-gender: ''
-age: mid-thirties
-heritage: ''
-social_station: ''
+- Tomi
+race: Human
+gender: Female
+age: 25
+heritage: Tsukuyomi
+social_station: Artisan
 role: Servant and double agent
-proficient_skills: []
+proficient_skills:
+- Survival
+- Crafting
+- Perception
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 4
+  hp: 44
+  mana: 49
+  stamina: 48
+  speed: 25
+  defense: 22
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 5
+  silver: 6
+  copper: 28
 appearance: She wears a plain servant's kimono in muted grey, her hair in a simple bun. She moves through
   rooms like a shadow — present, useful, and invisible. She pours tea at precisely the right moment and
   never interrupts.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Tomi serves in Daimyo Takeda's (character:takeda-renji) household as a personal attendant and
+  reports to him on his retainers' loyalty and conversations. But she is also secretly reporting Takeda's
+  plans to the shogunate's intelligence service, because her family lives in the capital and Takeda's
+  coalition, if it succeeds, would put them in danger. She's playing both sides — giving Takeda enough
+  genuine intelligence to stay valuable while feeding the shogunate enough to stay protected. The arrangement
+  is unsustainable. She knows that Takeda's retainer Honoka (character:takeda-honoka) has been distracted
+  and suspects why, but she hasn't reported it to Takeda — a small act of mercy that could cost her everything
+  if discovered.
+personality: Precise and detail-oriented, steadfast and devoted, guarded and cautious with trust.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
 visual:
   body_build: slight, unremarkable
   hair: black, plain bun
@@ -62,5 +74,8 @@ current_state:
   location: location:tsuki-no-miyako
 purview: []
 ---
+
+
+
 
 A personal servant in Daimyo Takeda's capital residence, attentive and unobtrusive. She serves tea, manages household supplies, and seems to exist in the background of every important conversation. She has a remarkable memory for who said what to whom.

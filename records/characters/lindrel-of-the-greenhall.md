@@ -9,37 +9,49 @@ gm_notes: 'Lindrel is the last of the old elven forest-keepers of the Greenhall,
   angry — they are silent because the words have become meaningless. Lindrel is waiting for someone to
   ask the right question.'
 aliases: []
-race: ''
-gender: ''
-age: two hundred and thirty — appears ageless, mature
-heritage: ''
-social_station: ''
+race: Elf
+gender: Female
+age: 45
+heritage: Valdrian
+social_station: Commoner
 role: Elven forest-keeper, elder of the Greenhall
-proficient_skills: []
+proficient_skills:
+- Survival
+- Crafting
+- Perception
+- Lore (Forests)
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 5
+  hp: 48
+  mana: 59
+  stamina: 49
+  speed: 33
+  defense: 20
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 9
+    DEX: 14
+    CON: 9
+    INT: 14
+    WIS: 12
+    CHA: 12
 currency:
   gold: 0
-  silver: 0
-  copper: 0
+  silver: 16
+  copper: 30
 appearance: A tall, slender elf in forest-green robes, her hair silver-white and very long. She moves
   slowly, as if each step is considered. Her ears are long and sharply pointed. She carries a staff of
   living wood that is still growing — small leaves bud from it in spring.
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'Lindrel is the last of the old elven forest-keepers of the Greenhall, an ancient forest within
+  Valdris. She is two hundred and thirty years old and remembers when the dragon bond was new. She knows
+  why the dragons stopped answering, and she has not told anyone because the reason is embarrassing to
+  the knightly order: the oath was changed two generations ago, simplified for political reasons, and
+  the simplified version no longer means what it used to. The dragons are not silent because they are
+  angry — they are silent because the words have become meaningless. Lindrel is waiting for someone to
+  ask the right question.'
+personality: Reserved and soft-spoken.
+key_phrases:
+- I do what must be done.
+- The work comes first. Everything else can wait.
 visual:
   body_build: tall, slender
   skin: pale, faintly luminous
@@ -63,5 +75,8 @@ current_state:
   location: location:valdris
 purview: []
 ---
+
+
+
 
 An elven forest-keeper, two centuries old, who tends the Greenhall — an ancient forest within Valdris. She is tall, slow-moving, and carries the weight of a very long memory. She is not unfriendly, but she is not in a hurry for anyone else's sake.

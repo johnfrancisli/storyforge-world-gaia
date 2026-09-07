@@ -11,38 +11,52 @@ gm_notes: 'Isa bakes flatbread for the jarl''s household — the dense, long-kee
   ask what changed. She is also afraid that someone will identify the root — it is related to a known
   seidr-herb, and unlicensed use of seidr-herbs is forbidden.'
 aliases: []
-race: ''
-gender: ''
+race: Elf
+gender: Female
 age: 39
-heritage: ''
-social_station: ''
+heritage: Hrafnish
+social_station: Artisan
 role: Baker
-proficient_skills: []
+proficient_skills:
+- Survival
+- Crafting
+- Perception
+- Lore (Forests)
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 6
+  hp: 52
+  mana: 65
+  stamina: 54
+  speed: 33
+  defense: 16
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 9
+    DEX: 14
+    CON: 9
+    INT: 14
+    WIS: 12
+    CHA: 12
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 4
+  silver: 2
+  copper: 13
 appearance: Round and flour-dusted, Isa works at the bread-stone in the jarl's kitchen, her hands moving
   in the practiced rhythm of kneading and shaping. She wears a clean apron and keeps her hair under a
   cap, and she always smells of warm bread. She is cheerful in the way of someone who knows how to make
   things feel better.
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'Isa bakes flatbread for the jarl''s household — the dense, long-keeping barley bread that
+  sustains Skaldvik through winter. Her secret: she has been grinding a dried root into the flour — a
+  root that makes the bread more filling and slightly euphoric, easing the winter gloom. The root grows
+  only on one cliff ledge above the fjord, and Isa harvests it herself. She discovered it by accident,
+  when her grandmother showed her as a child. The effect is mild and not harmful in small doses, but Isa
+  has been increasing the amount slightly each year because the winters have been harder and the household
+  more restless. She is afraid that if she stops, the mood in the hall will darken noticeably and people
+  will ask what changed. She is also afraid that someone will identify the root — it is related to a known
+  seidr-herb, and unlicensed use of seidr-herbs is forbidden.'
+personality: Warm and optimistic, guarded and cautious with trust, blunt and rough-spoken.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
 visual:
   body_build: medium height, soft and strong-armed from kneading
   hair: light brown, worn under a baker's cap
@@ -65,5 +79,8 @@ current_state:
   location: location:skaldvik
 purview: []
 ---
+
+
+
 
 A baker whose flatbread keeps the jarl's household fed through the long dark, and whose secret ingredient keeps them happy — for now.

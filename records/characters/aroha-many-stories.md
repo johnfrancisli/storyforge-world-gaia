@@ -13,37 +13,52 @@ gm_notes: Aroha is the storyteller every child gathers around at dusk, and she k
   large and gentle beneath their canoe. Aroha has stopped telling new stories. She is terrified of what
   she might accidentally create.
 aliases: []
-race: ''
-gender: ''
-age: forty-five
-heritage: ''
-social_station: ''
+race: Human
+gender: Female
+age: 45
+heritage: Archipelagan
+social_station: Commoner
 role: Storyteller
-proficient_skills: []
+proficient_skills:
+- Oratory
+- Lore (History)
+- Performance
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 5
+  hp: 50
+  mana: 53
+  stamina: 54
+  speed: 25
+  defense: 20
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 4
+  silver: 14
+  copper: 5
 appearance: A warm-faced woman with expressive hands and a voice that can fill a room or drop to a whisper.
   She wears layers of light cloth and carries a pouch of story-stones — small carved figures she uses
   to illustrate her tales.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Aroha is the storyteller every child gathers around at dusk, and she knows every story in the
+  Archipelago — or so everyone believes. The truth is that she has been making up new stories for years,
+  stories about islands that never existed, heroes who never lived, and routes that appear on no chart.
+  She started because the old stories were becoming painful — too many of them described islands that
+  are now underwater, and children would ask to visit the places in the tales. But three of her invented
+  stories have come true. The first described an island with a freshwater spring inside a volcanic cone
+  — and six months later, a wayfinder found it. The second described a current that carries canoes north
+  at the turn of the tide — and it was confirmed within the year. The third described a sea-monster that
+  protects lost children — and a refugee family last month reported being guided to safety by something
+  large and gentle beneath their canoe. Aroha has stopped telling new stories. She is terrified of what
+  she might accidentally create.
+personality: Compassionate and tender-hearted, generous and welcoming.
+key_phrases:
+- A story forgotten is a person erased.
+- The best stories are the ones that change in the telling.
 visual:
   body_build: soft, round-faced, expressive in gesture
   skin: warm brown
@@ -69,4 +84,7 @@ current_state:
 purview: []
 ---
 
-The beloved storyteller of Lani Atoll, whose invented tales have begun coming true. She has stopped telling new stories out of fear of what she might accidentally make real.
+
+
+
+The beloved storyteller of [[location:lani-atoll|Lani Atoll]], whose invented tales have begun coming true. She has stopped telling new stories out of fear of what she might accidentally make real.

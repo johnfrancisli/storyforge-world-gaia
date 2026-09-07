@@ -11,36 +11,50 @@ gm_notes: 'Selina is the midwife who has caught every baby born on Lani Atoll fo
   and death? She is afraid that someone will ask her to try it on someone who has been dead longer — and
   she is afraid it will work.'
 aliases: []
-race: ''
-gender: ''
-age: forty-eight
-heritage: ''
-social_station: ''
+race: Human
+gender: Female
+age: 48
+heritage: Archipelagan
+social_station: Artisan
 role: Midwife
-proficient_skills: []
+proficient_skills:
+- Survival
+- Crafting
+- Perception
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 6
+  hp: 50
+  mana: 58
+  stamina: 55
+  speed: 29
+  defense: 18
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 5
+  silver: 6
+  copper: 19
 appearance: A calm, sure-handed woman with a healer's gentleness and an iron core. She wears simple cloth
   and carries a birthing kit in a woven bag. Her presence alone steadies panicked rooms.
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'Selina is the midwife who has caught every baby born on Lani Atoll for twenty years, and she
+  has never lost a mother. Her secret is that she has lost three — but she brought them back. Selina can
+  feel when a birth is going wrong before it happens, and when a mother''s breath stops, she can sing
+  them back. She does not know how. She learned it by accident the first time, when she keened in grief
+  and the mother gasped and returned. She has done it twice since, each time with a song that came to
+  her in the moment, unbidden. She has not told anyone because the implication is terrifying: if she can
+  sing the dead back at the moment of death, what else can song-magic do to the boundary between life
+  and death? She is afraid that someone will ask her to try it on someone who has been dead longer — and
+  she is afraid it will work.'
+personality: Composed and even-tempered, compassionate and tender-hearted, guarded and cautious with trust.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
+- I will not rest until I understand the boundary between life and death and where me song fits in it.
 visual:
   body_build: solid, sure-handed, calm in bearing
   skin: warm brown
@@ -66,4 +80,7 @@ current_state:
 purview: []
 ---
 
-The midwife of Lani Atoll, who has never lost a mother — because she can sing the dying back from the edge. She carries a power she does not understand and does not want.
+
+
+
+The midwife of [[location:lani-atoll|Lani Atoll]], who has never lost a mother — because she can sing the dying back from the edge. She carries a power she does not understand and does not want.

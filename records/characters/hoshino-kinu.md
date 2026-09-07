@@ -9,38 +9,49 @@ gm_notes: Kinu's tattoos are magical — inked with a formula that includes yoka
   retainer) who wants offensive tattoos — designs that attract hostile yokai to a target. She refused,
   and the agent didn't accept her refusal gracefully.
 aliases:
-- 'Kinu'
-race: ''
-gender: ''
-age: mid-thirties
-heritage: ''
-social_station: ''
+- Kinu
+race: Human
+gender: Female
+age: 25
+heritage: Tsukuyomi
+social_station: Artisan
 role: Tattoo artist (horishi)
-proficient_skills: []
+proficient_skills:
+- Crafting (Tattoo)
+- Artistry
+- Lore (Glyphs)
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 6
+  hp: 51
+  mana: 55
+  stamina: 59
+  speed: 29
+  defense: 20
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 3
+  silver: 18
+  copper: 21
 appearance: She wears a short-sleeved kimono that shows her own elaborate tattoos — a phoenix across one
   arm, water patterns on the other. She holds her needles with the steadiness of a surgeon. Her workspace
   is spotless, the ink stones arranged in a precise row.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Kinu's tattoos are magical — inked with a formula that includes yokai-silver ground into the
+  pigment, they can ward against spirit influence or attract it, depending on the design. She's been giving
+  protective tattoos to villagers in Tsukuyomi for free, quietly building a network of people who carry
+  shrine-ward-equivalent protection on their skin. She's worried this constitutes unauthorized practice
+  of shrine magic, which is a shogunate crime. She's also been approached by a Takeda agent (character:takeda-renji's
+  retainer) who wants offensive tattoos — designs that attract hostile yokai to a target. She refused,
+  and the agent didn't accept her refusal gracefully.
+personality: Precise and detail-oriented, reserved and soft-spoken, wary and watchful.
+key_phrases:
+- I do what must be done.
+- The work comes first. Everything else can wait.
 visual:
   body_build: lean, strong-shouldered
   hair: black, cropped short, practical
@@ -61,5 +72,8 @@ current_state:
   location: location:tsukuyomi
 purview: []
 ---
+
+
+
 
 A tattoo artist in rural Tsukuyomi whose work is sought after by sailors, farmers, and warriors alike. She works in a small studio behind a fabric shop, needle and ink her only tools. She doesn't advertise — clients find her by word of mouth.

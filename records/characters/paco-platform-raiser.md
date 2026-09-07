@@ -11,36 +11,51 @@ gm_notes: 'A human builder who constructs and repairs the stilt-platforms that a
   He is afraid that the ancient structure beneath Iara is waking up, and that the weight of the city above
   it might be the only thing keeping it dormant — or the thing most at risk if it stirs.'
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Male
 age: 46
-heritage: ''
-social_station: ''
+heritage: Verdanian
+social_station: Artisan
 role: Master builder and structural keeper
-proficient_skills: []
+proficient_skills:
+- Survival
+- Crafting
+- Perception
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 5
+  hp: 47
+  mana: 52
+  stamina: 52
+  speed: 28
+  defense: 18
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 1
+  silver: 14
+  copper: 3
 appearance: Broad and capable, with builder's hands and a builder's eye for level and load. Wears a tool
   belt and a carpenter's apron. Always checking joints and braces.
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'A human builder who constructs and repairs the stilt-platforms that are Iara''s foundation.
+  He is the only person who knows the full structural layout of the city''s supports, having inherited
+  the knowledge from his father, who was the previous master builder. His secret: the original builders
+  of Iara sunk the central support pillars not into the riverbed but into something older — a structure
+  beneath the mud that is not natural. Paco discovered this when replacing a rotted pillar ten years ago:
+  the old pillar''s base had fused with a smooth, warm stone that hummed faintly. He has been maintaining
+  the platforms above this structure without understanding it, and the hum has been getting stronger.
+  He is afraid that the ancient structure beneath Iara is waking up, and that the weight of the city above
+  it might be the only thing keeping it dormant — or the thing most at risk if it stirs.'
+personality: Guarded and cautious with trust, generous and welcoming, carries a secret that shapes every
+  decision.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
+- I will not rest until I understand what lies beneath iara before it wakes fully.
 visual:
   body_build: broad and powerful, built for heavy construction work
   hair: black, thinning, cut short for safety
@@ -63,4 +78,6 @@ current_state:
 purview: []
 ---
 
-A broad, practical human builder who maintains the stilt-platforms of Iara and knows every beam, joint, and support by touch and memory.
+
+
+A broad, practical human builder who maintains the stilt-platforms of [[location:iara|Iara]] and knows every beam, joint, and support by touch and memory.

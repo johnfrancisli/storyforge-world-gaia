@@ -10,37 +10,50 @@ gm_notes: 'Freya is a shellfish gatherer who works the fjord''s tidal flats, col
   understand it, and because the shell feels like it was meant for her specifically. She found it in the
   same area where Helga pulled up the seidr-stone.'
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Female
 age: 25
-heritage: ''
-social_station: ''
+heritage: Hrafnish
+social_station: Artisan
 role: Shellfish Gatherer / Diver
-proficient_skills: []
+proficient_skills:
+- Diving
+- Endurance
+- Swimming
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 4
+  hp: 40
+  mana: 46
+  stamina: 51
+  speed: 28
+  defense: 23
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 1
+  silver: 8
+  copper: 13
 appearance: Compact and cold-water hardened, Freya wears a sealskin diving outfit and wool underlayers,
   her skin perpetually goose-bumped from hours in the fjord. She carries a net bag and a short prying
   bar, and she moves through the tidal flats with the sure-footedness of someone who knows every rock.
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'Freya is a shellfish gatherer who works the fjord''s tidal flats, collecting mussels, clams,
+  and occasionally the rare deep-water shellfish that are a delicacy in the jarl''s hall. Her secret:
+  she has found a shell on the deepest part of the fjord floor — a shell the size of a shield, iridescent,
+  with a pattern that is not natural. The pattern is runic. She pulled it up in a dive and has kept it
+  hidden in her hut. When she holds it, she hears the fjord — not the surface sound of waves, but the
+  deep sound of the current and the things that move in it. She has not told anyone because she does not
+  understand it, and because the shell feels like it was meant for her specifically. She found it in the
+  same area where Helga pulled up the seidr-stone.'
+personality: Guarded and cautious with trust, blunt and rough-spoken, carries a secret that shapes every
+  decision.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
 visual:
   body_build: short and stocky, built for cold water and deep dives
   hair: dark brown, cropped short (it dries faster)
@@ -62,5 +75,8 @@ current_state:
   location: location:skaldvik
 purview: []
 ---
+
+
+
 
 A shellfish gatherer who knows the fjord's tidal flats stone by stone, and who pulled something from the deep that sings to her in a language the water remembers.

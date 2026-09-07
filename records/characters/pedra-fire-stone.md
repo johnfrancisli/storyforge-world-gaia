@@ -12,36 +12,52 @@ gm_notes: 'A human potter who specializes in fire-resistant cooking vessels and 
   the resonance can be controlled or directed, and he has started sleeping next to a glazed pot to see
   if it affects his dreams. It does — vividly — and the dreams are not entirely his own.'
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Male
 age: 39
-heritage: ''
-social_station: ''
+heritage: Verdanian
+social_station: Artisan
 role: Potter and kiln-master
-proficient_skills: []
+proficient_skills:
+- Crafting (Pottery)
+- Artistry
+- Appraisal
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 5
+  hp: 46
+  mana: 51
+  stamina: 50
+  speed: 35
+  defense: 23
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 13
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 11
 currency:
   gold: 0
-  silver: 0
-  copper: 0
+  silver: 15
+  copper: 7
 appearance: Broad and soot-darkened, with burn scars on his forearms. Works shirtless near the heat of
   the kilns. His hands are permanently stained with mineral colors.
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'A human potter who specializes in fire-resistant cooking vessels and who maintains the kilns
+  used by the community. He is Argila''s younger brother and works alongside her, though their relationship
+  has been strained since he noticed she has been acting secretive and hiding something in her home. He
+  does not know about the clay-child, but he has heard sounds from her locked storeroom and has assumed
+  she is hoarding a special clay deposit. His own secret: he has been experimenting with a glazing technique
+  using a mineral he found near the temple ruins — a metallic oxide that produces a stunning deep blue
+  glaze but which, he has realized, gives off a faint spirit-resonance when fired. The glazed pots seem
+  to attract insects and small animals, which gather near them inexplicably. He has been testing whether
+  the resonance can be controlled or directed, and he has started sleeping next to a glazed pot to see
+  if it affects his dreams. It does — vividly — and the dreams are not entirely his own.'
+personality: Defiant and independently minded, guarded and cautious with trust, carries a secret that
+  shapes every decision.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
+- I will not rest until I understand the spirit-resonance of the blue glaze and what it means.
 visual:
   body_build: broad and sturdy, heat-tolerant from kiln work
   hair: black, singed short, perpetually ash-dusted
@@ -64,5 +80,7 @@ current_state:
   location: location:iara
 purview: []
 ---
+
+
 
 A broad, soot-stained human man who fires kilns and makes cooking pots alongside his sister Argila, and who has been experimenting with unusual glazes.

@@ -8,38 +8,48 @@ gm_notes: Nana can heal wounds that should be fatal using a technique taught to 
   (character:takeda-renji's retainer) but won't give his name. She suspects he was injured in a skirmish
   the clan is keeping quiet.
 aliases:
-- 'Nana'
-race: ''
-gender: ''
-age: late fifties
-heritage: ''
-social_station: ''
+- Nana
+race: Human
+gender: Female
+age: 25
+heritage: Tsukuyomi
+social_station: Artisan
 role: Herbalist and healer
-proficient_skills: []
+proficient_skills:
+- Herbalism
+- Medicine
+- Lore (Local Flora)
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 7
+  hp: 62
+  mana: 76
+  stamina: 72
+  speed: 34
+  defense: 25
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 13
+    DEX: 12
+    CON: 13
+    INT: 13
+    WIS: 15
+    CHA: 11
 currency:
   gold: 0
-  silver: 0
-  copper: 0
+  silver: 7
+  copper: 7
 appearance: She wears a plain brown kimono with deep pockets full of dried herbs and packets of powder.
   Her hands are stained green from tincture work. She smells of menthol, ginger, and damp earth, and she
   moves with the unhurried calm of someone who has seen every kind of injury.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Nana can heal wounds that should be fatal using a technique taught to her grandmother by a
+  yokai physician — a mountain spirit who traded medical knowledge for companionship. If the shrine network
+  authorities discovered this, they would accuse her of yokai corruption and strip her practice. She's
+  currently treating a wounded man who showed up at her door three nights ago — he bears Takeda clan marks
+  (character:takeda-renji's retainer) but won't give his name. She suspects he was injured in a skirmish
+  the clan is keeping quiet.
+personality: Composed and even-tempered, reserved and soft-spoken, compassionate and tender-hearted.
+key_phrases:
+- Every plant has a purpose, if you listen closely enough.
+- The earth provides, if you know where to look.
 visual:
   body_build: weathered, wiry
   hair: iron grey, thick, braided and coiled
@@ -60,5 +70,8 @@ current_state:
   location: location:tsukuyomi
 purview: []
 ---
+
+
+
 
 An herbalist and healer in rural Tsukuyomi, known for setting bones and closing wounds that the shrine healers can't. She lives in a cottage surrounded by medicinal gardens. She treats everyone who comes to her door and asks no questions — most of the time.

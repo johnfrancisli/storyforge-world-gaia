@@ -10,4 +10,4 @@ visual:
   prompt: ''
 ---
 
-A caravanserai at the Al-Khayzar end, with a deep well, shaded arcades, and a stable for camels. The toll collector here is said to take a personal cut on top of the official rate.
+A caravanserai at the [[location:al-khayzar|Al-Khayzar]] end, with a deep well, shaded arcades, and a stable for camels. The toll collector here is said to take a personal cut on top of the official rate.

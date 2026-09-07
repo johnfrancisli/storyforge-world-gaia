@@ -8,36 +8,47 @@ gm_notes: Hilda runs a small orphanage in Crownhaven's lower town, taking in chi
   away any with the gift to raise as her own private dragon-bonded force. Hilda refused and has been hiding
   her most gifted children, claiming they are ordinary.
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Female
 age: 52
-heritage: ''
-social_station: ''
+heritage: Valdrian
+social_station: Commoner
 role: Orphanage Matron
-proficient_skills: []
+proficient_skills:
+- Survival
+- Crafting
+- Perception
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 5
+  hp: 35
+  mana: 37
+  stamina: 44
+  speed: 29
+  defense: 19
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
   gold: 0
   silver: 0
-  copper: 0
+  copper: 4
 appearance: Large and formidable, Hilda wears a heavy dress and a no-nonsense expression. She has a booming
   voice and a surprisingly gentle touch with the children in her care.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Hilda runs a small orphanage in Crownhaven's lower town, taking in children displaced by the
+  border conflicts. She is struggling to feed them all. A noblewoman offered to fund the orphanage generously
+  — on the condition that Hilda allow the noblewoman's people to 'assess' the children for 'special aptitudes.'
+  Hilda discovered that the noblewoman is screening children for dragon-bond potential, intending to spirit
+  away any with the gift to raise as her own private dragon-bonded force. Hilda refused and has been hiding
+  her most gifted children, claiming they are ordinary.
+personality: Dignified and self-assured, shrewd and calculating, compassionate and tender-hearted.
+key_phrases:
+- I do what must be done.
+- The work comes first. Everything else can wait.
+- I will not rest until I protect the gifted children from being taken and weaponized.
 visual:
   body_build: large and imposing
   hair: iron grey, braided and pinned
@@ -58,5 +69,7 @@ current_state:
   location: location:crownhaven
 purview: []
 ---
+
+
 
 A fierce and loving orphanage matron who protects her children with the ferocity of a mother dragon — which is exactly what the noblewoman screening them is counting on finding.

@@ -8,36 +8,47 @@ gm_notes: Margaret is a baker whose son was conscripted into the kingdom's borde
   Through this network, she has learned that casualty reports are being deliberately suppressed to prevent
   panic — and that the situation at the border is far worse than the public knows.
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Female
 age: 47
-heritage: ''
-social_station: ''
+heritage: Valdrian
+social_station: Artisan
 role: Baker
-proficient_skills: []
+proficient_skills:
+- Survival
+- Crafting
+- Perception
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 6
+  hp: 52
+  mana: 58
+  stamina: 59
+  speed: 29
+  defense: 19
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 2
+  silver: 14
+  copper: 14
 appearance: Plump and floury, Margaret wears a clean apron and keeps her hair in a tight bun. She has
   a ready smile that falters when she thinks no one is looking.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Margaret is a baker whose son was conscripted into the kingdom's border forces and sent to
+  the contested frontier. She has not received a letter from him in four months and has heard rumours
+  that his unit was overrun. The military has not confirmed or denied. She has started baking extra bread
+  for the families of other conscripted soldiers, forming an informal network of war mothers who share
+  information. Through this network, she has learned that casualty reports are being deliberately suppressed
+  to prevent panic — and that the situation at the border is far worse than the public knows.
+personality: Blunt and rough-spoken.
+key_phrases:
+- I do what must be done.
+- The work comes first. Everything else can wait.
+- I will not rest until I learn the truth about me son's fate, whatever it may be.
 visual:
   body_build: round and comfortable
   hair: brown, greying, tight bun
@@ -58,5 +69,9 @@ current_state:
   location: location:crownhaven
 purview: []
 ---
+
+
+
+
 
 A warm-hearted baker whose ovens feed the neighbourhood — and whose quiet network of mothers may know more about the war than the generals want anyone to know.

@@ -7,38 +7,47 @@ gm_notes: Soji left his mountain dojo after a dispute with the elder tengu about
   to anyone he finds worthy, which is almost no one. He is testing humans, looking for someone who might
   help the shrine network from the outside since his own kind will not help from the inside.
 aliases:
-- 'Tengu Soji'
-race: ''
-gender: ''
-age: ageless — appears mature
-heritage: ''
-social_station: ''
+- Tengu Soji
+race: Tengu (Yokai)
+gender: Male
+age: 45
+heritage: Tsukuyomi
+social_station: Military
 role: Wandering swordmaster (tengu)
-proficient_skills: []
+proficient_skills:
+- Diplomacy
+- Politics
+- Leadership
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 10
+  hp: 70
+  mana: 70
+  stamina: 72
+  speed: 29
+  defense: 18
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 11
+  silver: 31
+  copper: 10
 appearance: A tall, lean figure in mountain robes, dark wings folded against his back like a cloak. His
   face is sharp and avian, with a prominent nose and piercing eyes. He carries his katana in a plain wooden
   sheath and plays a bamboo flute when he has nothing to do, which is often.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Soji left his mountain dojo after a dispute with the elder tengu about whether to intervene
+  in the shrine network's decline. The elders voted to remain isolated. Soji disagreed and left — a serious
+  act for a tengu, who value community. He is now wandering the Cedar Road offering to teach swordsmanship
+  to anyone he finds worthy, which is almost no one. He is testing humans, looking for someone who might
+  help the shrine network from the outside since his own kind will not help from the inside.
+personality: Compassionate and tender-hearted.
+key_phrases:
+- I do what must be done.
+- The work comes first. Everything else can wait.
 visual:
   body_build: tall, lean, angular
   hair: black, long, tied high
@@ -58,5 +67,7 @@ current_state:
   location: location:tsukuyomi
 purview: []
 ---
+
+
 
 A tengu swordmaster wandering the Cedar Road. A tall, sharp-featured man with a long nose and dark wings folded behind his shoulders. He carries a katana and a bamboo flute, and he teaches swordsmanship to anyone he deems worthy — which is not many.

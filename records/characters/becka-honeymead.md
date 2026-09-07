@@ -9,36 +9,48 @@ gm_notes: Becka is a mead brewer and merchant who trades honey and mead across t
   supply chain. Becka has been secretly organizing independent beekeepers to resist the buyouts, but the
   rival house has begun threatening them.
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Female
 age: 41
-heritage: ''
-social_station: ''
+heritage: Valdrian
+social_station: Merchant
 role: Mead Brewer / Merchant
-proficient_skills: []
+proficient_skills:
+- Appraisal
+- Negotiation
+- Accounting
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 5
+  hp: 50
+  mana: 55
+  stamina: 50
+  speed: 26
+  defense: 23
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 11
+    WIS: 11
+    CHA: 14
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 23
+  silver: 16
+  copper: 30
 appearance: Vigorous and sharp-eyed, Becka wears a merchant's travelling dress with a honey-stained apron.
   She carries a ledger as naturally as others carry a sword, and her handshake is firm and deliberate.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Becka is a mead brewer and merchant who trades honey and mead across the Valdris countryside.
+  She has discovered that a rival merchant house with ties to Lord Cael has been systematically buying
+  up every beekeeper's output in the region, creating a near-monopoly on honey. Honey is not just food
+  — it is the base for medicinal salves used by the Dragon Order's healers and the only reliable preservative
+  for field rations. By controlling the honey supply, the rival house could choke the Order's medical
+  supply chain. Becka has been secretly organizing independent beekeepers to resist the buyouts, but the
+  rival house has begun threatening them.
+personality: Defiant and independently minded, guarded and cautious with trust, carries a secret that
+  shapes every decision.
+key_phrases:
+- A fair deal leaves both sides slightly unhappy. That is how you know it was fair.
+- Trust is the only currency that compounds.
 visual:
   body_build: sturdy and energetic
   hair: golden brown, thick, worn in a practical plait
@@ -59,5 +71,8 @@ current_state:
   location: location:valdris
 purview: []
 ---
+
+
+
 
 A shrewd mead brewer and merchant who knows that controlling honey means controlling medicine, rations, and mead — and who is quietly organizing beekeepers against a monopoly that could strangle the kingdom.

@@ -8,35 +8,46 @@ gm_notes: A potter whose clay vessels can hold chi-infused liquids without degra
   canal that she suspects is near an old qilin-spirit site. She is illiterate and has never told anyone
   the location of her clay source.
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Female
 age: 31
-heritage: ''
-social_station: ''
+heritage: Sangguo (Jin)
+social_station: Military
 role: Master potter and unknowing qilin-clay guardian
-proficient_skills: []
+proficient_skills:
+- Awareness
+- Combat
+- Intimidation
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 6
+  hp: 75
+  mana: 27
+  stamina: 64
+  speed: 31
+  defense: 24
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 13
+    DEX: 11
+    CON: 12
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 6
+  silver: 7
+  copper: 13
 appearance: Earth-stained and practical, wearing clay-spattered work clothes and a kiln-scarred apron.
-biography: ''
-personality: ''
-key_phrases: []
+biography: A potter whose clay vessels can hold chi-infused liquids without degrading. She discovered
+  this when a physician asked her to make a vessel for a medicinal chi-potion and the potion retained
+  potency for months instead of days. She has been secretly supplying chi-stable vessels to Hua Suxin
+  the acupuncturist. She does not understand why her clay works this way—she uses river clay from a specific
+  bend in the canal that she suspects is near an old qilin-spirit site. She is illiterate and has never
+  told anyone the location of her clay source.
+personality: Guarded and cautious with trust, carries a secret that shapes every decision.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
+- I will not rest until I keep me clay source secret and safe.
 visual:
   body_build: strong-armed and compact from years at the wheel
   hair: dark brown, tied in a cloth band
@@ -58,5 +69,8 @@ current_state:
   location: location:sangguo
 purview: []
 ---
+
+
+
 
 A skilled village potter whose ceramics are valued for their beauty and inexplicable ability to preserve medicinal chi-potions.

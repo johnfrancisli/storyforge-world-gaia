@@ -8,37 +8,47 @@ gm_notes: 'Grimvard is not a warrior — he is a frost giant elder, a keeper of 
   He is not willing to leave until the poem is corrected. If Sigrid asks the right questions, Grimvard
   knows things about the deep mountains that her scouts did not survive to report.'
 aliases: []
-race: ''
-gender: ''
-age: ancient — frost giants live centuries
-heritage: ''
-social_station: ''
+race: Frost Giant
+gender: Male
+age: 300
+heritage: Hrafnish
+social_station: Nobility
 role: Frost giant elder, emissary
-proficient_skills: []
+proficient_skills:
+- Diplomacy
+- Politics
+- Leadership
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 12
+  hp: 101
+  mana: 89
+  stamina: 110
+  speed: 30
+  defense: 34
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 22
+    DEX: 10
+    CON: 20
+    INT: 12
+    WIS: 14
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 116
+  silver: 58
+  copper: 64
 appearance: A towering figure, grey-skinned and broad, wrapped in layers of white fur. He sits cross-legged
   outside the town walls, his hands on his knees, and does not move. His eyes are pale blue, ancient,
   and unbothered. He speaks rarely, in a voice like grinding ice.
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'Grimvard is not a warrior — he is a frost giant elder, a keeper of their oral history. He
+  has come to Skaldvik not to threaten but to correct the record: Ravn''s poem has the giants'' history
+  wrong, and giants take their history seriously. He is sitting outside the town because he is too large
+  for the buildings and because sitting is the giants'' way of saying ''I will wait.'' He is willing to
+  talk. He is not willing to leave until the poem is corrected. If Sigrid asks the right questions, Grimvard
+  knows things about the deep mountains that her scouts did not survive to report.'
+personality: Composed and even-tempered, shrewd and calculating, wary and watchful.
+key_phrases:
+- I do what must be done.
+- The work comes first. Everything else can wait.
 visual:
   body_build: massive, broad, twelve feet tall
   skin: grey, cold to look at
@@ -61,4 +71,6 @@ current_state:
 purview: []
 ---
 
-A frost giant emissary, sitting outside Skaldvik. Twelve feet tall, grey-skinned, wrapped in furs, patient as stone. He is not here to fight — he is here because a skald's poem got the giants' history wrong, and giants take their sagas seriously. He will wait as long as it takes.
+
+
+A frost giant emissary, sitting outside [[location:skaldvik|Skaldvik]]. Twelve feet tall, grey-skinned, wrapped in furs, patient as stone. He is not here to fight — he is here because a skald's poem got the giants' history wrong, and giants take their sagas seriously. He will wait as long as it takes.

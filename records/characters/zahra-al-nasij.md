@@ -11,37 +11,50 @@ gm_notes: A carpet weaver whose carpets are said to show the pattern of a person
   she knows what the image means — a bound djinn — and she suspects the binding family is looking for
   evidence to confiscate or destroy it.
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Female
 age: 38
-heritage: ''
-social_station: ''
+heritage: Al-Khayzari
+social_station: Artisan
 role: Master carpet weaver
-proficient_skills: []
+proficient_skills:
+- Crafting (Weaving)
+- Artistry
+- Appraisal
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 7
+  hp: 57
+  mana: 62
+  stamina: 58
+  speed: 36
+  defense: 23
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 13
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 11
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 4
+  silver: 20
+  copper: 22
 appearance: Graceful and focused in a dyed apron over simple robes, her hands moving across the loom with
   rhythmic precision. Thread dust clings to her clothes and hair. She hums while working — always the
   same melody, one she says the loom taught her.
-biography: ''
-personality: ''
-key_phrases: []
+biography: A carpet weaver whose carpets are said to show the pattern of a person's fate if they sleep
+  on them. This is not superstition — Zahra's loom was built from the wood of a djinn-burning tree, and
+  the thread she uses is spun from a plant that grows only where djinn fire has touched the ground. When
+  someone sleeps on her carpet, the weave shifts overnight to reveal a symbolic image. A binding family
+  matriarch slept on one of Zahra's carpets three weeks ago, and the carpet now shows a figure of blue
+  fire in chains. Zahra has the carpet hidden in her workshop and has been visited twice by servants of
+  that family asking if she has 'noticed anything unusual' about her weaving. She is terrified because
+  she knows what the image means — a bound djinn — and she suspects the binding family is looking for
+  evidence to confiscate or destroy it.
+personality: Guarded and cautious with trust, carries a secret that shapes every decision.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
 visual:
   body_build: slender, long-fingered
   hair: black, long, tied back with dyed thread
@@ -63,5 +76,8 @@ current_state:
   location: location:zaffar
 purview: []
 ---
+
+
+
 
 A master carpet weaver in the Textile Quarter whose carpets are prized for their luminous patterns and the strange dreams they give those who sleep on them. She works at a massive loom in a workshop thick with colored thread.

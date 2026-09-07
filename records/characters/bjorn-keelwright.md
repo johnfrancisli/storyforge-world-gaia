@@ -10,38 +10,51 @@ gm_notes: 'Bjorn is a master shipwright who lays the keels — the first timber,
   carried this for twenty years. He has noticed Greta acting troubled recently and suspects she found
   the journal. He does not know whether to approach her or keep the silence he has kept for two decades.'
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Male
 age: 61
-heritage: ''
-social_station: ''
+heritage: Hrafnish
+social_station: Artisan
 role: Master Shipwright
-proficient_skills: []
+proficient_skills:
+- Crafting (Shipbuilding)
+- Woodworking
+- Appraisal
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 8
+  hp: 65
+  mana: 67
+  stamina: 72
+  speed: 28
+  defense: 25
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 13
+    DEX: 10
+    CON: 12
+    INT: 10
+    WIS: 10
+    CHA: 10
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 5
+  silver: 19
+  copper: 23
 appearance: Massive and grey-bearded, Bjorn works in the shipyard in a leather apron, his arms scarred
   from decades of timber work. He moves slowly but with absolute precision — a man who knows that a crooked
   keel means a crooked ship. He speaks rarely, and when he does, people listen, because his words are
   rationed like good iron.
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'Bjorn is a master shipwright who lays the keels — the first timber, the spine of every longship.
+  He is Greta''s senior in the yard, and the two work together. His secret: he knows the clinker-planking
+  technique Greta uses came from the southern thrall, because he was the one who helped their late master
+  bury the evidence. The thrall did not die of illness as the yard was told — he died trying to escape,
+  and Bjorn was the one who found the body at the base of the cliff. He and the master agreed to say the
+  thrall died of fever, and they agreed to keep the technique and pretend it was their own. Bjorn has
+  carried this for twenty years. He has noticed Greta acting troubled recently and suspects she found
+  the journal. He does not know whether to approach her or keep the silence he has kept for two decades.'
+personality: Guarded and cautious with trust, carries a secret that shapes every decision.
+key_phrases:
+- A ship is a promise made to the sea.
+- The keel is the spine. Get it wrong and nothing else matters.
+- I will not rest until I tell greta the truth before the weight of it crushes one of them.
 visual:
   body_build: very tall and broad, thick through the shoulders and chest
   hair: grey, long beard braided with iron rings
@@ -64,4 +77,6 @@ current_state:
 purview: []
 ---
 
-A master shipwright whose hands lay the spine of every longship in Skaldvik, and who has been standing on a lie for twenty years — a lie he helped build and is not sure he can take apart.
+
+
+A master shipwright whose hands lay the spine of every longship in [[location:skaldvik|Skaldvik]], and who has been standing on a lie for twenty years — a lie he helped build and is not sure he can take apart.

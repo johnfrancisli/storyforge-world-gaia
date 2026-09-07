@@ -10,38 +10,50 @@ gm_notes: 'Torsten is a trader who specializes in luxury goods — silk, spices,
   his cargo crates. He likes Hrafnland and is troubled by what he is doing, but the guild pays him more
   in a season than he could earn in five years on his own.'
 aliases: []
-race: ''
-gender: ''
+race: Human
+gender: Male
 age: 34
-heritage: ''
-social_station: ''
+heritage: Hrafnish
+social_station: Merchant
 role: Trader
-proficient_skills: []
+proficient_skills:
+- Appraisal
+- Negotiation
+- Navigation
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 3
+  hp: 36
+  mana: 45
+  stamina: 43
+  speed: 27
+  defense: 18
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 11
+    WIS: 11
+    CHA: 14
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 14
+  silver: 59
+  copper: 19
 appearance: Well-groomed and smooth-talking, Torsten wears a good wool coat trimmed with fox fur and silver
   brooches. He carries a merchant's staff and a leather case of samples — silk swatches, spice pouches,
   silver earrings. He smiles easily and remembers every name, which is part of why he is good at his work
   — both the trading and the other kind.
-biography: ''
-personality: ''
-key_phrases: []
+biography: 'Torsten is a trader who specializes in luxury goods — silk, spices, silver jewelry — brought
+  from the southern ports and sold at a premium in Hrafnland where such things are rare. His secret: he
+  is a spy. Not for a rival jarl — for a southern merchant guild that is mapping Hrafnland''s trade routes,
+  resources, and military capacity in preparation for a trade embargo they plan to impose within two years.
+  The guild wants to cut off Hrafnland''s access to southern grain and textiles until the jarls agree
+  to exclusive trade terms favorable to the guild. Torsten sends coded reports in the false bottoms of
+  his cargo crates. He likes Hrafnland and is troubled by what he is doing, but the guild pays him more
+  in a season than he could earn in five years on his own.'
+personality: Compassionate and tender-hearted, guarded and cautious with trust, blunt and rough-spoken.
+key_phrases:
+- The road teaches what the market cannot.
+- Every caravan carries more than goods.
 visual:
   body_build: medium height, trim and well-fed
   hair: brown, worn neatly trimmed
@@ -64,4 +76,6 @@ current_state:
 purview: []
 ---
 
-A trader whose bolts of silk and jars of spice open every door in Skaldvik, and whose cargo manifests contain more than goods — they contain the shape of a coming siege by trade.
+
+
+A trader whose bolts of silk and jars of spice open every door in [[location:skaldvik|Skaldvik]], and whose cargo manifests contain more than goods — they contain the shape of a coming siege by trade.

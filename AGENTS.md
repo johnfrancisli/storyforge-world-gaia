@@ -1,5 +1,113 @@
 # Gaia Repository Agent Instructions
 
+## Wiki-link entity references
+
+When authoring or editing Markdown prose in this repository, use wiki-style
+links to refer to existing canonical records. The syntax is:
+
+```
+[[type:stable-id]]
+[[type:stable-id|display text]]
+```
+
+The reference target comes first, the optional display text second.
+
+### Rules
+
+1. **Double square brackets are reserved for resolvable Storyforge entity
+   references.** Do not use `[[...]]` for anything else in Markdown prose.
+2. **The target uses the entity's stable typed ID, not its visible name.**
+   `[[character:aerindra]]`, not `[[Aerindra]]`.
+3. **The target always comes before the display text.**
+   `[[character:aerindra|the pale-haired fletcher]]`, not
+   `[[the pale-haired fletcher|character:aerindra]]`.
+4. **Names can change; stable IDs must not.** Never change a stable ID merely
+   because a record was renamed.
+5. **`[[type:id]]` displays the record's current canonical name.** Use the
+   short form when the prose should track the name automatically.
+6. **`[[type:id|text]]` preserves the supplied contextual display text.** Use
+   the piped form when the surrounding prose requires an alias or contextual
+   wording.
+7. **Plain mentions remain ordinary prose** and do not create a resolvable
+   reference. Only wrap a mention in `[[...]]` when it should be linkable.
+8. **A wiki link creates a mention/reference edge, not automatically a
+   canonical relationship.** Actual relationships must continue to use
+   Storyforge's structured relationship records.
+9. **Structured JSON/YAML fields that already expect raw IDs must continue
+   using raw IDs.** Never put wiki-link markup inside fields like
+   `participants`, `locations`, or `affiliations`.
+
+   Correct:
+
+   ```json
+   {
+     "participants": ["character:aerindra"],
+     "locations": ["location:harus-shrine"]
+   }
+   ```
+
+   Wrong:
+
+   ```json
+   {
+     "participants": ["[[character:aerindra|Aerindra]]"]
+   }
+   ```
+
+10. **Wiki links belong only in Markdown or prose fields** unless the schema
+    explicitly says otherwise.
+
+### Authoring instruction
+
+When referring to an existing canonical record in authoring Markdown, use
+`[[type:stable-id]]` or `[[type:stable-id|contextual display text]]`. The
+stable reference must appear before the optional display text. Resolve
+existing records before creating links; never invent an ID for a record that
+has not been created. Use plain text for incidental people and things that
+are not canonical records. Wiki links represent references, not relationships.
+
+### Additional guidance
+
+- **Reuse an existing record ID** whenever the entity already exists.
+- **Never resolve entities by visible name alone** when a stable ID is
+  available.
+- **Never change a stable ID** merely because a record was renamed.
+- **Do not create links for generic or incidental nouns.** "The innkeeper"
+  is plain text unless there is a `character:` record for that person.
+- **Do not expose raw wiki-link markup in final player-facing narration.**
+  Render it as its display text or canonical name.
+- **Preserve wiki links when editing internal lore** unless the referenced
+  record is intentionally removed.
+- **Report unresolved references** rather than silently converting them to
+  plain text.
+
+### Valid entity types
+
+| Type prefix | Example |
+|---|---|
+| `character` | `[[character:aerindra]]` |
+| `location` | `[[location:harus-shrine]]` |
+| `organization` | `[[organization:dragon-order]]` |
+| `org` | `[[org:briar-wardens]]` (abbreviation used in existing records) |
+| `thread` | `[[thread:broken-road]]` |
+| `item` | `[[item:raikiri]]` |
+| `relationship` | `[[relationship:two-blacksmiths-of-valdris]]` |
+| `lore` | `[[lore:reincarnation-in-gaia]]` |
+
+### Future syntax (not yet implemented)
+
+Section anchors may be supported in the future:
+
+```
+[[location:crossford#market|Crossford market]]
+```
+
+The portion before `#` is the stable record ID; the portion after is a
+section or sub-anchor. Do not rely on this syntax until it is officially
+supported.
+
+---
+
 ## Mandatory visual-prompt guidance
 
 Before creating, populating, reviewing, or editing any `visual.prompt` value under `records/`, read and follow this entire section first.

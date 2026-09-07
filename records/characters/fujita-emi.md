@@ -7,38 +7,47 @@ gm_notes: Emi's loom was a gift from a yokai her grandmother befriended — a sp
   hasn't shown anyone. She's terrified of what it means and has been trying to change the pattern by weaving
   different thread, but the fire keeps appearing.
 aliases:
-- 'Emi'
-race: ''
-gender: ''
-age: late twenties
-heritage: ''
-social_station: ''
+- Emi
+race: Human
+gender: Female
+age: 25
+heritage: Tsukuyomi
+social_station: Artisan
 role: Weaver
-proficient_skills: []
+proficient_skills:
+- Crafting (Weaving)
+- Artistry
+- Appraisal
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 3
+  hp: 40
+  mana: 44
+  stamina: 43
+  speed: 36
+  defense: 20
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 13
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 11
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 4
+  silver: 4
+  copper: 9
 appearance: She sits cross-legged at her loom, surrounded by skeins of thread in every color. Her hands
   move in rhythmic, hypnotic patterns. Thread dust clings to her kimono, and she hums while she works
   — always the same tune, one she doesn't remember learning.
-biography: ''
-personality: ''
-key_phrases: []
+biography: Emi's loom was a gift from a yokai her grandmother befriended — a spider spirit who wove a
+  thread of spirit-silk into the warp. Cloth woven on this loom sometimes shows images of the future in
+  its patterns. Emi has seen a recurring motif of fire consuming a palace, and she's woven it into a bolt
+  of cloth she hasn't shown anyone. She's terrified of what it means and has been trying to change the
+  pattern by weaving different thread, but the fire keeps appearing.
+personality: Composed and even-tempered, perceptive and watchful, grounded and sensible.
+key_phrases:
+- I do what must be done.
+- The work comes first. Everything else can wait.
 visual:
   body_build: slender, long-fingered
   hair: dark brown, loose, with thread fragments caught in it
@@ -60,5 +69,7 @@ current_state:
   location: location:tsukuyomi
 purview: []
 ---
+
+
 
 A weaver in a rural Tsukuyomi village, known for cloth that feels unnaturally smooth and holds dye deeper than any other. She works at a loom in her doorway and sells to traveling merchants. People say her fabric brings good fortune.
