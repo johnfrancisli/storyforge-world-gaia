@@ -1,47 +1,57 @@
 ---
 id: character:bahri-swift-current
 name: Bahri Swift-Current
-gm_notes: 'An otter beast-kin river pilot who runs the fastest message route between Iara and the southern
-  city-states, making the journey in half the time of any other pilot. His speed is genuine skill, but
-  he has a secret: he discovered an underwater shortcut — a submerged cave passage that cuts through a
-  bluff and emerges on the other side, saving a full day of travel. He has used it dozens of times. The
-  problem is that the cave passage is not empty: it is inhabited by something that watches him pass through.
-  He has never seen it clearly, only felt its presence as a pressure and a cold attention in the dark
-  water. On his last passage, he heard a voice that said, clearly, ''you may pass this time.'' He has
-  not used the shortcut since and has been making the full journey, but the delay is causing his message
-  deliveries to slip, and the council is asking questions.'
+gm_notes: "An otter beast-kin river pilot who runs the fastest message route between\
+  \ Iara and the southern city-states, making the journey in half the time of any\
+  \ other pilot. His speed is genuine skill, but he has a secret: he discovered an\
+  \ underwater shortcut \u2014 a submerged cave passage that cuts through a bluff\
+  \ and emerges on the other side, saving a full day of travel. He has used it dozens\
+  \ of times. The problem is that the cave passage is not empty: it is inhabited by\
+  \ something that watches him pass through. He has never seen it clearly, only felt\
+  \ its presence as a pressure and a cold attention in the dark water. On his last\
+  \ passage, he heard a voice that said, clearly, 'you may pass this time.' He has\
+  \ not used the shortcut since and has been making the full journey, but the delay\
+  \ is causing his message deliveries to slip, and the council is asking questions."
 aliases: []
-race: ''
-gender: ''
-heritage: ''
-social_station: ''
+race: Beast-kin (Otter)
+gender: Male
+heritage: Verdania
+social_station: Scout
 role: River pilot and message carrier
 proficient_skills: []
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 5
+  hp: 35
+  mana: 15
+  stamina: 45
+  speed: 40
+  defense: 12
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 11
+    DEX: 17
+    CON: 13
+    INT: 10
+    WIS: 14
+    CHA: 12
 currency:
   gold: 0
-  silver: 0
-  copper: 0
-appearance: Sleek and glossy, with a perpetual grin of otter confidence. Wears a waterproof satchel and
-  nothing else. Moves through water like he is part of it.
-biography: ''
-personality: ''
-key_phrases: []
+  silver: 15
+  copper: 40
+appearance: Sleek and glossy, with a perpetual grin of otter confidence. Wears a waterproof
+  satchel and nothing else. Moves through water like he is part of it. Despite his
+  beast-kin nature, he is remarkably cute and aesthetically pleasing, with highly
+  attractive features.
+biography: A river scout known for navigating the treacherous rapids of Verdania.
+  Bahri relies on his beast-kin agility to survive, charting safe passages and running
+  messages between divided river clans.
+personality: Quick-witted, restless, and cheerful. He hates being on dry land for
+  too long.
+key_phrases:
+- The current is faster than a blade.
+- Don't blink, you'll miss the turn.
+- Water remembers.
 visual_identity:
-  age: 31
+  age: 21
   body_build: sleek and powerful, compact swimmer's build
   hair: short dense brown fur covering the entire body
   eyes: dark, bright, round, with an irrepressible cheerfulness
@@ -49,6 +59,7 @@ visual_identity:
   - fine brown fur across the entire body, thicker along the spine
   - long whiskers on both sides of the nose
   - webbed fingers and toes with short claws
+  face: handsome face, gorgeous, extremely attractive, cute, symmetrical
 portrait_variations: []
 affiliations:
 - org:ver-river-consortium

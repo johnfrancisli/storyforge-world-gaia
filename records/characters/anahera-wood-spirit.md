@@ -12,56 +12,43 @@ gm_notes: Anahera carves the figureheads that sit on the prows of voyaging canoe
   but the canoe is overdue. She is afraid the crew is alive but the figurehead has been blinded by something
   that does not want to be seen.
 aliases: []
-race: Human
-gender: Female
-heritage: Tide Archipelago
-social_station: Artisan
+race: ''
+gender: ''
+heritage: ''
+social_station: ''
 role: Wood carver
-proficient_skills:
-- Crafting (Woodcarving)
-- Perception
-- Insight
+proficient_skills: []
 stats:
-  level: 5
-  hp: 35
-  mana: 25
-  stamina: 40
-  speed: 30
-  defense: 12
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
   attributes:
-    STR: 14
-    DEX: 15
-    CON: 13
-    INT: 12
-    WIS: 16
-    CHA: 10
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
 currency:
-  gold: 8
-  silver: 30
-  copper: 50
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: A strong-armed, focused woman with wood shavings in her hair and a carving adze always at
-  hand. She examines wood grain the way others read faces — looking for the spirit inside. Beneath the
-  sawdust and rough clothes, she possesses an undeniably captivating, earthy beauty, with highly attractive
-  symmetrical features.
-biography: Raised among the master carvers of the Archipelago, Anahera learned early that wood was not
-  dead material, but sleeping memory. She developed a profound, secret spiritual link to the figureheads
-  she carved, acting as a silent guardian for the fleets. Her world was upended when one of her carvings
-  went horrifyingly dark, plunging her into a desperate mystery regarding the lost crew.
-personality: Intense, spiritual, and deeply introverted. She often prefers the silent company of her wooden
-  creations over people. She is fiercely protective of the crews that sail behind her carvings.
-key_phrases:
-- "The wood remembers the forest."
-- "I do not carve the eyes, I only open them."
-- "Something is covering the sea."
+  hand. She examines wood grain the way others read faces — looking for the spirit inside.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
-  age: 30
-  body_build: masterpiece, highly detailed, beautifully proportioned, fit, strong-armed, broad-handed, focused, aesthetic body
+  age: thirty
+  body_build: strong-armed, broad-handed, focused
   skin: medium brown, stained with wood tannin at the hands
-  hair: black, short, full of wood shavings, high quality texture
-  eyes: dark brown, intense, sparkling eyes, deep gaze, highly detailed eyes
+  hair: black, short, full of wood shavings
+  eyes: dark brown, intense
   distinctive_features: wood-tannin staining on both hands, a carving adze worn at the belt, a figurehead-in-progress
     she studies for long periods as if waiting for it to speak
-  face: beautiful face, gorgeous, extremely attractive, earthy beauty, symmetrical, masterpiece
 portrait_variations: []
 affiliations:
 - org:wayfinder-guilds

@@ -13,56 +13,44 @@ gm_notes: Aroha is the storyteller every child gathers around at dusk, and she k
   large and gentle beneath their canoe. Aroha has stopped telling new stories. She is terrified of what
   she might accidentally create.
 aliases: []
-race: Human
-gender: Female
-heritage: Tide Archipelago
-social_station: Artisan
+race: ''
+gender: ''
+heritage: ''
+social_station: ''
 role: Storyteller
-proficient_skills:
-- Performance
-- History
-- Insight
+proficient_skills: []
 stats:
-  level: 3
-  hp: 20
-  mana: 40
-  stamina: 25
-  speed: 25
-  defense: 10
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
   attributes:
-    STR: 8
-    DEX: 12
-    CON: 10
-    INT: 15
-    WIS: 16
-    CHA: 18
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
 currency:
   gold: 0
-  silver: 15
-  copper: 60
+  silver: 0
+  copper: 0
 appearance: A warm-faced woman with expressive hands and a voice that can fill a room or drop to a whisper.
   She wears layers of light cloth and carries a pouch of story-stones — small carved figures she uses
-  to illustrate her tales. She possesses a highly attractive, warm and engaging beauty, with deeply comforting,
-  symmetrical features.
-biography: A beloved fixture of Lani Atoll, Aroha spent years comforting refugee children with invented
-  tales of safe harbors and protective monsters. However, when her fictions inexplicably began manifesting
-  in reality, the line between storytelling and creation blurred. Terrified by her own latent power, she
-  has silenced her newest tales, fearing the devastating consequences of a poorly chosen word.
-personality: Warm, expressive, and deeply empathetic. She masks her growing terror with a comforting smile,
-  carrying the heavy burden of a magic she neither understands nor desires.
-key_phrases:
-- "Once upon a tide that hasn't turned yet..."
-- "A story is just a map of somewhere we haven't been."
-- "I think I will tell an old story tonight. Just an old one."
+  to illustrate her tales.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
-  age: 45
-  body_build: masterpiece, highly detailed, beautifully proportioned, fit, soft, round-faced, expressive in gesture, aesthetic body
+  age: forty-five
+  body_build: soft, round-faced, expressive in gesture
   skin: warm brown
-  hair: black, greying at the temples, worn loose, high quality texture
-  eyes: bright brown, warm and engaging, sparkling eyes, deep gaze, highly detailed eyes
+  hair: black, greying at the temples, worn loose
+  eyes: bright brown, warm and engaging
   distinctive_features: a pouch of carved story-stones worn at the belt, expressive hands that gesture
     constantly when speaking, a smile that reaches her eyes even when she is frightened
-  face: beautiful face, gorgeous, extremely attractive, warm beauty, symmetrical, masterpiece
 portrait_variations: []
 affiliations:
 - org:wayfinder-guilds

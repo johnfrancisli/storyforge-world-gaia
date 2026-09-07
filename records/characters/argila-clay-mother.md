@@ -11,55 +11,43 @@ gm_notes: A potter who makes all the storage vessels for Iara — water jars, fe
   a child of the earth itself — but she has become attached to it as a mother, and she is afraid that
   if anyone discovers it, they will destroy it as an abomination.
 aliases: []
-race: Human
-gender: Female
-heritage: Verdania
-social_station: Artisan
+race: ''
+gender: ''
+heritage: ''
+social_station: ''
 role: Potter and vessel maker
-proficient_skills:
-- Crafting (Pottery)
-- Lore (Spirits)
-- Insight
+proficient_skills: []
 stats:
-  level: 3
-  hp: 20
-  mana: 15
-  stamina: 30
-  speed: 25
-  defense: 10
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
   attributes:
-    STR: 13
-    DEX: 14
-    CON: 12
-    INT: 11
-    WIS: 16
-    CHA: 10
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
 currency:
   gold: 0
-  silver: 25
-  copper: 40
+  silver: 0
+  copper: 0
 appearance: Clay-dusted and serene, with strong, patient hands. Wears a wrap skirt stained with various
-  clay colors. Surrounded by drying pots in every stage of completion. Beneath the dust and stains, she
-  possesses a profoundly captivating, maternal beauty, with warm and highly attractive, symmetrical features.
-biography: A respected artisan in Iara, Argila's life was defined by the rhythm of the kiln and the river
-  until a miraculous—or horrific—event changed her forever. From the depths of an old clay deposit, a living
-  child of mud was born. She has chosen the perilous path of a secret mother, raising the spirit-creature
-  hidden away from a world that would undoubtedly destroy it.
-personality: Gentle, patient, and deeply sorrowful. She is a maternal figure to the village but keeps everyone
-  at a polite distance to protect her impossible child.
-key_phrases:
-- "The clay remembers the shape of the hands that hold it."
-- "Not everything that is fired in the kiln comes out hard."
-- "Stay in the back, little one. They wouldn't understand."
+  clay colors. Surrounded by drying pots in every stage of completion.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 45
-  body_build: masterpiece, highly detailed, beautifully proportioned, fit, sturdy and patient, strong from kneading clay, aesthetic body
-  hair: greying black, tied back under a clay-spattered cloth, high quality texture
-  eyes: warm brown, soft and focused, sparkling eyes, deep gaze, highly detailed eyes
+  body_build: sturdy and patient, strong from kneading clay
+  hair: greying black, tied back under a clay-spattered cloth
+  eyes: warm brown, soft and focused
   distinctive_features:
   - permanent clay-staining in the creases of both hands
   - a kiln-burn scar on the right thumb
-  face: beautiful face, gorgeous, extremely attractive, warm maternal beauty, symmetrical, masterpiece
 portrait_variations: []
 affiliations:
 - org:ver-shaman-circle

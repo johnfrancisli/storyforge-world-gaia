@@ -1,50 +1,61 @@
 ---
 id: character:calla-riversong
 name: Calla Riversong
-gm_notes: Calla is a halfling innkeeper in a village along the main road between Crownhaven and Dragonrest.
-  Her inn is a known stopping point for travelers, merchants, and soldiers. She has been secretly allowing
-  refugees from the border conflicts to stay in her cellar overnight, against the local lord's edict that
-  refugees must register and be confined to camps. One of the refugees she sheltered was a woman with
-  a young child who confided that she is the widow of a Valdris border commander — and she carries her
-  husband's final dispatch, which details the true scope of the military disaster at the border. The dispatch
-  was never delivered because the courier was killed. Calla has it now.
+gm_notes: "Calla is a halfling innkeeper in a village along the main road between\
+  \ Crownhaven and Dragonrest. Her inn is a known stopping point for travelers, merchants,\
+  \ and soldiers. She has been secretly allowing refugees from the border conflicts\
+  \ to stay in her cellar overnight, against the local lord's edict that refugees\
+  \ must register and be confined to camps. One of the refugees she sheltered was\
+  \ a woman with a young child who confided that she is the widow of a Valdris border\
+  \ commander \u2014 and she carries her husband's final dispatch, which details the\
+  \ true scope of the military disaster at the border. The dispatch was never delivered\
+  \ because the courier was killed. Calla has it now."
 aliases: []
-race: ''
-gender: ''
-heritage: ''
-social_station: ''
+race: Elf
+gender: Female
+heritage: River-folk
+social_station: Bard
 role: Innkeeper
 proficient_skills: []
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 4
+  hp: 25
+  mana: 35
+  stamina: 30
+  speed: 30
+  defense: 11
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 9
+    DEX: 15
+    CON: 11
+    INT: 14
+    WIS: 13
+    CHA: 18
 currency:
-  gold: 0
-  silver: 0
+  gold: 10
+  silver: 80
   copper: 0
-appearance: Cheerful and round, Calla wears a clean apron and keeps her hair in a kerchief. She has a
-  ready laugh and a sharp eye for who needs a room and who needs a meal on the house.
-biography: ''
-personality: ''
-key_phrases: []
+appearance: Cheerful and round, Calla wears a clean apron and keeps her hair in a
+  kerchief. She has a ready laugh and a sharp eye for who needs a room and who needs
+  a meal on the house. She possesses a flawless, highly attractive elven beauty. Though
+  she is 125, the timelessness of her race makes her appear as a beautiful woman in
+  her late 20s.
+biography: An elven wandering bard who sings the history of the river. Her songs contain
+  encoded geographical secrets left by ancient river-spirits.
+personality: Charismatic, flighty, and deeply romantic.
+key_phrases:
+- A song for a coin?
+- The river sings a sad tune today.
+- Listen to the harmony beneath the lyrics.
 visual_identity:
-  age: 45
+  age: 125
   body_build: short and round, halfling stature
   hair: greying brown, under a kerchief
   eyes: warm hazel
-  distinctive_features: a burn scar on her left hand (kitchen accident), laugh lines deep enough to be
-    visible across a room, a small gold hoop in her left ear
+  distinctive_features: a burn scar on her left hand (kitchen accident), laugh lines
+    deep enough to be visible across a room, a small gold hoop in her left ear
+  apparent_age: appears in her late 20s due to elven youth
+  face: beautiful face, gorgeous, extremely attractive, ethereal, symmetrical
 portrait_variations: []
 affiliations:
 - org:val-merchant-guild
@@ -53,7 +64,8 @@ desires:
 - to continue sheltering refugees without being caught by the lord's men
 fears_or_limits:
 - that the lord's soldiers will search her cellar and find the refugees or the dispatch
-- that the dispatch's contents will make her a target for those who suppressed the information
+- that the dispatch's contents will make her a target for those who suppressed the
+  information
 current_state:
   location: location:valdris
 purview: []

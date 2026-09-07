@@ -7,57 +7,44 @@ gm_notes: Amara is the person who connects Verdania to the outside world. Her bo
   offerings to are restless. She carries mail, news, and goods between the jungle edge and the river capital.
   She is also Kaa's cousin and has been trying to get him to stop drinking and tell her what he found.
 aliases: []
-race: Mizuhito
-gender: Female
-heritage: River-folk
-social_station: Merchant
+race: ''
+gender: ''
+heritage: ''
+social_station: ''
 role: River trader, river-folk
-proficient_skills:
-- Vehicles (Water)
-- Nature
-- Insight
+proficient_skills: []
 stats:
-  level: 4
-  hp: 35
-  mana: 10
-  stamina: 50
-  speed: 30
-  defense: 12
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
   attributes:
-    STR: 14
-    DEX: 13
-    CON: 15
-    INT: 11
-    WIS: 14
-    CHA: 12
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
 currency:
-  gold: 15
-  silver: 40
+  gold: 0
+  silver: 0
   copper: 0
 appearance: A stocky river-folk woman in waterproof river-cloth, her blue-green skin wind-dried and sun-darkened.
   She poles her boat with a strength that surprises people who judge by her height. She wears a necklace
-  of river-stones, one for each year on the water. Beneath her weathered exterior, she has a rugged, undeniable
-  beauty, possessing strong, captivating features shaped by the elements.
-biography: Amara has spent her entire life navigating the winding currents between Mist Falls and Iara.
-  Acting as the lifeline of Verdania, she carries not only goods but the lifeblood of communication. Recently,
-  the changing tides and the disturbing silence of her cousin Kaa have forced her to realize that the river
-  is carrying a new, dangerous undercurrent.
-personality: Practical, no-nonsense, and fiercely loyal to her family. She is deeply attuned to the natural
-  world and treats the river spirits with pragmatic respect, valuing hard work and direct honesty above
-  all else.
-key_phrases:
-- "The river doesn't care if you're in a hurry."
-- "Spirits are restless, meaning the water will be too."
-- "Kaa, put the bottle down and tell me what you saw."
+  of river-stones, one for each year on the water.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
-  age: 42
-  body_build: masterpiece, highly detailed, beautifully proportioned, fit, stocky, strong, aesthetic body
+  age: early forties
+  body_build: stocky, strong
   skin: blue-green, sun-darkened
-  hair: dark green, braided tight, high quality texture
-  eyes: teal, sparkling eyes, deep gaze, highly detailed eyes
+  hair: dark green, braided tight
+  eyes: teal
   distinctive_features: webbed hands, a necklace of seventeen river-stones, a faded tattoo of a river-spirit
     sigil on the left shoulder
-  face: beautiful face, gorgeous, extremely attractive, rugged, symmetrical, masterpiece
 portrait_variations: []
 affiliations:
 - org:ver-river-consortium

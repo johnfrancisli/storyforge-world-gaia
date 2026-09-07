@@ -9,55 +9,43 @@ gm_notes: Nana can heal wounds that should be fatal using a technique taught to 
   the clan is keeping quiet.
 aliases:
 - 'Nana'
-race: Human
-gender: Female
-heritage: Tsukuyomi
-social_station: Commoner
+race: ''
+gender: ''
+heritage: ''
+social_station: ''
 role: Herbalist and healer
-proficient_skills:
-- Medicine
-- Nature
-- Survival
+proficient_skills: []
 stats:
-  level: 6
-  hp: 25
-  mana: 40
-  stamina: 30
-  speed: 25
-  defense: 12
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
   attributes:
-    STR: 9
-    DEX: 13
-    CON: 11
-    INT: 15
-    WIS: 18
-    CHA: 14
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
 currency:
-  gold: 4
-  silver: 65
-  copper: 30
+  gold: 0
+  silver: 0
+  copper: 0
 appearance: She wears a plain brown kimono with deep pockets full of dried herbs and packets of powder.
   Her hands are stained green from tincture work. She smells of menthol, ginger, and damp earth, and she
-  moves with the unhurried calm of someone who has seen every kind of injury. Despite her age, she has
-  a strikingly elegant, mature beauty, with highly attractive features that project profound warmth.
-biography: Living on the fringes of Tsukuyomi society, Nana inherited forbidden medical knowledge passed
-  down from a yokai spirit. For decades, she has quietly performed miracles the official shrines cannot
-  explain, operating a sanctuary for the desperate and the hunted. Her quiet life is currently threatened
-  by a mysterious wounded retainer she has taken in.
-personality: Calm, deeply empathetic, and entirely unimpressed by titles or threats. She possesses a dry
-  wit and a maternal sternness, treating warlords and peasants with exactly the same level of care.
-key_phrases:
-- "Drink this. It will taste terrible, but you will live."
-- "The mountain provides, if you know how to ask."
-- "I do not care about your clan, only your bleeding."
+  moves with the unhurried calm of someone who has seen every kind of injury.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
-  age: 58
-  body_build: masterpiece, highly detailed, beautifully proportioned, fit, weathered, wiry, aesthetic body
-  hair: iron grey, thick, braided and coiled, high quality texture
-  eyes: dark brown, crow's feet at the corners, sparkling eyes, deep gaze, highly detailed eyes
+  age: late fifties
+  body_build: weathered, wiry
+  hair: iron grey, thick, braided and coiled
+  eyes: dark brown, crow's feet at the corners
   distinctive_features: a network of faint scars across both hands from decades of working with thorny
     and caustic plants
-  face: beautiful face, gorgeous, extremely attractive, elegant mature beauty, symmetrical, masterpiece
 portrait_variations: []
 affiliations:
 - org:ashikara-shogunate

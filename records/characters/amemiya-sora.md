@@ -7,54 +7,41 @@ gm_notes: Sora has been offered a position at the Great Shrine in Tsuki-no-Miyak
   — she says she simply likes the mountains.
 aliases:
 - 'Miko Sora'
-race: Human
-gender: Female
-heritage: Ashikara
-social_station: Shrine Keeper
+race: ''
+gender: ''
+heritage: ''
+social_station: ''
 role: Shrine keeper (miko)
-proficient_skills:
-- Religion
-- Insight
-- Nature
+proficient_skills: []
 stats:
-  level: 4
-  hp: 20
-  mana: 40
-  stamina: 25
-  speed: 30
-  defense: 10
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
   attributes:
-    STR: 9
-    DEX: 12
-    CON: 11
-    INT: 14
-    WIS: 16
-    CHA: 12
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
 currency:
   gold: 0
-  silver: 25
-  copper: 50
+  silver: 0
+  copper: 0
 appearance: A slight woman in shrine robes — white top, red hakama pants — with her sleeves tied back
   for work. She moves with the efficiency of someone who does the same things every day. Her hands are
-  rough from shrine maintenance, not soft from prayer. Beneath the simplicity of her work clothes, she
-  possesses a profoundly captivating, pure beauty, highly attractive with serene, symmetrical features.
-biography: A dedicated shrine maiden, Sora has repeatedly turned down prestigious positions in the capital
-  to remain in her quiet mountain town. She quietly shoulders the burden of maintaining the weakening wards
-  along the Cedar Road, carrying a secret, terrifying conviction that the entire spiritual network of the
-  Shogunate is beginning to fail.
-personality: Serene, efficient, and deeply stubborn. She projects the calm authority of a spiritual leader,
-  hiding her profound anxieties behind the comforting rhythm of daily ritual.
-key_phrases:
-- "The mountain is quiet today. Let us keep it that way."
-- "A swept path keeps the shadows away."
-- "The capital has enough prayers. They need them here."
+  rough from shrine maintenance, not soft from prayer.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
-  age: 28
-  body_build: masterpiece, highly detailed, beautifully proportioned, fit, slight, efficient, aesthetic body
-  hair: black, long, tied back with a white ribbon, high quality texture
-  eyes: brown, sparkling eyes, deep gaze, highly detailed eyes
+  age: late twenties
+  hair: black, long, tied back with a white ribbon
+  eyes: brown
   distinctive_features: a small burn scar on her right wrist from a mishandled ofuda
-  face: beautiful face, gorgeous, extremely attractive, pure serene beauty, symmetrical, masterpiece
 portrait_variations: []
 affiliations:
 - org:ashikara-shogunate

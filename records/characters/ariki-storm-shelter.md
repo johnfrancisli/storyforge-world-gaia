@@ -14,57 +14,44 @@ gm_notes: 'Ariki was the chief of a small island that submerged two years ago. S
   in place before she announces it.'
 aliases:
 - 'Ariki Lost-Chief'
-race: Human
-gender: Female
-heritage: Tide Archipelago
-social_station: Chief (Exiled/Refugee)
+race: ''
+gender: ''
+heritage: ''
+social_station: ''
 role: Refugee and former chief
-proficient_skills:
-- Diplomacy
-- Insight
-- Leadership
+proficient_skills: []
 stats:
-  level: 6
-  hp: 25
-  mana: 15
-  stamina: 30
-  speed: 25
-  defense: 11
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
   attributes:
-    STR: 9
-    DEX: 10
-    CON: 11
-    INT: 15
-    WIS: 16
-    CHA: 16
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
 currency:
   gold: 0
-  silver: 10
-  copper: 50
+  silver: 0
+  copper: 0
 appearance: A dignified, composed woman who carries herself with a chief's bearing even in refugee cloth.
   She is always in conversation, always building relationships, always listening more than she speaks.
-  Even in her displacement, she possesses a commanding, regal beauty, highly attractive with sharp and
-  intelligent features.
-biography: Once the proud ruler of an island claimed by the rising tides, Ariki now lives among the refugees
-  of Lani Atoll. Stripped of her land but not her title, she has been secretly organizing a massive coalition
-  of doomed islands. She intends to forge a new nation from the refugees, navigating a political minefield
-  to ensure her people have a future.
-personality: Calm, incredibly observant, and fiercely determined. She masks her sharp political maneuvering
-  behind the guise of a helpful, quiet elder, carefully arranging the pieces of her grand survival plan.
-key_phrases:
-- "Land is just dirt; a tribe is its people."
-- "The tide takes, but we decide what we build next."
-- "Let them think I am just an old woman."
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
-  age: 55
-  body_build: masterpiece, highly detailed, beautifully proportioned, fit, dignified, composed, straight-backed, aesthetic body
+  age: fifty-five
+  body_build: dignified, composed, straight-backed
   skin: deep brown
-  hair: black, greying, worn in a chief's style despite her refugee status, high quality texture
-  eyes: dark brown, steady, sparkling eyes, deep gaze, highly detailed eyes
+  hair: black, greying, worn in a chief's style despite her refugee status
+  eyes: dark brown, steady
   distinctive_features: a chief's whale-bone pendant — the only remnant of her island, worn openly, a
     quality of authority that persists even in donated cloth, a habit of counting people — always knowing
     exactly how many are in a room and who they are
-  face: beautiful face, gorgeous, extremely attractive, regal mature beauty, symmetrical, masterpiece
 portrait_variations: []
 affiliations:
 - org:tide-refugee-council

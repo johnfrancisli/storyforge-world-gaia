@@ -11,55 +11,43 @@ gm_notes: 'Alvilda is a sail maker who works under Thora, learning the craft. He
   material but a seidr substance — and that knowledge could either save the sail-making tradition or destroy
   it.'
 aliases: []
-race: Human
-gender: Female
-heritage: Northlander
-social_station: Apprentice
+race: ''
+gender: ''
+heritage: ''
+social_station: ''
 role: Sail Maker (Apprentice)
-proficient_skills:
-- Crafting (Tailoring)
-- Investigation
-- Perception
+proficient_skills: []
 stats:
-  level: 2
-  hp: 15
-  mana: 10
-  stamina: 25
-  speed: 30
-  defense: 10
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
   attributes:
-    STR: 10
-    DEX: 15
-    CON: 11
-    INT: 13
-    WIS: 10
-    CHA: 12
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
 currency:
   gold: 0
-  silver: 10
-  copper: 50
+  silver: 0
+  copper: 0
 appearance: Young and bright-eyed, Alvilda wears a canvas apron over practical wool, her hands already
   showing the calluses of the sail loft. She is quicker to smile than her master and quicker to ask questions,
-  which Thora sometimes appreciates and sometimes endures. She has an undeniably cute, fresh-faced beauty,
-  with highly attractive features that radiate youthful energy.
-biography: Born in the frostbitten Northlands, Alvilda secured a coveted apprenticeship under the master
-  sailmaker Thora. Eager and deeply curious, her natural talent with the needle is overshadowed only by
-  her insatiable desire to unravel the secrets of her master's craft, a curiosity that is leading her
-  perilously close to old, forbidden magic.
-personality: Bright, inquisitive, and occasionally reckless. She lacks the caution of experience, believing
-  that knowledge is always a tool and never a weapon. She approaches her craft with relentless enthusiasm.
-key_phrases:
-- "Master Thora, what does this thread bind?"
-- "A sail must catch the wind, but the thread must hold the spirit."
-- "I only wanted to see how it was made."
+  which Thora sometimes appreciates and sometimes endures.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 19
-  body_build: masterpiece, highly detailed, beautifully proportioned, fit, tall and lean, still filling out, aesthetic body
-  hair: red-gold, worn in a single braid, flowing, high quality texture
-  eyes: bright green, curious and quick, sparkling eyes, deep gaze, highly detailed eyes
+  body_build: tall and lean, still filling out
+  hair: red-gold, worn in a single braid
+  eyes: bright green, curious and quick
   distinctive_features: a spray of freckles across nose and cheeks, a small callus on her right palm from
     the sail needle
-  face: beautiful face, gorgeous, extremely attractive, cute, symmetrical, masterpiece
 portrait_variations: []
 affiliations:
 - org:hra-volur-coven

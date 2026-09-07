@@ -8,56 +8,42 @@ gm_notes: 'Aldric is a retired knight of the Dragon Order who lost his bonded dr
   he has not felt in twenty years. He fears he is losing his mind, or that a new dragon has somehow chosen
   him from across the mountains.'
 aliases: []
-race: Human
-gender: Male
-heritage: Valdris
-social_station: Knight (Retired)
+race: ''
+gender: ''
+heritage: ''
+social_station: ''
 role: Retired Knight / Weapons Trainer
-proficient_skills:
-- Martial Weapons
-- Tactics
-- Lore (Dragons)
+proficient_skills: []
 stats:
-  level: 8
-  hp: 70
-  mana: 15
-  stamina: 60
-  speed: 25
-  defense: 15
+  level: null
+  hp: null
+  mana: null
+  stamina: null
+  speed: null
+  defense: null
   attributes:
-    STR: 16
-    DEX: 12
-    CON: 14
-    INT: 11
-    WIS: 13
-    CHA: 12
+    STR: null
+    DEX: null
+    CON: null
+    INT: null
+    WIS: null
+    CHA: null
 currency:
-  gold: 20
-  silver: 50
+  gold: 0
+  silver: 0
   copper: 0
 appearance: Grey-bearded and scarred, Aldric wears a faded Dragon Order tabard over chainmail. He favours
-  his left leg, an old injury, and his right hand trembles slightly — a remnant of bond-sickness. Despite
-  his scars, he carries a rugged, highly attractive and handsome masculine appeal, a grizzled veteran whose
-  aesthetics command respect.
-biography: Once a proud knight of the Dragon Order, Aldric's life fractured when his bonded dragon fell
-  in battle two decades ago. The resulting bond-breaking trauma forced his retirement. He now dedicates
-  his life to training the next generation of squires in Dragonrest, quietly suffering the phantom pains
-  of a bond that refuses to fully fade.
-personality: Gruff, disciplined, and outwardly stoic. He is demanding of his squires because he knows
-  the lethal cost of a mistake. Beneath his hard exterior lies a profound sorrow and a secret, terrifying
-  hope regarding the new sensations stirring in his mind.
-key_phrases:
-- "Your blade must be an extension of your intent, not just your arm."
-- "The sky remembers."
-- "Pain is just a teacher who doesn't hold back."
+  his left leg, an old injury, and his right hand trembles slightly — a remnant of bond-sickness.
+biography: ''
+personality: ''
+key_phrases: []
 visual_identity:
   age: 58
-  body_build: masterpiece, highly detailed, beautifully proportioned, fit, broad and battle-worn, muscular, aesthetic body
-  hair: grey, cropped close, beard full and braided, high quality texture
-  eyes: pale blue, sparkling eyes, deep gaze, highly detailed eyes
+  body_build: broad and battle-worn, once muscular now thickening
+  hair: grey, cropped close, beard full and braided
+  eyes: pale blue
   distinctive_features: a dragon-scale burn scar covering his right hand and forearm, a limp on the left
     leg from a shattered knee
-  face: handsome face, gorgeous, extremely attractive, rugged, symmetrical, masterpiece
 portrait_variations: []
 affiliations:
 - org:dragon-order
