@@ -12,44 +12,58 @@ gm_notes: 'An herbalist who grows plants that should not survive in the desert â
   has been quietly studying the clause, wondering if the binding families'' hoarding of water might justify
   using the plants against them.'
 aliases: []
-race: ''
-gender: ''
-heritage: ''
-social_station: ''
+race: Human
+gender: Female
+heritage: Al-Khayzar
+social_station: Artisan
 role: Herbalist, garden-keeper, contract-bearer
-proficient_skills: []
+proficient_skills:
+- Herbalism
+- Medicine
+- Lore (Djinn Contracts)
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 4
+  hp: 25
+  mana: 40
+  stamina: 30
+  speed: 30
+  defense: 10
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 11
+    DEX: 12
+    CON: 11
+    INT: 15
+    WIS: 16
+    CHA: 12
 currency:
   gold: 0
   silver: 0
   copper: 0
 appearance: Gentle and earth-stained in a gardener's loose robes, she moves among her plants with a healer's
   careful touch. She always has leaves in her hair and dirt on her knees. Her garden is cool and damp,
-  an oasis within the oasis.
-biography: ''
-personality: ''
-key_phrases: []
+  an oasis within the oasis. She possesses a natural, earthy beauty, with captivatingly gentle and wonderfully
+  symmetrical features that draw the eye.
+biography: Born into a long line of garden-keepers, Afaf grew up learning the subtle languages of roots
+  and soil. She inherited the responsibility of tending the impossible oasis in the heart of the desert,
+  a duty bound by an ancient djinn contract. The discovery of a hidden clay tablet beneath the oldest
+  planter box has thrown her quiet life into a quiet turmoil, forcing her to confront the political power
+  hoarding of the founding families.
+personality: Calm, patient, and deeply thoughtful, Afaf tends to both her plants and her secrets with meticulous
+  care. She carries an air of quiet rebellion beneath her gentle exterior, weighing the profound implications
+  of the power she might unleash.
+key_phrases:
+- "The earth remembers old promises."
+- "Even the desert yields to water, in time."
+- "There are secrets buried deeper than roots."
 visual_identity:
   age: 33
-  body_build: medium, strong from garden work
-  hair: dark brown, long, always with leaves caught in it
-  eyes: green, soft
+  body_build: masterpiece, highly detailed, beautifully proportioned, fit, strong from garden work, aesthetic body
+  hair: dark brown, long, always with leaves caught in it, flowing, high quality texture
+  eyes: green, soft, sparkling eyes, deep gaze, highly detailed eyes
   distinctive_features:
   - green-stained fingertips from plant work
   - a faint watering-can-shaped burn scar on the left wrist from steam
+  face: beautiful face, gorgeous, extremely attractive, symmetrical, masterpiece
 portrait_variations: []
 affiliations:
 - org:alk-scholar-circle

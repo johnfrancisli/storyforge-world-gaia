@@ -11,44 +11,57 @@ gm_notes: A Mizuhito canoe maker who builds the vessels that carry the river-cit
   losing her sense of taste. She has not told anyone because without her canoes, the river-cities' trade
   and defense would suffer, and she does not know if anyone else can learn the technique.
 aliases: []
-race: ''
-gender: ''
-heritage: ''
-social_station: ''
+race: Mizuhito
+gender: Female
+heritage: River-folk
+social_station: Artisan
 role: Canoe maker and spirit-binder
-proficient_skills: []
+proficient_skills:
+- Crafting (Woodworking)
+- Spirit Binding
+- Lore (River Spirits)
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 6
+  hp: 20
+  mana: 45
+  stamina: 25
+  speed: 30
+  defense: 11
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 12
+    DEX: 15
+    CON: 9
+    INT: 13
+    WIS: 16
+    CHA: 11
 currency:
   gold: 0
   silver: 0
   copper: 0
 appearance: Quiet and precise, with the careful hands of a craftsperson. Works on the riverbank among
-  half-finished hulls. Paler than most Mizuhito, with a translucent quality to her skin.
-biography: ''
-personality: ''
-key_phrases: []
+  half-finished hulls. Paler than most Mizuhito, with a translucent quality to her skin. Her features possess
+  a deeply captivating, fragile beauty, highly attractive and delicate.
+biography: Água grew up on the riverbanks of Iara, learning the sacred art of canoe crafting from the previous
+  generation of builders. She discovered a forbidden technique of spirit-binding that allowed her to create
+  unparalleled vessels. For years, she has quietly sacrificed pieces of her own soul to fortify the river-cities,
+  a burden she carries alone as her physical strength slowly wanes.
+personality: Gentle, introspective, and profoundly dedicated. She moves with a quiet grace, masking the
+  deep weariness that shadows her every motion. She is selfless to a fault, valuing her community's safety
+  over her own life.
+key_phrases:
+- "The river knows where it needs to go; the boat only has to listen."
+- "Every creation takes a piece of you."
+- "I just need to finish this one."
 visual_identity:
   age: 43
-  body_build: medium and precise, craftsman's hands
-  hair: dark blue-green, thinning, worn loose
-  eyes: pale aquamarine, tired
+  body_build: masterpiece, highly detailed, beautifully proportioned, fit, medium and precise, aesthetic body
+  hair: dark blue-green, thinning, worn loose, flowing, luminous, high quality texture
+  eyes: pale aquamarine, tired, sparkling eyes, deep gaze, highly detailed eyes
   distinctive_features:
   - pale blue-green skin, noticeably lighter than typical Mizuhito coloration
   - webbed fingers and toes
   - fine sawdust and wood-chip scarring on both hands from adze work
+  face: beautiful face, gorgeous, extremely attractive, symmetrical, masterpiece
 portrait_variations: []
 affiliations:
 - org:ver-river-consortium
