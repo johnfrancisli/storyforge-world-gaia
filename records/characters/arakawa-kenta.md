@@ -11,42 +11,53 @@ gm_notes: Kenta is Chiyo's (character:kobayashi-chiyo) best friend and the only 
   the sealed stone.
 aliases:
 - 'Kenta'
-race: ''
-gender: ''
-heritage: ''
-social_station: ''
+race: Human
+gender: Male
+heritage: Ashikara
+social_station: Commoner
 role: Child
-proficient_skills: []
+proficient_skills:
+- Stealth
+- Acrobatics
+- Survival
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 1
+  hp: 10
+  mana: 0
+  stamina: 20
+  speed: 30
+  defense: 8
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 7
+    DEX: 12
+    CON: 9
+    INT: 10
+    WIS: 9
+    CHA: 11
 currency:
   gold: 0
   silver: 0
-  copper: 0
+  copper: 5
 appearance: He wears a plain boy's kimono with a cloth satchel slung across one shoulder. He has scrapes
   on his knees from climbing and a slingshot tucked in his sash. He walks with the squared shoulders of
-  someone trying to look older than he is.
-biography: ''
-personality: ''
-key_phrases: []
+  someone trying to look older than he is. He possesses a youthful, highly attractive, charming appearance
+  with striking and expressive features.
+biography: A practical boy growing up in Haru's Shrine Town, Kenta's life revolves around protecting his
+  friend Chiyo. While he cannot see the spirits she talks about, his loyalty is absolute. Unknowingly carrying
+  a fading magical ward, he stands as the only barrier between Chiyo and an ancient, terrifying shadow.
+personality: Brave, fiercely loyal, and fiercely practical. He acts tougher than he is to protect those
+  he cares about, firmly grounding Chiyo's spiritual terrors in the physical world.
+key_phrases:
+- "If it tries to grab you, I'll hit it with a rock. A big rock."
+- "I don't need to see it to know you're scared of it."
+- "Stay behind me."
 visual_identity:
-  age: twelve
-  body_build: lean, growing fast
-  hair: black, cropped short
-  eyes: dark brown, serious
+  age: 12
+  body_build: masterpiece, highly detailed, beautifully proportioned, lean, growing fast, athletic boy, aesthetic body
+  hair: black, cropped short, high quality texture
+  eyes: dark brown, serious, sparkling eyes, deep gaze, highly detailed eyes
   distinctive_features: a chipped left canine tooth
+  face: beautiful face, gorgeous, extremely attractive, youthful charm, symmetrical, masterpiece
 portrait_variations: []
 affiliations:
 - org:ashikara-shogunate

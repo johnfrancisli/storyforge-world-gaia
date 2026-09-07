@@ -10,44 +10,56 @@ gm_notes: 'A water finder who can locate underground aquifers by walking barefoo
   to keep this secret and claim the remaining western aquifer exclusively. Amira is torn between the fortune
   they offer for her silence and the thousands in the eastern quarters who will thirst.'
 aliases: []
-race: ''
-gender: ''
-heritage: ''
-social_station: ''
+race: Human
+gender: Female
+heritage: Desert Nomad
+social_station: Artisan
 role: Water finder, dowser
-proficient_skills: []
+proficient_skills:
+- Survival
+- Perception
+- Nature
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 4
+  hp: 25
+  mana: 30
+  stamina: 45
+  speed: 35
+  defense: 12
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 15
+    CON: 14
+    INT: 12
+    WIS: 17
+    CHA: 11
 currency:
-  gold: 0
-  silver: 0
+  gold: 5
+  silver: 60
   copper: 0
 appearance: Weathered and barefoot in loose desert cotton, her feet toughened to leather. She walks with
   a swaying, listening gait, as if the ground speaks to her. A brass rod hangs across her back on a leather
-  cord.
-biography: ''
-personality: ''
-key_phrases: []
+  cord. Despite her rugged lifestyle, she possesses a fierce, exotic beauty, with highly attractive, sharp
+  symmetrical features shaped by the desert sun.
+biography: Born into a nomadic clan, Amira inherited a rare djinn-touched gift for dowsing. Her unique ability
+  made her highly sought after by the wealthy families of Zaffar. Her latest contract, however, revealed a
+  catastrophic truth about the city's water supply, trapping her in a deadly moral dilemma between immense
+  wealth and the survival of thousands.
+personality: Grounded, independent, and fiercely principled. She is a woman of few words, preferring to listen
+  to the earth rather than the lies of city-dwellers. She feels a profound connection to the land and its people.
+key_phrases:
+- "The sand doesn't lie, only the men who walk on it do."
+- "Water goes where it wants, not where you tell it."
+- "I can hear the deep streams."
 visual_identity:
   age: 31
-  body_build: lean and long-limbed, built for walking
-  hair: sandy brown, sun-bleached, short and practical
-  eyes: grey-green, distant
+  body_build: masterpiece, highly detailed, beautifully proportioned, fit, lean and long-limbed, built for walking, aesthetic body
+  hair: sandy brown, sun-bleached, short and practical, high quality texture
+  eyes: grey-green, distant, sparkling eyes, deep gaze, highly detailed eyes
   distinctive_features:
   - deeply callused, cracked soles visible when she sits
   - a geometric tattoo on the right ankle, a water-finder's clan mark
+  face: beautiful face, gorgeous, extremely attractive, striking desert beauty, symmetrical, masterpiece
 portrait_variations: []
 affiliations:
 - org:alk-spice-houses

@@ -9,42 +9,56 @@ gm_notes: 'King Aldran knows he is dying. He has a heart condition that his phys
   before he is ready. He is trying to buy time.'
 aliases:
 - 'King Aldran Valdris III'
-race: ''
-gender: ''
-heritage: ''
-social_station: ''
+race: Human
+gender: Male
+heritage: Royal Valdris
+social_station: King
 role: King of Valdris
-proficient_skills: []
+proficient_skills:
+- Leadership
+- Diplomacy
+- Insight
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 10
+  hp: 40
+  mana: 20
+  stamina: 30
+  speed: 25
+  defense: 14
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 12
+    DEX: 10
+    CON: 8
+    INT: 15
+    WIS: 16
+    CHA: 17
 currency:
-  gold: 0
-  silver: 0
+  gold: 500
+  silver: 1000
   copper: 0
 appearance: A tall man in royal blues and gold, his crown slightly too large for him now that he has thinned.
   He sits carefully, favors his left side, and his hands tremble slightly when he is tired. His beard
-  is white and neatly trimmed. He watches his court the way a general watches a battlefield.
-biography: ''
-personality: ''
-key_phrases: []
+  is white and neatly trimmed. He watches his court the way a general watches a battlefield. Even in his
+  decline, he possesses a striking, majestic handsome quality, an extremely attractive royal aura that
+  commands the room.
+biography: King Aldran III has ruled Valdris through an era of both peace and quiet turmoil. A warrior
+  in his youth, he transitioned into a shrewd politician as he aged. Now, facing his own mortality due
+  to a failing heart, his greatest and final battle is not on the field, but within the walls of his own
+  palace as he desperately maneuvers to prevent a succession war among his ambitious children.
+personality: Cunning, weary, but fiercely protective of his realm. He masks his physical vulnerability
+  behind a facade of regal authority, observing every whisper and glance in his court with the sharp mind
+  of a seasoned tactician.
+key_phrases:
+- "The throne is a heavy chair, nothing more."
+- "Let them argue; the quiet ones are the dangerous ones."
+- "Time is the one tax I can no longer afford to pay."
 visual_identity:
-  age: late sixties
-  body_build: tall, once powerful, now thin
-  hair: white, thinning
-  eyes: pale blue
+  age: 68
+  body_build: masterpiece, highly detailed, beautifully proportioned, tall, once powerful, now thin, aesthetic body
+  hair: white, thinning, high quality texture
+  eyes: pale blue, sparkling eyes, deep gaze, highly detailed eyes
   distinctive_features: a faded scar on the right brow from an old battle wound
+  face: handsome face, gorgeous, extremely attractive, symmetrical, majestic, masterpiece
 portrait_variations: []
 affiliations:
 - org:val-merchant-guild

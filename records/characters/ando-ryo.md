@@ -12,42 +12,55 @@ gm_notes: Ryo makes paper lanterns using fragments of old ofuda — spirit wards
   ofuda, he'll be arrested and the mini-wards will collapse.
 aliases:
 - 'Ryo'
-race: ''
-gender: ''
-heritage: ''
-social_station: ''
+race: Human
+gender: Male
+heritage: Ashikara
+social_station: Artisan
 role: Lantern maker (chochin-shi)
-proficient_skills: []
+proficient_skills:
+- Crafting
+- Sleight of Hand
+- Stealth
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 3
+  hp: 20
+  mana: 25
+  stamina: 30
+  speed: 30
+  defense: 10
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 10
+    DEX: 16
+    CON: 11
+    INT: 14
+    WIS: 15
+    CHA: 12
 currency:
-  gold: 0
-  silver: 0
-  copper: 0
+  gold: 2
+  silver: 45
+  copper: 80
 appearance: He wears a craftsman's apron over a simple kimono, his hands nimble with bamboo and paper.
   He works surrounded by half-finished lantern frames in every color. He is quiet, meticulous, and has
-  a habit of checking where his lanterns are hung when he walks the market street at night.
-biography: ''
-personality: ''
-key_phrases: []
+  a habit of checking where his lanterns are hung when he walks the market street at night. He possesses
+  a refined, highly attractive masculine beauty, with beautifully symmetrical features that he tries to
+  downplay.
+biography: Once a low-ranking acolyte who lost his position, Ryo turned to lantern-making to survive.
+  Unable to bear the thought of sacred ofuda being destroyed, he began secretly weaving them into his
+  crafts. Over time, he unknowingly became the unsung protector of the capital's merchant district, a
+  vigilante of paper and light now hunted by the very authorities he once served.
+personality: Calm, meticulous, and deeply caring. He speaks softly and avoids drawing attention to himself,
+  masking his constant, low-level anxiety regarding the shrine investigators.
+key_phrases:
+- "Light keeps the shadows honest."
+- "A good lantern is more than just bamboo."
+- "I am just a craftsman, nothing more."
 visual_identity:
-  age: mid-thirties
-  body_build: medium, precise in movement
-  hair: black, in a simple topknot
-  eyes: dark brown, focused
+  age: 35
+  body_build: masterpiece, highly detailed, beautifully proportioned, fit, medium, precise in movement, aesthetic body
+  hair: black, in a simple topknot, high quality texture
+  eyes: dark brown, focused, sparkling eyes, deep gaze, highly detailed eyes
   distinctive_features: paper-cut calluses on both thumbs and a faint glue stain on the left forearm
+  face: handsome face, gorgeous, extremely attractive, symmetrical, masterpiece
 portrait_variations: []
 affiliations:
 - org:ashikara-shogunate
