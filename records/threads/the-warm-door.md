@@ -8,9 +8,9 @@ stakes: If the door is opening on its own, something is changing beneath the wor
   volva, and shamans — is frightened.
 pressure: rising
 participants:
-- character:kaa-night-pelt
+- character:kaa
 - character:voss-alemann
-- character:nara-stillwater
+- character:nara
 - character:jian-yi
 - character:helga-rune-sight
 locations:

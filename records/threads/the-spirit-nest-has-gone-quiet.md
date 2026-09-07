@@ -8,9 +8,9 @@ stakes: If the spirit-pacts are truly broken, every ceremonial artisan, hunter, 
   or a door.
 pressure: breaking
 participants:
-- character:yara-moonflower
-- character:folha-green-laughs
-- character:zel-stone-watch
+- character:yara
+- character:folha
+- character:zel
 locations:
 - location:ver-altacanopy-spiritnest
 - location:ver-altacanopy-canopysevenhall
@@ -22,4 +22,4 @@ visual:
   prompt: ''
 ---
 
-[[location:ver-altacanopy-spiritnest|The Spirit Nest]], the heart of [[location:ver-altacanopy|Alta Canopy]] where the canopy-dwellers go to receive their spirit-pacts, has been silent for a full cycle of the moon. Elder shaman [[character:yara-moonflower|Yara Moonflower]], who tends the Nest, reports that the guiding spirits have not answered a single summons—not even the minor ones that answer children. [[location:ver-altacanopy-canopysevenhall|The Seven Boughs Hall]] has convened an emergency council, but the Hanging Gate, the rope-bridge entrance to the canopy city, has begun swaying even on windless days, as if something is testing it from below. Young spirit-host [[character:folha-green-laughs|Folha Green-Laughs]] has begun speaking in a voice that is not his own during his sleep.
+[[location:ver-altacanopy-spiritnest|The Spirit Nest]], the heart of [[location:ver-altacanopy|Alta Canopy]] where the canopy-dwellers go to receive their spirit-pacts, has been silent for a full cycle of the moon. Elder shaman [[character:yara|Yara]], who tends the Nest, reports that the guiding spirits have not answered a single summons—not even the minor ones that answer children. [[location:ver-altacanopy-canopysevenhall|The Seven Boughs Hall]] has convened an emergency council, but the Hanging Gate, the rope-bridge entrance to the canopy city, has begun swaying even on windless days, as if something is testing it from below. Young spirit-host [[character:folha|Folha]] has begun speaking in a voice that is not his own during his sleep.

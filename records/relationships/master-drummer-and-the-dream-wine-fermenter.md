@@ -2,8 +2,8 @@
 id: relationship:tukano-and-cacau
 name: Master drummer and the dream-wine fermenter
 participants:
-- character:tukano-thunder-drum
-- character:cacau-ferments-the-night
+- character:tukano
+- character:cacau
 association: friendship
 public_status: The master drummer and the dream-wine maker are known to collaborate on tribal rituals
   — his drums set the rhythm, her dream-wine opens the vision.

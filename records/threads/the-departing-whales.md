@@ -7,8 +7,8 @@ stakes: If the whales leave, the Archipelago loses its oldest allies and voyagin
   south is connected to the same force that is opening doors and frightening spirits across the world.
 pressure: rising
 participants:
-- character:fin-deep-voice
-- character:kai-far-horizon
+- character:fin
+- character:kai
 locations:
 - location:tide-archipelago
 - location:lani-atoll

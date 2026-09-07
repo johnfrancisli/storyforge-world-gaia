@@ -2,8 +2,8 @@
 id: relationship:pilialoha-and-mere
 name: Kava brewer and cook
 participants:
-- character:pilialoha-kava-brew
-- character:mere-smoke-preserve
+- character:pilialoha
+- character:mere
 association: friendship
 public_status: The kava brewer and the cook are known to collaborate on feast preparations and are often
   seen at the same work fires.

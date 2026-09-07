@@ -2,8 +2,8 @@
 id: relationship:estrela-and-vento
 name: Ceremonial dancer and wind-flute player
 participants:
-- character:estrela-dance-of-stars
-- character:vento-wind-flute
+- character:estrela
+- character:vento
 association: friendship
 public_status: The ceremonial trance-dancer and the wind-flute player are known to perform together at
   tribal rituals, his melody driving her movement.

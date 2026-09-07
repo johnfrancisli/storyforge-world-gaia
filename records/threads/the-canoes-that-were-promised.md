@@ -9,9 +9,9 @@ stakes: If the council is denied its canoes, the refugees remain dependent on th
   and their hosts.
 pressure: breaking
 participants:
-- character:vanya-salt-home
-- character:lani-reef-born
-- character:solomona-drowned-home
+- character:vanya
+- character:lani
+- character:solomona
 locations:
 - location:lani-atoll
 - location:iara-floatmarket
@@ -24,4 +24,4 @@ visual:
   prompt: ''
 ---
 
-The Tide Refugee Council, representing the families displaced from the drowned outer islands, was promised ten new deep-water canoes by Chief Lani of [[location:lani-atoll|Lani Atoll]] in exchange for a season's labor rebuilding the atoll's sea-walls. The sea-walls are finished, but only four canoes have been delivered, and canoe builder [[character:solomona-drowned-home|Solomona Drowned-Home]]—a refugee himself—has been told the remaining timber was 'reallocated' to the wayfinder guilds' own fleet. Refugee council organizer [[character:vanya-salt-home|Vanya Salt-Home]] has called the allocation a breach of the council's first agreement with the atoll. Chief Lani has invited both sides to settle the matter at the Float Market before the next tide, but tempers among the displaced families are running hot.
+The Tide Refugee Council, representing the families displaced from the drowned outer islands, was promised ten new deep-water canoes by Chief Lani of [[location:lani-atoll|Lani Atoll]] in exchange for a season's labor rebuilding the atoll's sea-walls. The sea-walls are finished, but only four canoes have been delivered, and canoe builder [[character:solomona|Solomona]]—a refugee himself—has been told the remaining timber was 'reallocated' to the wayfinder guilds' own fleet. Refugee council organizer [[character:vanya|Vanya]] has called the allocation a breach of the council's first agreement with the atoll. Chief Lani has invited both sides to settle the matter at the Float Market before the next tide, but tempers among the displaced families are running hot.

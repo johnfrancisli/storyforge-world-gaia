@@ -7,8 +7,8 @@ stakes: If the rising continues, the Tide Archipelago loses its civilization wit
   the voyagers become refugees in nations that do not want them.
 pressure: rising
 participants:
-- character:kai-far-horizon
-- character:nara-stillwater
+- character:kai
+- character:nara
 locations:
 - location:tide-archipelago
 - location:lani-atoll

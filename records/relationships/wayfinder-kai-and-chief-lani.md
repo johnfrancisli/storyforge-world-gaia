@@ -1,9 +1,9 @@
 ---
 id: relationship:kai-and-lani
-name: Kai Far-Horizon and Chief Lani
+name: Kai and Chief Lani
 participants:
-- character:kai-far-horizon
-- character:lani-reef-born
+- character:kai
+- character:lani
 association: son and mother (secretly)
 public_status: A young wayfinder and the chief of Lani Atoll. They maintain professional distance in public,
   as a chief should not favor one wayfinder over others.

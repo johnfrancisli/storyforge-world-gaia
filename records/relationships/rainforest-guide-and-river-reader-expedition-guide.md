@@ -2,10 +2,10 @@
 id: relationship:boca-and-savio
 name: Rainforest guide and river-reader expedition guide
 participants:
-- character:boca-path-finder
-- character:savio-river-reader
+- character:boca
+- character:savio
 association: rivalry
-public_status: Boca Path-Finder and Sávio River-Reader are both expedition guides and are known to compete
+public_status: Boca and Sávio are both expedition guides and are known to compete
   for the same outsider contracts.
 bond: Boca knows the land; Sávio knows the water. Outsiders hire one or the other, and the two guides
   resent the lost commissions acutely. Each has deliberately fed the other bad leads at least once, and

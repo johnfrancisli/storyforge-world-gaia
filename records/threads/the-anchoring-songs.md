@@ -8,7 +8,7 @@ stakes: 'If Mana is right, the wayfinders are not just navigating the sea — th
   wrong, it is a theory that wastes precious time.'
 pressure: steady
 participants:
-- character:mana-tide-ink
+- character:mana
 locations:
 - location:lani-atoll
 - location:tide-archipelago

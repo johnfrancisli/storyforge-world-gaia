@@ -2,8 +2,8 @@
 id: relationship:iolana-and-anahera
 name: Feather worker and wood carver
 participants:
-- character:iolana-feather-gift
-- character:anahera-wood-spirit
+- character:iolana
+- character:anahera
 association: friendship
 public_status: The feather worker and the wood carver of the wayfinder guilds are known to collaborate
   on ceremonial regalia — she providing the feathers, he the carved bases.
