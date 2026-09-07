@@ -7,43 +7,55 @@ gm_notes: Aldrich's dragon, Verath, is still alive but has not spoken to him in 
   has been quietly seeking anyone who might know why a dragon goes silent.
 aliases:
 - 'Sir Aldrich Whitmore'
-race: ''
-gender: ''
-heritage: ''
-social_station: ''
+race: Human
+gender: Male
+heritage: Valdris
+social_station: Knight
 role: Dragon-bonded knight
-proficient_skills: []
+proficient_skills:
+- Martial Weapons
+- Animal Handling
+- Athletics
 stats:
-  level: null
-  hp: null
-  mana: null
-  stamina: null
-  speed: null
-  defense: null
+  level: 7
+  hp: 65
+  mana: 25
+  stamina: 55
+  speed: 30
+  defense: 16
   attributes:
-    STR: null
-    DEX: null
-    CON: null
-    INT: null
-    WIS: null
-    CHA: null
+    STR: 15
+    DEX: 12
+    CON: 14
+    INT: 12
+    WIS: 13
+    CHA: 14
 currency:
-  gold: 0
-  silver: 0
+  gold: 30
+  silver: 80
   copper: 0
 appearance: A tall, broad-shouldered man in worn knight's plate, moving with the careful weight of someone
   who knows his strength. His armor is well-maintained but old. He has the controlled stillness of a fighter
-  who does not need to prove anything.
-biography: ''
-personality: ''
-key_phrases: []
+  who does not need to prove anything. He possesses a deeply handsome, mature aesthetic, a highly attractive
+  warrior with symmetrical features.
+biography: Knighted into the Dragon Order twenty-two years ago, Aldrich was among the last to successfully
+  forge a dragon bond. He has served the realm with distinction, relying on the wisdom and strength of
+  his dragon, Verath. However, for the last three years, a terrifying silence has grown between them, forcing
+  Aldrich to carry on an elaborate charade of normalcy while desperately seeking answers.
+personality: Stoic, dependable, and deeply internal. He speaks with measured authority and projects absolute
+  confidence, compensating for the private terror of his fading connection to his dragon.
+key_phrases:
+- "We are what we protect."
+- "Silence does not mean absence."
+- "A knight's strength is in his conviction, not his sword."
 visual_identity:
-  age: mid-forties
-  body_build: broad-shouldered, still strong
+  age: 45
+  body_build: masterpiece, highly detailed, beautifully proportioned, fit, broad-shouldered, tall, strong, aesthetic body
   height: tall
-  hair: brown, greying at the temples, cropped short
-  eyes: grey
+  hair: brown, greying at the temples, cropped short, high quality texture
+  eyes: grey, sparkling eyes, deep gaze, highly detailed eyes
   distinctive_features: faint scale patches on the back of the left hand — a mark of the dragon bond
+  face: handsome face, gorgeous, extremely attractive, symmetrical, masterpiece
 portrait_variations: []
 affiliations:
 - org:dragon-order
