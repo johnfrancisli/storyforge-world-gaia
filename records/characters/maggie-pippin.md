@@ -49,7 +49,7 @@ key_phrases:
 - A warm meal and a dry bed — that's half of any problem solved.
 - I will not rest until I keep me inn running and me village safe through whatever is coming.
 visual:
-  body_build: small, round
+  body_build: small, round, large breasts
   height: short — halfling
   hair: brown, curly, greying, tied back
   eyes: hazel

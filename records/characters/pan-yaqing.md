@@ -53,7 +53,7 @@ key_phrases:
 - Some doors stay closed for a reason.
 - I will not rest until I personally confront and destroy the general who betrayed me.
 visual:
-  body_build: slender and graceful
+  body_build: slender and graceful, small breasts
   hair: long black, in elaborate court styles
   eyes: dark brown, warm on the surface, calculating beneath
   distinctive_features:

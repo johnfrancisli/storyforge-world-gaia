@@ -60,7 +60,7 @@ key_phrases:
 - The stars do not lie, but they do not explain themselves.
 - The ocean is not empty. It is full of things you cannot see.
 visual:
-  body_build: lean, quick, bright-eyed
+  body_build: lean, quick, bright-eyed, medium breasts
   skin: medium brown
   hair: black, short, wind-tossed
   eyes: very dark brown — nearly black, with a quality of absorbing light rather than reflecting it

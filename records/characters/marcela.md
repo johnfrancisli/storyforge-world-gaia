@@ -58,7 +58,7 @@ key_phrases:
 - Every caravan carries more than goods.
 - I will not rest until I understand what the shamans did to me daughter and whether it can be undone.
 visual:
-  body_build: sturdy and weathered, built for long river journeys
+  body_build: sturdy and weathered, built for long river journeys, medium breasts
   hair: greying black, braided tightly against the skull
   eyes: dark brown, sharp and calculating
   distinctive_features:

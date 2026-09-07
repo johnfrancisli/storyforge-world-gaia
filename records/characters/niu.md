@@ -59,7 +59,7 @@ key_phrases:
 - The land doesn't care about your plans.
 - Patience is the only crop that grows in any season.
 visual:
-  body_build: strong-backed, earth-handed, sun-browned
+  body_build: strong-backed, earth-handed, sun-browned, broad chest
   skin: deep brown
   hair: black, short, practical
   eyes: dark brown, worried

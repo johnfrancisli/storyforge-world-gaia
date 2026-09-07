@@ -48,7 +48,7 @@ key_phrases:
 - The best lies are the ones that feel like truth.
 - Information is the only currency that never devalues.
 visual:
-  body_build: tall and upright
+  body_build: tall and upright, medium breasts
   hair: black with early silver threads, in a general's-wife formal coiffure
   eyes: sharp black, guarded
   distinctive_features:

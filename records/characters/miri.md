@@ -55,7 +55,7 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 visual:
-  body_build: muscular and athletic, broad-shouldered and long-limbed
+  body_build: muscular and athletic, broad-shouldered and long-limbed, small breasts
   hair: short, tawny-black, spotted pattern continuing from scalp down the neck
   eyes: amber-gold, vertical pupils
   distinctive_features:

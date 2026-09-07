@@ -50,7 +50,7 @@ key_phrases:
 - Some doors stay closed for a reason.
 - I will not rest until I create a work of pure beauty with no chi manipulation whatsoever.
 visual:
-  body_build: willowy, with long expressive hands
+  body_build: willowy, with long expressive hands, small breasts
   hair: long black, loosely pinned with a brush-rest stick
   eyes: bright and dark, intensely focused
   distinctive_features:

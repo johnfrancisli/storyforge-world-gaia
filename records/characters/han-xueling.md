@@ -53,7 +53,7 @@ key_phrases:
 - Every step is a sentence. Every turn is a word.
 - I will not rest until I avenge me father without creating another orphan.
 visual:
-  body_build: lithe and flexible, dancer's physique
+  body_build: lithe and flexible, dancer's physique, small breasts
   hair: long black, worn in performance coils and cascades
   eyes: dark brown, expressive and depthless
   distinctive_features:

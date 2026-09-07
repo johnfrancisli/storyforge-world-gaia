@@ -57,7 +57,7 @@ key_phrases:
 - I see what others miss because I know what to look for.
 - The wilderness does not forgive carelessness.
 visual:
-  body_build: lean, wiry, silent in movement
+  body_build: lean, wiry, silent in movement, small breasts
   skin: medium brown, sun-darkened
   hair: black, cropped close to the skull
   eyes: pale grey — noticeably lighter than they were a year ago, and growing paler

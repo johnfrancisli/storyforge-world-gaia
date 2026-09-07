@@ -55,7 +55,7 @@ key_phrases:
 - The material tells you what it wants to become.
 - My hands remember what my mind forgets.
 visual:
-  body_build: stocky, strong-armed
+  body_build: stocky, strong-armed, medium breasts
   skin: deep tan
   hair: black, short, practical
   eyes: dark brown, kind

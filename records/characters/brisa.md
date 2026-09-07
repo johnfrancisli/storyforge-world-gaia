@@ -56,7 +56,7 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 visual:
-  body_build: compact and strong from preparing dye materials
+  body_build: compact and strong from preparing dye materials, medium breasts
   hair: black, tied back with a cord of woven fiber
   eyes: dark brown, sharply observant
   distinctive_features:

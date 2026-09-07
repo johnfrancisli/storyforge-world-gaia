@@ -55,7 +55,7 @@ key_phrases:
 - The river gives and the river takes. You learn to accept both.
 - A bad day fishing is still a day on the water.
 visual:
-  body_build: wiry, sea-worn
+  body_build: wiry, sea-worn, narrow chest
   hair: grey, thin, under a knit cap
   eyes: pale brown, bloodshot
   distinctive_features: a rope-scar around the right wrist and a permanently crooked left ring finger

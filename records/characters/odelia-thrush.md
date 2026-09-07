@@ -48,7 +48,7 @@ key_phrases:
 - The work comes first. Everything else can wait.
 - I will not rest until I find a way out of me spy contract without being killed by me handler.
 visual:
-  body_build: slender and expressive
+  body_build: slender and expressive, small breasts
   hair: honey-blonde, long, worn loose or in a quick braid
   eyes: green
   distinctive_features: a lutenist's callus on her left fingertips, a small scar on her lower lip (bit

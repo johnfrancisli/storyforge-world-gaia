@@ -49,7 +49,7 @@ key_phrases:
 - Some doors stay closed for a reason.
 - I will not rest until I forget the dying man's words and go back to just making noodles.
 visual:
-  body_build: short and round-bellied
+  body_build: short and round-bellied, average chest
   hair: mostly bald with a fringe of gray
   eyes: small, brown, crinkled with laugh lines
   distinctive_features:

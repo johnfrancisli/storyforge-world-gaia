@@ -57,7 +57,7 @@ key_phrases:
 - Some doors stay closed for a reason.
 - I will not rest until I save me friend from whatever is possessing or cursing him.
 visual:
-  body_build: large and heavily muscled, built for presence and endurance
+  body_build: large and heavily muscled, built for presence and endurance, average chest
   hair: tawny-black with heavy rosette spotting from scalp to shoulders
   eyes: amber, vertical-pupiled, reflecting light in darkness
   distinctive_features:

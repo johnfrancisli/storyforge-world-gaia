@@ -54,7 +54,7 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 visual:
-  body_build: lean and long-limbed, built for stalking and endurance
+  body_build: lean and long-limbed, built for stalking and endurance, small breasts
   hair: pale blonde, worn in a single tight braid
   eyes: pale green, sharp and steady
   distinctive_features: frost-scar on her right cheek, a crooked nose (broken and healed), a bow-callus

@@ -58,7 +58,7 @@ key_phrases:
 - The material tells you what it wants to become.
 - My hands remember what my mind forgets.
 visual:
-  body_build: solid, strong-handed, plain
+  body_build: solid, strong-handed, plain, large breasts
   skin: medium brown, wood-stained
   hair: black, short, practical
   eyes: dark brown, troubled

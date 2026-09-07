@@ -57,7 +57,7 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 visual:
-  body_build: medium height, broad and solid, built to stand firm
+  body_build: medium height, broad and solid, built to stand firm, medium breasts
   hair: red-gold, cropped short
   eyes: grey, level and unblinking
   distinctive_features: a scar across her left eyebrow (sword cut), a guard's tattoo of a raven on her

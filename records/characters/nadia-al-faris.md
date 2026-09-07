@@ -54,7 +54,7 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 visual:
-  body_build: tall and upright, unbowed by age
+  body_build: tall and upright, unbowed by age, medium breasts
   hair: silver-white, worn in a braided crown
   eyes: deep brown, sharp and watchful
   distinctive_features:

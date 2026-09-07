@@ -62,7 +62,7 @@ key_phrases:
 - The river gives and the river takes. You learn to accept both.
 - A bad day fishing is still a day on the water.
 visual:
-  body_build: compact, weathered, unremarkable
+  body_build: compact, weathered, unremarkable, average chest
   skin: deep brown, sun-darkened
   hair: black, short, salt-stiffened
   eyes: dark brown — the same sharp watchfulness as his mother, though he hides it better

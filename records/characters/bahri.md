@@ -56,7 +56,7 @@ key_phrases:
 - Some doors stay closed for a reason.
 - I will not rest until I understand what lives in the cave passage and what it wants.
 visual:
-  body_build: sleek and powerful, compact swimmer's build
+  body_build: sleek and powerful, compact swimmer's build, broad chest
   hair: short dense brown fur covering the entire body
   eyes: dark, bright, round, with an irrepressible cheerfulness
   distinctive_features:

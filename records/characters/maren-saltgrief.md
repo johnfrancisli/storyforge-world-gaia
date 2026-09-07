@@ -53,7 +53,7 @@ key_phrases:
 - The sea doesn't negotiate. You learn her rules or you drown.
 - A still day on the water is a gift, not a promise.
 visual:
-  body_build: wiry and tall, built for the open deck
+  body_build: wiry and tall, built for the open deck, small breasts
   hair: pale blonde, bleached nearly white by salt and sun, worn in two thin braids
   eyes: pale blue, slightly clouded at the edges
   distinctive_features: frost-nip scars on the tip of her nose and both ears, a faded tattoo of the North

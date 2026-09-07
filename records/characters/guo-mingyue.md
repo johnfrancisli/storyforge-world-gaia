@@ -53,7 +53,7 @@ key_phrases:
 - My hands remember what my mind forgets.
 - I will not rest until I see the three states reunified without more bloodshed.
 visual:
-  body_build: slender with strong, fine-motor hands
+  body_build: slender with strong, fine-motor hands, small breasts
   hair: black, in a neat carver's topknot
   eyes: green-flecked brown, exacting
   distinctive_features:

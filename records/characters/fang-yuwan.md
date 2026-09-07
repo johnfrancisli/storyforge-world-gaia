@@ -55,7 +55,7 @@ key_phrases:
 - The work comes first. Everything else can wait.
 - I will not rest until I keep me family's boat-building tradition alive without enabling violence.
 visual:
-  body_build: strong-armed and broad-backed from years of plank-bending
+  body_build: strong-armed and broad-backed from years of plank-bending, medium breasts
   hair: dark brown, cropped to the jaw and tied back
   eyes: hazel, sharp and measuring
   distinctive_features:

@@ -48,7 +48,7 @@ key_phrases:
 - The work comes first. Everything else can wait.
 - I will not rest until I finish the coronation robe without revealing what the pattern shows.
 visual:
-  body_build: small and deft-fingered
+  body_build: small and deft-fingered, medium breasts
   hair: dark brown, braided and pinned up with wooden loom-shuttles
   eyes: soft gray-brown, often unfocused as if listening to something distant
   distinctive_features:

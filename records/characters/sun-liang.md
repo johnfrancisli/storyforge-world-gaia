@@ -54,7 +54,7 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 visual:
-  body_build: slim, elegant
+  body_build: slim, elegant, narrow chest
   hair: white, topknot, groomed beard
   eyes: dark brown, warm but calculating
   distinctive_features: a jade pendant worn at the belt, ink-calligraphy stains on the right index finger

@@ -50,7 +50,7 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 visual:
-  body_build: round, comfortable
+  body_build: round, comfortable, large breasts
   hair: black, greying, pinned up with a wooden stick
   eyes: brown, warm
   distinctive_features: a splash of old burn scars on both forearms from years of kettle work

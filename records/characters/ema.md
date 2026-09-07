@@ -57,7 +57,7 @@ key_phrases:
 - Some doors stay closed for a reason.
 - I will not rest until I find a way to modulate the spirit-links so she does not lose herself.
 visual:
-  body_build: stocky and strong, built for handling large animals
+  body_build: stocky and strong, built for handling large animals, medium breasts
   hair: black, thick, often feathered with bits of down from her birds
   eyes: brown, warm, with a distant quality
   distinctive_features:

@@ -48,7 +48,7 @@ key_phrases:
 - The work comes first. Everything else can wait.
 - I will not rest until I weave beautiful things without the frightening visions.
 visual:
-  body_build: petite and delicate
+  body_build: petite and delicate, medium breasts
   hair: pale blonde, long, worn loose
   eyes: blue-grey
   distinctive_features: a thread-callus on her right index finger, a port-wine birthmark on her left shoulder

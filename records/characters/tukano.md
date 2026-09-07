@@ -53,7 +53,7 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 visual:
-  body_build: compact and muscular from drumming, broad-chested
+  body_build: compact and muscular from drumming, broad-chested, small breasts
   hair: a crest of black and yellow feathers, increasingly grey at the base
   eyes: bright orange, intense
   distinctive_features:

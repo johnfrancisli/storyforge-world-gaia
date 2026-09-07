@@ -57,7 +57,7 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 visual:
-  body_build: lean and long-legged, built for distance walking
+  body_build: lean and long-legged, built for distance walking, small breasts
   hair: brown, sun-bleached, worn in a tight knot
   eyes: grey, quick and observant
   distinctive_features: road-dust permanently ground into her skin, a messenger's tattoo of a running

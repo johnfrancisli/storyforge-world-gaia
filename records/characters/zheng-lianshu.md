@@ -52,7 +52,7 @@ key_phrases:
 - The work comes first. Everything else can wait.
 - I will not rest until I catch the tamperer and expose the historical revisionism.
 visual:
-  body_build: medium and precise
+  body_build: medium and precise, small breasts
   hair: black, in a neat librarian's bun with reading-glasses chain
   eyes: myopic brown behind round spectacles
   distinctive_features:

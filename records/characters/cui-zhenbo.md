@@ -52,7 +52,7 @@ key_phrases:
 - The work comes first. Everything else can wait.
 - I will not rest until I confirm whether the crown prince is the poisoner before the warlord dies.
 visual:
-  body_build: medium, slightly stooped with age
+  body_build: medium, slightly stooped with age, average chest
   hair: white, full, in a physician's formal topknot with a silver pin
   eyes: dark brown, shrewd and sorrowful
   distinctive_features:

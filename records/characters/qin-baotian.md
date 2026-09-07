@@ -50,7 +50,7 @@ key_phrases:
 - Some doors stay closed for a reason.
 - I will not rest until I understand why me veterans are aging and dying prematurely.
 visual:
-  body_build: tall, broad, and imposing
+  body_build: tall, broad, and imposing, broad chest
   hair: black, cropped short under a military topknot
   eyes: dark brown, authoritative
   distinctive_features:

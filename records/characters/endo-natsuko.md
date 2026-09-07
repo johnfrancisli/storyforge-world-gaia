@@ -51,7 +51,7 @@ key_phrases:
 - The land doesn't care about your plans.
 - Patience is the only crop that grows in any season.
 visual:
-  body_build: wiry, bent from years of field work
+  body_build: wiry, bent from years of field work, small breasts
   hair: iron grey, under a straw hat
   eyes: dark brown, deeply lined at the corners
   distinctive_features: a permanent soil-dark crease across both palms

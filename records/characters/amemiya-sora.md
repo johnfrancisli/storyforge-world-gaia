@@ -47,6 +47,7 @@ key_phrases:
 - The wards must hold. Everything else follows.
 - Faith is not a feeling. It is a routine.
 visual:
+  body_build: slight, lean, small breasts
   hair: black, long, tied back with a white ribbon
   eyes: brown
   distinctive_features: a small burn scar on her right wrist from a mishandled ofuda

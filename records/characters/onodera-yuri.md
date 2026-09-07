@@ -51,7 +51,7 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 visual:
-  body_build: medium, comfortable
+  body_build: medium, comfortable, medium breasts
   hair: black, wet-sheened, pinned up with a tortoiseshell pin
   eyes: dark brown, watchful
   distinctive_features: permanently pink-tinged fingertips from years of hot water work

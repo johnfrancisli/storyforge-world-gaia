@@ -4,7 +4,7 @@ name: Rashid al-Sayf
 gm_notes: The eldest son of Tariq al-Sayf (character:tariq-al-sayf) and heir to the al-Sayf binding family.
   Rashid is twenty-eight, two years from the age when his family's contract with the djinn Nuria takes
   'the courage of each heir.' He knows what is coming because his father told him last year, weeping.
-  Rashid has been secretly meeting with the youngest daughter of the al-Faris family, Layla (character:reem-al-faris),
+  Rashid has been secretly meeting with [[character:reem-al-faris|the youngest daughter of the al-Faris family]],
   hoping to form an alliance between their families that might provide leverage to renegotiate with Nuria.
   What Rashid does not know is that his father is considering sacrificing his ten-year-old sister to a
   different djinn to save him. Rashid would refuse this trade if he knew — he would rather lose his courage
@@ -46,18 +46,18 @@ appearance: Young and athletic in binding family robes with the al-Sayf sword si
 biography: The eldest son of Tariq al-Sayf (character:tariq-al-sayf) and heir to the al-Sayf binding family.
   Rashid is twenty-eight, two years from the age when his family's contract with the djinn Nuria takes
   'the courage of each heir.' He knows what is coming because his father told him last year, weeping.
-  Rashid has been secretly meeting with the youngest daughter of the al-Faris family, Layla (character:reem-al-faris),
+  Rashid has been secretly meeting with [[character:reem-al-faris|the youngest daughter of the al-Faris family]],
   hoping to form an alliance between their families that might provide leverage to renegotiate with Nuria.
   What Rashid does not know is that his father is considering sacrificing his ten-year-old sister to a
   different djinn to save him. Rashid would refuse this trade if he knew — he would rather lose his courage
-  than his sister — but his father has not told him, and Layla's research into ancient contracts may be
+  than his sister — but his father has not told him, and Reem's research into ancient contracts may be
   the only thing that can save both children.
 personality: Guarded and cautious with trust, carries a secret that shapes every decision.
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 visual:
-  body_build: athletic and tall
+  body_build: athletic and tall, average chest
   hair: black, well-kept, worn loose
   eyes: dark brown, bright
   distinctive_features:

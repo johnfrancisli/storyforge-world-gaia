@@ -52,7 +52,7 @@ key_phrases:
 - The work comes first. Everything else can wait.
 - I will not rest until I get the canal system repaired before it fails and jin'an starves.
 visual:
-  body_build: compact, strong
+  body_build: compact, strong, small breasts
   skin: blue-green, smooth, slightly scaled
   hair: dark green-black, short, wet
   eyes: teal

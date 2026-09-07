@@ -54,7 +54,7 @@ key_phrases:
 - "A sail must catch the wind, but the thread must hold the spirit."
 - "I only wanted to see how it was made."
 visual:
-  body_build: tall, lean, still filling out
+  body_build: tall, lean, still filling out, small breasts
   hair: red-gold, worn in a single braid
   eyes: bright green, curious and quick
   distinctive_features: a spray of freckles across nose and cheeks, a small callus on her right palm from

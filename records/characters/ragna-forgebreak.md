@@ -54,7 +54,7 @@ key_phrases:
 - The forge teaches patience whether you want to learn it or not.
 - I will not rest until I pay me daughter's bride-price and see me settled and safe.
 visual:
-  body_build: broad-shouldered and thick-armed, powerful
+  body_build: broad-shouldered and thick-armed, powerful, large breasts
   hair: dark brown, singed short at the edges, worn tied back
   eyes: dark brown, intense
   distinctive_features: lattice of burn scars across both forearms, a crushed-looking left thumb from

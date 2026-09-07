@@ -53,7 +53,7 @@ key_phrases:
 - Metal has opinions. My job is to negotiate.
 - The forge teaches patience whether you want to learn it or not.
 visual:
-  body_build: broad-shouldered, powerful arms
+  body_build: broad-shouldered, powerful arms, medium breasts
   hair: black, greying, cropped very short
   eyes: dark brown, steady
   distinctive_features: burn scars across both forearms and a permanent forge-tan on the hands

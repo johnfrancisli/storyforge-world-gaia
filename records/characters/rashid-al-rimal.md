@@ -51,7 +51,7 @@ key_phrases:
 - The path exists whether or not you can see it.
 - Knowing where you are is not the same as knowing where you're going.
 visual:
-  body_build: lean, wiry, endurance-built
+  body_build: lean, wiry, endurance-built, narrow chest
   skin: deeply tanned, wind-weathered
   hair: black, greying, wrapped in a desert headwrap
   eyes: dark brown, permanently narrowed

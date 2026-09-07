@@ -53,7 +53,7 @@ key_phrases:
 - "Blood is a river that sometimes flows underground."
 - "I keep the past; I do not dictate the future."
 visual:
-  body_build: thin, angular, slightly stooped, fit for age
+  body_build: thin, angular, slightly stooped, fit for age, average chest
   hair: white, fine, worn short
   eyes: dark brown, sharp despite age
   distinctive_features:

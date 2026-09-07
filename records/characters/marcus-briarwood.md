@@ -52,7 +52,7 @@ key_phrases:
 - Some doors stay closed for a reason.
 - I will not rest until I find a way to honor me contract without becoming a tool for murder.
 visual:
-  body_build: muscular and battle-scarred
+  body_build: muscular and battle-scarred, broad chest
   hair: brown, cropped military-short
   eyes: grey, watchful
   distinctive_features: a sword scar across his left cheek, a missing chunk from his right ear (battle),

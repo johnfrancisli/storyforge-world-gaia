@@ -52,7 +52,7 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 visual:
-  body_build: lean, angular, bird-boned
+  body_build: lean, angular, bird-boned, small breasts
   hair: black, with iridescent feathers growing along the hairline at the temples
   eyes: amber, sharp
   distinctive_features: feathers along the temples (hidden by a head wrap) and slightly talon-like nails

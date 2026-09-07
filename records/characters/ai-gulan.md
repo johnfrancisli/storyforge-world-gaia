@@ -51,7 +51,7 @@ key_phrases:
 - "I did not see anything, I was only cleaning."
 - "A mother does what she must."
 visual:
-  body_build: thin and worn
+  body_build: thin and worn, small breasts
   hair: dull black, in a tight servant's bun
   eyes: dark brown, downcast, observant
   distinctive_features:

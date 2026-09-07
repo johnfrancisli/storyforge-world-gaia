@@ -49,7 +49,7 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 visual:
-  body_build: tall, lean, angular
+  body_build: tall, lean, angular, narrow chest
   hair: black, long, tied high
   eyes: amber
   distinctive_features: large dark folded wings, pronounced tengu nose, sharp avian features

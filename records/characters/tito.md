@@ -57,7 +57,7 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 visual:
-  body_build: medium and soft-handed, built for delicate craft work
+  body_build: medium and soft-handed, built for delicate craft work, average chest
   hair: black, short, always with a few stray feathers caught in it
   eyes: brown, gentle, observant
   distinctive_features:

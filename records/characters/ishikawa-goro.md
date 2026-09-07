@@ -55,7 +55,7 @@ key_phrases:
 - A fair deal leaves both sides slightly unhappy. That is how you know it was fair.
 - Trust is the only currency that compounds.
 visual:
-  body_build: soft, round-faced
+  body_build: soft, round-faced, average chest
   hair: black, receding, in a merchant's topknot
   eyes: small, dark, quick
   distinctive_features: a chipped front tooth and a persistent ink stain on the right cheek from resting

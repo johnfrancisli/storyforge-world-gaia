@@ -54,7 +54,7 @@ key_phrases:
 - The work comes first. Everything else can wait.
 - I will not rest until I prepare prince haru to lead without anyone realizing she's doing it.
 visual:
-  body_build: slender, composed
+  body_build: slender, composed, small breasts
   hair: iron grey, in a smooth low bun
   eyes: dark brown, warm but observant
   distinctive_features: a faint tea-stain discoloration on the right thumb and forefinger, permanent

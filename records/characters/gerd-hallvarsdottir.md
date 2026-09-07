@@ -53,7 +53,7 @@ key_phrases:
 - Patience is the only crop that grows in any season.
 - I will not rest until I live openly with vigdis without losing me place in me sister's hall.
 visual:
-  body_build: medium height, strong and practical
+  body_build: medium height, strong and practical, medium breasts
   hair: silver-blonde like her sister's, worn in a single thick braid
   eyes: warm blue, softer than Sigrid's
   distinctive_features: a farmer's tan (rare in Hrafnland — darker skin from long outdoor hours), a old

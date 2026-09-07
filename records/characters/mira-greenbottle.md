@@ -48,7 +48,7 @@ key_phrases:
 - The earth provides, if you know where to look.
 - I will not rest until I keep me village healthy without relying on expensive city healers.
 visual:
-  body_build: short and soft, halfling stature
+  body_build: short and soft, halfling stature, large breasts
   hair: sandy blonde, tightly curled, perpetually unruly
   eyes: warm brown
   distinctive_features: permanently green-stained fingertips, a missing left earlobe (lost to a biting

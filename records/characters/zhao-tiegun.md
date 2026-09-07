@@ -52,7 +52,7 @@ key_phrases:
 - The forge teaches patience whether you want to learn it or not.
 - I will not rest until I perfect the qilin-iron folding technique and create a legendary blade.
 visual:
-  body_build: massive, heavy-armed, thick-necked
+  body_build: massive, heavy-armed, thick-necked, broad chest
   hair: shaved, scarred from forge-sparks
   eyes: deep-set amber-brown
   distinctive_features:

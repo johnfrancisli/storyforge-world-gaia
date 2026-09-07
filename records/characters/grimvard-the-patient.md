@@ -50,7 +50,7 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 visual:
-  body_build: massive, broad, twelve feet tall
+  body_build: massive, broad, twelve feet tall, broad chest
   skin: grey, cold to look at
   hair: white, long, matted with frost
   eyes: pale blue, ancient

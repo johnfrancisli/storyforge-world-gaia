@@ -54,7 +54,7 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 visual:
-  body_build: small and wiry, bent but energetic
+  body_build: small and wiry, bent but energetic, medium breasts
   hair: white, thin, under a straw hat
   eyes: pale green, bright and sharp
   distinctive_features: old bee-sting scars on both hands and forearms, a pronounced stoop, a missing

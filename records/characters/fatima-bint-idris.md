@@ -55,7 +55,7 @@ key_phrases:
 - Every caravan carries more than goods.
 - I will not rest until I pay off me debt to the caravan master and be free of me knowledge.
 visual:
-  body_build: lean, precise in movement
+  body_build: lean, precise in movement, medium breasts
   hair: black, thick, hidden under a dark headscarf
   eyes: dark brown, watchful
   distinctive_features:

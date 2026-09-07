@@ -51,7 +51,7 @@ key_phrases:
 - Every plant has a purpose, if you listen closely enough.
 - The earth provides, if you know where to look.
 visual:
-  body_build: weathered, wiry
+  body_build: weathered, wiry, small breasts
   hair: iron grey, thick, braided and coiled
   eyes: dark brown, crow's feet at the corners
   distinctive_features: a network of faint scars across both hands from decades of working with thorny

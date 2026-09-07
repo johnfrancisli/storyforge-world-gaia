@@ -54,7 +54,7 @@ key_phrases:
 - Understanding comes slowly, like dawn.
 - The question is always more important than the answer.
 visual:
-  body_build: lean, wiry
+  body_build: lean, wiry, narrow chest
   skin: deep tan, sun-dark
   hair: bleached blonde from salt and sun, shaggy
   eyes: grey-blue, distant

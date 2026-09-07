@@ -54,7 +54,7 @@ key_phrases:
 - A garden is a conversation with patience.
 - Every plant has a lesson, if you are willing to learn it slowly.
 visual:
-  body_build: medium, strong-armed from terraced work
+  body_build: medium, strong-armed from terraced work, large breasts
   hair: dark brown, braided and wrapped in a cloth
   eyes: green-brown, gentle
   distinctive_features:

@@ -52,7 +52,7 @@ key_phrases:
 - Some doors stay closed for a reason.
 - I will not rest until I free herself from the warlord's coercion without endangering the monastery.
 visual:
-  body_build: slender and upright, cultivator's posture
+  body_build: slender and upright, cultivator's posture, small breasts
   hair: black, cropped short in monastic style
   eyes: clear gray, serene with private strain
   distinctive_features:

@@ -55,7 +55,7 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 visual:
-  body_build: stocky, heavily built
+  body_build: stocky, heavily built, broad chest
   hair: grey, in a tight topknot
   eyes: dark brown, steady
   distinctive_features: a deep scar across the bridge of the nose and a cauliflower right ear from years

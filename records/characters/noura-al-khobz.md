@@ -54,7 +54,7 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 visual:
-  body_build: stout, strong-armed from kneading
+  body_build: stout, strong-armed from kneading, large breasts
   hair: black, tied in a bun under a flour-dusted cloth
   eyes: brown, warm and watchful
   distinctive_features:

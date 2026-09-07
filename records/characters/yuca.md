@@ -56,7 +56,7 @@ key_phrases:
 - Every plant has a lesson, if you are willing to learn it slowly.
 - I will not rest until I understand what she is and why plants respond to me.
 visual:
-  body_build: solid and grounded, strong from garden work
+  body_build: solid and grounded, strong from garden work, large breasts
   hair: black, loose, often tangled with leaves and small flowers
   eyes: deep green-flecked brown
   distinctive_features:

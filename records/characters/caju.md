@@ -56,7 +56,7 @@ key_phrases:
 - A good cook feeds the body. A great cook feeds the soul.
 - I will not rest until I feel safe enough that the hoarding compulsion stops.
 visual:
-  body_build: round and soft, strong-armed from stirring large pots
+  body_build: round and soft, strong-armed from stirring large pots, broad chest
   hair: black, thick, tied back with a cloth
   eyes: warm brown, crinkled with practiced cheer
   distinctive_features:

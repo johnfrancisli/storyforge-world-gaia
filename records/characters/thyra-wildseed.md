@@ -56,7 +56,7 @@ key_phrases:
 - Some doors stay closed for a reason.
 - I will not rest until I buy me freedom and me daughter's — or to find a way home with both of them.
 visual:
-  body_build: slender and strong from constant labor
+  body_build: slender and strong from constant labor, medium breasts
   hair: dark brown, long, worn in a single plain braid
   eyes: dark brown, watchful and guarded
   distinctive_features: a thrall's iron band on her left wrist (engraved with Sigrid's mark), a faded

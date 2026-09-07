@@ -56,7 +56,7 @@ key_phrases:
 - Some doors stay closed for a reason.
 - I will not rest until I convince the tribal council that the outsiders are a genuine threat.
 visual:
-  body_build: sturdy and square-shouldered, strong hands
+  body_build: sturdy and square-shouldered, strong hands, medium breasts
   hair: black, greying at the temples, pinned up with weaving sticks
   eyes: dark brown, patient and steady
   distinctive_features:

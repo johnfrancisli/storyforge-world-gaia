@@ -53,7 +53,7 @@ key_phrases:
 - Every smile is a weapon. Every whispered word is a strategy.
 - The most dangerous person in any room is the one everyone underestimates.
 visual:
-  body_build: slender, graceful
+  body_build: slender, graceful, medium breasts
   hair: black, elaborately styled with ornaments
   eyes: dark brown, kohl-lined
   distinctive_features: a small, old scar hidden beneath the hairline at the left temple — from the night

@@ -58,7 +58,7 @@ key_phrases:
 - A bad day fishing is still a day on the water.
 - I will not rest until I keep providing for me family without crossing the territorial boundary.
 visual:
-  body_build: compact and strong, broad from hauling nets
+  body_build: compact and strong, broad from hauling nets, broad chest
   hair: dark green-blue, cropped close to the skull
   eyes: pale aquamarine, sharp and water-squinted
   distinctive_features:

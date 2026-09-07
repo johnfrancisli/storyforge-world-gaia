@@ -94,6 +94,19 @@ are not canonical records. Wiki links represent references, not relationships.
 | `relationship` | `[[relationship:two-blacksmiths-of-valdris]]` |
 | `lore` | `[[lore:reincarnation-in-gaia]]` |
 
+## Typed character relationships
+
+- Author family facts only on canonical records under `records/relationships/`; never add reciprocal relationship fields to character files.
+- Put both endpoints in `participants`, using raw stable character IDs, and write one directed `kinship` fact. Do not author an inverse duplicate.
+- Supported predicates are `parent_of`, `adoptive_parent_of`, `guardian_of`, `sibling_of`, `half_sibling_of`, `spouse_of`, `former_spouse_of`, `betrothed_to`, `grandparent_of`, `aunt_or_uncle_of`, `cousin_of`, and `chosen_family_of`.
+- Every fact needs `visibility: public`, `participants`, or `gm_only`. Use the narrowest audience supported by canon.
+- Enrich an existing pair's relationship record instead of creating a duplicate. Create a new pairwise record only for an explicit, unambiguous claim whose two canonical character IDs already exist.
+- Leave unnamed relatives in prose. Put uncertain inferences in `RELATIONSHIP-PROPOSALS.md`; disconnected characters are valid and require no filler relationships.
+- Relationship envelope `links` and character backlinks are derived by Storyforge. Do not maintain them manually.
+- Developed relationships should include a concise `summary`, a free-text `current_stage`, directional `perspectives`, and an ordered `history`. Each perspective uses `subject`, `object`, a `disposition` from `-100` to `100`, a visible explanation, and `visibility: public`, `subject`, `participants`, or `gm_only`.
+- Directional perspectives may disagree. Never replace them with one shared score merely for convenience; retain a legacy top-level `disposition` only when preserving an older record.
+- History events use stable record-local IDs and may include `occurred_at`, `stage_before`, `stage_after`, and directional `perspective_changes` with `before` and `after`. Record only events supported by canon; do not manufacture milestones to make a log look complete.
+
 ### Future syntax (not yet implemented)
 
 Section anchors may be supported in the future:

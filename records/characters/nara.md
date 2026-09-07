@@ -48,7 +48,7 @@ key_phrases:
 - The spirits do not serve. They negotiate.
 - Every pact is a conversation that never ends.
 visual:
-  body_build: wiry, weathered
+  body_build: wiry, weathered, medium breasts
   skin: deep brown, sun-darkened
   hair: white, braided with river-stone beads
   eyes: dark brown

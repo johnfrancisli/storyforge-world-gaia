@@ -55,7 +55,7 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 visual:
-  body_build: tall and lean, built for long still hours in the cold
+  body_build: tall and lean, built for long still hours in the cold, small breasts
   hair: dark brown, worn in a tight braid under a watchman's cap
   eyes: grey, sharp and patient
   distinctive_features: a watchman's tattoo of a beacon on her right forearm, permanent ink-stains on

@@ -57,7 +57,7 @@ key_phrases:
 - The work comes first. Everything else can wait.
 - I will not rest until I understand the true nature of the voice that teaches me.
 visual:
-  body_build: tall and fluidly proportioned, snake-like in stillness
+  body_build: tall and fluidly proportioned, snake-like in stillness, medium breasts
   hair: none — replaced by a fine crest of dark scales along the crown
   eyes: vertical-pupiled, yellow-green
   distinctive_features:

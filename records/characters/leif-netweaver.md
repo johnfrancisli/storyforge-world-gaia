@@ -58,7 +58,7 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 visual:
-  body_build: medium height, lean, with strong hands and forearms
+  body_build: medium height, lean, with strong hands and forearms, broad chest
   hair: light brown, thinning at the crown, worn short
   eyes: blue, mild and slightly worried
   distinctive_features: permanently hemp-roughened fingertips, a callus on his right thumb from the net

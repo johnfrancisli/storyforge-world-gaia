@@ -55,7 +55,7 @@ key_phrases:
 - Discipline is the bridge between intention and action.
 - A blade unused rusts. A blade used without purpose dulls.
 visual:
-  body_build: thin, formerly powerful, still straight-backed
+  body_build: thin, formerly powerful, still straight-backed, broad chest
   hair: white, sparse, under a cap
   eyes: grey, sharp despite age
   distinctive_features: an old sword scar across the collarbone and a missing left little finger — the

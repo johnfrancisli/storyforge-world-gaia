@@ -56,7 +56,7 @@ key_phrases:
 - Home is not a place. It is the people who remember your name.
 - I lost everything. I will not lose who I am.
 visual:
-  body_build: capable, strong-handed, hollow-eyed
+  body_build: capable, strong-handed, hollow-eyed, large breasts
   skin: medium brown
   hair: black, cropped short after the loss
   eyes: dark brown, distant

@@ -60,7 +60,7 @@ key_phrases:
 - A life worth living is a life worth singing.
 - The saga does not care about your feelings. It cares about your deeds.
 visual:
-  body_build: tall, broad-shouldered, still strong
+  body_build: tall, broad-shouldered, still strong, medium breasts
   hair: red-gold streaked with silver, worn in a tight warrior-knot
   eyes: ice blue, pale and unwavering
   distinctive_features: a scar across the bridge of her nose, three fingers on her right hand have old

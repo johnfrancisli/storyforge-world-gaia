@@ -50,7 +50,7 @@ key_phrases:
 - Trust is the only currency that compounds.
 - I will not rest until I maintain the balance between the three states until a peace is brokered.
 visual:
-  body_build: plump and comfortable
+  body_build: plump and comfortable, huge breasts
   hair: black streaked with white, in a practical merchant's wrap
   eyes: small, bright, and miss nothing
   distinctive_features:

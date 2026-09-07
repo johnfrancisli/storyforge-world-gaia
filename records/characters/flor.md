@@ -55,7 +55,7 @@ key_phrases:
 - The earth provides, if you know where to look.
 - I will not rest until I find a permanent cure for the chief that does not require the forbidden root.
 visual:
-  body_build: small and wiry, built for climbing through undergrowth
+  body_build: small and wiry, built for climbing through undergrowth, small breasts
   hair: black, short, practical, often tucked with leaves and twigs
   eyes: deep brown, warm and quick
   distinctive_features:

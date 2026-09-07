@@ -51,7 +51,7 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 visual:
-  body_build: tall and slender, elven
+  body_build: tall and slender, elven, small breasts
   hair: silver, waist-length, loose
   eyes: emerald green
   distinctive_features: pronounced pointed ears, faint luminous quality to her skin in moonlight, bare

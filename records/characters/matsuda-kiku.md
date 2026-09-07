@@ -51,7 +51,7 @@ key_phrases:
 - A story forgotten is a person erased.
 - The best stories are the ones that change in the telling.
 visual:
-  body_build: small, frail-seeming
+  body_build: small, frail-seeming, small breasts
   hair: white, thin, under a cap
   eyes: dark brown, milky but sharp
   distinctive_features: deeply lined face with a permanent expression of gentle amusement

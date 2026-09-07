@@ -54,7 +54,7 @@ key_phrases:
 - Pain speaks louder than words, but silence tells the deeper truth.
 - I will not rest until I make peace with the triage decision that haunts me.
 visual:
-  body_build: medium and well-proportioned, steady-handed
+  body_build: medium and well-proportioned, steady-handed, medium breasts
   hair: black, short-cropped for cleanliness
   eyes: dark brown, calm and measuring
   distinctive_features:

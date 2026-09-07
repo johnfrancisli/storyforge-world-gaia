@@ -52,7 +52,7 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 visual:
-  body_build: big, broad, scarred
+  body_build: big, broad, scarred, broad chest
   height: tall
   hair: brown, shaggy, unkempt
   eyes: grey-green

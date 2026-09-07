@@ -55,7 +55,7 @@ key_phrases:
 - I see what others miss because I know what to look for.
 - The wilderness does not forgive carelessness.
 visual:
-  body_build: lean and quick, built for running and climbing
+  body_build: lean and quick, built for running and climbing, narrow chest
   hair: sandy brown, sun-bleached, worn short
   eyes: green, bright and constantly moving
   distinctive_features: a scout's tattoo of an eye on his right wrist, a scar on his left cheek from a

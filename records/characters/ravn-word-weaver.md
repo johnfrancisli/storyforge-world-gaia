@@ -51,7 +51,7 @@ key_phrases:
 - A story forgotten is a person erased.
 - The best stories are the ones that change in the telling.
 visual:
-  body_build: thin, lanky
+  body_build: thin, lanky, average chest
   height: tall
   hair: red, long, flowing
   eyes: green

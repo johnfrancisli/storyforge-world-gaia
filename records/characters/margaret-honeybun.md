@@ -50,7 +50,7 @@ key_phrases:
 - The work comes first. Everything else can wait.
 - I will not rest until I learn the truth about me son's fate, whatever it may be.
 visual:
-  body_build: round and comfortable
+  body_build: round and comfortable, large breasts
   hair: brown, greying, tight bun
   eyes: warm brown, red-rimmed from worrying
   distinctive_features: flour-dusted forearms, a burn mark on her left wrist (oven), deep worry lines

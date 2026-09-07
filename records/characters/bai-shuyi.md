@@ -51,7 +51,7 @@ key_phrases:
 - History is not the past. It is the argument about the past.
 - What is written can be unwritten. What is burned cannot.
 visual:
-  body_build: slight and slightly stooped from years at reading desks
+  body_build: slight and slightly stooped from years at reading desks, medium breasts
   hair: white, in a tight bun
   eyes: pale brown behind round spectacles
   distinctive_features:

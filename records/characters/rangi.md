@@ -56,7 +56,7 @@ key_phrases:
 - The river gives and the river takes. You learn to accept both.
 - A bad day fishing is still a day on the water.
 visual:
-  body_build: big, broad, powerful
+  body_build: big, broad, powerful, broad chest
   skin: deep brown, heavily scarred
   hair: black, short, salt-bleached
   eyes: dark brown, guarded

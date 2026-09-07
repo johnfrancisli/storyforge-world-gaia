@@ -50,7 +50,7 @@ key_phrases:
 - The truth does not need you to believe in it.
 - I will not rest until I see the reunification council become reality.
 visual:
-  body_build: medium and slightly soft from scholarly life
+  body_build: medium and slightly soft from scholarly life, average chest
   hair: black, in a scholar's topknot, often loosening
   eyes: bright and earnest brown
   distinctive_features:

@@ -50,7 +50,7 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 visual:
-  body_build: slender and poised
+  body_build: slender and poised, medium breasts
   hair: dark auburn, elaborately styled
   eyes: hazel, warm and measuring
   distinctive_features: a beauty mark on her right cheek, a thin gold chain always worn at her throat

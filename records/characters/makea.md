@@ -59,7 +59,7 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 visual:
-  body_build: large, broad, gentle in movement
+  body_build: large, broad, gentle in movement, broad chest
   skin: deep brown
   hair: black, short, practical
   eyes: dark brown, warm but watchful

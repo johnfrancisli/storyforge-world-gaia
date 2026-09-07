@@ -59,7 +59,7 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 visual:
-  body_build: slim, precise, clear-voiced
+  body_build: slim, precise, clear-voiced, medium breasts
   skin: medium brown
   hair: black, worn in a song-keeper's braided style with shell pins
   eyes: dark brown, precise

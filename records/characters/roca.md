@@ -56,7 +56,7 @@ key_phrases:
 - Some doors stay closed for a reason.
 - I will not rest until I discover who is using the hidden entrance without being discovered himself.
 visual:
-  body_build: powerful and compact, built for stillness and explosive movement
+  body_build: powerful and compact, built for stillness and explosive movement, broad chest
   hair: black, shaved on the sides with a single topknot
   eyes: dark brown, steady and unblinking
   distinctive_features:

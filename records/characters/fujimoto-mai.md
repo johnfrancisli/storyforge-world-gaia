@@ -53,7 +53,7 @@ key_phrases:
 - The body says what the voice cannot.
 - Every step is a sentence. Every turn is a word.
 visual:
-  body_build: slender, lithe
+  body_build: slender, lithe, small breasts
   hair: black, long, worn in an elaborate dance style with floral kanzashi
   eyes: dark brown, expressive
   distinctive_features: a spray of pale freckles across the bridge of the nose, unusual for the region

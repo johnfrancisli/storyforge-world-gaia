@@ -49,7 +49,7 @@ key_phrases:
 - Some doors stay closed for a reason.
 - I will not rest until I expose the dragon-trapping operation and bring its backers to justice.
 visual:
-  body_build: lean and rangy
+  body_build: lean and rangy, narrow chest
   hair: dark brown, shaggy
   eyes: green
   distinctive_features: slightly pointed ears (half-elf), a bowstring callus on his left fingers, a scar

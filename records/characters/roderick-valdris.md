@@ -51,7 +51,7 @@ key_phrases:
 - I will not be my father. I will not be his mistake.
 - The throne is not my goal. It is my responsibility.
 visual:
-  body_build: broad, muscular, heavy
+  body_build: broad, muscular, heavy, broad chest
   height: tall
   hair: dark brown, cropped military short
   eyes: grey

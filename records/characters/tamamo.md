@@ -48,6 +48,7 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 visual:
+  body_build: slender, small breasts
   hair: silver-white, long, loose
   eyes: gold, slit-pupiled
   distinctive_features: three fox tails, fox ears, faint vulpine fangs visible when smiling

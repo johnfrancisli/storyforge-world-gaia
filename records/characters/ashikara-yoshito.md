@@ -51,7 +51,7 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 visual:
-  body_build: thin, frail but straight-backed
+  body_build: thin, frail but straight-backed, average chest
   hair: white, formal topknot
   eyes: dark brown, sharp despite age
   distinctive_features: liver spots on the hands, a formal court fan always carried

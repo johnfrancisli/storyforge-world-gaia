@@ -60,7 +60,7 @@ key_phrases:
 - I see what others miss because I know what to look for.
 - The wilderness does not forgive carelessness.
 visual:
-  body_build: lean, sharp-eyed, patient
+  body_build: lean, sharp-eyed, patient, narrow chest
   skin: medium brown, sun-weathered
   hair: black, short, wind-tossed
   eyes: dark brown, sharp

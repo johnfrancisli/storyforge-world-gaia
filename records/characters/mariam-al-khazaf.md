@@ -55,7 +55,7 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 visual:
-  body_build: compact, strong-wristed
+  body_build: compact, strong-wristed, small breasts
   hair: dark brown, cropped short, clay-dusted
   eyes: hazel, intent
   distinctive_features:

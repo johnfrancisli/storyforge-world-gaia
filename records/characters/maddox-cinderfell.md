@@ -49,7 +49,7 @@ key_phrases:
 - Some doors stay closed for a reason.
 - I will not rest until I give the dead justice, even though they cannot thank him.
 visual:
-  body_build: tall and gaunt
+  body_build: tall and gaunt, average chest
   hair: lank black, grey-streaked, shoulder-length
   eyes: grey-blue, deep-set
   distinctive_features: permanently earth-stained hands, a large mole on his left jawline

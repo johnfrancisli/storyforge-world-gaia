@@ -54,7 +54,7 @@ key_phrases:
 - "Let them argue; the quiet ones are the dangerous ones."
 - "Time is the one tax I can no longer afford to pay."
 visual:
-  body_build: tall, once powerful, now thin
+  body_build: tall, once powerful, now thin, broad chest
   hair: white, thinning
   eyes: pale blue
   distinctive_features: a faded scar on the right brow from an old battle wound

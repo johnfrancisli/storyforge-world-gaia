@@ -52,7 +52,7 @@ key_phrases:
 - "The sky remembers."
 - "Pain is just a teacher who doesn't hold back."
 visual:
-  body_build: broad, muscular, battle-worn
+  body_build: broad, muscular, battle-worn, broad chest
   hair: grey, cropped close, beard full and braided
   eyes: pale blue
   distinctive_features: a dragon-scale burn scar covering his right hand and forearm, a limp on the left

@@ -48,7 +48,7 @@ key_phrases:
 - The work comes first. Everything else can wait.
 - I will not rest until I make up for me mistake without losing me job.
 visual:
-  body_build: small and lean, halfling stature, built for running
+  body_build: small and lean, halfling stature, built for running, medium breasts
   hair: light brown, cropped short
   eyes: bright hazel
   distinctive_features: a small gap between her front teeth, a faded bruise on her left shin (perpetual,

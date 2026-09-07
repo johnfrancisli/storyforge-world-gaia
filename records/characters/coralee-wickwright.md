@@ -51,7 +51,7 @@ key_phrases:
 - Some doors stay closed for a reason.
 - I will not rest until I find out what happened to me husband and clear me name.
 visual:
-  body_build: medium height, sturdy
+  body_build: medium height, sturdy, medium breasts
   hair: chestnut brown, pinned up under a kerchief
   eyes: grey-green
   distinctive_features: a small wax burn on her right wrist, faint laugh lines around her eyes despite

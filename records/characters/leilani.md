@@ -55,7 +55,7 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 visual:
-  body_build: tall, long-armed, broad across the back
+  body_build: tall, long-armed, broad across the back, large breasts
   skin: warm brown
   hair: black, long, tied back with woven fiber cord
   eyes: dark brown

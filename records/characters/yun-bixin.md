@@ -51,7 +51,7 @@ key_phrases:
 - Every song is a conversation with silence.
 - I will not rest until I preserve the spirit-music tradition before it dies with me.
 visual:
-  body_build: slight and willowy
+  body_build: slight and willowy, medium breasts
   hair: long black, loose except when performing
   eyes: pale gray, distant
   distinctive_features:

@@ -56,7 +56,7 @@ key_phrases:
 - The future is not fixed. It is inclined.
 - I see patterns, not certainties. Do not confuse the two.
 visual:
-  body_build: slender, restless
+  body_build: slender, restless, small breasts
   hair: black, long, loose and untamed
   eyes: dark brown, intense and slightly unfocused
   distinctive_features:

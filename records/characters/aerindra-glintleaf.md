@@ -52,7 +52,7 @@ key_phrases:
 - "The wood remembers the forest, and I must honor its memory."
 - "I will not let my name be stained by another's treachery."
 visual:
-  body_build: fit, slender
+  body_build: fit, slender, medium breasts
   hair: pale blonde, long, tied back with a leather cord
   eyes: violet
   distinctive_features: pronounced pointed ears, a fletcher's callus on her right thumb, a tiny scar on

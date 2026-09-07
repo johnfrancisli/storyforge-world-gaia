@@ -59,7 +59,7 @@ key_phrases:
 - Some doors stay closed for a reason.
 - I will not rest until I understand the spirit-resonance of the blue glaze and what it means.
 visual:
-  body_build: broad and sturdy, heat-tolerant from kiln work
+  body_build: broad and sturdy, heat-tolerant from kiln work, broad chest
   hair: black, singed short, perpetually ash-dusted
   eyes: brown, curious and restless
   distinctive_features:

@@ -56,7 +56,7 @@ key_phrases:
 - A good cook feeds the body. A great cook feeds the soul.
 - I will not rest until I phase out the psychoactive root without the shamans realizing it.
 visual:
-  body_build: round and solid, strong-armed from stirring vats
+  body_build: round and solid, strong-armed from stirring vats, small breasts
   hair: black, streaked with grey, tied under a cloth wrap
   eyes: warm brown, crinkled from smiling
   distinctive_features:

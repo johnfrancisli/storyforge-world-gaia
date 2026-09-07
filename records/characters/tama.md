@@ -61,7 +61,7 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 visual:
-  body_build: lean, long-limbed, deep-chested like her teacher
+  body_build: lean, long-limbed, deep-chested like her teacher, small breasts
   skin: medium brown, sun-lightened
   hair: dark brown bleached to copper at the tips
   eyes: grey-green, the same shade as Hina's

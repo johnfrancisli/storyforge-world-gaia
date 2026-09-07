@@ -57,7 +57,7 @@ key_phrases:
 - Some doors stay closed for a reason.
 - I will not rest until I repay sigunn and be free of the debt — and free of the escalating demands.
 visual:
-  body_build: very tall and heavily built, the largest of the guards
+  body_build: very tall and heavily built, the largest of the guards, average chest
   hair: blonde, thick, worn cropped
   eyes: blue, open and honest-looking
   distinctive_features: a guard's raven tattoo on his right shoulder, a broken-and-healed nose (brawl,

@@ -55,7 +55,7 @@ key_phrases:
 - The work comes first. Everything else can wait.
 - I will not rest until I understand why the river is seeding children and what it wants of them.
 visual:
-  body_build: full-figured and strong, broad-hipped
+  body_build: full-figured and strong, broad-hipped, huge breasts
   hair: dark teal, braided and bound with river-shell beads
   eyes: pale blue-grey, deep-set and kind
   distinctive_features:

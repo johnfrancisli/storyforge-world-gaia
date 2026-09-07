@@ -56,7 +56,7 @@ key_phrases:
 - Some doors stay closed for a reason.
 - I will not rest until I bring me brother home permanently without destroying the family name.
 visual:
-  body_build: medium height, square-shouldered and strong
+  body_build: medium height, square-shouldered and strong, large breasts
   hair: dark blonde, cropped short under a helm
   eyes: blue, steady and alert
   distinctive_features: a guard's raven tattoo on her right shoulder, a scar on her left knuckles from

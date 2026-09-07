@@ -54,7 +54,7 @@ key_phrases:
 - "Every creation takes a piece of you."
 - "I just need to finish this one."
 visual:
-  body_build: medium build
+  body_build: medium build, medium breasts
   hair: dark blue-green, thinning, worn loose
   eyes: pale aquamarine, tired
   distinctive_features:

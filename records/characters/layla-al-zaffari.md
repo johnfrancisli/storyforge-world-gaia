@@ -53,7 +53,7 @@ key_phrases:
 - A fair deal leaves both sides slightly unhappy. That is how you know it was fair.
 - Trust is the only currency that compounds.
 visual:
-  body_build: slim, elegant, straight-backed
+  body_build: slim, elegant, straight-backed, medium breasts
   skin: deep brown, sun-lined
   hair: silver, covered by a silk headscarf
   eyes: dark brown, sharp

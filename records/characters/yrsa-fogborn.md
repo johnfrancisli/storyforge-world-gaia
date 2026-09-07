@@ -56,7 +56,7 @@ key_phrases:
 - The future is not fixed. It is inclined.
 - I see patterns, not certainties. Do not confuse the two.
 visual:
-  body_build: thin and angular, weathered by decades of trance-cold
+  body_build: thin and angular, weathered by decades of trance-cold, large breasts
   hair: white, long, loose and uncombed
   eyes: pale grey, often unfocused
   distinctive_features: seidr-ritual scars in concentric rings on both inner wrists, a missing left eye

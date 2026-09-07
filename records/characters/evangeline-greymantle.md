@@ -50,7 +50,7 @@ key_phrases:
 - Doubt is the shadow of faith, not its absence.
 - I will not rest until I expose the high priest's corruption and restore the temple's integrity.
 visual:
-  body_build: medium height, graceful
+  body_build: medium height, graceful, medium breasts
   hair: light brown, worn in a modest braid under a wimple
   eyes: clear blue
   distinctive_features: a sacred flame tattoo on her right wrist (ordination mark), a faint scar on her

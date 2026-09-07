@@ -58,7 +58,7 @@ key_phrases:
 - Knowing where you are is not the same as knowing where you're going.
 - I will not rest until I atone for the expedition he lost by never losing another person.
 visual:
-  body_build: lean and weathered, built for river travel
+  body_build: lean and weathered, built for river travel, narrow chest
   hair: black, greying, cut short and practical
   eyes: hazel, watchful, with a nervous edge
   distinctive_features:

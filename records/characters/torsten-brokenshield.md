@@ -58,7 +58,7 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 visual:
-  body_build: medium height, going soft with age and comfort
+  body_build: medium height, going soft with age and comfort, average chest
   hair: brown, going grey, thinning
   eyes: brown, darting and anxious
   distinctive_features: a permanent tremor in his right hand, a drinker's flush across his nose and cheeks

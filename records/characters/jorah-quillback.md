@@ -48,7 +48,7 @@ key_phrases:
 - The work comes first. Everything else can wait.
 - I will not rest until I find a way to expose lord cael's land theft without endangering me family.
 visual:
-  body_build: thin and angular
+  body_build: thin and angular, average chest
   hair: sandy brown, neatly combed
   eyes: grey
   distinctive_features: a callus on his right middle finger (quill), ink stain on his left cuff that never

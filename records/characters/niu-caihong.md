@@ -50,7 +50,7 @@ key_phrases:
 - When you're small, you learn to notice things.
 - I will not rest until I train the talented street child without bringing the warlord's attention.
 visual:
-  body_build: small, hunched, deceptively solid beneath the rags
+  body_build: small, hunched, deceptively solid beneath the rags, small breasts
   hair: thin white, under a ragged head wrap
   eyes: startlingly clear and bright brown
   distinctive_features:

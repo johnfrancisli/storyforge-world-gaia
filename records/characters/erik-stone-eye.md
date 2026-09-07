@@ -51,7 +51,7 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 visual:
-  body_build: lean, fit, athletic
+  body_build: lean, fit, athletic, narrow chest
   height: tall
   hair: blond, braided
   eyes: right eye blue, left eye pale and unseeing

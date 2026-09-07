@@ -49,7 +49,7 @@ key_phrases:
 - The stars do not lie, but they do not explain themselves.
 - The ocean is not empty. It is full of things you cannot see.
 visual:
-  body_build: compact, lean, wiry
+  body_build: compact, lean, wiry, narrow chest
   skin: deep tan, sun-darkened
   hair: black, short, salt-stiffened
   eyes: dark brown

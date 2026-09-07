@@ -58,7 +58,7 @@ key_phrases:
 - The road teaches what the market cannot.
 - Every caravan carries more than goods.
 visual:
-  body_build: sharp-eyed, quick-moving, compact
+  body_build: sharp-eyed, quick-moving, compact, medium breasts
   skin: medium brown
   hair: black, worn in a trader's knot
   eyes: dark brown, sharp

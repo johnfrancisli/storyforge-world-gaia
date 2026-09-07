@@ -53,7 +53,7 @@ key_phrases:
 - The work comes first. Everything else can wait.
 - I will not rest until I find a way to protect daisy without exposing me own identity as a deserter.
 visual:
-  body_build: lean and sinewy
+  body_build: lean and sinewy, small breasts
   hair: black, short, uneven (cut with a knife)
   eyes: dark brown
   distinctive_features: a deserter's brand scratched off her left shoulder (the mark was burned in, then

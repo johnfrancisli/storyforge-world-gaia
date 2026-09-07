@@ -57,7 +57,7 @@ key_phrases:
 - Good mead takes patience. Great mead takes luck.
 - You can't rush fermentation, and you can't rush honesty.
 visual:
-  body_build: round-faced, solid, welcoming
+  body_build: round-faced, solid, welcoming, small breasts
   skin: warm brown
   hair: black, long, worn loose
   eyes: dark brown, warm but watchful

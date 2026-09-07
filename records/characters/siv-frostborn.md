@@ -54,7 +54,7 @@ key_phrases:
 - Pain speaks louder than words, but silence tells the deeper truth.
 - I will not rest until I find out what me mother's bargain was and whether it can be renegotiated.
 visual:
-  body_build: slender and slightly frail-looking, deceptively strong
+  body_build: slender and slightly frail-looking, deceptively strong, medium breasts
   hair: white-blonde, fine, worn loose
   eyes: pale blue, distant and sometimes confused
   distinctive_features: a faint shimmer in her skin when she heals (barely visible, like heat-haze), a

@@ -52,7 +52,7 @@ key_phrases:
 - A fair deal leaves both sides slightly unhappy. That is how you know it was fair.
 - Trust is the only currency that compounds.
 visual:
-  body_build: sturdy and energetic
+  body_build: sturdy and energetic, medium breasts
   hair: golden brown, thick, worn in a practical plait
   eyes: amber-brown
   distinctive_features: a honey-bee tattoo on her left shoulder (brewer's guild mark), a faint scar on

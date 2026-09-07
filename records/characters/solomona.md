@@ -60,7 +60,7 @@ key_phrases:
 - Home is not a place. It is the people who remember your name.
 - I lost everything. I will not lose who I am.
 visual:
-  body_build: strong, broad-handed, weathered
+  body_build: strong, broad-handed, weathered, broad chest
   skin: deep brown
   hair: black, short, prematurely grey at the temples
   eyes: dark brown, intense

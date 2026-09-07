@@ -54,7 +54,7 @@ key_phrases:
 - Some doors stay closed for a reason.
 - I will not rest until I keep the location of the djinn-heated spring secret, even from me daughter.
 visual:
-  body_build: broad-shouldered and strong-armed
+  body_build: broad-shouldered and strong-armed, medium breasts
   hair: black, tied up in a cloth that is itself dyed djinn-blue
   eyes: dark brown, laughing
   distinctive_features:

@@ -47,7 +47,7 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 visual:
-  body_build: lean and wiry from years on the hills
+  body_build: lean and wiry from years on the hills, medium breasts
   hair: wheat blonde, sun-bleached, worn in a single braid
   eyes: weathered green
   distinctive_features: freckles across nose and shoulders, a crooked left little finger (healed badly)

@@ -52,7 +52,7 @@ key_phrases:
 - Metal has opinions. My job is to negotiate.
 - The forge teaches patience whether you want to learn it or not.
 visual:
-  body_build: compact, dense, heavily muscled
+  body_build: compact, dense, heavily muscled, average chest
   height: short but not disproportionately so
   hair: iron grey, braided beard
   eyes: dark brown

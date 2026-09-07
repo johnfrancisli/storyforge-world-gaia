@@ -63,7 +63,7 @@ key_phrases:
 - Every pact is a conversation that never ends.
 - I will not rest until I free the mother of jaguars from what she believes is a cage.
 visual:
-  body_build: lithe and alert, built for both study and rainforest travel
+  body_build: lithe and alert, built for both study and rainforest travel, medium breasts
   hair: tawny-black with emerging rosette patterning at the temples
   eyes: bright amber-gold, vertical pupils, unusually piercing
   distinctive_features:

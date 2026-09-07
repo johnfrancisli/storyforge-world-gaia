@@ -55,7 +55,7 @@ key_phrases:
 - History is not the past. It is the argument about the past.
 - What is written can be unwritten. What is burned cannot.
 visual:
-  body_build: thin, angular
+  body_build: thin, angular, small breasts
   hair: steel grey, in a tight bun secured with two pins
   eyes: hazel, behind round spectacles
   distinctive_features: ink stains on the right middle finger and the tip of the nose from close work

@@ -56,7 +56,7 @@ key_phrases:
 - The whale gave its life. The least I can do is understand why.
 - Every hunt teaches you something about yourself you didn't want to know.
 visual:
-  body_build: very tall and heavily built, raw power
+  body_build: very tall and heavily built, raw power, small breasts
   hair: grey-blonde, thick, worn loose under a leather cap
   eyes: dark grey, deep-set
   distinctive_features: a white scar across her collarbone from a harpoon line that snapped, three teeth

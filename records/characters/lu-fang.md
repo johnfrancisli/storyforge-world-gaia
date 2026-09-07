@@ -52,7 +52,7 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 visual:
-  body_build: tall, muscular, imposing
+  body_build: tall, muscular, imposing, broad chest
   hair: black, topknot, thick beard
   eyes: dark brown
   distinctive_features: a old arrow scar on the left shoulder, callused sword-hand

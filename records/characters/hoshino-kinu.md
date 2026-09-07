@@ -53,7 +53,7 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 visual:
-  body_build: lean, strong-shouldered
+  body_build: lean, strong-shouldered, medium breasts
   hair: black, cropped short, practical
   eyes: dark brown, steady
   distinctive_features: elaborate tattoos visible on both forearms — phoenix and wave motifs

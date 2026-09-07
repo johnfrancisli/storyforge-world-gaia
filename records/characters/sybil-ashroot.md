@@ -50,7 +50,7 @@ key_phrases:
 - The earth provides, if you know where to look.
 - I will not rest until I protect the three marked children from being taken or exploited.
 visual:
-  body_build: sturdy and comfortable
+  body_build: sturdy and comfortable, large breasts
   hair: white, thick, worn in a long braid
   eyes: warm brown
   distinctive_features: deeply lined face from decades of smiling, a large mole on her right temple, gentle

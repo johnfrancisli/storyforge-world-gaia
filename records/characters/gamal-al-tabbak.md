@@ -59,7 +59,7 @@ key_phrases:
 - Food is love made edible.
 - A good cook feeds the body. A great cook feeds the soul.
 visual:
-  body_build: medium, unremarkable
+  body_build: medium, unremarkable, average chest
   hair: black, cropped, under a cook's cap
   eyes: brown, deliberately bland
   distinctive_features:

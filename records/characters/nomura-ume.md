@@ -53,7 +53,7 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 visual:
-  body_build: sturdy, short
+  body_build: sturdy, short, small breasts
   hair: black, tied under a cloth cap
   eyes: dark brown, observant
   distinctive_features: a crooked nose from being kicked by a horse at fourteen

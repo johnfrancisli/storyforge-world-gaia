@@ -55,7 +55,7 @@ key_phrases:
 - The road teaches what the market cannot.
 - Every caravan carries more than goods.
 visual:
-  body_build: medium height, trim and well-fed
+  body_build: medium height, trim and well-fed, average chest
   hair: brown, worn neatly trimmed
   eyes: grey, warm on the surface, calculating underneath
   distinctive_features: a merchant's tattoo of a coin-ship on his right forearm, a small scar on his left

@@ -56,7 +56,7 @@ key_phrases:
 - The keel is the spine. Get it wrong and nothing else matters.
 - I will not rest until I build a ship so fine it would make even the dead southern shipwright proud.
 visual:
-  body_build: broad and muscular from years of timber work
+  body_build: broad and muscular from years of timber work, small breasts
   hair: sandy brown, cut short and practical
   eyes: warm brown
   distinctive_features: a missing half of her left little finger (saw accident), deep calluses across

@@ -53,7 +53,7 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 visual:
-  body_build: slender, narrow-shouldered
+  body_build: slender, narrow-shouldered, medium breasts
   hair: black, thin, braided
   eyes: dark brown, anxious
   distinctive_features: a faint red line around the neck like a crease, usually hidden by a cloth

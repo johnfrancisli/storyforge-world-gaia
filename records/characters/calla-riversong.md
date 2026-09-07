@@ -53,7 +53,7 @@ key_phrases:
 - A warm meal and a dry bed — that's half of any problem solved.
 - I will not rest until I deliver the dead commander's dispatch to someone who can act on it.
 visual:
-  body_build: short and round, halfling stature
+  body_build: short and round, halfling stature, large breasts
   hair: greying brown, under a kerchief
   eyes: warm hazel
   distinctive_features: a burn scar on her left hand (kitchen accident), laugh lines deep enough to be

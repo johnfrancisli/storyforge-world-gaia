@@ -60,7 +60,7 @@ key_phrases:
 - A story forgotten is a person erased.
 - The best stories are the ones that change in the telling.
 visual:
-  body_build: soft, round-faced, expressive in gesture
+  body_build: soft, round-faced, expressive in gesture, large breasts
   skin: warm brown
   hair: black, greying at the temples, worn loose
   eyes: bright brown, warm and engaging

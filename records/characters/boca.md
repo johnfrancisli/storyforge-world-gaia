@@ -56,7 +56,7 @@ key_phrases:
 - Knowing where you are is not the same as knowing where you're going.
 - I will not rest until I understand what is cutting the spirit-paths and why.
 visual:
-  body_build: wiry and lean, built for endurance hiking
+  body_build: wiry and lean, built for endurance hiking, small breasts
   hair: black, greying, cut short and practical
   eyes: hazel, constantly scanning the ground
   distinctive_features:

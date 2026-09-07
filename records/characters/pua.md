@@ -54,7 +54,7 @@ key_phrases:
 - The song is the map. The water is the road.
 - Stars and currents and birds — the ocean speaks in many voices.
 visual:
-  body_build: small, wiry, weathered
+  body_build: small, wiry, weathered, small breasts
   skin: deep tan, sun-weathered
   hair: white, short, salt-stiff
   eyes: dark brown, bright

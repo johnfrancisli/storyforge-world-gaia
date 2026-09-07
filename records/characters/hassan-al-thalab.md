@@ -57,7 +57,7 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 visual:
-  body_build: lean and sinewy, performer's grace
+  body_build: lean and sinewy, performer's grace, narrow chest
   hair: black, grey-streaked, under a performer's turban
   eyes: brown, mesmeric and intense when playing
   distinctive_features:

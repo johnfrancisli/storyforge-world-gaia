@@ -48,7 +48,7 @@ key_phrases:
 - Some doors stay closed for a reason.
 - I will not rest until I earn enough to settle down and open a proper shop.
 visual:
-  body_build: short and wiry, halfling stature
+  body_build: short and wiry, halfling stature, narrow chest
   hair: reddish-brown, unruly curls
   eyes: bright green
   distinctive_features: perpetually ink-stained fingers, a chipped front tooth

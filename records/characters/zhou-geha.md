@@ -49,7 +49,7 @@ key_phrases:
 - Home is not a place. It is the people who remember your name.
 - I lost everything. I will not lose who I am.
 visual:
-  body_build: broad-shouldered and strong-armed
+  body_build: broad-shouldered and strong-armed, small breasts
   hair: dark brown, cropped short and tied back
   eyes: hazel, always scanning the water
   distinctive_features:

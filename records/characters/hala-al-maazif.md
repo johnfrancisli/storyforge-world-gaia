@@ -54,7 +54,7 @@ key_phrases:
 - Music is what words feel when they are honest.
 - Every song is a conversation with silence.
 visual:
-  body_build: slender, long-fingered
+  body_build: slender, long-fingered, small breasts
   hair: black with grey threads, loose past the shoulders
   eyes: dark brown, dreamy
   distinctive_features:

@@ -48,7 +48,7 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 visual:
-  body_build: lean, wiry, compact
+  body_build: lean, wiry, compact, narrow chest
   hair: black, short, messy
   eyes: green, slit-pupiled
   distinctive_features: black cat ears, long black tail, a small chip in the left ear

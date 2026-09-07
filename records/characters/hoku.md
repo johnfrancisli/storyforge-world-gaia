@@ -59,7 +59,7 @@ key_phrases:
 - The stars do not lie, but they do not explain themselves.
 - The ocean is not empty. It is full of things you cannot see.
 visual:
-  body_build: lean, weathered, salt-roughened
+  body_build: lean, weathered, salt-roughened, small breasts
   skin: deep brown, heavily weathered
   hair: black, greying, short and salt-stiffened
   eyes: dark brown, quiet and watchful

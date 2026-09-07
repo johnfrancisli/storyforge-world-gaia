@@ -47,7 +47,7 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 visual:
-  body_build: lean, wiry
+  body_build: lean, wiry, narrow chest
   hair: black, greying, bound in a topknot
   eyes: dark brown, sharp
   distinctive_features: a thin scar along the jawline from an assassin's blade years ago

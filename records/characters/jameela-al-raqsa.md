@@ -54,7 +54,7 @@ key_phrases:
 - The body says what the voice cannot.
 - Every step is a sentence. Every turn is a word.
 visual:
-  body_build: lithe and small, dancer's physique
+  body_build: lithe and small, dancer's physique, medium breasts
   hair: black, long, loose when performing
   eyes: dark brown, kohl-rimmed
   distinctive_features:

@@ -54,7 +54,7 @@ key_phrases:
 - I will not be my father. I will not be his mistake.
 - The throne is not my goal. It is my responsibility.
 visual:
-  body_build: tall, erect, military bearing
+  body_build: tall, erect, military bearing, average chest
   hair: black, in a formal topknot
   eyes: dark brown — visible only without the mask, which is rare
   distinctive_features: always wears a white Noh mask in public; the mask's expression seems to shift

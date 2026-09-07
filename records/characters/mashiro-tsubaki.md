@@ -50,7 +50,7 @@ key_phrases:
 - Some doors stay closed for a reason.
 - I will not rest until I keep the tengu kiln secret and continue making pottery that people cherish.
 visual:
-  body_build: compact, strong-wristed
+  body_build: compact, strong-wristed, medium breasts
   hair: black, cropped short for practicality
   eyes: dark brown
   distinctive_features: a pale clay-colored callus on the right thumb from years of wheel work

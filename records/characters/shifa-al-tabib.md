@@ -58,7 +58,7 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 visual:
-  body_build: medium, steady-handed
+  body_build: medium, steady-handed, small breasts
   hair: black with grey, tied in a practical bun
   eyes: brown, calm and clinical
   distinctive_features:

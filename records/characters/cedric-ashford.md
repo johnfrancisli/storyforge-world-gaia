@@ -46,7 +46,7 @@ key_phrases:
 - Some doors stay closed for a reason.
 - I will not rest until I earn forgiveness he believes he does not deserve.
 visual:
-  body_build: broad and thickening with age
+  body_build: broad and thickening with age, broad chest
   hair: greying brown, cropped short
   eyes: blue, deep-set
   distinctive_features: an old brand mark on his right shoulder (the Dragon Order sigil, partially scarred

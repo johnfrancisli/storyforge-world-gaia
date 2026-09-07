@@ -57,7 +57,7 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 visual:
-  body_build: medium, precise in movement
+  body_build: medium, precise in movement, average chest
   hair: black, in a simple topknot
   eyes: dark brown, focused
   distinctive_features: paper-cut calluses on both thumbs and a faint glue stain on the left forearm

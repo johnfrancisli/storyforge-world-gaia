@@ -57,7 +57,7 @@ key_phrases:
 - The river gives and the river takes. You learn to accept both.
 - A bad day fishing is still a day on the water.
 visual:
-  body_build: stocky, thick-legged, sure-footed
+  body_build: stocky, thick-legged, sure-footed, small breasts
   skin: deep brown, heavily sun-weathered
   hair: black fading to grey-brown at the temples, short and practical
   eyes: dark brown, narrow against the sun

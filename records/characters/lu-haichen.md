@@ -53,7 +53,7 @@ key_phrases:
 - Some doors stay closed for a reason.
 - I will not rest until I prove that non-lethal combat can change how the three states wage war.
 visual:
-  body_build: lean and whipcord-strong
+  body_build: lean and whipcord-strong, broad chest
   hair: black, short-cropped for practicality
   eyes: dark brown, steady and kind
   distinctive_features:

@@ -55,7 +55,7 @@ key_phrases:
 - A bad day fishing is still a day on the water.
 - I will not rest until I understand what the stone is before it does something she cannot undo.
 visual:
-  body_build: short and broad, powerful arms and hands
+  body_build: short and broad, powerful arms and hands, small breasts
   hair: dark brown, greying at the temples, worn in a practical single braid
   eyes: dark brown, watchful
   distinctive_features: a rope-burn scar across both palms, a chipped front tooth, a small blue tattoo

@@ -49,7 +49,7 @@ key_phrases:
 - Patience is the only crop that grows in any season.
 - I will not rest until I see no flag village recognized as neutral territory by all three states.
 visual:
-  body_build: sturdy and broad-hipped from years of field labor
+  body_build: sturdy and broad-hipped from years of field labor, large breasts
   hair: dark brown, gray at the temples, in a tight braid
   eyes: warm brown, crow's feet from squinting at the sun
   distinctive_features:

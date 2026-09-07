@@ -53,7 +53,7 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 visual:
-  body_build: tall, composed
+  body_build: tall, composed, average chest
   skin: dark obsidian with cracks of blue fire (in true form); warm brown (in human form)
   hair: black, or flame, depending on form
   eyes: blue fire, always

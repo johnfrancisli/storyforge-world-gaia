@@ -52,7 +52,7 @@ key_phrases:
 - A good cook feeds the body. A great cook feeds the soul.
 - I will not rest until I help the headmaster find a way to resist the warlord's coercion.
 visual:
-  body_build: round and sturdy
+  body_build: round and sturdy, medium breasts
   hair: white, under a cook's head wrap
   eyes: warm brown, crinkled and kind
   distinctive_features:

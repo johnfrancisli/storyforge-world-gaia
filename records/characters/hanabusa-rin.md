@@ -50,7 +50,7 @@ key_phrases:
 - Understanding comes slowly, like dawn.
 - The question is always more important than the answer.
 visual:
-  body_build: slim, tall for a woman
+  body_build: slim, tall for a woman, large breasts
   hair: black, long, braided and pinned with a single wooden pin
   eyes: grey-green
   distinctive_features: green-stained fingertips permanent from years of handling plant stems

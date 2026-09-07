@@ -56,7 +56,7 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 visual:
-  body_build: stocky, thick-armed from metalwork
+  body_build: stocky, thick-armed from metalwork, broad chest
   hair: greying black, cropped short, singed at the edges
   eyes: brown, anxious and sleep-deprived
   distinctive_features:

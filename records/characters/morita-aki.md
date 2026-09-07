@@ -52,7 +52,7 @@ key_phrases:
 - A good cook feeds the body. A great cook feeds the soul.
 - I will not rest until I help hanako maintain the old shrine site before its power fades completely.
 visual:
-  body_build: sturdy, quick-moving
+  body_build: sturdy, quick-moving, small breasts
   hair: black, short, tied under a cloth cap
   eyes: warm brown
   distinctive_features: a small burn scar on the left wrist from a kitchen accident years ago

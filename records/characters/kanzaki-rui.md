@@ -54,7 +54,7 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 visual:
-  body_build: voluptuous, imposing
+  body_build: voluptuous, imposing, large breasts
   hair: black, long, styled with gambling chips as hairpins
   eyes: dark brown, heavy-lidded
   distinctive_features: a tiny fox tattoo behind the right ear — the mark of her network

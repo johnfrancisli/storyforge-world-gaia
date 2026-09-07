@@ -51,7 +51,7 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 visual:
-  body_build: stocky, broad
+  body_build: stocky, broad, broad chest
   skin: deep brown
   hair: grey, close-cropped
   eyes: dark brown

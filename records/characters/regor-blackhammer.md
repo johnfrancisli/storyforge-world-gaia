@@ -49,7 +49,7 @@ key_phrases:
 - Some doors stay closed for a reason.
 - I will not rest until I expose the armour sabotage before a knight dies because of it.
 visual:
-  body_build: short and heavily muscled, dwarven build
+  body_build: short and heavily muscled, dwarven build, average chest
   hair: black with early grey streaks, short singed beard
   eyes: deep-set dark brown
   distinctive_features: a burn scar across his left palm, three missing toes on his right foot (old forge

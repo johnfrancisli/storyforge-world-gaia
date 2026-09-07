@@ -54,7 +54,7 @@ key_phrases:
 - The best stories are the ones that change in the telling.
 - I will not rest until I tell the true story — because a skald who hides the truth is no skald at all.
 visual:
-  body_build: slender and wiry, quick-moving
+  body_build: slender and wiry, quick-moving, small breasts
   hair: black, long, worn loose when performing, braided otherwise
   eyes: bright grey, alert and watchful
   distinctive_features: a poet's ink-mark on her right cheekbone (a small rune for 'voice'), a chipped

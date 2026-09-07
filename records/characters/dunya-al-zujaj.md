@@ -55,7 +55,7 @@ key_phrases:
 - Some doors stay closed for a reason.
 - I will not rest until I find another source of the special sand before the dune runs out.
 visual:
-  body_build: wiry, strong-lunged
+  body_build: wiry, strong-lunged, small breasts
   hair: black, short, singed at the edges
   eyes: amber, furnace-lit
   distinctive_features:

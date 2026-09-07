@@ -55,7 +55,7 @@ key_phrases:
 - Every plant has a purpose, if you listen closely enough.
 - The earth provides, if you know where to look.
 visual:
-  body_build: solid, grounded, wide-hipped
+  body_build: solid, grounded, wide-hipped, medium breasts
   skin: warm brown, weathered at the hands
   hair: black streaked with grey, worn in a single braid
   eyes: deep brown, warm

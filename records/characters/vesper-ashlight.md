@@ -56,7 +56,7 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 visual:
-  body_build: lean and still
+  body_build: lean and still, small breasts
   hair: dark brown, braided and pinned close to her head
   eyes: hawkish amber
   distinctive_features: permanent talon scars on her left forearm (falconer's marks), a burn scar on her

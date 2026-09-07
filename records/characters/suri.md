@@ -55,7 +55,7 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 visual:
-  body_build: lean and long-limbed, built for distance travel
+  body_build: lean and long-limbed, built for distance travel, small breasts
   hair: a crest of pale tan scales, sun-bleached
   eyes: pale gold, slit-pupiled, sun-squinted
   distinctive_features:

@@ -53,7 +53,7 @@ key_phrases:
 - The spirits do not serve. They negotiate.
 - Every pact is a conversation that never ends.
 visual:
-  body_build: gaunt but unbowed, tall for a beast-kin
+  body_build: gaunt but unbowed, tall for a beast-kin, medium breasts
   hair: white, coarse, worn loose past the shoulders
   eyes: amber-gold with vertical pupils
   distinctive_features:

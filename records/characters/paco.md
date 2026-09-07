@@ -57,7 +57,7 @@ key_phrases:
 - Some doors stay closed for a reason.
 - I will not rest until I understand what lies beneath iara before it wakes fully.
 visual:
-  body_build: broad and powerful, built for heavy construction work
+  body_build: broad and powerful, built for heavy construction work, broad chest
   hair: black, thinning, cut short for safety
   eyes: brown, practical and assessing
   distinctive_features:

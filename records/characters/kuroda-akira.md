@@ -55,7 +55,7 @@ key_phrases:
 - Knowledge is not power. Knowledge is a lantern in a large, dark room.
 - The truth does not need you to believe in it.
 visual:
-  body_build: medium, softening with age
+  body_build: medium, softening with age, average chest
   hair: grey, in a scholar's topknot
   eyes: dark brown, heavy-lidded, watchful
   distinctive_features: deep lines bracketing the mouth from a lifetime of careful expressions

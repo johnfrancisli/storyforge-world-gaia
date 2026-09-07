@@ -55,7 +55,7 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 visual:
-  body_build: short and stocky, built for cold water and deep dives
+  body_build: short and stocky, built for cold water and deep dives, large breasts
   hair: dark brown, cropped short (it dries faster)
   eyes: sea-green, bright and water-reddened
   distinctive_features: permanently chapped lips and reddened skin around the eyes from cold-water diving,

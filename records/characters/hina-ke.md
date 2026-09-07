@@ -57,7 +57,7 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 visual:
-  body_build: composed, upright, precise
+  body_build: composed, upright, precise, medium breasts
   skin: medium brown
   hair: black, greying early, worn in a chanter's braided style
   eyes: dark brown, sharp

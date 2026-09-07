@@ -54,7 +54,7 @@ key_phrases:
 - The wilderness does not forgive carelessness.
 - I will not rest until I confirm the identity of the masked figure before making any accusation.
 visual:
-  body_build: sleek and compact, powerful swimmer's build
+  body_build: sleek and compact, powerful swimmer's build, medium breasts
   hair: short dense brown fur covering the head and body
   eyes: dark, bright, round
   distinctive_features:

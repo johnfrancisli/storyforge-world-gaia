@@ -58,7 +58,7 @@ key_phrases:
 - Home is not a place. It is the people who remember your name.
 - I lost everything. I will not lose who I am.
 visual:
-  body_build: slender, composed, watchful
+  body_build: slender, composed, watchful, medium breasts
   skin: medium brown
   hair: black, short, unkempt from the journey
   eyes: dark brown, guarded

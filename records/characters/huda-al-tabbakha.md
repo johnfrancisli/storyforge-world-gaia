@@ -58,7 +58,7 @@ key_phrases:
 - A good cook feeds the body. A great cook feeds the soul.
 - I will not rest until I expose the binding families' hoarding before the shortage becomes a famine.
 visual:
-  body_build: stout and strong-armed
+  body_build: stout and strong-armed, large breasts
   hair: grey-black, covered by a cloth cap
   eyes: warm brown, crinkled
   distinctive_features:

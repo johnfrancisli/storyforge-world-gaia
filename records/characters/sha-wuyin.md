@@ -52,7 +52,7 @@ key_phrases:
 - Some doors stay closed for a reason.
 - I will not rest until I sell the partition plan before the coup happens.
 visual:
-  body_build: lean and wiry, coiled-tight
+  body_build: lean and wiry, coiled-tight, medium breasts
   hair: black with a white streak at the right temple, in a practical gambler's ponytail
   eyes: sharp black, miss nothing
   distinctive_features:

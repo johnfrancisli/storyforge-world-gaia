@@ -48,7 +48,7 @@ key_phrases:
 - The work comes first. Everything else can wait.
 - I will not rest until I understand me visions before they overwhelm me.
 visual:
-  body_build: slender and willowy
+  body_build: slender and willowy, medium breasts
   hair: raven black, long, loose
   eyes: deep amber
   distinctive_features: a small mole below her left eye, ritual tattoos on her inner wrists (old fortune-teller

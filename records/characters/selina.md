@@ -56,7 +56,7 @@ key_phrases:
 - Some doors stay closed for a reason.
 - I will not rest until I understand the boundary between life and death and where me song fits in it.
 visual:
-  body_build: solid, sure-handed, calm in bearing
+  body_build: solid, sure-handed, calm in bearing, small breasts
   skin: warm brown
   hair: black, greying, braided and pinned up
   eyes: deep brown, steady

@@ -50,7 +50,7 @@ key_phrases:
 - The work comes first. Everything else can wait.
 - I will not rest until I protect the gifted children from being taken and weaponized.
 visual:
-  body_build: large and imposing
+  body_build: large and imposing, medium breasts
   hair: iron grey, braided and pinned
   eyes: stern brown, softening around children
   distinctive_features: a broken and healed nose, a prominent scar on her chin from a childhood fall,

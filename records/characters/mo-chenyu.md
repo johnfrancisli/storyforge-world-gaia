@@ -50,7 +50,7 @@ key_phrases:
 - Some doors stay closed for a reason.
 - I will not rest until I expose the advisor's conspiracy before it turns violent.
 visual:
-  body_build: tall and muscular, broad-shouldered
+  body_build: tall and muscular, broad-shouldered, medium breasts
   hair: black, cropped to the jaw, practical
   eyes: steel-gray, assessing
   distinctive_features:

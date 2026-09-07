@@ -56,7 +56,7 @@ key_phrases:
 - The streets teach you who people really are.
 - I see everything. Nobody sees me.
 visual:
-  body_build: thin and gaunt from years of poverty
+  body_build: thin and gaunt from years of poverty, average chest
   hair: grey, uneven, unwashed
   eyes: dark brown, sharp and intelligent despite his appearance
   distinctive_features:

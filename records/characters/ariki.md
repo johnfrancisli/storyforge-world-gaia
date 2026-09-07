@@ -61,7 +61,7 @@ key_phrases:
 - Home is not a place. It is the people who remember your name.
 - I lost everything. I will not lose who I am.
 visual:
-  body_build: dignified, composed, straight-backed
+  body_build: dignified, composed, straight-backed, medium breasts
   skin: deep brown
   hair: black, greying, worn in a chief's style despite her refugee status
   eyes: dark brown, steady

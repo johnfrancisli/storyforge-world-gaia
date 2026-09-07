@@ -49,7 +49,7 @@ key_phrases:
 - Steel serves the cause; the cause does not serve the steel.
 - I will not rest until I find a way to survive voidgaze's death without losing me mind or me life.
 visual:
-  body_build: tall and lean
+  body_build: tall and lean, narrow chest
   hair: black, worn short
   eyes: dark brown, intense
   distinctive_features: a dragon-bond scar covering his entire chest (hidden by armour), premature grey

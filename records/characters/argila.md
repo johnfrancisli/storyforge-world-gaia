@@ -57,7 +57,7 @@ key_phrases:
 - Some doors stay closed for a reason.
 - I will not rest until I understand what the clay-child is and what it needs to thrive.
 visual:
-  body_build: sturdy and patient, strong from kneading clay
+  body_build: sturdy and patient, strong from kneading clay, medium breasts
   hair: greying black, tied back under a clay-spattered cloth
   eyes: warm brown, soft and focused
   distinctive_features:

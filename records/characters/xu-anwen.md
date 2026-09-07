@@ -52,7 +52,7 @@ key_phrases:
 - Some doors stay closed for a reason.
 - I will not rest until I discover what the jin court is doing with me paper.
 visual:
-  body_build: compact and strong-armed from pulp-mashing
+  body_build: compact and strong-armed from pulp-mashing, large breasts
   hair: dark, wrapped in a cloth headband
   eyes: warm brown, steady
   distinctive_features:

@@ -56,7 +56,7 @@ key_phrases:
 - The best stories are the ones that change in the telling.
 - I will not rest until I find someone worthy of the secret before me memory fails completely.
 visual:
-  body_build: very small and frail, shrunken with age
+  body_build: very small and frail, shrunken with age, medium breasts
   hair: pure white, thin, worn loose
   eyes: pale blue, milky but still sharp
   distinctive_features: deeply lined face, a pronounced stoop, a faded tattoo of a raven on her left hand

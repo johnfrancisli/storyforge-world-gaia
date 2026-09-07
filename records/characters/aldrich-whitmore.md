@@ -50,7 +50,7 @@ key_phrases:
 - "Silence does not mean absence."
 - "A knight's strength is in his conviction, not his sword."
 visual:
-  body_build: fit, broad-shouldered, strong
+  body_build: fit, broad-shouldered, strong, broad chest
   height: tall
   hair: brown, greying at the temples, cropped short
   eyes: grey

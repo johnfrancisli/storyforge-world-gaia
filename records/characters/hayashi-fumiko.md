@@ -49,7 +49,7 @@ key_phrases:
 - Music is what words feel when they are honest.
 - Every song is a conversation with silence.
 visual:
-  body_build: slender, straight-backed
+  body_build: slender, straight-backed, small breasts
   hair: black, greying at the temples, worn in a formal low bun
   eyes: dark brown, lined
   distinctive_features: deep calluses on the right-hand fingertips from koto picks worn for decades

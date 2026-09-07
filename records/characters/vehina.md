@@ -56,7 +56,7 @@ key_phrases:
 - Some doors stay closed for a reason.
 - I will not rest until I teach mafana every chant before me memory fails completely.
 visual:
-  body_build: small, frail, bird-boned
+  body_build: small, frail, bird-boned, medium breasts
   skin: deep brown, deeply lined
   hair: white, thin, covered by a woven scarf
   eyes: pale brown, clouding with age

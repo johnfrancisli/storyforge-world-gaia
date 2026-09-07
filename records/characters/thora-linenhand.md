@@ -56,7 +56,7 @@ key_phrases:
 - Some doors stay closed for a reason.
 - I will not rest until I find the source of the sail-soul thread before me supply runs out.
 visual:
-  body_build: tall and long-limbed, rangy
+  body_build: tall and long-limbed, rangy, medium breasts
   hair: light brown, thinning, worn under a linen cap
   eyes: grey, quick and detail-oriented
   distinctive_features: unusually smooth, pale hands for a Hrafnland craftswoman, a small callus on her

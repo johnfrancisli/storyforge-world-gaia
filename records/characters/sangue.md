@@ -56,7 +56,7 @@ key_phrases:
 - Some doors stay closed for a reason.
 - I will not rest until I protect sol from being discarded by the chief.
 visual:
-  body_build: tall and heavily muscled, built for intimidation and combat
+  body_build: tall and heavily muscled, built for intimidation and combat, medium breasts
   hair: short, tawny with black rosette patterning extending from scalp to shoulders
   eyes: amber-gold, vertical pupils, vigilant
   distinctive_features:

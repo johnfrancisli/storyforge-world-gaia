@@ -53,7 +53,7 @@ key_phrases:
 - Some doors stay closed for a reason.
 - I will not rest until I uncover who is inside the castle guard conspiracy and how high it reaches.
 visual:
-  body_build: athletic and broad-shouldered
+  body_build: athletic and broad-shouldered, small breasts
   hair: reddish-blonde, cropped short under a helm
   eyes: steel grey
   distinctive_features: a guard's brand on her left forearm (castle crest), a scar across her right knuckles

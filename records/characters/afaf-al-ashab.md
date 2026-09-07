@@ -57,7 +57,7 @@ key_phrases:
 - "Even the desert yields to water, in time."
 - "There are secrets buried deeper than roots."
 visual:
-  body_build: fit, strong from garden work
+  body_build: fit, strong from garden work, small breasts
   hair: dark brown, long, always with leaves caught in it
   eyes: soft green
   distinctive_features:

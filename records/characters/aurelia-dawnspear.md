@@ -51,7 +51,7 @@ key_phrases:
 - Steel serves the cause; the cause does not serve the steel.
 - I will not rest until I follow emberthyst's call and discover what lies in the northern mountains.
 visual:
-  body_build: tall and athletic
+  body_build: tall and athletic, medium breasts
   hair: red-gold, cropped short
   eyes: amber
   distinctive_features: a burn-scar pattern on her left shoulder (dragon-bond mark, resembles scales),

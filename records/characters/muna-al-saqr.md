@@ -58,7 +58,7 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 visual:
-  body_build: lean and wiry, outdoor-hardened
+  body_build: lean and wiry, outdoor-hardened, medium breasts
   hair: sandy brown, braided, under a falconer's cap
   eyes: grey, hawk-sharp
   distinctive_features:

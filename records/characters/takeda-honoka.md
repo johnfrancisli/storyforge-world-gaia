@@ -49,7 +49,7 @@ key_phrases:
 - A blade unused rusts. A blade used without purpose dulls.
 - I will not rest until I serve me clan honorably without betraying the man she has come to love.
 visual:
-  body_build: athletic, broad-shouldered
+  body_build: athletic, broad-shouldered, medium breasts
   hair: black, pinned in a high topknot
   eyes: dark brown, narrow
   distinctive_features: a callus ridge across both palms from years of weapons training

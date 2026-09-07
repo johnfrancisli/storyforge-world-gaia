@@ -55,7 +55,7 @@ key_phrases:
 - A healer's first task is to listen.
 - Pain speaks louder than words, but silence tells the deeper truth.
 visual:
-  body_build: soft and rounded, gentle in bearing
+  body_build: soft and rounded, gentle in bearing, huge breasts
   hair: dark brown, streaked with early grey, worn in a loose bun
   eyes: warm brown, kind, with a permanent undercurrent of sorrow
   distinctive_features:

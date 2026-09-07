@@ -54,7 +54,7 @@ key_phrases:
 - The work comes first. Everything else can wait.
 - I will not rest until I ensure the younger prince is prepared to lead if the elder proves unfit.
 visual:
-  body_build: athletic, tall
+  body_build: athletic, tall, small breasts
   hair: black, cropped short under helm
   eyes: dark brown, hard
   distinctive_features: a thin scar across the jawline from a training accident

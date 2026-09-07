@@ -54,7 +54,7 @@ key_phrases:
 - Some doors stay closed for a reason.
 - I will not rest until I find and kill whatever is draining me sheep before it takes the whole flock.
 visual:
-  body_build: lean and wiry, built for long days on the hill
+  body_build: lean and wiry, built for long days on the hill, small breasts
   hair: dark brown, thick, worn in a single braid under a wool cap
   eyes: hazel, red-rimmed from sleeplessness
   distinctive_features: dark circles under both eyes (chronic), a sheep-dog bite scar on her right hand

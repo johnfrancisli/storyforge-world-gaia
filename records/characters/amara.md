@@ -51,7 +51,7 @@ key_phrases:
 - "Spirits are restless, meaning the water will be too."
 - "Kaa, put the bottle down and tell me what you saw."
 visual:
-  body_build: fit, stocky, strong
+  body_build: fit, stocky, strong, medium breasts
   skin: blue-green, sun-darkened
   hair: dark green, braided tight
   eyes: teal

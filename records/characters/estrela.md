@@ -55,7 +55,7 @@ key_phrases:
 - Every step is a sentence. Every turn is a word.
 - I will not rest until I remember what happens during me trance-dances.
 visual:
-  body_build: lithe and flexible, dancer's build
+  body_build: lithe and flexible, dancer's build, small breasts
   hair: black, long, worn loose for dancing
   eyes: dark brown, bright, with an unfocused quality
   distinctive_features:

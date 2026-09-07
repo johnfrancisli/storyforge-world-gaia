@@ -55,7 +55,7 @@ key_phrases:
 - Some doors stay closed for a reason.
 - I will not rest until I protect the three families whose secrets she holds — even from themselves.
 visual:
-  body_build: medium height, soft and solid
+  body_build: medium height, soft and solid, medium breasts
   hair: grey, thick, pinned in a practical coil
   eyes: warm brown, deeply lined at the corners
   distinctive_features: a mole on her left cheek, a slight curvature of the spine from decades of leaning

@@ -57,7 +57,7 @@ key_phrases:
 - Some doors stay closed for a reason.
 - I will not rest until I decipher tara's notation system and gain access to djinn true names.
 visual:
-  body_build: slender, precise
+  body_build: slender, precise, narrow chest
   hair: black, oiled, immaculately kept
   eyes: dark brown, sharp and restless
   distinctive_features:

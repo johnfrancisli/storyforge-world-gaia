@@ -48,7 +48,7 @@ key_phrases:
 - Pain speaks louder than words, but silence tells the deeper truth.
 - I will not rest until I identify and expose the person who poisoned the queen.
 visual:
-  body_build: tall and straight-backed
+  body_build: tall and straight-backed, medium breasts
   hair: dark brown, shot through with silver, worn in a bun
   eyes: dark grey
   distinctive_features: a small but precise scar on her left eyebrow, healer's ink-mark on her right wrist

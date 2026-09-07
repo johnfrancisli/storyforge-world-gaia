@@ -51,7 +51,7 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 visual:
-  body_build: thin, wiry, deceptively strong
+  body_build: thin, wiry, deceptively strong, broad chest
   skin: weathered, sun-tanned
   hair: bald, shaved
   eyes: dark brown, calm

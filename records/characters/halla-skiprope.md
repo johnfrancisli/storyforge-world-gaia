@@ -55,7 +55,7 @@ key_phrases:
 - The sea doesn't negotiate. You learn her rules or you drown.
 - A still day on the water is a gift, not a promise.
 visual:
-  body_build: short and powerful, built for hauling and climbing
+  body_build: short and powerful, built for hauling and climbing, medium breasts
   hair: brown, sun-bleached, worn in two tight braids
   eyes: dark grey, watchful
   distinctive_features: rope-burn scars on both palms, a chipped right tooth from a boom-swing

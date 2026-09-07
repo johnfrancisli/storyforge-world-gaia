@@ -57,7 +57,7 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 visual:
-  body_build: round, short, sturdy
+  body_build: round, short, sturdy, average chest
   hair: grey, thinning, under a rolled towel
   eyes: dark brown, crinkled with permanent amusement
   distinctive_features: a broad, flat nose and a leaf-shaped birthmark behind the right ear (hidden)

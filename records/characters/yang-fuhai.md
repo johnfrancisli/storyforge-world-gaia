@@ -53,7 +53,7 @@ key_phrases:
 - The work comes first. Everything else can wait.
 - I will not rest until I pass the sealed-channel codes to someone worthy before he dies.
 visual:
-  body_build: wiry and sinewy, aged but strong
+  body_build: wiry and sinewy, aged but strong, broad chest
   hair: white, thin, under a canal-keeper's cap
   eyes: pale blue-gray, rheumy but sharp
   distinctive_features:

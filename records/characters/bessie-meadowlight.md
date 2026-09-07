@@ -48,7 +48,7 @@ key_phrases:
 - Patience is the only crop that grows in any season.
 - I will not rest until I keep the elven scholar alive long enough for him to deliver me documents.
 visual:
-  body_build: short and round, halfling stature
+  body_build: short and round, halfling stature, large breasts
   hair: white, thin, pinned in a bun under a hat
   eyes: bright blue
   distinctive_features: deep laugh lines, a missing right thumb (harvesting accident in her youth)

@@ -49,7 +49,7 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 visual:
-  body_build: slender, long-fingered
+  body_build: slender, long-fingered, small breasts
   hair: dark brown, loose, with thread fragments caught in it
   eyes: hazel
   distinctive_features: faint web-like scarring on the backs of both hands, pale and old

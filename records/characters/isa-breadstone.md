@@ -58,7 +58,7 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 visual:
-  body_build: medium height, soft and strong-armed from kneading
+  body_build: medium height, soft and strong-armed from kneading, medium breasts
   hair: light brown, worn under a baker's cap
   eyes: warm brown, gentle and crinkled
   distinctive_features: flour-dust permanently in the creases of her hands, a small burn-scar on her right

@@ -57,7 +57,7 @@ key_phrases:
 - The truth does not need you to believe in it.
 - I will not rest until I translate the voice's language and understand what it is telling me.
 visual:
-  body_build: slender, slight
+  body_build: slender, slight, medium breasts
   hair: dark brown, long braid
   eyes: hazel, curious and intense
   distinctive_features:

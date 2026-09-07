@@ -52,7 +52,7 @@ key_phrases:
 - I will not be my father. I will not be his mistake.
 - The throne is not my goal. It is my responsibility.
 visual:
-  body_build: slim, athletic
+  body_build: slim, athletic, medium breasts
   hair: auburn, braided
   eyes: green
   distinctive_features: a small mole below the left eye

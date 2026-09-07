@@ -56,7 +56,7 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 visual:
-  body_build: massive, towering, boulder-like
+  body_build: massive, towering, boulder-like, average chest
   hair: black, coarse, wild
   eyes: amber, single-horn protruding from the forehead (usually hidden under a hat)
   distinctive_features: iron-grey skin, a single oni horn at the brow, tusks visible when he speaks

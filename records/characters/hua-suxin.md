@@ -48,7 +48,7 @@ key_phrases:
 - Some doors stay closed for a reason.
 - I will not rest until I understand what the black stones are becoming.
 visual:
-  body_build: compact and sturdy
+  body_build: compact and sturdy, medium breasts
   hair: silver-streaked black, practical bun
   eyes: warm brown, observant
   distinctive_features:

@@ -57,7 +57,7 @@ key_phrases:
 - Some doors stay closed for a reason.
 - I will not rest until I finish the net and discover what me hands are making and why.
 visual:
-  body_build: compact, quick-handed, narrow-wristed
+  body_build: compact, quick-handed, narrow-wristed, small breasts
   skin: medium brown
   hair: black, short, wind-tangled
   eyes: dark brown, quick and watchful

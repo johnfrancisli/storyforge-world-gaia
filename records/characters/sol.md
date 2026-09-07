@@ -56,7 +56,7 @@ key_phrases:
 - The work comes first. Everything else can wait.
 - I will not rest until I block the second marriage and preserve me political standing.
 visual:
-  body_build: medium and straight-backed, dignified in bearing
+  body_build: medium and straight-backed, dignified in bearing, medium breasts
   hair: silver-black, worn in a formal arrangement with bone pins
   eyes: dark brown, sharp and evaluating
   distinctive_features:

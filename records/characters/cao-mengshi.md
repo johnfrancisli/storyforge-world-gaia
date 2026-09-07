@@ -47,7 +47,7 @@ key_phrases:
 - The best strategy is the one your enemy never sees.
 - I will not rest until I finish me fourth treatise before she dies.
 visual:
-  body_build: thin and angular
+  body_build: thin and angular, medium breasts
   hair: graying black, bound in a simple topknot
   eyes: piercing black, deep-set
   distinctive_features:

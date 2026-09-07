@@ -54,7 +54,7 @@ key_phrases:
 - Every caravan carries more than goods.
 - I will not rest until I make enough wealth to buy a warehouse and never sail in winter again.
 visual:
-  body_build: medium height, trim and quick-moving
+  body_build: medium height, trim and quick-moving, medium breasts
   hair: reddish-brown, worn under a dark blue trader's scarf
   eyes: grey-green, sharp and assessing
   distinctive_features: a trader's mark tattooed on her right forearm (a small anchor and coin), a thin

@@ -54,7 +54,7 @@ key_phrases:
 - The earth provides, if you know where to look.
 - I will not rest until I heal orm's wound and help him find a way to live without hiding.
 visual:
-  body_build: small and wiry, strong for her size
+  body_build: small and wiry, strong for her size, small breasts
   hair: dark brown, long, tied with twine
   eyes: warm brown, gentle
   distinctive_features: permanently green-stained fingertips, a round birthmark on her left forearm shaped

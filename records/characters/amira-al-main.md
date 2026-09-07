@@ -55,7 +55,7 @@ key_phrases:
 - Water is life. Finding it is a sacred trust.
 - I will not rest until I warn the eastern quarters about the dying aquifer before it is too late.
 visual:
-  body_build: lean and long-limbed, built for walking
+  body_build: lean and long-limbed, built for walking, small breasts
   hair: sandy brown, sun-bleached, short and practical
   eyes: grey-green, distant
   distinctive_features:

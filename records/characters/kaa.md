@@ -52,7 +52,7 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 visual:
-  body_build: tall, muscular, lean
+  body_build: tall, muscular, lean, broad chest
   skin: tawny brown, rosette spots across the shoulders and back
   hair: black, short, coarse
   eyes: amber-yellow, slit-pupiled

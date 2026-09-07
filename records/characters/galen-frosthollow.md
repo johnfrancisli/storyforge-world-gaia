@@ -48,7 +48,7 @@ key_phrases:
 - Some doors stay closed for a reason.
 - I will not rest until I find the unaltered genealogy and restore the truth.
 visual:
-  body_build: thin and stooped
+  body_build: thin and stooped, average chest
   hair: white, wispy, tonsured
   eyes: pale blue behind spectacles
   distinctive_features: permanently ink-stained fingers, a pronounced stoop from decades at a writing

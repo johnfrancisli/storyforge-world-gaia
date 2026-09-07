@@ -53,7 +53,7 @@ key_phrases:
 - The best strategy is the one your enemy never sees.
 - I will not rest until I defect and atone for the deaths me strategies caused.
 visual:
-  body_build: tall and upright, slightly gaunt
+  body_build: tall and upright, slightly gaunt, average chest
   hair: black heavily streaked with gray, in a formal scholar's topknot
   eyes: deep-set black, heavy with thought
   distinctive_features:

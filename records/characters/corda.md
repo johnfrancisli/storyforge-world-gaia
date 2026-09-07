@@ -54,7 +54,7 @@ key_phrases:
 - Some doors stay closed for a reason.
 - I will not rest until I catch the saboteur before the western platform collapses.
 visual:
-  body_build: broad and muscular, especially the arms and shoulders
+  body_build: broad and muscular, especially the arms and shoulders, medium breasts
   hair: black, cropped very short for safety around spinning gear
   eyes: grey-brown, sharp and practical
   distinctive_features:

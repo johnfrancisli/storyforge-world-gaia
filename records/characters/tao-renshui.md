@@ -52,7 +52,7 @@ key_phrases:
 - A bad day fishing is still a day on the water.
 - I will not rest until I keep fishing and help zhou when she asks.
 visual:
-  body_build: wiry and sun-darkened
+  body_build: wiry and sun-darkened, narrow chest
   hair: gray-black, cropped close
   eyes: dark, crinkled, kind
   distinctive_features:

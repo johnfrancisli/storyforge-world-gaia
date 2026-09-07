@@ -47,7 +47,7 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 visual:
-  body_build: solid, compact
+  body_build: solid, compact, average chest
   height: medium
   hair: black, streaked grey, topknot
   eyes: dark brown, heavy-lidded

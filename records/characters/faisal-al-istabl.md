@@ -55,7 +55,7 @@ key_phrases:
 - The work comes first. Everything else can wait.
 - I will not rest until I learn what the djinn will ask of him and whether he can prepare for it.
 visual:
-  body_build: lean, weathered
+  body_build: lean, weathered, narrow chest
   hair: black, thinning, cropped short
   eyes: brown, haunted and watchful
   distinctive_features:

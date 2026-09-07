@@ -54,7 +54,7 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 visual:
-  body_build: slender, still
+  body_build: slender, still, small breasts
   hair: pale gold, long, bound with a shimenawa cord
   eyes: amber, gold-flecked
   distinctive_features: a faint fox-like cast to the features — slightly pointed ears, narrow pupils in

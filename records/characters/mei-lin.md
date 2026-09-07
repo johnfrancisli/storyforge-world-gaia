@@ -52,7 +52,7 @@ key_phrases:
 - Knowledge is not power. Knowledge is a lantern in a large, dark room.
 - The truth does not need you to believe in it.
 visual:
-  body_build: slight, thin
+  body_build: slight, thin, small breasts
   hair: black, hastily pinned
   eyes: dark brown, behind round spectacles
   distinctive_features: ink stains on right hand and fingertips, round spectacles on a string

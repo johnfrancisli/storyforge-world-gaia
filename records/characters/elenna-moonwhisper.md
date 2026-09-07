@@ -49,7 +49,7 @@ key_phrases:
 - Some doors stay closed for a reason.
 - I will not rest until I protect the hidden heir until the time is right for revelation.
 visual:
-  body_build: slender and graceful, elven
+  body_build: slender and graceful, elven, small breasts
   hair: silver-white, long, worn in a coil
   eyes: pale violet
   distinctive_features: slightly pointed ears (elven), a faint shimmer in her skin when candlelight catches

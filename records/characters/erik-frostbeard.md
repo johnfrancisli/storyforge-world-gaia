@@ -55,7 +55,7 @@ key_phrases:
 - The stars do not lie, but they do not explain themselves.
 - The ocean is not empty. It is full of things you cannot see.
 visual:
-  body_build: tall but stooped, once powerful now thinning
+  body_build: tall but stooped, once powerful now thinning, broad chest
   hair: white, long beard, thinning on top
   eyes: pale blue, distant and watery
   distinctive_features: severely frost-scarred ears (nearly unrecognizable shapes), a permanent squint

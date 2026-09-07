@@ -49,7 +49,7 @@ key_phrases:
 - Some doors stay closed for a reason.
 - I will not rest until I keep me clay source secret and safe.
 visual:
-  body_build: strong-armed and compact from years at the wheel
+  body_build: strong-armed and compact from years at the wheel, small breasts
   hair: dark brown, tied in a cloth band
   eyes: warm brown, patient
   distinctive_features:

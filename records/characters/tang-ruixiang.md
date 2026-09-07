@@ -52,7 +52,7 @@ key_phrases:
 - The best lies are the ones that feel like truth.
 - Information is the only currency that never devalues.
 visual:
-  body_build: compact, muscular, and limber
+  body_build: compact, muscular, and limber, small breasts
   hair: black, in a performer's high ponytail with red ribbons
   eyes: bright amber-brown, quick and merry
   distinctive_features:

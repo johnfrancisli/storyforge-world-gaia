@@ -50,7 +50,7 @@ key_phrases:
 - I see patterns, not certainties. Do not confuse the two.
 - I will not rest until I warn someone about the coup without endangering herself.
 visual:
-  body_build: thin and angular
+  body_build: thin and angular, medium breasts
   hair: black with gray streaks, loose and talisman-pinned
   eyes: very dark, slightly unsettling in their intensity
   distinctive_features:

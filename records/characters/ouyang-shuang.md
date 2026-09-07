@@ -51,7 +51,7 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 visual:
-  body_build: tall and lean from constant travel
+  body_build: tall and lean from constant travel, small breasts
   hair: dark, loose, and perpetually paint-flecked
   eyes: bright brown, observant and curious
   distinctive_features:

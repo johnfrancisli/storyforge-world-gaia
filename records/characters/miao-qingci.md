@@ -52,7 +52,7 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 visual:
-  body_build: medium and precise in movement
+  body_build: medium and precise in movement, small breasts
   hair: black, in a medical-practitioner's clean bun
   eyes: clear gray, analytical and kind
   distinctive_features:

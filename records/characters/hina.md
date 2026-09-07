@@ -55,7 +55,7 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 visual:
-  body_build: lean, long-limbed, deep-chested
+  body_build: lean, long-limbed, deep-chested, small breasts
   skin: deep brown, sun-darkened and salt-roughened
   hair: copper-red, bleached by sun and salt, cropped to the jaw
   eyes: grey-green, the color of deep lagoon water

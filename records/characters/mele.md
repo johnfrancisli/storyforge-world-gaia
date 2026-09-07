@@ -55,7 +55,7 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 visual:
-  body_build: slight, thin, resonant-voiced
+  body_build: slight, thin, resonant-voiced, medium breasts
   skin: medium brown
   hair: black, very long, worn loose so it moves in the wind
   eyes: dark brown, bright

@@ -53,7 +53,7 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 visual:
-  body_build: slender, willowy
+  body_build: slender, willowy, medium breasts
   hair: white, long, straight
   eyes: pale blue, crystalline
   distinctive_features: skin that is perpetually cool-pale, as if touched by frost; lips with a faint

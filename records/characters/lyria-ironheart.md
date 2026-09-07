@@ -49,7 +49,7 @@ key_phrases:
 - The forge teaches patience whether you want to learn it or not.
 - I will not rest until I forge a blade worthy of legend, something that will outlast me.
 visual:
-  body_build: stocky and muscular
+  body_build: stocky and muscular, small breasts
   hair: dark brown, thick, worn tied back
   eyes: stormy grey
   distinctive_features: burn scar on left forearm, exceptionally large and calloused hands for her frame

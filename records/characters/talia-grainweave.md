@@ -48,7 +48,7 @@ key_phrases:
 - Some doors stay closed for a reason.
 - I will not rest until I keep the mill running and the villages fed.
 visual:
-  body_build: strong-armed and sturdy
+  body_build: strong-armed and sturdy, small breasts
   hair: dark blonde, tied in a practical bun
   eyes: brown
   distinctive_features: permanently flour-dusted eyebrows, a scar on her right forearm from the mill's

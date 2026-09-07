@@ -49,7 +49,7 @@ key_phrases:
 - Every song is a conversation with silence.
 - I will not rest until I learn the truth of me mother's disappearance.
 visual:
-  body_build: slender and graceful
+  body_build: slender and graceful, small breasts
   hair: long black hair worn in elaborate court pins
   eyes: dark brown, almond-shaped
   distinctive_features:

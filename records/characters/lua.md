@@ -55,7 +55,7 @@ key_phrases:
 - The best stories are the ones that change in the telling.
 - I will not rest until I pass the encoded binding story to someone worthy before she dies.
 visual:
-  body_build: thin and fragile, small-statured
+  body_build: thin and fragile, small-statured, large breasts
   hair: white, fine, worn loose
   eyes: milky brown, fading with age
   distinctive_features:

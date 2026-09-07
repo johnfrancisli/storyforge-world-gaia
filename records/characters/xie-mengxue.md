@@ -52,7 +52,7 @@ key_phrases:
 - Some doors stay closed for a reason.
 - I will not rest until I find safety and someone trustworthy to give the cultivation manual to.
 visual:
-  body_build: slight and wiry, undernourished
+  body_build: slight and wiry, undernourished, small breasts
   hair: dye-darkened brown (naturally lighter), in a tight laundress bun
   eyes: dark brown, watchful and nervous
   distinctive_features:

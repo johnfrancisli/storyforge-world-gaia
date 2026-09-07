@@ -58,7 +58,7 @@ key_phrases:
 - The earth provides, if you know where to look.
 - I will not rest until I identify who took the poison formula before it is used.
 visual:
-  body_build: lean and angular, snake-like in stillness
+  body_build: lean and angular, snake-like in stillness, narrow chest
   hair: a crest of dark green-grey scales along the crown
   eyes: yellow-green, vertical pupils, observant
   distinctive_features:

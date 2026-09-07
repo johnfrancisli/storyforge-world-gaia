@@ -55,7 +55,7 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 visual:
-  body_build: lean and long-limbed, built for silent movement
+  body_build: lean and long-limbed, built for silent movement, narrow chest
   hair: dark brown, worn short under a fur hood
   eyes: grey, restless and recently haunted
   distinctive_features: a trap-scar on his left calf (his own trap, slipped in snow), three frost-nip

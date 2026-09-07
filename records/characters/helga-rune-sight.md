@@ -51,7 +51,7 @@ key_phrases:
 - The future is not fixed. It is inclined.
 - I see patterns, not certainties. Do not confuse the two.
 visual:
-  body_build: thin, wiry
+  body_build: thin, wiry, small breasts
   hair: white, long, loose
   eyes: pale blue, milky
   distinctive_features: rune-carved staff that glows faintly, clouded eyes, ritual tattoos on both hands

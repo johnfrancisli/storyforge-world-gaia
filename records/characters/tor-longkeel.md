@@ -48,7 +48,7 @@ key_phrases:
 - A ship is a promise made to the sea.
 - The keel is the spine. Get it wrong and nothing else matters.
 visual:
-  body_build: big, broad-shouldered
+  body_build: big, broad-shouldered, broad chest
   height: tall
   hair: brown, greying, sawdust-dusted
   eyes: blue

@@ -54,7 +54,7 @@ key_phrases:
 - A bad day fishing is still a day on the water.
 - I will not rest until I free me husband from the sea yokai's hold and have him home permanently.
 visual:
-  body_build: weathered, strong-armed
+  body_build: weathered, strong-armed, large breasts
   hair: black, sun-faded, tied in a practical single braid
   eyes: dark brown, shadowed underneath
   distinctive_features: a rope-burn scar across the left palm from hauling nets

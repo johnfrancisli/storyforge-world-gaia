@@ -66,7 +66,7 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 visual:
-  body_build: tall and graceful
+  body_build: tall and graceful, small breasts
   hair: black, long, elaborately styled
   eyes: dark brown, intelligent and guarded
   distinctive_features:

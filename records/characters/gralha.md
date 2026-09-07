@@ -56,7 +56,7 @@ key_phrases:
 - The wilderness does not forgive carelessness.
 - I will not rest until I gather enough intelligence to present a complete picture to the council.
 visual:
-  body_build: light-boned and lean, built for flight
+  body_build: light-boned and lean, built for flight, narrow chest
   hair: a crest of dark blue-black feathers
   eyes: golden, exceptionally sharp at distance
   distinctive_features:

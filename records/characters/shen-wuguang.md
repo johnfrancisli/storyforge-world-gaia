@@ -48,7 +48,7 @@ key_phrases:
 - Some doors stay closed for a reason.
 - I will not rest until I protect the forty orphans regardless of cost.
 visual:
-  body_build: soft and well-fed
+  body_build: soft and well-fed, average chest
   hair: thin gray, oiled and formal
   eyes: small, shrewd, and watery
   distinctive_features:

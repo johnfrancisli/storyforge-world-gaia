@@ -55,7 +55,7 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 visual:
-  body_build: large, broad-shouldered, deceptively powerful
+  body_build: large, broad-shouldered, deceptively powerful, broad chest
   hair: shaved
   eyes: dark brown, gentle but guarded
   distinctive_features: old weapons-callus scarring on both hands, partially faded

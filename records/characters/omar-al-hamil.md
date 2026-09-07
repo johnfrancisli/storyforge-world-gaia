@@ -57,7 +57,7 @@ key_phrases:
 - I see patterns, not certainties. Do not confuse the two.
 - I will not rest until I protect me mother from the binding family's pressure.
 visual:
-  body_build: large and muscular, gentle despite his size
+  body_build: large and muscular, gentle despite his size, broad chest
   hair: black, short, under a head wrap
   eyes: dark brown, wide and watchful
   distinctive_features:

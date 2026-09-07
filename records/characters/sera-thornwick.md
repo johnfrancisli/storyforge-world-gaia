@@ -46,7 +46,7 @@ key_phrases:
 - Some doors stay closed for a reason.
 - I will not rest until I prove lord cael murdered prince edran.
 visual:
-  body_build: tall and wiry
+  body_build: tall and wiry, small breasts
   hair: auburn, shoulder-length, often braided
   eyes: hazel
   distinctive_features: a faint scar on her right cheekbone, a tattoo of a small falcon on her left wrist

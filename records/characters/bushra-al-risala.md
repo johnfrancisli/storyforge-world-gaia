@@ -54,7 +54,7 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 visual:
-  body_build: lean and wiry, rider's build
+  body_build: lean and wiry, rider's build, medium breasts
   hair: dark brown, short, under a wrapping scarf
   eyes: hazel, sharp and quick
   distinctive_features:

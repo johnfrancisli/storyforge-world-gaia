@@ -52,7 +52,7 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 visual:
-  body_build: stocky and solid
+  body_build: stocky and solid, broad chest
   hair: brown, short, practical
   eyes: dark brown, perpetually tired
   distinctive_features: a watchman's tattoo (the city crest) on his left forearm, a crooked nose (broken

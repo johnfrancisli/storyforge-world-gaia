@@ -54,7 +54,7 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 visual:
-  body_build: lean and sinewy, desert-hardened
+  body_build: lean and sinewy, desert-hardened, medium breasts
   hair: iron grey, cropped short for practicality
   eyes: pale brown, sun-squinted
   distinctive_features:

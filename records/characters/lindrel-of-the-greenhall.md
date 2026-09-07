@@ -53,7 +53,7 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 visual:
-  body_build: tall, slender
+  body_build: tall, slender, medium breasts
   skin: pale, faintly luminous
   hair: silver-white, very long
   eyes: deep green

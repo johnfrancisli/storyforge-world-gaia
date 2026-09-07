@@ -54,7 +54,7 @@ key_phrases:
 - The material tells you what it wants to become.
 - My hands remember what my mind forgets.
 visual:
-  body_build: slender and small-boned, precise in movement
+  body_build: slender and small-boned, precise in movement, medium breasts
   hair: light brown, worn in a knot at the nape
   eyes: grey-green, focused
   distinctive_features: a small knife-scar on her left index finger, permanently pale fingertips from

@@ -52,7 +52,7 @@ key_phrases:
 - The earth provides, if you know where to look.
 - I will not rest until I find a way to save the miners without defying the qilin spirit.
 visual:
-  body_build: lean and weathered from mountain living
+  body_build: lean and weathered from mountain living, medium breasts
   hair: long, dark, and untamed
   eyes: green-brown, watchful
   distinctive_features:

@@ -55,7 +55,7 @@ key_phrases:
 - Trust is the only currency that compounds.
 - I will not rest until I break the binding families' monopoly on the council and win a merchant seat.
 visual:
-  body_build: stout and strong, commanding presence
+  body_build: stout and strong, commanding presence, medium breasts
   hair: black with grey streaks, pinned under a silk headscarf
   eyes: dark brown, shrewd
   distinctive_features:
