@@ -19,6 +19,8 @@ resources:
 - salt
 - steel
 - mother-of-pearl
+visual:
+  prompt: ''
 ---
 
 The Float Market is the great trading quarter of Iara, a sprawling maze of raft-stalls, canoe-booths, and floating platforms that spreads across a broad reach of the river near the chief's float, shifting and re-forming daily as vendors pole their craft to a spot and tie up. Every kind of good from the river and the jungle is here — fish, river-turtles and their eggs, manioc flour, plantains, cacao, palm-heart, fermented cassava beer in gourds, dyed cotton and bark-cloth, feather-work, clay pots, bone fish-hooks, jade and quartz, blowguns and curare, medicinal barks and salves, and the rare goods brought from Cascade Exchange and Tidal Reach — salt, steel, sea-fish, mother-of-pearl. The noise is a constant roar of haggling, splashing, and the cries of river-birds, and the water between the stalls is thick with canoes, children swimming, and the occasional caiman drawn by the offal. The smell changes every few feet — fish, fruit, woodsmoke, dye, fermenting beer, wet wood. A market-warden in a painted canoe patrols the lanes and settles disputes with a quick word and the authority of the chief's painted staff.

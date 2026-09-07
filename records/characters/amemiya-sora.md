@@ -9,6 +9,7 @@ aliases:
 - 'Miko Sora'
 race: ''
 gender: ''
+age: late twenties
 heritage: ''
 social_station: ''
 role: Shrine keeper (miko)
@@ -37,11 +38,11 @@ appearance: A slight woman in shrine robes — white top, red hakama pants — w
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: late twenties
+visual:
   hair: black, long, tied back with a white ribbon
   eyes: brown
   distinctive_features: a small burn scar on her right wrist from a mishandled ofuda
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ashikara-shogunate

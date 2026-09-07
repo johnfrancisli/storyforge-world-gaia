@@ -23,6 +23,8 @@ next_possible_moves:
 - The king's eldest son visits Dragonrest to 'inspect the order,' a move the traditionalists see as a
   threat and the reformers see as an opportunity.
 resolution: null
+visual:
+  prompt: ''
 ---
 
 In Valdris, no new dragon bond has been made in twenty years. The dragon-bonded knights are fracturing between reformers and traditionalists. The king is aging and the succession is unspoken. Sir Aldrich's own dragon, Verath, has gone silent — a secret he keeps because admitting it would confirm the order's worst fears.

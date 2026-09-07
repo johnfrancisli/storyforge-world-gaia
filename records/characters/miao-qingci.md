@@ -11,6 +11,7 @@ gm_notes: 'A physician at the Great Academy''s medical hall who specializes in c
 aliases: []
 race: ''
 gender: ''
+age: 36
 heritage: ''
 social_station: ''
 role: Chi-pathology researcher and physician
@@ -38,14 +39,14 @@ appearance: Neat and focused, wearing Academy medical robes of gray-white. Carri
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 36
+visual:
   body_build: medium and precise in movement
   hair: black, in a medical-practitioner's clean bun
   eyes: clear gray, analytical and kind
   distinctive_features:
   - a physician's chi-sense callus on both index fingertips
   - a faint scar on the left thumb from a dissection accident
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:great-academy

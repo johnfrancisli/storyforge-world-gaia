@@ -11,6 +11,7 @@ gm_notes: A martial arts teacher at the Great Academy who teaches swordsmanship 
 aliases: []
 race: ''
 gender: ''
+age: 39
 heritage: ''
 social_station: ''
 role: Martial arts teacher and philosophical pacifist
@@ -38,14 +39,14 @@ appearance: Centered and unhurried, wearing simple Academy gray. Always has a wo
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 39
+visual:
   body_build: lean and whipcord-strong
   hair: black, short-cropped for practicality
   eyes: dark brown, steady and kind
   distinctive_features:
   - a faint scar across the left cheekbone from a tournament bout
   - hands with knuckles callused from decades of wooden-sword practice
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:great-academy

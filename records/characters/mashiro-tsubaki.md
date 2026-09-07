@@ -10,6 +10,7 @@ aliases:
 - 'Tsubaki'
 race: ''
 gender: ''
+age: early thirties
 heritage: ''
 social_station: ''
 role: Pottery maker (toki)
@@ -38,12 +39,12 @@ appearance: She wears a clay-spattered apron and keeps her hair tied under a clo
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: early thirties
+visual:
   body_build: compact, strong-wristed
   hair: black, cropped short for practicality
   eyes: dark brown
   distinctive_features: a pale clay-colored callus on the right thumb from years of wheel work
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:tsu-merchant-guild

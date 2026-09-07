@@ -12,6 +12,7 @@ gm_notes: Astrid commands the longship Frostwing and has led six successful raid
 aliases: []
 race: ''
 gender: ''
+age: 34
 heritage: ''
 social_station: ''
 role: Raid Captain / Shieldmaiden
@@ -40,13 +41,13 @@ appearance: Battle-worn and weather-darkened, Astrid wears a byrnie of iron ring
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 34
+visual:
   body_build: lean and corded with muscle, built for endurance
   hair: dark auburn, shaved sides, long braid at the back
   eyes: sea-green, sharp
   distinctive_features: a bite-shaped scar on her right shoulder (a wound from a shield-bite in her first
     duel), a thin gold ring in her left ear
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:hra-shipwright-brotherhood

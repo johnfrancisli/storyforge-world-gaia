@@ -11,4 +11,6 @@ bond: Each knows the other is the only broker in Sangguo whose network rivals th
   settled into an uneasy territorial agreement — Zhou handles the military and warlord traffic, Su Wanqing
   handles the Academy and scholar traffic. Both are waiting for the other to break the truce first.
 disposition: 35
+visual:
+  prompt: ''
 ---

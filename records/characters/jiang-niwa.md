@@ -10,6 +10,7 @@ gm_notes: A potter whose clay vessels can hold chi-infused liquids without degra
 aliases: []
 race: ''
 gender: ''
+age: 31
 heritage: ''
 social_station: ''
 role: Master potter and unknowing qilin-clay guardian
@@ -36,14 +37,14 @@ appearance: Earth-stained and practical, wearing clay-spattered work clothes and
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 31
+visual:
   body_build: strong-armed and compact from years at the wheel
   hair: dark brown, tied in a cloth band
   eyes: warm brown, patient
   distinctive_features:
   - kiln-burn scars on both forearms
   - clay permanently embedded in the creases of her hands
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:great-academy

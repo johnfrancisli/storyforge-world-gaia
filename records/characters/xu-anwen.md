@@ -11,6 +11,7 @@ gm_notes: A paper maker from a family of paper makers who has developed a method
 aliases: []
 race: ''
 gender: ''
+age: 30
 heritage: ''
 social_station: ''
 role: Paper maker and unknowing supplier of chi-propaganda technology
@@ -38,14 +39,14 @@ appearance: Patient and earthy, wearing paper-maker's work clothes stained with 
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 30
+visual:
   body_build: compact and strong-armed from pulp-mashing
   hair: dark, wrapped in a cloth headband
   eyes: warm brown, steady
   distinctive_features:
   - permanently pruned fingertips from working in water
   - a pulp-stain birthmark on the right wrist
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:jin-state

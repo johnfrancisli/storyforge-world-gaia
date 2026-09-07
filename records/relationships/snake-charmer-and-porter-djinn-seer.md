@@ -12,4 +12,6 @@ bond: Both are touched by the djinn in ways no one else can see — Hassan charm
   understand what it is to walk through a city full of invisible presences, and their friendship is the
   relief of no longer being alone with it.
 disposition: 81
+visual:
+  prompt: ''
 ---

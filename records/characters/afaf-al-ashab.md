@@ -14,6 +14,7 @@ gm_notes: 'An herbalist who grows plants that should not survive in the desert â
 aliases: []
 race: Human
 gender: Female
+age: 33
 heritage: Al-Khayzar
 social_station: Artisan
 role: Herbalist, garden-keeper, contract-bearer
@@ -55,15 +56,15 @@ key_phrases:
 - "The earth remembers old promises."
 - "Even the desert yields to water, in time."
 - "There are secrets buried deeper than roots."
-visual_identity:
-  age: 33
-  body_build: masterpiece, highly detailed, beautifully proportioned, fit, strong from garden work, aesthetic body
-  hair: dark brown, long, always with leaves caught in it, flowing, high quality texture
-  eyes: green, soft, sparkling eyes, deep gaze, highly detailed eyes
+visual:
+  body_build: fit, strong from garden work
+  hair: dark brown, long, always with leaves caught in it
+  eyes: soft green
   distinctive_features:
   - green-stained fingertips from plant work
   - a faint watering-can-shaped burn scar on the left wrist from steam
-  face: beautiful face, gorgeous, extremely attractive, symmetrical, masterpiece
+  face: gentle, symmetrical features, natural earthy beauty
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:alk-scholar-circle

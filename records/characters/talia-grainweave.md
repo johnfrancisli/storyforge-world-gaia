@@ -9,6 +9,7 @@ gm_notes: Talia is a miller who controls the only functioning mill in the Valdri
 aliases: []
 race: ''
 gender: ''
+age: 40
 heritage: ''
 social_station: ''
 role: Miller
@@ -36,13 +37,13 @@ appearance: Strong-armed and practical, Talia wears flour-dusted work clothes an
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 40
+visual:
   body_build: strong-armed and sturdy
   hair: dark blonde, tied in a practical bun
   eyes: brown
   distinctive_features: permanently flour-dusted eyebrows, a scar on her right forearm from the mill's
     gear mechanism
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:val-merchant-guild

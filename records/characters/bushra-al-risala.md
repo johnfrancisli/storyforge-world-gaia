@@ -12,6 +12,7 @@ gm_notes: A messenger who carries letters between the city-states of Al-Khayzar,
 aliases: []
 race: ''
 gender: ''
+age: 28
 heritage: ''
 social_station: ''
 role: Courier, intelligence gatherer
@@ -39,14 +40,14 @@ appearance: Weathered and compact in desert riding clothes and a wrapping scarf,
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 28
+visual:
   body_build: lean and wiry, rider's build
   hair: dark brown, short, under a wrapping scarf
   eyes: hazel, sharp and quick
   distinctive_features:
   - a rider's callus on the inner right thigh
   - a small tattoo of a stylized bird on the left wrist — a messenger's guild mark
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:binding-families

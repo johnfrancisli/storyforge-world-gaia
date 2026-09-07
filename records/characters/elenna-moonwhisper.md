@@ -9,6 +9,7 @@ gm_notes: Elenna is an elven librarian who has been quietly altering records in 
 aliases: []
 race: ''
 gender: ''
+age: 140
 heritage: ''
 social_station: ''
 role: Librarian
@@ -36,13 +37,13 @@ appearance: Slender and ethereal, Elenna wears simple robes and keeps her silver
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 140
+visual:
   body_build: slender and graceful, elven
   hair: silver-white, long, worn in a coil
   eyes: pale violet
   distinctive_features: slightly pointed ears (elven), a faint shimmer in her skin when candlelight catches
     it (subtle elven trait)
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:val-mages-circle

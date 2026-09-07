@@ -11,6 +11,7 @@ gm_notes: A blacksmith who forges weapons for the Chu army and has secretly deve
 aliases: []
 race: ''
 gender: ''
+age: 40
 heritage: ''
 social_station: ''
 role: Army blacksmith and secret qilin-iron weapons dealer
@@ -37,14 +38,14 @@ appearance: Soot-blackened and taciturn, wearing a heavy leather forge-apron. Ar
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 40
+visual:
   body_build: massive, heavy-armed, thick-necked
   hair: shaved, scarred from forge-sparks
   eyes: deep-set amber-brown
   distinctive_features:
   - extensive forge-burn scarring on both forearms and hands
   - a thick blacksmith's callus on the right palm
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:chu-state

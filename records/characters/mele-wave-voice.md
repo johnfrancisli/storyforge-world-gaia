@@ -13,6 +13,7 @@ gm_notes: Mele is the singer who leads the canoe songs that keep paddlers in rhy
 aliases: []
 race: ''
 gender: ''
+age: twenty-three
 heritage: ''
 social_station: ''
 role: Singer
@@ -40,8 +41,7 @@ appearance: A slight, bright-voiced woman who seems to vibrate with sound even w
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: twenty-three
+visual:
   body_build: slight, thin, resonant-voiced
   skin: medium brown
   hair: black, very long, worn loose so it moves in the wind
@@ -49,6 +49,7 @@ visual_identity:
   distinctive_features: a voice that carries unnaturally far — even her speaking voice carries further
     than it should, sand on her feet from nightly beach visits, a faint luminescence on her throat that
     is only visible in the dark
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:wayfinder-guilds

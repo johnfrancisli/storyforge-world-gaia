@@ -10,6 +10,7 @@ gm_notes: The wife of a Chu general who has been missing on the northern front f
 aliases: []
 race: ''
 gender: ''
+age: 38
 heritage: ''
 social_station: ''
 role: General's wife and secret spymaster
@@ -36,14 +37,14 @@ appearance: Regal and composed, always in Chu-state crimson and gold. Carries a 
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 38
+visual:
   body_build: tall and upright
   hair: black with early silver threads, in a general's-wife formal coiffure
   eyes: sharp black, guarded
   distinctive_features:
   - a thin gold wedding bangle on the left wrist, never removed
   - a callus on the right thumb from archery
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:chu-state

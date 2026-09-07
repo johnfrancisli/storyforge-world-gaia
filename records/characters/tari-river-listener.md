@@ -12,6 +12,7 @@ aliases:
 - 'Apprentice Tari'
 race: ''
 gender: ''
+age: sixteen
 heritage: ''
 social_station: ''
 role: Shaman apprentice
@@ -40,14 +41,14 @@ appearance: A slight girl in plain river-cloth, her arms not yet marked with pac
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: sixteen
+visual:
   body_build: slight, young
   skin: warm brown
   hair: black, braided with river-grass
   eyes: dark brown, wide
   distinctive_features: unmarked arms — no pact-patterns yet, a faint blue glow around the fingertips
     when spirit-listening
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ver-river-consortium

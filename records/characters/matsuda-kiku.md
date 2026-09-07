@@ -11,6 +11,7 @@ aliases:
 - 'Obaba Kiku'
 race: ''
 gender: ''
+age: late eighties
 heritage: ''
 social_station: ''
 role: Ghost storyteller (kaidan-shi)
@@ -39,12 +40,12 @@ appearance: She wears layered quilted kimono in faded colors and a knitted cap o
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: late eighties
+visual:
   body_build: small, frail-seeming
   hair: white, thin, under a cap
   eyes: dark brown, milky but sharp
   distinctive_features: deeply lined face with a permanent expression of gentle amusement
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ashikara-shogunate

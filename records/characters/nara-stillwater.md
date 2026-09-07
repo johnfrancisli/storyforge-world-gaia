@@ -9,6 +9,7 @@ aliases:
 - 'Shaman Nara'
 race: ''
 gender: ''
+age: sixties
 heritage: ''
 social_station: ''
 role: Elder shaman
@@ -37,13 +38,13 @@ appearance: A weathered woman in painted river-cloth, her arms marked with the s
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: sixties
+visual:
   body_build: wiry, weathered
   skin: deep brown, sun-darkened
   hair: white, braided with river-stone beads
   eyes: dark brown
   distinctive_features: ritual scarification patterns on both forearms — the marks of her spirit-pacts
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ver-shaman-circle

@@ -11,6 +11,7 @@ gm_notes: 'An acrobat and street performer who travels the tri-border region wit
 aliases: []
 race: ''
 gender: ''
+age: 28
 heritage: ''
 social_station: ''
 role: Acrobat troupe leader and master spy-thief
@@ -38,14 +39,14 @@ appearance: Vibrant and athletic, wearing performer's bright silks. Laughs loudl
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 28
+visual:
   body_build: compact, muscular, and limber
   hair: black, in a performer's high ponytail with red ribbons
   eyes: bright amber-brown, quick and merry
   distinctive_features:
   - a performer's callus on the right shoulder from acrobatic lifts
   - a small knife-scar on the left forearm from a close-call theft
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:san-merchant-cartel

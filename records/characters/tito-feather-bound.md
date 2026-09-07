@@ -14,6 +14,7 @@ gm_notes: 'A human feather worker who repairs and maintains Quilla''s headdresse
 aliases: []
 race: ''
 gender: ''
+age: 36
 heritage: ''
 social_station: ''
 role: Feather worker and headdress restorer
@@ -41,14 +42,14 @@ appearance: Quiet and deft, with stained fingers and a gentle demeanor. Works in
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 36
+visual:
   body_build: medium and soft-handed, built for delicate craft work
   hair: black, short, always with a few stray feathers caught in it
   eyes: brown, gentle, observant
   distinctive_features:
   - feather-down dust lightly coating the shoulders
   - a feather-scar on the left index finger from a binding-needle
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ver-river-consortium

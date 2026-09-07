@@ -27,6 +27,8 @@ next_possible_moves:
 - 'Shaman Nara''s river spirit delivers a new warning: the door is not opening because something is pushing
   from outside. Something is pushing from inside.'
 resolution: null
+visual:
+  prompt: ''
 ---
 
 Kaa the Jaguar-kin found a temple door in the deep jungle of Verdania that was not open before and is warm to the touch. Dr. Voss has calculated a convergence point in the same area. Shaman Nara's river spirit has warned of 'the deep place' and 'the old door.' Monk Jian Yi is walking south toward the same location. Volva Helga has seen it in visions. Multiple independent sources are converging on the same point.

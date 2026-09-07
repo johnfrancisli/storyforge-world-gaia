@@ -18,4 +18,6 @@ item_tags:
 - valdris
 - artifact
 - dwarf-craft
+visual:
+  prompt: ''
 ---

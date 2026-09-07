@@ -12,6 +12,7 @@ gm_notes: A bird beast-kin drummer whose rhythms can induce trance states, heal 
 aliases: []
 race: ''
 gender: ''
+age: 35
 heritage: ''
 social_station: ''
 role: Master drummer and rain-summoner
@@ -39,8 +40,7 @@ appearance: Compact and electric with energy, feathers ruffled with constant mot
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 35
+visual:
   body_build: compact and muscular from drumming, broad-chested
   hair: a crest of black and yellow feathers, increasingly grey at the base
   eyes: bright orange, intense
@@ -48,6 +48,7 @@ visual_identity:
   - feathered crest and fine scales along the jaw
   - premature greying of normally dark feathers
   - calloused, drum-worn palms
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ver-shaman-circle

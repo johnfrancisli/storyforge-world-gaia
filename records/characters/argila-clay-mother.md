@@ -13,6 +13,7 @@ gm_notes: A potter who makes all the storage vessels for Iara — water jars, fe
 aliases: []
 race: ''
 gender: ''
+age: 45
 heritage: ''
 social_station: ''
 role: Potter and vessel maker
@@ -40,14 +41,14 @@ appearance: Clay-dusted and serene, with strong, patient hands. Wears a wrap ski
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 45
+visual:
   body_build: sturdy and patient, strong from kneading clay
   hair: greying black, tied back under a clay-spattered cloth
   eyes: warm brown, soft and focused
   distinctive_features:
   - permanent clay-staining in the creases of both hands
   - a kiln-burn scar on the right thumb
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ver-shaman-circle

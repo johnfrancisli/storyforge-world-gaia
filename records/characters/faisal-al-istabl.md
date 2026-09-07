@@ -12,6 +12,7 @@ gm_notes: A male stable hand who tends the camels and horses of a binding family
 aliases: []
 race: ''
 gender: ''
+age: 38
 heritage: ''
 social_station: ''
 role: Stable hand, djinn-marked
@@ -40,14 +41,14 @@ appearance: Quiet and scarred in stable clothes, his hands rough from grooming a
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 38
+visual:
   body_build: lean, weathered
   hair: black, thinning, cropped short
   eyes: brown, haunted and watchful
   distinctive_features:
   - extensive burn scarring on the left arm and shoulder from the djinn-fire ambush
   - a permanent tremor in the left hand
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:binding-families

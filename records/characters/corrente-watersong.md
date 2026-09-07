@@ -11,6 +11,7 @@ gm_notes: A Mizuhito river pilot who knows every submerged channel between Iara 
 aliases: []
 race: ''
 gender: ''
+age: 52
 heritage: ''
 social_station: ''
 role: Master river pilot and canoe navigator
@@ -38,8 +39,7 @@ appearance: Compact and weathered, perpetually damp. Wears minimal clothing of w
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 52
+visual:
   body_build: broad-shouldered and short, powerful arms
   hair: dark green-blue, cropped short and clinging to the skull
   eyes: pale aquamarine, wide-set
@@ -47,6 +47,7 @@ visual_identity:
   - blue-green skin with faint bioluminescent mottling along the forearms
   - webbed fingers and toes with visible membrane
   - a pale scar across the throat shaped like a paddle-edge cut
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ver-river-consortium

@@ -14,6 +14,7 @@ gm_notes: Kiri is the master drummer who provides the rhythm for every ceremony,
 aliases: []
 race: ''
 gender: ''
+age: thirty-four
 heritage: ''
 social_station: ''
 role: Drummer
@@ -41,8 +42,7 @@ appearance: A strong-armed, rhythmic woman with calloused palms and a drum alway
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: thirty-four
+visual:
   body_build: strong-armed, rhythmic, solid
   skin: medium brown
   hair: black, short, practical
@@ -50,6 +50,7 @@ visual_identity:
   distinctive_features: deep calluses on both palms from drumming, a hand drum always carried or within
     arm's reach, dark circles under the eyes from sleep loss, a constant subtle tapping of the fingers
     against any surface
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:tide-island-council

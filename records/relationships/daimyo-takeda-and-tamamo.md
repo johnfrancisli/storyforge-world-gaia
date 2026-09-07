@@ -10,4 +10,6 @@ bond: Takeda thinks he is using Tamamo to create yokai incidents that prove the 
   Tamamo is using Takeda to weaken the wards she hates. Neither trusts the other. Both believe they are
   the one in control. They are both wrong.
 disposition: -10
+visual:
+  prompt: ''
 ---

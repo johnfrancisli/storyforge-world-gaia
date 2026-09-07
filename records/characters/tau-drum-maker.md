@@ -15,6 +15,7 @@ gm_notes: Tau makes the drums that every island uses for ceremony, communication
 aliases: []
 race: ''
 gender: ''
+age: forty-seven
 heritage: ''
 social_station: ''
 role: Drum maker
@@ -42,8 +43,7 @@ appearance: A stocky, precise man with woodworker's calluses and a careful, meas
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: forty-seven
+visual:
   body_build: stocky, strong-armed, precise
   skin: medium brown, wood-stained
   hair: black, greying, cropped short
@@ -51,6 +51,7 @@ visual_identity:
   distinctive_features: woodworker's calluses on both hands, a large unfinished drum in a hidden workshop,
     a quality of caution — he handles most wood with confidence but the dark log with wariness, sawdust
     always on his clothing
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:tide-tattoo-guild

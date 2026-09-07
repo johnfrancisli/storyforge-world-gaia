@@ -12,4 +12,6 @@ bond: 'They are cousins, and each holds a secret the other does not know: Esam a
   djinn and a daughter of djinn in the same family — is a tension waiting to break, because neither has
   told the other and their crafts are converging.'
 disposition: 47
+visual:
+  prompt: ''
 ---

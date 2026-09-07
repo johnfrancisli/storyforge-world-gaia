@@ -11,6 +11,7 @@ gm_notes: 'Fatima discovered Malik''s research notes three days ago. She is not 
 aliases: []
 race: ''
 gender: ''
+age: late teens
 heritage: ''
 social_station: ''
 role: Binding-family daughter, political reformer
@@ -39,13 +40,13 @@ appearance: A young woman in fine desert robes — deep blue and silver, less fl
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: late teens
+visual:
   body_build: slim, small
   skin: warm brown
   hair: dark, long, braided
   eyes: dark brown, sharp
   distinctive_features: ink stains on the right hand from studying contract law, a small silver nose-stud
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:binding-families

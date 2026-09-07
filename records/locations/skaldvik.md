@@ -6,6 +6,8 @@ jurisdiction: Ruled by Jarl Sigrid Hallvarsdottir. The jarl's household guards k
   handles disputes between fjords.
 terrain: Fjord port, longhouses, shipyards, surrounding cliffs
 resources: []
+visual:
+  prompt: ''
 ---
 
 The largest trading port in Hrafnland. A fjord town of longhouses and warehouses, shipyards and mead halls, built where the fjord meets the open sea. Longships line the dock. Traders from Valdris and the Tide Archipelago exchange goods here — iron for spice, furs for silk. Jarl Sigrid Hallvarsdottir holds this fjord, and her mead hall is the loudest place in town on a winter night. The aurora is bright this year, and the volur say that means something.

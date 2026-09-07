@@ -10,4 +10,6 @@ bond: Cao Shen suspects Lu Fang's loyalty is to the idea of a unified Sangguo, n
   Shen. If Cao Shen dies before reunification, Lu Fang may pursue it himself — in his own way, which may
   be less careful.
 disposition: 60
+visual:
+  prompt: ''
 ---

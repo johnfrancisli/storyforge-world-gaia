@@ -11,6 +11,7 @@ gm_notes: An eight-year-old boy who is the Jin warlord's youngest son and is del
 aliases: []
 race: ''
 gender: ''
+age: 8
 heritage: ''
 social_station: ''
 role: Warlord's youngest son and hidden chi-prodigy
@@ -38,14 +39,14 @@ appearance: Small and pale, wearing fine but plain Jin court children's clothes.
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 8
+visual:
   body_build: small and slight for his age
   hair: black, in a child's simple topknot
   eyes: enormous dark brown, precociously sharp
   distinctive_features:
   - a wooden leg-brace on the left leg
   - ink stains on the right hand from reading and writing beyond his years
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:jin-state

@@ -12,6 +12,7 @@ gm_notes: 'Ulf is a hunter and trapper who works the mountain forests, setting l
 aliases: []
 race: ''
 gender: ''
+age: 38
 heritage: ''
 social_station: ''
 role: Hunter / Trapper
@@ -41,13 +42,13 @@ appearance: Lean and weather-tough, Ulf wears furs and wool in layered camouflag
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 38
+visual:
   body_build: lean and long-limbed, built for silent movement
   hair: dark brown, worn short under a fur hood
   eyes: grey, restless and recently haunted
   distinctive_features: a trap-scar on his left calf (his own trap, slipped in snow), three frost-nip
     scars on his fingers
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:hra-rune-guild

@@ -11,4 +11,6 @@ bond: Their friendship is the easy warmth of two women whose crafts complete a g
   the body, Pilialoha settles the spirit. They have been friends since girlhood, and the kava brew is
   as much Mere's recipe as Pilialoha's, though only one of them is named for it.
 disposition: 86
+visual:
+  prompt: ''
 ---

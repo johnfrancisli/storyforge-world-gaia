@@ -13,6 +13,8 @@ resources:
 - relic-tax records
 - inscribed tablets
 - archival copies
+visual:
+  prompt: ''
 ---
 
 The Warden's Keep is the seat of the Road-Warden of Khalesh, a grim fortress of blackened old-stone built into the city wall at the escarpment's edge, its walls the dressed blocks of the Old Road re-laid by the Wardens of centuries past, its towers looking out over the gravel plain and the sand-sea beyond. Within, the halls are low and dark, lit by narrow slits and by oil-lamps, their walls hung with the carved stones and inscribed tablets that the Warden's family has collected for generations, and with the old maps of the Old Road that the Khaleshi scholars have painstakingly reconstructed from the fragments. The Warden's seat is a chair of old dark wood set before a great hearth, and the Warden — a lean and weathered man of the old family — holds his court here, licensing the relic-diggers, collecting the relic-tax, and judging the disputes over claims and finds. The keep is also the city's archive, and the scribes copy and catalogue every fragment that is found and sold, building a record of the Old Road that no other city possesses. The air smells of dust, old stone, lamp-oil, and the faint dry smell of old paper.

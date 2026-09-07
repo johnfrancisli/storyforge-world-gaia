@@ -11,6 +11,7 @@ aliases:
 - 'Natsuko'
 race: ''
 gender: ''
+age: early sixties
 heritage: ''
 social_station: ''
 role: Farmer (hyakusho)
@@ -39,12 +40,12 @@ appearance: She wears a conical straw hat, a patched kimono with the sleeves tie
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: early sixties
+visual:
   body_build: wiry, bent from years of field work
   hair: iron grey, under a straw hat
   eyes: dark brown, deeply lined at the corners
   distinctive_features: a permanent soil-dark crease across both palms
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ashikara-shogunate

@@ -12,4 +12,6 @@ bond: Aldran trusts Gwendolyn more than his own council because she has no facti
   betrayals before they ripen. She accepts because the arrangement gives her leverage no title could,
   though she wonders how long she can stay everyone's neutral party.
 disposition: 63
+visual:
+  prompt: ''
 ---

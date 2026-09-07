@@ -12,6 +12,7 @@ aliases:
 - 'Kohana'
 race: ''
 gender: ''
+age: mid-twenties
 heritage: ''
 social_station: ''
 role: Courtesan (oiran)
@@ -40,13 +41,13 @@ appearance: She wears elaborate layered kimono in deep crimsons and golds, her o
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: mid-twenties
+visual:
   body_build: slender, graceful
   hair: black, elaborately styled with ornaments
   eyes: dark brown, kohl-lined
   distinctive_features: a small, old scar hidden beneath the hairline at the left temple — from the night
     her family died
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:tsu-tea-schools

@@ -14,6 +14,7 @@ gm_notes: 'A male cook who runs a kitchen in a binding family''s estate, prepari
 aliases: []
 race: ''
 gender: ''
+age: 40
 heritage: ''
 social_station: ''
 role: Binding family cook, saboteur
@@ -42,8 +43,7 @@ appearance: Unassuming and efficient in a cook's whites, he is the model of a pr
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 40
+visual:
   body_build: medium, unremarkable
   hair: black, cropped, under a cook's cap
   eyes: brown, deliberately bland
@@ -51,6 +51,7 @@ visual_identity:
   - a small knife scar on the left thumb from kitchen work
   - a faded tan line on the right ring finger — he once wore a wedding band, but his wife left after his
     sister was collected
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:alk-spice-houses

@@ -13,6 +13,7 @@ gm_notes: 'Vesper is a falconer who tends hunting birds for a minor lord''s esta
 aliases: []
 race: ''
 gender: ''
+age: 31
 heritage: ''
 social_station: ''
 role: Falconer
@@ -41,13 +42,13 @@ appearance: Quiet and watchful, Vesper wears a leather falconer's gauntlet on he
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 31
+visual:
   body_build: lean and still
   hair: dark brown, braided and pinned close to her head
   eyes: hawkish amber
   distinctive_features: permanent talon scars on her left forearm (falconer's marks), a burn scar on her
     right cheek (a spark from a campfire), a calm stillness in her gaze that unsettles some people
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:val-mages-circle

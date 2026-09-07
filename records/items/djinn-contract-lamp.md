@@ -19,4 +19,6 @@ item_tags:
 - al-khayzar
 - artifact
 - djinn-binding
+visual:
+  prompt: ''
 ---

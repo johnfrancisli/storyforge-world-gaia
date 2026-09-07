@@ -12,6 +12,7 @@ gm_notes: 'A water finder who can locate underground aquifers by walking barefoo
 aliases: []
 race: ''
 gender: ''
+age: 31
 heritage: ''
 social_station: ''
 role: Water finder, dowser
@@ -40,14 +41,14 @@ appearance: Weathered and barefoot in loose desert cotton, her feet toughened to
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 31
+visual:
   body_build: lean and long-limbed, built for walking
   hair: sandy brown, sun-bleached, short and practical
   eyes: grey-green, distant
   distinctive_features:
   - deeply callused, cracked soles visible when she sits
   - a geometric tattoo on the right ankle, a water-finder's clan mark
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:alk-spice-houses

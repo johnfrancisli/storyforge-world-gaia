@@ -19,4 +19,6 @@ item_tags:
 - religious
 - seidr
 - divination
+visual:
+  prompt: ''
 ---

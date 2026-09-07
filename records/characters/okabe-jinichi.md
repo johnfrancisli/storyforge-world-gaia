@@ -13,6 +13,7 @@ aliases:
 - 'Jinichi'
 race: ''
 gender: ''
+age: early forties
 heritage: ''
 social_station: ''
 role: Monk (bozu)
@@ -41,12 +42,12 @@ appearance: He wears saffron robes that are faded from washing, a prayer bead br
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: early forties
+visual:
   body_build: large, broad-shouldered, deceptively powerful
   hair: shaved
   eyes: dark brown, gentle but guarded
   distinctive_features: old weapons-callus scarring on both hands, partially faded
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ashikara-shogunate

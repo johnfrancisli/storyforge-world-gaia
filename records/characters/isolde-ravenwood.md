@@ -9,6 +9,7 @@ gm_notes: Isolde is a healer who once served the royal family directly. She was 
 aliases: []
 race: ''
 gender: ''
+age: 44
 heritage: ''
 social_station: ''
 role: Healer
@@ -36,13 +37,13 @@ appearance: Dignified and composed, Isolde wears clean but plain grey robes. Her
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 44
+visual:
   body_build: tall and straight-backed
   hair: dark brown, shot through with silver, worn in a bun
   eyes: dark grey
   distinctive_features: a small but precise scar on her left eyebrow, healer's ink-mark on her right wrist
     (professional guild mark)
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:val-mages-circle

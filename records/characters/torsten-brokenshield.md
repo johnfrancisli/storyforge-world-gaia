@@ -13,6 +13,7 @@ gm_notes: 'Torsten is the widower of Jarl Sigrid''s dead brother Hallvar. He liv
 aliases: []
 race: ''
 gender: ''
+age: 52
 heritage: ''
 social_station: ''
 role: Storehouse Keeper / Jarl's Dependent
@@ -42,12 +43,12 @@ appearance: Soft and greying, Torsten wears decent wool — the household provid
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 52
+visual:
   body_build: medium height, going soft with age and comfort
   hair: brown, going grey, thinning
   eyes: brown, darting and anxious
   distinctive_features: a permanent tremor in his right hand, a drinker's flush across his nose and cheeks
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:hra-shipwright-brotherhood

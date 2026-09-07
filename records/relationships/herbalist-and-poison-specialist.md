@@ -11,4 +11,6 @@ bond: Flor heals; Temno deals in poisons and antidotes. The professional boundar
   one is not — each suspects the other knows formulations they have not shared, and each has been quietly
   trying to learn the other's secrets for years without ever directly asking.
 disposition: 34
+visual:
+  prompt: ''
 ---

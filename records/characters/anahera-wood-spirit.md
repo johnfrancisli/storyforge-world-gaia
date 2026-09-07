@@ -14,6 +14,7 @@ gm_notes: Anahera carves the figureheads that sit on the prows of voyaging canoe
 aliases: []
 race: ''
 gender: ''
+age: thirty
 heritage: ''
 social_station: ''
 role: Wood carver
@@ -41,14 +42,14 @@ appearance: A strong-armed, focused woman with wood shavings in her hair and a c
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: thirty
+visual:
   body_build: strong-armed, broad-handed, focused
   skin: medium brown, stained with wood tannin at the hands
   hair: black, short, full of wood shavings
   eyes: dark brown, intense
   distinctive_features: wood-tannin staining on both hands, a carving adze worn at the belt, a figurehead-in-progress
     she studies for long periods as if waiting for it to speak
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:wayfinder-guilds

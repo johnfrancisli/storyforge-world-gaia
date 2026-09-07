@@ -9,6 +9,7 @@ aliases:
 - 'Daimyo Takeda Renji'
 race: ''
 gender: ''
+age: mid-fifties
 heritage: ''
 social_station: ''
 role: Daimyo (provincial lord)
@@ -37,13 +38,13 @@ appearance: A stern man in dark samurai armor, his helmet carried by a retainer 
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: mid-fifties
+visual:
   body_build: solid, compact
   height: medium
   hair: black, streaked grey, topknot
   eyes: dark brown, heavy-lidded
   distinctive_features: a thin scar across the left cheekbone from a duel in his youth
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ashikara-shogunate

@@ -18,6 +18,8 @@ locations:
 organizations:
 - org:hra-shipwright-brotherhood
 - org:hra-jarl-council
+visual:
+  prompt: ''
 ---
 
 The Longkeel Shipyard in Drekahöfn is weeks from launching the largest warship built in a generation, a vessel commissioned by Jarl Sigrid of Skaldvik herself. Master shipwright Bjorn Keelwright, who oversaw the build, has privately confessed to rune carver Haldur Blackrune that the ship floats 'too high' in the water—its draft is wrong for its size, and no amount of ballast seems to correct it. The Dragon-Prow Works has begun carving a prow-figure that several old hands refuse to touch. Hvalhöfn's flensing crews, in town for the launch, have started laying bets on whether the ship will reach open water or roll at the quay.

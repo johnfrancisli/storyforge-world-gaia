@@ -11,6 +11,7 @@ gm_notes: A canal worker and Mizuhito elder who has maintained the canal locks a
 aliases: []
 race: ''
 gender: ''
+age: 68
 heritage: ''
 social_station: ''
 role: Canal lock-keeper and keeper of sealed-channel secrets
@@ -38,14 +39,14 @@ appearance: Old and river-worn, wearing Mizuhito canal-worker's garb and a faded
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 68
+visual:
   body_build: wiry and sinewy, aged but strong
   hair: white, thin, under a canal-keeper's cap
   eyes: pale blue-gray, rheumy but sharp
   distinctive_features:
   - a Mizuhito river-tattoo of a lock-gate on both forearms (master lock-keeper mark)
   - a permanently crooked left ring finger from a lock-chain accident
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:jin-state

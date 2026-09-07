@@ -12,6 +12,7 @@ aliases:
 - 'Chiyo'
 race: ''
 gender: ''
+age: ten
 heritage: ''
 social_station: ''
 role: Child
@@ -40,12 +41,12 @@ appearance: She wears a bright cotton kimono with a sash that's coming undone an
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: ten
+visual:
   body_build: small, wiry, energetic
   hair: black, unruly, half-tied
   eyes: dark brown, bright
   distinctive_features: a missing front tooth
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ashikara-shogunate

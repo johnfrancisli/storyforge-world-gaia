@@ -11,6 +11,7 @@ gm_notes: 'Maren is the navigator aboard the Frostwing, and she can read stars, 
 aliases: []
 race: ''
 gender: ''
+age: 37
 heritage: ''
 social_station: ''
 role: Navigator / Sailor
@@ -39,13 +40,13 @@ appearance: Lean and salt-wind-burned, Maren wears a sealskin coat over wool, a 
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 37
+visual:
   body_build: wiry and tall, built for the open deck
   hair: pale blonde, bleached nearly white by salt and sun, worn in two thin braids
   eyes: pale blue, slightly clouded at the edges
   distinctive_features: frost-nip scars on the tip of her nose and both ears, a faded tattoo of the North
     Star on her left inner wrist
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:hra-shipwright-brotherhood

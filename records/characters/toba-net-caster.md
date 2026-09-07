@@ -13,6 +13,7 @@ gm_notes: 'A Mizuhito fisher who provides much of Iara''s daily catch and who ha
 aliases: []
 race: ''
 gender: ''
+age: 29
 heritage: ''
 social_station: ''
 role: Fisher and river-provider
@@ -40,8 +41,7 @@ appearance: Compact and waterproof-looking, perpetually in a state of half-dryne
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 29
+visual:
   body_build: compact and strong, broad from hauling nets
   hair: dark green-blue, cropped close to the skull
   eyes: pale aquamarine, sharp and water-squinted
@@ -49,6 +49,7 @@ visual_identity:
   - blue-green skin with mottling along the forearms
   - webbed fingers and toes
   - a fish-spine scar embedded in the left palm, permanently raised
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ver-river-consortium

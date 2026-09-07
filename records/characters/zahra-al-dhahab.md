@@ -17,6 +17,7 @@ gm_notes: The daughter of the al-Dhahab binding family, the wealthiest house on 
 aliases: []
 race: ''
 gender: ''
+age: 30
 heritage: ''
 social_station: ''
 role: Binding family daughter, djinn-confidante
@@ -45,14 +46,14 @@ appearance: Elegant and self-possessed in gold-trimmed robes with the al-Dhahab 
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 30
+visual:
   body_build: tall and graceful
   hair: black, long, elaborately styled
   eyes: dark brown, intelligent and guarded
   distinctive_features:
   - the al-Dhahab gold-tower sigil tattooed on the inside of the left wrist
   - a faint, barely visible burn mark on the right palm — from touching the lamp too long
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:binding-families

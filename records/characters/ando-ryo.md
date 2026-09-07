@@ -14,6 +14,7 @@ aliases:
 - 'Ryo'
 race: ''
 gender: ''
+age: mid-thirties
 heritage: ''
 social_station: ''
 role: Lantern maker (chochin-shi)
@@ -42,12 +43,12 @@ appearance: He wears a craftsman's apron over a simple kimono, his hands nimble 
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: mid-thirties
+visual:
   body_build: medium, precise in movement
   hair: black, in a simple topknot
   eyes: dark brown, focused
   distinctive_features: paper-cut calluses on both thumbs and a faint glue stain on the left forearm
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ashikara-shogunate

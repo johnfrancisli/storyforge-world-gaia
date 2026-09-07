@@ -13,6 +13,7 @@ gm_notes: 'A serpent beast-kin spirit-talker who serves as intermediary between 
 aliases: []
 race: ''
 gender: ''
+age: 41
 heritage: ''
 social_station: ''
 role: Spirit-talker and serpent-pact intermediary
@@ -40,8 +41,7 @@ appearance: Elegant and unnervingly still, with smooth green-scaled skin and a g
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 41
+visual:
   body_build: tall and fluidly proportioned, snake-like in stillness
   hair: none — replaced by a fine crest of dark scales along the crown
   eyes: vertical-pupiled, yellow-green
@@ -49,6 +49,7 @@ visual_identity:
   - smooth green scales covering the forehead, temples, and neck
   - a forked tongue visible when she speaks at length
   - heat-sensory pits along the upper lip
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ver-shaman-circle

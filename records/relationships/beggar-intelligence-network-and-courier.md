@@ -11,4 +11,6 @@ bond: Isam runs a shadow intelligence network from the gutter, and Bushra is his
   knows it; she is the only person who still addresses him by his old name, and he has never decided whether
   that is mercy or a threat.
 disposition: 58
+visual:
+  prompt: ''
 ---

@@ -14,6 +14,7 @@ gm_notes: 'Mafana is nine years old and arrived at Lani Atoll with nothing — n
 aliases: []
 race: ''
 gender: ''
+age: nine
 heritage: ''
 social_station: ''
 role: Refugee child
@@ -42,14 +43,14 @@ appearance: A small, watchful girl who moves silently and communicates through g
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: nine
+visual:
   body_build: small, thin, watchful
   skin: light brown
   hair: black, long, tangled
   eyes: dark brown, very large and very watchful
   distinctive_features: a small piece of white coral carried always in the left hand, a complete silence
     — she has not spoken a word since her arrival, a stillness that is unusual in a child
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:tide-refugee-council

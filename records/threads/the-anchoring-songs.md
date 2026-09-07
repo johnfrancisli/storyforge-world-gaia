@@ -23,6 +23,8 @@ next_possible_moves:
 - Mana begins carving a new set of route-tattoos on Kai, including a route that was lost last month —
   to test whether carrying a lost route on a living wayfinder can restore it.
 resolution: null
+visual:
+  prompt: ''
 ---
 
 Mana the Tattoo-carver believes that wayfinder tattoos are not just records — they are anchors. When a route is submerged and the tattoo fades, the wayfinder feels it as physical pain. She suspects the tattoos are helping hold the sea-routes in existence, and that losing wayfinders and routes may be connected to the rising seas, not just a consequence of them.

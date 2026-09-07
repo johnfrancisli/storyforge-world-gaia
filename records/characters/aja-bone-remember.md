@@ -14,6 +14,7 @@ gm_notes: 'An elder who keeps the tribal genealogies and historical records thro
 aliases: []
 race: Human
 gender: Male
+age: 71
 heritage: Tribal Verdania
 social_station: Elder
 role: Genealogy keeper and oral historian
@@ -51,15 +52,15 @@ key_phrases:
 - "The bones do not forget, even if the lips stay silent."
 - "Blood is a river that sometimes flows underground."
 - "I keep the past; I do not dictate the future."
-visual_identity:
-  age: 71
-  body_build: masterpiece, highly detailed, beautifully proportioned, fit for age, thin and angular, slightly stooped, aesthetic body
-  hair: white, fine, worn short, high quality texture
-  eyes: dark brown, sharp despite age, sparkling eyes, deep gaze, highly detailed eyes
+visual:
+  body_build: thin, angular, slightly stooped, fit for age
+  hair: white, fine, worn short
+  eyes: dark brown, sharp despite age
   distinctive_features:
   - carved bone bead necklace marking his office as genealogist
   - a slight tremor in the right hand from age
-  face: handsome face, gorgeous, extremely attractive, symmetrical, masterpiece, wise
+  face: distinguished, ruggedly handsome, age-lined
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ver-shaman-circle

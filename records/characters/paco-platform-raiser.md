@@ -13,6 +13,7 @@ gm_notes: 'A human builder who constructs and repairs the stilt-platforms that a
 aliases: []
 race: ''
 gender: ''
+age: 46
 heritage: ''
 social_station: ''
 role: Master builder and structural keeper
@@ -40,14 +41,14 @@ appearance: Broad and capable, with builder's hands and a builder's eye for leve
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 46
+visual:
   body_build: broad and powerful, built for heavy construction work
   hair: black, thinning, cut short for safety
   eyes: brown, practical and assessing
   distinctive_features:
   - a hammer-callus on the right palm
   - a missing tip of the left ring finger from a saw accident
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ver-canopy-council

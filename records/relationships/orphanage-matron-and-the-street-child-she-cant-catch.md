@@ -12,4 +12,6 @@ bond: Hilda leaves food where Daisy can find it and pretends not to notice the t
   each other, but Hilda has already made up a bed with Daisy's name on it, and Daisy knows which window
   is unlocked.
 disposition: 58
+visual:
+  prompt: ''
 ---

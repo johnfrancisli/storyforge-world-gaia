@@ -10,6 +10,7 @@ gm_notes: 'Oliver is a chimney sweep''s apprentice, a young boy who climbs the n
 aliases: []
 race: ''
 gender: ''
+age: 10
 heritage: ''
 social_station: ''
 role: Chimney Sweep Apprentice
@@ -37,13 +38,13 @@ appearance: Small and perpetually soot-stained, Oliver wears a ragged tunic and 
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 10
+visual:
   body_build: small and wiry, underfed
   hair: brown, cut very short (to prevent lice and fire)
   eyes: grey, sharp and watchful
   distinctive_features: permanent soot stains in his skin creases, a healing burn on his right palm, knees
     and elbows perpetually scraped
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:val-merchant-guild

@@ -11,6 +11,7 @@ aliases:
 - 'Chief Oron of Iara'
 race: ''
 gender: ''
+age: mid-fifties
 heritage: ''
 social_station: ''
 role: Chief of Iara
@@ -39,13 +40,13 @@ appearance: A stocky, sun-darkened man in fine river-cloth and featherwork — t
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: mid-fifties
+visual:
   body_build: stocky, broad
   skin: deep brown
   hair: grey, close-cropped
   eyes: dark brown
   distinctive_features: a chief's featherwork collar, a ritual scar on the left cheek marking his election
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ver-shaman-circle

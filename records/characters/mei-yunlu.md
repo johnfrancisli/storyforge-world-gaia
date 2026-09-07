@@ -9,6 +9,7 @@ gm_notes: A silk weaver whose loom produces fabric with patterns that seem to mo
 aliases: []
 race: ''
 gender: ''
+age: 29
 heritage: ''
 social_station: ''
 role: Master silk weaver and unconscious oracle
@@ -36,14 +37,14 @@ appearance: Gentle and focused, wearing simple weave-stained clothes. Hands alwa
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 29
+visual:
   body_build: small and deft-fingered
   hair: dark brown, braided and pinned up with wooden loom-shuttles
   eyes: soft gray-brown, often unfocused as if listening to something distant
   distinctive_features:
   - weaver's calluses on both thumbs
   - a faint shimmer in her hair that catches light like silk thread
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:jin-state

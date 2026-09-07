@@ -6,6 +6,8 @@ jurisdiction: Contested between the Kingdom of Valdris (Verdmarch Constabulary) 
   of the Briar). Neither side holds it fully.
 terrain: stone tower, crumbled masonry, garrisoned battlement
 resources: []
+visual:
+  prompt: ''
 ---
 
 A stone tower on the Valdrian side, garrisoned by the Field Constabulary. Half-crumbled, rebuilt, half-crumbled again. The banner of the crowned iron tower hangs from the highest remaining wall.

@@ -6,6 +6,8 @@ jurisdiction: Jointly administered by Sangguo's western prefecture and Al-Khayza
   Both collect tolls.
 terrain: stone customs house, wagon courtyard, canyon mouth
 resources: []
+visual:
+  prompt: ''
 ---
 
 A stone customs house at the Sangguo end of the pass, where officials inspect cargo and collect tolls. The courtyard has space for a dozen wagons. The officials are thorough and slow.

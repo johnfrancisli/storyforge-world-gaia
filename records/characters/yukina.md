@@ -11,6 +11,7 @@ gm_notes: Yukina is a yuki-onna — a snow woman — who fell in love with a hum
 aliases: []
 race: ''
 gender: ''
+age: ageless — appears mid-twenties
 heritage: ''
 social_station: ''
 role: Yuki-onna (snow woman yokai) in hiding
@@ -39,13 +40,13 @@ appearance: She wears layered kimono even in warm weather, pale blues and whites
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: ageless — appears mid-twenties
+visual:
   body_build: slender, willowy
   hair: white, long, straight
   eyes: pale blue, crystalline
   distinctive_features: skin that is perpetually cool-pale, as if touched by frost; lips with a faint
     blue tint
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ashikara-shogunate

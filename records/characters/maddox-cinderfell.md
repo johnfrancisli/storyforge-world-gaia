@@ -9,6 +9,7 @@ gm_notes: 'Maddox is a gravedigger who has noticed an unusual pattern: bodies ha
 aliases: []
 race: ''
 gender: ''
+age: 51
 heritage: ''
 social_station: ''
 role: Gravedigger
@@ -36,12 +37,12 @@ appearance: Gaunt and pale, Maddox wears heavy work clothes and gloves. He smell
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 51
+visual:
   body_build: tall and gaunt
   hair: lank black, grey-streaked, shoulder-length
   eyes: grey-blue, deep-set
   distinctive_features: permanently earth-stained hands, a large mole on his left jawline
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:dragon-order

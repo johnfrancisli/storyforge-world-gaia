@@ -12,6 +12,7 @@ aliases:
 - 'Elder Wayfinder Pua'
 race: ''
 gender: ''
+age: seventies
 heritage: ''
 social_station: ''
 role: Elder wayfinder, song-keeper
@@ -40,14 +41,14 @@ appearance: A small, weathered woman in simple island cloth, her arms covered in
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: seventies
+visual:
   body_build: small, wiry, weathered
   skin: deep tan, sun-weathered
   hair: white, short, salt-stiff
   eyes: dark brown, bright
   distinctive_features: faded tattoo patterns covering both arms — the oldest routes, barely visible,
     a wayfinder's staff dark with age
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:wayfinder-guilds

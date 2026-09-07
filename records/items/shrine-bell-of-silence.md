@@ -16,4 +16,6 @@ item_tags:
 - tsukuyomi
 - religious
 - yokai
+visual:
+  prompt: ''
 ---

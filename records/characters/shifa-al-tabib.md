@@ -14,6 +14,7 @@ gm_notes: 'A physician who can heal injuries caused by djinn fire — burns that
 aliases: []
 race: ''
 gender: ''
+age: 47
 heritage: ''
 social_station: ''
 role: Physician, djinn-fire specialist
@@ -42,14 +43,14 @@ appearance: Composed and professional in clean white healer's robes, her hands s
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 47
+visual:
   body_build: medium, steady-handed
   hair: black with grey, tied in a practical bun
   eyes: brown, calm and clinical
   distinctive_features:
   - a faint scar on the left palm where she draws blood for her salve
   - a small jade-green vial on a chain around her neck, always full
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:alk-scholar-circle

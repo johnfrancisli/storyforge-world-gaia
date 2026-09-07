@@ -14,6 +14,7 @@ gm_notes: 'Fale is a wood carver who makes the practical wooden tools of the Arc
 aliases: []
 race: ''
 gender: ''
+age: thirty-three
 heritage: ''
 social_station: ''
 role: Wood carver
@@ -41,8 +42,7 @@ appearance: A solid, plain man with a craftswoman's hands and an unremarkable fa
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: thirty-three
+visual:
   body_build: solid, strong-handed, plain
   skin: medium brown, wood-stained
   hair: black, short, practical
@@ -50,6 +50,7 @@ visual_identity:
   distinctive_features: wood-stained hands, a plainness of appearance and manner that is genuine — not
     disguise, a workshop full of unfinished pieces she has been afraid to complete, a quality of distraction
     that has grown over the past month
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:tide-tattoo-guild

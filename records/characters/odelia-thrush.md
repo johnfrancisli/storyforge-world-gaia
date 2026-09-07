@@ -9,6 +9,7 @@ gm_notes: Odelia is a minstrel who travels the kingdom performing songs and stor
 aliases: []
 race: ''
 gender: ''
+age: 30
 heritage: ''
 social_station: ''
 role: Minstrel
@@ -36,13 +37,13 @@ appearance: Bright and performative, Odelia wears colourful travelling clothes a
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 30
+visual:
   body_build: slender and expressive
   hair: honey-blonde, long, worn loose or in a quick braid
   eyes: green
   distinctive_features: a lutenist's callus on her left fingertips, a small scar on her lower lip (bit
     through it during a childhood fall)
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:dragon-order

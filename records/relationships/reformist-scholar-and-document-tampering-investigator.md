@@ -12,4 +12,6 @@ bond: Wenzhao writes the reformist arguments; Lianshu provides the documentary e
   What Lianshu has not yet told Wenzhao is that the trail of tampering leads toward a faction that would
   kill them both if it knew what they had found.
 disposition: 68
+visual:
+  prompt: ''
 ---

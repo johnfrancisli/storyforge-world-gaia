@@ -12,4 +12,6 @@ bond: Between them they hold most of the settlement's living memory, and they sp
   remember the same event entirely differently. The friendship is the settlement's archive, kept warm
   by two people who know they are its last custodians.
 disposition: 82
+visual:
+  prompt: ''
 ---

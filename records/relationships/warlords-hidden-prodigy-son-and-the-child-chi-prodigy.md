@@ -11,4 +11,6 @@ bond: Both are chi-prodigies, and both are objects of a three-way search by Jin,
   in each other the same frightening gift. The bond is that of endangered kin — not blood, but the family
   of those who share a dangerous difference.
 disposition: 61
+visual:
+  prompt: ''
 ---

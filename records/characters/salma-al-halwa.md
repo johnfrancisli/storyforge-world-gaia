@@ -13,6 +13,7 @@ gm_notes: 'A sweet maker renowned for her baklava and date-paste candies, which 
 aliases: []
 race: ''
 gender: ''
+age: 26
 heritage: ''
 social_station: ''
 role: Sweet maker, rose-garden keeper
@@ -40,14 +41,14 @@ appearance: Petite and precise in a clean white apron, her hands quick and delic
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 26
+visual:
   body_build: petite, deft-fingered
   hair: dark brown, long, tied with a ribbon
   eyes: honey-brown, bright
   distinctive_features:
   - a small sugar-burn scar on the left index finger
   - permanently rose-scented skin, even after washing
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:binding-families

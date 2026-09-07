@@ -12,6 +12,7 @@ gm_notes: 'Kata is the midwife of Skaldvik, who has brought nearly every living 
 aliases: []
 race: ''
 gender: ''
+age: 57
 heritage: ''
 social_station: ''
 role: Midwife
@@ -40,13 +41,13 @@ appearance: Weathered and warm, Kata wears a clean wool dress with a shawl she c
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 57
+visual:
   body_build: medium height, soft and solid
   hair: grey, thick, pinned in a practical coil
   eyes: warm brown, deeply lined at the corners
   distinctive_features: a mole on her left cheek, a slight curvature of the spine from decades of leaning
     over beds
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:hra-volur-coven

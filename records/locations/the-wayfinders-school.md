@@ -12,6 +12,8 @@ resources:
 - navigation training
 - bark-cloth star-charts
 - master's carved staffs
+visual:
+  prompt: ''
 ---
 
 The Wayfinder's School is the great hall of Hokuala, a long open-sided building of hardwood and palm-thatch on the lagoon-shore where the master-navigators teach the wayfinder's art in the heat of the day when the stars are hidden and the sea is too bright to read. The floor is sand covered with woven mats, and the students — girls and boys from every island, chosen for memory and sea-sense and sent as children to serve a ten-year bond — sit in rows before the masters, chanting the star-path songs in call-and-response, their voices rising and falling in the complex melodies that encode the navigation knowledge: the rising-points and setting-points of the guide-stars, the swell-directions of the great ocean currents, the bird-flight patterns that signal land, the cloud-signs of islands beyond the horizon. The walls are hung with star-charts painted on bark-cloth and with the carved staffs of past masters, each notched with the voyages of its holder, and a great navigation-circle of stones and sticks occupies the hall's center, used to teach the star-compass — the mental diagram of thirty-two points by which a wayfinder orients the rising and setting of every star. The air smells of sand, palm, green tea, and the faint sweat of concentration. The Star-Father, a grey-haired man with milk-pale eyes from years of night-watching, presides and corrects, his voice quiet but carrying over the chant.

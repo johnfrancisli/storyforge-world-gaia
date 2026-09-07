@@ -10,6 +10,7 @@ aliases:
 - 'Emi'
 race: ''
 gender: ''
+age: late twenties
 heritage: ''
 social_station: ''
 role: Weaver
@@ -38,12 +39,12 @@ appearance: She sits cross-legged at her loom, surrounded by skeins of thread in
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: late twenties
+visual:
   body_build: slender, long-fingered
   hair: dark brown, loose, with thread fragments caught in it
   eyes: hazel
   distinctive_features: faint web-like scarring on the backs of both hands, pale and old
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:tsu-swordsmith-guild

@@ -11,6 +11,7 @@ gm_notes: 'Maren is a squire to a Dragon Order knight who was killed in a skirmi
 aliases: []
 race: ''
 gender: ''
+age: 17
 heritage: ''
 social_station: ''
 role: Squire
@@ -39,13 +40,13 @@ appearance: Young and determined, Maren wears a squire's padded tunic and carrie
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 17
+visual:
   body_build: athletic and still growing
   hair: black, cut short in the squire's style
   eyes: dark grey, fierce
   distinctive_features: a squire's brand on her right shoulder (Dragon Order mark), a healing cut on her
     left cheek from the skirmish that killed her knight, calloused palms from sword training
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:dragon-order

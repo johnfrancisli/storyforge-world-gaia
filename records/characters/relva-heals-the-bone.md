@@ -12,6 +12,7 @@ gm_notes: A healer specializing in bone-setting and wound care who served as fie
 aliases: []
 race: ''
 gender: ''
+age: 37
 heritage: ''
 social_station: ''
 role: Healer and bone-setter
@@ -39,14 +40,14 @@ appearance: Clean and precise in manner and dress. Wears a wrapped sash of tools
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 37
+visual:
   body_build: medium and well-proportioned, steady-handed
   hair: black, short-cropped for cleanliness
   eyes: dark brown, calm and measuring
   distinctive_features:
   - a faded bite scar on the right forearm from a panicked patient
   - perpetually clean, short-bitten nails
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ver-canopy-council

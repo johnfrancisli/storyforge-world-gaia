@@ -12,4 +12,6 @@ bond: They are secretly in love across a family rivalry, and Zahra's djinn-confi
   family, has its own opinions about the match, and Zahra is no longer certain whether her confidante
   is keeping her secret or engineering something with it.
 disposition: 69
+visual:
+  prompt: ''
 ---

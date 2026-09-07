@@ -13,6 +13,7 @@ gm_notes: 'A human midwife who specializes in difficult births and who has never
 aliases: []
 race: ''
 gender: ''
+age: 40
 heritage: ''
 social_station: ''
 role: Midwife and birth-healer
@@ -40,14 +41,14 @@ appearance: Soft-featured and warm, with gentle hands and a calming voice. Wears
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 40
+visual:
   body_build: soft and rounded, gentle in bearing
   hair: dark brown, streaked with early grey, worn in a loose bun
   eyes: warm brown, kind, with a permanent undercurrent of sorrow
   distinctive_features:
   - a small mole on the left cheek
   - exceptionally smooth, uncalloused hands for a woman of her community
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ver-river-consortium

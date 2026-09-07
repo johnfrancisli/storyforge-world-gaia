@@ -10,6 +10,7 @@ gm_notes: Aerindra is an elven fletcher who crafts arrows for the Dragon Order's
 aliases: []
 race: Elf
 gender: Female
+age: 95
 heritage: Sylvan
 social_station: Artisan
 role: Fletcher
@@ -50,14 +51,14 @@ key_phrases:
 - "An arrow that flies untrue is a broken promise."
 - "The wood remembers the forest, and I must honor its memory."
 - "I will not let my name be stained by another's treachery."
-visual_identity:
-  age: 95
-  body_build: masterpiece, highly detailed, beautifully proportioned, fit, slender, aesthetic elven body
-  hair: pale blonde, long, tied back with a leather cord, flowing, luminous, highly detailed hair
-  eyes: violet, sparkling eyes, deep gaze, highly detailed eyes
+visual:
+  body_build: fit, slender
+  hair: pale blonde, long, tied back with a leather cord
+  eyes: violet
   distinctive_features: pronounced pointed ears, a fletcher's callus on her right thumb, a tiny scar on
     her left index finger from a knife slip
-  face: beautiful face, gorgeous, extremely attractive, symmetrical elven features, masterpiece
+  face: beautiful, symmetrical elven features
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:val-merchant-guild

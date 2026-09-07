@@ -10,6 +10,7 @@ gm_notes: An elderly beggar woman in Jin-an who is actually a retired chi-cultiv
 aliases: []
 race: ''
 gender: ''
+age: 72
 heritage: ''
 social_station: ''
 role: Disguised chi-cultivation master and protector of street children
@@ -37,14 +38,14 @@ appearance: Small and hunched in layered dirty rags, but with eyes that are too 
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 72
+visual:
   body_build: small, hunched, deceptively solid beneath the rags
   hair: thin white, under a ragged head wrap
   eyes: startlingly clear and bright brown
   distinctive_features:
   - a web of fine scars on the hands (old chi-training marks)
   - a barely visible, perfectly circular callus on each palm (cultivation seat-mark)
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:san-merchant-cartel

@@ -11,6 +11,7 @@ aliases:
 - 'General Lu Fang'
 race: ''
 gender: ''
+age: early forties
 heritage: ''
 social_station: ''
 role: General of the Jin army
@@ -39,12 +40,12 @@ appearance: A tall, imposing man in military robes and lamellar armor, a dao swo
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: early forties
+visual:
   body_build: tall, muscular, imposing
   hair: black, topknot, thick beard
   eyes: dark brown
   distinctive_features: a old arrow scar on the left shoulder, callused sword-hand
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:jin-state

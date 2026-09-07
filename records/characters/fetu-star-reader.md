@@ -15,6 +15,7 @@ gm_notes: Fetu is the youngest wayfinder to achieve journeyman rank in a generat
 aliases: []
 race: ''
 gender: ''
+age: twenty
 heritage: ''
 social_station: ''
 role: Wayfinder (junior navigator)
@@ -43,14 +44,14 @@ appearance: A young, bright-eyed woman with wayfinder tattoos just beginning on 
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: twenty
+visual:
   body_build: lean, quick, bright-eyed
   skin: medium brown
   hair: black, short, wind-tossed
   eyes: very dark brown — nearly black, with a quality of absorbing light rather than reflecting it
   distinctive_features: wayfinder tattoos beginning on both forearms — only two routes, a shell star-compass
     carried on a cord around the neck, a three-day gap in memory she will not discuss
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:wayfinder-guilds

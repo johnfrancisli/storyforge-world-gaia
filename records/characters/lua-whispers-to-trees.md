@@ -12,6 +12,7 @@ gm_notes: 'An elder storyteller who knows every oral history of the Verdania tri
 aliases: []
 race: ''
 gender: ''
+age: 83
 heritage: ''
 social_station: ''
 role: Elder storyteller and oral history keeper
@@ -39,14 +40,14 @@ appearance: Thin and weathered, wrapped in layered cotton. Her voice is soft but
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 83
+visual:
   body_build: thin and fragile, small-statured
   hair: white, fine, worn loose
   eyes: milky brown, fading with age
   distinctive_features:
   - a persistent dry whisper-clearing cough
   - ritual tattooing of small circles along the jawline, faded with age
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ver-river-consortium

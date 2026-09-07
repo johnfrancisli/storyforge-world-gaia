@@ -9,6 +9,7 @@ gm_notes: Roslyn is a fortune teller who genuinely has prophetic dreams — but 
 aliases: []
 race: ''
 gender: ''
+age: 27
 heritage: ''
 social_station: ''
 role: Fortune Teller
@@ -36,13 +37,13 @@ appearance: Dark-haired and intense-eyed, Roslyn wears layered shawls and skirts
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 27
+visual:
   body_build: slender and willowy
   hair: raven black, long, loose
   eyes: deep amber
   distinctive_features: a small mole below her left eye, ritual tattoos on her inner wrists (old fortune-teller
     tradition)
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:val-mages-circle

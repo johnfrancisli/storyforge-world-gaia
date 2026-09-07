@@ -6,6 +6,8 @@ jurisdiction: Jointly administered by Sangguo's western prefecture and Al-Khayza
   Both collect tolls.
 terrain: shoulder-width canyon, rockfall-prone, vertical walls, carved prayers
 resources: []
+visual:
+  prompt: ''
 ---
 
 The tightest section of the pass, where the canyon walls close to shoulder width for a hundred yards. Rockfalls are common. Bandits drop stones and rope from above. The walls are carved with prayers in old scripts.

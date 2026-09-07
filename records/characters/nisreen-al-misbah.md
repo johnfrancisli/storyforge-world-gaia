@@ -14,6 +14,7 @@ gm_notes: A female lamp maker who is Esam's (character:esam-al-misbah) business 
 aliases: []
 race: ''
 gender: ''
+age: 47
 heritage: ''
 social_station: ''
 role: Lamp maker, djinn-blooded (hidden)
@@ -42,14 +43,14 @@ appearance: Compact and efficient in a clean apron, her hands quick with copper 
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 47
+visual:
   body_build: compact, quick-moving
   hair: dark brown, greying, pinned under a work cloth
   eyes: amber, unusual in their warmth
   distinctive_features:
   - a faint, permanent warmth to the skin — not feverish, but noticeable on contact
   - a small copper-burn scar on the left palm
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:binding-families

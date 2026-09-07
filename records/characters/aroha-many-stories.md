@@ -15,6 +15,7 @@ gm_notes: Aroha is the storyteller every child gathers around at dusk, and she k
 aliases: []
 race: ''
 gender: ''
+age: forty-five
 heritage: ''
 social_station: ''
 role: Storyteller
@@ -43,14 +44,14 @@ appearance: A warm-faced woman with expressive hands and a voice that can fill a
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: forty-five
+visual:
   body_build: soft, round-faced, expressive in gesture
   skin: warm brown
   hair: black, greying at the temples, worn loose
   eyes: bright brown, warm and engaging
   distinctive_features: a pouch of carved story-stones worn at the belt, expressive hands that gesture
     constantly when speaking, a smile that reaches her eyes even when she is frightened
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:wayfinder-guilds

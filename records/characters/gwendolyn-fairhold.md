@@ -10,6 +10,7 @@ gm_notes: Gwendolyn is the wife of a minor baron who has positioned herself as a
 aliases: []
 race: ''
 gender: ''
+age: 38
 heritage: ''
 social_station: ''
 role: Baroness / Political Mediator
@@ -37,13 +38,13 @@ appearance: Elegant and composed, Gwendolyn wears fine but understated gowns and
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 38
+visual:
   body_build: slender and poised
   hair: dark auburn, elaborately styled
   eyes: hazel, warm and measuring
   distinctive_features: a beauty mark on her right cheek, a thin gold chain always worn at her throat
     (family heirloom), exceptionally manicured hands
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:val-noble-council

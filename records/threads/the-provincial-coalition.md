@@ -28,6 +28,8 @@ next_possible_moves:
   does not know about, but about the yokai incident, which he blames on Takeda's territory being poorly
   defended. The irony is not lost on Takeda.
 resolution: null
+visual:
+  prompt: ''
 ---
 
 Daimyo Takeda Renji is building a coalition of rural clans who feel the shogunate has abandoned them. He has a secret alliance with the wild kitsune Tamamo, who is willing to create yokai incidents to prove the shrine network's weakness. His plans were stolen by the thief Kuro, and the document is now in play. The shogun is dying and the succession is undecided.

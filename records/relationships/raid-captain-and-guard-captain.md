@@ -12,4 +12,6 @@ bond: Astrid believes the fjords grow wealthy by raiding; Ingrid believes they g
   them both because their friction prevents either from growing too powerful — a balance neither woman
   has failed to notice.
 disposition: 30
+visual:
+  prompt: ''
 ---

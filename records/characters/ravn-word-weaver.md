@@ -11,6 +11,7 @@ aliases:
 - 'Skald Ravn'
 race: ''
 gender: ''
+age: mid-thirties
 heritage: ''
 social_station: ''
 role: Skald (poet, storyteller)
@@ -39,13 +40,13 @@ appearance: A thin, animated man in colorful wool — more colorful than is stri
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: mid-thirties
+visual:
   body_build: thin, lanky
   height: tall
   hair: red, long, flowing
   eyes: green
   distinctive_features: a lyre always in hand, ink-stained fingers from composing, a silver ear ring
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:hra-jarl-council

@@ -18,4 +18,6 @@ item_tags:
 - hrafnland
 - artifact
 - runic
+visual:
+  prompt: ''
 ---

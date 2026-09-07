@@ -10,6 +10,7 @@ gm_notes: Wen Li is a river-folk woman who manages the canal system that feeds J
 aliases: []
 race: ''
 gender: ''
+age: late thirties
 heritage: ''
 social_station: ''
 role: Canal master, river-folk
@@ -38,13 +39,13 @@ appearance: A compact river-folk woman in work clothes, her blue-green skin damp
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: late thirties
+visual:
   body_build: compact, strong
   skin: blue-green, smooth, slightly scaled
   hair: dark green-black, short, wet
   eyes: teal
   distinctive_features: webbed fingers and toes, gill-slits along the neck that close on land
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:jin-state

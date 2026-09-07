@@ -13,4 +13,6 @@ bond: They are siblings who inherited the same furnace, and each has stumbled in
   after hours, and the day their two secrets collide in the same furnace may burn the workshop to the
   ground.
 disposition: 52
+visual:
+  prompt: ''
 ---

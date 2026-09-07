@@ -11,4 +11,6 @@ bond: Each controls a different trade route — Torsten the southern, Sigunn the
   been trying to buy into the other's for years. Their rivalry is courteous on the surface and ruthless
   below it; the moment one stumbles, the other will absorb the route, and both know it.
 disposition: 28
+visual:
+  prompt: ''
 ---

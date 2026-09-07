@@ -19,6 +19,8 @@ locations:
 organizations:
 - org:ver-temple-guardians
 - org:ver-shaman-circle
+visual:
+  prompt: ''
 ---
 
 The Bone Gate at the Temple of the Coiled Serpent, long cold and sealed by the temple guardians, has begun radiating a low warmth that melts the morning frost off its carved skulls before the sun reaches them. Temple guardian Zel of the Temple, who has spent years warning outsiders away from the ruins, has gone from guarding the gate to refusing to go near it. Spirit-talker Conda Serpent-Eyes, who maintains the old serpent-pact, reports that the pact's binding-songs now produce an answer that comes from beneath the pyramid, not from the sky. The Reclaimed Plaza market has begun attracting outlanders asking pointed questions about the Serpent's Crown summit.

@@ -12,6 +12,7 @@ gm_notes: A bird beast-kin flute player whose melodies can calm animals, soothe 
 aliases: []
 race: ''
 gender: ''
+age: 24
 heritage: ''
 social_station: ''
 role: Flute player and wind-melody seeker
@@ -39,8 +40,7 @@ appearance: Slim and hollow-boned, with an airy lightness to every movement. Wea
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 24
+visual:
   body_build: slight and light-boned, fragile-looking
   hair: a crest of pale grey-white feathers
   eyes: pale blue, round, unblinking
@@ -48,6 +48,7 @@ visual_identity:
   - fine pale feathers along the forearms and jaw
   - hollow-boned lightness — she seems to almost float when she moves
   - slightly elongated, bird-like fingers suited to flute-playing
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ver-shaman-circle

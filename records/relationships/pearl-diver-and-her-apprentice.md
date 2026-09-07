@@ -12,4 +12,6 @@ bond: Hina is pushing Tama to dive deeper than is safe because the best pearls a
   for the legend of being the deepest diver who ever lived. The friendship is fraying into a test of wills
   that the sea will arbitrate.
 disposition: 44
+visual:
+  prompt: ''
 ---

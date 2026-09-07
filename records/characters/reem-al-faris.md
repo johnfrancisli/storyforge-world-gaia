@@ -12,6 +12,7 @@ gm_notes: 'Nadia''s granddaughter and heir to the al-Faris binding line. Reem ha
 aliases: []
 race: ''
 gender: ''
+age: 22
 heritage: ''
 social_station: ''
 role: Binding family heiress, independent scholar
@@ -40,14 +41,14 @@ appearance: Young and bookish in practical linen robes, her hair bound in a loos
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 22
+visual:
   body_build: slender, slight
   hair: dark brown, long braid
   eyes: hazel, curious and intense
   distinctive_features:
   - ink stains on the right index finger from annotating contract texts
   - a small birthmark behind the left ear shaped like a flame
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:binding-families

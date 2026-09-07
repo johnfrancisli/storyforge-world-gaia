@@ -13,6 +13,7 @@ gm_notes: 'A jaguar beast-kin guard who protects the chief of the Verdana tribe 
 aliases: []
 race: ''
 gender: ''
+age: 36
 heritage: ''
 social_station: ''
 role: Chief's personal guard
@@ -40,8 +41,7 @@ appearance: Imposing and alert, with prominent spotting and a military stillness
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 36
+visual:
   body_build: tall and heavily muscled, built for intimidation and combat
   hair: short, tawny with black rosette patterning extending from scalp to shoulders
   eyes: amber-gold, vertical pupils, vigilant
@@ -49,6 +49,7 @@ visual_identity:
   - heavy jaguar-spot rosette patterning across face, neck, and arms
   - a long claw-scar down the left cheek
   - elongated canibles visible when her jaw is set
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ver-temple-guardians

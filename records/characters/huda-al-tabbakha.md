@@ -13,6 +13,7 @@ gm_notes: A cook who runs a kitchen feeding the poor of the eastern quarter, fun
 aliases: []
 race: ''
 gender: ''
+age: 50
 heritage: ''
 social_station: ''
 role: Communal cook, quarter benefactor
@@ -41,14 +42,14 @@ appearance: Stout and flour-dusted in a cook's apron over practical cotton, her 
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 50
+visual:
   body_build: stout and strong-armed
   hair: grey-black, covered by a cloth cap
   eyes: warm brown, crinkled
   distinctive_features:
   - a burn scar on the right forearm from a pot of boiling stew
   - a permanent flush across the cheeks from years of kitchen heat
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:binding-families

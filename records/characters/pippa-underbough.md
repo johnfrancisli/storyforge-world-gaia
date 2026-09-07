@@ -9,6 +9,7 @@ gm_notes: Pippa is a young halfling messenger who carries dispatches between Cro
 aliases: []
 race: ''
 gender: ''
+age: 19
 heritage: ''
 social_station: ''
 role: Messenger
@@ -36,13 +37,13 @@ appearance: Bright-eyed and perpetually in motion, Pippa wears a Dragon Order co
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 19
+visual:
   body_build: small and lean, halfling stature, built for running
   hair: light brown, cropped short
   eyes: bright hazel
   distinctive_features: a small gap between her front teeth, a faded bruise on her left shin (perpetual,
     from running)
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:val-merchant-guild

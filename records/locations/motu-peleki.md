@@ -16,6 +16,8 @@ resources:
 - pumice
 - breadfruit
 - taro
+visual:
+  prompt: ''
 ---
 
 Motu Peleki is the fire-mountain island of the Tide Archipelago, a steep volcanic cone of black basalt and ropy lava that rises smoking from the warm sea, its summit crowned by a glowing caldera where the fire-spirit Peleki is said to dwell in a lake of molten rock. By night the crater casts a dull orange glow against the clouds and the sea around the island shimmers warm even leagues out, while by day columns of white steam rise where lava-fingers reach the water and explode into hissing clouds that smell of sulphur, hot stone, and brine. The lower slopes are cloaked in green — ferns, breadfruit, and taro that thrive in the ash-rich soil — and the people of Motu Peleki live in villages of black-stone and thatch clustered where the slope eases, their walls built from the glassy bombs the mountain throws. The islanders are darker-skinned than most archipelago folk, their arms traced with ritual scars and fire-tattoos, and they speak of Peleki as a temperamental grandmother who must be sung to, fed, and placated. The ground trembles underfoot several times a day, and when the mountain grumbles the people fall silent and listen, reading her mood in the vibration. The air always carries the twin scents of growth and destruction — green sap and sulphur, roasting breadfruit and hot rock.

@@ -10,6 +10,7 @@ gm_notes: A rice farmer whose paddies sit at the border where Jin, Chu, and Wei 
 aliases: []
 race: ''
 gender: ''
+age: 46
 heritage: ''
 social_station: ''
 role: Rice farmer and secret provider for deserters' sanctuary
@@ -36,14 +37,14 @@ appearance: Sun-browned and strong, wearing mud-stained farmer's clothes and a w
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 46
+visual:
   body_build: sturdy and broad-hipped from years of field labor
   hair: dark brown, gray at the temples, in a tight braid
   eyes: warm brown, crow's feet from squinting at the sun
   distinctive_features:
   - deep tan lines from the rice-straw hat
   - a faded scar on the left shin from a plow accident
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:jin-state

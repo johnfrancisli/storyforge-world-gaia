@@ -10,6 +10,7 @@ aliases:
 - 'Fumiko'
 race: ''
 gender: ''
+age: early forties
 heritage: ''
 social_station: ''
 role: Musician (koto player)
@@ -38,12 +39,12 @@ appearance: She sits behind her koto with perfect posture, her hands moving over
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: early forties
+visual:
   body_build: slender, straight-backed
   hair: black, greying at the temples, worn in a formal low bun
   eyes: dark brown, lined
   distinctive_features: deep calluses on the right-hand fingertips from koto picks worn for decades
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ashikara-shogunate

@@ -10,6 +10,7 @@ gm_notes: Borin has been asked by the reformist faction to examine dragonbone ar
 aliases: []
 race: ''
 gender: ''
+age: mid-fifties
 heritage: ''
 social_station: ''
 role: Master smith
@@ -38,14 +39,14 @@ appearance: A compact, broad man in a leather apron over forge-stained clothes, 
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: mid-fifties
+visual:
   body_build: compact, dense, heavily muscled
   height: short but not disproportionately so
   hair: iron grey, braided beard
   eyes: dark brown
   distinctive_features: extensive burn scars on both forearms and hands, a metal replacement tip on the
     left thumb
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:val-dawnfire-church

@@ -12,4 +12,6 @@ bond: Shifa is teaching Afaf the djinn-fire medicine that no herbalist is suppos
   is covert and accelerates a trust neither expected; Afaf is beginning to suspect Shifa is grooming a
   successor for something she has not yet explained.
 disposition: 70
+visual:
+  prompt: ''
 ---

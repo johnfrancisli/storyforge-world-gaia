@@ -15,6 +15,7 @@ aliases:
 - 'Jarl Sigrid Hallvarsdottir'
 race: ''
 gender: ''
+age: 48
 heritage: ''
 social_station: ''
 role: Jarl of Skaldvik
@@ -44,13 +45,13 @@ appearance: Tall and commanding, Sigrid wears a fur-trimmed cloak of deep blue o
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 48
+visual:
   body_build: tall, broad-shouldered, still strong
   hair: red-gold streaked with silver, worn in a tight warrior-knot
   eyes: ice blue, pale and unwavering
   distinctive_features: a scar across the bridge of her nose, three fingers on her right hand have old
     break-calluses
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:hra-rune-guild

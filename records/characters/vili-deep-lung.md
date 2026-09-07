@@ -16,6 +16,7 @@ gm_notes: Vili is a pearl diver, one of the few men in the profession, and he is
 aliases: []
 race: ''
 gender: ''
+age: thirty
 heritage: ''
 social_station: ''
 role: Pearl diver (deep)
@@ -43,8 +44,7 @@ appearance: A lean, deep-chested man with a diver's build and an ease in the wat
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: thirty
+visual:
   body_build: lean, deep-chested, long-limbed
   skin: medium brown, salt-lightened
   hair: black, cropped short, water-slicked
@@ -52,6 +52,7 @@ visual_identity:
   distinctive_features: hidden gill slits along both sides of the ribcage — invisible unless arms are
     raised in water, an unnatural ease in the water that other divers find remarkable but unsettling,
     a diver's barotrauma scarring on both earlobes that has healed despite the depth he reaches
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:tide-fishing-coop

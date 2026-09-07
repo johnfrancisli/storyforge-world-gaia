@@ -11,6 +11,7 @@ aliases:
 - 'King Aldran Valdris III'
 race: Human
 gender: Male
+age: 68
 heritage: Royal Valdris
 social_station: King
 role: King of Valdris
@@ -52,13 +53,13 @@ key_phrases:
 - "The throne is a heavy chair, nothing more."
 - "Let them argue; the quiet ones are the dangerous ones."
 - "Time is the one tax I can no longer afford to pay."
-visual_identity:
-  age: 68
-  body_build: masterpiece, highly detailed, beautifully proportioned, tall, once powerful, now thin, aesthetic body
-  hair: white, thinning, high quality texture
-  eyes: pale blue, sparkling eyes, deep gaze, highly detailed eyes
+visual:
+  body_build: tall, once powerful, now thin
+  hair: white, thinning
+  eyes: pale blue
   distinctive_features: a faded scar on the right brow from an old battle wound
-  face: handsome face, gorgeous, extremely attractive, symmetrical, majestic, masterpiece
+  face: handsome, majestic, age-lined
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:val-merchant-guild

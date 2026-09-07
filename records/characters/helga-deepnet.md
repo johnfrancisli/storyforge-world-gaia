@@ -12,6 +12,7 @@ gm_notes: Helga fishes the deep waters of the fjord and has pulled up things fro
 aliases: []
 race: ''
 gender: ''
+age: 44
 heritage: ''
 social_station: ''
 role: Fisher
@@ -40,13 +41,13 @@ appearance: Compact and weather-beaten, Helga wears oilskin over thick wool and 
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 44
+visual:
   body_build: short and broad, powerful arms and hands
   hair: dark brown, greying at the temples, worn in a practical single braid
   eyes: dark brown, watchful
   distinctive_features: a rope-burn scar across both palms, a chipped front tooth, a small blue tattoo
     of a fish-hook on her right knuckle
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:hra-volur-coven

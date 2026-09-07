@@ -13,6 +13,7 @@ aliases:
 - 'Jiro'
 race: ''
 gender: ''
+age: early eighties
 heritage: ''
 social_station: ''
 role: Retired samurai (ronin, former bodyguard)
@@ -41,13 +42,13 @@ appearance: He wears a faded kimono and a straw hat, a cane beside his garden be
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: early eighties
+visual:
   body_build: thin, formerly powerful, still straight-backed
   hair: white, sparse, under a cap
   eyes: grey, sharp despite age
   distinctive_features: an old sword scar across the collarbone and a missing left little finger — the
     mark of a past dishonor atonement
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ashikara-shogunate

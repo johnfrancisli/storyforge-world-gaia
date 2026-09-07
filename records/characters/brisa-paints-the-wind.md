@@ -13,6 +13,7 @@ gm_notes: A body painter whose designs are more than decoration — they are spi
 aliases: []
 race: ''
 gender: ''
+age: 34
 heritage: ''
 social_station: ''
 role: Body painter and spirit-glyph keeper
@@ -40,14 +41,14 @@ appearance: Hands and forearms permanently stained red-black from years of dye w
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 34
+visual:
   body_build: compact and strong from preparing dye materials
   hair: black, tied back with a cord of woven fiber
   eyes: dark brown, sharply observant
   distinctive_features:
   - permanent red-black pigment staining from fingertips to elbows
   - a faint glyph-shaped birthmark on the right shoulder blade
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ver-canopy-council

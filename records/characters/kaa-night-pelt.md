@@ -11,6 +11,7 @@ aliases:
 - 'Kaa the Jaguar-kin'
 race: ''
 gender: ''
+age: mid-thirties
 heritage: ''
 social_station: ''
 role: Hunter, jaguar-kin
@@ -39,14 +40,14 @@ appearance: A tall, powerful man in minimal jungle gear — a loincloth, a hunte
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: mid-thirties
+visual:
   body_build: tall, muscular, lean
   skin: tawny brown, rosette spots across the shoulders and back
   hair: black, short, coarse
   eyes: amber-yellow, slit-pupiled
   distinctive_features: jaguar-spot skin markings, elongated canines, a notched left ear from a jungle
     fight
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ver-canopy-council

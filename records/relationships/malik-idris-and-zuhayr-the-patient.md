@@ -12,4 +12,6 @@ bond: 'Zuhayr genuinely wants to help Malik renegotiate — a willing partner is
   is the most dangerous kind of ally: one who is on Malik''s side but constrained by law from giving him
   more time. Their relationship is warm in a way that makes the debt more painful, not less.'
 disposition: 35
+visual:
+  prompt: ''
 ---

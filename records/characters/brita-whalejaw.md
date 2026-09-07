@@ -12,6 +12,7 @@ gm_notes: 'Brita is the most experienced whaler in Skaldvik, and she has killed 
 aliases: []
 race: ''
 gender: ''
+age: 51
 heritage: ''
 social_station: ''
 role: Whaler
@@ -41,13 +42,13 @@ appearance: Massive and blunt-featured, Brita wears a heavy sealskin coat staine
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 51
+visual:
   body_build: very tall and heavily built, raw power
   hair: grey-blonde, thick, worn loose under a leather cap
   eyes: dark grey, deep-set
   distinctive_features: a white scar across her collarbone from a harpoon line that snapped, three teeth
     replaced with carved whalebone
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:hra-shipwright-brotherhood

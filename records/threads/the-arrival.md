@@ -18,6 +18,8 @@ next_possible_moves:
 - If the player asks too many questions, the Guide gently reminds them that the choice is meant to be
   partly blind.
 resolution: null
+visual:
+  prompt: ''
 ---
 
 A soul new to Gaia has arrived in the Heavenly Realm. The Guide is waiting to help them choose a nation to begin in. The choice is real and permanent — once they walk down into one of the seven nations, they cannot come back to choose again.

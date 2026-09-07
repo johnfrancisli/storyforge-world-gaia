@@ -11,6 +11,7 @@ gm_notes: A retired Jin army sergeant who lost his left hand to a Wei sword at t
 aliases: []
 race: ''
 gender: ''
+age: 56
 heritage: ''
 social_station: ''
 role: Veteran restaurateur and deserter-network protector
@@ -38,14 +39,14 @@ appearance: Stocky and scarred, wearing a cook's apron over an old military unde
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 56
+visual:
   body_build: stocky and barrel-chested
   hair: cropped gray, military style
   eyes: brown, blunt and tired
   distinctive_features:
   - left hand missing, wrist capped in leather
   - a network of battle scars across the chest and back (visible when sleeves roll)
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:jin-state

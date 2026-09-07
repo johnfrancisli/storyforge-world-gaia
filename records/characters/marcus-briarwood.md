@@ -11,6 +11,7 @@ gm_notes: Marcus is a mercenary captain who leads a company of sellswords curren
 aliases: []
 race: ''
 gender: ''
+age: 40
 heritage: ''
 social_station: ''
 role: Mercenary Captain
@@ -38,13 +39,13 @@ appearance: Battle-scarred and weathered, Marcus wears well-maintained chainmail
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 40
+visual:
   body_build: muscular and battle-scarred
   hair: brown, cropped military-short
   eyes: grey, watchful
   distinctive_features: a sword scar across his left cheek, a missing chunk from his right ear (battle),
     a mercenary company tattoo (a crossed sword and coin) on his left forearm
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:val-merchant-guild

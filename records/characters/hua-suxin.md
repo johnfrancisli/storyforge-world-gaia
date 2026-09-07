@@ -9,6 +9,7 @@ gm_notes: The greatest acupuncturist in Jin-an and secretly a chi-cultivation ma
 aliases: []
 race: ''
 gender: ''
+age: 52
 heritage: ''
 social_station: ''
 role: Master physician and acupuncturist
@@ -35,14 +36,14 @@ appearance: Calm and attentive, wearing simple linen healer's robes. Always carr
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 52
+visual:
   body_build: compact and sturdy
   hair: silver-streaked black, practical bun
   eyes: warm brown, observant
   distinctive_features:
   - hands with unusually steady, long fingers
   - a faint jade-green glow in her fingertips visible only in dim light
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:jin-state

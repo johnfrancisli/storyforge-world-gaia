@@ -12,6 +12,7 @@ aliases:
 - 'Iso'
 race: ''
 gender: ''
+age: mid-thirties
 heritage: ''
 social_station: ''
 role: Fisherman's wife and fishmonger
@@ -40,12 +41,12 @@ appearance: She wears a practical dark kimono with a fishmonger's apron, rubber-
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: mid-thirties
+visual:
   body_build: weathered, strong-armed
   hair: black, sun-faded, tied in a practical single braid
   eyes: dark brown, shadowed underneath
   distinctive_features: a rope-burn scar across the left palm from hauling nets
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ashikara-shogunate

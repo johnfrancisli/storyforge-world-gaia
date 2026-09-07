@@ -9,6 +9,7 @@ gm_notes: 'She is the Wei state''s foremost strategist and has authored three mi
 aliases: []
 race: ''
 gender: ''
+age: 41
 heritage: ''
 social_station: ''
 role: Master strategist and military advisor
@@ -35,14 +36,14 @@ appearance: Plain-faced and practical, robes always ink-stained. Moves with deli
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 41
+visual:
   body_build: thin and angular
   hair: graying black, bound in a simple topknot
   eyes: piercing black, deep-set
   distinctive_features:
   - ink stains permanently embedded in right index and middle fingers
   - a persistent dry cough
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:wei-state

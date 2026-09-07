@@ -10,6 +10,7 @@ gm_notes: A fortune teller in Jin-an's market district who reads palms and torto
 aliases: []
 race: ''
 gender: ''
+age: 42
 heritage: ''
 social_station: ''
 role: Fortune teller and reluctant seer
@@ -37,14 +38,14 @@ appearance: Mystical and theatrical in market-performers' robes, draped in auspi
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 42
+visual:
   body_build: thin and angular
   hair: black with gray streaks, loose and talisman-pinned
   eyes: very dark, slightly unsettling in their intensity
   distinctive_features:
   - a tortoise-shell burn scar on the right palm from divination rites
   - a white streak in the left temple hair
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:san-merchant-cartel

@@ -13,6 +13,7 @@ gm_notes: 'Vehina is the oldest person on Lani Atoll and the keeper of the genea
 aliases: []
 race: ''
 gender: ''
+age: eighty-three
 heritage: ''
 social_station: ''
 role: Chant keeper and elder
@@ -40,8 +41,7 @@ appearance: A tiny, frail woman wrapped in fine woven cloth, her eyes milky but 
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: eighty-three
+visual:
   body_build: small, frail, bird-boned
   skin: deep brown, deeply lined
   hair: white, thin, covered by a woven scarf
@@ -49,6 +49,7 @@ visual_identity:
   distinctive_features: a woven chant-keeper's scarf always worn over the hair, hands that move unconsciously
     in the gesture-patterns of chants even when she is silent, a voice that carries far further than its
     volume should allow
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:wayfinder-guilds

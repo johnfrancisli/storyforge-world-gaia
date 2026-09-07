@@ -14,6 +14,7 @@ gm_notes: 'A human guide who leads expeditions into the rainforest for traders, 
 aliases: []
 race: ''
 gender: ''
+age: 44
 heritage: ''
 social_station: ''
 role: Expedition guide and river-reader
@@ -41,14 +42,14 @@ appearance: Lean and weathered, with a guide's cautious eyes. Wears practical tr
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 44
+visual:
   body_build: lean and weathered, built for river travel
   hair: black, greying, cut short and practical
   eyes: hazel, watchful, with a nervous edge
   distinctive_features:
   - a faded river-tattoo of a fish on the left forearm from his youth
   - a slight tremor in the hands that appears when the water rises
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ver-hunter-clans

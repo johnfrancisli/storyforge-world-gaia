@@ -11,4 +11,6 @@ bond: 'Together they run a hidden sanctuary for army deserters — Yuanshan prov
   bond is one of quiet conscience: neither can stomach the war anymore, and this is the only way they
   have found to say so.'
 disposition: 74
+visual:
+  prompt: ''
 ---

@@ -12,4 +12,6 @@ bond: Kata has been quietly teaching Thyra the midwife's craft — an act of qui
   are failing with age. The unspoken plan is that one day Thyra will take over, and the hall will have
   to decide whether it can afford to lose her labor.
 disposition: 71
+visual:
+  prompt: ''
 ---

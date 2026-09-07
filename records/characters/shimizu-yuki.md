@@ -11,6 +11,7 @@ aliases:
 - 'Yuki'
 race: ''
 gender: ''
+age: seventeen
 heritage: ''
 social_station: ''
 role: Shrine maiden (miko)
@@ -39,12 +40,12 @@ appearance: She wears the traditional white kosode and red hakama of a shrine ma
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: seventeen
+visual:
   body_build: slight, wiry
   hair: black, straight, hip-length, tied back with a white ribbon
   eyes: dark brown, wide-set
   distinctive_features: a faint birthmark like a crescent moon at the base of her neck
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ashikara-shogunate

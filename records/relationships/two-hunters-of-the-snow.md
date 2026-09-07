@@ -12,4 +12,6 @@ bond: They met as rivals disputing a valley's pelts and nearly killed each other
   and the cold was the real enemy. They now coordinate their lines and split the take, a peace neither
   mentions for fear of jinxing it.
 disposition: 75
+visual:
+  prompt: ''
 ---

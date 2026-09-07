@@ -10,6 +10,7 @@ gm_notes: Hilda runs a small orphanage in Crownhaven's lower town, taking in chi
 aliases: []
 race: ''
 gender: ''
+age: 52
 heritage: ''
 social_station: ''
 role: Orphanage Matron
@@ -37,13 +38,13 @@ appearance: Large and formidable, Hilda wears a heavy dress and a no-nonsense ex
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 52
+visual:
   body_build: large and imposing
   hair: iron grey, braided and pinned
   eyes: stern brown, softening around children
   distinctive_features: a broken and healed nose, a prominent scar on her chin from a childhood fall,
     muscular arms from years of lifting children and supplies
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:dragon-order

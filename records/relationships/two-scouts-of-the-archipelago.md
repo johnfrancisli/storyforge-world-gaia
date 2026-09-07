@@ -12,4 +12,6 @@ bond: Koa scouts from the high points with his eyes; Tala scouts on foot through
   both. The rivalry is a competition for the single senior scout position that will open when the current
   holder retires, and both want it.
 disposition: 32
+visual:
+  prompt: ''
 ---

@@ -12,6 +12,7 @@ gm_notes: 'Runa is a brewer who makes ale from barley and herbs — the daily dr
 aliases: []
 race: ''
 gender: ''
+age: 34
 heritage: ''
 social_station: ''
 role: Brewer
@@ -40,13 +41,13 @@ appearance: Sturdy and barley-stained, Runa works in the brewhouse surrounded by
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 34
+visual:
   body_build: medium height, sturdy and practical
   hair: dark blonde, worn in a bun
   eyes: grey, sharp and assessing
   distinctive_features: a barley-grain tattoo on her right wrist (brewer's mark), a slight crook in her
     left index finger (old break)
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:hra-rune-guild

@@ -10,6 +10,7 @@ gm_notes: 'Rowan is an elf who has lived in the forest near Valdris for over two
 aliases: []
 race: ''
 gender: ''
+age: 240
 heritage: ''
 social_station: ''
 role: Elven Elder / Hermit
@@ -38,13 +39,13 @@ appearance: Tall and ageless, Rowan wears simple robes of forest green and walks
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 240
+visual:
   body_build: tall and slender, elven
   hair: silver, waist-length, loose
   eyes: emerald green
   distinctive_features: pronounced pointed ears, faint luminous quality to her skin in moonlight, bare
     feet with soles hardened like leather
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:dragon-order

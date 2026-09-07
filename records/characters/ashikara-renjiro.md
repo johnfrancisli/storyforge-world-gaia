@@ -12,6 +12,7 @@ aliases:
 - 'Prince Ashikara Renjiro'
 race: ''
 gender: ''
+age: mid-twenties
 heritage: ''
 social_station: ''
 role: Elder prince of the Ashikara shogunate
@@ -40,13 +41,13 @@ appearance: He wears formal court attire in dark colors and a white Noh mask tha
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: mid-twenties
+visual:
   body_build: tall, erect, military bearing
   hair: black, in a formal topknot
   eyes: dark brown — visible only without the mask, which is rare
   distinctive_features: always wears a white Noh mask in public; the mask's expression seems to shift
     subtly when observed
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ashikara-shogunate

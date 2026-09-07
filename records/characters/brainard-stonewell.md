@@ -11,6 +11,7 @@ gm_notes: 'Brainard is a city watchman on the night shift in Crownhaven''s lower
 aliases: []
 race: ''
 gender: ''
+age: 33
 heritage: ''
 social_station: ''
 role: City Watchman
@@ -38,13 +39,13 @@ appearance: Solid and plain-faced, Brainard wears a watchman's leather cuirass a
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 33
+visual:
   body_build: stocky and solid
   hair: brown, short, practical
   eyes: dark brown, perpetually tired
   distinctive_features: a watchman's tattoo (the city crest) on his left forearm, a crooked nose (broken
     in a bar fight during his first year), a small scar on his right eyebrow
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:val-merchant-guild

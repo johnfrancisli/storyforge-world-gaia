@@ -12,6 +12,7 @@ gm_notes: 'An herbalist who can cure any rainforest ailment but carries a terrib
 aliases: []
 race: ''
 gender: ''
+age: 29
 heritage: ''
 social_station: ''
 role: Herbalist and medicine maker
@@ -39,14 +40,14 @@ appearance: Small and wiry, always slightly muddy from foraging. Wears a wide wo
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 29
+visual:
   body_build: small and wiry, built for climbing through undergrowth
   hair: black, short, practical, often tucked with leaves and twigs
   eyes: deep brown, warm and quick
   distinctive_features:
   - permanent green staining at the fingertips and nails
   - a scattering of small pale scars from thorns across both hands
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ver-river-consortium

@@ -13,6 +13,7 @@ gm_notes: A jaguar beast-kin hunter who is the best tracker in the western rainf
 aliases: []
 race: ''
 gender: ''
+age: 28
 heritage: ''
 social_station: ''
 role: Hunter and deep-forest tracker
@@ -40,8 +41,7 @@ appearance: Powerful and fluid, with prominent jaguar-spot patterning. Wears min
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 28
+visual:
   body_build: muscular and athletic, broad-shouldered and long-limbed
   hair: short, tawny-black, spotted pattern continuing from scalp down the neck
   eyes: amber-gold, vertical pupils
@@ -49,6 +49,7 @@ visual_identity:
   - prominent jaguar-spot rosette patterning across temples, shoulders, and arms
   - elongated canines
   - a fresh scar on the right forearm from a jaguar's claw
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ver-canopy-council

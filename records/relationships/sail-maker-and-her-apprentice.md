@@ -12,4 +12,6 @@ bond: Rotama has a gift for reading the weave that Leilani has not seen in a gen
   nothing back, because she has recognized that her student will exceed her and wants nothing more than
   to see it.
 disposition: 83
+visual:
+  prompt: ''
 ---

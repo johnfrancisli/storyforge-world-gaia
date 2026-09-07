@@ -10,6 +10,7 @@ gm_notes: An eleven-year-old girl who is the strongest unconscious chi-cultivato
 aliases: []
 race: ''
 gender: ''
+age: 11
 heritage: ''
 social_station: ''
 role: Child chi-prodigy and object of a three-way search
@@ -37,14 +38,14 @@ appearance: Small for her age and wiry, wearing simple paper-maker's child cloth
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 11
+visual:
   body_build: small, slight, and wiry
   hair: black, in two simple braids
   eyes: enormous dark brown, perpetually worried
   distinctive_features:
   - a faint lattice of hairline cracks across the palms (from channeling chi)
   - a small chip in the right front tooth
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:san-merchant-cartel

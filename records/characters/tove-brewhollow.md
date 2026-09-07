@@ -12,6 +12,7 @@ gm_notes: 'Tove runs the cookfire in Jarl Sigrid''s mead hall, feeding the house
 aliases: []
 race: ''
 gender: ''
+age: 33
 heritage: ''
 social_station: ''
 role: Cook
@@ -40,13 +41,13 @@ appearance: Sturdy and flour-dusted, Tove wears a clean apron over a plain wool 
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 33
+visual:
   body_build: medium height, sturdy and strong-armed
   hair: chestnut brown, worn in two braids pinned up under a cap
   eyes: dark brown, calm and steady
   distinctive_features: a small knife-scar on her left thumb, a faded burn-mark on her right forearm shaped
     like a ladle
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:hra-jarl-council

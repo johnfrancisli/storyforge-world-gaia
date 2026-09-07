@@ -11,4 +11,6 @@ bond: Their families have controlled rival contracts for generations, and the tw
   feud older than either of them. Each respects the other's cunning and would never say so, because in
   Al-Khayzar the admission of an equal is the first step toward being outmaneuvered by one.
 disposition: 18
+visual:
+  prompt: ''
 ---

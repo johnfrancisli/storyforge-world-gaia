@@ -10,6 +10,7 @@ gm_notes: 'A river-folk (Mizuhito) canal pilot who knows every underwater passag
 aliases: []
 race: ''
 gender: ''
+age: 36
 heritage: ''
 social_station: ''
 role: Canal pilot and underground smuggler of refugees
@@ -36,14 +37,14 @@ appearance: Sun-darkened and river-worn, wearing water-resistant hemp clothing a
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 36
+visual:
   body_build: broad-shouldered and strong-armed
   hair: dark brown, cropped short and tied back
   eyes: hazel, always scanning the water
   distinctive_features:
   - a river-tattoo of a carp on her left forearm (Mizuhito clan mark)
   - a missing tip of the right ring finger
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:san-merchant-cartel

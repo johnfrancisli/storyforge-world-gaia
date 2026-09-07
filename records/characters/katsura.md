@@ -12,6 +12,7 @@ gm_notes: Katsura is a shrine kitsune who has served Haru Shrine for three hundr
 aliases: []
 race: ''
 gender: ''
+age: ageless — appears early thirties
 heritage: ''
 social_station: ''
 role: Shrine kitsune (tame fox spirit)
@@ -40,13 +41,13 @@ appearance: She wears the white and red of a senior shrine maiden, her movements
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: ageless — appears early thirties
+visual:
   body_build: slender, still
   hair: pale gold, long, bound with a shimenawa cord
   eyes: amber, gold-flecked
   distinctive_features: a faint fox-like cast to the features — slightly pointed ears, narrow pupils in
     low light
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ashikara-shogunate

@@ -13,6 +13,7 @@ gm_notes: 'Tui makes the nets that every fishing family on three islands depends
 aliases: []
 race: ''
 gender: ''
+age: twenty-nine
 heritage: ''
 social_station: ''
 role: Net maker
@@ -41,14 +42,14 @@ appearance: A compact, quick-handed woman with net fragments always draped over 
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: twenty-nine
+visual:
   body_build: compact, quick-handed, narrow-wristed
   skin: medium brown
   hair: black, short, wind-tangled
   eyes: dark brown, quick and watchful
   distinctive_features: fiber calluses on both hands, a half-finished luminescent net she carries everywhere
     wrapped around her left arm, a habit of moving her fingers in weaving patterns even when empty-handed
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:wayfinder-guilds

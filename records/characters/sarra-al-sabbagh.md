@@ -11,6 +11,7 @@ gm_notes: A master dyer who can produce colors no other dyer in Zaffar can repli
 aliases: []
 race: ''
 gender: ''
+age: 42
 heritage: ''
 social_station: ''
 role: Master dyer
@@ -39,14 +40,14 @@ appearance: Sturdy and stained in a dyer's apron permanently marked with every c
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 42
+visual:
   body_build: broad-shouldered and strong-armed
   hair: black, tied up in a cloth that is itself dyed djinn-blue
   eyes: dark brown, laughing
   distinctive_features:
   - permanent blue staining from fingertips to elbows on both arms
   - a chemical burn scar on the right hand from mordant work
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:binding-families

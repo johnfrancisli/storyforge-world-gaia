@@ -12,6 +12,7 @@ gm_notes: The eldest living shaman of the Teluna tribe and keeper of the Moonflo
 aliases: []
 race: ''
 gender: ''
+age: 78
 heritage: ''
 social_station: ''
 role: Elder shaman and spirit-pact keeper
@@ -39,8 +40,7 @@ appearance: Weathered and regal, draped in layers of ceremonial feather-cloth an
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 78
+visual:
   body_build: gaunt but unbowed, tall for a beast-kin
   hair: white, coarse, worn loose past the shoulders
   eyes: amber-gold with vertical pupils
@@ -48,6 +48,7 @@ visual_identity:
   - faint jaguar-spot patterning across the temples and jaw
   - a ritual scar in the shape of a crescent moon on the left palm
   - elongated canines visible when she speaks
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ver-river-consortium

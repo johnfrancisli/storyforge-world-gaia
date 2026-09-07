@@ -15,6 +15,7 @@ gm_notes: Maile is the head of the informal guard on Lani Atoll — not a milita
 aliases: []
 race: ''
 gender: ''
+age: thirty-eight
 heritage: ''
 social_station: ''
 role: Guard
@@ -42,8 +43,7 @@ appearance: A strong, steady woman with a watch-guard's bearing and a torch alwa
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: thirty-eight
+visual:
   body_build: strong, steady, broad-shouldered
   skin: deep brown, sun-darkened
   hair: black, short, practical
@@ -51,6 +51,7 @@ visual_identity:
   distinctive_features: a watch-guard's torch carried at all times, a staff worn across the back, a habit
     of scanning the waterline even in conversation, a small scar on the right hand from a night-rescue
     rope burn
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:tide-tattoo-guild

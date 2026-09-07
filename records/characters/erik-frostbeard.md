@@ -12,6 +12,7 @@ gm_notes: 'Erik is a veteran navigator who sailed the northern routes for thirty
 aliases: []
 race: ''
 gender: ''
+age: 67
 heritage: ''
 social_station: ''
 role: Retired Navigator / Elder
@@ -41,13 +42,13 @@ appearance: Weathered and white-bearded, Erik sits in the mead hall with a horn 
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 67
+visual:
   body_build: tall but stooped, once powerful now thinning
   hair: white, long beard, thinning on top
   eyes: pale blue, distant and watery
   distinctive_features: severely frost-scarred ears (nearly unrecognizable shapes), a permanent squint
     from decades of staring at ice-glare
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:hra-shipwright-brotherhood

@@ -12,6 +12,7 @@ aliases:
 - 'Kazue'
 race: ''
 gender: ''
+age: late forties
 heritage: ''
 social_station: ''
 role: Blacksmith (kaji)
@@ -40,12 +41,12 @@ appearance: She wears a leather smith's apron over a soot-stained kimono, her sl
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: late forties
+visual:
   body_build: broad-shouldered, powerful arms
   hair: black, greying, cropped very short
   eyes: dark brown, steady
   distinctive_features: burn scars across both forearms and a permanent forge-tan on the hands
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ashikara-shogunate

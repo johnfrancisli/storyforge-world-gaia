@@ -14,6 +14,7 @@ gm_notes: 'A male elder who is the oldest person in Zaffar — old enough to rem
 aliases: []
 race: ''
 gender: ''
+age: 103
 heritage: ''
 social_station: ''
 role: Elder, living archive of the Pact
@@ -42,14 +43,14 @@ appearance: Wizened and still in layered robes, his eyes bright in a face lined 
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 103
+visual:
   body_build: thin and frail, but upright when seated
   hair: pure white, thin, wispy
   eyes: dark brown, startlingly clear
   distinctive_features:
   - deeply lined face, skin like old parchment
   - a faded tattoo on the right hand — an old Zaffar elder's mark
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:binding-families

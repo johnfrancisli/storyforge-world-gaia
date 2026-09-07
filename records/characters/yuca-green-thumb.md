@@ -13,6 +13,7 @@ gm_notes: 'A gardener who tends the floating gardens of the Verdania river-citie
 aliases: []
 race: ''
 gender: ''
+age: 31
 heritage: ''
 social_station: ''
 role: Gardener and plant-tender
@@ -40,14 +41,14 @@ appearance: Earth-toned and sun-warm, always slightly dirt-smudged. Wears a simp
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 31
+visual:
   body_build: solid and grounded, strong from garden work
   hair: black, loose, often tangled with leaves and small flowers
   eyes: deep green-flecked brown
   distinctive_features:
   - faint greenish veining visible at the wrists and ankles
   - small vine-like calluses on the palms that resemble bark
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ver-shaman-circle

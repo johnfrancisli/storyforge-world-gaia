@@ -9,6 +9,7 @@ gm_notes: Kael is a young knight of the Dragon Order whose bonded dragon, a male
 aliases: []
 race: ''
 gender: ''
+age: 26
 heritage: ''
 social_station: ''
 role: Dragon-Bonded Knight
@@ -37,13 +38,13 @@ appearance: Handsome and intense, Kael wears Dragon Order plate with a black dra
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 26
+visual:
   body_build: tall and lean
   hair: black, worn short
   eyes: dark brown, intense
   distinctive_features: a dragon-bond scar covering his entire chest (hidden by armour), premature grey
     at his temples from bond-stress
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:dragon-order

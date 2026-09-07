@@ -13,6 +13,7 @@ gm_notes: 'An otter beast-kin river pilot who runs the fastest message route bet
 aliases: []
 race: ''
 gender: ''
+age: 31
 heritage: ''
 social_station: ''
 role: River pilot and message carrier
@@ -40,8 +41,7 @@ appearance: Sleek and glossy, with a perpetual grin of otter confidence. Wears a
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 31
+visual:
   body_build: sleek and powerful, compact swimmer's build
   hair: short dense brown fur covering the entire body
   eyes: dark, bright, round, with an irrepressible cheerfulness
@@ -49,6 +49,7 @@ visual_identity:
   - fine brown fur across the entire body, thicker along the spine
   - long whiskers on both sides of the nose
   - webbed fingers and toes with short claws
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ver-river-consortium

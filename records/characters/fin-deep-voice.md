@@ -12,6 +12,7 @@ aliases:
 - 'Fin the Whale-speaker'
 race: ''
 gender: ''
+age: early twenties
 heritage: ''
 social_station: ''
 role: Whale-speaker
@@ -40,14 +41,14 @@ appearance: A lean young man in simple island cloth, barefoot, sitting at the wa
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: early twenties
+visual:
   body_build: lean, wiry
   skin: deep tan, sun-dark
   hair: bleached blonde from salt and sun, shaggy
   eyes: grey-blue, distant
   distinctive_features: a conch shell horn worn on a cord around the neck, webbed toes (a minor birth
     trait common in whale-speaker families), a far-listening expression
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:wayfinder-guilds

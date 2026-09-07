@@ -7,6 +7,8 @@ jurisdiction: Contested between the Kingdom of Valdris (Northwatch garrison) and
 terrain: jagged ice-slicked sea-rocks, broken islands, shallow-draft passages, winter black ice, grinding
   floes
 resources: []
+visual:
+  prompt: ''
 ---
 
 A chain of jagged, ice-slicked sea-rocks and broken islands in the strait between Hrafnland's southern coast and Valdris's northern shore. The skerries are navigable only by shallow-draft vessels, which favors Hrafnland longships. In winter the rocks freeze solid and the passage becomes a death trap of black ice and grinding floes. Both nations claim fishing rights. The rocks are unnamed on most maps because the people who survive them are too superstitious to name them.

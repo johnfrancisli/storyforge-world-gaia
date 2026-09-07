@@ -11,6 +11,7 @@ gm_notes: A servant in the Wei warlord's household who has been spying for the J
 aliases: []
 race: Human
 gender: Female
+age: 41
 heritage: Jin
 social_station: Servant
 role: Palace servant and coerced Jin spy
@@ -49,15 +50,15 @@ key_phrases:
 - "More tea, my lord?"
 - "I did not see anything, I was only cleaning."
 - "A mother does what she must."
-visual_identity:
-  age: 41
-  body_build: masterpiece, highly detailed, beautifully proportioned, fit, thin and worn, aesthetic body
-  hair: dull black, in a tight servant's bun, high quality texture
-  eyes: dark brown, downcast but missing nothing, sparkling eyes, deep gaze, highly detailed eyes
+visual:
+  body_build: thin and worn
+  hair: dull black, in a tight servant's bun
+  eyes: dark brown, downcast, observant
   distinctive_features:
   - a servant's rope-burn callus on both wrists from years of carrying water
   - a small, old scar on the left cheekbone
-  face: beautiful face, gorgeous, extremely attractive, symmetrical, masterpiece
+  face: elegant features, deliberately plain presentation
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:wei-state

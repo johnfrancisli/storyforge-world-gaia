@@ -12,4 +12,6 @@ bond: They are bonded not by blood but by the hunt — they have saved each othe
   senses miss. The unspoken rule is that if one is killed in the forest, the other does not come back
   alone.
 disposition: 87
+visual:
+  prompt: ''
 ---

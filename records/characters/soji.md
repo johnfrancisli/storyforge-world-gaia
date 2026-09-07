@@ -10,6 +10,7 @@ aliases:
 - 'Tengu Soji'
 race: ''
 gender: ''
+age: ageless — appears mature
 heritage: ''
 social_station: ''
 role: Wandering swordmaster (tengu)
@@ -38,12 +39,12 @@ appearance: A tall, lean figure in mountain robes, dark wings folded against his
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: ageless — appears mature
+visual:
   body_build: tall, lean, angular
   hair: black, long, tied high
   eyes: amber
   distinctive_features: large dark folded wings, pronounced tengu nose, sharp avian features
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ashikara-shogunate

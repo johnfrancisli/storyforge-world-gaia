@@ -11,4 +11,6 @@ bond: Their friendship predates both their businesses — they survived a famine
   rationing what little they had. Neither married, and the town quietly assumes they are simply set in
   their ways; in truth they are the closest thing to family either has.
 disposition: 88
+visual:
+  prompt: ''
 ---

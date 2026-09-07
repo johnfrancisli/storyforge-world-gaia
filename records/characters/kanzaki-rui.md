@@ -12,6 +12,7 @@ aliases:
 - 'Rui'
 race: ''
 gender: ''
+age: late thirties
 heritage: ''
 social_station: ''
 role: Gambling den owner and information broker
@@ -40,12 +41,12 @@ appearance: She wears a dramatic kimono in deep purples and blacks, a fan always
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: late thirties
+visual:
   body_build: voluptuous, imposing
   hair: black, long, styled with gambling chips as hairpins
   eyes: dark brown, heavy-lidded
   distinctive_features: a tiny fox tattoo behind the right ear — the mark of her network
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ashikara-shogunate

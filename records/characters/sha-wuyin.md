@@ -11,6 +11,7 @@ gm_notes: A shadowy figure who operates Jin-an's underground gambling den and is
 aliases: []
 race: ''
 gender: ''
+age: 44
 heritage: ''
 social_station: ''
 role: Gambling den operator and underground fixer
@@ -38,14 +39,14 @@ appearance: Hard-edged and watchful, wearing dark, practical clothes under a gam
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 44
+visual:
   body_build: lean and wiry, coiled-tight
   hair: black with a white streak at the right temple, in a practical gambler's ponytail
   eyes: sharp black, miss nothing
   distinctive_features:
   - a knife-scar from the right ear to the jaw
   - a gambler's callus on the right thumb from dice and cards
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:san-merchant-cartel

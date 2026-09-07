@@ -13,6 +13,7 @@ gm_notes: 'Ingrid commands Jarl Sigrid''s household guard — twelve warriors wh
 aliases: []
 race: ''
 gender: ''
+age: 40
 heritage: ''
 social_station: ''
 role: Guard Captain
@@ -42,13 +43,13 @@ appearance: Solid and watchful, Ingrid wears ringmail and a white cloak — the 
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 40
+visual:
   body_build: medium height, broad and solid, built to stand firm
   hair: red-gold, cropped short
   eyes: grey, level and unblinking
   distinctive_features: a scar across her left eyebrow (sword cut), a guard's tattoo of a raven on her
     right shoulder
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:hra-raid-crews

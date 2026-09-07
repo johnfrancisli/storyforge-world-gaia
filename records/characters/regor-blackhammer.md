@@ -9,6 +9,7 @@ gm_notes: Regor is a dwarf armorer who holds a contract with the Dragon Order to
 aliases: []
 race: ''
 gender: ''
+age: 48
 heritage: ''
 social_station: ''
 role: Armorer
@@ -36,13 +37,13 @@ appearance: Compact and scowling, Regor wears a heavy leather apron over dwarven
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 48
+visual:
   body_build: short and heavily muscled, dwarven build
   hair: black with early grey streaks, short singed beard
   eyes: deep-set dark brown
   distinctive_features: a burn scar across his left palm, three missing toes on his right foot (old forge
     accident)
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:val-mages-circle

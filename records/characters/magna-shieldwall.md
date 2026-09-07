@@ -12,6 +12,7 @@ gm_notes: 'Magna is a guard in Jarl Sigrid''s household, one of the twelve under
 aliases: []
 race: ''
 gender: ''
+age: 27
 heritage: ''
 social_station: ''
 role: Guard / Watchman
@@ -40,13 +41,13 @@ appearance: Solid and square-jawed, Magna wears the white cloak and ringmail of 
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 27
+visual:
   body_build: medium height, square-shouldered and strong
   hair: dark blonde, cropped short under a helm
   eyes: blue, steady and alert
   distinctive_features: a guard's raven tattoo on her right shoulder, a scar on her left knuckles from
     a training accident
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:hra-raid-crews

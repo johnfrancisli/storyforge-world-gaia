@@ -22,6 +22,8 @@ next_possible_moves:
 - Shogun Ashikara's spymaster independently learns that a document was stolen from a daimyo's estate and
   begins his own investigation — the shogun wants to know what Takeda is hiding.
 resolution: null
+visual:
+  prompt: ''
 ---
 
 Kuro the Smoke, a cat-folk thief in Tsuki-no-Miyako, stole a document from a daimyo's estate that contains evidence of Takeda's coalition plans. He does not understand what he has, but Takeda's agents are hunting him. The document's trail leads through the underworld of Tsukuyomi and potentially to Sangguo's information broker Zhou Ba, who would sell it to the highest bidder.

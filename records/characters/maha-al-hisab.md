@@ -13,6 +13,7 @@ gm_notes: A mathematician who has discovered that the Pact of the Lamp's origina
 aliases: []
 race: ''
 gender: ''
+age: 39
 heritage: ''
 social_station: ''
 role: Mathematician, scholar
@@ -40,14 +41,14 @@ appearance: Neat and reserved in scholar's robes, she carries a case of drafting
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 39
+visual:
   body_build: slender, erect posture
   hair: black, pinned in a precise bun
   eyes: dark brown, analytical
   distinctive_features:
   - a compass-point callus on the right thumb
   - ink stains on the left palm from pressing her notebook
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:alk-scholar-circle

@@ -11,6 +11,7 @@ gm_notes: An archivist at the Great Academy who has discovered a sealed scroll r
 aliases: []
 race: ''
 gender: ''
+age: 58
 heritage: ''
 social_station: ''
 role: Senior archivist and keeper of forbidden history
@@ -38,14 +39,14 @@ appearance: Bookish and unobtrusive, always in Academy brown robes. Carries a sc
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 58
+visual:
   body_build: slight and slightly stooped from years at reading desks
   hair: white, in a tight bun
   eyes: pale brown behind round spectacles
   distinctive_features:
   - a large ink-stain birthmark on the right jaw
   - fingers stained with old ink from handling ancient scrolls
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:great-academy

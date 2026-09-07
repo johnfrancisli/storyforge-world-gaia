@@ -11,6 +11,7 @@ gm_notes: 'Hrafn is a boy of ten, the son of two of the jarl''s household thrall
 aliases: []
 race: ''
 gender: ''
+age: 10
 heritage: ''
 social_station: ''
 role: Child
@@ -39,13 +40,13 @@ appearance: Small and dark-haired, Hrafn wears the plain wool of a thrall's chil
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 10
+visual:
   body_build: small and thin, underfed for his age
   hair: black, straight, worn loose and untidy
   eyes: very dark brown, nearly black, serious
   distinctive_features: a thrall's iron band on his left wrist (child-sized, engraved with Sigrid's mark),
     a faded burn on his right palm from tending fires
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:hra-volur-coven

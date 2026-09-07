@@ -14,6 +14,7 @@ gm_notes: 'Pilialoha brews the kava that is drunk at every council meeting, ever
 aliases: []
 race: ''
 gender: ''
+age: thirty-nine
 heritage: ''
 social_station: ''
 role: Kava brewer
@@ -41,14 +42,14 @@ appearance: A warm, round-faced woman with a brewer's stained hands and a welcom
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: thirty-nine
+visual:
   body_build: round-faced, solid, welcoming
   skin: warm brown
   hair: black, long, worn loose
   eyes: dark brown, warm but watchful
   distinctive_features: kava-stained hands — a pale earthy residue that never fully washes off, a quiet
     humming while she works, half-coconut serving cups she carries in a woven basket
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:wayfinder-guilds

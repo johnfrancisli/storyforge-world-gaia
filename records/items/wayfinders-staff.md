@@ -11,4 +11,6 @@ description: The primary tool of a wayfinder in the Tide Archipelago. The staff 
 item_tags:
 - magic
 - tide-archipelago
+visual:
+  prompt: ''
 ---

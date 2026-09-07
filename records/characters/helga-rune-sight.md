@@ -11,6 +11,7 @@ aliases:
 - 'Volva Helga'
 race: ''
 gender: ''
+age: seventies
 heritage: ''
 social_station: ''
 role: Volva (seer, wise woman)
@@ -39,12 +40,12 @@ appearance: An old woman in layers of wool and fur, a pouch of runestones at her
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: seventies
+visual:
   body_build: thin, wiry
   hair: white, long, loose
   eyes: pale blue, milky
   distinctive_features: rune-carved staff that glows faintly, clouded eyes, ritual tattoos on both hands
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:hra-rune-guild

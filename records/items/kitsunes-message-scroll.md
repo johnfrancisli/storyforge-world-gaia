@@ -16,4 +16,6 @@ item_tags:
 - tsukuyomi
 - tool
 - communication
+visual:
+  prompt: ''
 ---

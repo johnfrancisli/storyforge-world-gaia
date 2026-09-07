@@ -11,6 +11,7 @@ gm_notes: 'Dis is an herbalist who tends a garden of medicinal plants behind her
 aliases: []
 race: ''
 gender: ''
+age: 35
 heritage: ''
 social_station: ''
 role: Herbalist
@@ -39,13 +40,13 @@ appearance: Small and earthy, Dis wears a moss-green dress with pockets full of 
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 35
+visual:
   body_build: small and wiry, strong for her size
   hair: dark brown, long, tied with twine
   eyes: warm brown, gentle
   distinctive_features: permanently green-stained fingertips, a round birthmark on her left forearm shaped
     like a leaf
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:hra-volur-coven

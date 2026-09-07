@@ -18,6 +18,8 @@ locations:
 organizations:
 - org:ver-shaman-circle
 - org:ver-canopy-council
+visual:
+  prompt: ''
 ---
 
 The Spirit Nest, the heart of Alta Canopy where the canopy-dwellers go to receive their spirit-pacts, has been silent for a full cycle of the moon. Elder shaman Yara Moonflower, who tends the Nest, reports that the guiding spirits have not answered a single summons—not even the minor ones that answer children. The Seven Boughs Hall has convened an emergency council, but the Hanging Gate, the rope-bridge entrance to the canopy city, has begun swaying even on windless days, as if something is testing it from below. Young spirit-host Folha Green-Laughs has begun speaking in a voice that is not his own during his sleep.

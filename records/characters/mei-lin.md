@@ -11,6 +11,7 @@ aliases:
 - 'Strategist Mei Lin'
 race: ''
 gender: ''
+age: late twenties
 heritage: ''
 social_station: ''
 role: Scholar-strategist, junior advisor
@@ -39,12 +40,12 @@ appearance: A slight woman in plain scholar's robes, ink-stained fingers, and ha
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: late twenties
+visual:
   body_build: slight, thin
   hair: black, hastily pinned
   eyes: dark brown, behind round spectacles
   distinctive_features: ink stains on right hand and fingertips, round spectacles on a string
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:jin-state

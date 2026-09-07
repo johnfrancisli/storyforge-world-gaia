@@ -11,6 +11,7 @@ gm_notes: 'A Chu court official''s daughter who was betrothed to the Chu general
 aliases: []
 race: ''
 gender: ''
+age: 27
 heritage: ''
 social_station: ''
 role: Court socialite and double agent
@@ -38,14 +39,14 @@ appearance: Polished and fashion-forward, wearing Chu-state court silks of deep 
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 27
+visual:
   body_build: slender and graceful
   hair: long black, in elaborate court styles
   eyes: dark brown, warm on the surface, calculating beneath
   distinctive_features:
   - a small jade Chu-court pendant at the throat
   - a nervous habit of pressing the right thumbnail into the left palm
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:chu-state

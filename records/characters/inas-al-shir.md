@@ -13,6 +13,7 @@ gm_notes: The most celebrated poet in Zaffar, whose verses are sung in every cof
 aliases: []
 race: ''
 gender: ''
+age: 33
 heritage: ''
 social_station: ''
 role: Court poet, verse-crafter
@@ -40,14 +41,14 @@ appearance: Expressive and dramatic in flowing robes of deep blue, her gestures 
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 33
+visual:
   body_build: tall and willowy, expressive
   hair: dark brown, loose to the shoulders
   eyes: dark brown, vivid and emotive
   distinctive_features:
   - a mole on the left cheekbone
   - ink-stained lower lip from biting her pen in thought
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:binding-families

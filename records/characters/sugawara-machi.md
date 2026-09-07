@@ -12,6 +12,7 @@ aliases:
 - 'Machi'
 race: ''
 gender: ''
+age: late forties
 heritage: ''
 social_station: ''
 role: Merchant (akindo)
@@ -40,12 +41,12 @@ appearance: She wears a well-tailored kimono in muted greens and carries an abac
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: late forties
+visual:
   body_build: compact, erect
   hair: black, streaked silver, in a professional bun
   eyes: dark brown, calculating
   distinctive_features: an ink stain on the right index finger that never fades from years of ledger work
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ashikara-shogunate

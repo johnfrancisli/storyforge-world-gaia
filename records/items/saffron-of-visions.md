@@ -19,4 +19,6 @@ item_tags:
 - al-khayzar
 - trade_good
 - divination
+visual:
+  prompt: ''
 ---

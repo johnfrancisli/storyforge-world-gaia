@@ -12,6 +12,7 @@ gm_notes: An oud player whose music can soothe djinn — a gift she inherited fr
 aliases: []
 race: ''
 gender: ''
+age: 41
 heritage: ''
 social_station: ''
 role: Oud player, musician
@@ -40,14 +41,14 @@ appearance: Serene and absorbed in a musician's loose robes, her oud cradled aga
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 41
+visual:
   body_build: slender, long-fingered
   hair: black with grey threads, loose past the shoulders
   eyes: dark brown, dreamy
   distinctive_features:
   - deep calluses on the left-hand fingertips from oud strings
   - a faded scar on the right thumb from a snapped string
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:binding-families

@@ -12,4 +12,6 @@ bond: Mei Lin admires Cao Mengshi's work and privately models herself on it; Cao
   that. They have never met, but their writings circulate and each has begun writing with the other in
   mind as audience.
 disposition: 40
+visual:
+  prompt: ''
 ---

@@ -9,6 +9,7 @@ gm_notes: Tor's wife was on a fishing boat that vanished near the deep fjords tw
 aliases: []
 race: ''
 gender: ''
+age: early fifties
 heritage: ''
 social_station: ''
 role: Master shipwright
@@ -37,14 +38,14 @@ appearance: A big man in a leather apron, sawdust in his beard, his hands huge a
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: early fifties
+visual:
   body_build: big, broad-shouldered
   height: tall
   hair: brown, greying, sawdust-dusted
   eyes: blue
   distinctive_features: a woodworker's calluses on both hands, a missing ring finger on the left hand
     from a saw accident
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:hra-shipwright-brotherhood

@@ -10,6 +10,7 @@ gm_notes: A Jin palace guard captain who has served the warlord for twenty years
 aliases: []
 race: ''
 gender: ''
+age: 45
 heritage: ''
 social_station: ''
 role: Palace guard captain and the warlord's hidden investigator
@@ -37,14 +38,14 @@ appearance: Imposing and armor-ready, wearing Jin-state guard uniform of dark gr
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 45
+visual:
   body_build: tall and muscular, broad-shouldered
   hair: black, cropped to the jaw, practical
   eyes: steel-gray, assessing
   distinctive_features:
   - a sword scar from left brow to cheekbone
   - a missing tip of the left little finger
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:jin-state

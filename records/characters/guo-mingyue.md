@@ -11,6 +11,7 @@ gm_notes: 'A jade carver whose work is sought after by all three courts. She has
 aliases: []
 race: ''
 gender: ''
+age: 37
 heritage: ''
 social_station: ''
 role: Master jade carver and Jade Restoration operative
@@ -37,14 +38,14 @@ appearance: Precise and self-contained, wearing fine craftsman's robes. Hands al
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 37
+visual:
   body_build: slender with strong, fine-motor hands
   hair: black, in a neat carver's topknot
   eyes: green-flecked brown, exacting
   distinctive_features:
   - jade-dust stains in the cuticles
   - a faint white scar on the right thumb from a carving slip
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:san-merchant-cartel

@@ -12,4 +12,6 @@ bond: 'Yan Qiulin runs Chu''s spy network from behind her husband''s name, and P
   arrangement is fragile: Yaqing has begun to wonder whether Qiulin would sacrifice her to protect a bigger
   operation, and Qiulin has begun to wonder the same thing in reverse.'
 disposition: 44
+visual:
+  prompt: ''
 ---

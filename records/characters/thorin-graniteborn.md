@@ -10,6 +10,7 @@ gm_notes: Thorin is a dwarf stonemason who discovered a hidden chamber beneath C
 aliases: []
 race: ''
 gender: ''
+age: 62
 heritage: ''
 social_station: ''
 role: Stonemason
@@ -37,13 +38,13 @@ appearance: Stocky and stone-faced, Thorin wears a leather work vest over a thic
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 62
+visual:
   body_build: short and barrel-chested, dwarven build
   hair: iron grey, long beard braided with metal rings
   eyes: dark brown
   distinctive_features: a missing left ring finger (lost to a stone splinter), intricate dwarven clan
     tattoos on both forearms
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:val-merchant-guild

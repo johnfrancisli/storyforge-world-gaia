@@ -11,6 +11,7 @@ gm_notes: 'Zuhayr is not malicious. He is a djinn of fire and law, and the contr
 aliases: []
 race: ''
 gender: ''
+age: ancient — djinn are older than human civilization
 heritage: ''
 social_station: ''
 role: Djinn, bound by contract to the Idris family
@@ -40,14 +41,14 @@ appearance: A figure that shifts between forms — sometimes a man with skin lik
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: ancient — djinn are older than human civilization
+visual:
   body_build: tall, composed
   skin: dark obsidian with cracks of blue fire (in true form); warm brown (in human form)
   hair: black, or flame, depending on form
   eyes: blue fire, always
   distinctive_features: skin that sometimes shows cracks of blue fire, a faint smell of ozone and hot
     sand, heat shimmer around the hands
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:binding-families

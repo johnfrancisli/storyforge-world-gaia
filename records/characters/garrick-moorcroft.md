@@ -11,6 +11,7 @@ aliases:
 - 'Garrick the Wolf'
 race: ''
 gender: ''
+age: mid-forties
 heritage: ''
 social_station: ''
 role: Bandit lord, former soldier
@@ -39,13 +40,13 @@ appearance: A big, weathered man in worn leather armor and a wolf-pelt cloak tha
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: mid-forties
+visual:
   body_build: big, broad, scarred
   height: tall
   hair: brown, shaggy, unkempt
   eyes: grey-green
   distinctive_features: a wolf-pelt cloak, a scar across the throat from a near-hanging
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:val-merchant-guild

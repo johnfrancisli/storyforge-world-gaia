@@ -11,6 +11,7 @@ gm_notes: A Jin court physician who serves the warlord's family and is one of th
 aliases: []
 race: ''
 gender: ''
+age: 61
 heritage: ''
 social_station: ''
 role: Court physician and keeper of a poisoning secret
@@ -38,14 +39,14 @@ appearance: Distinguished and grave, wearing fine Jin court physician's robes. M
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 61
+visual:
   body_build: medium, slightly stooped with age
   hair: white, full, in a physician's formal topknot with a silver pin
   eyes: dark brown, shrewd and sorrowful
   distinctive_features:
   - a physician's pulse-callus on all three fingers of the right hand
   - a faint liver-spot map across the brow
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:jin-state

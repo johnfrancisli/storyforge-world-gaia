@@ -11,6 +11,7 @@ gm_notes: 'Gerd is Jarl Sigrid''s younger sister, and she manages the jarl''s fa
 aliases: []
 race: ''
 gender: ''
+age: 41
 heritage: ''
 social_station: ''
 role: Farmer / Jarl's Sister
@@ -39,13 +40,13 @@ appearance: Sturdy and sun-weathered for Hrafnland, Gerd wears a practical wool 
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 41
+visual:
   body_build: medium height, strong and practical
   hair: silver-blonde like her sister's, worn in a single thick braid
   eyes: warm blue, softer than Sigrid's
   distinctive_features: a farmer's tan (rare in Hrafnland — darker skin from long outdoor hours), a old
     hay-scar on her left hand
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:hra-jarl-council

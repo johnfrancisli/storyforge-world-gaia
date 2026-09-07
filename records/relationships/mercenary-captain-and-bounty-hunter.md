@@ -12,4 +12,6 @@ bond: Years ago, Sable was hired to bring in a deserter who had joined Marcus's 
   hanged. Marcus has neither forgiven nor forgotten, and Sable knows it, and watches her own back whenever
   his company is in town.
 disposition: 8
+visual:
+  prompt: ''
 ---

@@ -12,4 +12,6 @@ bond: Boca knows the land; Sávio knows the water. Outsiders hire one or the oth
   the frontier community's patience with their feud is wearing thin — though neither will be the first
   to concede.
 disposition: 20
+visual:
+  prompt: ''
 ---

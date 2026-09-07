@@ -12,6 +12,7 @@ gm_notes: 'A dancer whose performances are considered the most beautiful in the 
 aliases: []
 race: ''
 gender: ''
+age: 27
 heritage: ''
 social_station: ''
 role: Ceremonial dancer and trance-channel
@@ -39,14 +40,14 @@ appearance: Graceful and expressive, with a body that seems to always be in moti
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 27
+visual:
   body_build: lithe and flexible, dancer's build
   hair: black, long, worn loose for dancing
   eyes: dark brown, bright, with an unfocused quality
   distinctive_features:
   - ceremonial star-paint across both cheekbones, reapplied daily
   - faint trance-scars on the feet from dancing on rough surfaces without awareness
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ver-shaman-circle

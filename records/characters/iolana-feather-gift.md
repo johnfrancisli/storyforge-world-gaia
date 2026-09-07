@@ -14,6 +14,7 @@ gm_notes: Iolana creates the feather cloaks and headdresses worn by chiefs and u
 aliases: []
 race: ''
 gender: ''
+age: thirty-two
 heritage: ''
 social_station: ''
 role: Feather worker
@@ -41,8 +42,7 @@ appearance: A gentle, focused woman surrounded by feathers and fiber, her hands 
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: thirty-two
+visual:
   body_build: slim, fine-fingered, gentle in movement
   skin: medium brown
   hair: black, pinned up and covered with a work cloth
@@ -50,6 +50,7 @@ visual_identity:
   distinctive_features: feather-fiber lint always on her clothing, a half-finished iridescent cloak she
     keeps wrapped in protective cloth, a sensitivity to air currents that makes her react to wind even
     indoors
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:tide-tattoo-guild

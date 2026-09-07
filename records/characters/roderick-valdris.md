@@ -11,6 +11,7 @@ aliases:
 - 'Prince Roderick Valdris'
 race: ''
 gender: ''
+age: late thirties
 heritage: ''
 social_station: ''
 role: Prince of Valdris, northern commander
@@ -39,14 +40,14 @@ appearance: A broad, battle-scarred man in plate and mail, a war-hammer at his s
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: late thirties
+visual:
   body_build: broad, muscular, heavy
   height: tall
   hair: dark brown, cropped military short
   eyes: grey
   distinctive_features: a scar across the chin from a northern skirmish, a missing tip of the left little
     finger
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:dragon-order

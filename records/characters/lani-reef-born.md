@@ -11,6 +11,7 @@ aliases:
 - 'Chief Lani of Lani Atoll'
 race: ''
 gender: ''
+age: mid-fifties
 heritage: ''
 social_station: ''
 role: Chief of Lani Atoll
@@ -39,14 +40,14 @@ appearance: A sturdy, sun-darkened woman in fine island cloth and a chief's whal
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: mid-fifties
+visual:
   body_build: sturdy, strong
   skin: deep tan
   hair: black, greying, long, loose
   eyes: dark brown
   distinctive_features: a chief's whale-bone necklace, wayfinder tattoos on both arms (faded), a small
     scar on the left calf from a shark encounter
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:wayfinder-guilds

@@ -11,6 +11,7 @@ aliases:
 - 'Saya'
 race: ''
 gender: ''
+age: early forties
 heritage: ''
 social_station: ''
 role: Sake brewer (toji)
@@ -39,12 +40,12 @@ appearance: She wears a stained indono apron over a plain kimono, sleeves rolled
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: early forties
+visual:
   body_build: sturdy, thick-armed
   hair: salt-and-pepper black, tied in a loose bun
   eyes: warm brown
   distinctive_features: a faint fermentation scar across the right thumb and forefinger
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ashikara-shogunate

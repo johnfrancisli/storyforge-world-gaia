@@ -13,6 +13,7 @@ gm_notes: 'A honey gatherer who has a genuine bond with the giant rainforest bee
 aliases: []
 race: ''
 gender: ''
+age: 26
 heritage: ''
 social_station: ''
 role: Honey gatherer and bee-pact holder
@@ -40,14 +41,14 @@ appearance: Sun-browned and cheerful-looking, though her smile rarely reaches he
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 26
+visual:
   body_build: lean and long-limbed, built for climbing
   hair: honey-brown, sun-bleached, worn in a single thick braid
   eyes: amber, warm but oddly flat in expression
   distinctive_features:
   - a raised, pale sting-scar directly over the sternum
   - a faint, persistent hum audible when one stands close to her
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ver-river-consortium

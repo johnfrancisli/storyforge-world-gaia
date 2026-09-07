@@ -12,6 +12,7 @@ gm_notes: 'Solvi is a watchman who keeps the night watch on the cliff above Skal
 aliases: []
 race: ''
 gender: ''
+age: 29
 heritage: ''
 social_station: ''
 role: Watchman
@@ -41,13 +42,13 @@ appearance: Lean and sharp-eyed, Solvi wears a heavy watchman's cloak and carrie
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 29
+visual:
   body_build: tall and lean, built for long still hours in the cold
   hair: dark brown, worn in a tight braid under a watchman's cap
   eyes: grey, sharp and patient
   distinctive_features: a watchman's tattoo of a beacon on her right forearm, permanent ink-stains on
     her left fingers from sketching
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:hra-shipwright-brotherhood

@@ -18,4 +18,6 @@ item_tags:
 - sangguo
 - religious
 - spirit-pact
+visual:
+  prompt: ''
 ---

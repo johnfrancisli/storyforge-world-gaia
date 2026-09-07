@@ -12,6 +12,7 @@ gm_notes: 'A Mizuhito boat builder who constructs canal boats using a technique 
 aliases: []
 race: ''
 gender: ''
+age: 40
 heritage: ''
 social_station: ''
 role: Boat builder and unwilling military supplier
@@ -39,14 +40,14 @@ appearance: Practical and wood-shaving-dusted, wearing Mizuhito boat-builder's l
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 40
+visual:
   body_build: strong-armed and broad-backed from years of plank-bending
   hair: dark brown, cropped to the jaw and tied back
   eyes: hazel, sharp and measuring
   distinctive_features:
   - a Mizuhito river-tattoo of a boat-hull on the right shoulder
   - resin-stained hands with a missing left ring finger (table-saw accident)
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:san-merchant-cartel

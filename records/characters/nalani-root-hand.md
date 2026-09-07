@@ -13,6 +13,7 @@ gm_notes: 'Nalani is the healer every islander comes to when the usual remedies 
 aliases: []
 race: ''
 gender: ''
+age: fifty-two
 heritage: ''
 social_station: ''
 role: Healer and herbalist
@@ -40,14 +41,14 @@ appearance: A calm, grounded woman with earth-stained hands and a pouch of medic
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: fifty-two
+visual:
   body_build: solid, grounded, wide-hipped
   skin: warm brown, weathered at the hands
   hair: black streaked with grey, worn in a single braid
   eyes: deep brown, warm
   distinctive_features: permanently green-stained fingertips from herb work, a medicine pouch of woven
     fiber at the belt, a calm steadiness of gaze that unsettles liars
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:tide-island-council

@@ -11,4 +11,6 @@ bond: Between them they hold the two halves of navigation — Pua the stars, Veh
   the routes. Their friendship is the partnership of two women whose knowledge, combined, is the only
   complete map of the archipelago, and who know that when one dies the other will be the last living chart.
 disposition: 89
+visual:
+  prompt: ''
 ---

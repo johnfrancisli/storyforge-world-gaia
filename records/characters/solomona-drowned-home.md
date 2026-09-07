@@ -15,6 +15,7 @@ gm_notes: 'Solomona is a refugee who arrived at Lani Atoll with his two children
 aliases: []
 race: ''
 gender: ''
+age: forty-one
 heritage: ''
 social_station: ''
 role: Refugee and canoe builder
@@ -42,8 +43,7 @@ appearance: A strong, quiet man with a builder's hands and a refugee's donated c
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: forty-one
+visual:
   body_build: strong, broad-handed, weathered
   skin: deep brown
   hair: black, short, prematurely grey at the temples
@@ -51,6 +51,7 @@ visual_identity:
   distinctive_features: a builder's calloused hands with a master craftsman's precision, donated clothing
     that does not quite fit, two children always within sight, a quality of urgency — he works as if every
     canoe he builds is a step toward something
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:tide-refugee-council

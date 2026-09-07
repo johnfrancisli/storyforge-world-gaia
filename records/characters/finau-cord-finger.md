@@ -14,6 +14,7 @@ gm_notes: Finau makes the rope that lashes every canoe, every house, every net i
 aliases: []
 race: ''
 gender: ''
+age: thirty-three
 heritage: ''
 social_station: ''
 role: Rope maker
@@ -41,14 +42,14 @@ appearance: A wiry, strong-handed woman with rope burns on her palms and coils o
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: thirty-three
+visual:
   body_build: wiry, strong-forearmed, lean
   skin: medium brown, rope-burned at the palms
   hair: black, short, practical
   eyes: grey-brown, sharp
   distinctive_features: rope-burn calluses on both palms, a coil of cord always carried over the left
     shoulder, fingers that unconsciously tie and untie knots during conversation
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:wayfinder-guilds

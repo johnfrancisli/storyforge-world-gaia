@@ -12,6 +12,7 @@ gm_notes: A tea brewer in the Star Bazaar who serves tea that reveals a single t
 aliases: []
 race: ''
 gender: ''
+age: 45
 heritage: ''
 social_station: ''
 role: Tea brewer, unwitting truth-brewer
@@ -39,14 +40,14 @@ appearance: Warm and motherly in a clean apron and headscarf, she pours tea from
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 45
+visual:
   body_build: round and comfortable
   hair: black with grey, covered by a green headscarf
   eyes: brown, kind and observant
   distinctive_features:
   - tea-stained fingertips
   - a small mole above the right eyebrow
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:binding-families

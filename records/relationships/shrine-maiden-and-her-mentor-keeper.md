@@ -12,4 +12,6 @@ bond: Sora sees in Yuki a spiritual sensitivity she herself lacked at that age, 
   the severity but would never say so, believing Sora is preparing her for something Sora cannot speak
   of yet.
 disposition: 78
+visual:
+  prompt: ''
 ---

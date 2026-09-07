@@ -12,6 +12,7 @@ gm_notes: 'Elspeth is an elderly beekeeper who tends the largest apiary in the V
 aliases: []
 race: ''
 gender: ''
+age: 73
 heritage: ''
 social_station: ''
 role: Beekeeper
@@ -40,13 +41,13 @@ appearance: Weathered and stooped but vital, Elspeth wears a wide-brimmed straw 
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 73
+visual:
   body_build: small and wiry, bent but energetic
   hair: white, thin, under a straw hat
   eyes: pale green, bright and sharp
   distinctive_features: old bee-sting scars on both hands and forearms, a pronounced stoop, a missing
     left little finger (hive accident)
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:dragon-order

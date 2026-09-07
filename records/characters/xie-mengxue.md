@@ -11,6 +11,7 @@ gm_notes: A young woman who was the Wei warlord's personal chi-cultivation stude
 aliases: []
 race: ''
 gender: ''
+age: 22
 heritage: ''
 social_station: ''
 role: Fugitive chi-cultivator and whistleblower
@@ -38,14 +39,14 @@ appearance: Nondescript and deliberately plain, wearing laundress's clothes. Han
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 22
+visual:
   body_build: slight and wiry, undernourished
   hair: dye-darkened brown (naturally lighter), in a tight laundress bun
   eyes: dark brown, watchful and nervous
   distinctive_features:
   - chi-cultivation calluses on both palms (inconsistent with a laundress's hands)
   - a faded Wei-state cultivation corps brand on the inside of the left wrist
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:san-merchant-cartel

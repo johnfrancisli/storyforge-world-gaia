@@ -13,6 +13,7 @@ gm_notes: A male lamp maker whose brass and copper lamps are the finest in Zaffa
 aliases: []
 race: ''
 gender: ''
+age: 51
 heritage: ''
 social_station: ''
 role: Lamp maker, accidental djinn-jailer
@@ -41,14 +42,14 @@ appearance: Stocky and soot-stained in a leather apron, his hands scarred from m
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 51
+visual:
   body_build: stocky, thick-armed from metalwork
   hair: greying black, cropped short, singed at the edges
   eyes: brown, anxious and sleep-deprived
   distinctive_features:
   - a welding burn scar across the back of the right hand
   - a missing tip of the left index finger from a metal-cutting accident
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:binding-families

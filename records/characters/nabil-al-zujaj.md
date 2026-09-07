@@ -14,6 +14,7 @@ gm_notes: A male glassblower and Dunya's (character:dunya-al-zujaj) older cousin
 aliases: []
 race: ''
 gender: ''
+age: 34
 heritage: ''
 social_station: ''
 role: Glassblower, reluctant weaponsmith
@@ -42,14 +43,14 @@ appearance: Broad and furnace-red in a leather apron, his forearms thick from gl
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 34
+visual:
   body_build: broad-shouldered, strong-armed
   hair: black, short, soot-darkened
   eyes: brown, worried
   distinctive_features:
   - a large furnace-burn scar on the right forearm
   - a glassblower's callus on the left thumb from pipe work
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:binding-families

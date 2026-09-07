@@ -11,6 +11,7 @@ gm_notes: 'A librarian at the Great Academy who manages the student reading room
 aliases: []
 race: ''
 gender: ''
+age: 34
 heritage: ''
 social_station: ''
 role: Academy librarian and document-tampering investigator
@@ -38,14 +39,14 @@ appearance: Neat and attentive, wearing Academy brown with a librarian's reading
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 34
+visual:
   body_build: medium and precise
   hair: black, in a neat librarian's bun with reading-glasses chain
   eyes: myopic brown behind round spectacles
   distinctive_features:
   - a paper-cut scar on the right thumb
   - a faint ink-stain on the left jaw that never quite fades
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:great-academy

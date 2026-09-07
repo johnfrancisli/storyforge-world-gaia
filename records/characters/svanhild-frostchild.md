@@ -12,6 +12,7 @@ gm_notes: 'Svanhild is a child of twelve, the daughter of one of the jarl''s hou
 aliases: []
 race: ''
 gender: ''
+age: 12
 heritage: ''
 social_station: ''
 role: Child
@@ -40,13 +41,13 @@ appearance: Small and fair-haired, Svanhild wears a child's wool tunic and fur-l
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 12
+visual:
   body_build: small and wiry, still growing
   hair: pale blonde, worn in two braids
   eyes: bright blue, wide and alert
   distinctive_features: a gap where her left upper canine is missing (baby tooth), a faded scrape-scar
     on her right knee
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:hra-shipwright-brotherhood

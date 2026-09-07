@@ -10,6 +10,7 @@ aliases:
 - 'Wayfinder Kai'
 race: ''
 gender: ''
+age: mid-twenties
 heritage: ''
 social_station: ''
 role: Wayfinder (navigator)
@@ -38,13 +39,13 @@ appearance: A compact man in light island cloth, barefoot, with a carved wayfind
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: mid-twenties
+visual:
   body_build: compact, lean, wiry
   skin: deep tan, sun-darkened
   hair: black, short, salt-stiffened
   eyes: dark brown
   distinctive_features: tattoo patterns covering both arms — wayfinding route maps in geometric ink
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:wayfinder-guilds

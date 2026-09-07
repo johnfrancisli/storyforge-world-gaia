@@ -9,6 +9,7 @@ gm_notes: 'Tamamo is a wild kitsune — a fox spirit who never joined the shrine
 aliases: []
 race: ''
 gender: ''
+age: ageless — appears mid-twenties
 heritage: ''
 social_station: ''
 role: Wild kitsune (fox spirit)
@@ -37,11 +38,11 @@ appearance: A woman who is almost human — almost. Fox ears rise through her ha
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: ageless — appears mid-twenties
+visual:
   hair: silver-white, long, loose
   eyes: gold, slit-pupiled
   distinctive_features: three fox tails, fox ears, faint vulpine fangs visible when smiling
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ashikara-shogunate

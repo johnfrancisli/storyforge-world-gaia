@@ -13,6 +13,7 @@ gm_notes: 'A night watchwoman who patrols the high city walls and has witnessed 
 aliases: []
 race: ''
 gender: ''
+age: 36
 heritage: ''
 social_station: ''
 role: Night watchwoman, whistleblower
@@ -41,14 +42,14 @@ appearance: Tall and rigid in leather armor and a watchman's turban, she carries
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 36
+visual:
   body_build: tall and muscular
   hair: black, short, under a turban
   eyes: brown, alert and suspicious
   distinctive_features:
   - a scar across the bridge of the nose from a street fight
   - a watchman's tattoo on the right forearm — a lantern sigil
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:alk-scholar-circle

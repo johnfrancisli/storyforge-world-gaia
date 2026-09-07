@@ -11,6 +11,7 @@ gm_notes: Kayo is a rokurokubi — a yokai whose neck extends grotesquely at nig
 aliases: []
 race: ''
 gender: ''
+age: early thirties
 heritage: ''
 social_station: ''
 role: Rokurokubi (long-neck yokai) in hiding as a weaver
@@ -39,12 +40,12 @@ appearance: She wears a plain work kimono in undyed linen, her hair in a simple 
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: early thirties
+visual:
   body_build: slender, narrow-shouldered
   hair: black, thin, braided
   eyes: dark brown, anxious
   distinctive_features: a faint red line around the neck like a crease, usually hidden by a cloth
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ashikara-shogunate

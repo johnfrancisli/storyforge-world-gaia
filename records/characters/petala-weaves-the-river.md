@@ -13,6 +13,7 @@ gm_notes: A basket weaver whose baskets are so tightly woven they can hold water
 aliases: []
 race: ''
 gender: ''
+age: 44
 heritage: ''
 social_station: ''
 role: Basket weaver and secret scryer
@@ -40,14 +41,14 @@ appearance: Sturdy and calm-handed, always working. Sits cross-legged on her pla
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 44
+visual:
   body_build: sturdy and square-shouldered, strong hands
   hair: black, greying at the temples, pinned up with weaving sticks
   eyes: dark brown, patient and steady
   distinctive_features:
   - permanent grooves in both index fingers from palm-leaf fibers
   - a dark mole beneath the left ear
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ver-shaman-circle

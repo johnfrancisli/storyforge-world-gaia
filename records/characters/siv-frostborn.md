@@ -11,6 +11,7 @@ gm_notes: 'Siv is a healer who combines herbalism with seidr — a rare and some
 aliases: []
 race: ''
 gender: ''
+age: 36
 heritage: ''
 social_station: ''
 role: Healer
@@ -40,13 +41,13 @@ appearance: Quiet and slightly fragile-looking, Siv wears a white wool dress —
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 36
+visual:
   body_build: slender and slightly frail-looking, deceptively strong
   hair: white-blonde, fine, worn loose
   eyes: pale blue, distant and sometimes confused
   distinctive_features: a faint shimmer in her skin when she heals (barely visible, like heat-haze), a
     small scar on her left palm from a ritual cut
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:hra-volur-coven

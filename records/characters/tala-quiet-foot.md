@@ -14,6 +14,7 @@ gm_notes: 'Tala is the scout who goes ahead of every inter-island expedition, re
 aliases: []
 race: ''
 gender: ''
+age: twenty-four
 heritage: ''
 social_station: ''
 role: Scout
@@ -41,14 +42,14 @@ appearance: A lean, watchful woman who squints even in shade. She carries a ligh
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: twenty-four
+visual:
   body_build: lean, wiry, silent in movement
   skin: medium brown, sun-darkened
   hair: black, cropped close to the skull
   eyes: pale grey — noticeably lighter than they were a year ago, and growing paler
   distinctive_features: pale grey eyes that are unnervingly sharp and growing lighter, a squint that persists
     even in shade, a habit of scanning the horizon even in enclosed spaces
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:wayfinder-guilds

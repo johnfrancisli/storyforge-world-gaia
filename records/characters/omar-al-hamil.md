@@ -13,6 +13,7 @@ gm_notes: 'A male porter who works the spice market docks, carrying crates and b
 aliases: []
 race: ''
 gender: ''
+age: 24
 heritage: ''
 social_station: ''
 role: Porter, djinn-seer
@@ -41,14 +42,14 @@ appearance: Large and gentle-eyed in a porter's rough tunic and head wrap, he ca
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 24
+visual:
   body_build: large and muscular, gentle despite his size
   hair: black, short, under a head wrap
   eyes: dark brown, wide and watchful
   distinctive_features:
   - a callus ridge across both shoulders from years of carrying crates
   - permanent charcoal staining on the right hand and fingertips
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:alk-spice-houses

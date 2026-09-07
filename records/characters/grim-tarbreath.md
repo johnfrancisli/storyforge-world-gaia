@@ -12,6 +12,7 @@ gm_notes: 'Grim is a charcoal burner who tends the forest kilns in the pine wood
 aliases: []
 race: ''
 gender: ''
+age: 41
 heritage: ''
 social_station: ''
 role: Charcoal Burner
@@ -40,13 +41,13 @@ appearance: Broad and smoke-blackened, Grim wears rough charcoal-stained clothin
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 41
+visual:
   body_build: broad and heavy, strong-armed
   hair: brown, thick, worn short under a leather cap
   eyes: brown, sharp and quick to look away
   distinctive_features: permanent charcoal staining on face and hands, a prominent scar across his left
     eyebrow (axe-slip while cutting timber)
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:hra-rune-guild

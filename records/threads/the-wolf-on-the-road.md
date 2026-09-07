@@ -22,6 +22,8 @@ next_possible_moves:
 - Garrick's second-in-command, a woman named Brita, challenges his leadership at a campfire meeting —
   she wants to accept Roderick's offer and argues that waiting is dying.
 resolution: null
+visual:
+  prompt: ''
 ---
 
 Garrick the Wolf controls a stretch of the Greywood road in Valdris. He is being courted by Prince Roderick as a deniable asset. Maggie Pippin at the Copper Kettle has noticed increased armed traffic. The crown's patrols are getting more aggressive. Garrick's men are hungry and loyal, but loyalty has a shelf life.

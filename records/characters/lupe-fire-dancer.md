@@ -13,6 +13,7 @@ gm_notes: Lupe is the fire-dancer who performs at every great gathering, and her
 aliases: []
 race: ''
 gender: ''
+age: twenty-six
 heritage: ''
 social_station: ''
 role: Dancer
@@ -41,14 +42,14 @@ appearance: A lithe, expressive woman who moves like water even when she is stan
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: twenty-six
+visual:
   body_build: lithe, long-limbed, flexible
   skin: medium brown
   hair: black, long, worn loose for dancing
   eyes: dark brown, intense
   distinctive_features: fire-poi always carried wrapped in fiber at the belt, a burn scar on the right
     forearm from a performance, dark circles under the eyes from sleepless nights
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:tide-island-council

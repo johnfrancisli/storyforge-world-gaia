@@ -22,6 +22,8 @@ next_possible_moves:
 - A stranger arrives in Zaffar claiming to know a method of contract renegotiation that does not violate
   the Pact — and asking a price that may be worse than the djinn's.
 resolution: null
+visual:
+  prompt: ''
 ---
 
 In Al-Khayzar, Malik Idris is the firstborn of his generation — and his family's oldest djinn contract demands the firstborn of each generation as payment. The djinn Zuhayr has begun appearing to Malik, patient and polite, reminding him that the contract is almost due. Malik has searched secretly for a way out and found nothing.

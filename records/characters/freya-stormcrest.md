@@ -11,6 +11,7 @@ gm_notes: Freya is a castle guard stationed on Crownhaven's outer wall. She disc
 aliases: []
 race: ''
 gender: ''
+age: 26
 heritage: ''
 social_station: ''
 role: Castle Guard
@@ -38,13 +39,13 @@ appearance: Alert and athletic, Freya wears a castle guard's chainmail and a cri
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 26
+visual:
   body_build: athletic and broad-shouldered
   hair: reddish-blonde, cropped short under a helm
   eyes: steel grey
   distinctive_features: a guard's brand on her left forearm (castle crest), a scar across her right knuckles
     (sparring injury), a slightly crooked right index finger (healed break)
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:dragon-order

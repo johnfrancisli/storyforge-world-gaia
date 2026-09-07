@@ -10,6 +10,7 @@ gm_notes: 'A Jin army general who has won seven battles and lost none. The secre
 aliases: []
 race: ''
 gender: ''
+age: 43
 heritage: ''
 social_station: ''
 role: Jin army general and unknowing beneficiary of chi-warfare
@@ -37,14 +38,14 @@ appearance: Commanding and immaculate in Jin-state military uniform of dark gree
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 43
+visual:
   body_build: tall, broad, and imposing
   hair: black, cropped short under a military topknot
   eyes: dark brown, authoritative
   distinctive_features:
   - a war-halberd scar across the right palm
   - a gold victory medal tattooed on the left forearm (Jin military tradition)
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:jin-state

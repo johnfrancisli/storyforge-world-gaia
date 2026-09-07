@@ -11,6 +11,7 @@ gm_notes: A musician at the Great Academy who plays the dizi (bamboo flute) and 
 aliases: []
 race: ''
 gender: ''
+age: 26
 heritage: ''
 social_station: ''
 role: Spirit musician and keeper of ancient melodies
@@ -37,14 +38,14 @@ appearance: Ethereal and quiet, wearing Academy gray-white robes. Always carries
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 26
+visual:
   body_build: slight and willowy
   hair: long black, loose except when performing
   eyes: pale gray, distant
   distinctive_features:
   - a faint blue-tinged birthmark on the left collarbone shaped like a musical note
   - flute-callus on the lower lip
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:great-academy

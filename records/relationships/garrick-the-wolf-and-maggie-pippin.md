@@ -12,4 +12,6 @@ bond: Maggie feeds Garrick information about travelers in exchange for him keepi
   alternative. Garrick is protective of the inn in a way he would not admit — Maggie reminds him of his
   mother, who ran a similar inn before the war.
 disposition: 25
+visual:
+  prompt: ''
 ---

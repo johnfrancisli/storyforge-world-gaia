@@ -13,6 +13,7 @@ gm_notes: 'Danzaburo is a tanuki — a raccoon dog spirit — who has run a nood
 aliases: []
 race: ''
 gender: ''
+age: ageless — appears late sixties
 heritage: ''
 social_station: ''
 role: Tanuki (raccoon dog spirit) in disguise as a noodle shop owner
@@ -42,12 +43,12 @@ appearance: He wears a noodle vendor's apron over a comfortable kimono, a towel 
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: ageless — appears late sixties
+visual:
   body_build: round, short, sturdy
   hair: grey, thinning, under a rolled towel
   eyes: dark brown, crinkled with permanent amusement
   distinctive_features: a broad, flat nose and a leaf-shaped birthmark behind the right ear (hidden)
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ashikara-shogunate

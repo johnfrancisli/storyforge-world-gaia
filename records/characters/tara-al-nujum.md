@@ -12,6 +12,7 @@ gm_notes: An astrologer who can read the true names of djinn in the stars — a 
 aliases: []
 race: ''
 gender: ''
+age: 44
 heritage: ''
 social_station: ''
 role: Astrologer, true-name reader
@@ -40,14 +41,14 @@ appearance: Quiet and intense in dark scholar's robes, she carries a brass astro
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 44
+visual:
   body_build: thin and angular
   hair: black, silver-streaked, loose
   eyes: pale grey, distant
   distinctive_features:
   - a star-shaped scar on the left wrist from a hot astrolabe
   - permanently dark-circled eyes from years of night work
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:binding-families

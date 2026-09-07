@@ -12,4 +12,6 @@ bond: Solomona lost his workshop when his atoll drowned; Tane opened his. The fr
   designs of Solomona's lost people, preserving them in wood so they are not lost to the sea that took
   the rest.
 disposition: 80
+visual:
+  prompt: ''
 ---

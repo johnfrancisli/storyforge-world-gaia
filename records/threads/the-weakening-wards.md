@@ -22,6 +22,8 @@ next_possible_moves:
 - 'A messenger from the Great Shrine in Tsuki-no-Miyako arrives with an order: Sora is to report to the
   capital for reassignment. Her shrine will be ''temporarily'' unstaffed.'
 resolution: null
+visual:
+  prompt: ''
 ---
 
 In Tsukuyomi, the shrine network that keeps wild yokai at a distance from settled areas is weakening. Rural shrines are being neglected as the central authority funnels resources to the capital. Miko Sora maintains her shrine alone, but the ward she tends is one of a chain, and links upstream of her are failing. If enough links break, the yokai pressure on the Cedar Road becomes dangerous.

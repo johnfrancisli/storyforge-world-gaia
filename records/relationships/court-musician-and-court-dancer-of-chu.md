@@ -12,4 +12,6 @@ bond: 'Both are quietly embedded: Zhiyao reports to Jin, Xueling is an assassin-
   — the small discrepancies that only someone living a double life would recognize. They are circling
   each other, not yet sure whether they are allies or targets.'
 disposition: 33
+visual:
+  prompt: ''
 ---

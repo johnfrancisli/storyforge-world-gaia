@@ -18,6 +18,8 @@ locations:
 organizations:
 - org:val-dawnfire-church
 - org:val-mages-circle
+visual:
+  prompt: ''
 ---
 
 In the Frozen Yard behind Frosthelm Keep, three new graves have failed to freeze over properly—instead the earth above them stays warm and damp even in the depth of the northern winter. Gravedigger Maddox Cinderfell, who dug them, swears the bodies were pallid and unmarked by any wound when he laid them down. The Chapter House of the Pale Vow has sent Scribe Galen Frosthollow to copy whatever records the dead left behind, and he has found that all three had visited the Frost Market on the same day. Healer Isolde Ravenwood, called to examine the exhumed remains, found something coiled in the soil around them that was not any root she knew.

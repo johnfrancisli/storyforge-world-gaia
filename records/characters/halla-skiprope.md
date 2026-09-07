@@ -12,6 +12,7 @@ gm_notes: 'Halla is a sailor who crews on the Frostwing under Astrid — she han
 aliases: []
 race: ''
 gender: ''
+age: 26
 heritage: ''
 social_station: ''
 role: Sailor / Deckhand
@@ -41,12 +42,12 @@ appearance: Compact and rope-strong, Halla wears a sailor's wool tunic and water
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 26
+visual:
   body_build: short and powerful, built for hauling and climbing
   hair: brown, sun-bleached, worn in two tight braids
   eyes: dark grey, watchful
   distinctive_features: rope-burn scars on both palms, a chipped right tooth from a boom-swing
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:hra-shipwright-brotherhood

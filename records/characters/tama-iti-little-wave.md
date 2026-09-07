@@ -16,6 +16,7 @@ gm_notes: Tama-iti is an eight-year-old boy, the son of a refugee family living 
 aliases: []
 race: ''
 gender: ''
+age: eight
 heritage: ''
 social_station: ''
 role: Child
@@ -44,8 +45,7 @@ appearance: A small, bright-eyed boy who is always near the water and always loo
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: eight
+visual:
   body_build: small, wiry, bright-eyed
   skin: light brown
   hair: black, short, untidy
@@ -53,6 +53,7 @@ visual_identity:
   distinctive_features: donated clothing that is always too large, a constant proximity to the water's
     edge — he is always near the lagoon, a habit of watching the water and smiling at things no one else
     can see, sand always on his feet
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:tide-refugee-council

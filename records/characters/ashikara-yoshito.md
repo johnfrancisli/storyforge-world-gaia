@@ -11,6 +11,7 @@ aliases:
 - 'Shogun Ashikara Yoshito'
 race: ''
 gender: ''
+age: seventies
 heritage: ''
 social_station: ''
 role: Shogun of Tsukuyomi
@@ -39,12 +40,12 @@ appearance: A thin, old man in formal court robes, seated straight-backed on his
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: seventies
+visual:
   body_build: thin, frail but straight-backed
   hair: white, formal topknot
   eyes: dark brown, sharp despite age
   distinctive_features: liver spots on the hands, a formal court fan always carried
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ashikara-shogunate

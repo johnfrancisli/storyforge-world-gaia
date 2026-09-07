@@ -12,4 +12,6 @@ bond: They are the two youngest bearers of the old pacts, and the loneliness of 
   when the rituals go wrong — which is often. The friendship is the only place either can admit how frightened
   they are of what they are becoming.
 disposition: 81
+visual:
+  prompt: ''
 ---

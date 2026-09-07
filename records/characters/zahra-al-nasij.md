@@ -13,6 +13,7 @@ gm_notes: A carpet weaver whose carpets are said to show the pattern of a person
 aliases: []
 race: ''
 gender: ''
+age: 38
 heritage: ''
 social_station: ''
 role: Master carpet weaver
@@ -41,14 +42,14 @@ appearance: Graceful and focused in a dyed apron over simple robes, her hands mo
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 38
+visual:
   body_build: slender, long-fingered
   hair: black, long, tied back with dyed thread
   eyes: dark brown, focused
   distinctive_features:
   - weaver's calluses on both thumbs and index fingers
   - a faded dye-stain on the left wrist in the shape of a crescent
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:binding-families

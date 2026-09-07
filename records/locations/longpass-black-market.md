@@ -12,6 +12,8 @@ resources:
 - stolen goods
 - military intelligence
 - slave labor
+visual:
+  prompt: ''
 ---
 
 Tucked into a side canyon south of the main road, the Longpass Black Market is a ramshackle bazaar of canvas stalls and cave-front shops that appears at dusk and vanishes before dawn, selling everything that the gatehouse tolls and treaty restrictions forbid. Weapons without markings, armor stripped from the dead, forged travel papers, stolen horses, maps of military positions, and prisoners of war sold as laborers—all can be found here for the right price. The market has no shops that last more than a season; stalls are rebuilt nightly in different configurations to confuse any agent who might try to map it. The air smells of lamp oil and hidden coin, and every transaction is conducted in low voices with hands on weapons.

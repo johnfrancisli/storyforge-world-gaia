@@ -12,6 +12,7 @@ aliases:
 - 'Hana'
 race: ''
 gender: ''
+age: early twenties
 heritage: ''
 social_station: ''
 role: Messenger and courier (hikyaku)
@@ -40,12 +41,12 @@ appearance: She wears a lightweight traveling kimono with tight sleeves and stra
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: early twenties
+visual:
   body_build: lean, long-legged, runner's build
   hair: black, cut short to the jaw for speed
   eyes: dark brown, quick-moving
   distinctive_features: a road-dust tan line at the wrists from long sleeves worn while running
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ashikara-shogunate

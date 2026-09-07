@@ -18,6 +18,8 @@ locations:
 organizations:
 - org:val-noble-council
 - org:dragon-order
+visual:
+  prompt: ''
 ---
 
 The Silverward Barracks in Elfshade have received no new orders from Crownhaven in eleven weeks. Pay has arrived, but sealed dispatches that should accompany it have not. The barracks' senior elven commander has begun drilling the company in formations that look less like garrison duty and more like a forced march. Retired knight Aldric Stonehand, visiting his old comrades at the Thornwhisper Court, recognized the formations and quietly warned elven elder Lindrel of the Greenhall. The Groveveil Sanctum's wardens have begun watching the barracks in return, and the Moonmarket merchants are quietly moving their caravans out of the city.

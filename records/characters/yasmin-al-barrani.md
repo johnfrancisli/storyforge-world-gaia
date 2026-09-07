@@ -12,6 +12,7 @@ gm_notes: The most successful spice merchant in Zaffar, controlling nearly a thi
 aliases: []
 race: ''
 gender: ''
+age: 48
 heritage: ''
 social_station: ''
 role: Master spice merchant, political agitator
@@ -40,14 +41,14 @@ appearance: Robust and commanding in saffron-dyed silk and gold-trimmed vest. He
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 48
+visual:
   body_build: stout and strong, commanding presence
   hair: black with grey streaks, pinned under a silk headscarf
   eyes: dark brown, shrewd
   distinctive_features:
   - permanent saffron-yellow staining on fingertips and the pads of her thumbs
   - a gold tooth in the upper left row, visible when she smiles
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:alk-spice-houses

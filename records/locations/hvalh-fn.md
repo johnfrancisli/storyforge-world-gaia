@@ -15,6 +15,8 @@ resources:
 - cured whale meat
 - whalebone timber
 - seal pelts
+visual:
+  prompt: ''
 ---
 
 Where the northern coast of Hrafnland bends toward the frozen sea and the ice grinds against the shore for nine months of the year, Hvalhöfn clings to a wind-scoured headland of black basalt—a whaling station and walrus-camp that is less a town than a prolonged act of defiance against the cold. The settlement is a jumble of sod-walled shanties, whale-rib frames draped in oiled hides, and great iron cauldrons set over driftwood fires, their smoke reeking of rendered blubber so thickly that newcomers retch and old hands claim they can no longer smell it at all. Flensing racks line the shore, strung with strips of dark whale meat and slabs of blubber that cure in the bitter wind, and the beach is black with the bones of a thousand kills—ribs curving like cathedral arches, vertebrae the size of shields, and a jawbone arch that frames the harbor's entrance. The whalers themselves are a scarred, frost-bitten breed who speak little and sing less, and their skin boats, stretched over whalebone frames, put out into the ice floes with a recklessness that would be madness anywhere else. Hvalhöfn exports whale oil, walrus ivory, and narwhal horn to Skaldvik's traders, and the jarls of Hrafnland pay dearly for both, for the oil lights their halls and the ivory buys them ships and swords from the south.

@@ -11,4 +11,6 @@ bond: They share a forge because neither can afford to build a second, and they 
   by a grudging agreement — she forges the tools, he forges the weapons. The arrangement works but chafes;
   each believes the other's half is the easier one, and the forge rings with pointed silences.
 disposition: 36
+visual:
+  prompt: ''
 ---

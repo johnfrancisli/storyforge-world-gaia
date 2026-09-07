@@ -12,4 +12,6 @@ bond: Nara knows Tari is gifted but does not realize how much Tari is hearing th
   are both keeping secrets — Nara about the river spirit's warning, Tari about the multiple spirits speaking
   to her. The secrets are about the same thing, and neither knows the other already knows.
 disposition: 65
+visual:
+  prompt: ''
 ---

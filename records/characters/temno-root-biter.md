@@ -14,6 +14,7 @@ gm_notes: 'A serpent beast-kin herbalist who specializes in poisons and antidote
 aliases: []
 race: ''
 gender: ''
+age: 43
 heritage: ''
 social_station: ''
 role: Herbalist and poison/antidote specialist
@@ -41,8 +42,7 @@ appearance: Lean and still, with the economy of a snake. Works in a cluttered wo
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 43
+visual:
   body_build: lean and angular, snake-like in stillness
   hair: a crest of dark green-grey scales along the crown
   eyes: yellow-green, vertical pupils, observant
@@ -50,6 +50,7 @@ visual_identity:
   - fine dark scales across the forehead, temples, and forearms
   - a forked tongue that flicks when he is concentrating
   - chemical burn scarring on both thumbs from volatile preparations
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ver-river-consortium

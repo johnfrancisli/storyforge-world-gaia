@@ -13,6 +13,7 @@ gm_notes: Kamala is a refugee from a southern island that submerged four months 
 aliases: []
 race: ''
 gender: ''
+age: thirty-one
 heritage: ''
 social_station: ''
 role: Refugee and net weaver
@@ -40,14 +41,14 @@ appearance: A capable-looking woman whose hands are always busy with net fiber b
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: thirty-one
+visual:
   body_build: capable, strong-handed, hollow-eyed
   skin: medium brown
   hair: black, cropped short after the loss
   eyes: dark brown, distant
   distinctive_features: net-weaving calluses on both hands, a haunted quality to the gaze — she looks
     through people rather than at them, healing reef cuts on both feet from reckless walking at high tide
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:tide-refugee-council

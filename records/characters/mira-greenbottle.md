@@ -9,6 +9,7 @@ gm_notes: Mira is a halfling herbalist who discovered a rare mushroom that can t
 aliases: []
 race: ''
 gender: ''
+age: 38
 heritage: ''
 social_station: ''
 role: Herbalist
@@ -36,13 +37,13 @@ appearance: Small and round-faced, Mira wears a patched green dress and carries 
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 38
+visual:
   body_build: short and soft, halfling stature
   hair: sandy blonde, tightly curled, perpetually unruly
   eyes: warm brown
   distinctive_features: permanently green-stained fingertips, a missing left earlobe (lost to a biting
     creature in the woods)
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:val-mages-circle

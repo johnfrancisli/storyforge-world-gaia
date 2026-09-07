@@ -12,4 +12,6 @@ bond: Their friendship is the partnership of memory and foresight — Yrsa's vis
   of where they are pointing. They finish each other's prophecies, and it unsettles everyone who watches
   them do it.
 disposition: 86
+visual:
+  prompt: ''
 ---

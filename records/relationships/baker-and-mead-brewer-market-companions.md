@@ -12,4 +12,6 @@ bond: Their friendship is the warm, uncomplicated kind that comes of having surv
   lean; Becka keeps Margaret's spirits up when the ovens feel like a prison. Neither has ever needed to
   say any of this aloud.
 disposition: 85
+visual:
+  prompt: ''
 ---

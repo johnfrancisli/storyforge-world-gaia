@@ -10,4 +10,6 @@ bond: Kohana hears what powerful men say when they believe they are only enterta
   Machi moves goods and favors based on what she tells him. Neither is sentimental about it — it is commerce
   — but both understand that exposure would ruin them equally.
 disposition: 48
+visual:
+  prompt: ''
 ---

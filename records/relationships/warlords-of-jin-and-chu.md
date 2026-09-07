@@ -11,4 +11,6 @@ bond: They were once sworn brothers under the same banner before ambition split 
   exact betrayal — though they disagree on who struck first — and neither will rest while the other holds
   land. The personal hatred has long outlasted any strategic rationale for the war between their states.
 disposition: 5
+visual:
+  prompt: ''
 ---

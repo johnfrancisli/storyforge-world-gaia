@@ -14,6 +14,7 @@ gm_notes: 'A trader who travels between the river city-states and carries goods,
 aliases: []
 race: ''
 gender: ''
+age: 51
 heritage: ''
 social_station: ''
 role: Inter-tribal trader and smuggler
@@ -41,14 +42,14 @@ appearance: Practical and alert, with a trader's quick smile and quicker eyes. W
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 51
+visual:
   body_build: sturdy and weathered, built for long river journeys
   hair: greying black, braided tightly against the skull
   eyes: dark brown, sharp and calculating
   distinctive_features:
   - a trader's tattoo of a river-confluence on the right wrist
   - a missing left little finger, lost to a river-pirate's knife years ago
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ver-river-consortium

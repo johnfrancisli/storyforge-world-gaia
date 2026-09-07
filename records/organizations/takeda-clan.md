@@ -7,6 +7,8 @@ wants: To force the shogunate to reinvest in provincial defenses and the shrine 
 pressure: rising
 holdings:
 - location:tsukuyomi
+visual:
+  prompt: ''
 ---
 
 A powerful samurai clan holding the northern mountain province of Tsukuyomi. Disciplined, well-run, and increasingly resentful of the shogunate's neglect of the provinces. Daimyo Takeda Renji is building a coalition of like-minded rural clans.

@@ -14,6 +14,7 @@ gm_notes: 'The ten-year-old daughter of Tariq al-Sayf (character:tariq-al-sayf) 
 aliases: []
 race: ''
 gender: ''
+age: 10
 heritage: ''
 social_station: ''
 role: Binding family child, djinn-voice hearer
@@ -42,14 +43,14 @@ appearance: Small and serious in a child's robes with the al-Sayf sigil embroide
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 10
+visual:
   body_build: small and slight, a child
   hair: black, long, in two braids
   eyes: dark brown, large and watchful
   distinctive_features:
   - a faded birthmark on the left shoulder blade, shaped roughly like a flame
   - a small scar on the chin from a fall in the courtyard
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:binding-families

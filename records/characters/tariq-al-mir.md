@@ -12,6 +12,7 @@ aliases:
 - 'Judge Tariq al-Mir'
 race: ''
 gender: ''
+age: sixties
 heritage: ''
 social_station: ''
 role: Judge, expert in contract law and the Pact
@@ -40,14 +41,14 @@ appearance: A tall, grave man in formal judge's robes, a law scroll case at his 
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: sixties
+visual:
   body_build: tall, straight-backed
   skin: warm brown
   hair: white, short beard, uncovered
   eyes: dark brown, steady
   distinctive_features: a judge's signet ring on the right index finger, ink stains on the left hand,
     a small scar on the forehead from a courtroom incident years ago
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:binding-families

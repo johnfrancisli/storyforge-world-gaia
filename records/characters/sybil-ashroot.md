@@ -10,6 +10,7 @@ gm_notes: 'Sybil is an herbalist and midwife who delivered many of the children 
 aliases: []
 race: ''
 gender: ''
+age: 61
 heritage: ''
 social_station: ''
 role: Midwife / Herbalist
@@ -37,13 +38,13 @@ appearance: Weathered and warm, Sybil wears a practical dress and an apron full 
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 61
+visual:
   body_build: sturdy and comfortable
   hair: white, thick, worn in a long braid
   eyes: warm brown
   distinctive_features: deeply lined face from decades of smiling, a large mole on her right temple, gentle
     but strong hands
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:val-mages-circle

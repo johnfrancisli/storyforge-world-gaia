@@ -15,6 +15,7 @@ gm_notes: Rotama is a sail maker's apprentice who works under Leilani Wave-Singe
 aliases: []
 race: ''
 gender: ''
+age: fifteen
 heritage: ''
 social_station: ''
 role: Sail maker's apprentice
@@ -42,8 +43,7 @@ appearance: A small, quiet girl with a sail maker's stained hands and a tendency
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: fifteen
+visual:
   body_build: small, quiet, quick-handed
   skin: light brown
   hair: black, long, tied back for work
@@ -51,6 +51,7 @@ visual_identity:
   distinctive_features: sail-cloth dye staining on both hands, pale blue eyes that are unusual for the
     Archipelago — she avoids eye contact to hide them, a habit of watching the sky rather than the sea,
     a tension in her shoulders that has grown over the past year
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:wayfinder-guilds

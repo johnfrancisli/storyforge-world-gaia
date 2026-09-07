@@ -12,4 +12,6 @@ bond: They are friends across a family rivalry, bound by a shared frustration wi
   They have begun to wonder, privately, whether their friendship could become an alliance their families
   would forbid.
 disposition: 74
+visual:
+  prompt: ''
 ---

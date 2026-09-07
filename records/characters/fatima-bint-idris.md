@@ -12,6 +12,7 @@ gm_notes: 'A spice trader who specializes in the rarest and most dangerous commo
 aliases: []
 race: ''
 gender: ''
+age: 35
 heritage: ''
 social_station: ''
 role: Spice trader, dealer in rare and pharmacological spices
@@ -40,14 +41,14 @@ appearance: Slim and guarded in dark robes, her face partially veiled even in th
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 35
+visual:
   body_build: lean, precise in movement
   hair: black, thick, hidden under a dark headscarf
   eyes: dark brown, watchful
   distinctive_features:
   - a faint chemical burn scar on the left palm from handling raw asafoetida
   - a thin gold nose ring
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:alk-spice-houses

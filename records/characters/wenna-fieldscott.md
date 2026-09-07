@@ -9,6 +9,7 @@ gm_notes: Wenna is a shepherdess who tends her flocks on the high meadows near D
 aliases: []
 race: ''
 gender: ''
+age: 36
 heritage: ''
 social_station: ''
 role: Shepherd
@@ -36,12 +37,12 @@ appearance: Sun-weathered and practical, Wenna wears a woollen shawl and rough b
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 36
+visual:
   body_build: lean and wiry from years on the hills
   hair: wheat blonde, sun-bleached, worn in a single braid
   eyes: weathered green
   distinctive_features: freckles across nose and shoulders, a crooked left little finger (healed badly)
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:val-merchant-guild

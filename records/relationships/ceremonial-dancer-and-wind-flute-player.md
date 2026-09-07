@@ -12,4 +12,6 @@ bond: 'They are each other''s only peer in spirit-work through performance — E
   stops playing at the wrong moment, she may not return. Neither has ever said how frightening that is,
   because saying it would make it more real.'
 disposition: 79
+visual:
+  prompt: ''
 ---

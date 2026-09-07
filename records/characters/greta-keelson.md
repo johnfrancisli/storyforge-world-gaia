@@ -12,6 +12,7 @@ gm_notes: Greta is Skaldvik's most gifted shipwright, and she has a secret metho
 aliases: []
 race: ''
 gender: ''
+age: 41
 heritage: ''
 social_station: ''
 role: Shipwright
@@ -40,13 +41,13 @@ appearance: Stocky and sawdust-covered, Greta works in a leather vest with her s
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 41
+visual:
   body_build: broad and muscular from years of timber work
   hair: sandy brown, cut short and practical
   eyes: warm brown
   distinctive_features: a missing half of her left little finger (saw accident), deep calluses across
     both palms with a permanent ink stain on her right thumb
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:hra-shipwright-brotherhood

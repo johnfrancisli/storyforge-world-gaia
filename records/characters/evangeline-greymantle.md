@@ -10,6 +10,7 @@ gm_notes: Evangeline is a priest of the Temple of the Sacred Flame who genuinely
 aliases: []
 race: ''
 gender: ''
+age: 35
 heritage: ''
 social_station: ''
 role: Priest
@@ -37,13 +38,13 @@ appearance: Serene and composed, Evangeline wears the white and gold robes of th
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 35
+visual:
   body_build: medium height, graceful
   hair: light brown, worn in a modest braid under a wimple
   eyes: clear blue
   distinctive_features: a sacred flame tattoo on her right wrist (ordination mark), a faint scar on her
     left hand from a candle-burn during her initiation rite
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:dragon-order

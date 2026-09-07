@@ -12,4 +12,6 @@ bond: Chenyu is the hidden investigator the warlord uses to find internal threat
   knows he is coming and has prepared for it. What neither expects is that the evidence she carries implicates
   the very warlord Chenyu serves.
 disposition: 12
+visual:
+  prompt: ''
 ---

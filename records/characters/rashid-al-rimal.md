@@ -11,6 +11,7 @@ aliases:
 - 'Rashid the Sand-walker'
 race: ''
 gender: ''
+age: mid-forties
 heritage: ''
 social_station: ''
 role: Desert guide
@@ -39,14 +40,14 @@ appearance: A lean, weathered man in desert robes — sun-bleached and sand-worn
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: mid-forties
+visual:
   body_build: lean, wiry, endurance-built
   skin: deeply tanned, wind-weathered
   hair: black, greying, wrapped in a desert headwrap
   eyes: dark brown, permanently narrowed
   distinctive_features: sun-wrinkles deep around the eyes, a sand-scar on the left cheek from a dust storm,
     a tattoo of a compass rose on the right forearm
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:alk-caravan-companies

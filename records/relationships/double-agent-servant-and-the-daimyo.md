@@ -11,4 +11,6 @@ bond: Tomi reports to Daimyo Takeda on the shogunate's interior movements — a 
   servant, which is the only thing preventing her from being made. She has begun to wonder what happens
   to her the day she is no longer useful.
 disposition: 52
+visual:
+  prompt: ''
 ---

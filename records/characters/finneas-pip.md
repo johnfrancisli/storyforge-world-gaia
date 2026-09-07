@@ -9,6 +9,7 @@ gm_notes: Finneas is a halfling tinker who travels between villages repairing po
 aliases: []
 race: ''
 gender: ''
+age: 33
 heritage: ''
 social_station: ''
 role: Tinker
@@ -36,12 +37,12 @@ appearance: Small and road-dusty, Finneas wears a patched travelling coat with d
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 33
+visual:
   body_build: short and wiry, halfling stature
   hair: reddish-brown, unruly curls
   eyes: bright green
   distinctive_features: perpetually ink-stained fingers, a chipped front tooth
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:dragon-order

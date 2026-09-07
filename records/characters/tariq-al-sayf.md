@@ -12,6 +12,7 @@ gm_notes: 'Patriarch of the al-Sayf binding family, the second-oldest house on t
 aliases: []
 race: ''
 gender: ''
+age: 52
 heritage: ''
 social_station: ''
 role: Binding family patriarch, Council member
@@ -40,14 +41,14 @@ appearance: Immaculate and reserved in dark robes with the al-Sayf sword sigil e
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 52
+visual:
   body_build: tall and thin, rigid posture
   hair: black, grey at the temples, precisely trimmed
   eyes: dark brown, guarded
   distinctive_features:
   - a thin scar on the right temple from a childhood fall he insists was an accident
   - hands that tremble slightly when he thinks no one is watching
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:binding-families

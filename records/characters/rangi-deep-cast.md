@@ -13,6 +13,7 @@ gm_notes: 'Rangi is a deep-water fisher who works alone, sailing his canoe to th
 aliases: []
 race: ''
 gender: ''
+age: thirty-nine
 heritage: ''
 social_station: ''
 role: Fisher (deep water)
@@ -40,8 +41,7 @@ appearance: A big, sun-darkened man with a fisher's scars and a quiet, solitary 
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: thirty-nine
+visual:
   body_build: big, broad, powerful
   skin: deep brown, heavily scarred
   hair: black, short, salt-bleached
@@ -49,6 +49,7 @@ visual_identity:
   distinctive_features: fishing scars on both hands and forearms, a solitary quality that keeps people
     at a distance, three carved stone fragments kept hidden in a waterproof pouch, a deep-water canoe
     always loaded and ready
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:tide-tattoo-guild

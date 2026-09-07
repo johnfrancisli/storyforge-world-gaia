@@ -10,6 +10,7 @@ aliases:
 - 'Merchant Zhou Ba'
 race: ''
 gender: ''
+age: late forties
 heritage: ''
 social_station: ''
 role: Merchant and information broker
@@ -38,12 +39,12 @@ appearance: A round, well-fed man in fine silk robes, a fan in one hand and a cu
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: late forties
+visual:
   body_build: round, well-fed
   hair: black, oiled, topknot
   eyes: small, sharp, calculating
   distinctive_features: expensive jade rings on both hands, a gold tooth visible when smiling
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:chu-state

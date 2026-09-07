@@ -12,6 +12,7 @@ gm_notes: 'Hjordis carves bone and antler — dice, combs, needle cases, brooche
 aliases: []
 race: ''
 gender: ''
+age: 26
 heritage: ''
 social_station: ''
 role: Bone Carver
@@ -40,13 +41,13 @@ appearance: Fine-boned and precise, Hjordis works at a low bench surrounded by a
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 26
+visual:
   body_build: slender and small-boned, precise in movement
   hair: light brown, worn in a knot at the nape
   eyes: grey-green, focused
   distinctive_features: a small knife-scar on her left index finger, permanently pale fingertips from
     handling bone and antler
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:hra-rune-guild

@@ -16,6 +16,8 @@ locations:
 - location:tsu-yamadera-library
 organizations:
 - org:tsu-shrine-network
+visual:
+  prompt: ''
 ---
 
 For a generation the Shirogane Monastery and the Tengu Training Grounds above Yamadera have observed an uneasy accord: humans stay below the treeline, tengu stay above it. That truce fractured when a young monk-in-training was found unconscious at the edge of the Tengu Grounds with his head shaved clean and three black feathers on his chest. Monk Jinichi, sent from the monastery to investigate, believes it is a warning rather than an attack. Wandering tengu exile Suzume fears harder-line elders in the mountain flock are using the incident to justify a full break with the monastery.

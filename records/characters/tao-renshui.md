@@ -11,6 +11,7 @@ aliases:
 - 'Mizuhito Taro'
 race: ''
 gender: ''
+age: 50
 heritage: ''
 social_station: ''
 role: Canal fisherman and unwitting intelligence asset
@@ -38,14 +39,14 @@ appearance: Weathered and easy-smiling, wearing Mizuhito water-gear and a woven 
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 50
+visual:
   body_build: wiry and sun-darkened
   hair: gray-black, cropped close
   eyes: dark, crinkled, kind
   distinctive_features:
   - a Mizuhito river-tattoo of a water-serpent on the right forearm
   - a hook-scar on the left index finger
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:jin-state

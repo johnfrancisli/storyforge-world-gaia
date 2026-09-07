@@ -13,6 +13,7 @@ aliases:
 - 'Taro'
 race: ''
 gender: ''
+age: late fifties
 heritage: ''
 social_station: ''
 role: Fisherman (ryoshi)
@@ -41,13 +42,13 @@ appearance: He wears a salt-stained work kimono with rubber-soled boots, a fishi
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: late fifties
+visual:
   body_build: wiry, sea-worn
   hair: grey, thin, under a knit cap
   eyes: pale brown, bloodshot
   distinctive_features: a rope-scar around the right wrist and a permanently crooked left ring finger
     from a net accident
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ashikara-shogunate

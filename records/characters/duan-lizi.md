@@ -10,6 +10,7 @@ gm_notes: 'A noodle vendor in Jin-an''s market who served a bowl of noodles to a
 aliases: []
 race: ''
 gender: ''
+age: 49
 heritage: ''
 social_station: ''
 role: Noodle vendor and accidental secret-bearer
@@ -36,14 +37,14 @@ appearance: Round and ruddy, always steaming and wiping his hands on his apron. 
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 49
+visual:
   body_build: short and round-bellied
   hair: mostly bald with a fringe of gray
   eyes: small, brown, crinkled with laugh lines
   distinctive_features:
   - a soup-burn scar on the left forearm
   - flour permanently dusting his shoulders and sleeves
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:san-merchant-cartel

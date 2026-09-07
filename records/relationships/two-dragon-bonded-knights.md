@@ -11,4 +11,6 @@ bond: Their dragons are siblings of the same clutch, and the beasts' own competi
   into the riders. What looks like knightly rivalry is partly a domestic argument conducted through ten
   tons of scales and fire — each rider half-convinced the other's dragon is the favorite of the bloodline.
 disposition: 42
+visual:
+  prompt: ''
 ---

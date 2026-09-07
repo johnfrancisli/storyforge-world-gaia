@@ -12,6 +12,7 @@ gm_notes: 'Haldur is a rune carver who cuts memorial stones — the standing sto
 aliases: []
 race: ''
 gender: ''
+age: 49
 heritage: ''
 social_station: ''
 role: Rune Carver / Stone Carver
@@ -41,13 +42,13 @@ appearance: Quiet and precise, Haldur wears a stonecutter's leather apron and wo
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 49
+visual:
   body_build: medium height, thick-armed from stone work
   hair: black, going iron-grey, worn short
   eyes: dark brown, steady and unreadable
   distinctive_features: stone-dust permanently embedded in the creases of his hands, a chip-scar on his
     right thumb from a slipped chisel
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:hra-rune-guild

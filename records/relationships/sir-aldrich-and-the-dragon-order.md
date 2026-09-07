@@ -9,4 +9,6 @@ bond: Aldrich is losing faith in the order's ability to resolve its own crisis. 
   would confirm the traditionalists' fears, but he is privately sympathetic to the reformers. His silence
   at council meetings is not loyalty — it is indecision.
 disposition: 40
+visual:
+  prompt: ''
 ---

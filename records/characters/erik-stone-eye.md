@@ -11,6 +11,7 @@ aliases:
 - 'Jarl Erik Stone-eye'
 race: ''
 gender: ''
+age: early thirties
 heritage: ''
 social_station: ''
 role: Jarl of the southern fjords
@@ -39,13 +40,13 @@ appearance: A young, handsome man in fine fur and iron, a throwing axe at his be
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: early thirties
+visual:
   body_build: lean, fit, athletic
   height: tall
   hair: blond, braided
   eyes: right eye blue, left eye pale and unseeing
   distinctive_features: a polished slate eyepatch over the left eye, a young jarl's silver arm-ring
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:hra-jarl-council

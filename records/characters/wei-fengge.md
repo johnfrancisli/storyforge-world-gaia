@@ -10,6 +10,7 @@ gm_notes: A calligrapher of extraordinary talent whose brushwork is said to carr
 aliases: []
 race: ''
 gender: ''
+age: 33
 heritage: ''
 social_station: ''
 role: Master calligrapher and unwitting chi-cultivator
@@ -37,14 +38,14 @@ appearance: Refined and expressive, wearing flowing Wei-state blue robes. Often 
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 33
+visual:
   body_build: willowy, with long expressive hands
   hair: long black, loosely pinned with a brush-rest stick
   eyes: bright and dark, intensely focused
   distinctive_features:
   - permanent ink callus on the right middle finger
   - a fading scar on the left palm from a childhood accident with a knife
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:wei-state

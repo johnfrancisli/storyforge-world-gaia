@@ -13,6 +13,7 @@ gm_notes: 'Selina is the midwife who has caught every baby born on Lani Atoll fo
 aliases: []
 race: ''
 gender: ''
+age: forty-eight
 heritage: ''
 social_station: ''
 role: Midwife
@@ -40,8 +41,7 @@ appearance: A calm, sure-handed woman with a healer's gentleness and an iron cor
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: forty-eight
+visual:
   body_build: solid, sure-handed, calm in bearing
   skin: warm brown
   hair: black, greying, braided and pinned up
@@ -49,6 +49,7 @@ visual_identity:
   distinctive_features: a woven birthing kit bag always at the shoulder, hands that radiate warmth — noticeably
     warmer than they should be, a faint humming that she does unconsciously in any room where someone
     is ill
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:tide-island-council

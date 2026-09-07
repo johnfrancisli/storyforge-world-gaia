@@ -11,6 +11,7 @@ gm_notes: A chi-cultivation nun who runs a small mountain monastery that is a re
 aliases: []
 race: ''
 gender: ''
+age: 39
 heritage: ''
 social_station: ''
 role: Chi-cultivation nun, war-ritual performer, and monastery protector
@@ -38,14 +39,14 @@ appearance: Calm and luminous, wearing simple white cultivation robes. Moves wit
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 39
+visual:
   body_build: slender and upright, cultivator's posture
   hair: black, cropped short in monastic style
   eyes: clear gray, serene with private strain
   distinctive_features:
   - cultivation calluses on both palms
   - a faint chi-glow around the hands visible in dim light
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:san-merchant-cartel

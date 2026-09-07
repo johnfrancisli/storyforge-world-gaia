@@ -13,6 +13,7 @@ gm_notes: Rina carves shell ornaments that are worn by every chief's family and 
 aliases: []
 race: ''
 gender: ''
+age: thirty-one
 heritage: ''
 social_station: ''
 role: Shell worker
@@ -40,14 +41,14 @@ appearance: A fine-featured, precise woman with shell-dust on her hands and a ca
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: thirty-one
+visual:
   body_build: slim, fine-featured, precise in movement
   skin: medium brown
   hair: black, worn short and neat
   eyes: grey-green, sharp and searching
   distinctive_features: shell-dust staining on both hands, a fine carving knife worn at the belt, a large
     spiraled shell of unknown origin always carried in a pouch — she never lets it out of arm's reach
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:tide-tattoo-guild

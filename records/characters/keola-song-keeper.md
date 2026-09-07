@@ -15,6 +15,7 @@ gm_notes: Keola is a song-keeper, one of the few who maintains the route-songs â
 aliases: []
 race: ''
 gender: ''
+age: thirty-one
 heritage: ''
 social_station: ''
 role: Song-keeper
@@ -42,8 +43,7 @@ appearance: A precise, clear-voiced woman with a song-keeper's trained memory an
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: thirty-one
+visual:
   body_build: slim, precise, clear-voiced
   skin: medium brown
   hair: black, worn in a song-keeper's braided style with shell pins
@@ -51,6 +51,7 @@ visual_identity:
   distinctive_features: tapa-books of chant notation carried under the arm, shell pins in the hair marking
     her as a song-keeper, a habit of silent lip movement â€” she is always rehearsing, a tension between
     precision and uncertainty that has grown over the past year
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:wayfinder-guilds

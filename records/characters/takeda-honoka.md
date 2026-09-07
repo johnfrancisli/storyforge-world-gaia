@@ -9,6 +9,7 @@ gm_notes: Honoka serves Daimyo Takeda (character:takeda-renji) as a vassal warri
 aliases: []
 race: ''
 gender: ''
+age: mid-twenties
 heritage: ''
 social_station: ''
 role: Female samurai (onna-bugeisha)
@@ -37,12 +38,12 @@ appearance: She wears practical armor over a dark blue kimono, her naginata rest
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: mid-twenties
+visual:
   body_build: athletic, broad-shouldered
   hair: black, pinned in a high topknot
   eyes: dark brown, narrow
   distinctive_features: a callus ridge across both palms from years of weapons training
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:takeda-clan

@@ -13,6 +13,7 @@ gm_notes: A male astrologer and Tara's (character:tara-al-nujum) former student,
 aliases: []
 race: ''
 gender: ''
+age: 34
 heritage: ''
 social_station: ''
 role: Astrologer, information broker
@@ -41,14 +42,14 @@ appearance: Smooth-faced and well-dressed in scholar's robes with too much silve
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 34
+visual:
   body_build: slender, precise
   hair: black, oiled, immaculately kept
   eyes: dark brown, sharp and restless
   distinctive_features:
   - a silver star earring in the left ear
   - ink stains on the right cuff from chart work
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:alk-scholar-circle

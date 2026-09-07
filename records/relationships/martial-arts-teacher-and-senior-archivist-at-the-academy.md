@@ -11,4 +11,6 @@ bond: Their friendship rests on a shared pacifist conviction that neither of the
   — Haichen teaches martial arts to prevent violence, and Shuyi preserves forbidden history so it is not
   repeated. They are each other's conscience, the one person who understands why they do what they do.
 disposition: 84
+visual:
+  prompt: ''
 ---

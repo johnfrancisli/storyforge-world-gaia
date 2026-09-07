@@ -12,6 +12,7 @@ gm_notes: 'Thora makes sails for every longship in Skaldvik — enormous panels 
 aliases: []
 race: ''
 gender: ''
+age: 47
 heritage: ''
 social_station: ''
 role: Sail Maker
@@ -41,13 +42,13 @@ appearance: Tall and rawboned, Thora works in a sail loft that smells of linen a
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 47
+visual:
   body_build: tall and long-limbed, rangy
   hair: light brown, thinning, worn under a linen cap
   eyes: grey, quick and detail-oriented
   distinctive_features: unusually smooth, pale hands for a Hrafnland craftswoman, a small callus on her
     right palm from sail-needle work
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:hra-shipwright-brotherhood

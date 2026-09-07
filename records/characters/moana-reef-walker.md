@@ -13,6 +13,7 @@ gm_notes: 'Moana fishes the shallow reefs at dawn every day and has done so for 
 aliases: []
 race: ''
 gender: ''
+age: forty-six
 heritage: ''
 social_station: ''
 role: Fisher
@@ -41,14 +42,14 @@ appearance: A stocky, weathered woman with salt-bleached hair and a fishing spea
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: forty-six
+visual:
   body_build: stocky, thick-legged, sure-footed
   skin: deep brown, heavily sun-weathered
   hair: black fading to grey-brown at the temples, short and practical
   eyes: dark brown, narrow against the sun
   distinctive_features: a healed reef-cut scar across the left foot, a woven palm hat worn at all times
     outdoors, a fishing spear callus on the right palm
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:wayfinder-guilds

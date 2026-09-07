@@ -13,6 +13,7 @@ gm_notes: 'A fortune teller in the Star Bazaar who reads futures in coffee groun
 aliases: []
 race: ''
 gender: ''
+age: 31
 heritage: ''
 social_station: ''
 role: Fortune teller, seer
@@ -41,14 +42,14 @@ appearance: Intense and restless in layered dark shawls, her hands always holdin
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 31
+visual:
   body_build: slender, restless
   hair: black, long, loose and untamed
   eyes: dark brown, intense and slightly unfocused
   distinctive_features:
   - ritual tattoos on the inner wrists — old fortune-teller markings
   - coffee-ground staining on the fingertips and palms
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:alk-city-guard

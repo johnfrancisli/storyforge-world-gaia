@@ -14,6 +14,7 @@ gm_notes: Lio is a pearl trader who travels between islands buying and selling p
 aliases: []
 race: ''
 gender: ''
+age: thirty-six
 heritage: ''
 social_station: ''
 role: Pearl trader
@@ -41,14 +42,14 @@ appearance: A sharp-eyed, quick-talking woman with a trader's confident manner a
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: thirty-six
+visual:
   body_build: sharp-eyed, quick-moving, compact
   skin: medium brown
   hair: black, worn in a trader's knot
   eyes: dark brown, sharp
   distinctive_features: a pearl pouch at the belt — always within hand's reach, a habit of holding pearls
     to her ear to listen, a trader's quick appraising glance that she turns on people as well as objects
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:tide-tattoo-guild

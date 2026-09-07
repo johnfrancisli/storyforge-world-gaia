@@ -11,6 +11,7 @@ gm_notes: 'Eira is a skald who carries the oral histories of Skaldvik in her mem
 aliases: []
 race: ''
 gender: ''
+age: 31
 heritage: ''
 social_station: ''
 role: Skald / Storyteller
@@ -40,13 +41,13 @@ appearance: Slender and quick-tongued, Eira wears a dark blue poet's robe embroi
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 31
+visual:
   body_build: slender and wiry, quick-moving
   hair: black, long, worn loose when performing, braided otherwise
   eyes: bright grey, alert and watchful
   distinctive_features: a poet's ink-mark on her right cheekbone (a small rune for 'voice'), a chipped
     left canine
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:hra-jarl-council

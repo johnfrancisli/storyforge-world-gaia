@@ -11,4 +11,6 @@ bond: Their rivalry began over a single contested manuscript — each read the s
   opposite conclusions about a suppressed rebellion. What started as scholarly pride has become genuine
   intellectual respect neither will voice, because conceding any point feels like conceding the war.
 disposition: 45
+visual:
+  prompt: ''
 ---

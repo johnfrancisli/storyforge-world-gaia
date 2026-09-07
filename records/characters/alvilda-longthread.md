@@ -13,6 +13,7 @@ gm_notes: 'Alvilda is a sail maker who works under Thora, learning the craft. He
 aliases: []
 race: Human
 gender: Female
+age: 19
 heritage: Northlander
 social_station: Apprentice
 role: Sail Maker (Apprentice)
@@ -52,14 +53,14 @@ key_phrases:
 - "Master Thora, what does this thread bind?"
 - "A sail must catch the wind, but the thread must hold the spirit."
 - "I only wanted to see how it was made."
-visual_identity:
-  age: 19
-  body_build: masterpiece, highly detailed, beautifully proportioned, fit, tall and lean, still filling out, aesthetic body
-  hair: red-gold, worn in a single braid, flowing, high quality texture
-  eyes: bright green, curious and quick, sparkling eyes, deep gaze, highly detailed eyes
+visual:
+  body_build: tall, lean, still filling out
+  hair: red-gold, worn in a single braid
+  eyes: bright green, curious and quick
   distinctive_features: a spray of freckles across nose and cheeks, a small callus on her right palm from
     the sail needle
-  face: beautiful face, gorgeous, extremely attractive, cute, symmetrical, masterpiece
+  face: cute, fresh-faced, symmetrical features
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:hra-volur-coven

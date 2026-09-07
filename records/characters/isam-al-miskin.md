@@ -13,6 +13,7 @@ gm_notes: A male beggar who sits at the gate of the high city and asks for alms 
 aliases: []
 race: ''
 gender: ''
+age: 56
 heritage: ''
 social_station: ''
 role: Beggar, former scribe, shadow intelligence network
@@ -41,14 +42,14 @@ appearance: Thin and hollow-eyed in ragged robes, he sits against the high city 
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 56
+visual:
   body_build: thin and gaunt from years of poverty
   hair: grey, uneven, unwashed
   eyes: dark brown, sharp and intelligent despite his appearance
   distinctive_features:
   - permanent ink stains on the right index and middle fingers — a scribe's legacy
   - a faded burn mark on the left palm where the al-Sayf family symbol was branded when he was dismissed
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:alk-scholar-circle

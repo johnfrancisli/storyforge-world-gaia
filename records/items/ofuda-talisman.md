@@ -10,4 +10,6 @@ description: The basic tool of shrine magic in Tsukuyomi. An ofuda carries a war
 item_tags:
 - magic
 - tsukuyomi
+visual:
+  prompt: ''
 ---

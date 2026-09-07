@@ -11,4 +11,6 @@ bond: Their crafts interlock — his carved wood holds her featherwork — and t
   into a friendship built on shared perfectionism. Each is the only other person who understands how long
   the other spends on a detail no one else will notice, and that recognition is its own kind of intimacy.
 disposition: 82
+visual:
+  prompt: ''
 ---

@@ -25,6 +25,8 @@ next_possible_moves:
 - Shaman Nara's river spirit delivers a fragment of a warning that mentions 'the deep place' and 'the
   old door,' phrases it has never used before.
 resolution: null
+visual:
+  prompt: ''
 ---
 
 In the Tide Archipelago, sea levels are rising. Islands are losing their shores. The voyagers are being pushed inward toward crowded volcanic islands. Wayfinder Kai has lost three routes this year and the sea spirits have gone silent when asked about the cause. In Verdania, Shaman Nara's river spirit has sent a warning it does not fully understand — and the two problems may be connected.

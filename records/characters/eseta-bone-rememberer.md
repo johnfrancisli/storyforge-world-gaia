@@ -13,6 +13,7 @@ gm_notes: Eseta is a bone carver who arrived as a refugee six months ago. She ca
 aliases: []
 race: ''
 gender: ''
+age: forty-four
 heritage: ''
 social_station: ''
 role: Refugee and bone carver
@@ -41,8 +42,7 @@ appearance: A quiet, skilled woman with bone dust on her hands and a heavy chest
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: forty-four
+visual:
   body_build: quiet, steady-handed, watchful
   skin: deep brown
   hair: black, greying, worn in a tight braid
@@ -50,6 +50,7 @@ visual_identity:
   distinctive_features: bone-dust staining on both hands, a locked wooden chest she keeps within sight
     at all times, bone-carving tools worn in a roll at the belt, a quality of treating every object she
     handles as if it were sacred
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:tide-refugee-council

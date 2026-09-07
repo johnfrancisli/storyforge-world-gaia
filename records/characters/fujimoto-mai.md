@@ -12,6 +12,7 @@ aliases:
 - 'Mai'
 race: ''
 gender: ''
+age: twenty
 heritage: ''
 social_station: ''
 role: Dancer and entertainer (maiko)
@@ -40,12 +41,12 @@ appearance: She wears a performing kimono in flowing layers of cherry-blossom pi
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: twenty
+visual:
   body_build: slender, lithe
   hair: black, long, worn in an elaborate dance style with floral kanzashi
   eyes: dark brown, expressive
   distinctive_features: a spray of pale freckles across the bridge of the nose, unusual for the region
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ashikara-shogunate

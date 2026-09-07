@@ -13,6 +13,7 @@ gm_notes: The eldest son of Tariq al-Sayf (character:tariq-al-sayf) and heir to 
 aliases: []
 race: ''
 gender: ''
+age: 28
 heritage: ''
 social_station: ''
 role: Binding family heir, secret alliance-former
@@ -41,14 +42,14 @@ appearance: Young and athletic in binding family robes with the al-Sayf sword si
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 28
+visual:
   body_build: athletic and tall
   hair: black, well-kept, worn loose
   eyes: dark brown, bright
   distinctive_features:
   - a dueling scar on the left jaw from a training accident
   - the al-Sayf sword sigil tattooed on the inside of the right wrist
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:binding-families

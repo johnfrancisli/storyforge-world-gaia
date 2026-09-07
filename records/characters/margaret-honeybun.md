@@ -10,6 +10,7 @@ gm_notes: Margaret is a baker whose son was conscripted into the kingdom's borde
 aliases: []
 race: ''
 gender: ''
+age: 47
 heritage: ''
 social_station: ''
 role: Baker
@@ -37,13 +38,13 @@ appearance: Plump and floury, Margaret wears a clean apron and keeps her hair in
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 47
+visual:
   body_build: round and comfortable
   hair: brown, greying, tight bun
   eyes: warm brown, red-rimmed from worrying
   distinctive_features: flour-dusted forearms, a burn mark on her left wrist (oven), deep worry lines
     on her forehead
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:dragon-order

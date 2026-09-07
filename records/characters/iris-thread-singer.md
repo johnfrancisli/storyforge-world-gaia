@@ -13,6 +13,7 @@ gm_notes: 'A cloth weaver who produces the fine cotton and bark-cloth garments w
 aliases: []
 race: ''
 gender: ''
+age: 30
 heritage: ''
 social_station: ''
 role: Cloth weaver and pattern-code keeper
@@ -40,14 +41,14 @@ appearance: Slender and focused, with ink-stained fingers from dye-work. Works a
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 30
+visual:
   body_build: slender and fine-boned, precise in movement
   hair: black, long, used to anchor the backstrap loom
   eyes: dark brown, focused and detail-oriented
   distinctive_features:
   - dye-stained fingertips in alternating bands of indigo and rust
   - a thread-thin scar across the left palm from a weaving-sword slip
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ver-hunter-clans

@@ -13,6 +13,7 @@ gm_notes: 'A human cook who runs the communal cooking fire of Iara and feeds the
 aliases: []
 race: ''
 gender: ''
+age: 38
 heritage: ''
 social_station: ''
 role: Communal cook and fire-tender
@@ -40,14 +41,14 @@ appearance: Round and jolly, with flour on his arms and a perpetual stain of smo
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 38
+visual:
   body_build: round and soft, strong-armed from stirring large pots
   hair: black, thick, tied back with a cloth
   eyes: warm brown, crinkled with practiced cheer
   distinctive_features:
   - a burn-scar patch on the right forearm from a cookfire accident
   - perpetual smudges of ash and spice on the hands and forearms
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ver-river-consortium

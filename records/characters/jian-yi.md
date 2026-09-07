@@ -11,6 +11,7 @@ aliases:
 - 'Monk Jian Yi'
 race: ''
 gender: ''
+age: sixties — moves like someone much younger
 heritage: ''
 social_station: ''
 role: Wandering chi monk
@@ -39,14 +40,14 @@ appearance: A thin, wiry man in faded grey robes, barefoot, with a bamboo staff.
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: sixties — moves like someone much younger
+visual:
   body_build: thin, wiry, deceptively strong
   skin: weathered, sun-tanned
   hair: bald, shaved
   eyes: dark brown, calm
   distinctive_features: barefoot in all weather, a circular burn-scar on the right palm from a chi cultivation
     injury
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:san-chi-sect

@@ -17,6 +17,7 @@ aliases:
 - 'Tamatoa Chief-Son'
 race: ''
 gender: ''
+age: twenty-eight
 heritage: ''
 social_station: ''
 role: Fisher and chief's son
@@ -44,8 +45,7 @@ appearance: An unremarkable, weathered man who blends into the docks. He has his
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: twenty-eight
+visual:
   body_build: compact, weathered, unremarkable
   skin: deep brown, sun-darkened
   hair: black, short, salt-stiffened
@@ -53,6 +53,7 @@ visual_identity:
   distinctive_features: a fisherman's weathered appearance that is deliberately unremarkable, old charts
     hidden in a waterproof roll in his canoe, a resemblance to Chief Lani that he does not acknowledge
     and most people do not notice
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:tide-fishing-coop

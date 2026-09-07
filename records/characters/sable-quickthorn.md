@@ -11,6 +11,7 @@ gm_notes: Sable is a bounty hunter and former soldier who deserted the kingdom's
 aliases: []
 race: ''
 gender: ''
+age: 28
 heritage: ''
 social_station: ''
 role: Bounty Hunter / Sellsword
@@ -39,13 +40,13 @@ appearance: Lean and hard-eyed, Sable wears worn leather armour and a dark cloak
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 28
+visual:
   body_build: lean and sinewy
   hair: black, short, uneven (cut with a knife)
   eyes: dark brown
   distinctive_features: a deserter's brand scratched off her left shoulder (the mark was burned in, then
     cut away — leaving a ragged scar), a knife scar on her right bicep, a chipped left canine
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:val-mages-circle

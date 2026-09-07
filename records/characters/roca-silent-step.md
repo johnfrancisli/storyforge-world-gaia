@@ -13,6 +13,7 @@ gm_notes: 'A human hunter who provides much of the meat for Iara and who is know
 aliases: []
 race: ''
 gender: ''
+age: 34
 heritage: ''
 social_station: ''
 role: Hunter and provider
@@ -40,14 +41,14 @@ appearance: Powerful and quiet, with a hunter's economy of movement. Wears minim
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 34
+visual:
   body_build: powerful and compact, built for stillness and explosive movement
   hair: black, shaved on the sides with a single topknot
   eyes: dark brown, steady and unblinking
   distinctive_features:
   - river-clay camouflage staining that never fully washes from the skin
   - a bowstring callus on the right index and middle fingers
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ver-hunter-clans

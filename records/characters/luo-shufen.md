@@ -11,6 +11,7 @@ gm_notes: A cook in the Great Academy's kitchens who has been feeding the Academ
 aliases: []
 race: ''
 gender: ''
+age: 63
 heritage: ''
 social_station: ''
 role: Academy cook and quiet protector
@@ -38,14 +39,14 @@ appearance: Round and flour-dusted, wearing a cook's apron and head wrap. Always
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 63
+visual:
   body_build: round and sturdy
   hair: white, under a cook's head wrap
   eyes: warm brown, crinkled and kind
   distinctive_features:
   - a cook's burn-scar on the right wrist
   - a small mole on the left jaw
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:great-academy

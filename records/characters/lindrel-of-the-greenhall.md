@@ -11,6 +11,7 @@ gm_notes: 'Lindrel is the last of the old elven forest-keepers of the Greenhall,
 aliases: []
 race: ''
 gender: ''
+age: two hundred and thirty — appears ageless, mature
 heritage: ''
 social_station: ''
 role: Elven forest-keeper, elder of the Greenhall
@@ -39,13 +40,13 @@ appearance: A tall, slender elf in forest-green robes, her hair silver-white and
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: two hundred and thirty — appears ageless, mature
+visual:
   body_build: tall, slender
   skin: pale, faintly luminous
   hair: silver-white, very long
   eyes: deep green
   distinctive_features: long sharply pointed ears, a staff of living wood that buds in season
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:dragon-order

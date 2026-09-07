@@ -10,6 +10,7 @@ gm_notes: A scholar at the Great Academy specializing in pre-war political philo
 aliases: []
 race: ''
 gender: ''
+age: 38
 heritage: ''
 social_station: ''
 role: Political philosopher and reformist scholar
@@ -37,14 +38,14 @@ appearance: Earnest and slightly rumpled, wearing Academy scholar's robes with i
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 38
+visual:
   body_build: medium and slightly soft from scholarly life
   hair: black, in a scholar's topknot, often loosening
   eyes: bright and earnest brown
   distinctive_features:
   - a scholar's ink-stain on the left jaw
   - a slight stoop from years at writing desks
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:great-academy

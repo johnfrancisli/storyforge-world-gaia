@@ -14,6 +14,7 @@ aliases:
 - 'Zel of the Temple'
 race: ''
 gender: ''
+age: 49
 heritage: ''
 social_station: ''
 role: Temple ruin guardian and warning-keeper
@@ -41,14 +42,14 @@ appearance: Lean and weather-beaten, with the focused stillness of someone who h
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 49
+visual:
   body_build: lean and weathered, pared down by years of solitude
   hair: grey-black, long, matted into rough dreadlocks
   eyes: dark brown, perpetually watchful, with a haunted quality
   distinctive_features:
   - warning-glyph tattoos on both forearms, faded and old
   - a rigid, braced posture as if resisting an invisible pull
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ver-shaman-circle

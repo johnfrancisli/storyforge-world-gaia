@@ -13,6 +13,7 @@ gm_notes: 'Isa bakes flatbread for the jarl''s household — the dense, long-kee
 aliases: []
 race: ''
 gender: ''
+age: 39
 heritage: ''
 social_station: ''
 role: Baker
@@ -42,13 +43,13 @@ appearance: Round and flour-dusted, Isa works at the bread-stone in the jarl's k
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 39
+visual:
   body_build: medium height, soft and strong-armed from kneading
   hair: light brown, worn under a baker's cap
   eyes: warm brown, gentle and crinkled
   distinctive_features: flour-dust permanently in the creases of her hands, a small burn-scar on her right
     wrist from the bread-stone
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:hra-volur-coven

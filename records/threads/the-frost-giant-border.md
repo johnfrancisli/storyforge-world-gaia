@@ -21,6 +21,8 @@ next_possible_moves:
 - A scout Sigrid sent into the deep mountains returns — the first to return — and will not speak about
   what he saw. He has gone white-haired and will not leave the mead hall.
 resolution: null
+visual:
+  prompt: ''
 ---
 
 In Hrafnland, Jarl Sigrid believes the frost giants of the deep mountains are preparing to expand southward. She has been quietly building a coalition of jarls who want to push the giants back. The Althing will not authorize action without proof, and proof requires scouting territory no scout has returned from. Her coalition is not as unified as she presents it.

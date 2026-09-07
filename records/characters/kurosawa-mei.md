@@ -13,6 +13,7 @@ aliases:
 - 'Mei'
 race: ''
 gender: ''
+age: late twenties
 heritage: ''
 social_station: ''
 role: Noh mask maker (men-shi)
@@ -41,12 +42,12 @@ appearance: She wears a carpenter's apron over a plain kimono, her hair tied bac
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: late twenties
+visual:
   body_build: slender, fine-boned
   hair: black, straight, tied back
   eyes: dark brown, intense and focused
   distinctive_features: a pale scar across the left thumb from a carving slip years ago
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:tsu-tea-schools

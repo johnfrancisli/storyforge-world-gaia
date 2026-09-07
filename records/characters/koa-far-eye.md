@@ -15,6 +15,7 @@ gm_notes: Koa is a scout who watches the southern approaches to the Archipelago 
 aliases: []
 race: ''
 gender: ''
+age: twenty-five
 heritage: ''
 social_station: ''
 role: Scout
@@ -42,8 +43,7 @@ appearance: A young, lean man with a scout's trained eyes and a watcher's patien
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: twenty-five
+visual:
   body_build: lean, sharp-eyed, patient
   skin: medium brown, sun-weathered
   hair: black, short, wind-tossed
@@ -51,6 +51,7 @@ visual_identity:
   distinctive_features: a scout's watchtower — he is almost always in it, a spyglass worn on a cord around
     the neck, a logbook of observations he keeps private, dark circles under the eyes from sleepless nights
     of watching the southern horizon
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:wayfinder-guilds

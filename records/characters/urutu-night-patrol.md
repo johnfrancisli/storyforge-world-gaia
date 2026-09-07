@@ -13,6 +13,7 @@ gm_notes: 'A jaguar beast-kin guard who patrols Iara''s perimeter at night and w
 aliases: []
 race: ''
 gender: ''
+age: 33
 heritage: ''
 social_station: ''
 role: Night-patrol guard
@@ -40,8 +41,7 @@ appearance: Large and heavily spotted, with a guard's watchful posture. Wears re
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 33
+visual:
   body_build: large and heavily muscled, built for presence and endurance
   hair: tawny-black with heavy rosette spotting from scalp to shoulders
   eyes: amber, vertical-pupiled, reflecting light in darkness
@@ -49,6 +49,7 @@ visual_identity:
   - heavy jaguar-spot rosette patterning across the entire body
   - a guard's tattoo — a circle with a line — on the right shoulder
   - elongated canines
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ver-shaman-circle

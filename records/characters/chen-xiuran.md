@@ -11,6 +11,7 @@ gm_notes: A herbalist who lives at the edge of the Wei mountains and gathers rar
 aliases: []
 race: ''
 gender: ''
+age: 34
 heritage: ''
 social_station: ''
 role: Wild herbalist and qilin-spirit intermediary
@@ -38,14 +39,14 @@ appearance: Wild-haired and forest-worn, wearing layered patched clothes and car
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 34
+visual:
   body_build: lean and weathered from mountain living
   hair: long, dark, and untamed
   eyes: green-brown, watchful
   distinctive_features:
   - mud-stained fingers with green herbal stains
   - a necklace of small animal bones and dried seed pods
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:san-strategist-circle

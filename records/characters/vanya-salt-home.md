@@ -14,6 +14,7 @@ gm_notes: Vanya arrived at Lani Atoll eight months ago with her three children a
 aliases: []
 race: ''
 gender: ''
+age: thirty-six
 heritage: ''
 social_station: ''
 role: Refugee and community organizer
@@ -41,14 +42,14 @@ appearance: A composed, watchful woman who carries herself with quiet authority.
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: thirty-six
+visual:
   body_build: slender, composed, watchful
   skin: medium brown
   hair: black, short, unkempt from the journey
   eyes: dark brown, guarded
   distinctive_features: a refugee's cloth wrap — clearly not her own, too large for her, a rope-mark on
     the left wrist from the canoe journey, three children always within arm's reach
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:tide-refugee-council

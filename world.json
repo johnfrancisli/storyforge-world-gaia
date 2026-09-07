@@ -83,9 +83,19 @@
     ],
     "_layer": "world, except entry_type_styles which is kit",
     "_status": "live",
-    "global_prompt": "painterly anime illustration, warm natural light, soft atmospheric depth, detailed backgrounds with foliage and architecture, muted earth palette with warm gold accents, visible brush texture, gentle color gradients, studio-quality lighting, attention to daily-life details, food and interiors rendered with care, no text, no watermark, no border",
-    "negative_prompt": "photorealistic, 3d render, dark grimdark palette, excessive gore, deformed hands, extra fingers, text overlays, watermark, signature, low detail background, flat shading",
-    "entry_type_styles": {}
+    "global_prompt": "masterpiece, best quality, very aesthetic,\nwatercolor \\(medium\\), traditional media, ink, ink lineart,\npainterly, semi-realistic,\nsketchy lineart, delicate lineart, variable line weight,\nloose brushwork, textured shading,\nwatercolor wash, soft shading, soft gradients,\nmuted colors, desaturated colors, restrained saturation,\nwarm palette, earthy colors,\nmatte colors,\nsoft lighting, diffused lighting,\natmospheric perspective, atmospheric haze,\nsoft background, painterly background,\nethereal, airy, elegant fantasy illustration",
+    "negative_prompt": "worst quality, low quality, lowres,\n3d, cgi, photorealistic, photo,\ncel shading, hard cel shading, flat coloring,\nvector art, thick lineart, uniform lineart,\nairbrush, overly smooth, overly polished,\nplastic skin, glossy skin, shiny skin,\nglossy leather, latex,\noversaturated, neon colors,\nbloom, lens flare, strong rim light,\ngame render, anime screencap, gacha illustration,\nborder, frame, text, watermark, logo, signature",
+    "entry_type_styles": {},
+    "generation": {},
+    "entry_type_settings": {},
+    "presets": [],
+    "default_templates": {
+      "characters": "character-portrait",
+      "locations": "location-establishing",
+      "items": "item-study",
+      "organizations": "organization-crest",
+      "relationships": "relationship-bond"
+    }
   },
   "calendar": {
     "_help": [

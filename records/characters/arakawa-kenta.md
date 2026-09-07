@@ -13,6 +13,7 @@ aliases:
 - 'Kenta'
 race: ''
 gender: ''
+age: twelve
 heritage: ''
 social_station: ''
 role: Child
@@ -41,12 +42,12 @@ appearance: He wears a plain boy's kimono with a cloth satchel slung across one 
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: twelve
+visual:
   body_build: lean, growing fast
   hair: black, cropped short
   eyes: dark brown, serious
   distinctive_features: a chipped left canine tooth
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ashikara-shogunate

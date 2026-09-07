@@ -17,6 +17,8 @@ locations:
 - location:ver-tidalreach-tidemoothall
 organizations:
 - org:ver-river-consortium
+visual:
+  prompt: ''
 ---
 
 Three boatloads of salt cured at the Salt Market of Tidal Reach have sickened inland trading partners, and the Saltwater Shrine's water-readers claim the brine itself has turned 'bitter' in the deep anchorage. Salt maker Suri Salt-Scales, who leads the trade journeys, stands to lose the season's entire profit and possibly the consortium's inland contracts. Fisher Toba Net-Caster insists the fish are still wholesome and that the bitterness is being added after the catch, not in the water. The Tide-Moot Hall has summoned both to answer, and the Anchorage fisher fleet is refusing to sail until the matter is settled.

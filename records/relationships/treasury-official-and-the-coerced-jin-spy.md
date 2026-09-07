@@ -12,4 +12,6 @@ bond: Shen Wuguang secretly funds an orphanage and discovered that Ai Gulan, the
   information to send back, shielding both her and the orphans. She does not know why he helps; he does
   not know whether trusting her will get him killed.
 disposition: 55
+visual:
+  prompt: ''
 ---

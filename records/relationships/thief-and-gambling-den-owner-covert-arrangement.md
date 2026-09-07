@@ -11,4 +11,6 @@ bond: The losses are theater. Rui fences what Kuro steals and feeds him targets 
   careless patrons. Each believes they are the one truly in control of the arrangement, and neither has
   noticed how easily it could collapse if either's price were met.
 disposition: 41
+visual:
+  prompt: ''
 ---

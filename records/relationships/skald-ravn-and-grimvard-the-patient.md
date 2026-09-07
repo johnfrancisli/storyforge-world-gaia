@@ -12,4 +12,6 @@ bond: Grimvard respects Ravn's skill as a poet — the poem is beautiful, it is 
   information about the deep mountains that no human scout has brought back. They are on the verge of
   a conversation that could change Hrafnland's understanding of the frost giants entirely.
 disposition: 15
+visual:
+  prompt: ''
 ---

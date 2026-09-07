@@ -11,4 +11,6 @@ bond: Amira finds the water; Ghada makes it bloom. Their partnership is the quie
   Hanging Gardens alive in a desert city, and the friendship has grown from years of shared, unglamorous
   labor before dawn. Neither seeks credit; both know the gardens would die without the other.
 disposition: 85
+visual:
+  prompt: ''
 ---

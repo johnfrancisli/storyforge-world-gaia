@@ -13,6 +13,7 @@ gm_notes: 'Hina is the most skilled pearl diver in the eastern reefs, capable of
 aliases: []
 race: ''
 gender: ''
+age: thirty-four
 heritage: ''
 social_station: ''
 role: Pearl diver
@@ -40,14 +41,14 @@ appearance: A lean, salt-darkened woman in minimal diving cloth, her hair bleach
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: thirty-four
+visual:
   body_build: lean, long-limbed, deep-chested
   skin: deep brown, sun-darkened and salt-roughened
   hair: copper-red, bleached by sun and salt, cropped to the jaw
   eyes: grey-green, the color of deep lagoon water
   distinctive_features: pearl-shell earrings carved from a single massive pearl, faint scarring on both
     earlobes from repeated pressure damage, a birthmark shaped like a wave on the left shoulder
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:tide-fishing-coop

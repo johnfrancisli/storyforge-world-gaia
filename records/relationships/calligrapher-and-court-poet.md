@@ -11,4 +11,6 @@ bond: Their partnership is artistic and personal — each believes the other's c
   and the collaboration is the deepest relationship in either of their lives, though neither has named
   it as such. They work in a companionable silence that the court has learned not to interrupt.
 disposition: 79
+visual:
+  prompt: ''
 ---

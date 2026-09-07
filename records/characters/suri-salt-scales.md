@@ -13,6 +13,7 @@ gm_notes: 'A serpent beast-kin salt maker who travels to the distant salt flats 
 aliases: []
 race: ''
 gender: ''
+age: 39
 heritage: ''
 social_station: ''
 role: Salt maker and trade-journey leader
@@ -40,8 +41,7 @@ appearance: Dust-pale and weathered from sun exposure, unusual for a serpent-kin
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 39
+visual:
   body_build: lean and long-limbed, built for distance travel
   hair: a crest of pale tan scales, sun-bleached
   eyes: pale gold, slit-pupiled, sun-squinted
@@ -49,6 +49,7 @@ visual_identity:
   - fine scales across the forehead and forearms, pale and salt-encrusted
   - a patch of roughened, salt-burned skin on the right hand
   - forked tongue
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ver-river-consortium

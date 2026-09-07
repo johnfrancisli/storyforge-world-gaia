@@ -11,4 +11,6 @@ bond: Cui Zhenbo knows a secret about a poisoning that Hua Suxin has been chasin
   the victim and altered the records to protect the poisoner, who is powerful. Hua Suxin suspects the
   records were tampered with but not by whom. Every professional interaction between them is a quiet interrogation.
 disposition: 22
+visual:
+  prompt: ''
 ---

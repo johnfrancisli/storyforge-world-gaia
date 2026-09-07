@@ -18,4 +18,6 @@ item_tags:
 - verdania
 - artifact
 - divination
+visual:
+  prompt: ''
 ---

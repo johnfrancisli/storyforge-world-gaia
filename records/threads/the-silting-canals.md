@@ -21,6 +21,8 @@ next_possible_moves:
 - General Lu Fang orders the canal workers conscripted into military labor, arguing that fortifying the
   Long Pass is more urgent than canal maintenance. Wen Li is not consulted.
 resolution: null
+visual:
+  prompt: ''
 ---
 
 Wen Li, the river-folk canal master in Jin'an, has been warning that the canal system feeding the city's grain supply is failing. Two years of ignored reports and diverted maintenance funds have brought the system to the edge. Wen Li is considering sabotage to force the court's attention.

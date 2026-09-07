@@ -12,4 +12,6 @@ bond: Thora is teaching her apprentice faster than is customary because her hand
   the truth but will not name it, afraid that saying it aloud will make Thora stop teaching out of pride.
   Each is trying to prepare the other for a transition neither will mention.
 disposition: 67
+visual:
+  prompt: ''
 ---

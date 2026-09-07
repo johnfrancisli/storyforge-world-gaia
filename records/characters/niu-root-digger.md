@@ -15,6 +15,7 @@ gm_notes: Niu is a farmer who cultivates taro, breadfruit, and coconut on one of
 aliases: []
 race: ''
 gender: ''
+age: thirty-seven
 heritage: ''
 social_station: ''
 role: Farmer
@@ -42,8 +43,7 @@ appearance: A sun-browned, earth-handed man with a farmer's steady patience and 
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: thirty-seven
+visual:
   body_build: strong-backed, earth-handed, sun-browned
   skin: deep brown
   hair: black, short, practical
@@ -51,6 +51,7 @@ visual_identity:
   distinctive_features: soil-stained hands with a farmer's calluses, a sealed stone pit near his fields
     that he checks daily, a worried quality behind his calm expression, a habit of testing soil with his
     fingers and frowning at the results
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:tide-fishing-coop

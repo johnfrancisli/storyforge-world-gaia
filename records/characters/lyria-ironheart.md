@@ -9,6 +9,7 @@ gm_notes: Secretly the illegitimate daughter of the late King Aldric and a black
 aliases: []
 race: ''
 gender: ''
+age: 24
 heritage: ''
 social_station: ''
 role: Blacksmith
@@ -37,12 +38,12 @@ appearance: Broad-shouldered and soot-stained, with calloused hands and a perman
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 24
+visual:
   body_build: stocky and muscular
   hair: dark brown, thick, worn tied back
   eyes: stormy grey
   distinctive_features: burn scar on left forearm, exceptionally large and calloused hands for her frame
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:val-merchant-guild

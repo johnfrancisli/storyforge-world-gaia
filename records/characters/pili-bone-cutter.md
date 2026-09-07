@@ -15,6 +15,7 @@ gm_notes: Pili is a bone carver who creates tools, fishhooks, and ornaments from
 aliases: []
 race: ''
 gender: ''
+age: thirty-five
 heritage: ''
 social_station: ''
 role: Bone carver
@@ -42,8 +43,7 @@ appearance: A lean, quiet man with bone dust on her hands and a carver's careful
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: thirty-five
+visual:
   body_build: lean, quiet, careful
   skin: medium brown
   hair: black, short, neat
@@ -51,6 +51,7 @@ visual_identity:
   distinctive_features: bone dust permanently staining both hands, a set of carved bone hooks kept in
     a woven pouch — each one different, a quiet intensity that makes people lower their voices around
     her, a bone fishhook worn on a cord around the neck — her first successful catch-hook
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:tide-tattoo-guild

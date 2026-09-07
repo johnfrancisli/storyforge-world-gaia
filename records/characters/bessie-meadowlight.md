@@ -9,6 +9,7 @@ gm_notes: Bessie is an elderly halfling farmer who has been quietly sheltering a
 aliases: []
 race: ''
 gender: ''
+age: 68
 heritage: ''
 social_station: ''
 role: Farmer
@@ -36,12 +37,12 @@ appearance: Round and weathered, Bessie wears a patched dress and a sunhat. She 
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 68
+visual:
   body_build: short and round, halfling stature
   hair: white, thin, pinned in a bun under a hat
   eyes: bright blue
   distinctive_features: deep laugh lines, a missing right thumb (harvesting accident in her youth)
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:val-mages-circle

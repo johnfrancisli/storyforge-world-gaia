@@ -11,6 +11,7 @@ gm_notes: 'Sten is a smith who works alongside Ragna, sharing a forge. His secre
 aliases: []
 race: ''
 gender: ''
+age: 54
 heritage: ''
 social_station: ''
 role: Smith
@@ -39,13 +40,13 @@ appearance: Compact and soot-blackened, Sten works the bellows and the anvil wit
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 54
+visual:
   body_build: compact and barrel-chested, powerful for his height
   hair: iron grey, tied back, singed at the tips
   eyes: brown, calm and watchful
   distinctive_features: a forge-burn scar across the back of his left hand, a missing tip of his right
     index finger (chisel-slip, early in his career)
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:hra-rune-guild

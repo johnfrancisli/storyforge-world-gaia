@@ -12,6 +12,7 @@ gm_notes: 'Torsten is a trader who specializes in luxury goods — silk, spices,
 aliases: []
 race: ''
 gender: ''
+age: 34
 heritage: ''
 social_station: ''
 role: Trader
@@ -41,13 +42,13 @@ appearance: Well-groomed and smooth-talking, Torsten wears a good wool coat trim
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 34
+visual:
   body_build: medium height, trim and well-fed
   hair: brown, worn neatly trimmed
   eyes: grey, warm on the surface, calculating underneath
   distinctive_features: a merchant's tattoo of a coin-ship on his right forearm, a small scar on his left
     cheekbone (a knife fight in a southern port, years ago)
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:hra-rune-guild

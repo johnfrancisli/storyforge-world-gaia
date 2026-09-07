@@ -17,4 +17,6 @@ item_tags:
 - tsukuyomi
 - weapon
 - legendary
+visual:
+  prompt: ''
 ---

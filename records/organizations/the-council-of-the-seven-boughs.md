@@ -8,6 +8,8 @@ holdings:
 - location:ver-altacanopy-canopysevenhall
 - location:iara-chiefsfloat
 - location:ver-tidalreach-tidemoothall
+visual:
+  prompt: ''
 ---
 
 The inter-tribal high council of chiefs and elders that gathers in the Seven Boughs Hall to settle disputes and ratify spirit-pacts, with Chief Oron of Iara, the elder council member Sol Many-Seasons, and the genealogy keeper Aja Bone-Remember holding its oldest seats. The council's authority runs only as far as the chiefs will obey, and as the river-traders grow rich and the shamans lose their hold on the spirits, the canopy tribes fracture between modernizers and traditionalists. The council wants to hold the tribes together and prevent open war between the canopy, the river-folk, and the temple guardians.

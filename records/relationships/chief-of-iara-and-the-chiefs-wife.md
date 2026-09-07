@@ -12,4 +12,6 @@ bond: 'Their partnership is the marriage of two complementary powers — his is 
   to the alarm of outsiders, but it is the disagreement of two people who have already agreed on the one
   thing that matters: the people come first.'
 disposition: 79
+visual:
+  prompt: ''
 ---

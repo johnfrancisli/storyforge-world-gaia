@@ -12,4 +12,6 @@ bond: Sigrid thinks Erik is naive about the giants. Erik thinks Sigrid is using 
   goes public, Erik's position collapses and Sigrid wins — which is why Sigrid has been sitting on the
   information.
 disposition: -30
+visual:
+  prompt: ''
 ---

@@ -12,6 +12,7 @@ gm_notes: 'An otter beast-kin scout who patrols the river tributaries and report
 aliases: []
 race: ''
 gender: ''
+age: 23
 heritage: ''
 social_station: ''
 role: River scout and perimeter watcher
@@ -39,8 +40,7 @@ appearance: Compact and glossy-furred, perpetually damp. Wears nothing but a bel
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 23
+visual:
   body_build: sleek and compact, powerful swimmer's build
   hair: short dense brown fur covering the head and body
   eyes: dark, bright, round
@@ -48,6 +48,7 @@ visual_identity:
   - fine brown fur across the entire body, thicker along the spine
   - webbed fingers and toes with short claws
   - small rounded ears set low on the head
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ver-shaman-circle

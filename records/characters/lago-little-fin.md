@@ -13,6 +13,7 @@ gm_notes: 'An eight-year-old Mizuhito boy who is one of the four river-born chil
 aliases: []
 race: ''
 gender: ''
+age: 8
 heritage: ''
 social_station: ''
 role: Child and river-born
@@ -40,8 +41,7 @@ appearance: Small and sleek, perpetually damp. Always near the water's edge. Car
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 8
+visual:
   body_build: small and slight, still growing
   hair: dark blue-green, fine, clinging to the skull
   eyes: pale aquamarine, wide and untroubled
@@ -49,6 +49,7 @@ visual_identity:
   - blue-green skin with faint mottling
   - webbed fingers and toes, still developing
   - incipient gill-slits along the ribcage, more pronounced than typical Mizuhito children
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ver-shaman-circle

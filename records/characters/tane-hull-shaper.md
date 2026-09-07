@@ -14,6 +14,7 @@ gm_notes: 'Tane is the master canoe builder of Lani Atoll, and his voyaging cano
 aliases: []
 race: ''
 gender: ''
+age: forty-three
 heritage: ''
 social_station: ''
 role: Canoe builder
@@ -41,8 +42,7 @@ appearance: A broad, strong-handed man with wood shavings in his hair and sawdus
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: forty-three
+visual:
   body_build: broad, strong-armed, powerful
   skin: deep brown, wood-stained
   hair: black, short, full of shavings
@@ -50,6 +50,7 @@ visual_identity:
   distinctive_features: wood shavings always in the hair and on the shoulders, calloused hands with a
     woodworker's grip, a hidden cove he visits every day without explanation, dark intensity that has
     grown over the past six months
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:wayfinder-guilds

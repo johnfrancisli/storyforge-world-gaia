@@ -13,6 +13,7 @@ gm_notes: 'A male caravan guard captain who has protected spice caravans across 
 aliases: []
 race: ''
 gender: ''
+age: 44
 heritage: ''
 social_station: ''
 role: Caravan guard captain, unwitting djinn agent
@@ -41,14 +42,14 @@ appearance: Battle-worn and watchful in desert travel clothes and a guard's leat
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 44
+visual:
   body_build: tall and battle-scarred, muscular
   hair: black, grey at the temples, under a wrapping scarf
   eyes: dark brown, vigilant
   distinctive_features:
   - a curved scar from a blade across the left cheek
   - a missing left earlobe from a desert skirmish
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:binding-families

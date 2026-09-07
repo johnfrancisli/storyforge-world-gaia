@@ -12,4 +12,6 @@ bond: 'The tattoos Mana carves encode the star paths in a language only wayfinde
   The reason is private: her hands are stiffening with age, and she needs someone who can both navigate
   and inscribe to carry the routes forward.'
 disposition: 72
+visual:
+  prompt: ''
 ---

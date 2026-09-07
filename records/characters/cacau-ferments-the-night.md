@@ -13,6 +13,7 @@ gm_notes: 'A fermenter and cook whose cassava beer, fruit wines, and fermented p
 aliases: []
 race: ''
 gender: ''
+age: 47
 heritage: ''
 social_station: ''
 role: Fermenter, cook, and dream-wine maker
@@ -40,14 +41,14 @@ appearance: Round and floury, perpetually warm-smelling. Wears an apron stained 
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 47
+visual:
   body_build: round and solid, strong-armed from stirring vats
   hair: black, streaked with grey, tied under a cloth wrap
   eyes: warm brown, crinkled from smiling
   distinctive_features:
   - fermentation-stain discoloration across both palms
   - a burn scar on the left forearm from a vat accident
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ver-shaman-circle

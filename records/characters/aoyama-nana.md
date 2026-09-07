@@ -11,6 +11,7 @@ aliases:
 - 'Nana'
 race: ''
 gender: ''
+age: late fifties
 heritage: ''
 social_station: ''
 role: Herbalist and healer
@@ -39,13 +40,13 @@ appearance: She wears a plain brown kimono with deep pockets full of dried herbs
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: late fifties
+visual:
   body_build: weathered, wiry
   hair: iron grey, thick, braided and coiled
   eyes: dark brown, crow's feet at the corners
   distinctive_features: a network of faint scars across both hands from decades of working with thorny
     and caustic plants
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ashikara-shogunate

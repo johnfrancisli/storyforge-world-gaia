@@ -11,4 +11,6 @@ bond: They have crewed the same boat for more seasons than either can count, and
   kind forged in shared danger — each has hauled the other out of the black water. Neither speaks of it;
   in Hrafnland, that is how you say I would die for you.
 disposition: 88
+visual:
+  prompt: ''
 ---

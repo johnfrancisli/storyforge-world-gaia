@@ -12,6 +12,7 @@ aliases:
 - 'Ume'
 race: ''
 gender: ''
+age: nineteen
 heritage: ''
 social_station: ''
 role: Stable hand (umakata)
@@ -40,12 +41,12 @@ appearance: She wears rough work clothes and high wooden clogs to keep out of th
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: nineteen
+visual:
   body_build: sturdy, short
   hair: black, tied under a cloth cap
   eyes: dark brown, observant
   distinctive_features: a crooked nose from being kicked by a horse at fourteen
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:tsu-tea-schools

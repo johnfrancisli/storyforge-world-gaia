@@ -9,6 +9,8 @@ holdings:
 - location:ver-altacanopy-spiritnest
 - location:ver-cascadeexchange-mistshrine
 - location:ver-templeruins-spiritgate
+visual:
+  prompt: ''
 ---
 
 The circle of shamans and spirit-pact keepers who mediate between the tribes and the spirit world, centered on the Still Water Lodge at Iara, where elder shaman Nara and the spirit-pact keeper Yara Moonflower train the heir Iuri Moonflower and the apprentice Tari. The elders hoard spirit-pact knowledge while apprentices are pressed into pacts before they are ready, and the old serpent and jaguar pacts are fraying as the forest itself changes. The circle wants to renew the ancient spirit-pacts and raise a worthy heir before the elder shamans die and the knowledge is lost.

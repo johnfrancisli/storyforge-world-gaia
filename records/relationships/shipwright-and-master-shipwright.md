@@ -11,4 +11,6 @@ bond: Bjorn trained Greta, and Greta now builds ships that some say outperform h
   is proud and stung in equal measure — he cannot decide whether his apprentice surpassing him is his
   triumph or his defeat. Greta respects him and will not say so, because to her it would sound like pity.
 disposition: 42
+visual:
+  prompt: ''
 ---

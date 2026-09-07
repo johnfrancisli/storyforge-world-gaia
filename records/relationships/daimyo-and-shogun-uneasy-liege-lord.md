@@ -11,4 +11,6 @@ bond: Takeda has grown privately disillusioned with the shogun's indecision and 
   the realm needs a steadier hand. He obeys outwardly but has begun quietly consolidating retainers, walking
   a razor's edge between loyal vassal and threat.
 disposition: 32
+visual:
+  prompt: ''
 ---

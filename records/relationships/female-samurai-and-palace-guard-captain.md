@@ -11,4 +11,6 @@ bond: They have been meeting in private for over a year, each serving masters wh
   are slowly diverging. The romance is genuine but laced with dread — each knows the day may come when
   their loyalties demand they stand on opposite sides of a courtyard, weapons drawn.
 disposition: 72
+visual:
+  prompt: ''
 ---

@@ -12,4 +12,6 @@ bond: Ariki lost his atoll and his authority with it, and Vanya has become the v
   the leadership of a people with no land, and it rests on a shared refusal to let their community dissolve
   into the archipelago's margins.
 disposition: 78
+visual:
+  prompt: ''
 ---

@@ -9,6 +9,7 @@ gm_notes: Maggie's inn is the Greywood's informal post office. Messages pass thr
 aliases: []
 race: ''
 gender: ''
+age: early fifties
 heritage: ''
 social_station: ''
 role: Innkeeper
@@ -37,14 +38,14 @@ appearance: A small, round halfling woman in a flour-dusted apron, her curly hai
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: early fifties
+visual:
   body_build: small, round
   height: short — halfling
   hair: brown, curly, greying, tied back
   eyes: hazel
   distinctive_features: a flour dusting that never quite leaves her apron, laugh lines deep around the
     eyes
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:val-merchant-guild

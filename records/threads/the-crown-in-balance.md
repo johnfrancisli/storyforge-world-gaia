@@ -24,6 +24,8 @@ next_possible_moves:
 - Elara's reformist researchers achieve a partial resonance from a dragonbone artifact — the first proof
   that an artificial bond might be possible — and someone in her team talks.
 resolution: null
+visual:
+  prompt: ''
 ---
 
 King Aldran is dying and has not named an heir. Princess Elara backs the reformist faction and secret dragonbone research. Prince Roderick commands the military and is secretly courting the bandit lord Garrick as a deniable asset. The youngest, Tomas, is unaligned. The court is a cold war of positioning, and the king is running out of time.

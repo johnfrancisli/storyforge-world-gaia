@@ -11,6 +11,7 @@ gm_notes: A dancer in the Chu court who performs at state banquets and is the Ch
 aliases: []
 race: ''
 gender: ''
+age: 35
 heritage: ''
 social_station: ''
 role: Court dancer and patient assassin-in-waiting
@@ -38,14 +39,14 @@ appearance: Luminous and expressive, wearing Chu-state performance silks of crim
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 35
+visual:
   body_build: lithe and flexible, dancer's physique
   hair: long black, worn in performance coils and cascades
   eyes: dark brown, expressive and depthless
   distinctive_features:
   - a dancer's callus on the balls of both feet
   - a tiny, faded scar on the left jaw from a childhood fall
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:chu-state

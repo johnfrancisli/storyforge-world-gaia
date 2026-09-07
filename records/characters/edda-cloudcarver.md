@@ -12,6 +12,7 @@ gm_notes: 'Edda is the eldest person in Skaldvik — old enough to remember stor
 aliases: []
 race: ''
 gender: ''
+age: 91
 heritage: ''
 social_station: ''
 role: Elder / Storyteller
@@ -41,13 +42,13 @@ appearance: Tiny and birdlike, Edda sits by the fire in a chair that is too larg
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 91
+visual:
   body_build: very small and frail, shrunken with age
   hair: pure white, thin, worn loose
   eyes: pale blue, milky but still sharp
   distinctive_features: deeply lined face, a pronounced stoop, a faded tattoo of a raven on her left hand
     (nearly invisible with age)
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:hra-rune-guild

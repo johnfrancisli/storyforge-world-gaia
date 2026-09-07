@@ -12,4 +12,6 @@ bond: Katsura is Tamamo's younger kinspirit, bound to the shrine by pact where T
   the shrine's protection, Tamamo believing Katsure has traded her wild soul for safety. They love each
   other fiercely and neither will admit it.
 disposition: 60
+visual:
+  prompt: ''
 ---

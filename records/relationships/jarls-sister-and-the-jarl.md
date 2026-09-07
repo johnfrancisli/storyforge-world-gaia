@@ -12,4 +12,6 @@ bond: Gerd chose the plow where Sigrid chose the hall, and each secretly envies 
   family the other had, and they fight with the same intensity, always about how best to protect the people
   they both refuse to lose.
 disposition: 67
+visual:
+  prompt: ''
 ---

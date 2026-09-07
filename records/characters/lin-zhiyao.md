@@ -9,6 +9,7 @@ gm_notes: Secretly the illegitimate daughter of the Jin warlord and a Wei court 
 aliases: []
 race: ''
 gender: ''
+age: 24
 heritage: ''
 social_station: ''
 role: Court musician and covert informant
@@ -36,14 +37,14 @@ appearance: Elegant and poised, always in layered silk of jade-green and ivory. 
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 24
+visual:
   body_build: slender and graceful
   hair: long black hair worn in elaborate court pins
   eyes: dark brown, almond-shaped
   distinctive_features:
   - a small crescent scar on the left wrist
   - a beauty mark beneath the right eye
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:jin-state

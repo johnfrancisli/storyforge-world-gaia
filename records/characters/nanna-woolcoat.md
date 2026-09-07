@@ -11,6 +11,7 @@ gm_notes: 'Nanna tends a flock of hardy mountain sheep on the high pastures abov
 aliases: []
 race: ''
 gender: ''
+age: 31
 heritage: ''
 social_station: ''
 role: Shepherd
@@ -40,13 +41,13 @@ appearance: Weather-worn and sharp-eyed, Nanna wears a thick wool coat (her name
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 31
+visual:
   body_build: lean and wiry, built for long days on the hill
   hair: dark brown, thick, worn in a single braid under a wool cap
   eyes: hazel, red-rimmed from sleeplessness
   distinctive_features: dark circles under both eyes (chronic), a sheep-dog bite scar on her right hand
     (training accident, years old)
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:hra-shipwright-brotherhood

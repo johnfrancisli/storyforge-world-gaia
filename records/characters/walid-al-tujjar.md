@@ -13,6 +13,7 @@ gm_notes: A male spice merchant who controls the pepper and clove trade through 
 aliases: []
 race: ''
 gender: ''
+age: 52
 heritage: ''
 social_station: ''
 role: Spice merchant, binding family informant
@@ -41,14 +42,14 @@ appearance: Round-faced and jovial in a merchant's fine robes, he is the picture
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 52
+visual:
   body_build: stout and round, prosperous
   hair: black, greying, oiled and well-kept
   eyes: dark brown, shrewd
   distinctive_features:
   - a merchant's signet ring on the right index finger
   - a wart on the left cheek
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:alk-city-guard

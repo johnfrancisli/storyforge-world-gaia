@@ -13,6 +13,7 @@ gm_notes: 'A human guide who knows paths through the rainforest that no map reco
 aliases: []
 race: ''
 gender: ''
+age: 48
 heritage: ''
 social_station: ''
 role: Rainforest guide and path-reader
@@ -40,14 +41,14 @@ appearance: Wiry and alert, with a guide's economy of movement. Wears light trav
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 48
+visual:
   body_build: wiry and lean, built for endurance hiking
   hair: black, greying, cut short and practical
   eyes: hazel, constantly scanning the ground
   distinctive_features:
   - deeply calloused, toughened soles from a lifetime of barefoot travel
   - a faded machete-scar across the left shin
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ver-river-consortium

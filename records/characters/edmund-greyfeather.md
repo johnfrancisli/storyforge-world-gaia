@@ -9,6 +9,7 @@ gm_notes: Edmund is a half-elf forester who patrols the King's Wood. He discover
 aliases: []
 race: ''
 gender: ''
+age: 35
 heritage: ''
 social_station: ''
 role: Forester
@@ -36,13 +37,13 @@ appearance: Lean and weathered, Edmund wears forest-green garb and a hooded cloa
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 35
+visual:
   body_build: lean and rangy
   hair: dark brown, shaggy
   eyes: green
   distinctive_features: slightly pointed ears (half-elf), a bowstring callus on his left fingers, a scar
     across his right palm from a trap wire
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:val-noble-council

@@ -12,4 +12,6 @@ bond: The competition is a long-running performance they both maintain to keep p
   the reason the riverfront district hasn't been bought out by outside interests — and neither wants that
   known.
 disposition: 76
+visual:
+  prompt: ''
 ---

@@ -18,4 +18,6 @@ item_tags:
 - cross-nation
 - relic
 - old-roads
+visual:
+  prompt: ''
 ---

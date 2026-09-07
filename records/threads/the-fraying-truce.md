@@ -22,6 +22,8 @@ next_possible_moves:
 - Chu's warlord Sun Liang receives a secret envoy from Wei proposing an alliance against Jin — and the
   envoy is intercepted by Jin scouts.
 resolution: null
+visual:
+  prompt: ''
 ---
 
 The three-year truce between Jin, Chu, and Wei is nearing its end. One border skirmish has already happened between Jin and Wei forces at the Long Pass. The younger officers at the Great Academy in Jin'an speak openly about ending the truce. Warlord Cao Shen is dying faster than anyone knows and wants reunification before he goes.

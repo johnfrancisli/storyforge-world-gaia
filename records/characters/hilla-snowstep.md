@@ -12,6 +12,7 @@ gm_notes: 'Hilla hunts the mountain forests above Skaldvik for deer, elk, and oc
 aliases: []
 race: ''
 gender: ''
+age: 29
 heritage: ''
 social_station: ''
 role: Hunter
@@ -40,13 +41,13 @@ appearance: Lean and snow-pale, Hilla wears white-fur camouflage over wool, a bo
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 29
+visual:
   body_build: lean and long-limbed, built for stalking and endurance
   hair: pale blonde, worn in a single tight braid
   eyes: pale green, sharp and steady
   distinctive_features: frost-scar on her right cheek, a crooked nose (broken and healed), a bow-callus
     on her left fingers
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:hra-jarl-council

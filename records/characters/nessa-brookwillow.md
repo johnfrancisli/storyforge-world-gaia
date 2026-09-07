@@ -9,6 +9,7 @@ gm_notes: Nessa is a young weaver whose loom produces tapestries of startling be
 aliases: []
 race: ''
 gender: ''
+age: 21
 heritage: ''
 social_station: ''
 role: Weaver
@@ -36,13 +37,13 @@ appearance: Fine-boned and shy, Nessa wears a simple dress with thread-snarls ca
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 21
+visual:
   body_build: petite and delicate
   hair: pale blonde, long, worn loose
   eyes: blue-grey
   distinctive_features: a thread-callus on her right index finger, a port-wine birthmark on her left shoulder
     blade
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:val-thieves-guild

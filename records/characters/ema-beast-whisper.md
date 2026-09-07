@@ -13,6 +13,7 @@ gm_notes: An animal trainer who works with the rainforest's creatures — capyba
 aliases: []
 race: ''
 gender: ''
+age: 33
 heritage: ''
 social_station: ''
 role: Animal trainer and messenger-bird handler
@@ -40,14 +41,14 @@ appearance: Stocky and earthy, always accompanied by animals. Wears practical hi
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 33
+visual:
   body_build: stocky and strong, built for handling large animals
   hair: black, thick, often feathered with bits of down from her birds
   eyes: brown, warm, with a distant quality
   distinctive_features:
   - a healed claw-scar across the bridge of the nose
   - a permanent faint twitch — her head turns toward things no one else can sense
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ver-shaman-circle

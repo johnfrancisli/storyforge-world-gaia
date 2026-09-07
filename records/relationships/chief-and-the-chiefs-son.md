@@ -12,4 +12,6 @@ bond: Lani is preparing Tamatoa to lead but worries he is too gentle for it — 
   falls to him, but would never shame her by saying so. Each is trying to protect the other from the truth
   about the future.
 disposition: 68
+visual:
+  prompt: ''
 ---

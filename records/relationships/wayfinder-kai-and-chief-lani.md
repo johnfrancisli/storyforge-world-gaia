@@ -12,4 +12,6 @@ bond: They are mother and son, and both know it, and neither says it in public. 
   is sailing toward something neither of them understands. Their private relationship is warm; their public
   one is careful.
 disposition: 80
+visual:
+  prompt: ''
 ---

@@ -12,4 +12,6 @@ bond: They are the two women between whom most of the fjords' sick pass, and the
   mercy in a place where mercy is scarce, and the community knows it even if the two women never say it
   of themselves.
 disposition: 80
+visual:
+  prompt: ''
 ---

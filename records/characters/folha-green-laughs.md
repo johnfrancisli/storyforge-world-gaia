@@ -12,6 +12,7 @@ gm_notes: 'A ten-year-old human girl who is the happiest child in Iara and who h
 aliases: []
 race: ''
 gender: ''
+age: 10
 heritage: ''
 social_station: ''
 role: Child and unknowing spirit-host
@@ -39,14 +40,14 @@ appearance: Small, bright-eyed, and constantly in motion. Barefoot, simple wrap,
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 10
+visual:
   body_build: small and wiry, all elbows and knees
   hair: black, wild, untamed
   eyes: bright brown, wide with curiosity
   distinctive_features:
   - a gap-toothed smile
   - faint, unexplained bruising on both forearms
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ver-shaman-circle

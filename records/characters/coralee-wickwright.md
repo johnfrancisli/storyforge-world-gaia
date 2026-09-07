@@ -10,6 +10,7 @@ gm_notes: Coralee is a chandler (candle-maker) whose husband, a city watchman, d
 aliases: []
 race: ''
 gender: ''
+age: 34
 heritage: ''
 social_station: ''
 role: Candle Maker / Chandler
@@ -37,13 +38,13 @@ appearance: Practical and composed, Coralee wears a clean linen dress under a wa
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 34
+visual:
   body_build: medium height, sturdy
   hair: chestnut brown, pinned up under a kerchief
   eyes: grey-green
   distinctive_features: a small wax burn on her right wrist, faint laugh lines around her eyes despite
     her worry
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:val-merchant-guild

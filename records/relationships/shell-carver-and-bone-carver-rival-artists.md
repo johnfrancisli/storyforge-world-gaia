@@ -12,4 +12,6 @@ bond: They are the two finest carvers of the archipelago, working in different m
   same master who chose neither as successor, and each has spent the years since trying to prove the dead
   master wrong.
 disposition: 24
+visual:
+  prompt: ''
 ---

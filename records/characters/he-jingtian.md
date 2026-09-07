@@ -11,6 +11,7 @@ gm_notes: A Wei scholar-strategist who authored the Wei warlord's most successfu
 aliases: []
 race: ''
 gender: ''
+age: 52
 heritage: ''
 social_station: ''
 role: Wei strategist and potential defector
@@ -38,14 +39,14 @@ appearance: Dignified and somber, wearing Wei-state scholar's robes of deep blue
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 52
+visual:
   body_build: tall and upright, slightly gaunt
   hair: black heavily streaked with gray, in a formal scholar's topknot
   eyes: deep-set black, heavy with thought
   distinctive_features:
   - a scholar's ink-stain on the right forefinger
   - a thin, old scar on the left brow from a riding accident
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:wei-state

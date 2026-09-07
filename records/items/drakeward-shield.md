@@ -17,4 +17,6 @@ item_tags:
 - valdris
 - weapon
 - dragon-bond
+visual:
+  prompt: ''
 ---

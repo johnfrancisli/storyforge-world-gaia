@@ -11,6 +11,7 @@ gm_notes: Calla is a halfling innkeeper in a village along the main road between
 aliases: []
 race: ''
 gender: ''
+age: 45
 heritage: ''
 social_station: ''
 role: Innkeeper
@@ -38,13 +39,13 @@ appearance: Cheerful and round, Calla wears a clean apron and keeps her hair in 
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 45
+visual:
   body_build: short and round, halfling stature
   hair: greying brown, under a kerchief
   eyes: warm hazel
   distinctive_features: a burn scar on her left hand (kitchen accident), laugh lines deep enough to be
     visible across a room, a small gold hoop in her left ear
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:val-merchant-guild

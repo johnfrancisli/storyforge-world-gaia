@@ -13,6 +13,7 @@ gm_notes: Goki is an oni — a demon of mountain and rage — who was sealed by 
 aliases: []
 race: ''
 gender: ''
+age: ancient — appears mid-forties in human terms
 heritage: ''
 social_station: ''
 role: Reformed oni (mountain demon)
@@ -41,12 +42,12 @@ appearance: He wears rough homespun clothes far too small for his frame, his ski
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: ancient — appears mid-forties in human terms
+visual:
   body_build: massive, towering, boulder-like
   hair: black, coarse, wild
   eyes: amber, single-horn protruding from the forehead (usually hidden under a hat)
   distinctive_features: iron-grey skin, a single oni horn at the brow, tusks visible when he speaks
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ashikara-shogunate

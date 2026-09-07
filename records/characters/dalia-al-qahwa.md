@@ -13,6 +13,7 @@ gm_notes: 'The owner of The Amber Lamp, the oldest coffee house in Zaffar, where
 aliases: []
 race: ''
 gender: ''
+age: 53
 heritage: ''
 social_station: ''
 role: Coffee house owner, keeper of the neutrality tradition
@@ -41,14 +42,14 @@ appearance: Dignified and welcoming in a long apron over dark robes, she moves b
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 53
+visual:
   body_build: tall and stately
   hair: silver-black, pinned under a dark headscarf
   eyes: dark brown, warm and shrewd
   distinctive_features:
   - a coffee-stain birthmark on the left palm
   - a thin gold chain around the neck with a tiny lamp charm
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:alk-spice-houses

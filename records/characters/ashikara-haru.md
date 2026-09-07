@@ -13,6 +13,7 @@ aliases:
 - 'Prince Ashikara Haru'
 race: ''
 gender: ''
+age: seventeen
 heritage: ''
 social_station: ''
 role: Prince of the Ashikara shogunate
@@ -41,12 +42,12 @@ appearance: He wears a youth's court kimono in pale blue, well-kept but not oste
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: seventeen
+visual:
   body_build: slender, still growing
   hair: black, in a young man's topknot
   eyes: dark brown, earnest
   distinctive_features: a faint childhood scar on the chin from falling out of a persimmon tree
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ashikara-shogunate

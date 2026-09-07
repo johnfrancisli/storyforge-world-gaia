@@ -9,6 +9,7 @@ gm_notes: The Guide is not a god. They are a remnant of whatever built the Old R
 aliases: []
 race: ''
 gender: ''
+age: indeterminate — old but not frail
 heritage: ''
 social_station: ''
 role: Guide of the Heavenly Realm
@@ -36,11 +37,11 @@ appearance: Ageless and calm, dressed in simple undyed robes that could belong t
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: indeterminate — old but not frail
+visual:
   hair: grey, long, loosely tied
   eyes: dark, patient
   distinctive_features: a faint mark on the left palm, like an old scar in the shape of a road
+  prompt: ''
 portrait_variations: []
 affiliations: []
 desires:

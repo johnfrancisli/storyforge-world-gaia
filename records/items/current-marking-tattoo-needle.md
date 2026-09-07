@@ -19,4 +19,6 @@ item_tags:
 - tide-archipelago
 - tool
 - wayfinding
+visual:
+  prompt: ''
 ---

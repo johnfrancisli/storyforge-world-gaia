@@ -13,6 +13,7 @@ gm_notes: A female camel herder who tends a herd of forty camels on the desert f
 aliases: []
 race: ''
 gender: ''
+age: 29
 heritage: ''
 social_station: ''
 role: Camel herder, djinn-harborer
@@ -41,14 +42,14 @@ appearance: Sun-darkened and strong in desert riding clothes, she moves among he
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 29
+visual:
   body_build: sturdy and strong-legged, desert-built
   hair: sandy brown, long, braided under a headscarf
   eyes: brown, warm but watchful
   distinctive_features:
   - a camel-bite scar on the left shoulder
   - a herder's brand on the right forearm — a stylized camel mark
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:binding-families

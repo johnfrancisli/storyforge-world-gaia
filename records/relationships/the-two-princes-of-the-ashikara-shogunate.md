@@ -12,4 +12,6 @@ bond: Renjiro, the elder, believes the succession should be his by right of birt
   with it. They smile in public and measure each other in private, each waiting for the other to move
   first.
 disposition: 28
+visual:
+  prompt: ''
 ---

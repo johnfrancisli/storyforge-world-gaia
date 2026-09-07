@@ -9,6 +9,7 @@ aliases:
 - 'Warlord Cao Shen'
 race: ''
 gender: ''
+age: mid-fifties
 heritage: ''
 social_station: ''
 role: Warlord of Jin
@@ -37,12 +38,12 @@ appearance: A lean man in dark robes, moving with the economy of a martial artis
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: mid-fifties
+visual:
   body_build: lean, wiry
   hair: black, greying, bound in a topknot
   eyes: dark brown, sharp
   distinctive_features: a thin scar along the jawline from an assassin's blade years ago
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:jin-state

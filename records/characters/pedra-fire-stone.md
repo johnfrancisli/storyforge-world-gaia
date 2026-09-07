@@ -14,6 +14,7 @@ gm_notes: 'A human potter who specializes in fire-resistant cooking vessels and 
 aliases: []
 race: ''
 gender: ''
+age: 39
 heritage: ''
 social_station: ''
 role: Potter and kiln-master
@@ -41,8 +42,7 @@ appearance: Broad and soot-darkened, with burn scars on his forearms. Works shir
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 39
+visual:
   body_build: broad and sturdy, heat-tolerant from kiln work
   hair: black, singed short, perpetually ash-dusted
   eyes: brown, curious and restless
@@ -50,6 +50,7 @@ visual_identity:
   - kiln-burn scarring on both forearms, layered and old
   - deep blue mineral staining on the fingers from glaze work
   - a permanent faint smokiness to his scent
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ver-river-consortium

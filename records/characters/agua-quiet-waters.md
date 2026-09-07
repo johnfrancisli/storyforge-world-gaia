@@ -13,6 +13,7 @@ gm_notes: A Mizuhito canoe maker who builds the vessels that carry the river-cit
 aliases: []
 race: Mizuhito
 gender: Female
+age: 43
 heritage: River-folk
 social_station: Artisan
 role: Canoe maker and spirit-binder
@@ -52,16 +53,16 @@ key_phrases:
 - "The river knows where it needs to go; the boat only has to listen."
 - "Every creation takes a piece of you."
 - "I just need to finish this one."
-visual_identity:
-  age: 43
-  body_build: masterpiece, highly detailed, beautifully proportioned, fit, medium and precise, aesthetic body
-  hair: dark blue-green, thinning, worn loose, flowing, luminous, high quality texture
-  eyes: pale aquamarine, tired, sparkling eyes, deep gaze, highly detailed eyes
+visual:
+  body_build: medium build
+  hair: dark blue-green, thinning, worn loose
+  eyes: pale aquamarine, tired
   distinctive_features:
   - pale blue-green skin, noticeably lighter than typical Mizuhito coloration
   - webbed fingers and toes
   - fine sawdust and wood-chip scarring on both hands from adze work
-  face: beautiful face, gorgeous, extremely attractive, symmetrical, masterpiece
+  face: delicate features, fragile beauty
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ver-river-consortium

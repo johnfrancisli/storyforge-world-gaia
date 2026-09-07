@@ -11,6 +11,8 @@ resources:
 - ferry services
 - river shrine offerings
 - travel permits
+visual:
+  prompt: ''
 ---
 
 Where Sanyuan's three great bridges converge at the confluence point, Three Bridges Square is a plaza of worn flagstones surrounded by ferry houses, tea stalls, and the offices of the bridge-toll collectors. The square is perpetually crowded—farmers leading ox-carts, soldiers crossing between garrisons, merchants with porters hauling goods, and pilgrims stopping to make offerings at the small shrine to the river god at the square's center. The bridges themselves are engineering marvels: the Bridge of Joined Hands spans the Silver Serpent, the Bridge of White Wings crosses the White Crane, and the Bridge of Three Waters arches over the confluence itself, its central pier rising from the exact point where the two rivers merge. From the square, you can see all three districts of Sanyuan and hear the constant rush of water beneath the bridges.

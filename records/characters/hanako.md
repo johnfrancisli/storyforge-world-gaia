@@ -10,6 +10,7 @@ gm_notes: Hanako's tea house is a neutral meeting ground where clan agents, merc
 aliases: []
 race: ''
 gender: ''
+age: mid-forties
 heritage: ''
 social_station: ''
 role: Tea house owner
@@ -38,12 +39,12 @@ appearance: A round, warm woman in a cotton apron over a plain kimono, her sleev
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: mid-forties
+visual:
   body_build: round, comfortable
   hair: black, greying, pinned up with a wooden stick
   eyes: brown, warm
   distinctive_features: a splash of old burn scars on both forearms from years of kettle work
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:tsu-tea-schools

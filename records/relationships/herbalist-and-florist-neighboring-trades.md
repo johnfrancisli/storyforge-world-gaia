@@ -11,4 +11,6 @@ bond: 'They have an unspoken pact: Rin grows the beauty, Nana grows the medicine
   tend a private garden plot no one else knows of, where they''ve planted seeds from their grandmothers''
   generation — living memory of a time before the shogunate''s roads reached this far.'
 disposition: 80
+visual:
+  prompt: ''
 ---

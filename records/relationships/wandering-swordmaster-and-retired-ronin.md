@@ -11,4 +11,6 @@ bond: Soji sees in Jiro a swordsman who stopped growing before he reached his po
   others so long he forgot his own blade. The tengu is trying to reawaken that instinct before Jiro's
   body fails him entirely. Jiro suspects Soji is preparing him for one final, necessary cut.
 disposition: 64
+visual:
+  prompt: ''
 ---

@@ -12,6 +12,7 @@ gm_notes: 'Yrsa is a volva — a seeress who walks between worlds in trance. She
 aliases: []
 race: ''
 gender: ''
+age: 63
 heritage: ''
 social_station: ''
 role: Volva / Rune Reader / Seer
@@ -41,13 +42,13 @@ appearance: Gaunt and draped in layers of dark wool and reindeer fur, Yrsa moves
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 63
+visual:
   body_build: thin and angular, weathered by decades of trance-cold
   hair: white, long, loose and uncombed
   eyes: pale grey, often unfocused
   distinctive_features: seidr-ritual scars in concentric rings on both inner wrists, a missing left eye
     (empty socket covered by a patch of dark leather)
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:hra-volur-coven

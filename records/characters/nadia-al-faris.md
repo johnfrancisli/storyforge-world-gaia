@@ -12,6 +12,7 @@ gm_notes: Matriarch of the al-Faris binding family, one of the seven founding ho
 aliases: []
 race: ''
 gender: ''
+age: 62
 heritage: ''
 social_station: ''
 role: Binding family matriarch, Council of Binding Families
@@ -40,14 +41,14 @@ appearance: Regal and composed in dark indigo robes embroidered with the al-Fari
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 62
+visual:
   body_build: tall and upright, unbowed by age
   hair: silver-white, worn in a braided crown
   eyes: deep brown, sharp and watchful
   distinctive_features:
   - a thin scar across the throat from a childhood illness
   - the al-Faris lamp sigil tattooed on the inside of her left wrist
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:binding-families

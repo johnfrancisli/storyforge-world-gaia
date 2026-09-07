@@ -15,6 +15,7 @@ gm_notes: 'Yara Moonflower''s eighteen-year-old granddaughter, being groomed to 
 aliases: []
 race: ''
 gender: ''
+age: 18
 heritage: ''
 social_station: ''
 role: Shaman-in-training and pact-heir
@@ -43,8 +44,7 @@ appearance: Young and intense, with faint spotted patterning just emerging along
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 18
+visual:
   body_build: lithe and alert, built for both study and rainforest travel
   hair: tawny-black with emerging rosette patterning at the temples
   eyes: bright amber-gold, vertical pupils, unusually piercing
@@ -52,6 +52,7 @@ visual_identity:
   - faint jaguar-spot patterning emerging at the temples and jawline
   - a crescent-moon birthmark on the right palm, mirroring her grandmother's scar
   - incipient elongated canines
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ver-shaman-circle

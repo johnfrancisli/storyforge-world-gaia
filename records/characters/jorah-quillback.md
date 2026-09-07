@@ -9,6 +9,7 @@ gm_notes: Jorah is a scribe who works for the city magistrate, recording legal p
 aliases: []
 race: ''
 gender: ''
+age: 37
 heritage: ''
 social_station: ''
 role: Scribe
@@ -36,13 +37,13 @@ appearance: Thin and precise, Jorah wears an ink-spotted scholar's coat and carr
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 37
+visual:
   body_build: thin and angular
   hair: sandy brown, neatly combed
   eyes: grey
   distinctive_features: a callus on his right middle finger (quill), ink stain on his left cuff that never
     washes out, wire-rimmed spectacles
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:val-mages-circle

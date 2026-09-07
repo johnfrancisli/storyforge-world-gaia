@@ -11,6 +11,7 @@ gm_notes: 'Olaf is a whaler who works alongside Brita on the whaling crew. His s
 aliases: []
 race: ''
 gender: ''
+age: 44
 heritage: ''
 social_station: ''
 role: Whaler
@@ -39,13 +40,13 @@ appearance: Burly and oil-stained, Olaf wears a heavy coat reeking of blubber an
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 44
+visual:
   body_build: heavy and powerful, thick through the chest and arms
   hair: red-brown, thick, worn short
   eyes: blue, warm and crinkled at the corners
   distinctive_features: a whalebone replacement for two missing front teeth, a rope-scar encircling his
     left wrist
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:hra-shipwright-brotherhood

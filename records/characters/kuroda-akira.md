@@ -12,6 +12,7 @@ aliases:
 - 'Akira'
 race: ''
 gender: ''
+age: late fifties
 heritage: ''
 social_station: ''
 role: Scholar and tutor (jusha)
@@ -40,12 +41,12 @@ appearance: He wears a scholar's kimono in dark blue, a reading brush tucked in 
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: late fifties
+visual:
   body_build: medium, softening with age
   hair: grey, in a scholar's topknot
   eyes: dark brown, heavy-lidded, watchful
   distinctive_features: deep lines bracketing the mouth from a lifetime of careful expressions
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:tsu-tea-schools

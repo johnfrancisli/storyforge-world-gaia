@@ -11,4 +11,6 @@ bond: Zel guards the stones; Aja guards the names that went with them. Together 
   a people whose written record is sparse, and they spend long evenings matching Aja's oral lineages to
   the carvings Zel protects. Their shared fear is that when one of them dies, half the memory dies too.
 disposition: 83
+visual:
+  prompt: ''
 ---

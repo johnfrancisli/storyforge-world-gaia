@@ -13,6 +13,7 @@ aliases:
 - 'Tomi'
 race: ''
 gender: ''
+age: mid-thirties
 heritage: ''
 social_station: ''
 role: Servant and double agent
@@ -41,12 +42,12 @@ appearance: She wears a plain servant's kimono in muted grey, her hair in a simp
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: mid-thirties
+visual:
   body_build: slight, unremarkable
   hair: black, plain bun
   eyes: dark brown, downcast by habit
   distinctive_features: a small mole at the corner of the left eye
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:takeda-clan

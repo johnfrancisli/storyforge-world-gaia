@@ -12,6 +12,7 @@ gm_notes: 'The keeper of the Mirror Oasis, the waystation on the deep desert rou
 aliases: []
 race: ''
 gender: ''
+age: 55
 heritage: ''
 social_station: ''
 role: Oasis keeper, guardian of the Mirror Oasis
@@ -40,14 +41,14 @@ appearance: Sun-darkened and weathered in loose white cotton and a wide-brimmed 
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 55
+visual:
   body_build: lean and sinewy, desert-hardened
   hair: iron grey, cropped short for practicality
   eyes: pale brown, sun-squinted
   distinctive_features:
   - deep tan lines across the forehead from years of wearing a palm hat
   - a missing left little finger, lost to a desert viper bite years ago
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:alk-spice-houses

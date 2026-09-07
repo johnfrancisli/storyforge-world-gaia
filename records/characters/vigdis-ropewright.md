@@ -12,6 +12,7 @@ gm_notes: 'Vigdis makes rope — anchor rope, fishing line, rigging, and the hea
 aliases: []
 race: ''
 gender: ''
+age: 38
 heritage: ''
 social_station: ''
 role: Rope Maker
@@ -41,13 +42,13 @@ appearance: Strong-armed and sun-roughened, Vigdis works at the ropewalk in a le
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 38
+visual:
   body_build: medium height, powerful arms and shoulders
   hair: dark brown, cropped short
   eyes: warm hazel
   distinctive_features: rope-burn scars on both forearms in overlapping patterns, a missing tip of her
     right ring finger (caught in a winch)
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:hra-shipwright-brotherhood

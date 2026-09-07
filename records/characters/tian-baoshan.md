@@ -10,6 +10,7 @@ gm_notes: An iron mine foreman in the Wei mountains who discovered a vein of ore
 aliases: []
 race: ''
 gender: ''
+age: 47
 heritage: ''
 social_station: ''
 role: Iron mine foreman and secret qilin-iron dealer
@@ -36,14 +37,14 @@ appearance: Stocky and soot-stained, wearing heavy leather work clothes and a mi
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 47
+visual:
   body_build: thick and muscular, barrel-chested
   hair: shaved head, scarred from mine accidents
   eyes: deep-set brown, calculating
   distinctive_features:
   - a burn scar across the bridge of the nose
   - missing the left earlobe from a mining explosion
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:wei-state

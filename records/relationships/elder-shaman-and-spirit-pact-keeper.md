@@ -12,4 +12,6 @@ bond: They were apprentices to the same master and inherited opposing halves of 
   pact is incomplete without their own, and each is too proud to propose reuniting what their master deliberately
   split.
 disposition: 48
+visual:
+  prompt: ''
 ---

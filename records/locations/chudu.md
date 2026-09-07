@@ -13,6 +13,8 @@ resources:
 - river fish
 - jade
 - tea
+visual:
+  prompt: ''
 ---
 
 The opulent capital of the Chu state rises from the misted banks of the Silver Serpent River, a city of wealth and water where jade-roofed pavilions shimmer above canals thick with lotus and trading barges. The air hangs heavy with the perfume of jasmine and lamp oil, the tang of river mud, and the sweet smoke of incense drifting from a thousand ancestor shrines. Merchants from every corner of Gaia crowd the harbors haggling over silk, spice, and lacquerware while silk-clad officials glide through arched corridors reviewing tax scrolls. Banners of crimson and gold—colors of the Chu dragon—snap from every tower, and the ceaseless lap of water against stone steps provides the city's heartbeat. Chudu is a place where coin speaks louder than steel, and where the Chu warlord holds court surrounded by poets, spies, and creditors in equal measure.

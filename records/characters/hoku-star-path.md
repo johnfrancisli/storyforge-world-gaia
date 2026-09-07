@@ -15,6 +15,7 @@ gm_notes: Hoku is a veteran wayfinder, one of the most experienced in the guilds
 aliases: []
 race: ''
 gender: ''
+age: fifty-one
 heritage: ''
 social_station: ''
 role: Wayfinder (veteran navigator)
@@ -42,8 +43,7 @@ appearance: A weathered, quiet man with extensive wayfinder tattoos covering bot
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: fifty-one
+visual:
   body_build: lean, weathered, salt-roughened
   skin: deep brown, heavily weathered
   hair: black, greying, short and salt-stiffened
@@ -51,6 +51,7 @@ visual_identity:
   distinctive_features: wayfinder tattoos covering both arms, chest, and part of the neck — more routes
     than any active wayfinder, a weathered quality that speaks of decades at sea, a wayfinder's staff
     worn smooth by years of handling
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:wayfinder-guilds

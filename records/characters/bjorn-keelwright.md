@@ -12,6 +12,7 @@ gm_notes: 'Bjorn is a master shipwright who lays the keels — the first timber,
 aliases: []
 race: ''
 gender: ''
+age: 61
 heritage: ''
 social_station: ''
 role: Master Shipwright
@@ -41,13 +42,13 @@ appearance: Massive and grey-bearded, Bjorn works in the shipyard in a leather a
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 61
+visual:
   body_build: very tall and broad, thick through the shoulders and chest
   hair: grey, long beard braided with iron rings
   eyes: dark brown, deep-set and serious
   distinctive_features: a missing left earlobe (timber-splinter wound), deep calluses on both palms with
     permanently black-stained fingertips from oak tannin
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:hra-shipwright-brotherhood

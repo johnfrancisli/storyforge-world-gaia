@@ -10,6 +10,7 @@ gm_notes: 'Grimvard is not a warrior — he is a frost giant elder, a keeper of 
 aliases: []
 race: ''
 gender: ''
+age: ancient — frost giants live centuries
 heritage: ''
 social_station: ''
 role: Frost giant elder, emissary
@@ -38,13 +39,13 @@ appearance: A towering figure, grey-skinned and broad, wrapped in layers of whit
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: ancient — frost giants live centuries
+visual:
   body_build: massive, broad, twelve feet tall
   skin: grey, cold to look at
   hair: white, long, matted with frost
   eyes: pale blue, ancient
   distinctive_features: ritual scarring on both cheeks, frost crystals in the beard that never melt
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:hra-jarl-council

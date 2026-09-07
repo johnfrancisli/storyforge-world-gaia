@@ -13,6 +13,7 @@ gm_notes: 'Mere is the cook who feeds the great meeting house on Lani Atoll, and
 aliases: []
 race: ''
 gender: ''
+age: fifty
 heritage: ''
 social_station: ''
 role: Cook and food preserver
@@ -40,14 +41,14 @@ appearance: A broad, solid woman with flour-dusted hands and a permanent smell o
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: fifty
+visual:
   body_build: broad, solid, thick-armed
   skin: medium brown, smoke-darkened at the hands and forearms
   hair: black, greying, tied under a cloth wrap
   eyes: dark brown, watchful
   distinctive_features: smoke-darkened staining on both hands and forearms, a cloth wrap always worn over
     the hair, keys to the storehouse worn on a cord around the neck
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:wayfinder-guilds

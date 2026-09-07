@@ -11,6 +11,7 @@ gm_notes: Becka is a mead brewer and merchant who trades honey and mead across t
 aliases: []
 race: ''
 gender: ''
+age: 41
 heritage: ''
 social_station: ''
 role: Mead Brewer / Merchant
@@ -38,13 +39,13 @@ appearance: Vigorous and sharp-eyed, Becka wears a merchant's travelling dress w
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 41
+visual:
   body_build: sturdy and energetic
   hair: golden brown, thick, worn in a practical plait
   eyes: amber-brown
   distinctive_features: a honey-bee tattoo on her left shoulder (brewer's guild mark), a faint scar on
     her right lip (bee-sting allergy reaction from her youth), permanently honey-stained fingernails
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:val-merchant-guild

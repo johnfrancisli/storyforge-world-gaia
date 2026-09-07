@@ -15,6 +15,7 @@ gm_notes: Poto is an elder rope maker, the oldest in the Archipelago, and he has
 aliases: []
 race: ''
 gender: ''
+age: seventy-six
 heritage: ''
 social_station: ''
 role: Elder rope maker
@@ -42,8 +43,7 @@ appearance: A thin, weathered old man with rope-worker's hands that are still st
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: seventy-six
+visual:
   body_build: thin, weathered, steady-handed
   skin: deep brown, deeply lined
   hair: white, thin
@@ -51,6 +51,7 @@ visual_identity:
   distinctive_features: rope-worker's calluses that have hardened into permanent ridges on both hands,
     a coil of cord always in his lap, fingers that tie and untie complex knots absently, a quality of
     watchfulness toward the sea that goes beyond normal islander caution
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:tide-island-council

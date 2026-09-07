@@ -13,6 +13,7 @@ aliases:
 - 'Sho'
 race: ''
 gender: ''
+age: nineteen
 heritage: ''
 social_station: ''
 role: Sake brewer's apprentice (deshi)
@@ -41,12 +42,12 @@ appearance: He wears a brewery apron over a plain kimono, sleeves rolled to the 
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: nineteen
+visual:
   body_build: lean, energetic
   hair: black, messy, escaping a topknot
   eyes: dark brown, bright with curiosity
   distinctive_features: a sake-yeast rash along the jawline that comes and goes
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ashikara-shogunate

@@ -8,6 +8,7 @@ gm_notes: Sera was the secret lover of Prince Edran, who died under suspicious c
 aliases: []
 race: ''
 gender: ''
+age: 32
 heritage: ''
 social_station: ''
 role: Tavern Keeper
@@ -35,12 +36,12 @@ appearance: Auburn-haired and quick-smiling, Sera moves through the tavern with 
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 32
+visual:
   body_build: tall and wiry
   hair: auburn, shoulder-length, often braided
   eyes: hazel
   distinctive_features: a faint scar on her right cheekbone, a tattoo of a small falcon on her left wrist
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:dragon-order

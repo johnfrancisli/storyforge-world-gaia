@@ -8,6 +8,7 @@ gm_notes: Cedric was once a knight of the Dragon Order who broke his oath to pro
 aliases: []
 race: ''
 gender: ''
+age: 45
 heritage: ''
 social_station: ''
 role: Stable Hand
@@ -35,13 +36,13 @@ appearance: Grey-templed and quiet, Cedric wears nondescript roughspun clothing.
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 45
+visual:
   body_build: broad and thickening with age
   hair: greying brown, cropped short
   eyes: blue, deep-set
   distinctive_features: an old brand mark on his right shoulder (the Dragon Order sigil, partially scarred
     over), calloused knuckles consistent with sword training
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:val-mages-circle

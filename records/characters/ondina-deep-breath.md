@@ -12,6 +12,7 @@ gm_notes: 'A Mizuhito midwife who has delivered over three hundred babies — hu
 aliases: []
 race: ''
 gender: ''
+age: 56
 heritage: ''
 social_station: ''
 role: Midwife and water-birth specialist
@@ -39,8 +40,7 @@ appearance: Solid and reassuring, with the serene patience of deep water. Wears 
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 56
+visual:
   body_build: full-figured and strong, broad-hipped
   hair: dark teal, braided and bound with river-shell beads
   eyes: pale blue-grey, deep-set and kind
@@ -48,6 +48,7 @@ visual_identity:
   - blue-green skin with darker mottling across the shoulders
   - webbed fingers and toes
   - gill-like slits along the ribcage that flare when she breathes deeply
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ver-shaman-circle

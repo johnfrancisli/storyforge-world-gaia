@@ -11,6 +11,7 @@ aliases:
 - 'Aki'
 race: ''
 gender: ''
+age: early thirties
 heritage: ''
 social_station: ''
 role: Cook
@@ -39,12 +40,12 @@ appearance: She wears a clean apron over a simple kimono, her sleeves bound with
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: early thirties
+visual:
   body_build: sturdy, quick-moving
   hair: black, short, tied under a cloth cap
   eyes: warm brown
   distinctive_features: a small burn scar on the left wrist from a kitchen accident years ago
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ashikara-shogunate

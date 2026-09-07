@@ -12,6 +12,7 @@ aliases:
 - 'Kinu'
 race: ''
 gender: ''
+age: mid-thirties
 heritage: ''
 social_station: ''
 role: Tattoo artist (horishi)
@@ -40,12 +41,12 @@ appearance: She wears a short-sleeved kimono that shows her own elaborate tattoo
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: mid-thirties
+visual:
   body_build: lean, strong-shouldered
   hair: black, cropped short, practical
   eyes: dark brown, steady
   distinctive_features: elaborate tattoos visible on both forearms — phoenix and wave motifs
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ashikara-shogunate

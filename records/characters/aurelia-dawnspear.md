@@ -10,6 +10,7 @@ gm_notes: Aurelia is one of the few female dragon-bonded knights of the Dragon O
 aliases: []
 race: ''
 gender: ''
+age: 29
 heritage: ''
 social_station: ''
 role: Dragon-Bonded Knight
@@ -38,13 +39,13 @@ appearance: Tall and commanding, Aurelia wears Dragon Order plate etched with fl
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 29
+visual:
   body_build: tall and athletic
   hair: red-gold, cropped short
   eyes: amber
   distinctive_features: a burn-scar pattern on her left shoulder (dragon-bond mark, resembles scales),
     a broken nose that healed slightly crooked
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:dragon-order

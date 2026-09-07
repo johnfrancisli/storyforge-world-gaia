@@ -12,6 +12,7 @@ gm_notes: 'A dancer at the Star Bazaar whose performances draw crowds from every
 aliases: []
 race: ''
 gender: ''
+age: 34
 heritage: ''
 social_station: ''
 role: Dancer, contracted performer
@@ -40,14 +41,14 @@ appearance: Graceful and luminous in layered silk veils and finger cymbals, she 
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 34
+visual:
   body_build: lithe and small, dancer's physique
   hair: black, long, loose when performing
   eyes: dark brown, kohl-rimmed
   distinctive_features:
   - a faint lattice of silver scars on both ankles, visible only up close
   - a small tattoo of a flame on the left hip
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:alk-scholar-circle

@@ -13,6 +13,7 @@ gm_notes: 'An elder who sits on the informal council of Iara and is respected fo
 aliases: []
 race: ''
 gender: ''
+age: 62
 heritage: ''
 social_station: ''
 role: Elder council member and chief's wife
@@ -40,14 +41,14 @@ appearance: Dignified and composed, with the bearing of someone who has spent de
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 62
+visual:
   body_build: medium and straight-backed, dignified in bearing
   hair: silver-black, worn in a formal arrangement with bone pins
   eyes: dark brown, sharp and evaluating
   distinctive_features:
   - council-mark tattoos on both temples, indicating elder status
   - a fine network of lines around the eyes from years of careful observation
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ver-river-consortium

@@ -11,6 +11,7 @@ gm_notes: A painter whose landscape paintings are so detailed they have been use
 aliases: []
 race: ''
 gender: ''
+age: 35
 heritage: ''
 social_station: ''
 role: Master painter and unwitting intelligence source
@@ -38,14 +39,14 @@ appearance: Free-spirited and paint-stained, wearing travel-worn scholar-artist 
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 35
+visual:
   body_build: tall and lean from constant travel
   hair: dark, loose, and perpetually paint-flecked
   eyes: bright brown, observant and curious
   distinctive_features:
   - paint stains in permanent rings around the right wrist
   - a sun-faded tan line from a hat she rarely wears
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:chu-state

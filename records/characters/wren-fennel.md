@@ -11,6 +11,7 @@ gm_notes: 'Wren is a refugee who fled the border conflicts with nothing but her 
 aliases: []
 race: ''
 gender: ''
+age: 16
 heritage: ''
 social_station: ''
 role: Refugee
@@ -38,13 +39,13 @@ appearance: Thin and road-worn, Wren wears travel-stained clothes that are too l
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 16
+visual:
   body_build: thin from weeks of hardship on the road
   hair: dark brown, lank, cut unevenly (done with a knife on the road)
   eyes: amber, alert
   distinctive_features: a burn mark on her right palm (from carrying the box near a campfire), a faded
     bruise on her left temple, a threadbare scarf worn in all weather
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:val-mages-circle

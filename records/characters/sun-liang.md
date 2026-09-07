@@ -12,6 +12,7 @@ aliases:
 - 'Warlord Sun Liang'
 race: ''
 gender: ''
+age: sixties
 heritage: ''
 social_station: ''
 role: Warlord of Chu
@@ -40,12 +41,12 @@ appearance: An elegant man in fine silk robes, a jade pendant at his belt, a fan
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: sixties
+visual:
   body_build: slim, elegant
   hair: white, topknot, groomed beard
   eyes: dark brown, warm but calculating
   distinctive_features: a jade pendant worn at the belt, ink-calligraphy stains on the right index finger
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:chu-state

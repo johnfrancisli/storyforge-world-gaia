@@ -13,6 +13,7 @@ gm_notes: 'The most skilled feather worker in the western rainforest, famous for
 aliases: []
 race: ''
 gender: ''
+age: 38
 heritage: ''
 social_station: ''
 role: Master feather worker and ceremonial artisan
@@ -40,8 +41,7 @@ appearance: Vivid and bright-eyed, draped in her own feather-work — mantles of
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 38
+visual:
   body_build: slight and wiry, light-boned
   hair: a crest of iridescent blue-green feathers that rises when she is emotional
   eyes: bright gold, unblinking
@@ -49,6 +49,7 @@ visual_identity:
   - feathered crest along the crown that molts seasonally
   - fine scales faintly visible on the cheekbones and ears
   - hollow-boned lightness to her step
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ver-shaman-circle

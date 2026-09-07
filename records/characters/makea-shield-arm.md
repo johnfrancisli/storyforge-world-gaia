@@ -15,6 +15,7 @@ gm_notes: Makea is a guard on Lani Atoll who patrols the meeting house and the c
 aliases: []
 race: ''
 gender: ''
+age: thirty-eight
 heritage: ''
 social_station: ''
 role: Guard
@@ -42,8 +43,7 @@ appearance: A large, gentle man with a guard's staff and a former wayfinder's fa
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: thirty-eight
+visual:
   body_build: large, broad, gentle in movement
   skin: deep brown
   hair: black, short, practical
@@ -51,6 +51,7 @@ visual_identity:
   distinctive_features: faded wayfinder tattoos on both arms — visible but clearly no longer maintained,
     a guard's staff carried with a wayfinder's grip, a flinch when the wind comes off the sea that most
     people read as squinting
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:wayfinder-guilds

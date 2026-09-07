@@ -13,6 +13,7 @@ gm_notes: A calligrapher who can write binding contracts that are more binding t
 aliases: []
 race: ''
 gender: ''
+age: 36
 heritage: ''
 social_station: ''
 role: Master calligrapher, contract scribe
@@ -41,14 +42,14 @@ appearance: Refined and still in flowing dark robes, her hands stained with ink 
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 36
+visual:
   body_build: slender, long-fingered
   hair: black, long, pinned with a silver pen-clip
   eyes: dark brown, precise
   distinctive_features:
   - permanent ink staining on the right index and middle fingers
   - a callus on the right middle finger from years of reed pen grip
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:alk-scholar-circle

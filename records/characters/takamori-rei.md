@@ -12,6 +12,7 @@ aliases:
 - 'Rei'
 race: ''
 gender: ''
+age: late twenties
 heritage: ''
 social_station: ''
 role: Palace guard (banhei)
@@ -40,12 +41,12 @@ appearance: She wears the dark lacquered armor of the shogun's guard, her yari r
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: late twenties
+visual:
   body_build: athletic, tall
   hair: black, cropped short under helm
   eyes: dark brown, hard
   distinctive_features: a thin scar across the jawline from a training accident
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ashikara-shogunate

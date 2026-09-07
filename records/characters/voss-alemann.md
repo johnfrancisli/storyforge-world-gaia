@@ -12,6 +12,7 @@ aliases:
 - 'Dr. Voss Alemann'
 race: ''
 gender: ''
+age: late forties
 heritage: ''
 social_station: ''
 role: Academic explorer
@@ -40,14 +41,14 @@ appearance: A thin, sunburnt man in explorer's clothes — canvas trousers, a li
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: late forties
+visual:
   body_build: thin, wiry
   skin: pale, sunburnt on the nose and forearms
   hair: brown, thinning, sun-bleached
   eyes: blue, near-sighted
   distinctive_features: round spectacles, a leather satchel always over the shoulder, mosquito bites on
     both arms
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ver-river-consortium

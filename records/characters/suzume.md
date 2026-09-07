@@ -11,6 +11,7 @@ gm_notes: 'Suzume is the younger sister of the wandering swordmaster Soji (chara
 aliases: []
 race: ''
 gender: ''
+age: ageless — appears early twenties
 heritage: ''
 social_station: ''
 role: Wandering tengu (exile)
@@ -39,12 +40,12 @@ appearance: She wears traveling clothes in dark forest colors, a cloth wrapping 
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: ageless — appears early twenties
+visual:
   body_build: lean, angular, bird-boned
   hair: black, with iridescent feathers growing along the hairline at the temples
   eyes: amber, sharp
   distinctive_features: feathers along the temples (hidden by a head wrap) and slightly talon-like nails
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ashikara-shogunate

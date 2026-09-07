@@ -11,6 +11,7 @@ aliases:
 - 'Yuri'
 race: ''
 gender: ''
+age: mid-thirties
 heritage: ''
 social_station: ''
 role: Bathhouse owner (yuya)
@@ -39,12 +40,12 @@ appearance: She wears a crisp yukata and carries a stack of fresh towels. Her ha
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: mid-thirties
+visual:
   body_build: medium, comfortable
   hair: black, wet-sheened, pinned up with a tortoiseshell pin
   eyes: dark brown, watchful
   distinctive_features: permanently pink-tinged fingertips from years of hot water work
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:tsu-tea-schools

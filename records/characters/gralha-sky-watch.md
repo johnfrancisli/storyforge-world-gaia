@@ -13,6 +13,7 @@ gm_notes: 'A bird beast-kin scout who surveys the rainforest from above and repo
 aliases: []
 race: ''
 gender: ''
+age: 26
 heritage: ''
 social_station: ''
 role: Aerial scout and perimeter watcher
@@ -40,8 +41,7 @@ appearance: Light-boned and keen-eyed, built for sustained flight. Wears minimal
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 26
+visual:
   body_build: light-boned and lean, built for flight
   hair: a crest of dark blue-black feathers
   eyes: golden, exceptionally sharp at distance
@@ -49,6 +49,7 @@ visual_identity:
   - feathered crest and wing-feathers along the forearms that can spread for gliding
   - fine scales on the face and neck
   - hollow-boned lightness
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ver-hunter-clans

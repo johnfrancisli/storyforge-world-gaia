@@ -12,4 +12,6 @@ bond: Their friendship is the trust of people who guard each other's lives acros
   been quietly steering his caravans away from places where the djinn-touched walk, protecting him from
   something he does not believe in.
 disposition: 76
+visual:
+  prompt: ''
 ---

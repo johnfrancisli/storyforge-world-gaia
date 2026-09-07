@@ -12,6 +12,7 @@ gm_notes: 'Varg is a guard in Jarl Sigrid''s household, one of the twelve under 
 aliases: []
 race: ''
 gender: ''
+age: 33
 heritage: ''
 social_station: ''
 role: Guard / Watchman
@@ -40,13 +41,13 @@ appearance: Big and slow-moving, Varg wears the white cloak and ringmail of the 
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 33
+visual:
   body_build: very tall and heavily built, the largest of the guards
   hair: blonde, thick, worn cropped
   eyes: blue, open and honest-looking
   distinctive_features: a guard's raven tattoo on his right shoulder, a broken-and-healed nose (brawl,
     years ago)
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:hra-rune-guild

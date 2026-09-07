@@ -16,6 +16,7 @@ aliases:
 - 'Ariki Lost-Chief'
 race: ''
 gender: ''
+age: fifty-five
 heritage: ''
 social_station: ''
 role: Refugee and former chief
@@ -43,8 +44,7 @@ appearance: A dignified, composed woman who carries herself with a chief's beari
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: fifty-five
+visual:
   body_build: dignified, composed, straight-backed
   skin: deep brown
   hair: black, greying, worn in a chief's style despite her refugee status
@@ -52,6 +52,7 @@ visual_identity:
   distinctive_features: a chief's whale-bone pendant — the only remnant of her island, worn openly, a
     quality of authority that persists even in donated cloth, a habit of counting people — always knowing
     exactly how many are in a room and who they are
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:tide-refugee-council

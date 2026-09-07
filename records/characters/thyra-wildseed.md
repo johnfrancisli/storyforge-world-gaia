@@ -12,6 +12,7 @@ gm_notes: 'Thyra is a thrall — a bondservant in Jarl Sigrid''s household, capt
 aliases: []
 race: ''
 gender: ''
+age: 23
 heritage: ''
 social_station: ''
 role: Thrall (Bondservant)
@@ -41,13 +42,13 @@ appearance: 'Dark-haired and sun-darkened compared to the fair people of Skaldvi
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 23
+visual:
   body_build: slender and strong from constant labor
   hair: dark brown, long, worn in a single plain braid
   eyes: dark brown, watchful and guarded
   distinctive_features: a thrall's iron band on her left wrist (engraved with Sigrid's mark), a faded
     scar on her right forearm from a childhood injury before her capture
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:hra-jarl-council

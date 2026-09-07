@@ -9,6 +9,7 @@ aliases:
 - 'Kuro the Smoke'
 race: ''
 gender: ''
+age: mid-twenties
 heritage: ''
 social_station: ''
 role: Thief
@@ -37,12 +38,12 @@ appearance: A lean cat-folk man in dark, close-fitting clothes, his ears flat an
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: mid-twenties
+visual:
   body_build: lean, wiry, compact
   hair: black, short, messy
   eyes: green, slit-pupiled
   distinctive_features: black cat ears, long black tail, a small chip in the left ear
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:tsu-merchant-guild

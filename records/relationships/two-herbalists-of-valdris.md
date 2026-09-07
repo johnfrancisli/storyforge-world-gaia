@@ -11,4 +11,6 @@ bond: Sybil, the midwife, handles the births and the deaths; Mira handles everyt
   boundary was once a courtesy and is now a cold war — each suspects the other of poaching patients, and
   neither will admit how much they rely on the other's expertise when a case exceeds their own.
 disposition: 38
+visual:
+  prompt: ''
 ---

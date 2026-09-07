@@ -12,4 +12,6 @@ bond: Quilla is passing on a craft that nearly died with her generation, and Tit
   encoded in the patterns — a ceremonial language the tribe believes is lost. She is deciding, lesson
   by lesson, whether he is ready to be told.
 disposition: 73
+visual:
+  prompt: ''
 ---

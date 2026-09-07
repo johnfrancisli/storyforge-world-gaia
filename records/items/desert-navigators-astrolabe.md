@@ -18,4 +18,6 @@ item_tags:
 - al-khayzar
 - tool
 - navigation
+visual:
+  prompt: ''
 ---

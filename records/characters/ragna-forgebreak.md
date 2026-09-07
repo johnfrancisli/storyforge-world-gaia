@@ -11,6 +11,7 @@ gm_notes: 'Ragna is a smith who works iron, bronze, and a little silver. Her sec
 aliases: []
 race: ''
 gender: ''
+age: 42
 heritage: ''
 social_station: ''
 role: Smith
@@ -39,13 +40,13 @@ appearance: Broad and soot-blackened, Ragna wears a leather smith's apron over r
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 42
+visual:
   body_build: broad-shouldered and thick-armed, powerful
   hair: dark brown, singed short at the edges, worn tied back
   eyes: dark brown, intense
   distinctive_features: lattice of burn scars across both forearms, a crushed-looking left thumb from
     an old hammer strike
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:hra-shipwright-brotherhood

@@ -12,6 +12,7 @@ gm_notes: A glassblower whose glass vessels can hold light — not metaphoricall
 aliases: []
 race: ''
 gender: ''
+age: 27
 heritage: ''
 social_station: ''
 role: Glassblower, accidental magician
@@ -40,14 +41,14 @@ appearance: Sooty and bright-eyed in a leather apron and cotton scarf, working b
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 27
+visual:
   body_build: wiry, strong-lunged
   hair: black, short, singed at the edges
   eyes: amber, furnace-lit
   distinctive_features:
   - a spark burn scar on the right cheek
   - permanent soot darkening around the eyes
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:binding-families

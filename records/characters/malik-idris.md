@@ -9,6 +9,7 @@ gm_notes: Malik's grandfather bound a djinn named Zuhayr three generations ago. 
 aliases: []
 race: ''
 gender: ''
+age: early twenties
 heritage: ''
 social_station: ''
 role: Binding-family scion
@@ -36,14 +37,14 @@ appearance: A young man in fine desert robes — cream and gold — with a jewel
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: early twenties
+visual:
   body_build: slim, tall
   skin: warm brown
   hair: dark, short, well-kept
   eyes: dark brown
   distinctive_features: a faint blue shimmer around the fingers of his right hand — a mark of proximity
     to djinn-fire
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:binding-families

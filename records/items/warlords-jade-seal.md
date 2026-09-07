@@ -18,4 +18,6 @@ item_tags:
 - sangguo
 - relic
 - authority
+visual:
+  prompt: ''
 ---

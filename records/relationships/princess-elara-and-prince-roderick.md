@@ -12,4 +12,6 @@ bond: Elara underestimates Roderick's cunning — she thinks he is a blunt soldi
   which is the one card she has that he cannot counter. They are siblings and they are enemies, and neither
   of them has decided which matters more.
 disposition: -20
+visual:
+  prompt: ''
 ---

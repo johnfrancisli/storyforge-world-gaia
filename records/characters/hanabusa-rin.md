@@ -11,6 +11,7 @@ aliases:
 - 'Rin'
 race: ''
 gender: ''
+age: late thirties
 heritage: ''
 social_station: ''
 role: Florist and ikebana artist
@@ -38,12 +39,12 @@ appearance: She wears a pale work kimono with a sash full of small shears and tw
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: late thirties
+visual:
   body_build: slim, tall for a woman
   hair: black, long, braided and pinned with a single wooden pin
   eyes: grey-green
   distinctive_features: green-stained fingertips permanent from years of handling plant stems
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:tsu-tea-schools

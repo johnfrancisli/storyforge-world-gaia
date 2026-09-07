@@ -11,4 +11,6 @@ bond: They are the only two who regularly go as deep into the hinterwoods as the
   unspoken agreement to watch each other's back on the trail. Neither is a talker, which is precisely
   why they get along — a friendship maintained in comfortable silence over miles of forest and field.
 disposition: 82
+visual:
+  prompt: ''
 ---

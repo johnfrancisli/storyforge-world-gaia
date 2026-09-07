@@ -11,6 +11,7 @@ gm_notes: 'Sigunn is a trader who sails between Skaldvik and the southern ports,
 aliases: []
 race: ''
 gender: ''
+age: 39
 heritage: ''
 social_station: ''
 role: Trader
@@ -39,13 +40,13 @@ appearance: Sharp-eyed and well-dressed by Hrafnland standards, Sigunn wears a g
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 39
+visual:
   body_build: medium height, trim and quick-moving
   hair: reddish-brown, worn under a dark blue trader's scarf
   eyes: grey-green, sharp and assessing
   distinctive_features: a trader's mark tattooed on her right forearm (a small anchor and coin), a thin
     silver chain around her neck
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:hra-rune-guild

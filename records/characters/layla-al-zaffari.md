@@ -12,6 +12,7 @@ aliases:
 - 'Layla the Spice Queen'
 race: ''
 gender: ''
+age: mid-sixties
 heritage: ''
 social_station: ''
 role: Spice merchant, council member
@@ -40,14 +41,14 @@ appearance: An elegant older woman in rich desert silks â€” amber and burgundy â
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: mid-sixties
+visual:
   body_build: slim, elegant, straight-backed
   skin: deep brown, sun-lined
   hair: silver, covered by a silk headscarf
   eyes: dark brown, sharp
   distinctive_features: gold bracelets on both wrists, a spice-stain on the left thumb that never quite
     fades, henna patterns on both hands
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:alk-spice-houses

@@ -12,4 +12,6 @@ bond: Hoku sees in Kai the navigator who will one day surpass him, and is teachi
   is fading with his eyes. Kai resists the implication that Hoku is preparing to retire, because accepting
   it means accepting the weight of being the best.
 disposition: 77
+visual:
+  prompt: ''
 ---

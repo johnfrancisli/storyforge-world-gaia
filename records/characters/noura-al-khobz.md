@@ -12,6 +12,7 @@ gm_notes: A baker whose flatbread is a staple of the Zaffar morning market — a
 aliases: []
 race: ''
 gender: ''
+age: 37
 heritage: ''
 social_station: ''
 role: Baker, seal-keeper
@@ -40,14 +41,14 @@ appearance: Round and rosy-cheeked in a baker's apron dusted with flour, her arm
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 37
+visual:
   body_build: stout, strong-armed from kneading
   hair: black, tied in a bun under a flour-dusted cloth
   eyes: brown, warm and watchful
   distinctive_features:
   - permanent flour dusting on the forearms and eyebrows
   - a heat-rash scar on the right hand from the oven mouth
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:binding-families

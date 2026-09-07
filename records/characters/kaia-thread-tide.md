@@ -13,6 +13,7 @@ gm_notes: Kaia weaves the fine cloth that chiefs and ceremony demand, and she is
 aliases: []
 race: ''
 gender: ''
+age: thirty-seven
 heritage: ''
 social_station: ''
 role: Weaver
@@ -40,14 +41,14 @@ appearance: A slim, precise woman with ink-stained fingers and cloth samples dra
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: thirty-seven
+visual:
   body_build: slim, fine-boned, precise in movement
   skin: medium brown
   hair: black, long, pinned up with bone pins
   eyes: dark brown
   distinctive_features: ink-stained fingertips from dye work, a small bone weaving-pin worn in the hair,
     a fine woven band always on the left wrist
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:wayfinder-guilds

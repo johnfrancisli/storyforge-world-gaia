@@ -10,6 +10,7 @@ gm_notes: 'Aldric is a retired knight of the Dragon Order who lost his bonded dr
 aliases: []
 race: Human
 gender: Male
+age: 58
 heritage: Valdris
 social_station: Knight (Retired)
 role: Retired Knight / Weapons Trainer
@@ -50,14 +51,14 @@ key_phrases:
 - "Your blade must be an extension of your intent, not just your arm."
 - "The sky remembers."
 - "Pain is just a teacher who doesn't hold back."
-visual_identity:
-  age: 58
-  body_build: masterpiece, highly detailed, beautifully proportioned, fit, broad and battle-worn, muscular, aesthetic body
-  hair: grey, cropped close, beard full and braided, high quality texture
-  eyes: pale blue, sparkling eyes, deep gaze, highly detailed eyes
+visual:
+  body_build: broad, muscular, battle-worn
+  hair: grey, cropped close, beard full and braided
+  eyes: pale blue
   distinctive_features: a dragon-scale burn scar covering his right hand and forearm, a limp on the left
     leg from a shattered knee
-  face: handsome face, gorgeous, extremely attractive, rugged, symmetrical, masterpiece
+  face: rugged, handsome features
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:dragon-order

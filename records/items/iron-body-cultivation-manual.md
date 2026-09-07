@@ -19,4 +19,6 @@ item_tags:
 - sangguo
 - artifact
 - chi-cultivation
+visual:
+  prompt: ''
 ---

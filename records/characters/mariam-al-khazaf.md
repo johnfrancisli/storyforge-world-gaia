@@ -12,6 +12,7 @@ gm_notes: A potter who discovered that clay from a specific wadi outside Zaffar,
 aliases: []
 race: ''
 gender: ''
+age: 29
 heritage: ''
 social_station: ''
 role: Potter, accidental vessel-maker
@@ -40,14 +41,14 @@ appearance: Compact and focused in a clay-spattered apron, her hands perpetually
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 29
+visual:
   body_build: compact, strong-wristed
   hair: dark brown, cropped short, clay-dusted
   eyes: hazel, intent
   distinctive_features:
   - a pale clay-colored callus on the right thumb from wheel work
   - a kiln-burn scar on the left forearm
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:binding-families

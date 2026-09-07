@@ -9,6 +9,7 @@ gm_notes: Amara is the person who connects Verdania to the outside world. Her bo
 aliases: []
 race: Mizuhito
 gender: Female
+age: 42
 heritage: River-folk
 social_station: Merchant
 role: River trader, river-folk
@@ -49,15 +50,15 @@ key_phrases:
 - "The river doesn't care if you're in a hurry."
 - "Spirits are restless, meaning the water will be too."
 - "Kaa, put the bottle down and tell me what you saw."
-visual_identity:
-  age: 42
-  body_build: masterpiece, highly detailed, beautifully proportioned, fit, stocky, strong, aesthetic body
+visual:
+  body_build: fit, stocky, strong
   skin: blue-green, sun-darkened
-  hair: dark green, braided tight, high quality texture
-  eyes: teal, sparkling eyes, deep gaze, highly detailed eyes
+  hair: dark green, braided tight
+  eyes: teal
   distinctive_features: webbed hands, a necklace of seventeen river-stones, a faded tattoo of a river-spirit
     sigil on the left shoulder
-  face: beautiful face, gorgeous, extremely attractive, rugged, symmetrical, masterpiece
+  face: rugged, strong features
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ver-river-consortium

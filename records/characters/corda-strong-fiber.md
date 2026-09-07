@@ -12,6 +12,7 @@ gm_notes: A rope maker who produces the binding cords that hold the stilt-city o
 aliases: []
 race: ''
 gender: ''
+age: 42
 heritage: ''
 social_station: ''
 role: Rope maker and structural fiber worker
@@ -39,14 +40,14 @@ appearance: Powerfully built from decades of twisting and pulling fiber. Arms ro
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 42
+visual:
   body_build: broad and muscular, especially the arms and shoulders
   hair: black, cropped very short for safety around spinning gear
   eyes: grey-brown, sharp and practical
   distinctive_features:
   - deeply calloused palms with visible fiber-grooves
   - a rope-burn scar encircling the left wrist
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ver-river-consortium

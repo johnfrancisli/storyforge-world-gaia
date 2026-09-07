@@ -20,6 +20,8 @@ organizations:
 - org:val-thieves-guild
 - org:val-merchant-guild
 - org:val-noble-council
+visual:
+  prompt: ''
 ---
 
 A new syndicate has begun levying an unspoken 'toll' on every barge that moors at the Greyfen Quays in Rivenspire, collected by armed men who claim no banner. Harbor Watch captain Brainard Stonewell knows his watchmen are outmatched and has twice been warned off by the Counting Coin guildhall, which quietly profits from the arrangement. Barony mediator Gwendolyn Fairhold has arrived from Crownhaven to broker a settlement, but the smugglers have made it clear that any deal which names them is a deal that ends in fire. The Riven Bridge, the only stone crossing for a day's ride, is the chokepoint where the toll is enforced.

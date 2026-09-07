@@ -12,4 +12,6 @@ bond: They are old — old even for elves — and were friends before the human 
   passed. Their chief unspoken grief is that they will likely outlive every human they currently know,
   together.
 disposition: 90
+visual:
+  prompt: ''
 ---

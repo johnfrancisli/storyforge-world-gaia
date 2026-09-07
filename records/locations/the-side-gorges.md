@@ -6,6 +6,8 @@ jurisdiction: Jointly administered by Sangguo's western prefecture and Al-Khayza
   Both collect tolls.
 terrain: maze of narrow side-canyons, hidden springs, red strange light
 resources: []
+visual:
+  prompt: ''
 ---
 
 A maze of narrow side-canyons that branch off the main pass. Some lead to hidden springs. Some lead to bandit camps. Some lead nowhere. The light inside is red and strange.

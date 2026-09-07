@@ -14,6 +14,7 @@ gm_notes: 'A female falconer who trains hunting falcons for the binding families
 aliases: []
 race: ''
 gender: ''
+age: 30
 heritage: ''
 social_station: ''
 role: Falconer, djinn-detecting bird trainer
@@ -42,14 +43,14 @@ appearance: Sun-darkened and leather-clad in a falconer's gauntlet and vest, she
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 30
+visual:
   body_build: lean and wiry, outdoor-hardened
   hair: sandy brown, braided, under a falconer's cap
   eyes: grey, hawk-sharp
   distinctive_features:
   - deep talon scars on both forearms, years of old punctures
   - a faint scar across the right eyebrow from a fledgling's beak
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:binding-families

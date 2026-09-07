@@ -18,4 +18,6 @@ item_tags:
 - verdania
 - weapon
 - poison
+visual:
+  prompt: ''
 ---

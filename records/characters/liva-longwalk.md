@@ -12,6 +12,7 @@ gm_notes: 'Liva is a messenger who carries news, invitations, and legal summons 
 aliases: []
 race: ''
 gender: ''
+age: 30
 heritage: ''
 social_station: ''
 role: Messenger
@@ -41,13 +42,13 @@ appearance: Lean and tireless, Liva wears travelling clothes — wool, leather, 
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 30
+visual:
   body_build: lean and long-legged, built for distance walking
   hair: brown, sun-bleached, worn in a tight knot
   eyes: grey, quick and observant
   distinctive_features: road-dust permanently ground into her skin, a messenger's tattoo of a running
     bird on her right ankle
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:hra-shipwright-brotherhood

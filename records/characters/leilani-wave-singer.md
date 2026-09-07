@@ -13,6 +13,7 @@ gm_notes: 'Leilani makes the sails that carry every voyaging canoe in the Archip
 aliases: []
 race: ''
 gender: ''
+age: forty-one
 heritage: ''
 social_station: ''
 role: Sail maker
@@ -40,14 +41,14 @@ appearance: A tall, long-armed woman surrounded by bolts of woven pandanus sail-
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: forty-one
+visual:
   body_build: tall, long-armed, broad across the back
   skin: warm brown
   hair: black, long, tied back with woven fiber cord
   eyes: dark brown
   distinctive_features: dyed fingertips — permanently stained indigo and rust from sail-cloth dyes, a
     weaving callus on the right index finger that has hardened into a permanent ridge
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:wayfinder-guilds

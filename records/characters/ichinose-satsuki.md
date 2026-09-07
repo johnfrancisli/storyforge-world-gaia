@@ -12,6 +12,7 @@ aliases:
 - 'Satsuki'
 race: ''
 gender: ''
+age: early sixties
 heritage: ''
 social_station: ''
 role: Tea ceremony teacher (chajin)
@@ -40,12 +41,12 @@ appearance: She wears an immaculate, subdued kimono in slate grey or deep indigo
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: early sixties
+visual:
   body_build: slender, composed
   hair: iron grey, in a smooth low bun
   eyes: dark brown, warm but observant
   distinctive_features: a faint tea-stain discoloration on the right thumb and forefinger, permanent
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:tsu-tea-schools

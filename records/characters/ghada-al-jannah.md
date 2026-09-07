@@ -12,6 +12,7 @@ gm_notes: Head gardener of the Hanging Gardens of Zaffar, an oasis garden built 
 aliases: []
 race: ''
 gender: ''
+age: 40
 heritage: ''
 social_station: ''
 role: Head gardener of the Hanging Gardens
@@ -40,14 +41,14 @@ appearance: Earth-stained and sun-warm in a gardener's apron over loose green co
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 40
+visual:
   body_build: medium, strong-armed from terraced work
   hair: dark brown, braided and wrapped in a cloth
   eyes: green-brown, gentle
   distinctive_features:
   - permanent earth staining under the fingernails
   - a scar on the right forearm from a date-palm thorn that became infected
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:binding-families

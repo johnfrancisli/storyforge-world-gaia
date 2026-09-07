@@ -18,4 +18,6 @@ item_tags:
 - valdris
 - tool
 - elf-craft
+visual:
+  prompt: ''
 ---

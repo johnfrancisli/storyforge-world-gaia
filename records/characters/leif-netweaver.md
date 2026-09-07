@@ -13,6 +13,7 @@ gm_notes: 'Leif makes fishing nets — enormous, intricate affairs of knotted he
 aliases: []
 race: ''
 gender: ''
+age: 36
 heritage: ''
 social_station: ''
 role: Net Maker
@@ -42,13 +43,13 @@ appearance: Compact and quiet, Leif works at a net-tying frame in a workshop tha
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 36
+visual:
   body_build: medium height, lean, with strong hands and forearms
   hair: light brown, thinning at the crown, worn short
   eyes: blue, mild and slightly worried
   distinctive_features: permanently hemp-roughened fingertips, a callus on his right thumb from the net
     shuttle
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:hra-shipwright-brotherhood

@@ -9,6 +9,7 @@ gm_notes: Galen is a monk at the Temple of the Sacred Flame who has spent thirty
 aliases: []
 race: ''
 gender: ''
+age: 67
 heritage: ''
 social_station: ''
 role: Monk / Scribe
@@ -36,13 +37,13 @@ appearance: Thin and pale from years indoors, Galen wears simple brown robes and
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 67
+visual:
   body_build: thin and stooped
   hair: white, wispy, tonsured
   eyes: pale blue behind spectacles
   distinctive_features: permanently ink-stained fingers, a pronounced stoop from decades at a writing
     desk
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:val-mages-circle

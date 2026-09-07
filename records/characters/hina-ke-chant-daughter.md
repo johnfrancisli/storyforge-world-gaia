@@ -14,6 +14,7 @@ gm_notes: Hina-ke is a chant keeper, one of the few who knows the full sequence 
 aliases: []
 race: ''
 gender: ''
+age: forty
 heritage: ''
 social_station: ''
 role: Chant keeper
@@ -41,14 +42,14 @@ appearance: A composed, precise woman with a chanter's trained voice and a schol
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: forty
+visual:
   body_build: composed, upright, precise
   skin: medium brown
   hair: black, greying early, worn in a chanter's braided style
   eyes: dark brown, sharp
   distinctive_features: a chant-keeper's woven scarf, a tapa-book of chant notation carried under the
     arm, a quality of precise observation that makes people feel they are being memorized
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:wayfinder-guilds

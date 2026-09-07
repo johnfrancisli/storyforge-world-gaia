@@ -13,6 +13,7 @@ gm_notes: A male snake charmer who performs in the Star Bazaar with a collection
 aliases: []
 race: ''
 gender: ''
+age: 42
 heritage: ''
 social_station: ''
 role: Snake charmer, djinn-charmer
@@ -41,14 +42,14 @@ appearance: Lean and weathered in performer's clothes — a colorful vest over r
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 42
+visual:
   body_build: lean and sinewy, performer's grace
   hair: black, grey-streaked, under a performer's turban
   eyes: brown, mesmeric and intense when playing
   distinctive_features:
   - a snake-bite scar on the right hand, puckered and old
   - the bone flute itself, yellowed and carved with symbols no one recognizes
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:alk-city-guard

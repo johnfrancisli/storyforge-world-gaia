@@ -13,6 +13,7 @@ aliases:
 - 'Daichi'
 race: ''
 gender: ''
+age: early sixties
 heritage: ''
 social_station: ''
 role: Palace guard captain (banin-kashira)
@@ -41,13 +42,13 @@ appearance: He wears full guard captain's armor with the Ashikara crest, a katan
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: early sixties
+visual:
   body_build: stocky, heavily built
   hair: grey, in a tight topknot
   eyes: dark brown, steady
   distinctive_features: a deep scar across the bridge of the nose and a cauliflower right ear from years
     of armor helm pressure
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ashikara-shogunate

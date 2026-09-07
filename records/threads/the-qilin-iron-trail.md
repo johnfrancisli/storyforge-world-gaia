@@ -18,6 +18,8 @@ organizations:
 - org:wei-state
 - org:chu-state
 - org:jin-state
+visual:
+  prompt: ''
 ---
 
 The Forge Quarter of Weidu has begun producing blades of an unfamiliar dark metal that holds an edge longer than any steel the Stone Sentinel Barracks has tested. Iron mine foreman Tian Baoshan, who secretly deals in qilin-iron, is the source—but he has tripled his price without explanation and refuses to name the new buyer who is outbidding the garrison. Army blacksmith Zhao Tiegun, himself a covert qilin-iron weapons dealer for the Chu state, has arrived in Weidu to find out who is cornering the supply. The Forge Quarter's master smiths are afraid to refuse either of them.

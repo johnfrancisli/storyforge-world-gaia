@@ -12,6 +12,7 @@ aliases:
 - 'Goro'
 race: ''
 gender: ''
+age: early fifties
 heritage: ''
 social_station: ''
 role: Merchant and smuggler (akindo)
@@ -40,13 +41,13 @@ appearance: He wears a road-worn kimono in browns and oranges, a fan tucked in h
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: early fifties
+visual:
   body_build: soft, round-faced
   hair: black, receding, in a merchant's topknot
   eyes: small, dark, quick
   distinctive_features: a chipped front tooth and a persistent ink stain on the right cheek from resting
     a brush there
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:tsu-merchant-guild

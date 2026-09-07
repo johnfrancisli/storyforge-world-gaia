@@ -13,6 +13,7 @@ aliases:
 - 'Mana the Tattoo-carver'
 race: ''
 gender: ''
+age: early forties
 heritage: ''
 social_station: ''
 role: Tattoo artist, route-carver
@@ -41,14 +42,14 @@ appearance: A stocky woman in work clothes, her arms covered in the tattoo patte
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: early forties
+visual:
   body_build: stocky, strong-armed
   skin: deep tan
   hair: black, short, practical
   eyes: dark brown, kind
   distinctive_features: tattoo patterns covering both arms — twenty routes, three faded where islands
     have submerged, a bone tattooing needle always in hand or behind the ear
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:wayfinder-guilds

@@ -11,6 +11,7 @@ aliases:
 - 'Princess Elara Valdris'
 race: ''
 gender: ''
+age: early thirties
 heritage: ''
 social_station: ''
 role: Princess of Valdris
@@ -39,12 +40,12 @@ appearance: A sharp-featured woman in practical riding clothes more often than c
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: early thirties
+visual:
   body_build: slim, athletic
   hair: auburn, braided
   eyes: green
   distinctive_features: a small mole below the left eye
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:dragon-order

@@ -6,6 +6,8 @@ jurisdiction: Contested between the Kingdom of Valdris (Northwatch garrison) and
   southern fjords). Fishing rights are disputed; passage rights are enforced by whoever has more ships.
 terrain: observation post, southernmost rock, two-soldier garrison
 resources: []
+visual:
+  prompt: ''
 ---
 
 A Valdrian observation post on the southernmost rock, manned by two soldiers on six-month rotations. They watch for raiders. They go a little mad by month four.

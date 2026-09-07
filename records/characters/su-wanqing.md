@@ -10,6 +10,7 @@ gm_notes: A tea merchant whose tea blends are renowned across all three states. 
 aliases: []
 race: ''
 gender: ''
+age: 44
 heritage: ''
 social_station: ''
 role: Tea merchant and Academy information broker
@@ -37,14 +38,14 @@ appearance: Warm and round-faced, always offering tea. Wears travel-worn but qua
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 44
+visual:
   body_build: plump and comfortable
   hair: black streaked with white, in a practical merchant's wrap
   eyes: small, bright, and miss nothing
   distinctive_features:
   - tea-stained fingertips
   - a small jade pendant of a lotus (Academy signal)
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:great-academy

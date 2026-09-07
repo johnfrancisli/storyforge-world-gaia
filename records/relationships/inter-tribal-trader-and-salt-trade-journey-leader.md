@@ -12,4 +12,6 @@ bond: Their rivalry is professional but personal — they were once partners on 
   her prices in that village stay just below the other's, a war of conscience neither will win and neither
   will stop.
 disposition: 25
+visual:
+  prompt: ''
 ---

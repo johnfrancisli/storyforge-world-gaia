@@ -9,6 +9,7 @@ gm_notes: A Chu court official who has been managing the warlord's treasury for 
 aliases: []
 race: ''
 gender: ''
+age: 55
 heritage: ''
 social_station: ''
 role: Court treasury official and secret orphanage patron
@@ -36,14 +37,14 @@ appearance: Immaculate and soft-spoken, wearing Chu-state formal robes of dark r
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 55
+visual:
   body_build: soft and well-fed
   hair: thin gray, oiled and formal
   eyes: small, shrewd, and watery
   distinctive_features:
   - a wen on the right temple
   - an abacus-callus on the right thumb
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:chu-state

@@ -12,4 +12,6 @@ bond: Each believes they alone know the true pulse of the great river, and each 
   pilot holds a monopoly on the waterways, which suits the tribes fine, even if it exhausts the two of
   them.
 disposition: 38
+visual:
+  prompt: ''
 ---

@@ -18,4 +18,6 @@ item_tags:
 - verdania
 - tool
 - shamanism
+visual:
+  prompt: ''
 ---

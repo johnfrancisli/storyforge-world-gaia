@@ -12,6 +12,7 @@ gm_notes: 'Freya is a shellfish gatherer who works the fjord''s tidal flats, col
 aliases: []
 race: ''
 gender: ''
+age: 25
 heritage: ''
 social_station: ''
 role: Shellfish Gatherer / Diver
@@ -40,13 +41,13 @@ appearance: Compact and cold-water hardened, Freya wears a sealskin diving outfi
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 25
+visual:
   body_build: short and stocky, built for cold water and deep dives
   hair: dark brown, cropped short (it dries faster)
   eyes: sea-green, bright and water-reddened
   distinctive_features: permanently chapped lips and reddened skin around the eyes from cold-water diving,
     a small scar on her right foot from a shell cut
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:hra-volur-coven

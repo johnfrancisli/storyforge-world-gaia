@@ -11,6 +11,8 @@ resources:
 - spice
 - sea salt
 - harbor wardstones
+visual:
+  prompt: ''
 ---
 
 The great port city of the Tsukuyomi Shogunate, where the Kawa River spills into the Moonshade Sea. A sprawl of wooden piers, tile-roofed warehouses, and salt-weathered merchant houses pressed against a curving harbor. The smell of tar, fish, and wet rope hangs over everything, cut by charcoal smoke from the street stalls. Junks and coastal traders crowd the moorings; yokai-touched fog rolls in on certain mornings and the harbor wardstones glow faint blue to keep the mist from reaching the granaries. The city is loud — gulls, dock shouts, the bell of the harbor shrine marking the turn of every watch. The Ashikara-appointed harbor master collects duties here, but the merchant guilds hold the real leverage, and everyone knows it. About thirty thousand people live and work in Kawazaki, plus a floating population of sailors, pilgrims, and yokai who do not always trouble to be counted.

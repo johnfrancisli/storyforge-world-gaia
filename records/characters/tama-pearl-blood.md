@@ -15,6 +15,7 @@ gm_notes: Tama is a young pearl diver, apprenticed to Hina Deepwater, and she is
 aliases: []
 race: ''
 gender: ''
+age: nineteen
 heritage: ''
 social_station: ''
 role: Pearl diver (apprentice)
@@ -43,8 +44,7 @@ appearance: A young, lean, water-confident woman with the first pearl-shell earr
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: nineteen
+visual:
   body_build: lean, long-limbed, deep-chested like her teacher
   skin: medium brown, sun-lightened
   hair: dark brown bleached to copper at the tips
@@ -52,6 +52,7 @@ visual_identity:
   distinctive_features: pearl-shell earrings — smaller than Hina's, a gift from her first solo dive, a
     birthmark on the right shoulder in the shape of a spiral, an unconscious habit of looking toward the
     eastern reef
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:tide-pearl-guild

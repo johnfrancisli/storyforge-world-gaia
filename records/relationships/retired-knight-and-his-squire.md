@@ -11,4 +11,6 @@ bond: Aldric sees in Maren the same hunger that got his own first squire killed,
   young squire than anyone realizes — not out of cruelty, but out of terror. Maren mistakes the severity
   for doubt and pushes harder to prove worthy, which is exactly what Aldric fears.
 disposition: 66
+visual:
+  prompt: ''
 ---

@@ -19,4 +19,6 @@ item_tags:
 - hrafnland
 - relic
 - giant-craft
+visual:
+  prompt: ''
 ---

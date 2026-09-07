@@ -9,6 +9,7 @@ aliases:
 - 'Sir Aldrich Whitmore'
 race: Human
 gender: Male
+age: 45
 heritage: Valdris
 social_station: Knight
 role: Dragon-bonded knight
@@ -48,14 +49,14 @@ key_phrases:
 - "We are what we protect."
 - "Silence does not mean absence."
 - "A knight's strength is in his conviction, not his sword."
-visual_identity:
-  age: 45
-  body_build: masterpiece, highly detailed, beautifully proportioned, fit, broad-shouldered, tall, strong, aesthetic body
+visual:
+  body_build: fit, broad-shouldered, strong
   height: tall
-  hair: brown, greying at the temples, cropped short, high quality texture
-  eyes: grey, sparkling eyes, deep gaze, highly detailed eyes
+  hair: brown, greying at the temples, cropped short
+  eyes: grey
   distinctive_features: faint scale patches on the back of the left hand — a mark of the dragon bond
-  face: handsome face, gorgeous, extremely attractive, symmetrical, masterpiece
+  face: handsome, mature, symmetrical features
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:dragon-order

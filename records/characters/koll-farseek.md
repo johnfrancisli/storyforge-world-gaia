@@ -12,6 +12,7 @@ gm_notes: 'Koll is a scout and messenger who runs the mountain trails for Jarl S
 aliases: []
 race: ''
 gender: ''
+age: 24
 heritage: ''
 social_station: ''
 role: Scout / Messenger
@@ -41,13 +42,13 @@ appearance: Lean and fast, Koll wears light wool and leather — travelling clot
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 24
+visual:
   body_build: lean and quick, built for running and climbing
   hair: sandy brown, sun-bleached, worn short
   eyes: green, bright and constantly moving
   distinctive_features: a scout's tattoo of an eye on his right wrist, a scar on his left cheek from a
     fall against rock
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:hra-shipwright-brotherhood

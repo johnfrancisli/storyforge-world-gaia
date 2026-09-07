@@ -6,6 +6,8 @@ jurisdiction: Contested between the Kingdom of Valdris (Verdmarch Constabulary) 
   of the Briar). Neither side holds it fully.
 terrain: canvas tents, cookfires, muddy ground, trench-line rear
 resources: []
+visual:
+  prompt: ''
 ---
 
 A muddy camp of canvas tents and cookfires behind the Valdrian trench line. Soldiers play dice, sharpen blades, and watch the treeline. The officers' tent has a table map pinned with iron markers.

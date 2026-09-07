@@ -12,4 +12,6 @@ bond: Their friendship is the partnership of two crafts that only work together 
   so precisely that a ceremony between them is almost wordless, and the community has noticed that their
   rituals are the only ones that reliably reach the spirit world.
 disposition: 83
+visual:
+  prompt: ''
 ---

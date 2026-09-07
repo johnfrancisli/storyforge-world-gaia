@@ -13,6 +13,7 @@ aliases:
 - 'Shiori'
 race: ''
 gender: ''
+age: early fifties
 heritage: ''
 social_station: ''
 role: Librarian and archivist (shiryo-kan)
@@ -41,12 +42,12 @@ appearance: She wears a practical grey kimono with ink-stained sleeves and a pai
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: early fifties
+visual:
   body_build: thin, angular
   hair: steel grey, in a tight bun secured with two pins
   eyes: hazel, behind round spectacles
   distinctive_features: ink stains on the right middle finger and the tip of the nose from close work
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:ashikara-shogunate

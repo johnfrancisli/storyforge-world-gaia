@@ -10,4 +10,6 @@ description: The closest thing Gaia has to a universal currency. Accepted across
   most nations still honor.
 item_tags:
 - currency
+visual:
+  prompt: ''
 ---

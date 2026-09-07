@@ -10,6 +10,7 @@ gm_notes: Daisy is a halfling girl, just twelve years old, who ran away from her
 aliases: []
 race: ''
 gender: ''
+age: 12
 heritage: ''
 social_station: ''
 role: Street Child / Beggar
@@ -37,13 +38,13 @@ appearance: Small and underfed, Daisy wears a threadbare dress too large for her
 biography: ''
 personality: ''
 key_phrases: []
-visual_identity:
-  age: 12
+visual:
   body_build: small and thin, halfling child
   hair: mousy brown, tangled, unpinned
   eyes: large grey-green
   distinctive_features: a faded bruise on her right forearm, bare feet with calloused soles, a rope-belt
     with a small stolen pouch tied to it
+  prompt: ''
 portrait_variations: []
 affiliations:
 - org:val-mages-circle
