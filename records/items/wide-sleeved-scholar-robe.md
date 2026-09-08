@@ -15,7 +15,7 @@ item_tags:
 - unisex
 - formal
 visual:
-  prompt: floor-length scholar robe, crossed collar, very broad sleeves, layered front panels, bound waist, clean straight hem, isolated garment, clothing focus, front view
+  prompt: ancient Chinese hanfu scholar robe, floor-length formal wrap garment, V-shaped crossed collar, extremely wide draping sleeves, layered overlapping front panels, broad bound waist, straight floor-length hem, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

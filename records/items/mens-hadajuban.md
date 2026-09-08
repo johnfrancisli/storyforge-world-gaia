@@ -14,7 +14,7 @@ item_tags:
 - male
 - top
 visual:
-  prompt: traditional Japanese kimono under-robe shirt, men's hip-length T-shaped cotton wrap undershirt, overlapping front, V-shaped crossed collar, short rectangular sleeves, open sleeve ends, thin internal ties, hadajuban, unworn garment displayed open, clothing focus, front view
+  prompt: traditional Japanese kimono under-robe shirt, men's hip-length T-shaped cotton wrap undershirt, overlapping front, V-shaped crossed collar, short rectangular sleeves, open sleeve ends, thin internal ties, hadajuban, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

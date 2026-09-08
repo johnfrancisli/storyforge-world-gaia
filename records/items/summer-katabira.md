@@ -15,7 +15,7 @@ item_tags:
 - unisex
 - summer
 visual:
-  prompt: traditional Japanese summer kimono-style robe, ankle-length T-shaped straight-cut garment, overlapping wrap front, V-shaped crossed collar, short open rectangular sleeves, unlined loosely woven hemp, light waist tie, airy katabira, unworn garment displayed open, clothing focus, front three-quarter view
+  prompt: traditional Japanese summer kimono-style robe, ankle-length T-shaped straight-cut garment, overlapping wrap front, V-shaped crossed collar, short open rectangular sleeves, unlined loosely woven hemp, light waist tie, airy katabira, front three-quarter view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

@@ -14,7 +14,7 @@ item_tags:
 - unisex
 - festival
 visual:
-  prompt: calf-length layered leaf-fiber fringe skirt, narrow knotted strips, woven waistband, short barkcloth underlayer, mobile fringe, isolated garment, clothing focus, front view
+  prompt: Amazonian rainforest festival skirt, calf-length layered fringe made from narrow prepared leaf-fiber strips, broad woven waistband, short solid barkcloth modesty skirt visible underneath, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

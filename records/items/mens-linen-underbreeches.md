@@ -14,7 +14,7 @@ item_tags:
 - male
 - bottom
 visual:
-  prompt: loose knee-length linen underbreeches, drawstring waist, broad seat gusset, gathered leg openings, isolated undergarment, clothing focus, front view
+  prompt: Viking-age men's loose linen underwear breeches, knee-length drawers, gathered drawstring waistband, broad gusseted seat, gathered leg openings, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

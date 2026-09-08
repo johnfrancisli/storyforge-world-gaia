@@ -14,7 +14,7 @@ item_tags:
 - unisex
 - riverwear
 visual:
-  prompt: short divided river-work wrap, separate leg passage, twin hip ties, doubled seat panels, close water-stable edges, isolated garment, clothing focus, front view
+  prompt: Amazonian river-worker divided loin wrap, short lower garment with cloth passing separately between legs, overlapping front and back panels, twin ties fastened at hips, doubled reinforced seat, close edges that cannot billow in water, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

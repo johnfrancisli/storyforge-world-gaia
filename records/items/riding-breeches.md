@@ -14,7 +14,7 @@ item_tags:
 - unisex
 - riding
 visual:
-  prompt: wool riding breeches, roomy hips and thighs, narrow below-knee cuffs with ties, reinforced inner legs, isolated garment, clothing focus, front view
+  prompt: medieval European riding breeches, wool trousers loose through hips and thighs, reinforced seat and inner legs, legs narrowing below knee, tied knee cuffs, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

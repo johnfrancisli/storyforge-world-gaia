@@ -15,7 +15,7 @@ item_tags:
 - unisex
 - workwear
 visual:
-  prompt: dense wool split-hem tunic, broad torso cut, short side vents, fitted forearms, high collar, reinforced shoulder and abdomen panels, isolated garment, clothing focus, front view
+  prompt: fantasy dwarven work tunic, medieval hip-length wool shirt, broad boxy torso, high collar, long sleeves fitted at forearms, reinforced shoulder and abdomen panels, short side vents at hem, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

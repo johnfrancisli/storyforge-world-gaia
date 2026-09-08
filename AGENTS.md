@@ -768,34 +768,26 @@ ITEM / MEMENTO PROMPTS
 
 When the requested subject is an object rather than a character, do not insert character tags.
 
-Every item image uses a clean catalog-style presentation. Depict one centered
-item by itself, with the entire item visible and enough white space around its
-silhouette. The background is clean white. The composition is borderless: do
-not add a decorative frame, card edge, corner ornament, botanical surround,
-compass rose, vignette, pedestal, room, landscape, scenery, props, or text
-unless the item record explicitly requires one of those things as part of the
-item itself.
+`visual.prompt` stores item-specific content only. Describe what the item is
+and what visibly distinguishes it. Do not store the shared catalog presentation
+in each record: the item-image generator separately adds the centered isolated
+composition, full-object framing, white background, borderless treatment, and
+no-human exclusions. For wearable items it also adds the invisible-wearer or
+ghost-mannequin display and natural worn volume at generation time.
 
-End every item prompt with the applicable parts of this presentation block:
+Therefore do not put any of the following shared presentation concepts in an
+item's `visual.prompt`:
 
-single item, object focus, isolated object, centered composition, full object visible, clear silhouette, clean white background, borderless composition
+people or character-count tags
+mannequins, wearers, hangers, or display forms
+background or scenery instructions
+borders, frames, corner decoration, or surrounding ornaments
+pedestals, rooms, landscapes, or unrelated props
+global quality or art-style terms
 
-For wearable items such as clothing, armor, cloaks, robes, footwear, and
-jewelry, show the item holding its natural worn shape on an invisible wearer.
-Use positive phrases such as:
-
-ghost mannequin display, invisible mannequin, empty garment, natural worn volume, hollow neck opening, empty sleeves, sleeves hanging naturally
-
-Choose only the phrases that fit the item. The wearer must be completely
-absent: never add a person, character count or gender tag, face, head, hair,
-skin, hands, feet, limbs, visible mannequin, hanger, or dress form. “Ghost
-mannequin” describes the display technique only; do not add a ghost, spirit,
-glow, magical aura, or supernatural effect. Do not show wearable items folded,
-laid flat, or collapsed unless the record explicitly requests that view.
-
-For non-wearable items, keep the object unsupported in the simplest stable
-display orientation. Do not apply ghost-mannequin or garment-shaping language
-to weapons, tools, books, relics, or other ordinary objects.
+An item's own camera angle may remain when it is necessary to reveal its
+construction, but generic framing belongs to the generator. A canonical
+multi-piece set may describe all of its required pieces.
 
 Prioritize:
 
@@ -811,25 +803,9 @@ engraving
 color
 distinctive components
 
-Useful composition terms include:
+Example:
 
-object focus
-isolated object
-centered composition
-full object visible
-clear silhouette
-clean white background
-borderless composition
-
-when appropriate.
-
-Non-wearable example:
-
-ornate elven hunting knife, narrow leaf-shaped steel blade, carved ashwood handle, silver wire wrapping, worn leather sheath, small chip near blade tip, engraved vine motif, three-quarter view, single item, object focus, isolated object, centered composition, full object visible, clear silhouette, clean white background, borderless composition
-
-Wearable example:
-
-long hooded forest cloak, moss-green wool, deep hood, bronze throat clasp, broad draping folds, weathered lower hem, ghost mannequin display, invisible mannequin, empty garment, natural worn volume, hollow hood opening, empty sleeves, sleeves hanging naturally, single item, clothing focus, isolated object, centered composition, full object visible, clear silhouette, clean white background, borderless composition
+ornate elven hunting knife, narrow leaf-shaped steel blade, carved ashwood handle, silver wire wrapping, worn leather sheath, small chip near blade tip, engraved vine motif, three-quarter view
 
 ========================================
 LOCATION PROMPTS

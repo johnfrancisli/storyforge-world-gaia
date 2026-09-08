@@ -15,7 +15,7 @@ item_tags:
 - bottom
 - winter
 visual:
-  prompt: full-length soft wool underdrawers, linen-lined waist, ankle ties, gusseted seat, simple fitted legs, isolated undergarment, clothing focus, front view
+  prompt: medieval European men's wool winter underwear, full-length fitted underdrawers, soft knitted-looking wool cloth, linen-faced drawstring waist, roomy gusseted seat, narrow ankles with ties, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

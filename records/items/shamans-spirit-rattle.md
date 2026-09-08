@@ -23,7 +23,7 @@ item_tags:
 - equipment
 - shamanism
 visual:
-  prompt: small dried gourd spirit rattle, child-fist-sized gourd, painted bands of red black and yellow, woven palm-fiber carrying cord, wax-sealed stopper, single pact-spirit feather wrapped at the neck, subtly irregular handmade surface, object focus, isolated ritual tool, three-quarter view, clear silhouette
+  prompt: small dried gourd spirit rattle, child-fist-sized gourd, painted bands of red black and yellow, woven palm-fiber carrying cord, wax-sealed stopper, single pact-spirit feather wrapped at the neck, subtly irregular handmade surface, three-quarter view, object focus
 image:
   url: ''
   focalPoint:

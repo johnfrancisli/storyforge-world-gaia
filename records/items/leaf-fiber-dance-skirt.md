@@ -14,7 +14,7 @@ item_tags:
 - unisex
 - ceremonial
 visual:
-  prompt: knee-length leaf-fiber dance skirt, prepared fiber strands, broad woven waistband, dense layered fringe, knotted construction, isolated garment, clothing focus, front view
+  prompt: traditional Polynesian-style dance skirt, knee-length garment made from many prepared leaf-fiber strands, dense layered moving fringe, broad woven waistband, visible knotted construction, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

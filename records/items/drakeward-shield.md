@@ -21,7 +21,7 @@ item_tags:
 - armor
 - dragon-bond
 visual:
-  prompt: tall tower shield, layered oak construction, heavy iron binding, dark old-blood-red dragon-scale hide facing, iron shield boss shaped as a sleeping curled dragon, faint scale-shaped shadows across the hide, object focus, isolated armor, upright full view, three-quarter view, clear silhouette
+  prompt: tall tower shield, layered oak construction, heavy iron binding, dark old-blood-red dragon-scale hide facing, iron shield boss shaped as a sleeping curled dragon, faint scale-shaped shadows across the hide, upright full view, three-quarter view, object focus
 image:
   url: ''
   focalPoint:

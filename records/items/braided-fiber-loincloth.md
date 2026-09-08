@@ -14,7 +14,7 @@ item_tags:
 - unisex
 - hot-weather
 visual:
-  prompt: softened plant-cloth loincloth, broad braided waist cord, long front and back panels, reinforced panel ends, isolated garment, clothing focus, front three-quarter view
+  prompt: Amazonian rainforest plant-cloth loincloth, broad braided fiber waistband, softened cloth passed between legs, long separate front and back hanging panels, reinforced panel ends, front three-quarter view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

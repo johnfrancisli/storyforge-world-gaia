@@ -25,7 +25,7 @@ item_tags:
 - seidr
 - divination
 visual:
-  prompt: worn leather divination pouch with plaited sinew cord, pouch opened beside twenty-odd small prophecy bones, seal and deer knucklebones, whale-rib fragment, two yellowed human finger bones, one deeply scratched rune on each bone, bones scattered across a hide, object focus, close-up, firelight
+  prompt: worn leather divination pouch with plaited sinew cord, pouch opened beside twenty-odd small prophecy bones, seal and deer knucklebones, whale-rib fragment, two yellowed human finger bones, one deeply scratched rune on each bone, bones arranged beside the opened pouch, close-up, object focus
 image:
   url: ''
   focalPoint:

@@ -14,7 +14,7 @@ item_tags:
 - female
 - workwear
 visual:
-  prompt: ankle-length work skirt, drawstring waist, broad side gores, deep front overlap, patchable lower hem, isolated garment, clothing focus, front three-quarter view
+  prompt: medieval European women's ankle-length work skirt, full practical A-line silhouette, gathered drawstring waist, broad side gores, deep overlapping front panel, visibly repairable reinforced hem, front three-quarter view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

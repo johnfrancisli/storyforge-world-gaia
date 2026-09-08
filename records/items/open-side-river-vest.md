@@ -14,7 +14,7 @@ item_tags:
 - unisex
 - riverwear
 visual:
-  prompt: short woven plant-fiber river vest, broad shoulder panels, open sides, braided underarm ties, reinforced neckline, isolated garment, clothing focus, front three-quarter view
+  prompt: Amazonian woven plant-fiber vest, short sleeveless upper garment, broad shoulder panels, completely open sides, braided ties beneath each arm, reinforced round neckline, front three-quarter view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

@@ -14,7 +14,7 @@ item_tags:
 - unisex
 - barkcloth
 visual:
-  prompt: knee-length rectangular barkcloth wrap skirt, deep front overlap, broad folded waist, braided fiber tie, isolated garment, clothing focus, front view
+  prompt: Amazonian barkcloth wrap skirt, knee-length rectangular softened plant-cloth garment, broad folded waistband, deep overlapping front panels, braided fiber waist tie, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

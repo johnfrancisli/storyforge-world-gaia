@@ -14,7 +14,7 @@ item_tags:
 - unisex
 - fieldwear
 visual:
-  prompt: traditional Japanese field trousers, hakama-style pleated roomy upper legs, sharply tapered calves, cloth ties wrapped below each knee, secure high waist with long cords, durable woven fabric, tattsuke hakama, unworn trousers laid flat, clothing focus, front view
+  prompt: traditional Japanese field trousers, hakama-style pleated roomy upper legs, sharply tapered calves, cloth ties wrapped below each knee, secure high waist with long cords, durable woven fabric, tattsuke hakama, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

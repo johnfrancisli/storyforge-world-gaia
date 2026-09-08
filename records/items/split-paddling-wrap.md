@@ -14,7 +14,7 @@ item_tags:
 - unisex
 - sailing
 visual:
-  prompt: knee-length split paddling wrap, overlapping front and back panels, high tied waist, reinforced seat, deep side openings, quick-drying woven cloth, isolated garment, clothing focus, front three-quarter view
+  prompt: knee-length split paddling wrap, overlapping front and back panels, high tied waist, reinforced seat, deep side openings, quick-drying woven cloth, front three-quarter view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

@@ -14,7 +14,7 @@ item_tags:
 - unisex
 - travel
 visual:
-  prompt: traditional Japanese narrow pleated skirt-trousers, clearly divided trouser legs, shallow front pleats, firm wrapped waist, long tying cords, tapered calves, narrow gaiter-ready hems, travel hakama, unworn garment displayed open, clothing focus, front three-quarter view
+  prompt: traditional Japanese narrow pleated skirt-trousers, clearly divided trouser legs, shallow front pleats, firm wrapped waist, long tying cords, tapered calves, narrow gaiter-ready hems, travel hakama, front three-quarter view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

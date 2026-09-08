@@ -14,7 +14,7 @@ item_tags:
 - unisex
 - workwear
 visual:
-  prompt: traditional Japanese hip-length work jacket, boxy straight-cut body, open front, broad flat collar band, short square sleeves, hidden interior ties, reinforced hem, sturdy woven cloth, hanten, unworn jacket displayed open, clothing focus, front view
+  prompt: traditional Japanese hip-length work jacket, boxy straight-cut body, open front, broad flat collar band, short square sleeves, hidden interior ties, reinforced hem, sturdy woven cloth, hanten, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

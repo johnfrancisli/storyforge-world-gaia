@@ -16,7 +16,7 @@ item_tags:
 - support
 - workwear
 visual:
-  prompt: compact woven plant-fiber chest band, broad front panel, narrow shoulder loops, adjustable side ties, flexible unstructured construction, isolated undergarment, clothing focus, front view
+  prompt: Amazonian women's woven plant-fiber chest support top, compact soft undergarment, broad front chest panel, narrow shoulder loops, adjustable side ties, flexible unstructured construction, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

@@ -23,7 +23,7 @@ item_tags:
 - accessory
 - authority
 visual:
-  prompt: clenched-fist-sized pale green jade seal, coiled qilin carving forming the body, qilin horn shaped as the grip, individually carved scales, polished flat stamp base, seal-script inscription on base, faint jade luminescence in darkness, object focus, isolated accessory, close-up, three-quarter view
+  prompt: clenched-fist-sized pale green jade seal, coiled qilin carving forming the body, qilin horn shaped as the grip, individually carved scales, polished flat stamp base, seal-script inscription on base, faint jade luminescence along the carved edges, close-up, three-quarter view, object focus
 image:
   url: ''
   focalPoint:

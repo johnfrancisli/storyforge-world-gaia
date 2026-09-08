@@ -15,7 +15,7 @@ item_tags:
 - bottom
 - winter
 visual:
-  prompt: soft full-length wool undertrousers, linen-faced waist, close ankles, roomy gusseted seat, isolated undergarment, clothing focus, front view
+  prompt: Norse Viking men's winter underwear trousers, soft full-length wool underdrawers, linen-faced drawstring waist, roomy gusseted seat, close tapered ankles, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

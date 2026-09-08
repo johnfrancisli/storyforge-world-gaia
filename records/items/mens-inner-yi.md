@@ -15,7 +15,7 @@ item_tags:
 - top
 - under-armor
 visual:
-  prompt: plain hip-length ramie inner shirt, narrow crossed collar, close sleeves, flat seams, small internal ties, isolated undergarment, clothing focus, front view
+  prompt: ancient Chinese hanfu-style men's undershirt, hip-length ramie wrap shirt worn against skin, overlapping right-closing front, narrow V-shaped crossed collar, close long sleeves, flat seams, small hidden ties, inner yi, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

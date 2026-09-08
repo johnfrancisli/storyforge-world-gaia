@@ -24,7 +24,7 @@ item_tags:
 - accessory
 - spirit-pact
 visual:
-  prompt: coin-wide polished white jade disc, square central hole, red silk neck cord, finely carved qilin in mid-stride on the jade face, object focus, isolated accessory, close-up, three-quarter view, clear silhouette
+  prompt: coin-wide polished white jade disc, square central hole, red silk neck cord, finely carved qilin in mid-stride on the jade face, close-up, three-quarter view, object focus
 image:
   url: ''
   focalPoint:

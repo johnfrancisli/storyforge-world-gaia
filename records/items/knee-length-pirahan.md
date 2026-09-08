@@ -14,7 +14,7 @@ item_tags:
 - unisex
 - workwear
 visual:
-  prompt: knee-length pirahan shirt, narrow standing neck, long tapered sleeves, side slits, slightly flared hem, lightweight woven cloth, isolated garment, clothing focus, front view
+  prompt: medieval Persian-style tunic shirt, knee-length loose pullover garment, narrow standing neck with small front opening, long tapered sleeves, deep side slits, slightly flared hem, lightweight woven cloth, pirahan, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

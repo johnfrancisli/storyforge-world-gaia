@@ -24,7 +24,7 @@ item_tags:
 - equipment
 - dwarf-craft
 visual:
-  prompt: forearm-length black iron master key, massive heavy construction, key bow forged as a dwarven opening rune, bit formed from interlocking movable metal plates, faint oil patina on dark metal, precise dwarven craftsmanship, object focus, isolated relic, full-length three-quarter view, clear silhouette
+  prompt: forearm-length black iron master key, massive heavy construction, key bow forged as a dwarven opening rune, bit formed from interlocking movable metal plates, faint oil patina on dark metal, precise dwarven craftsmanship, full-length three-quarter view, object focus
 image:
   url: ''
   focalPoint:

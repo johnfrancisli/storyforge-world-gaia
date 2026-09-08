@@ -14,7 +14,7 @@ item_tags:
 - unisex
 - workwear
 visual:
-  prompt: traditional Japanese pleated divided skirt-trousers, wide separate trouser legs resembling a long skirt, five deep front pleats, firm high waist panel, long wraparound tying cords, shortened work hem, hakama, unworn garment displayed open, clothing focus, front view
+  prompt: traditional Japanese pleated divided skirt-trousers, wide separate trouser legs resembling a long skirt, five deep front pleats, firm high waist panel, long wraparound tying cords, shortened work hem, hakama, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

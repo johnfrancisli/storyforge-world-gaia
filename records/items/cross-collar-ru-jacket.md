@@ -14,7 +14,7 @@ item_tags:
 - unisex
 - daily
 visual:
-  prompt: waist-length hemp or ramie ru jacket, right-closing crossed collar, long sleeves, side vents, hidden cloth ties, isolated garment, clothing focus, front view
+  prompt: ancient Chinese hanfu-style wrap jacket, waist-length straight-cut upper garment, overlapping right-closing front, V-shaped crossed collar, long straight sleeves, short side vents, hidden cloth ties, ru jacket, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

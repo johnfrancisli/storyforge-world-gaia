@@ -14,7 +14,7 @@ item_tags:
 - unisex
 - workwear
 visual:
-  prompt: thigh-length open-sided island tunic, broad shoulder panels, sleeveless cut, adjustable side ties, split hem, quick-drying woven fiber cloth, isolated garment, clothing focus, front view
+  prompt: traditional tropical island sleeveless tunic, thigh-length straight upper garment, broad shoulder panels, fully open sides joined by adjustable ties, split lower hem, quick-drying woven plant-fiber cloth, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

@@ -14,7 +14,7 @@ item_tags:
 - unisex
 - workwear
 visual:
-  prompt: loose straight desert trousers, gusseted seat, broad tie waist, reinforced inner thighs, cloth-bound ankle hems, lightweight durable fabric, isolated garment, clothing focus, front view
+  prompt: medieval Middle Eastern loose work trousers, full-length straight legs, broad tied waistband, roomy gusseted seat, reinforced inner thighs, each hem gathered and tied above ankle, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

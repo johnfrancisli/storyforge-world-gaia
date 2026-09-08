@@ -15,7 +15,7 @@ item_tags:
 - ceremonial
 - featherwork
 visual:
-  prompt: light barkcloth shoulder mantle, asymmetrical drape, single side fastening, narrow fringe of small feathers, hand-finished edge, isolated garment, clothing focus, front three-quarter view
+  prompt: Amazonian barkcloth ceremonial shoulder cape, lightweight asymmetrical cloth draped over one shoulder, single side fastening, narrow fringe of many small feathers along outer edge, hand-finished plant-fiber fabric, front three-quarter view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

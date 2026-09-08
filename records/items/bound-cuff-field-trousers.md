@@ -14,7 +14,7 @@ item_tags:
 - unisex
 - workwear
 visual:
-  prompt: roomy hemp field trousers, tapered lower legs, narrow ankle cuffs, reinforced knees, gusseted seat, calf ties, isolated garment, clothing focus, front view
+  prompt: ancient Chinese work trousers, loose full-length hemp pants, broad tied waistband, roomy gusseted seat, reinforced knees, lower legs tapering into narrow bound ankle cuffs, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

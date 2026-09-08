@@ -15,7 +15,7 @@ item_tags:
 - top
 - support
 visual:
-  prompt: soft rectangular mofu chest cloth, long corner ties, flat torso-wrapping construction, no boning, no rigid cups, isolated undergarment, clothing focus, front view
+  prompt: ancient Chinese women's chest wrap undergarment, flat overlapping front, long corner ties secured at back, flexible unstructured breast support, mofu wrap, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

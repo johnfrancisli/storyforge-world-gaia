@@ -24,7 +24,7 @@ item_tags:
 - equipment
 - divination
 visual:
-  prompt: palm-sized flat river stone resting in a shallow bowl of still water, smooth dark green stone, single pale vein like a dried watercourse, vein darkening and shifting beneath water, faint branching divination lines appearing across wet surface, subtle ripples, object focus, close-up, top-down three-quarter view
+  prompt: palm-sized flat river stone resting in a shallow bowl of still water, smooth dark green stone, single pale vein like a dried watercourse, vein darkening and shifting beneath water, faint branching divination lines appearing across wet surface, subtle ripples, close-up, top-down three-quarter view, object focus
 image:
   url: ''
   focalPoint:

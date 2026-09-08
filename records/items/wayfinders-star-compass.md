@@ -24,7 +24,7 @@ item_tags:
 - equipment
 - navigation
 visual:
-  prompt: outstretched-hand-wide disc of polished pearl shell, thirty-two tiny drilled points filled with black pigment, central bone pivot, etched lines radiating in great star-path patterns, iridescent shell holding a reflected night sky, object focus, isolated navigation instrument, close-up, three-quarter view
+  prompt: outstretched-hand-wide disc of polished pearl shell, thirty-two tiny drilled points filled with black pigment, central bone pivot, etched lines radiating in great star-path patterns, iridescent shell holding a reflected night sky, close-up, three-quarter view, object focus
 image:
   url: ''
   focalPoint:

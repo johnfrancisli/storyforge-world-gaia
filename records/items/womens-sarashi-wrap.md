@@ -15,7 +15,7 @@ item_tags:
 - top
 - support
 visual:
-  prompt: traditional Japanese women's sarashi chest binder, wide soft cotton band arranged in multiple smooth horizontal layers around a simple headless torso display form, close breast-support wrapping shape, flat overlapping layers, narrow finished edges, plain washable fabric, undergarment focus, front three-quarter view
+  prompt: traditional Japanese women's sarashi chest binder, wide soft cotton band arranged in multiple smooth horizontal layers, close breast-support wrapping shape, flat overlapping layers, narrow finished edges, plain washable fabric, front three-quarter view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

@@ -15,7 +15,7 @@ item_tags:
 - unisex
 - formal
 visual:
-  prompt: traditional Japanese kimono-style formal robe, ankle-length T-shaped straight-cut garment, overlapping wrap front, V-shaped crossed collar, short rectangular sleeves with small openings, smooth silk lining, restrained woven motifs along hem and sleeve edges, kosode, unworn garment displayed open, clothing focus, front three-quarter view
+  prompt: traditional Japanese kimono-style formal robe, ankle-length T-shaped straight-cut garment, overlapping wrap front, V-shaped crossed collar, short rectangular sleeves with small openings, smooth silk lining, restrained woven motifs along hem and sleeve edges, kosode, front three-quarter view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

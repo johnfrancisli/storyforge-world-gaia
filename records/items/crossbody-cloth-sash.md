@@ -14,7 +14,7 @@ item_tags:
 - unisex
 - travel
 visual:
-  prompt: broad woven plant-cloth crossbody sash, widened shoulder section, fringed ends, small tied pocket, diagonal wearing shape, isolated garment, clothing focus
+  prompt: Amazonian woven plant-cloth shoulder sash, broad fabric band draped diagonally from one shoulder across torso to opposite hip, widened shoulder pad, fringed ends, small tied utility pocket, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

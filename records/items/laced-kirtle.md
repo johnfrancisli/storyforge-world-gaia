@@ -14,7 +14,7 @@ item_tags:
 - dress
 - female
 visual:
-  prompt: ankle-length wool kirtle dress, fitted torso, long sleeves, side lacing, gently flared skirt, reinforced hem, isolated garment, clothing focus, front view
+  prompt: medieval European women's kirtle dress, ankle-length wool gown, fitted laced bodice, long close sleeves, visible side lacing, full gently flared skirt made from gores, reinforced hem, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

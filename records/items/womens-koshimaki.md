@@ -14,7 +14,7 @@ item_tags:
 - female
 - bottom
 visual:
-  prompt: traditional Japanese women's wrap underskirt, soft rectangular cotton cloth arranged as a straight knee-length skirt, flat overlapping front panels, narrow waist ties, plain washable fabric, koshimaki, unworn garment displayed in wrapped shape, clothing focus, front view
+  prompt: traditional Japanese women's wrap underskirt, soft rectangular cotton cloth arranged as a straight knee-length skirt, flat overlapping front panels, narrow waist ties, plain washable fabric, koshimaki, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

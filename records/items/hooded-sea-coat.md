@@ -15,7 +15,7 @@ item_tags:
 - sea-wear
 - rainwear
 visual:
-  prompt: thigh-length dense wool sea coat, deep hood, overlapping front, fitted wrists, split back hem, oil-and-wax-treated cloth, isolated garment, clothing focus, front three-quarter view
+  prompt: Norse Viking hooded sea coat, thigh-length heavy wool outer coat, deep attached hood, double-layer overlapping front, fitted wrist cuffs, split back hem, waxed water-resistant cloth texture, front three-quarter view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

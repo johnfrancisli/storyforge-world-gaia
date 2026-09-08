@@ -15,7 +15,7 @@ item_tags:
 - female
 - bottom
 visual:
-  prompt: light full-length undertrousers, broad tie waist, roomy seat, straight legs, narrow ankle ties, plain washable fabric, isolated undergarment, clothing focus, front view
+  prompt: ancient Chinese and medieval Middle Eastern women's loose undertrousers, lightweight full-length pants, broad tied waistband, roomy gusseted seat, straight legs, narrow ankle ties, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

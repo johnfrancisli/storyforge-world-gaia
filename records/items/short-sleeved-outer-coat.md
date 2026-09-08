@@ -14,7 +14,7 @@ item_tags:
 - unisex
 - formal
 visual:
-  prompt: calf-length open-front cloth coat, broad short sleeves, reinforced shoulders, narrow lapels, long side slits, lightly structured fabric, isolated garment, clothing focus, front three-quarter view
+  prompt: medieval Persian-style formal outer coat, calf-length open-front garment, broad elbow-length sleeves, reinforced shoulders, narrow lapels, long side slits for riding, lightly structured woven cloth, front three-quarter view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

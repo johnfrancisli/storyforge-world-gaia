@@ -14,7 +14,7 @@ item_tags:
 - unisex
 - formal
 visual:
-  prompt: straight ankle-length chang wrap skirt, deep overlapping front, broad waist ties, weighted lower corners, orderly flat panels, isolated garment, clothing focus, front view
+  prompt: ancient Chinese formal wrap skirt, unisex ankle-length straight lower garment, deep overlapping front panels, broad wraparound waist ties, flat orderly drape, small weighted lower corners, chang skirt, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

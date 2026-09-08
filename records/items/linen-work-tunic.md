@@ -15,7 +15,7 @@ item_tags:
 - unisex
 - workwear
 visual:
-  prompt: knee-length linen work tunic, long sleeves, slit neckline, underarm gussets, side gores, reinforced shoulders, belt-ready waist, isolated garment, clothing focus, front view
+  prompt: medieval European Norse linen work tunic, knee-length straight pullover shirt, long sleeves, small slit neckline, underarm gussets, flared side gores, reinforced shoulders, belt-ready waist, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

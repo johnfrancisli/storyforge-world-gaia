@@ -14,7 +14,7 @@ item_tags:
 - female
 - top
 visual:
-  prompt: loose ankle-length linen chemise, long sleeves, wide drawstring neckline, underarm gussets, side gores, isolated undergarment, clothing focus, front view
+  prompt: medieval European women's linen chemise, loose ankle-length underdress worn against skin, long sleeves, wide gathered drawstring neckline, underarm gussets, full body with side gores, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

@@ -14,7 +14,7 @@ item_tags:
 - unisex
 - riding
 visual:
-  prompt: traditional Japanese pleated riding skirt-trousers, wide separate trouser legs, deep front pleats, roomy saddle seat, reinforced inner thighs, firm waist panel, long wraparound tying cords, full-length hakama, unworn garment displayed open, clothing focus, front three-quarter view
+  prompt: traditional Japanese pleated riding skirt-trousers, wide separate trouser legs, deep front pleats, roomy saddle seat, reinforced inner thighs, firm waist panel, long wraparound tying cords, full-length hakama, front three-quarter view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

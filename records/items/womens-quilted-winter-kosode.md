@@ -17,7 +17,7 @@ item_tags:
 - winter
 - daily
 visual:
-  prompt: japanese calf length, short sleeve japanese robe
+  prompt: traditional Japanese women's quilted winter kosode, calf-length T-shaped padded wrap robe, crossed front, V-shaped crossed collar, compact rectangular sleeves, softly quilted lining, reinforced cuffs, room for an underrobe, front three-quarter view, clothing focus
 image:
   url: ''
   focalPoint:

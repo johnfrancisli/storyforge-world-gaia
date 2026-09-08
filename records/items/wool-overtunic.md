@@ -15,7 +15,7 @@ item_tags:
 - unisex
 - cold-weather
 visual:
-  prompt: mid-thigh wool overtunic, close round neck, tapered sleeves, broad side gores, tablet-woven cuff and hem reinforcement, isolated garment, clothing focus, front three-quarter view
+  prompt: medieval European Norse wool overtunic, mid-thigh pullover outer shirt, close round neckline, tapered long sleeves, broad flared side gores, tablet-woven reinforcement at cuffs and hem, front three-quarter view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

@@ -15,7 +15,7 @@ item_tags:
 - clergy
 - ceremonial
 visual:
-  prompt: traditional Japanese shrine maiden pleated skirt-trousers, scarlet-red ankle-length hakama, wide separate trouser legs concealed by a full skirt-like silhouette, deep straight pleats, high firm waist panel, long wraparound tying cords, unworn garment displayed open, clothing focus, front view
+  prompt: traditional Japanese shrine maiden pleated skirt-trousers, scarlet-red ankle-length hakama, wide separate trouser legs concealed by a full skirt-like silhouette, deep straight pleats, high firm waist panel, long wraparound tying cords, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

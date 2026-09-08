@@ -21,7 +21,7 @@ item_tags:
 - equipment
 - communication
 visual:
-  prompt: finger-narrow pale rice-paper message scroll, wound around a pale fox-bone spool, fine red fox fur pressed into the paper as flowing written characters, lightly curled paper edges, object focus, isolated scroll, partially unrolled, close-up, three-quarter view
+  prompt: finger-narrow pale rice-paper message scroll, wound around a pale fox-bone spool, fine red fox fur pressed into the paper as flowing written characters, lightly curled paper edges, partially unrolled, close-up, three-quarter view, object focus
 image:
   url: ''
   focalPoint:

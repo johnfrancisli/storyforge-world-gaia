@@ -14,7 +14,7 @@ item_tags:
 - female
 - top
 visual:
-  prompt: plain ankle-length linen undersmock, long sleeves, modest round neck, underarm gussets, generous side gores, isolated undergarment, clothing focus, front view
+  prompt: Viking-age women's linen undersmock, plain ankle-length underdress worn beneath an apron dress, long sleeves, modest round neckline, underarm gussets, full flared body with side gores, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

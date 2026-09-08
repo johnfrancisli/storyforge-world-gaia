@@ -21,7 +21,7 @@ item_tags:
 - weapon
 - legendary
 visual:
-  prompt: pale steel katana, lightning-shaped hamon flickering along the blade, dark blue silk-wrapped tsuka over rayskin, iron tsuba worked into a swirling cloud motif, black lacquered saya beside the blade, single silver crescent at scabbard throat, object focus, isolated weapon, full-length horizontal composition, three-quarter view, clear silhouette
+  prompt: pale steel katana, lightning-shaped hamon flickering along the blade, dark blue silk-wrapped tsuka over rayskin, iron tsuba worked into a swirling cloud motif, black lacquered saya beside the blade, single silver crescent at scabbard throat, full-length horizontal composition, three-quarter view, object focus
 image:
   url: ''
   focalPoint:

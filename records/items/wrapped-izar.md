@@ -14,7 +14,7 @@ item_tags:
 - unisex
 - hot-weather
 visual:
-  prompt: ankle-length wrapped izar, broad rectangular cloth, layered waist folds, tucked closure, optional narrow woven belt, lightweight draping fabric, isolated garment, clothing focus, front three-quarter view
+  prompt: medieval Middle Eastern ankle-length waist wrap, broad rectangular lightweight cloth arranged as a straight wrap skirt, layered folds around waist, deep front overlap, tucked closure, optional narrow woven belt, izar, front three-quarter view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

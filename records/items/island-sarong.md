@@ -14,7 +14,7 @@ item_tags:
 - unisex
 - trade
 visual:
-  prompt: ankle-length island sarong, lightweight woven cloth tube, folded waistband, flat tucked closure, straight loose folds, isolated garment, clothing focus, front three-quarter view
+  prompt: traditional Southeast Asian island sarong, ankle-length tubular wrap skirt, lightweight woven cloth folded over at waist, flat tucked side closure, straight loose vertical folds, front three-quarter view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

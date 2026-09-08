@@ -24,7 +24,7 @@ item_tags:
 - equipment
 - giant-craft
 visual:
-  prompt: forearm-length drinking horn carved from a great northern beast tusk, cold-forged iron rim and tip, crude giant rune worked into iron tip, persistent frost crusting the horn, mead inside capped with a thin skin of ice, object focus, isolated relic, three-quarter view, clear silhouette
+  prompt: forearm-length drinking horn carved from a great northern beast tusk, cold-forged iron rim and tip, crude giant rune worked into iron tip, persistent frost crusting the horn, mead inside capped with a thin skin of ice, three-quarter view, object focus
 image:
   url: ''
   focalPoint:

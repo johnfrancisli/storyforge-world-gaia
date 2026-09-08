@@ -14,7 +14,7 @@ item_tags:
 - unisex
 - sea-wear
 visual:
-  prompt: roomy gathered wool ship trousers, broad seat and thighs, sharply narrowed below knees, leg-wrap-ready calves, isolated garment, clothing focus, front view
+  prompt: Viking sailor trousers, baggy wool breeches with heavily gathered waist and roomy seat, voluminous thighs, legs tapering sharply below knees, narrow calves made for leg wraps, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

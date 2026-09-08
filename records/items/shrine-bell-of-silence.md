@@ -22,7 +22,7 @@ item_tags:
 - equipment
 - yokai
 visual:
-  prompt: closed-fist-sized bronze ritual bell, dark age-patinated metal, braided red and white cotton cord, ring of tiny etched shrine characters around the bell, simple old shrine craftsmanship, object focus, isolated ritual tool, close-up, three-quarter view, clear silhouette
+  prompt: closed-fist-sized bronze ritual bell, dark age-patinated metal, braided red and white cotton cord, ring of tiny etched shrine characters around the bell, simple old shrine craftsmanship, close-up, three-quarter view, object focus
 image:
   url: ''
   focalPoint:

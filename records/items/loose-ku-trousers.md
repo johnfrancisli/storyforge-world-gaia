@@ -14,7 +14,7 @@ item_tags:
 - unisex
 - daily
 visual:
-  prompt: loose full-length ku trousers, broad drawstring waist, deep seat, straight legs, generous ankle openings, isolated garment, clothing focus, front view
+  prompt: ancient Chinese loose trousers, full-length straight-leg pants, broad drawstring waistband, very deep roomy seat, generous ankle openings, lightweight woven cloth, ku trousers, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

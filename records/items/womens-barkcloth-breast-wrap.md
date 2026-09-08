@@ -15,7 +15,7 @@ item_tags:
 - top
 - support
 visual:
-  prompt: women's softened barkcloth breast wrap, broad chest band, overlapped front layers, flat braided back ties, flexible fibrous fabric, isolated undergarment, clothing focus, folded display
+  prompt: traditional tropical island women's barkcloth breast wrap, overlapping front layers, flat braided ties secured at back, flexible breast support, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

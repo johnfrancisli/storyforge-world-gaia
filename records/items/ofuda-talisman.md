@@ -15,7 +15,7 @@ item_tags:
 - tsukuyomi
 - accessory
 visual:
-  prompt: hand-length paper ofuda talisman, narrow cream paper strip, bold black brush-written shrine characters, small red seal stamp near bottom, lightly folded center crease, object focus, isolated accessory, front view, close-up, clear silhouette
+  prompt: hand-length paper ofuda talisman, narrow cream paper strip, bold black brush-written shrine characters, small red seal stamp near bottom, lightly folded center crease, front view, close-up, object focus
 image:
   url: ''
   focalPoint:

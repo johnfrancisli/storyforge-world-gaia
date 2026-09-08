@@ -14,7 +14,7 @@ item_tags:
 - male
 - bottom
 visual:
-  prompt: loose knee-length linen braies, gathered drawstring waist, broad seat, hose tie points at waistband, isolated undergarment, clothing focus, front view
+  prompt: medieval European men's loose linen underwear shorts, knee-length braies, gathered drawstring waistband, very roomy seat and crotch, wide legs, small hose attachment points along waist, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

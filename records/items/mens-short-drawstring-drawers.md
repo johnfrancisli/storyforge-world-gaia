@@ -14,7 +14,7 @@ item_tags:
 - male
 - bottom
 visual:
-  prompt: men's thigh-length cotton drawers, drawstring waist, gusseted seat, broad leg openings, flat seams, lightweight washable cloth, isolated undergarment, clothing focus, front view
+  prompt: medieval Middle Eastern men's loose cotton underwear shorts, thigh-length drawers, gathered drawstring waistband, roomy gusseted seat, broad open legs, flat seams, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

@@ -14,7 +14,7 @@ item_tags:
 - unisex
 - workwear
 visual:
-  prompt: hip-length sleeveless caravan vest, open front, curved armholes, reinforced shoulder panels, several small inner pockets, sturdy woven cloth, isolated garment, clothing focus, front view
+  prompt: medieval Middle Eastern caravan vest, hip-length sleeveless utility garment, open front, curved armholes, reinforced shoulder panels, several small concealed inner pockets, sturdy woven cloth, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

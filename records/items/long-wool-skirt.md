@@ -14,7 +14,7 @@ item_tags:
 - female
 - cold-weather
 visual:
-  prompt: ankle-length wool skirt, woven waistband, broad side gores, deep overlap, reinforced hem, isolated garment, clothing focus, front three-quarter view
+  prompt: Viking-age women's ankle-length wool skirt, full A-line silhouette, woven waistband, broad side gores, deep overlapping front panel, reinforced hem, front three-quarter view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

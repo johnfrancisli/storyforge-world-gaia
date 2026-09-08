@@ -15,7 +15,7 @@ item_tags:
 - bottom
 - support
 visual:
-  prompt: compact woven support undercloth, broad braided waistband, doubled center panel, secure side tucks, isolated undergarment, clothing focus, front view
+  prompt: Amazonian men's supportive loin wrap, compact woven plant-cloth undergarment arranged around hips, broad braided waistband, doubled supportive center panel passing between legs, flat secure side tucks, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

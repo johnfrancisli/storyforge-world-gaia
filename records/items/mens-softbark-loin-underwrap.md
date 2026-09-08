@@ -15,7 +15,7 @@ item_tags:
 - bottom
 - barkcloth
 visual:
-  prompt: narrow soft inner-bark loin underwrap, tapered ends, folded waist section, minimal seams, isolated undergarment, clothing focus
+  prompt: Amazonian men's barkcloth loincloth undergarment, narrow softened inner-bark strip wrapped around waist and passed between legs, tapered ends tucked into flat waist fold, minimal stitched seams, front three-quarter view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

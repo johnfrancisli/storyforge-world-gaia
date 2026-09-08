@@ -14,7 +14,7 @@ item_tags:
 - unisex
 - daily
 visual:
-  prompt: loose full-length sirwal trousers, very roomy seat, gathered drawstring waist, draped legs, narrow ankle cuffs, lightweight cloth, isolated garment, clothing focus, front view
+  prompt: medieval Middle Eastern baggy gathered trousers, very roomy harem-pants silhouette, gathered drawstring waist, extremely low loose seat, voluminous draped legs tapering into narrow ankle cuffs, sirwal, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

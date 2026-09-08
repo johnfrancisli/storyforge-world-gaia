@@ -15,7 +15,7 @@ item_tags:
 - top
 - support
 visual:
-  prompt: broad rectangular abdominal wrapping cloth, soft woven fabric, tapered ends, layered folded band, no rigid fastenings, isolated undergarment, clothing focus
+  prompt: ancient Chinese men's supportive abdominal wrap, multiple flat overlapping layers around lower chest and abdomen, tapered tucked ends, flexible waist support, front three-quarter view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

@@ -14,7 +14,7 @@ item_tags:
 - unisex
 - workwear
 visual:
-  prompt: hip-length straight-cut shan work shirt, crossed front, narrow sleeves, reinforced elbows, cloth belt, isolated garment, clothing focus, front three-quarter view
+  prompt: ancient Chinese hanfu-style work shirt, hip-length straight-cut wrap top, overlapping front, V-shaped crossed collar, narrow long sleeves, reinforced elbows, simple cloth belt, shan shirt, front three-quarter view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

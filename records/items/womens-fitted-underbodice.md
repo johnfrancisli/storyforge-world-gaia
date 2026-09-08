@@ -15,7 +15,7 @@ item_tags:
 - top
 - support
 visual:
-  prompt: close linen underbodice, broad shoulder straps, shaped front panels, side lacing, waist-length hem, no rigid stays, isolated undergarment, clothing focus, front view
+  prompt: medieval European women's soft linen support bodice, waist-length fitted undergarment, broad shoulder straps, shaped front cloth panels, adjustable side lacing, flexible unstructured construction, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

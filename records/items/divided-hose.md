@@ -14,7 +14,7 @@ item_tags:
 - unisex
 - fitted
 visual:
-  prompt: pair of close wool divided hose, separate shaped legs, pointed upper tabs, small tie cords, fitted calves and feet, isolated garment, clothing focus, front view
+  prompt: medieval European fitted wool hose, two separate leg stockings with enclosed feet, pointed upper tabs and small tie cords, close-shaped thighs and calves, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

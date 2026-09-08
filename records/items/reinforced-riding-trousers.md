@@ -14,7 +14,7 @@ item_tags:
 - unisex
 - riding
 visual:
-  prompt: full-crotched riding trousers, broad waist, roomy thighs, reinforced inner legs, fitted calves, boot-tucking hems, isolated garment, clothing focus, front three-quarter view
+  prompt: ancient Chinese cavalry riding trousers, full-crotched pants with broad tied waist, roomy hips and thighs, reinforced saddle seat and inner legs, fitted calves, narrow boot-tucking hems, front three-quarter view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

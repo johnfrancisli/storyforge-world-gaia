@@ -15,7 +15,7 @@ item_tags:
 - bottom
 - workwear
 visual:
-  prompt: men's braided-support loincloth, narrow softcloth panel, braided fiber waistband, adjustable side knots, reinforced lower edge, isolated undergarment, clothing focus, front display
+  prompt: traditional tropical island men's loincloth undergarment, narrow soft cloth front panel hanging from a broad braided fiber waistband, cloth passed between legs, adjustable side knots, reinforced lower edge, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

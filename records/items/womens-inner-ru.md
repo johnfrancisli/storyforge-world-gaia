@@ -14,7 +14,7 @@ item_tags:
 - female
 - top
 visual:
-  prompt: lightweight waist-length inner ru jacket, crossed collar, narrow sleeves, short side vents, flat cloth ties, isolated undergarment, clothing focus, front view
+  prompt: ancient Chinese hanfu-style women's under-jacket, waist-length lightweight wrap shirt, overlapping right-closing front, narrow V-shaped crossed collar, fitted long sleeves, short side vents, flat hidden ties, inner ru, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

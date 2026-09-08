@@ -16,7 +16,7 @@ item_tags:
 - support
 - barkcloth
 visual:
-  prompt: wide softened inner-bark chest wrap, tapered ends, flat underarm tie, simple layered band, isolated undergarment, clothing focus
+  prompt: Amazonian women's barkcloth breast wrap, tapered ends, flat tie beneath one arm, flexible unstructured support, front three-quarter view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

@@ -14,7 +14,7 @@ item_tags:
 - unisex
 - rainwear
 visual:
-  prompt: knee-length palm-fiber rain poncho, overlapping treated panels, small hood, open sides, pointed water-shedding hem, isolated garment, clothing focus, front view
+  prompt: Amazon rainforest hooded rain poncho, knee-length outer garment made from overlapping treated palm-fiber panels, small attached hood, open sides, pointed water-shedding hem, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

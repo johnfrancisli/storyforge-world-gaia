@@ -14,7 +14,7 @@ item_tags:
 - unisex
 - daily
 visual:
-  prompt: ankle-length cotton qamis, straight loose body, long loose sleeves, side vents, small tied neck opening, lightweight woven fabric, isolated garment, clothing focus, front three-quarter view
+  prompt: medieval Arabian long cotton tunic, ankle-length loose straight shirt, small tied neck opening, long wide sleeves, deep side vents, lightweight breathable woven fabric, qamis, front three-quarter view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

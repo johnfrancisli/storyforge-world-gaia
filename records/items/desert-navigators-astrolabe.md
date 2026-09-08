@@ -23,7 +23,7 @@ item_tags:
 - equipment
 - navigation
 visual:
-  prompt: two-palm-wide brass astrolabe, nested rotating rings, engraved star coordinates, engraved desert moon phases, central alidade, small starlight-glass chip catching faint light, thumb-worn brass, braided camel-leather carrying cord, object focus, isolated navigation instrument, close-up, three-quarter view
+  prompt: two-palm-wide brass astrolabe, nested rotating rings, engraved star coordinates, engraved desert moon phases, central alidade, small starlight-glass chip catching faint light, thumb-worn brass, braided camel-leather carrying cord, close-up, three-quarter view, object focus
 image:
   url: ''
   focalPoint:

@@ -14,7 +14,7 @@ item_tags:
 - unisex
 - winter
 visual:
-  prompt: long dense-wool winter tunic, high overlapping collar, close sleeves, deep side gores, narrow fur lining at torso and cuffs, isolated garment, clothing focus, front view
+  prompt: Norse Viking cold-weather tunic, long heavy wool pullover shirt, high overlapping collar, close long sleeves, flared side gores, narrow fur lining visible at collar torso edge and cuffs, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

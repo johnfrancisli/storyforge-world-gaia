@@ -15,7 +15,7 @@ item_tags:
 - bottom
 - sailing
 visual:
-  prompt: women's close woven paddling underwrap, wide center panel, doubled waist ties, reinforced edges, short overlapping back panel, isolated undergarment, clothing focus, folded display
+  prompt: traditional tropical island women's paddling undergarment, close woven hip wrap, wide supportive center panel, doubled waist ties, reinforced edges, short overlapping back panel, water-stable construction, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

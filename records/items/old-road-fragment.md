@@ -22,7 +22,7 @@ item_tags:
 - relic
 - old-roads
 visual:
-  prompt: broken fragment of an ancient paved road, pale grey stone unlike the surrounding earth, cracked stone threshold, pair of weathered way-markers, faint heat shimmer above the warm paving, object focus, wide three-quarter view, clear boundary between road fragment and natural ground
+  prompt: broken fragment of an ancient paved road, pale grey paving stone, cracked stone threshold, pair of weathered way-markers fixed to the fragment, faint heat shimmer above the warm paving, wide three-quarter view, object focus
 image:
   url: ''
   focalPoint:

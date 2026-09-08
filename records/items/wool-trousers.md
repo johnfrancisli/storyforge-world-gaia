@@ -15,7 +15,7 @@ item_tags:
 - unisex
 - workwear
 visual:
-  prompt: straight-legged wool trousers, roomy seat, drawstring waist, diamond crotch gusset, reinforced knees, isolated garment, clothing focus, front view
+  prompt: medieval European Norse straight wool trousers, roomy gusseted seat, gathered drawstring waist, straight legs, diamond crotch gusset, reinforced knees, narrow hems suitable for leg wraps, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

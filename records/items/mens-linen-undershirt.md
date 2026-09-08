@@ -15,7 +15,7 @@ item_tags:
 - top
 - under-armor
 visual:
-  prompt: plain thigh-length linen undershirt, long sleeves, simple neck slit, underarm gussets, flat-felled seams, isolated undergarment, clothing focus, front view
+  prompt: medieval European men's linen undershirt, plain thigh-length pullover tunic worn against skin, long sleeves, small slit neckline, underarm gussets, flat-felled seams, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

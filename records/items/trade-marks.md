@@ -15,7 +15,7 @@ item_tags:
 - currency
 - resource
 visual:
-  prompt: small pile of thumbnail-sized metal trade discs, mixed standardized metals, stamped crescent moon mark, stamped crown mark, jade-inset square mark, subtle variations between national mints, worn edges, object focus, isolated currency, close-up, three-quarter view
+  prompt: small pile of thumbnail-sized metal trade discs, mixed standardized metals, stamped crescent moon mark, stamped crown mark, jade-inset square mark, subtle variations between national mints, worn edges, close-up, three-quarter view, object focus
 image:
   url: ''
   focalPoint:

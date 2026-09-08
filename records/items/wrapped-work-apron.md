@@ -14,7 +14,7 @@ item_tags:
 - unisex
 - workwear
 visual:
-  prompt: knee-length sturdy wrap apron, rectangular cloth panel, reinforced corners, broad woven waist tie, small tool loop, isolated garment, clothing focus, front view
+  prompt: Norse Viking work apron, sturdy knee-length rectangular cloth panel wrapping around hips, broad woven waist ties, reinforced corners, small hanging tool loop, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

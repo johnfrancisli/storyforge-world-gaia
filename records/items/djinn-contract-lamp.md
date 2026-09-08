@@ -25,7 +25,7 @@ item_tags:
 - equipment
 - djinn-binding
 visual:
-  prompt: hand-sized aged brass oil lamp, dented tarnished body, serpent-head curved spout, densely etched contract script darkened in the grooves, empty wickless opening, traces of soot, object focus, isolated relic, three-quarter view, clear silhouette
+  prompt: hand-sized aged brass oil lamp, dented tarnished body, serpent-head curved spout, densely etched contract script darkened in the grooves, empty wickless opening, traces of soot, three-quarter view, object focus
 image:
   url: ''
   focalPoint:

@@ -15,7 +15,7 @@ item_tags:
 - clergy
 - ceremonial
 visual:
-  prompt: traditional Japanese shrine maiden kimono-style wrap blouse, white hip-length T-shaped garment, overlapping front, V-shaped crossed collar, short rectangular sleeves with small openings, reinforced underarms, hidden inner ties, kosode, unworn garment displayed open, clothing focus, front three-quarter view
+  prompt: traditional Japanese shrine maiden kimono-style wrap blouse, white hip-length T-shaped garment, overlapping front, V-shaped crossed collar, short rectangular sleeves with small openings, reinforced underarms, hidden inner ties, kosode, front three-quarter view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

@@ -15,7 +15,7 @@ item_tags:
 - bottom
 - sailing
 visual:
-  prompt: men's compact paddling loin wrap, broad supportive center panel, doubled waist ties, reinforced edges, tight durable weave, isolated undergarment, clothing focus, folded display
+  prompt: traditional tropical island men's paddling loincloth, compact woven cloth undergarment with broad supportive center panel passing between legs, doubled waist ties, reinforced edges, tight water-stable weave, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

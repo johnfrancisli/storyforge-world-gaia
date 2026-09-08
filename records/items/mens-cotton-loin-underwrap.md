@@ -15,7 +15,7 @@ item_tags:
 - bottom
 - hot-weather
 visual:
-  prompt: men's cotton loin underwrap, long narrow cloth strip, flat overlapping waist turns, reinforced center panel, soft lightweight fabric, isolated undergarment, clothing focus, folded display
+  prompt: medieval Middle Eastern men's loincloth undergarment, long narrow cotton strip arranged in a waist-and-crotch wrapping configuration, flat overlapping waist turns, reinforced center panel, soft lightweight fabric, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

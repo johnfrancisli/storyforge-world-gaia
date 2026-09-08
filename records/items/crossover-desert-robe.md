@@ -14,7 +14,7 @@ item_tags:
 - unisex
 - travel
 visual:
-  prompt: long crossover desert robe, overlapping front panels, loose sleeves, deep side vents, inner tie, broad sash line, lightweight draping fabric, isolated garment, clothing focus, front three-quarter view
+  prompt: medieval Persian Arabian crossover robe, ankle-length lightweight wrap garment, overlapping front panels, V-shaped neckline, long loose sleeves, deep side vents, hidden inner tie, broad sash at waist, front three-quarter view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

@@ -15,7 +15,7 @@ item_tags:
 - bottom
 - hot-weather
 visual:
-  prompt: men's softened barkcloth malo underwrap, long narrow strip, firm waist turns, between-leg panel, flat front tuck, fibrous cloth texture, isolated undergarment, clothing focus, folded display
+  prompt: traditional Polynesian men's barkcloth loincloth, long narrow softened cloth wrapped firmly around waist and passed between legs, layered waist turns, close center panel, flat front tuck, malo underwrap, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

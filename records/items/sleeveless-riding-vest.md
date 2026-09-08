@@ -15,7 +15,7 @@ item_tags:
 - riding
 - travel
 visual:
-  prompt: thigh-length sleeveless riding overvest, crossed front, high side slits, reinforced shoulders, narrow belt, isolated garment, clothing focus, front view
+  prompt: ancient Chinese sleeveless riding overcoat, thigh-length hanfu-style wrap vest, overlapping right-closing front, high side slits, reinforced shoulders, narrow waist belt, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

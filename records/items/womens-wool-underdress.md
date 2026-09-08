@@ -15,7 +15,7 @@ item_tags:
 - top
 - winter
 visual:
-  prompt: calf-length soft wool underdress, close sleeves, round neckline, side gores, thin linen skin-facing, isolated undergarment, clothing focus, front view
+  prompt: Norse Viking women's wool underdress, calf-length soft wool gown worn between linen and outer dress, close long sleeves, round neckline, flared side gores, thin linen facing visible at skin edges, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

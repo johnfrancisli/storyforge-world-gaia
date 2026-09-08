@@ -14,7 +14,7 @@ item_tags:
 - male
 - bottom
 visual:
-  prompt: light thigh-length underdrawers, gathered cord waist, full crotch gusset, loose leg openings, plain washable fabric, isolated undergarment, clothing focus, front view
+  prompt: ancient Chinese men's loose underwear shorts, thigh-length lightweight drawers, gathered cord waistband, roomy full crotch gusset, wide leg openings, plain washable fabric, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

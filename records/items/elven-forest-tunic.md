@@ -15,7 +15,7 @@ item_tags:
 - unisex
 - travel
 visual:
-  prompt: long close-tailored thornwhisper silk tunic, wrapped front, narrow sleeves, leaf-shaped gussets, split skirt, minimal seams, isolated garment, clothing focus, front three-quarter view
+  prompt: fantasy elven forest tunic, long close-tailored silk wrap shirt, overlapping front panels, narrow long sleeves, leaf-shaped underarm gussets, divided skirt panels for movement, front three-quarter view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

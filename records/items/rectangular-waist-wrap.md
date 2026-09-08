@@ -14,7 +14,7 @@ item_tags:
 - unisex
 - daily
 visual:
-  prompt: calf-length rectangular waist wrap, broad cloth panel, overlapping front, rolled waistband, tucked closure, soft draping fabric, isolated garment, clothing focus, front three-quarter view
+  prompt: traditional tropical island waist wrap, broad rectangular woven cloth arranged as a calf-length wrap skirt, rolled waistband, deep overlapping front panels, flat tucked closure, soft draping fabric, front three-quarter view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

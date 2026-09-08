@@ -14,7 +14,7 @@ item_tags:
 - unisex
 - hot-weather
 visual:
-  prompt: wide woven-fiber chest wrap, rectangular torso panel, flat underarm ties, neat folded upper edge, lightweight breathable weave, isolated garment, clothing focus, folded display
+  prompt: traditional tropical island chest wrap top, neat folded upper edge, flat ties secured beneath one arm, lightweight breathable weave, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

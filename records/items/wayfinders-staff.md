@@ -17,7 +17,7 @@ item_tags:
 - tool
 - equipment
 visual:
-  prompt: shoulder-height carved wooden wayfinding staff, salt-darkened wood, dense route notches, painted star-path symbols, painted ocean-current patterns, painted island-position marks, small shell and bone inlays, object focus, isolated navigation tool, upright full-length view, clear silhouette
+  prompt: shoulder-height carved wooden wayfinding staff, salt-darkened wood, dense route notches, painted star-path symbols, painted ocean-current patterns, painted island-position marks, small shell and bone inlays, upright full-length view, object focus
 image:
   url: ''
   focalPoint:

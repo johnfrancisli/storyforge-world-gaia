@@ -25,7 +25,7 @@ item_tags:
 - resource
 - divination
 visual:
-  prompt: stoppered clear glass vial filled with deep crimson saffron stigma threads, threads finer than hair, vial partly wrapped in oiled cloth, a few loose saffron threads beside it, orange-gold spice stain on the cloth, object focus, isolated consumable, close-up, three-quarter view, clear silhouette
+  prompt: stoppered clear glass vial filled with deep crimson saffron stigma threads, threads finer than hair, vial partly wrapped in oiled cloth, a few loose saffron threads beside it, orange-gold spice stain on the cloth, close-up, three-quarter view, object focus
 image:
   url: ''
   focalPoint:

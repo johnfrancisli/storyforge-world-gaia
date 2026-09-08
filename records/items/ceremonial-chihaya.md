@@ -15,7 +15,7 @@ item_tags:
 - clergy
 - ceremonial
 visual:
-  prompt: traditional Japanese shrine ceremonial over-robe, white T-shaped lightweight garment, open front, extra-wide rectangular sleeves, long side openings, semi-sheer woven cloth, restrained shrine emblems near shoulders and hem, chihaya, unworn garment displayed open, clothing focus, front three-quarter view
+  prompt: traditional Japanese shrine ceremonial over-robe, white T-shaped lightweight garment, open front, extra-wide rectangular sleeves, long side openings, semi-sheer woven cloth, restrained shrine emblems near shoulders and hem, chihaya, front three-quarter view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

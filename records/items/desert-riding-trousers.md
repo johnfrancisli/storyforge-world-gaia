@@ -14,7 +14,7 @@ item_tags:
 - unisex
 - riding
 visual:
-  prompt: roomy desert riding trousers, high drawstring waist, reinforced seat, reinforced inner knees, tapered calves, flat saddle seams, isolated garment, clothing focus, front three-quarter view
+  prompt: medieval Middle Eastern riding trousers, high drawstring waist, roomy hips and thighs, reinforced saddle seat and inner knees, legs tapering closely along calves, flat seams, front three-quarter view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

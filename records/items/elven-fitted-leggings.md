@@ -15,7 +15,7 @@ item_tags:
 - unisex
 - travel
 visual:
-  prompt: close-fitting forest-silk leggings, high wrapped waist, shaped knees, flat seams, narrow ankles, isolated garment, clothing focus, front view
+  prompt: fantasy elven fitted leggings, smooth close-fitting silk trousers, high wrapped waistband, shaped knees, flat nearly invisible seams, narrow ankle openings, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

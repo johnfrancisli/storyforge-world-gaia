@@ -15,7 +15,7 @@ item_tags:
 - daily
 - urban
 visual:
-  prompt: traditional Japanese women's kimono-style town robe, ankle-length T-shaped straight-cut garment, overlapping wrap front, V-shaped crossed collar, short moderately wide rectangular sleeves, visible layered inner collar, lined woven fabric, kosode, unworn garment displayed open, clothing focus, front three-quarter view
+  prompt: traditional Japanese women's kimono-style town robe, ankle-length T-shaped straight-cut garment, overlapping wrap front, V-shaped crossed collar, short moderately wide rectangular sleeves, visible layered inner collar, lined woven fabric, kosode, front three-quarter view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

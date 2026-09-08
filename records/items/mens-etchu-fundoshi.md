@@ -14,7 +14,7 @@ item_tags:
 - male
 - bottom
 visual:
-  prompt: traditional Japanese men's loincloth undergarment, narrow cotton waist cord, short rectangular cloth passing between the legs, loose apron-like front panel, simple etchu fundoshi construction, unworn garment arranged in its wrapped shape, clothing focus, front view
+  prompt: traditional Japanese men's loincloth undergarment, narrow cotton waist cord, short rectangular cloth passing between the legs, loose apron-like front panel, simple etchu fundoshi construction, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

@@ -25,7 +25,7 @@ item_tags:
 - equipment
 - chi-cultivation
 visual:
-  prompt: hand-stitched cultivation manual made from aged bamboo slips, darkened bamboo, fine dense brush calligraphy, silk binding cord, cover slip marked with a single iron character and an academy seal, frayed cord re-knotted several times, object focus, isolated document, open booklet, close-up, three-quarter view
+  prompt: hand-stitched cultivation manual made from aged bamboo slips, darkened bamboo, fine dense brush calligraphy, silk binding cord, cover slip marked with a single iron character and an academy seal, frayed cord re-knotted several times, open booklet, close-up, three-quarter view, object focus
 image:
   url: ''
   focalPoint:

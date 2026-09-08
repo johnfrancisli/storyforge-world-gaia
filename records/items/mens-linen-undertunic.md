@@ -15,7 +15,7 @@ item_tags:
 - top
 - under-armor
 visual:
-  prompt: plain thigh-length flax undertunic, long fitted sleeves, small neck slit, gusseted underarms, flat durable seams, isolated undergarment, clothing focus, front view
+  prompt: Viking-age men's linen undertunic, plain thigh-length flax pullover shirt worn against skin, long fitted sleeves, small slit neckline, underarm gussets, flat durable seams, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

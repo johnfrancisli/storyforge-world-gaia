@@ -15,7 +15,7 @@ item_tags:
 - court
 - ceremonial
 visual:
-  prompt: traditional Japanese women's court hakama, extremely long pleated divided skirt-trousers, wide separate legs with trailing floor-length extensions, high structured waist panel, precise deep pleats, long wraparound tying cords, nagabakama, unworn garment displayed open, clothing focus, front three-quarter view
+  prompt: traditional Japanese women's court hakama, extremely long pleated divided skirt-trousers, wide separate legs with trailing floor-length extensions, high structured waist panel, precise deep pleats, long wraparound tying cords, nagabakama, front three-quarter view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

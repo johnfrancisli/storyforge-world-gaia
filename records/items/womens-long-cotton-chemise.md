@@ -14,7 +14,7 @@ item_tags:
 - female
 - top
 visual:
-  prompt: women's calf-length cotton chemise, loose body, wide neck opening, long sleeves, underarm gussets, side slits, lightweight fabric, isolated undergarment, clothing focus, front view
+  prompt: medieval Middle Eastern women's cotton chemise, loose calf-length underdress, wide gathered neck opening, long roomy sleeves, underarm gussets, deep side slits, lightweight washable cloth, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

@@ -24,7 +24,7 @@ item_tags:
 - equipment
 - wayfinding
 visual:
-  prompt: bone tattooing comb, row of fine needle teeth, black volcanic-ash ink staining the teeth, sennit-wrapped handle, small spiral shell hanging from handle, dark old ink residue, object focus, isolated tool, close-up, three-quarter view, clear silhouette
+  prompt: bone tattooing comb, row of fine needle teeth, black volcanic-ash ink staining the teeth, sennit-wrapped handle, small spiral shell hanging from handle, dark old ink residue, close-up, three-quarter view, object focus
 image:
   url: ''
   focalPoint:

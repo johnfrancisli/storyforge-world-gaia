@@ -15,7 +15,7 @@ item_tags:
 - top
 - support
 visual:
-  prompt: women's soft cotton chest wrap, long cloth band, overlapping layers, flat side tie, flexible unstructured support, isolated undergarment, clothing focus, folded display
+  prompt: medieval Middle Eastern women's cotton chest wrap, flat side tie, flexible unstructured breast support, front three-quarter view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

@@ -14,7 +14,7 @@ item_tags:
 - unisex
 - workwear
 visual:
-  prompt: traditional Japanese kimono-style work robe, calf-length T-shaped straight-cut garment, overlapping wrap front, V-shaped crossed collar, short narrow rectangular sleeves, small sleeve openings, woven hemp fabric, reinforced underarms, hidden inner ties, kosode, unworn garment displayed open, clothing focus, front three-quarter view
+  prompt: traditional Japanese kimono-style work robe, calf-length T-shaped straight-cut garment, overlapping wrap front, V-shaped crossed collar, short narrow rectangular sleeves, small sleeve openings, woven hemp fabric, reinforced underarms, hidden inner ties, kosode, front three-quarter view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

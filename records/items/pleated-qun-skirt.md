@@ -14,7 +14,7 @@ item_tags:
 - female
 - skirt
 visual:
-  prompt: long qun skirt, broad cloth panels, regular gathered pleats, high wrapped waistband, long waist ties, isolated garment, clothing focus, front view
+  prompt: ancient Chinese hanfu pleated skirt, women's ankle-length full skirt, broad fabric panels, regular vertical pleats gathered into a high wrapped waistband, long flowing waist ties, qun skirt, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

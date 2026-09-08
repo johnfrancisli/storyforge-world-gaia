@@ -14,7 +14,7 @@ item_tags:
 - unisex
 - barkcloth
 visual:
-  prompt: thigh-length sleeveless barkcloth tunic, softened inner bark fabric, open neck, side slits, plant-fiber edge stitching, isolated garment, clothing focus, front view
+  prompt: Amazonian rainforest barkcloth tunic, thigh-length sleeveless straight-cut shirt, softened inner-bark fabric, wide open neckline, deep side slits, visible plant-fiber stitching around edges, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

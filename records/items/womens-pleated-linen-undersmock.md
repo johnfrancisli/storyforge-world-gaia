@@ -15,7 +15,7 @@ item_tags:
 - top
 - fine-work
 visual:
-  prompt: long fine-linen undersmock, narrow vertical pleats across upper chest and sleeves, small neck opening, full straight body, isolated undergarment, clothing focus, front view
+  prompt: Viking-age women's fine linen undersmock, long full underdress, narrow vertical pleating across upper chest and sleeves, small round neck opening, long sleeves, straight flowing body, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

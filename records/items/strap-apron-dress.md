@@ -14,7 +14,7 @@ item_tags:
 - dress
 - female
 visual:
-  prompt: ankle-length wool strap apron dress, broad shoulder straps, paired brooch loops, close upper body, side gores, isolated garment, clothing focus, front view
+  prompt: Viking-age women's apron dress, sleeveless ankle-length wool overdress, fitted upper body, broad shoulder straps with paired oval brooch attachment loops, flared skirt shaped by side gores, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

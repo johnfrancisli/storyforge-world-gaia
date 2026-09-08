@@ -14,7 +14,7 @@ item_tags:
 - robe
 - unisex
 visual:
-  prompt: long one-piece shenyi robe, joined upper and lower panels, right-closing crossed front, straight hem, long sleeves, broad sash, isolated garment, clothing focus, front three-quarter view
+  prompt: ancient Chinese hanfu robe, ankle-length one-piece wrap garment with upper and lower sections joined at waist, overlapping right-closing front, V-shaped crossed collar, long wide sleeves, straight hem, broad sash, shenyi, front three-quarter view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

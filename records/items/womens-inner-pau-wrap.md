@@ -15,7 +15,7 @@ item_tags:
 - bottom
 - hot-weather
 visual:
-  prompt: women's thigh-length inner pa'u wrap, lightweight barkcloth, narrow rolled waistband, modest front overlap, single flat tuck, isolated undergarment, clothing focus, front three-quarter view
+  prompt: traditional Polynesian women's barkcloth wrap underskirt, lightweight thigh-length pa'u, narrow rolled waistband, modest overlapping front panels, single flat tucked closure, front three-quarter view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

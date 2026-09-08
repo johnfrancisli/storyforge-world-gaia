@@ -14,7 +14,7 @@ item_tags:
 - unisex
 - rainwear
 visual:
-  prompt: hip-length pandanus rain cape, overlapping treated leaf strips, close neck opening, layered shedding fringe, flexible woven shoulders, isolated garment, clothing focus, rear three-quarter view
+  prompt: traditional Polynesian-style rain cape, hip-length shoulder covering made from overlapping treated pandanus leaf strips, close round neck opening, dense layered fringe shedding water, flexible woven shoulder yoke, rear three-quarter view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

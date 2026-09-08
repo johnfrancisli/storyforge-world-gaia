@@ -22,7 +22,7 @@ item_tags:
 - weapon
 - poison
 visual:
-  prompt: smooth dark hardwood blowpipe, longer than an arm, straight narrow bore, cured vine-wrapped grip, two small clay darts hanging from grip, kapok-fiber dart fletching, blackened curare paste on dart tips, woven reed dart quiver, dozen clay darts, object focus, isolated weapon, full-length view, three-quarter view, clear silhouette
+  prompt: smooth dark hardwood blowpipe, longer than an arm, straight narrow bore, cured vine-wrapped grip, two small clay darts hanging from grip, kapok-fiber dart fletching, blackened curare paste on dart tips, woven reed dart quiver, dozen clay darts, full-length view, three-quarter view, object focus
 image:
   url: ''
   focalPoint:

@@ -14,7 +14,7 @@ item_tags:
 - male
 - top
 visual:
-  prompt: men's hip-length linen undershirt, loose body, short sleeves, shallow neck slit, flat side seams, lightweight washable fabric, isolated undergarment, clothing focus, front view
+  prompt: medieval Middle Eastern men's linen undershirt, loose hip-length pullover shirt, short sleeves, shallow slit neckline, straight body, flat side seams, lightweight washable fabric, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

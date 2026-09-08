@@ -14,7 +14,7 @@ item_tags:
 - female
 - workwear
 visual:
-  prompt: traditional Japanese women's work apron, sturdy knee-length rectangular front panel worn over a robe, broad reinforced waistband, long wraparound waist ties, deep corner pockets, split lower hem for kneeling, maekake, unworn apron laid flat, clothing focus, front view
+  prompt: traditional Japanese women's work apron, sturdy knee-length rectangular front panel worn over a robe, broad reinforced waistband, long wraparound waist ties, deep corner pockets, split lower hem for kneeling, maekake, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

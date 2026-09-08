@@ -23,7 +23,7 @@ item_tags:
 - artifact
 - runic
 visual:
-  prompt: large carved longship prow, dragon head and curling neck carved from dark oak, span of outstretched arms, tar-blackened weathered wood, deep sure-handed runes carved along the neck, wind wave and ward motifs, object focus, isolated ship figurehead, full view, three-quarter angle, clear silhouette
+  prompt: large carved longship prow, dragon head and curling neck carved from dark oak, span of outstretched arms, tar-blackened weathered wood, deep sure-handed runes carved along the neck, wind wave and ward motifs, full view, three-quarter angle, object focus
 image:
   url: ''
   focalPoint:

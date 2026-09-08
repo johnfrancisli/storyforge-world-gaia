@@ -15,7 +15,7 @@ item_tags:
 - bottom
 - riverwear
 visual:
-  prompt: close quick-drying plant-fiber swim wrap, narrow loincloth cut, low waist knot, short front and back panels, isolated undergarment, clothing focus
+  prompt: Amazonian men's river-swimming loincloth, close narrow quick-drying plant-fiber wrap, low tied waistband, short front and back panels, secure between-leg construction, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

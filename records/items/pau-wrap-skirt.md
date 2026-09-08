@@ -14,7 +14,7 @@ item_tags:
 - female
 - daily
 visual:
-  prompt: full barkcloth pa'u wrap skirt, wide wrapped panel, layered front folds, braided waist cord, softened fibrous texture, isolated garment, clothing focus, front view
+  prompt: traditional Polynesian women's barkcloth wrap skirt, full calf-length pa'u, wide softened barkcloth panel, layered front folds, braided cord tied around waist, fibrous painted-cloth surface without fixed color, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

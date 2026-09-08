@@ -14,7 +14,7 @@ item_tags:
 - female
 - daily
 visual:
-  prompt: full ankle-length gathered skirt, broad tie waistband, deep side folds, reinforced inner hem, breathable woven cloth, isolated garment, clothing focus, front view
+  prompt: medieval Middle Eastern women's ankle-length skirt, full flowing silhouette, broad tied waistband, densely gathered waist, deep side folds, reinforced inner hem, breathable woven cloth, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

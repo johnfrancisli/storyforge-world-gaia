@@ -23,7 +23,7 @@ item_tags:
 - equipment
 - elf-craft
 visual:
-  prompt: narrow hand-tall lantern, pale silver filigree cage, fine hanging chain, no candle, single captured point of cold white starlight floating at center, object focus, isolated lantern, three-quarter view, dim surroundings illuminated by cold white glow
+  prompt: narrow hand-tall lantern, pale silver filigree cage, fine hanging chain, no candle, single captured point of cold white starlight floating at center, three-quarter view, cold white starlight glowing within the lantern, object focus
 image:
   url: ''
   focalPoint:

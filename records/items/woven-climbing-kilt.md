@@ -15,7 +15,7 @@ item_tags:
 - workwear
 - climbing
 visual:
-  prompt: short tightly woven climbing kilt, double-folded waist, overlapping front flap, reinforced seat, flat side ties, isolated garment, clothing focus, front three-quarter view
+  prompt: Amazonian rainforest climbing kilt, short tightly woven plant-fiber wrap skirt, double-folded waistband, overlapping front flap, reinforced seat, flat side ties, compact snag-resistant silhouette, front three-quarter view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

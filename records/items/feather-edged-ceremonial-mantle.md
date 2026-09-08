@@ -14,7 +14,7 @@ item_tags:
 - unisex
 - ceremonial
 visual:
-  prompt: finely woven ceremonial shoulder mantle, curved lower edge, dense feather edging, braided closure cords, geometric fiber applique, careful handwork, isolated garment, clothing focus, front three-quarter view
+  prompt: traditional Polynesian-style ceremonial shoulder cape, finely woven curved mantle covering upper back and shoulders, dense feather border along lower edge, braided cords fastening at chest, geometric fiber applique, front three-quarter view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

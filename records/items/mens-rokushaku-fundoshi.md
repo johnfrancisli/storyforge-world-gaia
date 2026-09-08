@@ -14,7 +14,7 @@ item_tags:
 - male
 - bottom
 visual:
-  prompt: traditional Japanese men's wrapped loincloth, long narrow cotton strip arranged in a secure waist-and-crotch wrapping configuration, flat waistband, close supportive front, reinforced cloth ends, rokushaku fundoshi, unworn garment displayed in wrapped shape, clothing focus, front three-quarter view
+  prompt: traditional Japanese men's wrapped loincloth, long narrow cotton strip arranged in a secure waist-and-crotch wrapping configuration, flat waistband, close supportive front, reinforced cloth ends, rokushaku fundoshi, front three-quarter view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

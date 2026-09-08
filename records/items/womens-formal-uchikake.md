@@ -15,7 +15,7 @@ item_tags:
 - formal
 - robe
 visual:
-  prompt: traditional Japanese women's formal kimono over-robe, floor-length open-front silk garment, T-shaped straight-cut body, broad trailing rectangular sleeves, heavily embroidered seasonal motifs, lightly padded trailing hem, worn without its own sash, uchikake, unworn garment displayed open, clothing focus, front three-quarter view
+  prompt: traditional Japanese women's formal kimono over-robe, floor-length open-front silk garment, T-shaped straight-cut body, broad trailing rectangular sleeves, heavily embroidered seasonal motifs, lightly padded trailing hem, worn without its own sash, uchikake, front three-quarter view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

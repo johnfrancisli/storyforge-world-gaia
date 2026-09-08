@@ -14,7 +14,7 @@ item_tags:
 - unisex
 - workwear
 visual:
-  prompt: traditional Japanese close-fitting work trousers, high wrapped waist, shaped gusseted seat, fitted legs from thigh to ankle, small ankle openings, simple cloth ties, momohiki, unworn trousers laid flat, clothing focus, front view
+  prompt: traditional Japanese close-fitting work trousers, high wrapped waist, shaped gusseted seat, fitted legs from thigh to ankle, small ankle openings, simple cloth ties, momohiki, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

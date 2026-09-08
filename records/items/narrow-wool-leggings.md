@@ -14,7 +14,7 @@ item_tags:
 - unisex
 - fitted
 visual:
-  prompt: pair of narrow wool leggings, shaped knees, flat inner seams, high tie tabs, narrow ankle openings, isolated garment, clothing focus, front view
+  prompt: Norse Viking fitted wool leggings, pair of close-cut separate leg coverings, shaped knees, flat inner seams, pointed upper tie tabs, narrow ankle openings, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

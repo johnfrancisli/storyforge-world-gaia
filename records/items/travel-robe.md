@@ -15,7 +15,7 @@ item_tags:
 - unisex
 - travel
 visual:
-  prompt: traditional Japanese kimono-style travel robe, knee-length T-shaped straight-cut garment, overlapping wrap front, V-shaped crossed collar, short close rectangular sleeves, reinforced shoulder yoke, hidden inner tie, outer waist tie, durable woven cloth, unworn garment displayed open, clothing focus, front view
+  prompt: traditional Japanese kimono-style travel robe, knee-length T-shaped straight-cut garment, overlapping wrap front, V-shaped crossed collar, short close rectangular sleeves, reinforced shoulder yoke, hidden inner tie, outer waist tie, durable woven cloth, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

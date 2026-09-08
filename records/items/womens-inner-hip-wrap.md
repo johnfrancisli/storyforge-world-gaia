@@ -15,7 +15,7 @@ item_tags:
 - bottom
 - barkcloth
 visual:
-  prompt: short soft barkcloth inner hip wrap, close skirt shape, deep overlap, narrow braided waist tie, isolated undergarment, clothing focus, front view
+  prompt: Amazonian women's barkcloth wrap underskirt, short close-fitting skirt around hips, softened inner-bark cloth, deep overlapping front panels, narrow braided waist tie, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}

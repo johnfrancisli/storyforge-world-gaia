@@ -15,7 +15,7 @@ item_tags:
 - top
 - winter
 visual:
-  prompt: calf-length soft wool undersmock, fitted sleeves, modest round neck, side gores, thin linen collar and cuff facings, isolated undergarment, clothing focus, front view
+  prompt: medieval European women's winter underdress, calf-length soft wool gown, fitted long sleeves, modest round neckline, flared side gores, thin linen facings visible at collar and cuffs, front view, clothing focus
 image:
   url: ''
   focalPoint: {x: 0.5, y: 0.1}
