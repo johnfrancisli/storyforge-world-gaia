@@ -5,11 +5,31 @@
       "name": "Alta Canopy",
       "visibility": "shared",
       "payload": {
-        "summary": "Alta Canopy is Verdania's great tree-city, suspended a hundred feet above the forest floor in the crowns of ancient Brazil-nut and kapok trees that have grown together over centuries into a living lattice. Rope bridges woven from liana and spider-silk crisscross between platforms carved from split bamboo and broad palm leaves, swaying gently in the wet wind that carries the thick green smell of sap, rotting fruit, and woodsmoke from a thousand cookfires. Hornbills and scarlet macaws nest in the upper branches alongside the people, and the constant chatter of birds mingles with the rhythmic thunk of axes shaping timber and the laughter of children chasing each other across swaying bridges. Lamplight from clay oil-lamps turns the whole canopy amber at dusk, making it glow like a constellation trapped in the leaves. The people here are long-limbed and sure-footed, dressed in feathered cloaks and dyed bark-cloth, and they speak of the forest floor below the way sailors speak of the deep sea — with respect, and a healthy fear of what moves in the dark.",
+        "summary": "Alta Canopy is Verdania's great tree-city, suspended a hundred feet above the forest floor in the crowns of ancient Brazil-nut and kapok trees that have grown together over centuries into a living lattice. Rope bridges woven from liana and spider-silk crisscross between platforms carved from split bamboo and broad palm leaves, swaying gently in the wet wind that carries the thick green smell of sap, rotting fruit, and woodsmoke from a thousand cookfires. Hornbills and scarlet macaws nest in the upper branches alongside the people, and the constant chatter of birds mingles with the rhythmic thunk of axes shaping timber and the laughter of children chasing each other across swaying bridges. Lamplight from clay oil-lamps turns the whole canopy amber at dusk, making it glow like a constellation trapped in the leaves. The people here are long-limbed and sure-footed, dressed in feathered cloaks and dyed bark-cloth, and they speak of the forest floor below the way sailors speak of the deep sea \u2014 with respect, and a healthy fear of what moves in the dark.",
         "parent_location_id": "location:verdania",
         "jurisdiction": "Ruled by a council of matriarchs called the Canopy Seven, each overseeing one of the great trees that anchor the city. Disputes between trees are settled by the eldest matriarch, the Sky-Mother, whose word is final. Jurisdiction ends at the forest floor, which is considered wild and ungoverned.",
         "terrain": "rainforest canopy, suspended wooden platforms, rope bridges, ancient emergent trees",
-        "resources": ["brazil nuts", "kapok fibre", "macaw feathers", "medicinal bark", "resins", "honey"]
+        "resources": [
+          "brazil nuts",
+          "kapok fibre",
+          "macaw feathers",
+          "medicinal bark",
+          "resins",
+          "honey"
+        ],
+        "culture": {
+          "themes": [
+            "Natural Balance and Forest Symbiosis",
+            "Community Bonds and the Hearth",
+            "Agricultural Cycles"
+          ],
+          "practices": [
+            "Living in harmony with the forest's rhythms and seasons",
+            "Oral traditions preserving ancient woodland lore",
+            "Communal gatherings and seasonal harvest festivals"
+          ],
+          "atmosphere": "Lush, pastoral, warm, communal, and deeply connected to the earth and ancient green magic."
+        }
       }
     },
     {
@@ -17,11 +37,24 @@
       "name": "The Seven Boughs Hall",
       "visibility": "shared",
       "payload": {
-        "summary": "The Seven Boughs Hall is the council chamber of Alta Canopy, built where the seven great trees converge on a single massive platform of interlocking heartwood, wider than a river barge. The roof is a living canopy left intact overhead, its leaves filtering the light into green-gold shafts that move across the floor like slow water. Seven carved seats of dark ironwood ring a central fire-pit that never fully goes out — its smoke rises through a gap left in the leaves above, and its embers are kept alive with sacred woods brought up from the forest floor by sworn climbers. Feathers, shrunken heads, and spirit-masks hang from the rafters, turning gently. The air smells of old smoke, copal incense, and the faint sweetness of fermented cassava. Petitioners wait on a lower platform and are called up one at a time by a herald who beats a hollow log drum. When the Seven are in session the hall hums with low deliberation; when they are not, it is kept by silent attendants who tend the fire and ward the masks.",
+        "summary": "The Seven Boughs Hall is the council chamber of Alta Canopy, built where the seven great trees converge on a single massive platform of interlocking heartwood, wider than a river barge. The roof is a living canopy left intact overhead, its leaves filtering the light into green-gold shafts that move across the floor like slow water. Seven carved seats of dark ironwood ring a central fire-pit that never fully goes out \u2014 its smoke rises through a gap left in the leaves above, and its embers are kept alive with sacred woods brought up from the forest floor by sworn climbers. Feathers, shrunken heads, and spirit-masks hang from the rafters, turning gently. The air smells of old smoke, copal incense, and the faint sweetness of fermented cassava. Petitioners wait on a lower platform and are called up one at a time by a herald who beats a hollow log drum. When the Seven are in session the hall hums with low deliberation; when they are not, it is kept by silent attendants who tend the fire and ward the masks.",
         "parent_location_id": "location:ver-altacanopy",
         "jurisdiction": "Direct seat of the Canopy Seven. The Sky-Mother presides from the central seat. No weapons may be drawn on the platform under pain of exile to the forest floor.",
         "terrain": "great-tree junction platform, living canopy roof, heartwood floor",
-        "resources": []
+        "resources": [],
+        "culture": {
+          "themes": [
+            "Natural Balance and Forest Symbiosis",
+            "Community Bonds and the Hearth",
+            "Agricultural Cycles"
+          ],
+          "practices": [
+            "Living in harmony with the forest's rhythms and seasons",
+            "Oral traditions preserving ancient woodland lore",
+            "Communal gatherings and seasonal harvest festivals"
+          ],
+          "atmosphere": "Lush, pastoral, warm, communal, and deeply connected to the earth and ancient green magic."
+        }
       }
     },
     {
@@ -29,11 +62,24 @@
       "name": "The Hanging Gate",
       "visibility": "shared",
       "payload": {
-        "summary": "The Hanging Gate is the main entry to Alta Canopy, a long triple-braided rope bridge that climbs from a stone anchor on the forest floor up through the understory to the lowest inhabited platform. The ascent takes the better part of an hour for a laden climber, and the bridge sways and creaks with every step, winding around the buttress roots and through curtains of hanging moss and orchids. Wardens posted at the top inspect every visitor, checking for signs of blight-rot or spirit-possession before allowing them onto the city platforms — a green cord is tied around the wrist of those cleared, a red cord around those sent back down. The smell here is of wet bark, sweat, and the sharp resin the wardens smear on the hand-ropes to improve grip. Monkeys sometimes swarm the bridge to beg or steal, and the wardens keep slings and dried fruit to manage them. At dawn the gate is busiest, with hunters returning with game and traders arriving with clay and salt from below.",
+        "summary": "The Hanging Gate is the main entry to Alta Canopy, a long triple-braided rope bridge that climbs from a stone anchor on the forest floor up through the understory to the lowest inhabited platform. The ascent takes the better part of an hour for a laden climber, and the bridge sways and creaks with every step, winding around the buttress roots and through curtains of hanging moss and orchids. Wardens posted at the top inspect every visitor, checking for signs of blight-rot or spirit-possession before allowing them onto the city platforms \u2014 a green cord is tied around the wrist of those cleared, a red cord around those sent back down. The smell here is of wet bark, sweat, and the sharp resin the wardens smear on the hand-ropes to improve grip. Monkeys sometimes swarm the bridge to beg or steal, and the wardens keep slings and dried fruit to manage them. At dawn the gate is busiest, with hunters returning with game and traders arriving with clay and salt from below.",
         "parent_location_id": "location:ver-altacanopy",
         "jurisdiction": "Governed by the Gate Wardens, a hereditary order answerable to the Canopy Seven. They control all entry and exit and have authority to turn away or quarantine visitors.",
         "terrain": "rope bridge, cliff-anchor, understory ascent",
-        "resources": []
+        "resources": [],
+        "culture": {
+          "themes": [
+            "Natural Balance and Forest Symbiosis",
+            "Community Bonds and the Hearth",
+            "Agricultural Cycles"
+          ],
+          "practices": [
+            "Living in harmony with the forest's rhythms and seasons",
+            "Oral traditions preserving ancient woodland lore",
+            "Communal gatherings and seasonal harvest festivals"
+          ],
+          "atmosphere": "Lush, pastoral, warm, communal, and deeply connected to the earth and ancient green magic."
+        }
       }
     },
     {
@@ -41,11 +87,32 @@
       "name": "The Plumed Exchange",
       "visibility": "shared",
       "payload": {
-        "summary": "The Plumed Exchange is the great market of Alta Canopy, spread across a cluster of broad platforms linked by short plank runs where traders from across the canopy gather to barter. Stalls are woven baskets and palm-leaf mats laid out on the wood, heaped with brilliant feathers, cured pelts, bark-cloth dyed in every colour the forest offers, clay beads, blowgun darts tipped with curare, medicinal barks bundled with twine, fermented honeys in gourds, and smoked fish brought up from the river cities. The noise is constant — haggling in three or four tongues, the clatter of bead-counters, a pan-pipe player working for scraps. The smell shifts every few steps: sweet honey, sharp resin, musky pelts, charred meat on a clay grill. Spider-silk weavers demonstrate their work on small looms hung between branches, and a money-lender carved from a single block of red wood sits in the centre where deals are sworn. Foreign traders from Iara and Cascade Exchange come here by climbing the great trees, and they are easy to spot by their calloused hands and wary eyes.",
+        "summary": "The Plumed Exchange is the great market of Alta Canopy, spread across a cluster of broad platforms linked by short plank runs where traders from across the canopy gather to barter. Stalls are woven baskets and palm-leaf mats laid out on the wood, heaped with brilliant feathers, cured pelts, bark-cloth dyed in every colour the forest offers, clay beads, blowgun darts tipped with curare, medicinal barks bundled with twine, fermented honeys in gourds, and smoked fish brought up from the river cities. The noise is constant \u2014 haggling in three or four tongues, the clatter of bead-counters, a pan-pipe player working for scraps. The smell shifts every few steps: sweet honey, sharp resin, musky pelts, charred meat on a clay grill. Spider-silk weavers demonstrate their work on small looms hung between branches, and a money-lender carved from a single block of red wood sits in the centre where deals are sworn. Foreign traders from Iara and Cascade Exchange come here by climbing the great trees, and they are easy to spot by their calloused hands and wary eyes.",
         "parent_location_id": "location:ver-altacanopy",
         "jurisdiction": "Overseen by the Market Mother, a matriarch appointed by the Canopy Seven to keep the peace and settle trade disputes. Her emblem, a carved macaw, marks the stalls under her protection.",
         "terrain": "linked canopy platforms, plank runs, basket stalls",
-        "resources": ["feathers", "bark-cloth", "curare darts", "medicinal bark", "fermented honey", "spider-silk", "clay beads"]
+        "resources": [
+          "feathers",
+          "bark-cloth",
+          "curare darts",
+          "medicinal bark",
+          "fermented honey",
+          "spider-silk",
+          "clay beads"
+        ],
+        "culture": {
+          "themes": [
+            "Natural Balance and Forest Symbiosis",
+            "Community Bonds and the Hearth",
+            "Agricultural Cycles"
+          ],
+          "practices": [
+            "Living in harmony with the forest's rhythms and seasons",
+            "Oral traditions preserving ancient woodland lore",
+            "Communal gatherings and seasonal harvest festivals"
+          ],
+          "atmosphere": "Lush, pastoral, warm, communal, and deeply connected to the earth and ancient green magic."
+        }
       }
     },
     {
@@ -53,11 +120,30 @@
       "name": "The Spirit Nest",
       "visibility": "shared",
       "payload": {
-        "summary": "The Spirit Nest is the shaman's lodge of Alta Canopy, set apart on the highest platform of the central tree, where the canopy thins and the sky is visible. It is a round hut of woven branches daubed with red and black river clay, its walls hung with dream-catchers of bone and feather, rattles made from dried seed-pods, and the preserved skins of jaguars and anacondas given to the lodge as offerings. A low fire burns in the centre on a bed of river sand, its smoke guided out through a hole in the thatch, and the air is thick with the smell of mapacho tobacco, burning copal, and the bitter tang of vision-vines soaking in clay pots. The shaman, an old woman whose face is painted in spirals of black and red, conducts spirit-pacts here — binding a citizen's spirit to that of a totem beast through nights of fasting, chanting, and the drinking of the bitter vine-brew. Spirit drums hang from the rafters and are played only during rituals, their low throbbing said to be audible to the dead. Few come here except at need, and fewer still linger.",
+        "summary": "The Spirit Nest is the shaman's lodge of Alta Canopy, set apart on the highest platform of the central tree, where the canopy thins and the sky is visible. It is a round hut of woven branches daubed with red and black river clay, its walls hung with dream-catchers of bone and feather, rattles made from dried seed-pods, and the preserved skins of jaguars and anacondas given to the lodge as offerings. A low fire burns in the centre on a bed of river sand, its smoke guided out through a hole in the thatch, and the air is thick with the smell of mapacho tobacco, burning copal, and the bitter tang of vision-vines soaking in clay pots. The shaman, an old woman whose face is painted in spirals of black and red, conducts spirit-pacts here \u2014 binding a citizen's spirit to that of a totem beast through nights of fasting, chanting, and the drinking of the bitter vine-brew. Spirit drums hang from the rafters and are played only during rituals, their low throbbing said to be audible to the dead. Few come here except at need, and fewer still linger.",
         "parent_location_id": "location:ver-altacanopy",
         "jurisdiction": "The Spirit Nest is sovereign ground under the shaman's authority alone. Even the Canopy Seven do not command her. She may banish anyone from the lodge for disrespect.",
         "terrain": "high canopy platform, woven-clay hut, ritual fire-pit",
-        "resources": ["vision-vine brew", "mapacho tobacco", "copal incense", "totem relics", "jaguar skins"]
+        "resources": [
+          "vision-vine brew",
+          "mapacho tobacco",
+          "copal incense",
+          "totem relics",
+          "jaguar skins"
+        ],
+        "culture": {
+          "themes": [
+            "Natural Balance and Forest Symbiosis",
+            "Community Bonds and the Hearth",
+            "Agricultural Cycles"
+          ],
+          "practices": [
+            "Living in harmony with the forest's rhythms and seasons",
+            "Oral traditions preserving ancient woodland lore",
+            "Communal gatherings and seasonal harvest festivals"
+          ],
+          "atmosphere": "Lush, pastoral, warm, communal, and deeply connected to the earth and ancient green magic."
+        }
       }
     },
     {
@@ -65,11 +151,31 @@
       "name": "Cascade Exchange",
       "visibility": "shared",
       "payload": {
-        "summary": "Cascade Exchange is the trading post at the jungle's western edge, built where the Verde River drops over a long阶梯 of black basalt ledges in a chain of thundering falls and misted pools before fanning out into the lowlands. The town clings to the cliff-face beside the falls on terraces cut into the rock and hung with wooden galleries supported by timber struts and iron brackets hammered in by generations of traders. The constant roar of the falls muffles speech and gives everything a trembling, wet vibration, and the air is always cool and heavy with spray that beads on every surface and feeds the curtains of moss and fern draping the terraces. It is the place where the jungle interior meets the wider world — river barges from Iara tie up at the lower docks, mule trains from the dry western kingdoms arrive overland at the upper gate, and everything passes through the narrow terraced market that runs up the cliff like a staircase. The smell of wet stone, pack-animal sweat, coffee roasting in a clay pan, and the green rot of the jungle hangs thick. Lanterns of coloured glass line the market stair at night, turning the falling spray into a sheet of jewelled light.",
+        "summary": "Cascade Exchange is the trading post at the jungle's western edge, built where the Verde River drops over a long\u9636\u68af of black basalt ledges in a chain of thundering falls and misted pools before fanning out into the lowlands. The town clings to the cliff-face beside the falls on terraces cut into the rock and hung with wooden galleries supported by timber struts and iron brackets hammered in by generations of traders. The constant roar of the falls muffles speech and gives everything a trembling, wet vibration, and the air is always cool and heavy with spray that beads on every surface and feeds the curtains of moss and fern draping the terraces. It is the place where the jungle interior meets the wider world \u2014 river barges from Iara tie up at the lower docks, mule trains from the dry western kingdoms arrive overland at the upper gate, and everything passes through the narrow terraced market that runs up the cliff like a staircase. The smell of wet stone, pack-animal sweat, coffee roasting in a clay pan, and the green rot of the jungle hangs thick. Lanterns of coloured glass line the market stair at night, turning the falling spray into a sheet of jewelled light.",
         "parent_location_id": "location:verdania",
         "jurisdiction": "Ruled by the Falls Factor, a merchant-governor elected by the trading houses every five years, who collects duties on all goods passing through and commands a small force of cliff-wardens. The Falls Factor answers to the Verdani Council at Iara but holds wide autonomy in practice.",
         "terrain": "cliff-face terraces, waterfall ledges, basalt steps, river docks",
-        "resources": ["river fish", "traded coffee", "western metals", "dyes", "salt", "quarried basalt"]
+        "resources": [
+          "river fish",
+          "traded coffee",
+          "western metals",
+          "dyes",
+          "salt",
+          "quarried basalt"
+        ],
+        "culture": {
+          "themes": [
+            "Natural Balance and Forest Symbiosis",
+            "Community Bonds and the Hearth",
+            "Agricultural Cycles"
+          ],
+          "practices": [
+            "Living in harmony with the forest's rhythms and seasons",
+            "Oral traditions preserving ancient woodland lore",
+            "Communal gatherings and seasonal harvest festivals"
+          ],
+          "atmosphere": "Lush, pastoral, warm, communal, and deeply connected to the earth and ancient green magic."
+        }
       }
     },
     {
@@ -81,7 +187,28 @@
         "parent_location_id": "location:ver-cascadeexchange",
         "jurisdiction": "Under the Falls Factor's direct authority. Tax-collectors in green sashes enforce duties and settle disputes on the spot. Violence on the stair is punished by being cast down the falls.",
         "terrain": "cliff-side stone stairway, market steps, overhang stalls",
-        "resources": ["river-gold", "cacao", "steel tools", "copper", "dyed cloth", "jade amulets", "bark-paper maps"]
+        "resources": [
+          "river-gold",
+          "cacao",
+          "steel tools",
+          "copper",
+          "dyed cloth",
+          "jade amulets",
+          "bark-paper maps"
+        ],
+        "culture": {
+          "themes": [
+            "Natural Balance and Forest Symbiosis",
+            "Community Bonds and the Hearth",
+            "Agricultural Cycles"
+          ],
+          "practices": [
+            "Living in harmony with the forest's rhythms and seasons",
+            "Oral traditions preserving ancient woodland lore",
+            "Communal gatherings and seasonal harvest festivals"
+          ],
+          "atmosphere": "Lush, pastoral, warm, communal, and deeply connected to the earth and ancient green magic."
+        }
       }
     },
     {
@@ -93,7 +220,20 @@
         "parent_location_id": "location:ver-cascadeexchange",
         "jurisdiction": "Seat of the Falls Factor. The cliff-wardens are garrisoned in the lower cellars. All official trade rulings, taxes, and judgements are issued from here.",
         "terrain": "cliff-top basalt hall, arched gallery, fortified house",
-        "resources": []
+        "resources": [],
+        "culture": {
+          "themes": [
+            "Natural Balance and Forest Symbiosis",
+            "Community Bonds and the Hearth",
+            "Agricultural Cycles"
+          ],
+          "practices": [
+            "Living in harmony with the forest's rhythms and seasons",
+            "Oral traditions preserving ancient woodland lore",
+            "Communal gatherings and seasonal harvest festivals"
+          ],
+          "atmosphere": "Lush, pastoral, warm, communal, and deeply connected to the earth and ancient green magic."
+        }
       }
     },
     {
@@ -101,11 +241,31 @@
       "name": "The Lower Docks",
       "visibility": "shared",
       "payload": {
-        "summary": "The Lower Docks are where Cascade Exchange meets the river, a series of timber wharves and float-platforms anchored in the largest pool at the base of the falls, where the water is calmer but still churns with the outflow. River barges from Iara and the interior tie up here, their hulls crusted with river-mud and their crews barefoot and river-tanned, unloading jungle goods — rubber balls, tortoiseshell, rare feathers, medicinal barks, smoked manatee — and loading western metals, salt, and steel. The docks are a confusion of cargo, shouting stevedores, children diving off the floats for coins, and river-pilots arguing over tolls and water-depths. Fishing nets hang from poles to dry, and the air is thick with the smell of fish, river-mud, tar, and wet hemp. A shrine to the river-spirit stands at the landward end on a pole carved as a great fish, draped with offerings of flowers and gourds of cacao wine. At dusk the dock-lanterns are lit in gourds of fish-oil and the water turns black and oily, reflecting the lights in long wobbling columns.",
+        "summary": "The Lower Docks are where Cascade Exchange meets the river, a series of timber wharves and float-platforms anchored in the largest pool at the base of the falls, where the water is calmer but still churns with the outflow. River barges from Iara and the interior tie up here, their hulls crusted with river-mud and their crews barefoot and river-tanned, unloading jungle goods \u2014 rubber balls, tortoiseshell, rare feathers, medicinal barks, smoked manatee \u2014 and loading western metals, salt, and steel. The docks are a confusion of cargo, shouting stevedores, children diving off the floats for coins, and river-pilots arguing over tolls and water-depths. Fishing nets hang from poles to dry, and the air is thick with the smell of fish, river-mud, tar, and wet hemp. A shrine to the river-spirit stands at the landward end on a pole carved as a great fish, draped with offerings of flowers and gourds of cacao wine. At dusk the dock-lanterns are lit in gourds of fish-oil and the water turns black and oily, reflecting the lights in long wobbling columns.",
         "parent_location_id": "location:ver-cascadeexchange",
         "jurisdiction": "Administered by the Dock-Master, appointed by the Falls Factor. The Dock-Master assigns berths, collects mooring fees, and enforces river-pilot licensing. River law applies on the water; town law on the wharves.",
         "terrain": "timber wharves, float-platforms, river pool, basalt shore",
-        "resources": ["river fish", "rubber", "tortoiseshell", "feathers", "medicinal barks", "smoked manatee"]
+        "resources": [
+          "river fish",
+          "rubber",
+          "tortoiseshell",
+          "feathers",
+          "medicinal barks",
+          "smoked manatee"
+        ],
+        "culture": {
+          "themes": [
+            "Natural Balance and Forest Symbiosis",
+            "Community Bonds and the Hearth",
+            "Agricultural Cycles"
+          ],
+          "practices": [
+            "Living in harmony with the forest's rhythms and seasons",
+            "Oral traditions preserving ancient woodland lore",
+            "Communal gatherings and seasonal harvest festivals"
+          ],
+          "atmosphere": "Lush, pastoral, warm, communal, and deeply connected to the earth and ancient green magic."
+        }
       }
     },
     {
@@ -113,11 +273,28 @@
       "name": "The Mist Shrine",
       "visibility": "shared",
       "payload": {
-        "summary": "The Mist Shrine is the spirit-lodge of Cascade Exchange, set on a ledge behind the curtain of the tallest fall, reached by a slick narrow path cut into the cliff behind the water. The constant spray keeps everything wet and glistening, and the shrine itself is a small structure of water-smoothed stones and green wood, half-hidden by ferns, with a low altar where the river-shaman makes offerings to the spirit of the falls — a being the locals call the Roaring Mother, said to be the soul of the river made visible in the white water. Offerings of flowers, cacao, carved fish-bone tokens, and sometimes a living bird released through the curtain are left on the altar, and the shaman reads the fall's mood in the patterns of the spray. The roar of the water is so loud here that ritual is conducted in gesture and drum-vibration rather than speech, the shaman beating a water-drum whose sound is said to carry to the river-spirits downstream. The air is cold and smells of wet stone and crushed green leaves. It is a place of power, and traders come here to make vows before dangerous journeys upriver.",
+        "summary": "The Mist Shrine is the spirit-lodge of Cascade Exchange, set on a ledge behind the curtain of the tallest fall, reached by a slick narrow path cut into the cliff behind the water. The constant spray keeps everything wet and glistening, and the shrine itself is a small structure of water-smoothed stones and green wood, half-hidden by ferns, with a low altar where the river-shaman makes offerings to the spirit of the falls \u2014 a being the locals call the Roaring Mother, said to be the soul of the river made visible in the white water. Offerings of flowers, cacao, carved fish-bone tokens, and sometimes a living bird released through the curtain are left on the altar, and the shaman reads the fall's mood in the patterns of the spray. The roar of the water is so loud here that ritual is conducted in gesture and drum-vibration rather than speech, the shaman beating a water-drum whose sound is said to carry to the river-spirits downstream. The air is cold and smells of wet stone and crushed green leaves. It is a place of power, and traders come here to make vows before dangerous journeys upriver.",
         "parent_location_id": "location:ver-cascadeexchange",
         "jurisdiction": "Under the authority of the river-shaman, who holds it independent of the Falls Factor. The Factor and all officials show deference here; to disturb a rite is a grave taboo punishable by the town's collective shunning.",
         "terrain": "cliff ledge behind waterfall, wet stone shrine, spray-curtain",
-        "resources": ["ritual offerings", "fish-bone tokens", "vision-drum rites"]
+        "resources": [
+          "ritual offerings",
+          "fish-bone tokens",
+          "vision-drum rites"
+        ],
+        "culture": {
+          "themes": [
+            "Natural Balance and Forest Symbiosis",
+            "Community Bonds and the Hearth",
+            "Agricultural Cycles"
+          ],
+          "practices": [
+            "Living in harmony with the forest's rhythms and seasons",
+            "Oral traditions preserving ancient woodland lore",
+            "Communal gatherings and seasonal harvest festivals"
+          ],
+          "atmosphere": "Lush, pastoral, warm, communal, and deeply connected to the earth and ancient green magic."
+        }
       }
     },
     {
@@ -125,11 +302,30 @@
       "name": "Temple of the Coiled Serpent",
       "visibility": "shared",
       "payload": {
-        "summary": "The Temple of the Coiled Serpent is a deep-jungle temple-city being slowly reclaimed by the rainforest, built around a vast stepped pyramid of moss-covered limestone whose carvings of feathered serpents and goggled faces are still visible beneath the roots and vines that rive the stone. The city was abandoned centuries ago after a plague and a flood, and for generations it lay silent save for monkeys and jaguars — until a community of scholars, shamans, and displaced families returned to reclaim it. Now the great plaza before the pyramid is cleared and swept, the smaller temples and palaces around it are half-restored and half-ruined, and new thatched houses are built atop the old stone foundations, their wooden walls bright against the grey mossy ruins. Howler monkeys roar from the pyramid's summit at dawn and dusk, and flocks of oropendolas nest in the trees that shade the courtyards. The air smells of limestone dust, wet moss, burning copal from the restored shrines, and the sweet decay of the jungle pressing in on every side. It is a place of contradiction — living and dead, restored and ruined, sacred and profane — and the people who live here speak to the old spirits as neighbours, sometimes welcome, sometimes not.",
+        "summary": "The Temple of the Coiled Serpent is a deep-jungle temple-city being slowly reclaimed by the rainforest, built around a vast stepped pyramid of moss-covered limestone whose carvings of feathered serpents and goggled faces are still visible beneath the roots and vines that rive the stone. The city was abandoned centuries ago after a plague and a flood, and for generations it lay silent save for monkeys and jaguars \u2014 until a community of scholars, shamans, and displaced families returned to reclaim it. Now the great plaza before the pyramid is cleared and swept, the smaller temples and palaces around it are half-restored and half-ruined, and new thatched houses are built atop the old stone foundations, their wooden walls bright against the grey mossy ruins. Howler monkeys roar from the pyramid's summit at dawn and dusk, and flocks of oropendolas nest in the trees that shade the courtyards. The air smells of limestone dust, wet moss, burning copal from the restored shrines, and the sweet decay of the jungle pressing in on every side. It is a place of contradiction \u2014 living and dead, restored and ruined, sacred and profane \u2014 and the people who live here speak to the old spirits as neighbours, sometimes welcome, sometimes not.",
         "parent_location_id": "location:verdania",
         "jurisdiction": "Governed by the Loremaster Council, three scholars and two shamans who jointly decide all matters of settlement, restoration, and ritual. They claim no authority beyond the old city walls and have an uneasy relationship with Iara, which considers the territory Verdani sovereign land but rarely intervenes.",
         "terrain": "limestone pyramid ruins, reclaimed plazas, jungle-overgrown temples, restored foundations",
-        "resources": ["limestone blocks", "ancient relics", "jade carvings", "medicinal plants from overgrown ruins", "copal"]
+        "resources": [
+          "limestone blocks",
+          "ancient relics",
+          "jade carvings",
+          "medicinal plants from overgrown ruins",
+          "copal"
+        ],
+        "culture": {
+          "themes": [
+            "Natural Balance and Forest Symbiosis",
+            "Community Bonds and the Hearth",
+            "Agricultural Cycles"
+          ],
+          "practices": [
+            "Living in harmony with the forest's rhythms and seasons",
+            "Oral traditions preserving ancient woodland lore",
+            "Communal gatherings and seasonal harvest festivals"
+          ],
+          "atmosphere": "Lush, pastoral, warm, communal, and deeply connected to the earth and ancient green magic."
+        }
       }
     },
     {
@@ -137,11 +333,28 @@
       "name": "The Serpent's Crown",
       "visibility": "shared",
       "payload": {
-        "summary": "The Serpent's Crown is the summit shrine of the great pyramid, reached by climbing the central stairway up nine terraces, each carved with coiled serpents whose stone heads have been worn smooth by centuries of rain and hands. The summit is a small flat court with a single shrine-room open to the sky, its walls carved with a great feathered serpent biting its own tail and its floor cracked by the roots of a strangler fig that grows through the roof and spreads its canopy overhead. The loremasters have cleared the worst of the jungle but leave the fig, believing it a pact between the old builders and the forest. Offerings of copal, flowers, and maize-bread are left on a stone altar each morning by the shrine-keeper, and the smoke drifts up through the fig-branches into the sky. From the summit you can see the whole ruined city spread below — the plazas, the half-cleared temples, the new thatched houses on old foundations — and beyond it the unbroken green sea of the jungle stretching to every horizon, the roar of howler monkeys rising from it like the voice of the forest itself.",
+        "summary": "The Serpent's Crown is the summit shrine of the great pyramid, reached by climbing the central stairway up nine terraces, each carved with coiled serpents whose stone heads have been worn smooth by centuries of rain and hands. The summit is a small flat court with a single shrine-room open to the sky, its walls carved with a great feathered serpent biting its own tail and its floor cracked by the roots of a strangler fig that grows through the roof and spreads its canopy overhead. The loremasters have cleared the worst of the jungle but leave the fig, believing it a pact between the old builders and the forest. Offerings of copal, flowers, and maize-bread are left on a stone altar each morning by the shrine-keeper, and the smoke drifts up through the fig-branches into the sky. From the summit you can see the whole ruined city spread below \u2014 the plazas, the half-cleared temples, the new thatched houses on old foundations \u2014 and beyond it the unbroken green sea of the jungle stretching to every horizon, the roar of howler monkeys rising from it like the voice of the forest itself.",
         "parent_location_id": "location:ver-templeruins",
         "jurisdiction": "Sacred ground under the authority of the two shamans of the Loremaster Council. No building or clearing may be done here without their blessing. The shrine-keeper, a sworn celibate, lives in a cell on the summit.",
         "terrain": "pyramid summit court, open shrine, strangler fig canopy, carved limestone",
-        "resources": ["copal offerings", "ancient carvings", "sacred fig sap"]
+        "resources": [
+          "copal offerings",
+          "ancient carvings",
+          "sacred fig sap"
+        ],
+        "culture": {
+          "themes": [
+            "Natural Balance and Forest Symbiosis",
+            "Community Bonds and the Hearth",
+            "Agricultural Cycles"
+          ],
+          "practices": [
+            "Living in harmony with the forest's rhythms and seasons",
+            "Oral traditions preserving ancient woodland lore",
+            "Communal gatherings and seasonal harvest festivals"
+          ],
+          "atmosphere": "Lush, pastoral, warm, communal, and deeply connected to the earth and ancient green magic."
+        }
       }
     },
     {
@@ -149,11 +362,30 @@
       "name": "The Hall of Marks",
       "visibility": "shared",
       "payload": {
-        "summary": "The Hall of Marks is the loremasters' workshop and archive, set in a long rectangular temple-building at the plaza's edge whose roof has been restored with new thatch over the original stone walls. Inside, long tables of salvaged limestone slabs are covered with bark-paper, charcoal sketches, and clay tablets being painstakingly cleaned and catalogued. The loremasters work here by the light of oil-lamps and shafts of sun from gaps in the thatch, transcribing the old carvings, debating their meaning, and teaching the young apprentices who sit on the floor copying glyphs onto bark. Shelves along the walls hold restored relics — jade ear-plugs, a feathered mask, obsidian blades, painted pots — and fragments too broken to identify are sorted into baskets. The air smells of dust, lamp-oil, charcoal, and the sharp resin used to preserve fragile carvings. It is quiet work, broken by the slow drip of water through the roof in the rains and the low murmur of scholarly argument. The head loremaster, a grey-bearded man with ink-stained fingers, keeps a strict silence-rule during transcription hours.",
+        "summary": "The Hall of Marks is the loremasters' workshop and archive, set in a long rectangular temple-building at the plaza's edge whose roof has been restored with new thatch over the original stone walls. Inside, long tables of salvaged limestone slabs are covered with bark-paper, charcoal sketches, and clay tablets being painstakingly cleaned and catalogued. The loremasters work here by the light of oil-lamps and shafts of sun from gaps in the thatch, transcribing the old carvings, debating their meaning, and teaching the young apprentices who sit on the floor copying glyphs onto bark. Shelves along the walls hold restored relics \u2014 jade ear-plugs, a feathered mask, obsidian blades, painted pots \u2014 and fragments too broken to identify are sorted into baskets. The air smells of dust, lamp-oil, charcoal, and the sharp resin used to preserve fragile carvings. It is quiet work, broken by the slow drip of water through the roof in the rains and the low murmur of scholarly argument. The head loremaster, a grey-bearded man with ink-stained fingers, keeps a strict silence-rule during transcription hours.",
         "parent_location_id": "location:ver-templeruins",
         "jurisdiction": "Under the three scholars of the Loremaster Council. The hall and its contents are inviolate; theft or vandalism is punished by permanent exile from the city. Apprentices serve a ten-year bond.",
         "terrain": "restored temple-building, limestone worktables, thatched roof",
-        "resources": ["ancient glyphs", "jade relics", "obsidian blades", "painted pottery", "bark-paper archives"]
+        "resources": [
+          "ancient glyphs",
+          "jade relics",
+          "obsidian blades",
+          "painted pottery",
+          "bark-paper archives"
+        ],
+        "culture": {
+          "themes": [
+            "Natural Balance and Forest Symbiosis",
+            "Community Bonds and the Hearth",
+            "Agricultural Cycles"
+          ],
+          "practices": [
+            "Living in harmony with the forest's rhythms and seasons",
+            "Oral traditions preserving ancient woodland lore",
+            "Communal gatherings and seasonal harvest festivals"
+          ],
+          "atmosphere": "Lush, pastoral, warm, communal, and deeply connected to the earth and ancient green magic."
+        }
       }
     },
     {
@@ -161,11 +393,32 @@
       "name": "The Reclaimed Plaza",
       "visibility": "shared",
       "payload": {
-        "summary": "The Reclaimed Plaza is the great square before the pyramid, once the ceremonial heart of the old city and now the living heart of the new settlement. The flagstones have been cleared of jungle and swept clean, though a few trees and shrubs are deliberately left growing in the corners where the shamans say the forest-spirits dwell. In the mornings the plaza is a market — traders from Iara and the river cities spread mats of salt, fish-hooks, steel, and cloth, while the settlers sell jade and quartz panned from the ruins, medicinal plants gathered from the overgrown temples, and the copied glyph-rolls that scholars prize. In the afternoons it becomes a work-yard where limestone blocks are shaped and hauled to restoration sites. In the evenings it is a gathering-place, where the whole community eats together around cookfires and the shamans tell the old stories carved on the pyramid walls by lamplight. Children play among the worn serpent-carvings, and a colony of oropendolas nests in the plaza trees, their hanging woven nests swaying overhead and their strange liquid calls echoing off the stone.",
+        "summary": "The Reclaimed Plaza is the great square before the pyramid, once the ceremonial heart of the old city and now the living heart of the new settlement. The flagstones have been cleared of jungle and swept clean, though a few trees and shrubs are deliberately left growing in the corners where the shamans say the forest-spirits dwell. In the mornings the plaza is a market \u2014 traders from Iara and the river cities spread mats of salt, fish-hooks, steel, and cloth, while the settlers sell jade and quartz panned from the ruins, medicinal plants gathered from the overgrown temples, and the copied glyph-rolls that scholars prize. In the afternoons it becomes a work-yard where limestone blocks are shaped and hauled to restoration sites. In the evenings it is a gathering-place, where the whole community eats together around cookfires and the shamans tell the old stories carved on the pyramid walls by lamplight. Children play among the worn serpent-carvings, and a colony of oropendolas nests in the plaza trees, their hanging woven nests swaying overhead and their strange liquid calls echoing off the stone.",
         "parent_location_id": "location:ver-templeruins",
         "jurisdiction": "Common ground managed by the Loremaster Council. Market days are overseen by a rotating market-warden. No structure may be permanently built on the plaza without council consent.",
         "terrain": "cleared limestone plaza, ceremonial flagstones, bordering trees",
-        "resources": ["jade", "quartz", "medicinal plants", "glyph-rolls", "salt", "steel", "fish-hooks"]
+        "resources": [
+          "jade",
+          "quartz",
+          "medicinal plants",
+          "glyph-rolls",
+          "salt",
+          "steel",
+          "fish-hooks"
+        ],
+        "culture": {
+          "themes": [
+            "Natural Balance and Forest Symbiosis",
+            "Community Bonds and the Hearth",
+            "Agricultural Cycles"
+          ],
+          "practices": [
+            "Living in harmony with the forest's rhythms and seasons",
+            "Oral traditions preserving ancient woodland lore",
+            "Communal gatherings and seasonal harvest festivals"
+          ],
+          "atmosphere": "Lush, pastoral, warm, communal, and deeply connected to the earth and ancient green magic."
+        }
       }
     },
     {
@@ -173,11 +426,24 @@
       "name": "The Bone Gate",
       "visibility": "shared",
       "payload": {
-        "summary": "The Bone Gate is the old ceremonial entrance to the temple-city, a stone gateway carved with skulls and serpent-fangs that stands at the eastern edge of the plaza where the cleared ground meets the uncleared jungle. The gate is half-collapsed, one pillar leaning and vines choking the lintel, but the shamans have forbidden its repair, saying it marks the boundary between the living settlement and the domain of the old dead. Offerings are left here at every new moon — food, cacao, carved tokens — set on a stone ledge beneath the carved skulls, and the shamans come here to petition the ancient dead for permission before any new part of the city is reclaimed from the jungle. The air here is cooler and stiller than the plaza, the roar of the howlers seems closer, and the green wall of the rainforest presses in so near you can reach out and touch the leaves. It is said that at night the old builders walk through the gate back into their city, and the shrine-keeper on the pyramid keeps a lamp lit for them. Locals do not linger here after dark.",
+        "summary": "The Bone Gate is the old ceremonial entrance to the temple-city, a stone gateway carved with skulls and serpent-fangs that stands at the eastern edge of the plaza where the cleared ground meets the uncleared jungle. The gate is half-collapsed, one pillar leaning and vines choking the lintel, but the shamans have forbidden its repair, saying it marks the boundary between the living settlement and the domain of the old dead. Offerings are left here at every new moon \u2014 food, cacao, carved tokens \u2014 set on a stone ledge beneath the carved skulls, and the shamans come here to petition the ancient dead for permission before any new part of the city is reclaimed from the jungle. The air here is cooler and stiller than the plaza, the roar of the howlers seems closer, and the green wall of the rainforest presses in so near you can reach out and touch the leaves. It is said that at night the old builders walk through the gate back into their city, and the shrine-keeper on the pyramid keeps a lamp lit for them. Locals do not linger here after dark.",
         "parent_location_id": "location:ver-templeruins",
         "jurisdiction": "Sacred threshold under the shamans' authority. It is taboo to pass through the gate after sunset or to damage it. The jungle beyond is considered the dead's domain and is not cleared.",
         "terrain": "ruined stone gateway, jungle boundary, skull-carved pillars",
-        "resources": []
+        "resources": [],
+        "culture": {
+          "themes": [
+            "Natural Balance and Forest Symbiosis",
+            "Community Bonds and the Hearth",
+            "Agricultural Cycles"
+          ],
+          "practices": [
+            "Living in harmony with the forest's rhythms and seasons",
+            "Oral traditions preserving ancient woodland lore",
+            "Communal gatherings and seasonal harvest festivals"
+          ],
+          "atmosphere": "Lush, pastoral, warm, communal, and deeply connected to the earth and ancient green magic."
+        }
       }
     },
     {
@@ -185,11 +451,31 @@
       "name": "The Old Foundations",
       "visibility": "shared",
       "payload": {
-        "summary": "The Old Foundations are the residential quarter of the reclaimed city, a cluster of new thatched houses built on the stone foundations of the old city's dwellings along the streets radiating from the plaza. The old walls, knee-high and mossy, serve as the base for new wooden walls and palm-thatch roofs, and each house has a small cleared yard where cassava, peppers, and medicinal herbs grow in the rich dark soil that has accumulated over centuries. The streets between them are the old limestone paving, cracked and root-heaved but walkable, and water runs along the old drainage channels when it rains. It is a quiet neighbourhood of families — the shamans, scholars, labourers, and hunters who make up the settlement — and smoke rises from the cookfires morning and evening, carrying the smell of roasting cassava, fish-stew, and the bitter green tea brewed from yoco bark. Weavers work under the eaves in the daytime, and children run the old streets calling to each other. A communal fermenting-house at the street's end produces the sour cassava beer that is shared at every gathering, its smell sharp and yeasty on the afternoon air.",
+        "summary": "The Old Foundations are the residential quarter of the reclaimed city, a cluster of new thatched houses built on the stone foundations of the old city's dwellings along the streets radiating from the plaza. The old walls, knee-high and mossy, serve as the base for new wooden walls and palm-thatch roofs, and each house has a small cleared yard where cassava, peppers, and medicinal herbs grow in the rich dark soil that has accumulated over centuries. The streets between them are the old limestone paving, cracked and root-heaved but walkable, and water runs along the old drainage channels when it rains. It is a quiet neighbourhood of families \u2014 the shamans, scholars, labourers, and hunters who make up the settlement \u2014 and smoke rises from the cookfires morning and evening, carrying the smell of roasting cassava, fish-stew, and the bitter green tea brewed from yoco bark. Weavers work under the eaves in the daytime, and children run the old streets calling to each other. A communal fermenting-house at the street's end produces the sour cassava beer that is shared at every gathering, its smell sharp and yeasty on the afternoon air.",
         "parent_location_id": "location:ver-templeruins",
         "jurisdiction": "Residential allotments granted by the Loremaster Council to settlers who commit to a term of restoration or guardianship work. Disputes between households are settled by a elected street-elder.",
         "terrain": "old stone foundations, thatched houses, limestone streets, kitchen gardens",
-        "resources": ["cassava", "peppers", "medicinal herbs", "cassava beer", "yoco tea", "woven goods"]
+        "resources": [
+          "cassava",
+          "peppers",
+          "medicinal herbs",
+          "cassava beer",
+          "yoco tea",
+          "woven goods"
+        ],
+        "culture": {
+          "themes": [
+            "Natural Balance and Forest Symbiosis",
+            "Community Bonds and the Hearth",
+            "Agricultural Cycles"
+          ],
+          "practices": [
+            "Living in harmony with the forest's rhythms and seasons",
+            "Oral traditions preserving ancient woodland lore",
+            "Communal gatherings and seasonal harvest festivals"
+          ],
+          "atmosphere": "Lush, pastoral, warm, communal, and deeply connected to the earth and ancient green magic."
+        }
       }
     },
     {
@@ -197,11 +483,33 @@
       "name": "Tidal Reach",
       "visibility": "shared",
       "payload": {
-        "summary": "Tidal Reach is Verdania's river-mouth city, built where the Verde River widens into a great estuary before pouring into the grey-green sea. The city stands on stilts and rafts over the tidal flats and shallows, its houses raised on hardwood pilings driven into the mud, connected by plank walkways and rope bridges that rise and fall with the tide and creak and groan as the water shifts beneath them. At high tide the sea laps at the floors and fish swim under the houses; at low tide the mudflats are exposed and the people wade out to dig for clams, crabs, and the odd manatee, the air thick with the briny smell of salt mud, rotting seaweed, and drying fish. The harbour mouth is guarded by a pair of ancient stone pillars — all that remains of an older port — and the fishing fleet of outrigger canoes and larger sailing dhows rocks at anchor, their hulls crusted with barnacles and painted in blue and white stripes. The people here are river-folk and sea-folk mixed, darker-skinned than the jungle Verdani, dressed in loose salt-bleached cloth and palm hats, and they speak with a drawl that marks them even in Iara. The city smells of salt, smoke, and the sweet heavy scent of palm-wine fermenting in the sun.",
+        "summary": "Tidal Reach is Verdania's river-mouth city, built where the Verde River widens into a great estuary before pouring into the grey-green sea. The city stands on stilts and rafts over the tidal flats and shallows, its houses raised on hardwood pilings driven into the mud, connected by plank walkways and rope bridges that rise and fall with the tide and creak and groan as the water shifts beneath them. At high tide the sea laps at the floors and fish swim under the houses; at low tide the mudflats are exposed and the people wade out to dig for clams, crabs, and the odd manatee, the air thick with the briny smell of salt mud, rotting seaweed, and drying fish. The harbour mouth is guarded by a pair of ancient stone pillars \u2014 all that remains of an older port \u2014 and the fishing fleet of outrigger canoes and larger sailing dhows rocks at anchor, their hulls crusted with barnacles and painted in blue and white stripes. The people here are river-folk and sea-folk mixed, darker-skinned than the jungle Verdani, dressed in loose salt-bleached cloth and palm hats, and they speak with a drawl that marks them even in Iara. The city smells of salt, smoke, and the sweet heavy scent of palm-wine fermenting in the sun.",
         "parent_location_id": "location:verdania",
         "jurisdiction": "Ruled by the Tide-Moot, an assembly of ship-captains, fishing-boat owners, and guild-elders that elects a Tide-Chancellor to govern for life or until the Moot withdraws confidence. The Tide-Chancellor handles external relations and justice; the Moot sets taxes and law. Defers to Iara on matters of national security.",
         "terrain": "stilt-house estuary, tidal mudflats, river-mouth harbour, coastal shallows",
-        "resources": ["sea fish", "clams", "crabs", "salt", "palm-wine", "dugong oil", "mother-of-pearl", "sails and cordage"]
+        "resources": [
+          "sea fish",
+          "clams",
+          "crabs",
+          "salt",
+          "palm-wine",
+          "dugong oil",
+          "mother-of-pearl",
+          "sails and cordage"
+        ],
+        "culture": {
+          "themes": [
+            "Natural Balance and Forest Symbiosis",
+            "Community Bonds and the Hearth",
+            "Agricultural Cycles"
+          ],
+          "practices": [
+            "Living in harmony with the forest's rhythms and seasons",
+            "Oral traditions preserving ancient woodland lore",
+            "Communal gatherings and seasonal harvest festivals"
+          ],
+          "atmosphere": "Lush, pastoral, warm, communal, and deeply connected to the earth and ancient green magic."
+        }
       }
     },
     {
@@ -213,7 +521,20 @@
         "parent_location_id": "location:ver-tidalreach",
         "jurisdiction": "Seat of the Tide-Chancellor and the Tide-Moot. All civic law, taxation, and external treaties are decided here. The hall and its raft-platform are sovereign ground; no one may be assaulted here under pain of drowning.",
         "terrain": "floating raft-platform hall, open-sided thatch roof, tidal anchorage",
-        "resources": []
+        "resources": [],
+        "culture": {
+          "themes": [
+            "Natural Balance and Forest Symbiosis",
+            "Community Bonds and the Hearth",
+            "Agricultural Cycles"
+          ],
+          "practices": [
+            "Living in harmony with the forest's rhythms and seasons",
+            "Oral traditions preserving ancient woodland lore",
+            "Communal gatherings and seasonal harvest festivals"
+          ],
+          "atmosphere": "Lush, pastoral, warm, communal, and deeply connected to the earth and ancient green magic."
+        }
       }
     },
     {
@@ -221,11 +542,34 @@
       "name": "The Salt Market",
       "visibility": "shared",
       "payload": {
-        "summary": "The Salt Market is the great market of Tidal Reach, a sprawling complex of floating platforms and stilt-walkways at the city's centre where the morning's catch is landed and traded before the heat of the day. Fish of every kind lie on woven mats and palm-leaf tables — silver river-fish, flat skates, armoured catfish, great tunas from the open sea, strings of sardines, and the prized river-dolkins — alongside baskets of clams and oysters, crabs bound with twine, octopus, and slabs of sea-salt dried in shallow clay pans. The smell is overwhelming — fish, brine, the iron tang of blood on the gutting-tables, and the sharp reek of the fermented fish-paste the city exports inland. Fishmongers shout prices and provenance, buyers from the river barges haggle in rapid hand-signs, and gulls scream and dive for scraps, so bold they steal from the stalls. Beyond the fish, the market sells salt, dugong oil in clay jars, mother-of-pearl inlay work, sails and rope, and the bitter dark chocolate that comes overland from Cascade Exchange in exchange for the sea's bounty.",
+        "summary": "The Salt Market is the great market of Tidal Reach, a sprawling complex of floating platforms and stilt-walkways at the city's centre where the morning's catch is landed and traded before the heat of the day. Fish of every kind lie on woven mats and palm-leaf tables \u2014 silver river-fish, flat skates, armoured catfish, great tunas from the open sea, strings of sardines, and the prized river-dolkins \u2014 alongside baskets of clams and oysters, crabs bound with twine, octopus, and slabs of sea-salt dried in shallow clay pans. The smell is overwhelming \u2014 fish, brine, the iron tang of blood on the gutting-tables, and the sharp reek of the fermented fish-paste the city exports inland. Fishmongers shout prices and provenance, buyers from the river barges haggle in rapid hand-signs, and gulls scream and dive for scraps, so bold they steal from the stalls. Beyond the fish, the market sells salt, dugong oil in clay jars, mother-of-pearl inlay work, sails and rope, and the bitter dark chocolate that comes overland from Cascade Exchange in exchange for the sea's bounty.",
         "parent_location_id": "location:ver-tidalreach",
         "jurisdiction": "Overseen by the Market Elder, a guilds-person elected by the fishmongers and confirmed by the Tide-Moot. The Market Elder sets stall fees, enforces weights, and inspects catch for spoilage.",
         "terrain": "floating market platforms, stilt-walkways, gutting tables",
-        "resources": ["sea fish", "river fish", "clams", "oysters", "crabs", "sea-salt", "dugong oil", "mother-of-pearl", "fermented fish-paste"]
+        "resources": [
+          "sea fish",
+          "river fish",
+          "clams",
+          "oysters",
+          "crabs",
+          "sea-salt",
+          "dugong oil",
+          "mother-of-pearl",
+          "fermented fish-paste"
+        ],
+        "culture": {
+          "themes": [
+            "Natural Balance and Forest Symbiosis",
+            "Community Bonds and the Hearth",
+            "Agricultural Cycles"
+          ],
+          "practices": [
+            "Living in harmony with the forest's rhythms and seasons",
+            "Oral traditions preserving ancient woodland lore",
+            "Communal gatherings and seasonal harvest festivals"
+          ],
+          "atmosphere": "Lush, pastoral, warm, communal, and deeply connected to the earth and ancient green magic."
+        }
       }
     },
     {
@@ -233,11 +577,31 @@
       "name": "The Anchorage",
       "visibility": "shared",
       "payload": {
-        "summary": "The Anchorage is the harbour of Tidal Reach, the sheltered water between the old stone pillars at the river-mouth where the fishing fleet and the larger trading dhows lie at anchor or tied to mooring-posts driven into the mud. At dawn the fleet puts out to sea, a hundred outrigger canoes and a dozen dhows slipping past the pillars with the tide, their blue-and-white sails catching the first wind, and at dusk they return in a long straggling line heavy with fish, the water alive with gulls. The anchorage is always busy — boats being caulked and tarred on the mudflats at low tide, nets mended on the walkways, sails dried on lines strung between the stilt-houses, and pilots shouting directions to incoming river-barges. A boatyard on the northern shore builds and repairs the outriggers, its beach strewn with hulls in every state of construction, and the air smells of wood-shavings, hot tar, hemp, and salt. The harbour-master's post sits on a high stilt-platform at the mouth, from which she watches all traffic and flies signal-flags to guide vessels in over the shifting sandbars.",
+        "summary": "The Anchorage is the harbour of Tidal Reach, the sheltered water between the old stone pillars at the river-mouth where the fishing fleet and the larger trading dhows lie at anchor or tied to mooring-posts driven into the mud. At dawn the fleet puts out to sea, a hundred outrigger canoes and a dozen dhows slipping past the pillars with the tide, their blue-and-white sails catching the first wind, and at dusk they return in a long straggling line heavy with fish, the water alive with gulls. The anchorage is always busy \u2014 boats being caulked and tarred on the mudflats at low tide, nets mended on the walkways, sails dried on lines strung between the stilt-houses, and pilots shouting directions to incoming river-barges. A boatyard on the northern shore builds and repairs the outriggers, its beach strewn with hulls in every state of construction, and the air smells of wood-shavings, hot tar, hemp, and salt. The harbour-master's post sits on a high stilt-platform at the mouth, from which she watches all traffic and flies signal-flags to guide vessels in over the shifting sandbars.",
         "parent_location_id": "location:ver-tidalreach",
         "jurisdiction": "Under the Harbour-Master, appointed by the Tide-Chancellor. She assigns anchorages, licenses pilots, enforces the harbour's traffic rules, and maintains the channel markers. Her word on the water is absolute.",
         "terrain": "estuary anchorage, mudflat boatyard, mooring-posts, sandbar channel",
-        "resources": ["fishing canoes", "sailing dhows", "tar", "cordage", "sails", "outrigger timber"]
+        "resources": [
+          "fishing canoes",
+          "sailing dhows",
+          "tar",
+          "cordage",
+          "sails",
+          "outrigger timber"
+        ],
+        "culture": {
+          "themes": [
+            "Natural Balance and Forest Symbiosis",
+            "Community Bonds and the Hearth",
+            "Agricultural Cycles"
+          ],
+          "practices": [
+            "Living in harmony with the forest's rhythms and seasons",
+            "Oral traditions preserving ancient woodland lore",
+            "Communal gatherings and seasonal harvest festivals"
+          ],
+          "atmosphere": "Lush, pastoral, warm, communal, and deeply connected to the earth and ancient green magic."
+        }
       }
     },
     {
@@ -245,11 +609,29 @@
       "name": "The Saltwater Shrine",
       "visibility": "shared",
       "payload": {
-        "summary": "The Saltwater Shrine is the spirit-lodge of Tidal Reach, built on the oldest platform in the city, a single great raft of dark seasoned timber said to have been lashed together by the city's founders and replaced plank by plank ever since so that it is both ancient and new. The shrine is open to the weather, roofed only by a sail-cloth awning, and its central feature is a tidal pool — a square basin cut into the raft that fills and empties with the sea through a channel, so that the water within is always half river and half sea and changes with every tide. The sea-shaman, a weathered woman with ritual scars down her arms, reads the tides and the moon here, casts offerings of fish-blood and flowers into the pool, and interprets the movements of the small creatures that live in it — a crab, an eel, a blind cave-fish — as messages from the sea-spirit and the river-spirit, whose meeting at the river-mouth is the city's sacred fact. Driftwood charms, shells strung on cord, and the carved figureheads of lost ships hang from the awning-poles and clatter in the wind. The air smells of salt, dried seaweed, and the faint sweetness of the palm-wine offerings poured into the pool.",
+        "summary": "The Saltwater Shrine is the spirit-lodge of Tidal Reach, built on the oldest platform in the city, a single great raft of dark seasoned timber said to have been lashed together by the city's founders and replaced plank by plank ever since so that it is both ancient and new. The shrine is open to the weather, roofed only by a sail-cloth awning, and its central feature is a tidal pool \u2014 a square basin cut into the raft that fills and empties with the sea through a channel, so that the water within is always half river and half sea and changes with every tide. The sea-shaman, a weathered woman with ritual scars down her arms, reads the tides and the moon here, casts offerings of fish-blood and flowers into the pool, and interprets the movements of the small creatures that live in it \u2014 a crab, an eel, a blind cave-fish \u2014 as messages from the sea-spirit and the river-spirit, whose meeting at the river-mouth is the city's sacred fact. Driftwood charms, shells strung on cord, and the carved figureheads of lost ships hang from the awning-poles and clatter in the wind. The air smells of salt, dried seaweed, and the faint sweetness of the palm-wine offerings poured into the pool.",
         "parent_location_id": "location:ver-tidalreach",
         "jurisdiction": "Sovereign under the sea-shaman, independent of the Tide-Chancellor and Moot. All fishing voyages are blessed here before departure, and the shaman may forbid a voyage on spiritual grounds, a ruling no captain will defy.",
         "terrain": "ancient raft platform, tidal pool basin, sail-cloth shrine, open to weather",
-        "resources": ["tidal auguries", "voyage blessings", "shell charms", "driftwood talismans"]
+        "resources": [
+          "tidal auguries",
+          "voyage blessings",
+          "shell charms",
+          "driftwood talismans"
+        ],
+        "culture": {
+          "themes": [
+            "Natural Balance and Forest Symbiosis",
+            "Community Bonds and the Hearth",
+            "Agricultural Cycles"
+          ],
+          "practices": [
+            "Living in harmony with the forest's rhythms and seasons",
+            "Oral traditions preserving ancient woodland lore",
+            "Communal gatherings and seasonal harvest festivals"
+          ],
+          "atmosphere": "Lush, pastoral, warm, communal, and deeply connected to the earth and ancient green magic."
+        }
       }
     },
     {
@@ -257,11 +639,26 @@
       "name": "The Chief's Float",
       "visibility": "shared",
       "payload": {
-        "summary": "The Chief's Float is the seat of Iara's governance, a vast raft-platform of lashed balsa logs and cork-wood anchored at the heart of the river capital where the current is slowest and the water deepest. Upon it stands the chief's hall, a long low building of dark hardwood with walls of woven palm and a roof of layered thatch weighted with river-stones, its eaves carved with the forms of fish, herons, and anacondas and painted in black, red, and gold. Inside, a central hearth of sand and river-clay holds a fire fed with driftwood and resinous wood brought down from the canopy, and the smoke rises through a roof-gap, sweet and heavy. The chief's seat is a raised chair of polished ironwood draped with jaguar pelts, flanked by the carved speaking-staves of the river-clans. Petitioners wait on the landing-ramp and are called in by a herald who blows a conch. The walls are hung with tribute — featherwork, jade, river-gold, and the painted skulls of past chiefs — and the air smells of woodsmoke, wet wood, and the river itself, which laps audibly beneath the floor. Guards in bone-corselets stand at the doors.",
+        "summary": "The Chief's Float is the seat of Iara's governance, a vast raft-platform of lashed balsa logs and cork-wood anchored at the heart of the river capital where the current is slowest and the water deepest. Upon it stands the chief's hall, a long low building of dark hardwood with walls of woven palm and a roof of layered thatch weighted with river-stones, its eaves carved with the forms of fish, herons, and anacondas and painted in black, red, and gold. Inside, a central hearth of sand and river-clay holds a fire fed with driftwood and resinous wood brought down from the canopy, and the smoke rises through a roof-gap, sweet and heavy. The chief's seat is a raised chair of polished ironwood draped with jaguar pelts, flanked by the carved speaking-staves of the river-clans. Petitioners wait on the landing-ramp and are called in by a herald who blows a conch. The walls are hung with tribute \u2014 featherwork, jade, river-gold, and the painted skulls of past chiefs \u2014 and the air smells of woodsmoke, wet wood, and the river itself, which laps audibly beneath the floor. Guards in bone-corselets stand at the doors.",
         "parent_location_id": "location:iara",
         "jurisdiction": "Seat of the River-Chief of Iara, who governs the capital and holds the authority of the Verdani Council. The chief is chosen from the river-clans by ritual contest and rules for life. All major civic, trade, and military decisions are made or ratified here.",
         "terrain": "balsa raft-platform, central river anchorage, hardwood hall",
-        "resources": ["river-gold", "jade", "featherwork", "jaguar pelts"]
+        "resources": [
+          "river-gold",
+          "jade",
+          "featherwork",
+          "jaguar pelts"
+        ],
+        "culture": {
+          "themes": [
+            "Local Traditions",
+            "Community"
+          ],
+          "practices": [
+            "Following regional customs"
+          ],
+          "atmosphere": "Rooted in the local environment and history."
+        }
       }
     },
     {
@@ -269,11 +666,34 @@
       "name": "The Float Market",
       "visibility": "shared",
       "payload": {
-        "summary": "The Float Market is the great trading quarter of Iara, a sprawling maze of raft-stalls, canoe-booths, and floating platforms that spreads across a broad reach of the river near the chief's float, shifting and re-forming daily as vendors pole their craft to a spot and tie up. Every kind of good from the river and the jungle is here — fish, river-turtles and their eggs, manioc flour, plantains, cacao, palm-heart, fermented cassava beer in gourds, dyed cotton and bark-cloth, feather-work, clay pots, bone fish-hooks, jade and quartz, blowguns and curare, medicinal barks and salves, and the rare goods brought from Cascade Exchange and Tidal Reach — salt, steel, sea-fish, mother-of-pearl. The noise is a constant roar of haggling, splashing, and the cries of river-birds, and the water between the stalls is thick with canoes, children swimming, and the occasional caiman drawn by the offal. The smell changes every few feet — fish, fruit, woodsmoke, dye, fermenting beer, wet wood. A market-warden in a painted canoe patrols the lanes and settles disputes with a quick word and the authority of the chief's painted staff.",
+        "summary": "The Float Market is the great trading quarter of Iara, a sprawling maze of raft-stalls, canoe-booths, and floating platforms that spreads across a broad reach of the river near the chief's float, shifting and re-forming daily as vendors pole their craft to a spot and tie up. Every kind of good from the river and the jungle is here \u2014 fish, river-turtles and their eggs, manioc flour, plantains, cacao, palm-heart, fermented cassava beer in gourds, dyed cotton and bark-cloth, feather-work, clay pots, bone fish-hooks, jade and quartz, blowguns and curare, medicinal barks and salves, and the rare goods brought from Cascade Exchange and Tidal Reach \u2014 salt, steel, sea-fish, mother-of-pearl. The noise is a constant roar of haggling, splashing, and the cries of river-birds, and the water between the stalls is thick with canoes, children swimming, and the occasional caiman drawn by the offal. The smell changes every few feet \u2014 fish, fruit, woodsmoke, dye, fermenting beer, wet wood. A market-warden in a painted canoe patrols the lanes and settles disputes with a quick word and the authority of the chief's painted staff.",
         "parent_location_id": "location:iara",
         "jurisdiction": "Administered by the Market-Warden, appointed by the River-Chief. The warden assigns vending positions, settles disputes, collects market fees, and has authority to expel any vendor. Chief's law applies on all market waters.",
         "terrain": "floating raft-stalls, canoe-booths, river reach, shifting market lanes",
-        "resources": ["fish", "manioc flour", "cacao", "cassava beer", "bark-cloth", "featherwork", "jade", "curare", "medicinal barks", "salt", "steel", "mother-of-pearl"]
+        "resources": [
+          "fish",
+          "manioc flour",
+          "cacao",
+          "cassava beer",
+          "bark-cloth",
+          "featherwork",
+          "jade",
+          "curare",
+          "medicinal barks",
+          "salt",
+          "steel",
+          "mother-of-pearl"
+        ],
+        "culture": {
+          "themes": [
+            "Local Traditions",
+            "Community"
+          ],
+          "practices": [
+            "Following regional customs"
+          ],
+          "atmosphere": "Rooted in the local environment and history."
+        }
       }
     },
     {
@@ -281,11 +701,29 @@
       "name": "The Still Water Lodge",
       "visibility": "shared",
       "payload": {
-        "summary": "The Still Water Lodge is the shaman's lodge of Iara, set apart on a small platform of black wood moored in a quiet backwater off the main river, screened by a grove of standing dead trees hung with moss and offerings so that it is half-hidden from the city. The lodge is a low round hut of woven reeds and dark wood, its entrance a low arch draped with a curtain of shells and bone that clatters in the wind. Inside, the floor is covered with woven mats and a shallow sand-pit holds the ritual fire, its smoke guided out through a reed tube. The walls are hung with spirit-masks of carved and painted wood — anaconda, caiman, river-dolphin, jaguar — each the face of a spirit-pact held by the lodge. The chief shaman, a scarred and quiet man, conducts the binding of citizens to their totem spirits here, through nights of fasting, chanting, and the drinking of the sacred vine-brew, and he also heals the sick, reads omens in the river's flow, and blesses the fishing fleet and the war-canoes. The air is thick with the smell of mapacho smoke, copal, the bitter vine-brew, and the wet green smell of the backwater. Only the initiated enter freely; others come in need and leave when their business is done.",
+        "summary": "The Still Water Lodge is the shaman's lodge of Iara, set apart on a small platform of black wood moored in a quiet backwater off the main river, screened by a grove of standing dead trees hung with moss and offerings so that it is half-hidden from the city. The lodge is a low round hut of woven reeds and dark wood, its entrance a low arch draped with a curtain of shells and bone that clatters in the wind. Inside, the floor is covered with woven mats and a shallow sand-pit holds the ritual fire, its smoke guided out through a reed tube. The walls are hung with spirit-masks of carved and painted wood \u2014 anaconda, caiman, river-dolphin, jaguar \u2014 each the face of a spirit-pact held by the lodge. The chief shaman, a scarred and quiet man, conducts the binding of citizens to their totem spirits here, through nights of fasting, chanting, and the drinking of the sacred vine-brew, and he also heals the sick, reads omens in the river's flow, and blesses the fishing fleet and the war-canoes. The air is thick with the smell of mapacho smoke, copal, the bitter vine-brew, and the wet green smell of the backwater. Only the initiated enter freely; others come in need and leave when their business is done.",
         "parent_location_id": "location:iara",
         "jurisdiction": "Sovereign under the chief shaman, who answers to no civic authority, not even the River-Chief, in matters of spirit. The chief traditionally defers to the shaman in all ritual matters and seeks his blessing before war or great decisions.",
         "terrain": "backwater platform, reed-and-wood lodge, screened dead-tree grove, ritual fire-pit",
-        "resources": ["spirit-pact rites", "sacred vine-brew", "mapacho tobacco", "copal incense", "spirit-masks", "healing salves", "river auguries"]
+        "resources": [
+          "spirit-pact rites",
+          "sacred vine-brew",
+          "mapacho tobacco",
+          "copal incense",
+          "spirit-masks",
+          "healing salves",
+          "river auguries"
+        ],
+        "culture": {
+          "themes": [
+            "Local Traditions",
+            "Community"
+          ],
+          "practices": [
+            "Following regional customs"
+          ],
+          "atmosphere": "Rooted in the local environment and history."
+        }
       }
     },
     {
@@ -293,11 +731,30 @@
       "name": "The Long Docks",
       "visibility": "shared",
       "payload": {
-        "summary": "The Long Docks are the harbour district of Iara, a line of timber wharves and landing-stages running along the city's downstream edge where the river widens, built on pilings and extending out into the current so that vessels of any size can tie up. The docks are the busiest part of the city at all hours — war-canoes of the river-guard tying up from patrol, trading canoes and barges arriving from the interior with jungle goods, larger dhows coming up from Tidal Reach with salt and sea-fish, and the painted pleasure-canoes of the wealthy gliding past. Stevedores haul cargo up the ramps, boat-builders caulk and tar hulls on the staging-blocks, and rope-makers spin cordage on the shore. A chandler sells tar, sail-cloth, fish-hooks, and dried provisions from a stilt-shed at the head of the docks. The water is busy with small ferries poling people across the river, and children dive from the wharf-ends for coins thrown by sailors. The air smells of tar, hemp, river-mud, fish, and the smoke of the chandler's tar-pot. A dock-master in a canoe with a painted prow directs traffic and collects berthing fees.",
+        "summary": "The Long Docks are the harbour district of Iara, a line of timber wharves and landing-stages running along the city's downstream edge where the river widens, built on pilings and extending out into the current so that vessels of any size can tie up. The docks are the busiest part of the city at all hours \u2014 war-canoes of the river-guard tying up from patrol, trading canoes and barges arriving from the interior with jungle goods, larger dhows coming up from Tidal Reach with salt and sea-fish, and the painted pleasure-canoes of the wealthy gliding past. Stevedores haul cargo up the ramps, boat-builders caulk and tar hulls on the staging-blocks, and rope-makers spin cordage on the shore. A chandler sells tar, sail-cloth, fish-hooks, and dried provisions from a stilt-shed at the head of the docks. The water is busy with small ferries poling people across the river, and children dive from the wharf-ends for coins thrown by sailors. The air smells of tar, hemp, river-mud, fish, and the smoke of the chandler's tar-pot. A dock-master in a canoe with a painted prow directs traffic and collects berthing fees.",
         "parent_location_id": "location:iara",
         "jurisdiction": "Under the Dock-Master, appointed by the River-Chief. The Dock-Master assigns berths, collects fees, regulates traffic, and commands the dock-guards. Harbour regulations are enforced strictly; the docks are the chief's direct responsibility as they are the city's economic and military lifeline.",
         "terrain": "timber wharves, landing-stages, pilings, staging-blocks, riverfront",
-        "resources": ["berthing", "cargo handling", "boat-building", "tar", "cordage", "sail-cloth", "fish-hooks", "provisions"]
+        "resources": [
+          "berthing",
+          "cargo handling",
+          "boat-building",
+          "tar",
+          "cordage",
+          "sail-cloth",
+          "fish-hooks",
+          "provisions"
+        ],
+        "culture": {
+          "themes": [
+            "Local Traditions",
+            "Community"
+          ],
+          "practices": [
+            "Following regional customs"
+          ],
+          "atmosphere": "Rooted in the local environment and history."
+        }
       }
     },
     {
@@ -305,11 +762,28 @@
       "name": "The Weaver's Reach",
       "visibility": "shared",
       "payload": {
-        "summary": "The Weaver's Reach is the craft quarter of Iara, a cluster of stilt-house workshops along a quiet back-channel where the weavers, dyers, and feather-workers of the city have their workshops, chosen for the calm water that lets them set out their work on platforms and drying-racks without the current carrying it away. The sounds are of looms clacking, dyers stirring great clay vats of indigo, annatto, and brazilwood dye, and the soft murmur of women knotting feathers into cloaks and headdresses. Bark-cloth is beaten from inner bark on stone anvils with wooden mallets, then dyed and hung in long coloured sheets from the house-fronts to dry, turning the back-channel into a fluttering wall of red, yellow, black, and blue. The smell is of dye-vats — sharp, sour, vegetable — and of the mordant urine that fixes some colours, and of damp bark. The weavers' guild mistress, an old woman with hands stained permanently blue, oversees quality and settles disputes, and her word is law in the quarter. Fine work — feathered cloaks, painted bark-cloth, dyed cotton — is sold to the chief, the river-clans, and exported to Cascade Exchange and Tidal Reach.",
+        "summary": "The Weaver's Reach is the craft quarter of Iara, a cluster of stilt-house workshops along a quiet back-channel where the weavers, dyers, and feather-workers of the city have their workshops, chosen for the calm water that lets them set out their work on platforms and drying-racks without the current carrying it away. The sounds are of looms clacking, dyers stirring great clay vats of indigo, annatto, and brazilwood dye, and the soft murmur of women knotting feathers into cloaks and headdresses. Bark-cloth is beaten from inner bark on stone anvils with wooden mallets, then dyed and hung in long coloured sheets from the house-fronts to dry, turning the back-channel into a fluttering wall of red, yellow, black, and blue. The smell is of dye-vats \u2014 sharp, sour, vegetable \u2014 and of the mordant urine that fixes some colours, and of damp bark. The weavers' guild mistress, an old woman with hands stained permanently blue, oversees quality and settles disputes, and her word is law in the quarter. Fine work \u2014 feathered cloaks, painted bark-cloth, dyed cotton \u2014 is sold to the chief, the river-clans, and exported to Cascade Exchange and Tidal Reach.",
         "parent_location_id": "location:iara",
         "jurisdiction": "Under the weavers' guild mistress, whose authority over the quarter is ratified by the River-Chief. She regulates guild membership, quality standards, and trade of finished goods, and adjudicates disputes among the craft-houses.",
         "terrain": "stilt-house workshops, back-channel platforms, drying-racks, dye-vat yards",
-        "resources": ["bark-cloth", "dyed cotton", "feather-work cloaks and headdresses", "indigo dye", "annatto dye", "brazilwood dye"]
+        "resources": [
+          "bark-cloth",
+          "dyed cotton",
+          "feather-work cloaks and headdresses",
+          "indigo dye",
+          "annatto dye",
+          "brazilwood dye"
+        ],
+        "culture": {
+          "themes": [
+            "Local Traditions",
+            "Community"
+          ],
+          "practices": [
+            "Following regional customs"
+          ],
+          "atmosphere": "Rooted in the local environment and history."
+        }
       }
     },
     {
@@ -317,11 +791,26 @@
       "name": "The Fermenting Houses",
       "visibility": "shared",
       "payload": {
-        "summary": "The Fermenting Houses are a cluster of large stilt-buildings set apart on the upstream edge of Iara, downwind of the chief's float, where the city's staple drink — cassava beer, sour and lightly alcoholic — is produced in great clay vats. The buildings are open-sided to let the air through, their roofs high and thatched to shade the vats, and each is tended by a household of brewers who chew the cassava to start the fermentation, a sacred and slightly shameful labour performed only by senior women. The smell is overwhelming — sweet, sour, yeasty, and warm, the thick heady scent of fermentation that hangs over the whole upstream end of the city and tells every nose which way the wind blows. Great gourds and clay jars of the finished beer are loaded onto canoes and distributed to the market, the chief's hall, and every feast and ritual in the city. Beside the beer-houses, a smaller building ferments palm-wine from the fruit brought down from the canopy, and another produces the honey-mead traded from the bee-keepers of the interior. The brew-mistress, a formidable old woman, controls every batch and her blessing is sought before any beer is served at the chief's hall.",
+        "summary": "The Fermenting Houses are a cluster of large stilt-buildings set apart on the upstream edge of Iara, downwind of the chief's float, where the city's staple drink \u2014 cassava beer, sour and lightly alcoholic \u2014 is produced in great clay vats. The buildings are open-sided to let the air through, their roofs high and thatched to shade the vats, and each is tended by a household of brewers who chew the cassava to start the fermentation, a sacred and slightly shameful labour performed only by senior women. The smell is overwhelming \u2014 sweet, sour, yeasty, and warm, the thick heady scent of fermentation that hangs over the whole upstream end of the city and tells every nose which way the wind blows. Great gourds and clay jars of the finished beer are loaded onto canoes and distributed to the market, the chief's hall, and every feast and ritual in the city. Beside the beer-houses, a smaller building ferments palm-wine from the fruit brought down from the canopy, and another produces the honey-mead traded from the bee-keepers of the interior. The brew-mistress, a formidable old woman, controls every batch and her blessing is sought before any beer is served at the chief's hall.",
         "parent_location_id": "location:iara",
         "jurisdiction": "Under the brew-mistress, whose authority is ratified by the River-Chief. She controls all production, quality, and distribution of the city's fermented drinks. The fermenting houses are considered semi-sacred; the chief's guards protect them from theft or sabotage.",
         "terrain": "open-sided stilt-buildings, clay fermentation vats, upstream river-edge",
-        "resources": ["cassava beer", "palm-wine", "honey-mead", "fermentation vessels"]
+        "resources": [
+          "cassava beer",
+          "palm-wine",
+          "honey-mead",
+          "fermentation vessels"
+        ],
+        "culture": {
+          "themes": [
+            "Local Traditions",
+            "Community"
+          ],
+          "practices": [
+            "Following regional customs"
+          ],
+          "atmosphere": "Rooted in the local environment and history."
+        }
       }
     }
   ]
