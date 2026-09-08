@@ -73,7 +73,15 @@ visual:
   - the al-Dhahab gold-tower sigil tattooed on the inside of the left wrist
   - a faint, barely visible burn mark on the right palm — from touching the lamp too long
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:binding-families
 desires:

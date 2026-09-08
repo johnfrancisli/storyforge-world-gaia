@@ -7,6 +7,12 @@ terrain: Hilltop city, river port, surrounding farmland
 resources: []
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 The capital of Valdris. A city of white stone and seven towers, built on a hill above the Greywine River. The king's castle dominates the skyline, its banners worn by weather. The knightly order's chapter house stands near the castle gate, quieter than it used to be. The market square is still busy — Valdris is prosperous — but the conversations in the taverns turn to succession and the dragons' silence. About a hundred thousand people live here.

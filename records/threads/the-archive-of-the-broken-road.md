@@ -20,6 +20,12 @@ organizations:
 - org:binding-families
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 [[location:alk-khalesh-brokenroads|The Archive of the Broken Road]] in Khalesh, a repository of pre-Pact maps and binding-contracts thought lost, has been quietly re-catalogued by a single unnamed scholar for the past season. [[location:alk-khalesh-wardenskeep|The Warden's Keep]], which nominally protects the archive, did not authorize the work and only learned of it when a clerk noticed the archive's seal had been re-applied in wax that did not match the keep's own. Elder [[character:yusuf-al-hakim|Yusuf al-Hakim]], the living archive of the Pact, has confirmed that at least one scroll removed from the shelves concerns a binding-contract older than the Pact itself—one that names a djinn no living family claims to bind. [[location:alk-khalesh-relicbazaar|The Relic Bazaar]] has begun selling fragments of copied maps that match the archive's distinctive notation.

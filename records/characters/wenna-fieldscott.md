@@ -52,7 +52,15 @@ visual:
   eyes: weathered green
   distinctive_features: freckles across nose and shoulders, a crooked left little finger (healed badly)
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:val-merchant-guild
 desires:

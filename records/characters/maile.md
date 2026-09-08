@@ -68,7 +68,15 @@ visual:
     of scanning the waterline even in conversation, a small scar on the right hand from a night-rescue
     rope burn
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:tide-tattoo-guild
 desires:

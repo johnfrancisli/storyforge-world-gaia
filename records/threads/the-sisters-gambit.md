@@ -26,6 +26,12 @@ next_possible_moves:
 resolution: null
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 [[character:fatima-idris|Fatima Idris]] has discovered her brother Malik's research into breaking the family's djinn contract. She wants to use his crisis to expose the binding families' unsustainable contract system and force reform. She has not told Malik what she knows. Judge Tariq is independently worried about the oldest contracts destabilizing. Layla the Spice Queen is watching, ready to pick up the pieces.

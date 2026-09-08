@@ -69,7 +69,15 @@ visual:
     quality of authority that persists even in donated cloth, a habit of counting people — always knowing
     exactly how many are in a room and who they are
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:tide-refugee-council
 desires:

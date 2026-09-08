@@ -68,7 +68,15 @@ visual:
     the neck, a logbook of observations he keeps private, dark circles under the eyes from sleepless nights
     of watching the southern horizon
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:wayfinder-guilds
 desires:

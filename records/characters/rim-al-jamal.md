@@ -63,7 +63,15 @@ visual:
   - a camel-bite scar on the left shoulder
   - a herder's brand on the right forearm — a stylized camel mark
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:binding-families
 desires:

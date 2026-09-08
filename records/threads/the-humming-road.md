@@ -22,6 +22,12 @@ next_possible_moves:
 resolution: null
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 Rashid the Sand-walker has found a working fragment of the Old Road in the deep desert of [[location:al-khayzar|Al-Khayzar]] — a two-hour stretch connecting the Mirror Oasis to a point near the [[location:verdania|Verdania]] border. The fragment hums like a voice, which is not how Old Roads behave. He is deciding who to tell, and the hum is getting louder.

@@ -16,6 +16,12 @@ resources:
 - trade gossip
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 On the quay-side of [[location:skaldvik|Skaldvik]], its sign a carved longship hung above a door made from the actual stern-post of a wrecked knarr, the Salted Hull is the most famous mead-hall in [[location:hrafnland|Hrafnland]]—a sprawling, low-ceilinged tavern where traders, raiders, skalds, and foreign merchants gather to drink, deal, and swap the sagas of the season's voyaging. The hall is a single vast room of dark timber, its floor hard-packed earth strewn with rushes and salt, its walls hung with nets, harpoons, and the merchant-factors' tally-boards that serve as the tavern's unofficial ledger. A fire-pit at the center roasts whatever the kitchen has taken in trade—seal, whale, mutton, or the occasional strange fish from the southern seas—and the air is a dense, warm fog of mead-smoke, pine tar, wet wool, and the rich salt smell of the harbor outside. The mead, brewed in [[location:hra-eyrby|Eyrby]] and shipped in oak barrels, flows from a tapped cask behind the bar, and the barkeep—a one-armed former raider named Egil Wave-Cut—pours with a generosity that is matched only by his memory for unpaid tabs. A skald is always performing somewhere in the hall, and the competition for audience is fierce, for a skald who wins the Salted Hull's crowd has won [[location:hrafnland|Hrafnland]]'s ear.

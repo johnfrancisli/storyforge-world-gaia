@@ -62,7 +62,15 @@ visual:
   distinctive_features: permanent charcoal staining on face and hands, a prominent scar across his left
     eyebrow (axe-slip while cutting timber)
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:hra-rune-guild
 desires:

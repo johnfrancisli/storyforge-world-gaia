@@ -59,7 +59,15 @@ visual:
   distinctive_features: extensive burn scars on both forearms and hands, a metal replacement tip on the
     left thumb
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:val-dawnfire-church
 desires:

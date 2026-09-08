@@ -59,7 +59,15 @@ visual:
   distinctive_features: a squire's brand on her right shoulder (Dragon Order mark), a healing cut on her
     left cheek from the skirmish that killed her knight, calloused palms from sword training
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:dragon-order
 desires:

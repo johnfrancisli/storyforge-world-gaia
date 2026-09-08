@@ -63,7 +63,15 @@ visual:
   distinctive_features: a scar across her left eyebrow (sword cut), a guard's tattoo of a raven on her
     right shoulder
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:hra-raid-crews
 desires:

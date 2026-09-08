@@ -66,7 +66,15 @@ visual:
   - a faded birthmark on the left shoulder blade, shaped roughly like a flame
   - a small scar on the chin from a fall in the courtyard
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:binding-families
 desires:

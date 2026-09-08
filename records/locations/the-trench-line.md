@@ -8,6 +8,12 @@ terrain: deep trenches, grey clay, timber and iron reinforcement, flood-prone
 resources: []
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 A network of deep trenches dug into the grey clay, reinforced with timber and iron. They flood in rain. The walls are carved with names, tallies, and prayers. The mud at the bottom smells like old blood.

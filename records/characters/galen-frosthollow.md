@@ -54,7 +54,15 @@ visual:
   distinctive_features: permanently ink-stained fingers, a pronounced stoop from decades at a writing
     desk
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:val-mages-circle
 desires:

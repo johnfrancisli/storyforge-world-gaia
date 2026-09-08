@@ -67,7 +67,15 @@ visual:
     that he checks daily, a worried quality behind his calm expression, a habit of testing soil with his
     fingers and frowning at the results
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:tide-fishing-coop
 desires:

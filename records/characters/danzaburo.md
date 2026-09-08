@@ -62,7 +62,15 @@ visual:
   eyes: dark brown, crinkled with permanent amusement
   distinctive_features: a broad, flat nose and a leaf-shaped birthmark behind the right ear (hidden)
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ashikara-shogunate
 desires:

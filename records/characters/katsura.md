@@ -60,7 +60,15 @@ visual:
   distinctive_features: a faint fox-like cast to the features — slightly pointed ears, narrow pupils in
     low light
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ashikara-shogunate
 desires:

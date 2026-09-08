@@ -54,7 +54,15 @@ visual:
   eyes: hazel
   distinctive_features: faint web-like scarring on the backs of both hands, pale and old
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:tsu-swordsmith-guild
 desires:

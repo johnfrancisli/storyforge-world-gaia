@@ -62,7 +62,15 @@ visual:
   distinctive_features: ink-stained fingertips from dye work, a small bone weaving-pin worn in the hair,
     a fine woven band always on the left wrist
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:wayfinder-guilds
 desires:

@@ -64,7 +64,15 @@ visual:
   - warning-glyph tattoos on both forearms, faded and old
   - a rigid, braced posture as if resisting an invisible pull
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ver-shaman-circle
 desires:

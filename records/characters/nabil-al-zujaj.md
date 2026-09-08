@@ -67,7 +67,15 @@ visual:
   - a large furnace-burn scar on the right forearm
   - a glassblower's callus on the left thumb from pipe work
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:binding-families
 desires:

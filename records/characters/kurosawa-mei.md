@@ -61,7 +61,15 @@ visual:
   eyes: dark brown, intense and focused
   distinctive_features: a pale scar across the left thumb from a carving slip years ago
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:tsu-tea-schools
 desires:

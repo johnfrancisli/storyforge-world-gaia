@@ -63,7 +63,15 @@ visual:
   eyes: brown, darting and anxious
   distinctive_features: a permanent tremor in his right hand, a drinker's flush across his nose and cheeks
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:hra-shipwright-brotherhood
 desires:

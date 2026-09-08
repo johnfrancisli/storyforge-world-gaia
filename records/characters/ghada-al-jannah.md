@@ -61,7 +61,15 @@ visual:
   - permanent earth staining under the fingernails
   - a scar on the right forearm from a date-palm thorn that became infected
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:binding-families
 desires:

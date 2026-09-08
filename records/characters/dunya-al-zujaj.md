@@ -62,7 +62,15 @@ visual:
   - a spark burn scar on the right cheek
   - permanent soot darkening around the eyes
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:binding-families
 desires:

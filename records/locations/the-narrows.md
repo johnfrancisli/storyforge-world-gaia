@@ -8,6 +8,12 @@ terrain: shoulder-width canyon, rockfall-prone, vertical walls, carved prayers
 resources: []
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 The tightest section of the pass, where the canyon walls close to shoulder width for a hundred yards. Rockfalls are common. Bandits drop stones and rope from above. The walls are carved with prayers in old scripts.

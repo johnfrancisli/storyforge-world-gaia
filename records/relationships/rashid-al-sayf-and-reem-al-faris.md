@@ -38,4 +38,10 @@ history:
     summary_after: He considers her research a credible path toward renegotiating the al-Sayf debt.
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---

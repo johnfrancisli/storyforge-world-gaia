@@ -57,7 +57,15 @@ visual:
   distinctive_features: a missing left ring finger (lost to a stone splinter), intricate dwarven clan
     tattoos on both forearms
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:val-merchant-guild
 desires:

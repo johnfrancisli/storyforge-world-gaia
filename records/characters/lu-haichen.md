@@ -60,7 +60,15 @@ visual:
   - a faint scar across the left cheekbone from a tournament bout
   - hands with knuckles callused from decades of wooden-sword practice
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:great-academy
 desires:

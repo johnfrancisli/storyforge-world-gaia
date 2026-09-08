@@ -64,7 +64,15 @@ visual:
   distinctive_features: wood-tannin staining on both hands, a carving adze worn at the belt, a figurehead-in-progress
     she studies for long periods as if waiting for it to speak
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:wayfinder-guilds
 desires:

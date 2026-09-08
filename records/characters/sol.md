@@ -63,7 +63,15 @@ visual:
   - council-mark tattoos on both temples, indicating elder status
   - a fine network of lines around the eyes from years of careful observation
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ver-river-consortium
 desires:

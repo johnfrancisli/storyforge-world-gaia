@@ -53,7 +53,15 @@ visual:
   eyes: dark brown, heavy-lidded
   distinctive_features: a thin scar across the left cheekbone from a duel in his youth
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ashikara-shogunate
 desires:

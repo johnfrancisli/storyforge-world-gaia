@@ -55,7 +55,15 @@ visual:
   distinctive_features: a burn scar across his left palm, three missing toes on his right foot (old forge
     accident)
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:val-mages-circle
 desires:

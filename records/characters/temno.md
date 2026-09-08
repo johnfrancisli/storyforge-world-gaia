@@ -66,7 +66,15 @@ visual:
   - a forked tongue that flicks when he is concentrating
   - chemical burn scarring on both thumbs from volatile preparations
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ver-river-consortium
 desires:

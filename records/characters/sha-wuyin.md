@@ -59,7 +59,15 @@ visual:
   - a knife-scar from the right ear to the jaw
   - a gambler's callus on the right thumb from dice and cards
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:san-merchant-cartel
 desires:

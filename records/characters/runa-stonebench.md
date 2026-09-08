@@ -60,7 +60,15 @@ visual:
   distinctive_features: a barley-grain tattoo on her right wrist (brewer's mark), a slight crook in her
     left index finger (old break)
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:hra-rune-guild
 desires:

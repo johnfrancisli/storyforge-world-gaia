@@ -63,7 +63,15 @@ visual:
   - faint greenish veining visible at the wrists and ankles
   - small vine-like calluses on the palms that resemble bark
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ver-shaman-circle
 desires:

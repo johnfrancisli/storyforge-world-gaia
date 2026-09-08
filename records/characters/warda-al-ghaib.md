@@ -63,7 +63,15 @@ visual:
   - ritual tattoos on the inner wrists — old fortune-teller markings
   - coffee-ground staining on the fingertips and palms
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:alk-city-guard
 desires:

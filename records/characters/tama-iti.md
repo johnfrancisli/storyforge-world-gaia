@@ -70,7 +70,15 @@ visual:
     edge — he is always near the lagoon, a habit of watching the water and smiling at things no one else
     can see, sand always on his feet
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:tide-refugee-council
 desires:

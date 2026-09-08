@@ -62,7 +62,15 @@ visual:
   distinctive_features: a gap where her left upper canine is missing (baby tooth), a faded scrape-scar
     on her right knee
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:hra-shipwright-brotherhood
 desires:

@@ -60,7 +60,15 @@ visual:
   distinctive_features: a trader's mark tattooed on her right forearm (a small anchor and coin), a thin
     silver chain around her neck
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:hra-rune-guild
 desires:

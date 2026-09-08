@@ -60,7 +60,15 @@ visual:
   eyes: hazel, behind round spectacles
   distinctive_features: ink stains on the right middle finger and the tip of the nose from close work
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ashikara-shogunate
 desires:

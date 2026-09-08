@@ -64,7 +64,15 @@ visual:
     warmer than they should be, a faint humming that she does unconsciously in any room where someone
     is ill
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:tide-island-council
 desires:

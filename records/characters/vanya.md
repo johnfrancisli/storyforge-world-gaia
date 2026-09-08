@@ -65,7 +65,15 @@ visual:
   distinctive_features: a refugee's cloth wrap — clearly not her own, too large for her, a rope-mark on
     the left wrist from the canoe journey, three children always within arm's reach
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:tide-refugee-council
 desires:

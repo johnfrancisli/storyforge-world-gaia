@@ -64,7 +64,15 @@ visual:
   - feather-down dust lightly coating the shoulders
   - a feather-scar on the left index finger from a binding-needle
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ver-river-consortium
 desires:

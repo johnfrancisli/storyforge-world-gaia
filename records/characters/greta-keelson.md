@@ -62,7 +62,15 @@ visual:
   distinctive_features: a missing half of her left little finger (saw accident), deep calluses across
     both palms with a permanent ink stain on her right thumb
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:hra-shipwright-brotherhood
 desires:

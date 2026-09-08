@@ -64,7 +64,15 @@ visual:
   - permanent clay-staining in the creases of both hands
   - a kiln-burn scar on the right thumb
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ver-shaman-circle
 desires:

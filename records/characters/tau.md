@@ -67,7 +67,15 @@ visual:
     a quality of caution — he handles most wood with confidence but the dark log with wariness, sawdust
     always on his clothing
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:tide-tattoo-guild
 desires:

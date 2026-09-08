@@ -61,7 +61,15 @@ visual:
   distinctive_features: a deep scar across the bridge of the nose and a cauliflower right ear from years
     of armor helm pressure
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ashikara-shogunate
 desires:

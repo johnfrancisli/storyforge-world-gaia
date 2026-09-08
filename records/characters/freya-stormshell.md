@@ -61,7 +61,15 @@ visual:
   distinctive_features: permanently chapped lips and reddened skin around the eyes from cold-water diving,
     a small scar on her right foot from a shell cut
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:hra-volur-coven
 desires:

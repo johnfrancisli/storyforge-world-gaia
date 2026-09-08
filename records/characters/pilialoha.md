@@ -64,7 +64,15 @@ visual:
   distinctive_features: kava-stained hands — a pale earthy residue that never fully washes off, a quiet
     humming while she works, half-coconut serving cups she carries in a woven basket
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:wayfinder-guilds
 desires:

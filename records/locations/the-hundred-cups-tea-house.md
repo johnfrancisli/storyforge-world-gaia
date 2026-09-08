@@ -13,6 +13,12 @@ resources:
 - social networking
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 A four-story teahouse on the main avenue of Jin-an, the Hundred Cups is the social center of the capital's literati—a place where scholar-officials gather after court sessions to debate policy, recite poetry, and drink tea from the finest leaves in [[location:sangguo|Sangguo]]. The ground floor is open to all, crowded with travelers and minor clerks, while the upper floors are increasingly exclusive: the second for merchants, the third for ranking officials, and the fourth—a single private room with a balcony overlooking the avenue—reserved by invitation only, where the most sensitive political conversations occur over porcelain cups barely larger than a thimble. The proprietor, a retired imperial censor named Bai Lu, maintains a guest book that is itself an intelligence document, and certain parties pay handsomely to know who has met whom within these walls.

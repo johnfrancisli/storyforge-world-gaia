@@ -54,7 +54,15 @@ visual:
   distinctive_features: permanently flour-dusted eyebrows, a scar on her right forearm from the mill's
     gear mechanism
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:val-merchant-guild
 desires:

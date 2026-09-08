@@ -57,7 +57,15 @@ visual:
   distinctive_features: pronounced pointed ears, faint luminous quality to her skin in moonlight, bare
     feet with soles hardened like leather
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:dragon-order
 desires:

@@ -14,6 +14,12 @@ resources:
 - shelter-site assignments
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 The Welcome Longhouse is the intake-hall of [[location:tide-motu-lotu|Motu Lotu]], the first structure a new arrival sees — a long open-sided building of driftwood and palm-thatch at the camp's landward end, built on the highest ground so that a canoe approaching the island sees its roof first, a signal that this is a place of refuge. Inside, the Camp-Council's welcomers — a rotation of elder women who have themselves been refugees — receive each new family or lone arrival, recording their names, their home-island, and their needs on bark-paper tallies, and assigning them a shelter-site and a clan-community to join. A cook-hearth at the hall's center always has a pot of fish-stew simmering, and every new arrival is fed before any other business, a tradition the camp holds sacred — no one is turned away hungry. The walls are hung with the carved name-boards of the drowned islands, each carved by a survivor with the island's name and the date it was lost, and the welcomers lay a hand on the relevant board as they record a new arrival's origin, a gesture of witness. The air smells of wood-smoke, fish-stew, salt, and the green tea that is always brewing. A small shrine to the sea-spirit stands at the hall's corner, where new arrivals are invited to make an offering of thanks for safe arrival and to mourn what the sea has taken.

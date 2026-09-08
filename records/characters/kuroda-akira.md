@@ -60,7 +60,15 @@ visual:
   eyes: dark brown, heavy-lidded, watchful
   distinctive_features: deep lines bracketing the mouth from a lifetime of careful expressions
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:tsu-tea-schools
 desires:

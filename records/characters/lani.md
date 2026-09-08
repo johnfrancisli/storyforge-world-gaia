@@ -60,7 +60,15 @@ visual:
   distinctive_features: a chief's whale-bone necklace, wayfinder tattoos on both arms (faded), a small
     scar on the left calf from a shark encounter
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:wayfinder-guilds
 desires:

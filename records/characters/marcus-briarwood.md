@@ -58,7 +58,15 @@ visual:
   distinctive_features: a sword scar across his left cheek, a missing chunk from his right ear (battle),
     a mercenary company tattoo (a crossed sword and coin) on his left forearm
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:val-merchant-guild
 desires:

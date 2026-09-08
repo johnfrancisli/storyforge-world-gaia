@@ -15,6 +15,12 @@ resources:
 - smoked manatee
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 The Lower Docks are where [[location:ver-cascadeexchange|Cascade Exchange]] meets the river, a series of timber wharves and float-platforms anchored in the largest pool at the base of the falls, where the water is calmer but still churns with the outflow. River barges from [[location:iara|Iara]] and the interior tie up here, their hulls crusted with river-mud and their crews barefoot and river-tanned, unloading jungle goods — rubber balls, tortoiseshell, rare feathers, medicinal barks, smoked manatee — and loading western metals, salt, and steel. The docks are a confusion of cargo, shouting stevedores, children diving off the floats for coins, and river-pilots arguing over tolls and water-depths. Fishing nets hang from poles to dry, and the air is thick with the smell of fish, river-mud, tar, and wet hemp. A shrine to the river-spirit stands at the landward end on a pole carved as a great fish, draped with offerings of flowers and gourds of cacao wine. At dusk the dock-lanterns are lit in gourds of fish-oil and the water turns black and oily, reflecting the lights in long wobbling columns.

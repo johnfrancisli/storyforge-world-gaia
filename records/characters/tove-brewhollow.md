@@ -60,7 +60,15 @@ visual:
   distinctive_features: a small knife-scar on her left thumb, a faded burn-mark on her right forearm shaped
     like a ladle
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:hra-jarl-council
 desires:

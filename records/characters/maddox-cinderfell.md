@@ -54,7 +54,15 @@ visual:
   eyes: grey-blue, deep-set
   distinctive_features: permanently earth-stained hands, a large mole on his left jawline
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:dragon-order
 desires:

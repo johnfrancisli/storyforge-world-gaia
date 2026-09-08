@@ -62,7 +62,15 @@ visual:
   - a Mizuhito river-tattoo of a boat-hull on the right shoulder
   - resin-stained hands with a missing left ring finger (table-saw accident)
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:san-merchant-cartel
 desires:

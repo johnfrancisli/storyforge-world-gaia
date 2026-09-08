@@ -65,7 +65,15 @@ visual:
   - webbed fingers and toes, still developing
   - incipient gill-slits along the ribcage, more pronounced than typical Mizuhito children
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ver-shaman-circle
 desires:

@@ -61,7 +61,15 @@ visual:
   distinctive_features: a rope-burn scar across both palms, a chipped front tooth, a small blue tattoo
     of a fish-hook on her right knuckle
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:hra-volur-coven
 desires:

@@ -60,7 +60,15 @@ visual:
   distinctive_features: a faint shimmer in her skin when she heals (barely visible, like heat-haze), a
     small scar on her left palm from a ritual cut
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:hra-volur-coven
 desires:

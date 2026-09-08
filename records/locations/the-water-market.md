@@ -15,6 +15,12 @@ resources:
 - coffee
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 The Water Market is the trading heart of Qadira, a long shaded market-square between the lake and the tent-ring where the caravans gather to buy water-rights, dates, salt, and the goods that pass through the oasis, and where the oasis families sell the produce of the palms and gardens to the caravan-clans and to the smaller desert settlements that depend on Qadira's water. The stalls are simple reed-mats on poles, shaded by striped canvas, and the trade is done in a slow deliberate way — a cup of coffee is drunk, a pipe is smoked, a price is named and refused and named again over an hour. Water-rights are sold in brass tokens stamped with the Sheikh's mark, each good for a set number of jars drawn from the lake, and these tokens are themselves traded and hoarded, for in the desert water is the truest money. The smell is of dates, coffee, leather, camel, and the green smell of the oasis, and the sound is the creak of the water-wheels, the shout of the water-sellers, and the lowing of laden camels. A market-warden appointed by the Sheikh walks the square with a silver stave to keep the peace.

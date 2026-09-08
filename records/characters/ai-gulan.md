@@ -59,7 +59,15 @@ visual:
   - a small, old scar on the left cheekbone
   face: elegant features, deliberately plain presentation
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:wei-state
 desires:

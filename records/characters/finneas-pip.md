@@ -53,7 +53,15 @@ visual:
   eyes: bright green
   distinctive_features: perpetually ink-stained fingers, a chipped front tooth
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:dragon-order
 desires:

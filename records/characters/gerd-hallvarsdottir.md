@@ -59,7 +59,15 @@ visual:
   distinctive_features: a farmer's tan (rare in Hrafnland — darker skin from long outdoor hours), a old
     hay-scar on her left hand
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:hra-jarl-council
 desires:

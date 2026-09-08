@@ -61,7 +61,15 @@ visual:
   distinctive_features: faded tattoo patterns covering both arms — the oldest routes, barely visible,
     a wayfinder's staff dark with age
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:wayfinder-guilds
 desires:

@@ -24,6 +24,12 @@ next_possible_moves:
 resolution: null
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 In [[location:al-khayzar|Al-Khayzar]], [[character:malik-idris|Malik Idris]] is the firstborn of his generation — and his family's oldest djinn contract demands the firstborn of each generation as payment. The djinn Zuhayr has begun appearing to Malik, patient and polite, reminding him that the contract is almost due. Malik has searched secretly for a way out and found nothing.

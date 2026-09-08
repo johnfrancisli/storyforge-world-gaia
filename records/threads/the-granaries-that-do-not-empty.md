@@ -22,6 +22,12 @@ organizations:
 - org:great-academy
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 [[location:san-river-junction-granary|The Imperial Granaries of Sanyuan]], audited twice this season, show the same grain totals as a year ago despite three provinces drawing from them during a poor harvest. Court treasury official [[character:shen-wuguang|Shen Wuguang]], sent from the Chu court to investigate, suspects the books are honest and the grain is genuinely replenishing itself—but he cannot explain how. Magistrate's runner [[character:ai-gulan|Ai Gulan]], the coerced Jin spy embedded in the Yamen, has been ordered to steal the audit ledgers before Shen completes his report. The [[location:san-river-junction-ferry-quartier|Ferryman's Quartier]] is openly whispering that the watermills upstream have been grinding grain that was never planted.

@@ -63,7 +63,15 @@ visual:
   distinctive_features: a guard's raven tattoo on his right shoulder, a broken-and-healed nose (brawl,
     years ago)
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:hra-rune-guild
 desires:

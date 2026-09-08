@@ -70,7 +70,15 @@ visual:
     hidden in a waterproof roll in his canoe, a resemblance to Chief Lani that he does not acknowledge
     and most people do not notice
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:tide-fishing-coop
 desires:

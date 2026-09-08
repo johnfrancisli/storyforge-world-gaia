@@ -65,7 +65,15 @@ visual:
   - a forked tongue visible when she speaks at length
   - heat-sensory pits along the upper lip
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ver-shaman-circle
 desires:

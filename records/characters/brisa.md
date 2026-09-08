@@ -63,7 +63,15 @@ visual:
   - permanent red-black pigment staining from fingertips to elbows
   - a faint glyph-shaped birthmark on the right shoulder blade
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ver-canopy-council
 desires:

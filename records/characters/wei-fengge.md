@@ -57,7 +57,15 @@ visual:
   - permanent ink callus on the right middle finger
   - a fading scar on the left palm from a childhood accident with a knife
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:wei-state
 desires:

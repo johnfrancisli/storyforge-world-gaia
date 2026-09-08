@@ -56,7 +56,15 @@ visual:
   distinctive_features: a faded bruise on her right forearm, bare feet with calloused soles, a rope-belt
     with a small stolen pouch tied to it
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:val-mages-circle
 desires:

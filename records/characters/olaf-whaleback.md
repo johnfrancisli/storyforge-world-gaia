@@ -60,7 +60,15 @@ visual:
   distinctive_features: a whalebone replacement for two missing front teeth, a rope-scar encircling his
     left wrist
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:hra-shipwright-brotherhood
 desires:

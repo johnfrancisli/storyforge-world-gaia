@@ -59,7 +59,15 @@ visual:
   distinctive_features: frost-nip scars on the tip of her nose and both ears, a faded tattoo of the North
     Star on her left inner wrist
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:hra-shipwright-brotherhood
 desires:

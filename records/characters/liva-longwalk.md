@@ -63,7 +63,15 @@ visual:
   distinctive_features: road-dust permanently ground into her skin, a messenger's tattoo of a running
     bird on her right ankle
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:hra-shipwright-brotherhood
 desires:

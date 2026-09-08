@@ -7,6 +7,12 @@ terrain: natural harbor, mooring posts, freshwater spring, ruined stone shrine
 resources: []
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 A natural harbor at the strait's midpoint where trade ships shelter during storms. There is no settlement, but there are mooring posts, a freshwater spring, and the remains of a stone shrine to a spirit no one remembers. Ships leave offerings anyway.

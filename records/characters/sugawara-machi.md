@@ -58,7 +58,15 @@ visual:
   eyes: dark brown, calculating
   distinctive_features: an ink stain on the right index finger that never fades from years of ledger work
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ashikara-shogunate
 desires:

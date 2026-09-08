@@ -64,7 +64,15 @@ visual:
   distinctive_features: a chant-keeper's woven scarf, a tapa-book of chant notation carried under the
     arm, a quality of precise observation that makes people feel they are being memorized
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:wayfinder-guilds
 desires:

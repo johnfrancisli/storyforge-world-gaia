@@ -26,6 +26,12 @@ next_possible_moves:
 resolution: null
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 King Aldran is dying and has not named an heir. Princess Elara backs the reformist faction and secret dragonbone research. Prince Roderick commands the military and is secretly courting the bandit lord Garrick as a deniable asset. The youngest, Tomas, is unaligned. The court is a cold war of positioning, and the king is running out of time.

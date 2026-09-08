@@ -63,7 +63,15 @@ visual:
     than it should, sand on her feet from nightly beach visits, a faint luminescence on her throat that
     is only visible in the dark
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:wayfinder-guilds
 desires:

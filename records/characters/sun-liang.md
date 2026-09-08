@@ -59,7 +59,15 @@ visual:
   eyes: dark brown, warm but calculating
   distinctive_features: a jade pendant worn at the belt, ink-calligraphy stains on the right index finger
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:chu-state
 desires:

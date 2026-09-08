@@ -58,7 +58,15 @@ visual:
   distinctive_features: a scar across the chin from a northern skirmish, a missing tip of the left little
     finger
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:dragon-order
 desires:

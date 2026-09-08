@@ -60,7 +60,15 @@ visual:
   distinctive_features: dark circles under both eyes (chronic), a sheep-dog bite scar on her right hand
     (training accident, years old)
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:hra-shipwright-brotherhood
 desires:

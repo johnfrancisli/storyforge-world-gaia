@@ -55,7 +55,15 @@ visual:
   distinctive_features: a dragon-bond scar covering his entire chest (hidden by armour), premature grey
     at his temples from bond-stress
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:dragon-order
 desires:

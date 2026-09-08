@@ -59,7 +59,15 @@ visual:
   eyes: dark brown, shadowed underneath
   distinctive_features: a rope-burn scar across the left palm from hauling nets
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ashikara-shogunate
 desires:

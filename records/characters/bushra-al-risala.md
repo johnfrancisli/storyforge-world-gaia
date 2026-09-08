@@ -61,7 +61,15 @@ visual:
   - a rider's callus on the inner right thigh
   - a small tattoo of a stylized bird on the left wrist — a messenger's guild mark
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:binding-families
 desires:

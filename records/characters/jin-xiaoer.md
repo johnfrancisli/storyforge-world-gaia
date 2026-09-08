@@ -60,7 +60,15 @@ visual:
   - a wooden leg-brace on the left leg
   - ink stains on the right hand from reading and writing beyond his years
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:jin-state
 desires:

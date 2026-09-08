@@ -56,7 +56,15 @@ visual:
   distinctive_features: flour-dusted forearms, a burn mark on her left wrist (oven), deep worry lines
     on her forehead
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:dragon-order
 desires:

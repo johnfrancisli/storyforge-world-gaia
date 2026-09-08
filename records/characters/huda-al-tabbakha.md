@@ -65,7 +65,15 @@ visual:
   - a burn scar on the right forearm from a pot of boiling stew
   - a permanent flush across the cheeks from years of kitchen heat
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:binding-families
 desires:

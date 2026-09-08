@@ -67,7 +67,15 @@ visual:
     than any active wayfinder, a weathered quality that speaks of decades at sea, a wayfinder's staff
     worn smooth by years of handling
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:wayfinder-guilds
 desires:

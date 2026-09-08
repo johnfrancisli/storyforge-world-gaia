@@ -54,7 +54,15 @@ visual:
   distinctive_features: a lutenist's callus on her left fingertips, a small scar on her lower lip (bit
     through it during a childhood fall)
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:dragon-order
 desires:

@@ -13,6 +13,12 @@ resources:
 - political intelligence
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 The administrative seat of [[location:san-silkroad-city|Yunmeng]]'s merchant council, the Hall of the Five Houses is a fortified mansion at the city's center where the heads of the five great trading families convene to govern the city's affairs. The building blends foreign and local architecture—arched doorways from the western lands, tiled roofs from the east, and a central courtyard fountain fed by a mountain aqueduct. Inside, each house maintains a counting room, a private vault, and guest quarters for their factors and agents. The council chamber itself is a round room where five chairs of equal height sit around a table of imported marble, a deliberate statement that no house outranks another. The walls display maps of every trade route in the known world, marked with current caravan positions and political risks.

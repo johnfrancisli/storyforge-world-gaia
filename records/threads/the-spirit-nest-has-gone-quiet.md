@@ -20,6 +20,12 @@ organizations:
 - org:ver-canopy-council
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 [[location:ver-altacanopy-spiritnest|The Spirit Nest]], the heart of [[location:ver-altacanopy|Alta Canopy]] where the canopy-dwellers go to receive their spirit-pacts, has been silent for a full cycle of the moon. Elder shaman [[character:yara|Yara]], who tends the Nest, reports that the guiding spirits have not answered a single summons—not even the minor ones that answer children. [[location:ver-altacanopy-canopysevenhall|The Seven Boughs Hall]] has convened an emergency council, but the Hanging Gate, the rope-bridge entrance to the canopy city, has begun swaying even on windless days, as if something is testing it from below. Young spirit-host [[character:folha|Folha]] has begun speaking in a voice that is not his own during his sleep.

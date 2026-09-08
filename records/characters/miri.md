@@ -63,7 +63,15 @@ visual:
   - elongated canines
   - a fresh scar on the right forearm from a jaguar's claw
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ver-canopy-council
 desires:

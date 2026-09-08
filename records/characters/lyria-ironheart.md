@@ -54,7 +54,15 @@ visual:
   eyes: stormy grey
   distinctive_features: burn scar on left forearm, exceptionally large and calloused hands for her frame
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:val-merchant-guild
 desires:

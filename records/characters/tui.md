@@ -64,7 +64,15 @@ visual:
   distinctive_features: fiber calluses on both hands, a half-finished luminescent net she carries everywhere
     wrapped around her left arm, a habit of moving her fingers in weaving patterns even when empty-handed
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:wayfinder-guilds
 desires:

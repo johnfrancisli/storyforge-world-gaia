@@ -15,6 +15,12 @@ resources:
 - starlight magic
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 Hidden behind a curtain of living ivy at the city's deepest point, the Groveveil Sanctum is the magical and scholarly heart of [[location:val-elfshade|Elfshade]]—a library, laboratory, and observatory woven into the branches of three intertwined trees whose trunks have been shaped over centuries into spiral staircases, reading alcoves, and crystalline windows that open onto the stars. The sanctum is tended by the Veilweavers, an order of elven mages who study the flow of magic through the living world, and the air within hums with a subtle, persistent vibration that sets the teeth tingling and the lantern-light trembling. Thousands of scrolls and crystal-tablets line the shelves, each inscribed with lore that predates the founding of Valdris by millennia, and the smell of old parchment, pressed flowers, and ozone from active enchantments fills every alcove. Young elven apprentices move in silence between the stacks, their eyes wide with the weight of knowledge, while senior Veilweavers work at the upper levels, shaping light and life with gestures that seem as casual as breathing. Non-elves are rarely permitted entry, and those who are admitted are blindfolded on the approach so they cannot reveal the path.

@@ -57,7 +57,15 @@ visual:
   eyes: green
   distinctive_features: a lyre always in hand, ink-stained fingers from composing, a silver ear ring
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:hra-jarl-council
 desires:

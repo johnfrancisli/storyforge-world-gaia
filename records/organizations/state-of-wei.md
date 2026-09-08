@@ -7,6 +7,12 @@ pressure: steady
 holdings: []
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 The western state of [[location:sangguo|Sangguo]], ruled by Warlord Zhang He. The smallest and most mountainous of the three, but rich in iron and jade. Wei's position is defensive — its mountains make invasion costly. The warlord is old and his heir is ambitious.

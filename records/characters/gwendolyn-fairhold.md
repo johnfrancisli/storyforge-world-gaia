@@ -56,7 +56,15 @@ visual:
   distinctive_features: a beauty mark on her right cheek, a thin gold chain always worn at her throat
     (family heirloom), exceptionally manicured hands
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:val-noble-council
 desires:

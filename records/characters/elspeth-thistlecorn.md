@@ -60,7 +60,15 @@ visual:
   distinctive_features: old bee-sting scars on both hands and forearms, a pronounced stoop, a missing
     left little finger (hive accident)
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:dragon-order
 desires:

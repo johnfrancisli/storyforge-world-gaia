@@ -11,6 +11,12 @@ holdings:
 - location:tsu-kitagoe-gate-shrine
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 The network of moon-god shrines and their miko keepers, led from the Grand Shrine in the capital, that maintain the rituals binding the realm's yokai and warding-stones. Shrine keeper Miko Sora and maiden Yuki tend the capital shrines, but quieter keepers shelter hidden spirits — the tame kitsune [[character:katsura|Katsura]] and the hiding yuki-onna [[character:yukina|Yukina]] — and the network is split between purity hardliners and compassionate keepers who believe some yokai deserve sanctuary. The network wants to preserve the shrine system's influence and keep the old binding-pacts intact before they fray beyond mending.

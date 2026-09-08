@@ -56,7 +56,15 @@ visual:
   distinctive_features: permanent soot stains in his skin creases, a healing burn on his right palm, knees
     and elbows perpetually scraped
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:val-merchant-guild
 desires:

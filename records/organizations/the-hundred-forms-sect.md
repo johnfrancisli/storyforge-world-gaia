@@ -9,6 +9,12 @@ holdings:
 - location:san-chudu-lotus-temple
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 The wandering chi-cultivation sect that trains martial monks and chi-healers across the temples of [[location:san-silkroad-city|Yunmeng]]'s Hundred Gods quarter, counting the wandering monk [[character:jian-yi|Jian Yi]], the chi-cultivation nun [[character:ye-qingrong|Ye Qingrong]], and the disguised master [[character:niu-caihong|Niu Caihong]] among its hidden ranks. The sect teaches non-interference in the three-states war, yet chi-cultivators are being secretly conscripted as living weapons, and the child prodigy [[character:lin-jiaojiao|Lin Jiaojiao]] is the prize all three states now hunt. The sect wants to keep chi-cultivation knowledge out of the warlords' armies and protect the ungifted prodigy from being weaponized.

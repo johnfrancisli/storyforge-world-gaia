@@ -69,7 +69,15 @@ visual:
     birthmark on the right shoulder in the shape of a spiral, an unconscious habit of looking toward the
     eastern reef
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:tide-pearl-guild
 desires:

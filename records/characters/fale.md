@@ -66,7 +66,15 @@ visual:
     disguise, a workshop full of unfinished pieces she has been afraid to complete, a quality of distraction
     that has grown over the past month
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:tide-tattoo-guild
 desires:

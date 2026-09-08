@@ -57,7 +57,15 @@ visual:
   distinctive_features: a network of faint scars across both hands from decades of working with thorny
     and caustic plants
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ashikara-shogunate
 desires:

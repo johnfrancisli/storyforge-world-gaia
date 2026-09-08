@@ -19,6 +19,12 @@ resources:
 - building stone
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 Naqd is the mountain mining-town of [[location:al-khayzar|Al-Khayzar]], set high in the red ridges of the eastern range where the desert floor breaks into folded hills of ochre and iron-stained sandstone shot through with veins of turquoise, lapis, carnelian, and the rare green beryl the caravans carry to [[location:zaffar|Zaffar]]. The town clings to the walls of a steep defile, its houses stacked one above another on stone terraces cut into the rock and roofed with the waste-slag of the mines, so that the whole town seems to grow out of the mountain like a strange crystalline growth. The streets are narrow staircases, slick with mine-water and choked with mule-trains carrying ore and timber, and the air is always cool and smells of stone-dust, lamp-oil, and the metallic tang of the deep tunnels. At the town's base the great mine-heads yawn — dark galleries shored with timber driven deep into the rock, where miners work by the light of clay oil-lamps in heat and dark and danger, and from which the raw stones come up in baskets to be washed, cut, and polished in the lapidaries' workshops that line the upper terraces. The mine-bells ring the shifts day and night, and the mine-owners — the great Gem-Houses — hold the town in a near-feudal grip, their fortified estates crowning the highest terraces above the dust and noise.

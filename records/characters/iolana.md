@@ -66,7 +66,15 @@ visual:
     keeps wrapped in protective cloth, a sensitivity to air currents that makes her react to wind even
     indoors
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:tide-tattoo-guild
 desires:

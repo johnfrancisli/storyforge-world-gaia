@@ -59,7 +59,15 @@ visual:
   - a performer's callus on the right shoulder from acrobatic lifts
   - a small knife-scar on the left forearm from a close-call theft
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:san-merchant-cartel
 desires:

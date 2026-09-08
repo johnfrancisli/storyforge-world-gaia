@@ -14,6 +14,12 @@ resources:
 - thornwhisper silk
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 Deep within the ancient Thornwhisper Forest, where the canopy grows so thick that noontime feels like dusk, the elven city of Elfshade rises not on stone foundations but upon living wood and woven light. Bridges of pale birch bark arch between colossal oaks, and homes spiral around trunks in graceful helices of carved wood and stained glass that catch what little sun filters through. Lanterns of captured starlight—enchanted by the Valdris Elves who have inhabited these woods for six thousand years—glow a soft silver-blue at all hours, casting the mossy pathways in an eternal twilight. The air smells of pine resin, wet bark, and the faint sweetness of night-blooming jasmine that climbs every railing. Song spills from open windows, and silver-haired elves in flowing robes move between terraces with unhurried grace, their footsteps silent on the living wood. Though Elfshade swore fealty to the crown of Valdris three centuries ago, its people keep their own counsel, and a traveler who enters without an elven guide is said to walk in circles for hours before finding the city's heart.

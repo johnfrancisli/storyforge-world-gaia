@@ -68,7 +68,15 @@ visual:
     that does not quite fit, two children always within sight, a quality of urgency — he works as if every
     canoe he builds is a step toward something
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:tide-refugee-council
 desires:

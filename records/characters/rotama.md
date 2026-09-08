@@ -67,7 +67,15 @@ visual:
     Archipelago — she avoids eye contact to hide them, a habit of watching the sky rather than the sea,
     a tension in her shoulders that has grown over the past year
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:wayfinder-guilds
 desires:

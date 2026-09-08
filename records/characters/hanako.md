@@ -55,7 +55,15 @@ visual:
   eyes: brown, warm
   distinctive_features: a splash of old burn scars on both forearms from years of kettle work
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:tsu-tea-schools
 desires:

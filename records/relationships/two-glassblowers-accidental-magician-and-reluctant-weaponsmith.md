@@ -69,4 +69,10 @@ history:
     summary_after: His affection has become protective secrecy as he searches for a way to stop the arsenal.
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---

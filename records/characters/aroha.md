@@ -67,7 +67,15 @@ visual:
   distinctive_features: a pouch of carved story-stones worn at the belt, expressive hands that gesture
     constantly when speaking, a smile that reaches her eyes even when she is frightened
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:wayfinder-guilds
 desires:

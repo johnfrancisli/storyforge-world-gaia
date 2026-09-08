@@ -64,7 +64,15 @@ visual:
   - a merchant's signet ring on the right index finger
   - a wart on the left cheek
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:alk-city-guard
 desires:

@@ -61,7 +61,15 @@ visual:
   distinctive_features: a trap-scar on his left calf (his own trap, slipped in snow), three frost-nip
     scars on his fingers
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:hra-rune-guild
 desires:

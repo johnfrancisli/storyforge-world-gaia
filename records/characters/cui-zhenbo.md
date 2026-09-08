@@ -59,7 +59,15 @@ visual:
   - a physician's pulse-callus on all three fingers of the right hand
   - a faint liver-spot map across the brow
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:jin-state
 desires:

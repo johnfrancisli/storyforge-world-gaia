@@ -67,7 +67,15 @@ visual:
   - a faded tan line on the right ring finger — he once wore a wedding band, but his wife left after his
     sister was collected
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:alk-spice-houses
 desires:

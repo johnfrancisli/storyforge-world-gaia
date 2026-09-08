@@ -62,7 +62,15 @@ visual:
   - ceremonial star-paint across both cheekbones, reapplied daily
   - faint trance-scars on the feet from dancing on rough surfaces without awareness
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ver-shaman-circle
 desires:

@@ -13,6 +13,12 @@ resources:
 - spirit-masks
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 The Lava-Tube Shrine is the spirit-lodge of [[location:tide-motu-peleki|Motu Peleki]], set in a cool branch of the great lava-tube below the forge where the geothermal heat fades and the walls are slick with condensation and threaded with pale mineral blooms that glow faintly in the dark. The shrine is a low circular shrine of stacked black stones at the tube's end, before a natural basin where cool fresh water seeps through the rock and pools — a gift the islanders say Peleki allows to flow as a mercy amid her fire. The fire-shaman, a wiry old man whose eyebrows are permanently singed, conducts the fire-spirit pacts here: binding a warrior's spirit to Peleki's flame through nights of fasting, the drinking of a bitter pepper-root brew that burns the throat, and the laying of the initiate's hands on the hot stone of the tube-wall until the spirit answers in heat. Spirit-masks of fire-painted wood — the erupting cone, the lava-serpent, the phoenix-tern — hang from the tube-ceiling on cord of human hair, and the walls are blackened with centuries of soot from the shrine's oil-lamps. The air is mineral, wet, and faintly sulphurous, and the deep rumble of the mountain is felt more than heard, a pulse in the stone underfoot. Warriors come here before raid or defense to seek Peleki's fire-blessing, and leave with blistered palms and blazing eyes.

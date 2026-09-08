@@ -52,7 +52,15 @@ visual:
   distinctive_features: an old brand mark on his right shoulder (the Dragon Order sigil, partially scarred
     over), calloused knuckles consistent with sword training
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:val-mages-circle
 desires:

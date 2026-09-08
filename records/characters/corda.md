@@ -61,7 +61,15 @@ visual:
   - deeply calloused palms with visible fiber-grooves
   - a rope-burn scar encircling the left wrist
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ver-river-consortium
 desires:

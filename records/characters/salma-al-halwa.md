@@ -62,7 +62,15 @@ visual:
   - a small sugar-burn scar on the left index finger
   - permanently rose-scented skin, even after washing
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:binding-families
 desires:

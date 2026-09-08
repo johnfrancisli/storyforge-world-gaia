@@ -61,7 +61,15 @@ visual:
   distinctive_features: a scout's tattoo of an eye on his right wrist, a scar on his left cheek from a
     fall against rock
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:hra-shipwright-brotherhood
 desires:

@@ -67,7 +67,15 @@ visual:
     a woven pouch — each one different, a quiet intensity that makes people lower their voices around
     her, a bone fishhook worn on a cord around the neck — her first successful catch-hook
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:tide-tattoo-guild
 desires:

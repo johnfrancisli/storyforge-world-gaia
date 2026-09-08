@@ -30,6 +30,12 @@ next_possible_moves:
 resolution: null
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 Daimyo [[character:takeda-renji|Takeda Renji]] is building a coalition of rural clans who feel the shogunate has abandoned them. He has a secret alliance with the wild kitsune [[character:tamamo|Tamamo]], who is willing to create yokai incidents to prove the shrine network's weakness. His plans were stolen by the thief Kuro, and the document is now in play. The shogun is dying and the succession is undecided.

@@ -57,7 +57,15 @@ visual:
   distinctive_features: faint scale patches on the back of the left hand — a mark of the dragon bond
   face: handsome, mature, symmetrical features
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:dragon-order
 desires:

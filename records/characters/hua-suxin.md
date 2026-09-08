@@ -55,7 +55,15 @@ visual:
   - hands with unusually steady, long fingers
   - a faint jade-green glow in her fingertips visible only in dim light
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:jin-state
 desires:

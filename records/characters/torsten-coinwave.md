@@ -61,7 +61,15 @@ visual:
   distinctive_features: a merchant's tattoo of a coin-ship on his right forearm, a small scar on his left
     cheekbone (a knife fight in a southern port, years ago)
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:hra-rune-guild
 desires:

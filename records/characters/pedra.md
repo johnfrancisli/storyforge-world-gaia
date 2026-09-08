@@ -67,7 +67,15 @@ visual:
   - deep blue mineral staining on the fingers from glaze work
   - a permanent faint smokiness to his scent
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ver-river-consortium
 desires:

@@ -8,6 +8,12 @@ terrain: stone customs house, wagon courtyard, canyon mouth
 resources: []
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 A stone customs house at the [[location:sangguo|Sangguo]] end of the pass, where officials inspect cargo and collect tolls. The courtyard has space for a dozen wagons. The officials are thorough and slow.

@@ -54,7 +54,15 @@ visual:
   eyes: dark brown
   distinctive_features: ritual scarification patterns on both forearms — the marks of her spirit-pacts
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ver-shaman-circle
 desires:

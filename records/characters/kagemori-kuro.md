@@ -53,7 +53,15 @@ visual:
   eyes: green, slit-pupiled
   distinctive_features: black cat ears, long black tail, a small chip in the left ear
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:tsu-merchant-guild
 desires:

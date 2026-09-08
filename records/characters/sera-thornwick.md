@@ -51,7 +51,15 @@ visual:
   eyes: hazel
   distinctive_features: a faint scar on her right cheekbone, a tattoo of a small falcon on her left wrist
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:dragon-order
 desires:

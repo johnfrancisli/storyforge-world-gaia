@@ -7,6 +7,12 @@ terrain: volcanic islets, sea-caves, submerged hidden entrance, black sharp rock
 resources: []
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 A cluster of uninhabited volcanic islets near the strait's midpoint, honeycombed with sea-caves. Pirates anchor in the largest cave, which has a hidden entrance submerged at high tide. The rock is black and sharp. There are bones in the shallows.

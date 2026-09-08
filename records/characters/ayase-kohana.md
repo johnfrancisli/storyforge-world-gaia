@@ -59,7 +59,15 @@ visual:
   distinctive_features: a small, old scar hidden beneath the hairline at the left temple — from the night
     her family died
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:tsu-tea-schools
 desires:

@@ -63,7 +63,15 @@ visual:
   distinctive_features: soil permanently under the fingernails, seed pouches worn at the belt, a callus
     on the right palm from the digging stick, a habit of rubbing soil between her fingers to test it
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:tide-pearl-guild
 desires:

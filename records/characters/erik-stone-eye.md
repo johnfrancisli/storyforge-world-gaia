@@ -57,7 +57,15 @@ visual:
   eyes: right eye blue, left eye pale and unseeing
   distinctive_features: a polished slate eyepatch over the left eye, a young jarl's silver arm-ring
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:hra-jarl-council
 desires:

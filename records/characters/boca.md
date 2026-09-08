@@ -63,7 +63,15 @@ visual:
   - deeply calloused, toughened soles from a lifetime of barefoot travel
   - a faded machete-scar across the left shin
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ver-river-consortium
 desires:

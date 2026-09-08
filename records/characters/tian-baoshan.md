@@ -56,7 +56,15 @@ visual:
   - a burn scar across the bridge of the nose
   - missing the left earlobe from a mining explosion
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:wei-state
 desires:

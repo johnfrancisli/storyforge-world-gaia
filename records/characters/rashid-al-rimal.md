@@ -58,7 +58,15 @@ visual:
   distinctive_features: sun-wrinkles deep around the eyes, a sand-scar on the left cheek from a dust storm,
     a tattoo of a compass rose on the right forearm
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:alk-caravan-companies
 desires:

@@ -62,7 +62,15 @@ visual:
   distinctive_features: dyed fingertips — permanently stained indigo and rust from sail-cloth dyes, a
     weaving callus on the right index finger that has hardened into a permanent ridge
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:wayfinder-guilds
 desires:

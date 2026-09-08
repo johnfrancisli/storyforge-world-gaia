@@ -62,7 +62,15 @@ visual:
   distinctive_features: stone-dust permanently embedded in the creases of his hands, a chip-scar on his
     right thumb from a slipped chisel
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:hra-rune-guild
 desires:

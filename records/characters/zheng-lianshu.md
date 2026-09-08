@@ -59,7 +59,15 @@ visual:
   - a paper-cut scar on the right thumb
   - a faint ink-stain on the left jaw that never quite fades
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:great-academy
 desires:

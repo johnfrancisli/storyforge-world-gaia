@@ -59,7 +59,15 @@ visual:
   distinctive_features: jaguar-spot skin markings, elongated canines, a notched left ear from a jungle
     fight
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ver-canopy-council
 desires:

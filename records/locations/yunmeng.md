@@ -15,6 +15,12 @@ resources:
 - trade routes
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 Where the western trade routes from beyond the mountains converge with the eastern roads of [[location:sangguo|Sangguo]], Yunmeng sits in a wide valley as the great entrepôt of the overland silk road—a city where languages from a dozen distant lands mix in its markets and foreign gods share temple space with local ancestors. Caravans of camels and ox-carts arrive daily from the far west, bringing dyes, gems, strange spices, and bolts of fabric unlike anything woven in [[location:sangguo|Sangguo]], while eastern merchants buy these goods with silk, tea, and lacquerware to carry back toward the capitals. The city is wealthy beyond its size, its streets paved in imported stone and its merchant houses built in hybrid architectural styles that blend foreign arches with local tiled roofs. The smell of Yunmeng is unlike anywhere else in [[location:sangguo|Sangguo]]—cumin, cardamom, horse leather, and the dusty wind of distant deserts.

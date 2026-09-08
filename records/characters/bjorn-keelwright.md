@@ -62,7 +62,15 @@ visual:
   distinctive_features: a missing left earlobe (timber-splinter wound), deep calluses on both palms with
     permanently black-stained fingertips from oak tannin
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:hra-shipwright-brotherhood
 desires:

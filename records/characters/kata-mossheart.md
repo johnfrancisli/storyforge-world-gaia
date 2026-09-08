@@ -61,7 +61,15 @@ visual:
   distinctive_features: a mole on her left cheek, a slight curvature of the spine from decades of leaning
     over beds
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:hra-volur-coven
 desires:

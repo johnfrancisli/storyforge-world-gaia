@@ -56,7 +56,15 @@ visual:
   eyes: dark brown, watchful
   distinctive_features: permanently pink-tinged fingertips from years of hot water work
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:tsu-tea-schools
 desires:

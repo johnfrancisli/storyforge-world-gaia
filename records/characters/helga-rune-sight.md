@@ -56,7 +56,15 @@ visual:
   eyes: pale blue, milky
   distinctive_features: rune-carved staff that glows faintly, clouded eyes, ritual tattoos on both hands
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:hra-rune-guild
 desires:

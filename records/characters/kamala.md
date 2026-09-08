@@ -63,7 +63,15 @@ visual:
   distinctive_features: net-weaving calluses on both hands, a haunted quality to the gaze — she looks
     through people rather than at them, healing reef cuts on both feet from reckless walking at high tide
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:tide-refugee-council
 desires:

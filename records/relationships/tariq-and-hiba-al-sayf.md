@@ -56,4 +56,10 @@ history:
     summary_after: She senses that something is being decided about her and no longer feels safe in his silence.
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---

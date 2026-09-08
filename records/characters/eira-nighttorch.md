@@ -60,7 +60,15 @@ visual:
   distinctive_features: a poet's ink-mark on her right cheekbone (a small rune for 'voice'), a chipped
     left canine
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:hra-jarl-council
 desires:

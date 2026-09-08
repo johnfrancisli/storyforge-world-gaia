@@ -16,6 +16,12 @@ resources:
 - feast-hall
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 On the highest ridge of [[location:skaldvik|Skaldvik]], overlooking the harbor and the whale-road beyond, the Hall of the High Jarl is the seat of [[location:hrafnland|Hrafnland]]'s power—a great timber longhouse of oak and pine, its roof ridge carved with a row of gilded raven-prow figureheads and its walls hung inside with shields, war-banners, and the captured prows of enemy ships. The hall is a hundred paces long, its central fire-pit running the length of the building, the smoke drifting up through a louvered roof-hole that makes the high beams a permanent, drifting haze. Benches line both walls, padded with furs and sea-cushions, and the high seat at the hall's western end is a carved throne of driftwood and whalebone where the High Jarl sits to hear petitions, settle feuds, and drink the first horn at every feast. The air is a permanent fug of woodsmoke, mead, roasting meat, and the salt-tang of sea-wet cloaks drying by the fire, and the hall is never empty—retainers sleep on the benches, oath-sworn guards stand at the doors, and skalds compete for a place by the fire where their verses will carry. When the Althing is not in session, the hall is where [[location:hrafnland|Hrafnland]] is ruled, by the jarl's word and the weight of his oath-men.

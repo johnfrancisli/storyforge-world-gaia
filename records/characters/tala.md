@@ -64,7 +64,15 @@ visual:
   distinctive_features: pale grey eyes that are unnervingly sharp and growing lighter, a squint that persists
     even in shade, a habit of scanning the horizon even in enclosed spaces
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:wayfinder-guilds
 desires:

@@ -61,7 +61,15 @@ visual:
   distinctive_features: severely frost-scarred ears (nearly unrecognizable shapes), a permanent squint
     from decades of staring at ice-glare
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:hra-shipwright-brotherhood
 desires:

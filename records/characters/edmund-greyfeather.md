@@ -55,7 +55,15 @@ visual:
   distinctive_features: slightly pointed ears (half-elf), a bowstring callus on his left fingers, a scar
     across his right palm from a trap wire
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:val-noble-council
 desires:

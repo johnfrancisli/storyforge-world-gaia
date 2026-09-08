@@ -53,7 +53,15 @@ visual:
   eyes: gold, slit-pupiled
   distinctive_features: three fox tails, fox ears, faint vulpine fangs visible when smiling
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ashikara-shogunate
 desires:

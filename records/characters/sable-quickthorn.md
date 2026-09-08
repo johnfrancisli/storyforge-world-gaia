@@ -59,7 +59,15 @@ visual:
   distinctive_features: a deserter's brand scratched off her left shoulder (the mark was burned in, then
     cut away — leaving a ragged scar), a knife scar on her right bicep, a chipped left canine
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:val-mages-circle
 desires:

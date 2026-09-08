@@ -56,7 +56,15 @@ visual:
   eyes: dark brown, wide-set
   distinctive_features: a faint birthmark like a crescent moon at the base of her neck
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ashikara-shogunate
 desires:

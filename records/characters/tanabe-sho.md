@@ -61,7 +61,15 @@ visual:
   eyes: dark brown, bright with curiosity
   distinctive_features: a sake-yeast rash along the jawline that comes and goes
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ashikara-shogunate
 desires:

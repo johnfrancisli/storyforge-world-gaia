@@ -58,7 +58,15 @@ visual:
   eyes: dark brown, steady
   distinctive_features: elaborate tattoos visible on both forearms — phoenix and wave motifs
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ashikara-shogunate
 desires:

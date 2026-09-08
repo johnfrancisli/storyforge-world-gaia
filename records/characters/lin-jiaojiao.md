@@ -58,7 +58,15 @@ visual:
   - a faint lattice of hairline cracks across the palms (from channeling chi)
   - a small chip in the right front tooth
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:san-merchant-cartel
 desires:

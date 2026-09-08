@@ -61,7 +61,15 @@ visual:
   distinctive_features: a watchman's tattoo of a beacon on her right forearm, permanent ink-stains on
     her left fingers from sketching
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:hra-shipwright-brotherhood
 desires:

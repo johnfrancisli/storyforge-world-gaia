@@ -59,7 +59,15 @@ visual:
   distinctive_features: a thrall's iron band on his left wrist (child-sized, engraved with Sigrid's mark),
     a faded burn on his right palm from tending fires
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:hra-volur-coven
 desires:

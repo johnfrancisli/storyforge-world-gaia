@@ -54,7 +54,15 @@ visual:
   distinctive_features: a callus on his right middle finger (quill), ink stain on his left cuff that never
     washes out, wire-rimmed spectacles
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:val-mages-circle
 desires:

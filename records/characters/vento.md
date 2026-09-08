@@ -63,7 +63,15 @@ visual:
   - hollow-boned lightness — she seems to almost float when she moves
   - slightly elongated, bird-like fingers suited to flute-playing
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ver-shaman-circle
 desires:

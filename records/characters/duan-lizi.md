@@ -56,7 +56,15 @@ visual:
   - a soup-burn scar on the left forearm
   - flour permanently dusting his shoulders and sleeves
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:san-merchant-cartel
 desires:

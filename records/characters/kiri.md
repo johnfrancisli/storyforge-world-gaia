@@ -66,7 +66,15 @@ visual:
     arm's reach, dark circles under the eyes from sleep loss, a constant subtle tapping of the fingers
     against any surface
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:tide-island-council
 desires:

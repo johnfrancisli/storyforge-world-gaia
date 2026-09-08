@@ -64,7 +64,15 @@ visual:
   - ink stains on the right index finger from annotating contract texts
   - a small birthmark behind the left ear shaped like a flame
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:binding-families
 desires:

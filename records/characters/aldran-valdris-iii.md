@@ -60,7 +60,15 @@ visual:
   distinctive_features: a faded scar on the right brow from an old battle wound
   face: handsome, majestic, age-lined
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:val-merchant-guild
 desires:

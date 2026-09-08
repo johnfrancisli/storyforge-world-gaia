@@ -8,6 +8,12 @@ terrain: stone tower, crumbled masonry, garrisoned battlement
 resources: []
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 A stone tower on the Valdrian side, garrisoned by the Field Constabulary. Half-crumbled, rebuilt, half-crumbled again. The banner of the crowned iron tower hangs from the highest remaining wall.

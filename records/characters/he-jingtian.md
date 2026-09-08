@@ -60,7 +60,15 @@ visual:
   - a scholar's ink-stain on the right forefinger
   - a thin, old scar on the left brow from a riding accident
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:wei-state
 desires:

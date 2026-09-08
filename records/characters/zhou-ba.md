@@ -54,7 +54,15 @@ visual:
   eyes: small, sharp, calculating
   distinctive_features: expensive jade rings on both hands, a gold tooth visible when smiling
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:chu-state
 desires:

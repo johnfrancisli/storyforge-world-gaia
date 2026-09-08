@@ -61,7 +61,15 @@ visual:
   - a ritual scar in the shape of a crescent moon on the left palm
   - elongated canines visible when she speaks
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ver-river-consortium
 desires:

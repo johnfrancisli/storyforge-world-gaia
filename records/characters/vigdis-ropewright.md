@@ -61,7 +61,15 @@ visual:
   distinctive_features: rope-burn scars on both forearms in overlapping patterns, a missing tip of her
     right ring finger (caught in a winch)
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:hra-shipwright-brotherhood
 desires:

@@ -56,7 +56,15 @@ visual:
   eyes: warm brown
   distinctive_features: a faint fermentation scar across the right thumb and forefinger
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ashikara-shogunate
 desires:

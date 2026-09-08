@@ -57,7 +57,15 @@ visual:
   - a tortoise-shell burn scar on the right palm from divination rites
   - a white streak in the left temple hair
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:san-merchant-cartel
 desires:

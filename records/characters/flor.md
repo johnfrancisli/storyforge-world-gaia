@@ -62,7 +62,15 @@ visual:
   - permanent green staining at the fingertips and nails
   - a scattering of small pale scars from thorns across both hands
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ver-river-consortium
 desires:

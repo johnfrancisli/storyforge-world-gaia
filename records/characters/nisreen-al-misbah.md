@@ -65,7 +65,15 @@ visual:
   - a faint, permanent warmth to the skin — not feverish, but noticeable on contact
   - a small copper-burn scar on the left palm
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:binding-families
 desires:

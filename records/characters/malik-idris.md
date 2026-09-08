@@ -55,7 +55,15 @@ visual:
   distinctive_features: a faint blue shimmer around the fingers of his right hand — a mark of proximity
     to djinn-fire
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:binding-families
 desires:

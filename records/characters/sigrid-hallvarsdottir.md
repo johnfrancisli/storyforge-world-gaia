@@ -66,7 +66,15 @@ visual:
   distinctive_features: a scar across the bridge of her nose, three fingers on her right hand have old
     break-calluses
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:hra-rune-guild
 - org:hra-shipwright-brotherhood

@@ -8,6 +8,12 @@ terrain: fast-current passage, first-forming ice, longship-width narrows, groani
 resources: []
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 The passage between the two largest skerries, where the current is fastest and the ice forms first. A longship can pass at speed. Anything wider cannot. The ice groans like something alive.

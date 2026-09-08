@@ -55,7 +55,15 @@ visual:
   - a thin gold wedding bangle on the left wrist, never removed
   - a callus on the right thumb from archery
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:chu-state
 desires:

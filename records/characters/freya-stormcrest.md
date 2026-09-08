@@ -59,7 +59,15 @@ visual:
   distinctive_features: a guard's brand on her left forearm (castle crest), a scar across her right knuckles
     (sparring injury), a slightly crooked right index finger (healed break)
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:dragon-order
 desires:

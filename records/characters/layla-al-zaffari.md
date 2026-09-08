@@ -60,7 +60,15 @@ visual:
   distinctive_features: gold bracelets on both wrists, a spice-stain on the left thumb that never quite
     fades, henna patterns on both hands
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:alk-spice-houses
 desires:

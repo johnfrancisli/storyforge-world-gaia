@@ -64,7 +64,15 @@ visual:
   - a raised, pale sting-scar directly over the sternum
   - a faint, persistent hum audible when one stands close to her
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ver-river-consortium
 desires:

@@ -24,6 +24,12 @@ next_possible_moves:
 resolution: null
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 In Tsukuyomi, the shrine network that keeps wild yokai at a distance from settled areas is weakening. Rural shrines are being neglected as the central authority funnels resources to the capital. Miko Sora maintains her shrine alone, but the ward she tends is one of a chain, and links upstream of her are failing. If enough links break, the yokai pressure on the Cedar Road becomes dangerous.

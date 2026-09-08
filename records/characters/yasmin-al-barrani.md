@@ -62,7 +62,15 @@ visual:
   - permanent saffron-yellow staining on fingertips and the pads of her thumbs
   - a gold tooth in the upper left row, visible when she smiles
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:alk-spice-houses
 desires:

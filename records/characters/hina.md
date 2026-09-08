@@ -62,7 +62,15 @@ visual:
   distinctive_features: pearl-shell earrings carved from a single massive pearl, faint scarring on both
     earlobes from repeated pressure damage, a birthmark shaped like a wave on the left shoulder
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:tide-fishing-coop
 desires:

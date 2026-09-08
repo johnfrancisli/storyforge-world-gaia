@@ -25,6 +25,12 @@ next_possible_moves:
 resolution: null
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 Mana the Tattoo-carver believes that wayfinder tattoos are not just records — they are anchors. When a route is submerged and the tattoo fades, the wayfinder feels it as physical pain. She suspects the tattoos are helping hold the sea-routes in existence, and that losing wayfinders and routes may be connected to the rising seas, not just a consequence of them.

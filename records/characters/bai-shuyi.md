@@ -58,7 +58,15 @@ visual:
   - a large ink-stain birthmark on the right jaw
   - fingers stained with old ink from handling ancient scrolls
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:great-academy
 desires:

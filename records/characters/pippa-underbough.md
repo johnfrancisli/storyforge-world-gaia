@@ -54,7 +54,15 @@ visual:
   distinctive_features: a small gap between her front teeth, a faded bruise on her left shin (perpetual,
     from running)
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:val-merchant-guild
 desires:

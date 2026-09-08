@@ -58,7 +58,15 @@ visual:
   eyes: dark brown, expressive
   distinctive_features: a spray of pale freckles across the bridge of the nose, unusual for the region
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ashikara-shogunate
 desires:

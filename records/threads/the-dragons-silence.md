@@ -25,6 +25,12 @@ next_possible_moves:
 resolution: null
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 In Valdris, no new dragon bond has been made in twenty years. The dragon-bonded knights are fracturing between reformers and traditionalists. The king is aging and the succession is unspoken. Sir Aldrich's own dragon, Verath, has gone silent — a secret he keeps because admitting it would confirm the order's worst fears.

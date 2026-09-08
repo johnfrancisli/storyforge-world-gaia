@@ -58,7 +58,15 @@ visual:
   eyes: dark brown, anxious
   distinctive_features: a faint red line around the neck like a crease, usually hidden by a cloth
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ashikara-shogunate
 desires:

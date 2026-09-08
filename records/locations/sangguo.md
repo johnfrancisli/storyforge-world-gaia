@@ -12,6 +12,12 @@ resources:
 - tea
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 A vast land of river valleys, terraced mountains, silk-road trade, and walled cities, held in an uneasy truce between three states: Jin in the north, Chu in the south, and Wei in the west. Politics is the primary battlefield. Martial arts and chi cultivation are practiced by soldiers and monks. Scholar-strategists advise warlords. Silk and lacquer, the sound of a guqin at night, ink on rice paper.

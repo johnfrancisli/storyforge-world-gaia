@@ -127,13 +127,66 @@ Before creating, populating, reviewing, or editing any `visual.prompt` value und
 
 These rules apply to the content stored in `visual.prompt`. Requirements such as “output only the prompt” do not prohibit normal repository edits, validation, or concise progress and completion messages.
 
-Every record uses this schema:
+Every visual record under `records/` uses this base schema:
 
 ```yaml
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ```
 
+Character records extend `image` with a neutral transparent cutout variation:
+
+```yaml
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
+```
+
+### Storage and source-reading requirements
+
+- Save the completed positive prompt in the record's `visual.prompt` field
+  (`visual` > `prompt`). Do not place it in a separate prompt file, a biography
+  section, a note, or another field.
+- Keep `image` as a top-level sibling of `visual`, not nested inside it.
+- Store a plain absolute media URL in `image.url`. Do not use Markdown link
+  syntax. Leave the value empty until a real image exists; never invent a URL.
+- Use `image.focalPoint.x: 0.5` and `image.focalPoint.y: 0.1` as the default
+  focal point unless an existing image requires a deliberately different crop.
+- Store the exact generation seed in `image.seed` so the image can be
+  reproduced. Use `null` until an image is generated; never invent or silently
+  replace the seed associated with an existing image.
+- Preserve the entire existing `image` object when editing unrelated fields.
+  Its URL, focal point, seed, and variations are generation metadata that may
+  not be reconstructable.
+- Character cutouts belong in `image.variations`. Every character starts with
+  one entry named `neutral`; do not recreate the legacy top-level
+  `portrait_variations` field.
+- Store a plain absolute URL to the transparent PNG in
+  `image.variations[].backgroundRemovedUrl`. Leave it empty until the
+  background-removed asset exists. This cutout is composited over scene
+  backgrounds during dialogue, so it must retain transparency.
+- Preserve existing named variations and their URLs. Never replace a real cutout
+  URL with an empty placeholder while editing another field.
+- Before creating or revising a character's `visual.prompt`, read the character's
+  entire record, including the full biography and all other prose and structured
+  fields. Do not build the prompt from only the summary, appearance field, or the
+  section nearest `visual.prompt`.
+- Use relevant details from the whole biography to inform the character's visible
+  appearance, clothing, equipment, pose, expression, surroundings, and other
+  imageable traits. Translate narrative facts into visible evidence where useful;
+  do not copy non-visual biography or exposition into the prompt.
 Character age is a top-level factual field, not part of `visual`. It may inform a visual age category but should not normally appear numerically in an image prompt.
 
 # ONE OBSESSION / COMFYUI PROMPT GENERATOR

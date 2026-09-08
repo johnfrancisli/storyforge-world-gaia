@@ -58,7 +58,15 @@ visual:
   distinctive_features: barefoot in all weather, a circular burn-scar on the right palm from a chi cultivation
     injury
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:san-chi-sect
 desires:

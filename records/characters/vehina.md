@@ -64,7 +64,15 @@ visual:
     in the gesture-patterns of chants even when she is silent, a voice that carries far further than its
     volume should allow
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:wayfinder-guilds
 desires:

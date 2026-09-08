@@ -64,7 +64,15 @@ visual:
   distinctive_features: permanently hemp-roughened fingertips, a callus on his right thumb from the net
     shuttle
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:hra-shipwright-brotherhood
 desires:

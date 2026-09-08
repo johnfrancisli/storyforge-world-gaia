@@ -63,7 +63,15 @@ visual:
   - a welding burn scar across the back of the right hand
   - a missing tip of the left index finger from a metal-cutting accident
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:binding-families
 desires:

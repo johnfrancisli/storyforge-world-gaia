@@ -65,7 +65,15 @@ visual:
   distinctive_features: a small piece of white coral carried always in the left hand, a complete silence
     — she has not spoken a word since her arrival, a stillness that is unusual in a child
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:tide-refugee-council
 desires:

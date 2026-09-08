@@ -61,7 +61,15 @@ visual:
   - a faint lattice of silver scars on both ankles, visible only up close
   - a small tattoo of a flame on the left hip
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:alk-scholar-circle
 desires:

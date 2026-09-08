@@ -13,6 +13,12 @@ resources:
 - porcelain
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 A labyrinth of covered arcades and open-air stalls stretching along the main canal, the Silk Market is [[location:san-chudu|Chudu]]'s commercial heart and the loudest, most colorful place in all of [[location:sangguo|Sangguo]]. Bolts of silk in every imaginable hue hang from bamboo frames like living banners, while spice merchants grind cinnamon and star anise in stone mortars, filling the air with a warm, stinging sweetness. Haggling is a performance art here—voices rise and fall in practiced rhythms, hands slap together to seal deals, and tea is poured endlessly as negotiations stretch from morning into dusk. Pickpockets work the crowds, moneylenders lurk behind silk curtains, and informants from every state mingle among the buyers, trading secrets as freely as coin.

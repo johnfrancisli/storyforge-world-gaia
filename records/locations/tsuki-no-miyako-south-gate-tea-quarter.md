@@ -12,6 +12,12 @@ resources:
 - diplomatic back channel
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 The tea house district near the south gate, where the deals that the magistrate's office will never hear about are made over cups of matcha and something stronger. The quarter is a maze of lanes, each tea house narrower than the last, lanterns hung so low a tall man must duck. The establishment at the quarter's heart — the Moonfaced House — is where the senior retainers meet the merchant guild heads, where clan envoys deliver messages too delicate for paper, and where a person can learn what the shogun's health really is, if they know whom to ask and can afford the price. The quarter is quiet by design; the tea house guild keeps the peace with a firmness that rivals the magistrate's. The shamisen plays late. The lanterns burn low. The conversations do not repeat.

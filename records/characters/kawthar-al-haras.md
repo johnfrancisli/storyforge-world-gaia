@@ -63,7 +63,15 @@ visual:
   - a scar across the bridge of the nose from a street fight
   - a watchman's tattoo on the right forearm — a lantern sigil
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:alk-scholar-circle
 desires:

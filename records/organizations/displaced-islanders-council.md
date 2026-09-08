@@ -8,6 +8,12 @@ pressure: rising
 holdings: []
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 An ad-hoc council of islanders displaced by the rising seas, formed at [[location:lani-atoll|Lani Atoll]] as more families arrive. They are not part of the formal governance structure and have no official voice, but they are growing in numbers and frustration. They want representation, resources, and answers.

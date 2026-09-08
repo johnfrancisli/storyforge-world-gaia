@@ -57,7 +57,15 @@ visual:
   eyes: dark brown
   distinctive_features: a old arrow scar on the left shoulder, callused sword-hand
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:jin-state
 desires:

@@ -63,7 +63,15 @@ visual:
   distinctive_features: shell-dust staining on both hands, a fine carving knife worn at the belt, a large
     spiraled shell of unknown origin always carried in a pouch — she never lets it out of arm's reach
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:tide-tattoo-guild
 desires:

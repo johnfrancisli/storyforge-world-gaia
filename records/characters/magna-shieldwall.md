@@ -62,7 +62,15 @@ visual:
   distinctive_features: a guard's raven tattoo on her right shoulder, a scar on her left knuckles from
     a training accident
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:hra-raid-crews
 desires:

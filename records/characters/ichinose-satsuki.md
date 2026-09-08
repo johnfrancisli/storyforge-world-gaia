@@ -59,7 +59,15 @@ visual:
   eyes: dark brown, warm but observant
   distinctive_features: a faint tea-stain discoloration on the right thumb and forefinger, permanent
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:tsu-tea-schools
 desires:

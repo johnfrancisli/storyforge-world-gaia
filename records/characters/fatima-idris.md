@@ -58,7 +58,15 @@ visual:
   eyes: dark brown, sharp
   distinctive_features: ink stains on the right hand from studying contract law, a small silver nose-stud
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:binding-families
 desires:

@@ -59,7 +59,15 @@ visual:
   eyes: dark brown, quick-moving
   distinctive_features: a road-dust tan line at the wrists from long sleeves worn while running
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ashikara-shogunate
 desires:

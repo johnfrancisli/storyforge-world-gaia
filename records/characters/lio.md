@@ -65,7 +65,15 @@ visual:
   distinctive_features: a pearl pouch at the belt — always within hand's reach, a habit of holding pearls
     to her ear to listen, a trader's quick appraising glance that she turns on people as well as objects
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:tide-tattoo-guild
 desires:

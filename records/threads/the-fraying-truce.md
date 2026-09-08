@@ -24,6 +24,12 @@ next_possible_moves:
 resolution: null
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 The three-year truce between Jin, Chu, and Wei is nearing its end. One border skirmish has already happened between Jin and Wei forces at the Long Pass. The younger officers at the Great Academy in [[location:jin-an|Jin'an]] speak openly about ending the truce. Warlord [[character:cao-shen|Cao Shen]] is dying faster than anyone knows and wants reunification before he goes.

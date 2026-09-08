@@ -57,7 +57,15 @@ visual:
   - a scholar's ink-stain on the left jaw
   - a slight stoop from years at writing desks
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:great-academy
 desires:

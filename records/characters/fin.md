@@ -61,7 +61,15 @@ visual:
   distinctive_features: a conch shell horn worn on a cord around the neck, webbed toes (a minor birth
     trait common in whale-speaker families), a far-listening expression
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:wayfinder-guilds
 desires:

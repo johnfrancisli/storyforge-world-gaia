@@ -69,7 +69,15 @@ visual:
     raised in water, an unnatural ease in the water that other divers find remarkable but unsettling,
     a diver's barotrauma scarring on both earlobes that has healed despite the depth he reaches
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:tide-fishing-coop
 desires:

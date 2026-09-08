@@ -8,6 +8,12 @@ terrain: wreck-cluster rocks, low-tide wreckage, plentiful fish, sailor bones
 resources: []
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 A cluster of rocks where at least three ships have gone down. The wreckage is visible at low tide -- timber, iron, and the bones of sailors no one came for. Fish are plentiful here, which is why boats still come.

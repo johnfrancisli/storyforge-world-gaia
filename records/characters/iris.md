@@ -64,7 +64,15 @@ visual:
   - dye-stained fingertips in alternating bands of indigo and rust
   - a thread-thin scar across the left palm from a weaving-sword slip
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ver-hunter-clans
 desires:

@@ -24,6 +24,12 @@ next_possible_moves:
 resolution: null
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 Kuro the Smoke, a cat-folk thief in [[location:tsuki-no-miyako|Tsuki-no-Miyako]], stole a document from a daimyo's estate that contains evidence of Takeda's coalition plans. He does not understand what he has, but Takeda's agents are hunting him. The document's trail leads through the underworld of Tsukuyomi and potentially to [[location:sangguo|Sangguo]]'s information broker [[character:zhou-ba|Zhou Ba]], who would sell it to the highest bidder.

@@ -60,7 +60,15 @@ visual:
   distinctive_features: permanently green-stained fingertips, a round birthmark on her left forearm shaped
     like a leaf
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:hra-volur-coven
 desires:

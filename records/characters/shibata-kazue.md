@@ -58,7 +58,15 @@ visual:
   eyes: dark brown, steady
   distinctive_features: burn scars across both forearms and a permanent forge-tan on the hands
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ashikara-shogunate
 desires:

@@ -22,6 +22,12 @@ organizations:
 - org:val-noble-council
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 A new syndicate has begun levying an unspoken 'toll' on every barge that moors at the Greyfen Quays in [[location:val-rivenspire|Rivenspire]], collected by armed men who claim no banner. Harbor Watch captain [[character:brainard-stonewell|Brainard Stonewell]] knows his watchmen are outmatched and has twice been warned off by the Counting Coin guildhall, which quietly profits from the arrangement. Barony mediator [[character:gwendolyn-fairhold|Gwendolyn Fairhold]] has arrived from [[location:crownhaven|Crownhaven]] to broker a settlement, but the smugglers have made it clear that any deal which names them is a deal that ends in fire. [[location:val-rivenspire-bridge|The Riven Bridge]], the only stone crossing for a day's ride, is the chokepoint where the toll is enforced.

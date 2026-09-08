@@ -17,6 +17,12 @@ resources:
 - storm-reading
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 On the wind-scoured crest of the headland, where the ice-wind is strongest and the view sweeps the frozen sea to the edge of sight, the Bone-Circle is the seidr-ground of [[location:hra-hvalhofn|Hvalhöfn]]—a ring of standing whale-ribs, each as tall as a man and driven point-down into the frozen earth, their curved upper ends meeting to form a low, dome-like arch that the wind sings through with a sound the whalers call the Ice-Volva's breath. Within the ring, the ground is bare, black, and frozen hard, scattered with the bones of seals, walrus, and the occasional narwhal, and at the center stands a single flat stone—the doom-stone—where the station's seidr-woman, the Volva Mörgrím Ice-Bone, casts the runes and reads the whale-hunt's luck before every putting-out. Mörgrím is a tall, gaunt, white-haired woman of uncertain age who wears a cloak of sewn-together seal-skins and who is said to have survived three days naked in the ice as a test of her calling, and her eyes are the pale, washed-out blue of the midwinter sky. The air in the bone-circle is always colder than the surrounding headland, and the whalers cross themselves—old habit, old faith—when they pass it, for the seidr worked here is the old, dark kind, the kind that speaks to the dead and the deep things under the ice, and the volva's word on whether a hunt is cursed or blessed is the word that decides whether the boats put out or stay.

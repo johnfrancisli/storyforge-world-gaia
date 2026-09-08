@@ -67,7 +67,15 @@ visual:
     her as a song-keeper, a habit of silent lip movement — she is always rehearsing, a tension between
     precision and uncertainty that has grown over the past year
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:wayfinder-guilds
 desires:

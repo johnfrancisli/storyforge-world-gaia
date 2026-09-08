@@ -65,7 +65,15 @@ visual:
   - a trader's tattoo of a river-confluence on the right wrist
   - a missing left little finger, lost to a river-pirate's knife years ago
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ver-river-consortium
 desires:

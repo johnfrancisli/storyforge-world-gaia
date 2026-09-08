@@ -62,7 +62,15 @@ visual:
   eyes: dark brown, focused
   distinctive_features: paper-cut calluses on both thumbs and a faint glue stain on the left forearm
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ashikara-shogunate
 desires:

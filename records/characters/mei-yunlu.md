@@ -55,7 +55,15 @@ visual:
   - weaver's calluses on both thumbs
   - a faint shimmer in her hair that catches light like silk thread
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:jin-state
 desires:

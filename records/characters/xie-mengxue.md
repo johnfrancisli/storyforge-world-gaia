@@ -59,7 +59,15 @@ visual:
   - chi-cultivation calluses on both palms (inconsistent with a laundress's hands)
   - a faded Wei-state cultivation corps brand on the inside of the left wrist
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:san-merchant-cartel
 desires:

@@ -58,7 +58,15 @@ visual:
   - paint stains in permanent rings around the right wrist
   - a sun-faded tan line from a hat she rarely wears
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:chu-state
 desires:

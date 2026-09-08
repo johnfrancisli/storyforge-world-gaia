@@ -15,6 +15,12 @@ resources:
 - historical records of the fallen
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 Outside the outer palisade, on a windswept rise where the snow never fully melts and the ground is too frozen to dig more than two feet down, the Frozen Yard is [[location:val-northwatch|Northwatch]]'s graveyard—a field of low cairns and wooden markers, each bearing a name and a date, stretching in rows to the edge of the visible world. There are more graves than living inhabitants by a factor of three, and the oldest markers have worn smooth, their names lost to wind and time. The air is silent but for the moan of the wind and the crunch of snow underfoot, and the cold here is a different, heavier cold—the cold of absence. Each cairn is a soldier, a trapper, a settler, or a child who did not survive the winter or the things that come with it, and the knights of the Pale Vow are buried with their swords, the blades driven into the frozen ground as markers, so that they might be armed at the last muster. A shrine of stone and antler at the yard's center, tended by the chapter house's healer, holds candles that are never allowed to go out—a small, flickering defiance against the dark. The Frozen Yard is the first thing a new arrival to [[location:val-northwatch|Northwatch]] sees and the last thing a departing knight looks back at, and it is the truest measure of what the northern frontier costs.

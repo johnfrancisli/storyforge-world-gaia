@@ -71,7 +71,15 @@ visual:
   - a crescent-moon birthmark on the right palm, mirroring her grandmother's scar
   - incipient elongated canines
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ver-shaman-circle
 desires:

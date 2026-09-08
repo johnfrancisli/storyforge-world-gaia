@@ -60,7 +60,15 @@ visual:
   distinctive_features: a small knife-scar on her left index finger, permanently pale fingertips from
     handling bone and antler
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:hra-rune-guild
 desires:

@@ -20,6 +20,12 @@ next_possible_moves:
 resolution: null
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 A soul new to Gaia has arrived in the Heavenly Realm. [[character:the-guide|The Guide]] is waiting to help them choose a nation to begin in. The choice is real and permanent — once they walk down into one of the seven nations, they cannot come back to choose again.

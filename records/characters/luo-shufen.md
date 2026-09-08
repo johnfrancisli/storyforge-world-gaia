@@ -59,7 +59,15 @@ visual:
   - a cook's burn-scar on the right wrist
   - a small mole on the left jaw
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:great-academy
 desires:

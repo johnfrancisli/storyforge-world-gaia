@@ -67,7 +67,15 @@ visual:
   distinctive_features: wayfinder tattoos beginning on both forearms — only two routes, a shell star-compass
     carried on a cord around the neck, a three-day gap in memory she will not discuss
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:wayfinder-guilds
 desires:

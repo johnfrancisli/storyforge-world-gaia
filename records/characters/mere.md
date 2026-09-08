@@ -62,7 +62,15 @@ visual:
   distinctive_features: smoke-darkened staining on both hands and forearms, a cloth wrap always worn over
     the hair, keys to the storehouse worn on a cord around the neck
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:wayfinder-guilds
 desires:

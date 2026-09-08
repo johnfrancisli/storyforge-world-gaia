@@ -60,7 +60,15 @@ visual:
   eyes: dark brown, downcast by habit
   distinctive_features: a small mole at the corner of the left eye
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:takeda-clan
 desires:

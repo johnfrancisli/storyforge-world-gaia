@@ -61,7 +61,15 @@ visual:
   - deep calluses on the left-hand fingertips from oud strings
   - a faded scar on the right thumb from a snapped string
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:binding-families
 desires:

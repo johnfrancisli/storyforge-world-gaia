@@ -60,7 +60,15 @@ visual:
   distinctive_features: round spectacles, a leather satchel always over the shoulder, mosquito bites on
     both arms
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ver-river-consortium
 desires:

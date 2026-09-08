@@ -61,7 +61,15 @@ visual:
   - a thin scar on the right temple from a childhood fall he insists was an accident
   - hands that tremble slightly when he thinks no one is watching
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:binding-families
 desires:

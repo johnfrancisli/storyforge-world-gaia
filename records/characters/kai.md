@@ -55,7 +55,15 @@ visual:
   eyes: dark brown
   distinctive_features: tattoo patterns covering both arms — wayfinding route maps in geometric ink
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:wayfinder-guilds
 desires:

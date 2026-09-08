@@ -63,7 +63,15 @@ visual:
   - permanent grooves in both index fingers from palm-leaf fibers
   - a dark mole beneath the left ear
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ver-shaman-circle
 desires:

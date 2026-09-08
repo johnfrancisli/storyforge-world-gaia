@@ -82,7 +82,15 @@ visual:
   distinctive_features: pale rope scar circling her left forearm, black-wave shield emblem, weathered skin
   face: strong jaw, high cheekbones, wind-chapped lips
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:hra-raid-crews
 desires:

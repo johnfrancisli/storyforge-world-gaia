@@ -52,7 +52,15 @@ visual:
   eyes: dark brown, sharp
   distinctive_features: a thin scar along the jawline from an assassin's blade years ago
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:jin-state
 desires:

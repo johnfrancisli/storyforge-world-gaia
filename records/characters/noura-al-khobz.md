@@ -61,7 +61,15 @@ visual:
   - permanent flour dusting on the forearms and eyebrows
   - a heat-rash scar on the right hand from the oven mouth
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:binding-families
 desires:

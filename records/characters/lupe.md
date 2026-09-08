@@ -63,7 +63,15 @@ visual:
   distinctive_features: fire-poi always carried wrapped in fiber at the belt, a burn scar on the right
     forearm from a performance, dark circles under the eyes from sleepless nights
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:tide-island-council
 desires:

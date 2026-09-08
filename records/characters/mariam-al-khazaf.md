@@ -62,7 +62,15 @@ visual:
   - a pale clay-colored callus on the right thumb from wheel work
   - a kiln-burn scar on the left forearm
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:binding-families
 desires:

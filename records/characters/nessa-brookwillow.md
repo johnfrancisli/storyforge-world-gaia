@@ -54,7 +54,15 @@ visual:
   distinctive_features: a thread-callus on her right index finger, a port-wine birthmark on her left shoulder
     blade
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:val-thieves-guild
 desires:

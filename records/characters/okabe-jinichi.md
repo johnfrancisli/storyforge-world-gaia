@@ -60,7 +60,15 @@ visual:
   eyes: dark brown, gentle but guarded
   distinctive_features: old weapons-callus scarring on both hands, partially faded
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ashikara-shogunate
 desires:

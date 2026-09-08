@@ -56,7 +56,15 @@ visual:
   distinctive_features: a broken and healed nose, a prominent scar on her chin from a childhood fall,
     muscular arms from years of lifting children and supplies
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:dragon-order
 desires:

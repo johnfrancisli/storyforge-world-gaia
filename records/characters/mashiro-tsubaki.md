@@ -55,7 +55,15 @@ visual:
   eyes: dark brown
   distinctive_features: a pale clay-colored callus on the right thumb from years of wheel work
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:tsu-merchant-guild
 desires:

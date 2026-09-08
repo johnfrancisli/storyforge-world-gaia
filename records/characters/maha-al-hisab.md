@@ -62,7 +62,15 @@ visual:
   - a compass-point callus on the right thumb
   - ink stains on the left palm from pressing her notebook
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:alk-scholar-circle
 desires:

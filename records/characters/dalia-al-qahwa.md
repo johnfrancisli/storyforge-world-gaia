@@ -63,7 +63,15 @@ visual:
   - a coffee-stain birthmark on the left palm
   - a thin gold chain around the neck with a tiny lamp charm
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:alk-spice-houses
 desires:

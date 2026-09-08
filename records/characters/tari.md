@@ -60,7 +60,15 @@ visual:
   distinctive_features: unmarked arms — no pact-patterns yet, a faint blue glow around the fingertips
     when spirit-listening
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ver-river-consortium
 desires:

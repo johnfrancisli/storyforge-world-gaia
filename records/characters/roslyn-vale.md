@@ -54,7 +54,15 @@ visual:
   distinctive_features: a small mole below her left eye, ritual tattoos on her inner wrists (old fortune-teller
     tradition)
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:val-mages-circle
 desires:

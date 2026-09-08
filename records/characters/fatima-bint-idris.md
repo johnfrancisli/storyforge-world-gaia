@@ -62,7 +62,15 @@ visual:
   - a faint chemical burn scar on the left palm from handling raw asafoetida
   - a thin gold nose ring
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:alk-spice-houses
 desires:

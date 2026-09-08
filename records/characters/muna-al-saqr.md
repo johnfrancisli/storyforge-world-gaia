@@ -65,7 +65,15 @@ visual:
   - deep talon scars on both forearms, years of old punctures
   - a faint scar across the right eyebrow from a fledgling's beak
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:binding-families
 desires:

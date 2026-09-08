@@ -64,7 +64,15 @@ visual:
   - a healed claw-scar across the bridge of the nose
   - a permanent faint twitch — her head turns toward things no one else can sense
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ver-shaman-circle
 desires:

@@ -56,7 +56,15 @@ visual:
   distinctive_features: deeply lined face from decades of smiling, a large mole on her right temple, gentle
     but strong hands
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:val-mages-circle
 desires:

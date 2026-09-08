@@ -62,7 +62,15 @@ visual:
   distinctive_features: a white scar across her collarbone from a harpoon line that snapped, three teeth
     replaced with carved whalebone
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:hra-shipwright-brotherhood
 desires:

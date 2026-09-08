@@ -59,7 +59,15 @@ visual:
   - a Mizuhito river-tattoo of a water-serpent on the right forearm
   - a hook-scar on the left index finger
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:jin-state
 desires:

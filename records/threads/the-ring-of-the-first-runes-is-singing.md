@@ -19,6 +19,12 @@ organizations:
 - org:hra-volur-coven
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 [[location:hra-runarholm-stones|The Ring of the First Runes]], the oldest carved stones in [[location:hra-runarholm|Rúnarhólm]], has begun to emit a low humming tone on windless nights that the carvers' bothies can hear through their walls. Volva [[character:yrsa-fogborn|Yrsa Fogborn]], who came north to read the omen, has spent three nights at the ring and returned unable to speak above a whisper, writing that the runes are 'arguing with each other.' Rune carver [[character:haldur-blackrune|Haldur Blackrune]], summoned from [[location:hra-drekahofn|Drekahöfn]], has confirmed that two of the stones have altered their carvings overnight—marks no living hand cut. [[location:hra-runarholm-volva|The Fog-Mother's Hut]], the seat of the local volva, has begun attracting pilgrims from [[location:hra-eyrby|Eyrby]] who claim the humming cured an old injury.

@@ -27,6 +27,12 @@ next_possible_moves:
 resolution: null
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 In the Tide Archipelago, sea levels are rising. Islands are losing their shores. The voyagers are being pushed inward toward crowded volcanic islands. Wayfinder Kai has lost three routes this year and the sea spirits have gone silent when asked about the cause. In [[location:verdania|Verdania]], Shaman Nara's river spirit has sent a warning it does not fully understand — and the two problems may be connected.

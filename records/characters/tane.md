@@ -66,7 +66,15 @@ visual:
     woodworker's grip, a hidden cove he visits every day without explanation, dark intensity that has
     grown over the past six months
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:wayfinder-guilds
 desires:

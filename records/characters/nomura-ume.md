@@ -58,7 +58,15 @@ visual:
   eyes: dark brown, observant
   distinctive_features: a crooked nose from being kicked by a horse at fourteen
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:tsu-tea-schools
 desires:

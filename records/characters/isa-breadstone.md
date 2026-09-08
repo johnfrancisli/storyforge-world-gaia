@@ -64,7 +64,15 @@ visual:
   distinctive_features: flour-dust permanently in the creases of her hands, a small burn-scar on her right
     wrist from the bread-stone
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:hra-volur-coven
 desires:

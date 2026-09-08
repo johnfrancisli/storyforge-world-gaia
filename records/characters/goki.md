@@ -61,7 +61,15 @@ visual:
   eyes: amber, single-horn protruding from the forehead (usually hidden under a hat)
   distinctive_features: iron-grey skin, a single oni horn at the brow, tusks visible when he speaks
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ashikara-shogunate
 desires:

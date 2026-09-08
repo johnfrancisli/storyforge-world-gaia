@@ -57,7 +57,15 @@ visual:
   - a web of fine scars on the hands (old chi-training marks)
   - a barely visible, perfectly circular callus on each palm (cultivation seat-mark)
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:san-merchant-cartel
 desires:

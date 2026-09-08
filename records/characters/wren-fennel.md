@@ -59,7 +59,15 @@ visual:
   distinctive_features: a burn mark on her right palm (from carrying the box near a campfire), a faded
     bruise on her left temple, a threadbare scarf worn in all weather
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:val-mages-circle
 desires:

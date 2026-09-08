@@ -58,7 +58,15 @@ visual:
   distinctive_features: a honey-bee tattoo on her left shoulder (brewer's guild mark), a faint scar on
     her right lip (bee-sting allergy reaction from her youth), permanently honey-stained fingernails
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:val-merchant-guild
 desires:

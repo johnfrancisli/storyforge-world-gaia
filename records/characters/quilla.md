@@ -64,7 +64,15 @@ visual:
   - fine scales faintly visible on the cheekbones and ears
   - hollow-boned lightness to her step
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ver-shaman-circle
 desires:

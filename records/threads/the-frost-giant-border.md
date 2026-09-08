@@ -23,6 +23,12 @@ next_possible_moves:
 resolution: null
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 In [[location:hrafnland|Hrafnland]], Jarl Sigrid believes the frost giants of the deep mountains are preparing to expand southward. She has been quietly building a coalition of jarls who want to push the giants back. The Althing will not authorize action without proof, and proof requires scouting territory no scout has returned from. Her coalition is not as unified as she presents it.

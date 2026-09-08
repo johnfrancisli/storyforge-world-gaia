@@ -68,7 +68,15 @@ visual:
     a coil of cord always in his lap, fingers that tie and untie complex knots absently, a quality of
     watchfulness toward the sea that goes beyond normal islander caution
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:tide-island-council
 desires:

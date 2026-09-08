@@ -9,6 +9,12 @@ holdings:
 - location:hra-drekahofn-prows
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 The loose confederation of raiding crews who crew the longships for the summer voyages south, flocking to the raid captain Astrid Blacktide and the navigator [[character:maren-saltgrief|Maren Saltgrief]] at the Raven Quay. The crews flock to Jarl Erik's promise of rich southern raids, but Astrid remembers the voyage that cost half a crew, and to the young raiders the jarls' caution looks like cowardice. The crews want a profitable, low-casualty raiding season with a lawful share of the spoils.

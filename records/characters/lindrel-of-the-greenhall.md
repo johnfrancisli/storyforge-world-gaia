@@ -59,7 +59,15 @@ visual:
   eyes: deep green
   distinctive_features: long sharply pointed ears, a staff of living wood that buds in season
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:dragon-order
 desires:

@@ -7,6 +7,12 @@ terrain: persistent unnatural fog band, cedar-and-salt smell, disorienting visib
 resources: []
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 A persistent band of thick fog that sits across the strait for reasons no one can explain. It is not natural. Ships that enter it lose sight of everything, including each other. Some come out the other side. Some do not. The fog smells like cedar and salt and something older.

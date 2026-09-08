@@ -64,7 +64,15 @@ visual:
   distinctive_features: a healed reef-cut scar across the left foot, a woven palm hat worn at all times
     outdoors, a fishing spear callus on the right palm
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:wayfinder-guilds
 desires:

@@ -57,7 +57,15 @@ visual:
   distinctive_features: a burn-scar pattern on her left shoulder (dragon-bond mark, resembles scales),
     a broken nose that healed slightly crooked
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:dragon-order
 desires:

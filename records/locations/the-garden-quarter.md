@@ -16,6 +16,12 @@ resources:
 - jasmine
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 The Garden Quarter is the residential heart of the permanent city of Qadira, the old settlement of the oasis families that lies between the lake and the desert gate, a maze of narrow lanes shaded by the fronds of date-palms and the awnings of the houses, where the mud-brick walls are white-washed and hung with jasmine and climbing rose and the air smells of green water, blossom, and the cool earth of the gardens. Each house opens onto a small inner courtyard with a citrus tree, a small fountain, and a kitchen-garden of herbs and vegetables, and the lanes between them are so narrow that neighbours can talk from window to window across the gap. It is a quiet quarter, peopled by the old families who have lived by the oasis for generations, and the women move freely between the courtyards visiting and sharing the work of the date-harvest and the preparation of the date-wine and the rose-attar that the oasis exports. At the quarter's heart stands the Date Press, a great stone building where the dates are pressed into the dense sweet cakes that keep for years on the road, and where the old men gather in the shade to play stones and gossip.

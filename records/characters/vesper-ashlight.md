@@ -62,7 +62,15 @@ visual:
   distinctive_features: permanent talon scars on her left forearm (falconer's marks), a burn scar on her
     right cheek (a spark from a campfire), a calm stillness in her gaze that unsettles some people
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:val-mages-circle
 desires:

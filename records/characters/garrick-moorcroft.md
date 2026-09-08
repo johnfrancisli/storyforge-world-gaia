@@ -58,7 +58,15 @@ visual:
   eyes: grey-green
   distinctive_features: a wolf-pelt cloak, a scar across the throat from a near-hanging
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:val-merchant-guild
 desires:

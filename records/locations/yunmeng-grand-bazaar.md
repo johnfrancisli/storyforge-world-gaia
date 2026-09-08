@@ -15,6 +15,12 @@ resources:
 - precious metals
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 The commercial heart of [[location:san-silkroad-city|Yunmeng]] is a sprawling covered market where the goods of the known world are gathered under a single roof of timber and tile. Aisles are organized by commodity—spice merchants in one quarter, gem-cutters in another, textile traders in a third—but the boundaries blur where merchants sell mixed cargoes from a single caravan. The noise is overwhelming: the clink of scales, the rhythmic call of auctioneers, the haggling in five languages at once. Lamps of colored glass cast strange light over displays of rubies and lapis, and the air shifts from the warmth of cumin to the sweetness of dried fruit to the sharpness of indigo dye as you walk from aisle to aisle. Fortunes are made and lost here in a single day's trading.

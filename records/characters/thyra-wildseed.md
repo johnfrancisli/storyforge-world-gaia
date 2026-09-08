@@ -62,7 +62,15 @@ visual:
   distinctive_features: a thrall's iron band on her left wrist (engraved with Sigrid's mark), a faded
     scar on her right forearm from a childhood injury before her capture
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:hra-jarl-council
 desires:

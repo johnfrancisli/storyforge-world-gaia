@@ -54,7 +54,15 @@ visual:
   distinctive_features: a small but precise scar on her left eyebrow, healer's ink-mark on her right wrist
     (professional guild mark)
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:val-mages-circle
 desires:

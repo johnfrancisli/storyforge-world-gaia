@@ -60,7 +60,15 @@ visual:
   distinctive_features: always wears a white Noh mask in public; the mask's expression seems to shift
     subtly when observed
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ashikara-shogunate
 desires:

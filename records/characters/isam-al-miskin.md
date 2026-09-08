@@ -63,7 +63,15 @@ visual:
   - permanent ink stains on the right index and middle fingers — a scribe's legacy
   - a faded burn mark on the left palm where the al-Sayf family symbol was branded when he was dismissed
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:alk-scholar-circle
 desires:

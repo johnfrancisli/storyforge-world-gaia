@@ -54,4 +54,10 @@ history:
     summary_after: He treats Malik as a dangerous equal he cannot publicly acknowledge.
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---

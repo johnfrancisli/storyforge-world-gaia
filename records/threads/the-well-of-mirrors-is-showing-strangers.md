@@ -21,6 +21,12 @@ organizations:
 - org:binding-families
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 [[location:alk-qadira-wellofmirrors|The Well of Mirrors]] in Qadira, a scrying-well traditionally used by the oasis-keepers to read the water-table, has begun showing the faces of people who are not in Qadira—some of them dead, some of them never seen before. Oasis keeper [[character:layla-al-waha|Layla al-Waha]], who tends the well, has covered it with a pall and refused to let anyone drink, claiming the water 'remembers faces that have not yet arrived.' Water finder [[character:amira-al-main|Amira al-Ma'in]], who dowses for the Garden Quarter's irrigation, has found that the well's water now reads as if it comes from two sources at once. [[location:alk-qadira-dunerest|The Dune Rest Caravanserai]] has reported an unusual number of travelers arriving who match the faces the well has shown.

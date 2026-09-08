@@ -64,7 +64,15 @@ visual:
   - a silver star earring in the left ear
   - ink stains on the right cuff from chart work
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:alk-scholar-circle
 desires:

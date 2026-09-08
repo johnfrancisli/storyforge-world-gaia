@@ -15,6 +15,12 @@ resources:
 - sanctuary
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 The Mosque of the Binding is the chief mosque and the spiritual heart of [[location:zaffar|Zaffar]], a great domed building of pale stone at the city's high point, its dome sheathed in turquoise tile and its minaret slender and white against the sky, from which the muezzin calls the five prayers over the whole city. It is dedicated not only to prayer but to the binding of djinn — the central fact of [[location:al-khayzar|Al-Khayzar]]'s religion and magic — for it is here that the binding-families, the great houses that hold contracts with the djinn, come to renew their pacts, register new bindings, and seek the binding-judges' rulings in disputes over the terms of a contract. Within, the prayer-hall is vast and cool, its floor covered in woven prayer-rugs, its walls inscribed with the verses of the old binding-texts and the names of the bound djinn in flowing calligraphy, and the qibla wall holds a great bronze plaque said to be a fragment of the first binding-contract ever written. Behind the prayer-hall lies the Binding Court, a marble chamber where the binding-judges sit in black robes, and where djinn in human form — summoned by the families — may be required to appear to answer for breach of contract. The air smells of incense, rosewater, and the faint ozone-tang that marks the presence of the bound.

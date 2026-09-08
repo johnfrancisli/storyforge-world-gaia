@@ -56,7 +56,15 @@ visual:
   - a small crescent scar on the left wrist
   - a beauty mark beneath the right eye
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:jin-state
 desires:

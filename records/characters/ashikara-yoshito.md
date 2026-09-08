@@ -56,7 +56,15 @@ visual:
   eyes: dark brown, sharp despite age
   distinctive_features: liver spots on the hands, a formal court fan always carried
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ashikara-shogunate
 desires:

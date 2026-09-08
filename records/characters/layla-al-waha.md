@@ -61,7 +61,15 @@ visual:
   - deep tan lines across the forehead from years of wearing a palm hat
   - a missing left little finger, lost to a desert viper bite years ago
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:alk-spice-houses
 desires:

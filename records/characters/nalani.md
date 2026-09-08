@@ -62,7 +62,15 @@ visual:
   distinctive_features: permanently green-stained fingertips from herb work, a medicine pouch of woven
     fiber at the belt, a calm steadiness of gaze that unsettles liars
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:tide-island-council
 desires:

@@ -61,7 +61,15 @@ visual:
   - a star-shaped scar on the left wrist from a hot astrolabe
   - permanently dark-circled eyes from years of night work
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:binding-families
 desires:

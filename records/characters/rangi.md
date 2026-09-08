@@ -64,7 +64,15 @@ visual:
     at a distance, three carved stone fragments kept hidden in a waterproof pouch, a deep-water canoe
     always loaded and ready
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:tide-tattoo-guild
 desires:

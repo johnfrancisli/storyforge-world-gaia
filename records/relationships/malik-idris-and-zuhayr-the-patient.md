@@ -68,4 +68,10 @@ history:
     summary_after: He wants Malik to become a willing partner rather than a resentful servant.
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---

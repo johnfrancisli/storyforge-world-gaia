@@ -60,7 +60,15 @@ visual:
   - jade-dust stains in the cuticles
   - a faint white scar on the right thumb from a carving slip
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:san-merchant-cartel
 desires:

@@ -56,7 +56,15 @@ visual:
   distinctive_features: a sacred flame tattoo on her right wrist (ordination mark), a faint scar on her
     left hand from a candle-burn during her initiation rite
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:dragon-order
 desires:

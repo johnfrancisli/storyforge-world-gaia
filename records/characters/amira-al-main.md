@@ -62,7 +62,15 @@ visual:
   - deeply callused, cracked soles visible when she sits
   - a geometric tattoo on the right ankle, a water-finder's clan mark
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:alk-spice-houses
 desires:

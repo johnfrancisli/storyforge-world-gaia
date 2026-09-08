@@ -61,7 +61,15 @@ visual:
   - a faded bite scar on the right forearm from a panicked patient
   - perpetually clean, short-bitten nails
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ver-canopy-council
 desires:

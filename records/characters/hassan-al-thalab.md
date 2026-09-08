@@ -64,7 +64,15 @@ visual:
   - a snake-bite scar on the right hand, puckered and old
   - the bone flute itself, yellowed and carved with symbols no one recognizes
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:alk-city-guard
 desires:

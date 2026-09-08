@@ -63,7 +63,15 @@ visual:
   - river-clay camouflage staining that never fully washes from the skin
   - a bowstring callus on the right index and middle fingers
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ver-hunter-clans
 desires:

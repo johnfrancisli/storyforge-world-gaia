@@ -64,7 +64,15 @@ visual:
   - fine scales on the face and neck
   - hollow-boned lightness
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ver-hunter-clans
 desires:

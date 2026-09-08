@@ -11,6 +11,12 @@ holdings:
 - location:hra-hvalhofn-boatsheds
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 The brotherhood of master shipwrights who build the longships at the [[location:hra-drekahofn|Drekahöfn]] shipyards, where [[character:tor-longkeel|Tor Longkeel]], [[character:bjorn-keelwright|Bjorn Keelwright]], and [[character:greta-keelson|Greta Keelson]] lay the keels of the fleet. The brotherhood is sworn to build only for jarls who honor the old oaths, yet Jarl Erik's raiders offer double pay for war-ships while High Jarl Sigrid wants the fleet for defense, not raids. The brotherhood wants to keep the shipyards independent of any single jarl and preserve the longship-building secrets for the whole folk.

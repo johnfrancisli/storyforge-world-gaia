@@ -58,7 +58,15 @@ visual:
   - a faint blue-tinged birthmark on the left collarbone shaped like a musical note
   - flute-callus on the lower lip
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:great-academy
 desires:

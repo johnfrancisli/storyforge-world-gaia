@@ -8,6 +8,12 @@ terrain: caravanserai, deep well, shaded arcades, camel stable
 resources: []
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 A caravanserai at the [[location:al-khayzar|Al-Khayzar]] end, with a deep well, shaded arcades, and a stable for camels. The toll collector here is said to take a personal cut on top of the official rate.

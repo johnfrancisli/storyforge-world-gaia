@@ -62,7 +62,15 @@ visual:
   distinctive_features: seidr-ritual scars in concentric rings on both inner wrists, a missing left eye
     (empty socket covered by a patch of dark leather)
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:hra-volur-coven
 desires:

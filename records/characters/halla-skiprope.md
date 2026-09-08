@@ -60,7 +60,15 @@ visual:
   eyes: dark grey, watchful
   distinctive_features: rope-burn scars on both palms, a chipped right tooth from a boom-swing
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:hra-shipwright-brotherhood
 desires:

@@ -59,7 +59,15 @@ visual:
   - a physician's chi-sense callus on both index fingertips
   - a faint scar on the left thumb from a dissection accident
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:great-academy
 desires:

@@ -60,7 +60,15 @@ visual:
   - a dancer's callus on the balls of both feet
   - a tiny, faded scar on the left jaw from a childhood fall
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:chu-state
 desires:

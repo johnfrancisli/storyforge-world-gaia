@@ -9,6 +9,12 @@ holdings:
 - location:tsu-kawazaki-tea-quarter
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 The tea ceremony schools that train chajin and host the quiet, off-battlefield diplomacy of the realm, with tea teacher Satsuki and tea-house owner [[character:hanako|Hanako]] among their most visible figures. The schools vie to be named the shogunate's official house style, and their tea houses serve as neutral ground where even Ashikara and Takeda emissaries can meet without drawing steel. The schools want to secure court patronage while preserving the tea house as a sanctuary where clan negotiations can happen in peace.

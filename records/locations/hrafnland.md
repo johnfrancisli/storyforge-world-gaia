@@ -12,6 +12,12 @@ resources:
 - runestones
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 A land of fjords, longships, sea-sagas, and the long dark of winter. No king — each fjord is ruled by a jarl, and the jarls meet once a year at the Althing to settle disputes and make laws. Traders, raiders, and storytellers who believe a life worth living is one worth singing about. Frost giants live in the deep mountains and are best left alone. Cold, salt, wood-smoke, the creak of a longship, aurora over black water.

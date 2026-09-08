@@ -60,7 +60,15 @@ visual:
   distinctive_features: a judge's signet ring on the right index finger, ink stains on the left hand,
     a small scar on the forehead from a courtroom incident years ago
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:binding-families
 desires:

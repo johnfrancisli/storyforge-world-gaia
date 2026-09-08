@@ -64,7 +64,15 @@ visual:
   - a dueling scar on the left jaw from a training accident
   - the al-Sayf sword sigil tattooed on the inside of the right wrist
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:binding-families
 desires:

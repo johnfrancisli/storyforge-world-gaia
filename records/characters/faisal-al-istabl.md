@@ -62,7 +62,15 @@ visual:
   - extensive burn scarring on the left arm and shoulder from the djinn-fire ambush
   - a permanent tremor in the left hand
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:binding-families
 desires:

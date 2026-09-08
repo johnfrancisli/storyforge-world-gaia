@@ -61,7 +61,15 @@ visual:
   distinctive_features: a rope-scar around the right wrist and a permanently crooked left ring finger
     from a net accident
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ashikara-shogunate
 desires:

@@ -10,6 +10,12 @@ holdings:
 - location:alk-naqd-stoneseat
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 The city guard that keeps order in the oasis-cities, headquartered at the Warden's Keep in Khalesh, where the night watchwoman [[character:kawthar-al-haras|Kawthar al-Haras]] walks the streets and Judge [[character:tariq-al-mir|Tariq al-Mir]] adjudicates by the Pact and contract law. The guard is meant to be neutral, yet the binding families and spice houses both bribe its captains, and Kawthar — having uncovered the corruption — is torn between exposing it and keeping her post. The guard wants to establish an independent, unbribable watch with real authority over binding-family disputes, even over djincraft it cannot fully understand.

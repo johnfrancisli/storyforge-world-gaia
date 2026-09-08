@@ -61,7 +61,15 @@ visual:
   - permanent blue staining from fingertips to elbows on both arms
   - a chemical burn scar on the right hand from mordant work
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:binding-families
 desires:

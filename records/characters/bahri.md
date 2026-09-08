@@ -64,7 +64,15 @@ visual:
   - long whiskers on both sides of the nose
   - webbed fingers and toes with short claws
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ver-river-consortium
 desires:

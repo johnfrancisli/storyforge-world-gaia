@@ -52,7 +52,15 @@ visual:
   eyes: dark, patient
   distinctive_features: a faint mark on the left palm, like an old scar in the shape of a road
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations: []
 desires:
 - To help arriving souls choose a nation to begin in, and to do this work well.

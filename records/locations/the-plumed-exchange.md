@@ -15,6 +15,12 @@ resources:
 - clay beads
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 The Plumed Exchange is the great market of [[location:ver-altacanopy|Alta Canopy]], spread across a cluster of broad platforms linked by short plank runs where traders from across the canopy gather to barter. Stalls are woven baskets and palm-leaf mats laid out on the wood, heaped with brilliant feathers, cured pelts, bark-cloth dyed in every colour the forest offers, clay beads, blowgun darts tipped with curare, medicinal barks bundled with twine, fermented honeys in gourds, and smoked fish brought up from the river cities. The noise is constant — haggling in three or four tongues, the clatter of bead-counters, a pan-pipe player working for scraps. The smell shifts every few steps: sweet honey, sharp resin, musky pelts, charred meat on a clay grill. Spider-silk weavers demonstrate their work on small looms hung between branches, and a money-lender carved from a single block of red wood sits in the centre where deals are sworn. Foreign traders from [[location:iara|Iara]] and [[location:ver-cascadeexchange|Cascade Exchange]] come here by climbing the great trees, and they are easy to spot by their calloused hands and wary eyes.

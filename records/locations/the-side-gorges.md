@@ -8,6 +8,12 @@ terrain: maze of narrow side-canyons, hidden springs, red strange light
 resources: []
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 A maze of narrow side-canyons that branch off the main pass. Some lead to hidden springs. Some lead to bandit camps. Some lead nowhere. The light inside is red and strange.

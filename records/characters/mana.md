@@ -62,7 +62,15 @@ visual:
   distinctive_features: tattoo patterns covering both arms — twenty routes, three faded where islands
     have submerged, a bone tattooing needle always in hand or behind the ear
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:wayfinder-guilds
 desires:

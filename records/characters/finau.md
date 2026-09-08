@@ -64,7 +64,15 @@ visual:
   distinctive_features: rope-burn calluses on both palms, a coil of cord always carried over the left
     shoulder, fingers that unconsciously tie and untie knots during conversation
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:wayfinder-guilds
 desires:

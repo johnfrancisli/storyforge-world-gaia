@@ -14,6 +14,12 @@ resources:
 - travel permits
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 The southern entrance to Jin-an and the city's most imposing fortification, the Great Vermilion Gate is a triple-arched gateway of red-painted timber and white stone flanked by towers that rise above the city walls. The central arch is reserved for the warlord and imperial processions, while the flanking arches handle inbound and outbound traffic in separate streams controlled by gate guards who inspect every traveler and collect entry tolls. The gate towers house a permanent garrison, signal drums that can alert the palace in minutes, and pigeon lofts whose birds carry messages to frontier posts. The plaza before the gate is a gathering place for travelers, porters, and petitioners awaiting entry, and the smell of road dust, horse sweat, and cooking fires from the camp followers who cluster here mingles with the paint-and-stone scent of the gate itself.

@@ -54,7 +54,15 @@ visual:
   eyes: amber
   distinctive_features: large dark folded wings, pronounced tengu nose, sharp avian features
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ashikara-shogunate
 desires:

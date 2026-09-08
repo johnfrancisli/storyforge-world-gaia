@@ -8,6 +8,12 @@ terrain: observation post, southernmost rock, two-soldier garrison
 resources: []
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 A Valdrian observation post on the southernmost rock, manned by two soldiers on six-month rotations. They watch for raiders. They go a little mad by month four.

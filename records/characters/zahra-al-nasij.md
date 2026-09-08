@@ -63,7 +63,15 @@ visual:
   - weaver's calluses on both thumbs and index fingers
   - a faded dye-stain on the left wrist in the shape of a crescent
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:binding-families
 desires:

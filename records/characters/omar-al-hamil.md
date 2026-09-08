@@ -64,7 +64,15 @@ visual:
   - a callus ridge across both shoulders from years of carrying crates
   - permanent charcoal staining on the right hand and fingertips
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:alk-spice-houses
 desires:

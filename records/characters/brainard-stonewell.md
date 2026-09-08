@@ -58,7 +58,15 @@ visual:
   distinctive_features: a watchman's tattoo (the city crest) on his left forearm, a crooked nose (broken
     in a bar fight during his first year), a small scar on his right eyebrow
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:val-merchant-guild
 desires:

@@ -63,7 +63,15 @@ visual:
   - a burn-scar patch on the right forearm from a cookfire accident
   - perpetual smudges of ash and spice on the hands and forearms
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ver-river-consortium
 desires:

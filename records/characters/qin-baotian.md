@@ -57,7 +57,15 @@ visual:
   - a war-halberd scar across the right palm
   - a gold victory medal tattooed on the left forearm (Jin military tradition)
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:jin-state
 desires:

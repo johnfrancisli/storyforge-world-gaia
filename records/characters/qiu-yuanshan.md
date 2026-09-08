@@ -59,7 +59,15 @@ visual:
   - left hand missing, wrist capped in leather
   - a network of battle scars across the chest and back (visible when sleeves roll)
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:jin-state
 desires:

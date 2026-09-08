@@ -19,6 +19,12 @@ organizations:
 - org:ashikara-shogunate
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 Three scouts sent from the [[location:tsu-kitagoe-scout-hall|Kitagoe Scout Hall]] to map the northern passes beyond the keep have vanished within a season of each other, each disappearing within sight of the border shrine. The last to go missing was a veteran who carved a single warning mark into the gate-shrine's torii before she was lost. Guard captain Daichi, dispatched from the shogunal palace to assess, suspects desertion; the shrine's keeper, Miko Sora, insists the mark is an old ward-sign meaning 'something old has woken.' Meanwhile the [[location:tsu-kitagoe-forge|Kitagoe Forge]] has begun refusing to shoe horses headed north.

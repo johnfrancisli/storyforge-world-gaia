@@ -64,7 +64,15 @@ visual:
   - permanent ink staining on the right index and middle fingers
   - a callus on the right middle finger from years of reed pen grip
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:alk-scholar-circle
 desires:

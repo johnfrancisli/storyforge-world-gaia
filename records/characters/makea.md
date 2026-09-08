@@ -67,7 +67,15 @@ visual:
     a guard's staff carried with a wayfinder's grip, a flinch when the wind comes off the sea that most
     people read as squinting
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:wayfinder-guilds
 desires:

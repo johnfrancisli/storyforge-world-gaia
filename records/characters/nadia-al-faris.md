@@ -61,7 +61,15 @@ visual:
   - a thin scar across the throat from a childhood illness
   - the al-Faris lamp sigil tattooed on the inside of her left wrist
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:binding-families
 desires:

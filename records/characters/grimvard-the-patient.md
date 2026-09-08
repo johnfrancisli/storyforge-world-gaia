@@ -56,7 +56,15 @@ visual:
   eyes: pale blue, ancient
   distinctive_features: ritual scarring on both cheeks, frost crystals in the beard that never melt
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:hra-jarl-council
 desires:

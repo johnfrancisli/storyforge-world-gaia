@@ -56,7 +56,15 @@ visual:
   distinctive_features: a flour dusting that never quite leaves her apron, laugh lines deep around the
     eyes
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:val-merchant-guild
 desires:

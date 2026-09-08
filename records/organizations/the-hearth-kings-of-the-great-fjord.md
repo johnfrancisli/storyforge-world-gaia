@@ -10,6 +10,12 @@ holdings:
 - location:skaldvik
 visual:
   prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 A confederation of clan jarls from the major fjords, bound by oaths of mutual defense and joint maritime expeditions. The Hearth-Kings are not a government -- they are a pact, renewed every year at the Althing. In practice, the pact holds when the raiding is good and frays when the winter is long. The current pact is fraying. Jarl Sigrid of [[location:hra-eyrby|Eyrby]] and Jarl Erik of the southern fjords are the two strongest voices, and they disagree on everything except that [[location:hrafnland|Hrafnland]] should not have a single king.

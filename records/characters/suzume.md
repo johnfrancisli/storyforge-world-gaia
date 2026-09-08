@@ -57,7 +57,15 @@ visual:
   eyes: amber, sharp
   distinctive_features: feathers along the temples (hidden by a head wrap) and slightly talon-like nails
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:ashikara-shogunate
 desires:

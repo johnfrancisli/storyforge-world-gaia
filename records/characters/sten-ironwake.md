@@ -59,7 +59,15 @@ visual:
   distinctive_features: a forge-burn scar across the back of his left hand, a missing tip of his right
     index finger (chisel-slip, early in his career)
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:hra-rune-guild
 desires:

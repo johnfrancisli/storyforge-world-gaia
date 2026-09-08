@@ -60,7 +60,15 @@ visual:
   distinctive_features: frost-scar on her right cheek, a crooked nose (broken and healed), a bow-callus
     on her left fingers
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:hra-jarl-council
 desires:

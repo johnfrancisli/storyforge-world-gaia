@@ -64,7 +64,15 @@ visual:
     at all times, bone-carving tools worn in a roll at the belt, a quality of treating every object she
     handles as if it were sacred
   prompt: ''
-portrait_variations: []
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+    - name: neutral
+      backgroundRemovedUrl: ''
 affiliations:
 - org:tide-refugee-council
 desires:
