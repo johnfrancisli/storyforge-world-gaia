@@ -49,13 +49,13 @@ biography: Born into a long line of garden-keepers, Afaf grew up learning the su
   a duty bound by an ancient djinn contract. The discovery of a hidden clay tablet beneath the oldest
   planter box has thrown her quiet life into a quiet turmoil, forcing her to confront the political power
   hoarding of the founding families.
-personality: Calm, patient, and deeply thoughtful, Afaf tends to both her plants and her secrets with meticulous
-  care. She carries an air of quiet rebellion beneath her gentle exterior, weighing the profound implications
-  of the power she might unleash.
+personality: Calm, patient, and deeply thoughtful, Afaf tends to both her plants and her secrets with
+  meticulous care. She carries an air of quiet rebellion beneath her gentle exterior, weighing the profound
+  implications of the power she might unleash.
 key_phrases:
-- "The earth remembers old promises."
-- "Even the desert yields to water, in time."
-- "There are secrets buried deeper than roots."
+- The earth remembers old promises.
+- Even the desert yields to water, in time.
+- There are secrets buried deeper than roots.
 visual:
   body_build: fit, strong from garden work, small breasts
   hair: dark brown, long, always with leaves caught in it
@@ -64,16 +64,68 @@ visual:
   - green-stained fingertips from plant work
   - a faint watering-can-shaped burn scar on the left wrist from steam
   face: gentle, symmetrical features, natural earthy beauty
-  prompt: ''
+  prompt: 1girl, solo, adult woman, human, fit build, soft green eyes, green-stained fingertips, gentle
+    symmetrical features, wearing loose earth-stained gardener's robes, kneeling among plants, holding
+    small gardening tool, garden background, ferns and lilies visible, morning light filtering through
+    dust, dirt under fingernails
 image:
-  url: ''
-  focalPoint:
-    x: 0.5
-    y: 0.1
-  seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
+  gallery: []
+  portrait:
+    url: assets/images/characters/afaf-al-ashab.png
+    focalPoint:
+      x: 0.479
+      y: 0.297
+    seed: 18998760
+    promptUsed: 1girl, solo, adult woman, human, fit build, soft green eyes, green-stained fingertips,
+      gentle symmetrical features, wearing loose earth-stained gardener's robes, kneeling among plants,
+      holding small gardening tool, ferns and lilies visible, morning light filtering through dust, dirt
+      under fingernails, standing, looking at viewer, character portrait, readable face, neutral full
+      body pose, simple background, head in the upper third of the frame, subject centered horizontally,
+      face unobstructed, masterpiece, best quality, very aesthetic, watercolor \(medium\), traditional
+      media, ink, ink lineart, painterly, semi-realistic, sketchy lineart, delicate lineart, variable
+      line weight, loose brushwork, textured shading, watercolor wash, soft shading, soft gradients, muted
+      colors, desaturated colors, restrained saturation, warm palette, earthy colors, matte colors, soft
+      lighting, diffused lighting, atmospheric perspective, atmospheric haze, soft background, painterly
+      background, ethereal, airy, elegant fantasy illustration
+    negativePrompt: worst quality, low quality, lowres, 3d, cgi, photorealistic, photo, cel shading, hard
+      cel shading, flat coloring, vector art, thick lineart, uniform lineart, airbrush, overly smooth,
+      overly polished, plastic skin, glossy skin, shiny skin, glossy leather, latex, oversaturated, neon
+      colors, bloom, lens flare, strong rim light, game render, anime screencap, gacha illustration, border,
+      frame, text, watermark, logo, signature
+    generationId: f0ad1bb5-cf78-4d42-b2f9-86701247e6ea
+    size:
+    - 832
+    - 1216
+    template: character-portrait
+    profile: oneobsession-v23
+    recipe:
+      template: character-portrait
+    requestPayload:
+      prompt: 1girl, solo, adult woman, human, fit build, soft green eyes, green-stained fingertips, gentle
+        symmetrical features, wearing loose earth-stained gardener's robes, kneeling among plants, holding
+        small gardening tool, ferns and lilies visible, morning light filtering through dust, dirt under
+        fingernails, standing, looking at viewer, character portrait, readable face, neutral full body
+        pose, simple background, head in the upper third of the frame, subject centered horizontally,
+        face unobstructed, masterpiece, best quality, very aesthetic, watercolor \(medium\), traditional
+        media, ink, ink lineart, painterly, semi-realistic, sketchy lineart, delicate lineart, variable
+        line weight, loose brushwork, textured shading, watercolor wash, soft shading, soft gradients,
+        muted colors, desaturated colors, restrained saturation, warm palette, earthy colors, matte colors,
+        soft lighting, diffused lighting, atmospheric perspective, atmospheric haze, soft background,
+        painterly background, ethereal, airy, elegant fantasy illustration
+      seed: 18998760
+      face_fix: true
+      negative_prompt: worst quality, low quality, lowres, 3d, cgi, photorealistic, photo, cel shading,
+        hard cel shading, flat coloring, vector art, thick lineart, uniform lineart, airbrush, overly
+        smooth, overly polished, plastic skin, glossy skin, shiny skin, glossy leather, latex, oversaturated,
+        neon colors, bloom, lens flare, strong rim light, game render, anime screencap, gacha illustration,
+        border, frame, text, watermark, logo, signature
+      width: 832
+      height: 1216
+    generatedAt: '2026-09-08T04:35:23Z'
+  url: ''
 affiliations:
 - org:alk-scholar-circle
 desires:

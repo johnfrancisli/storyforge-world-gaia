@@ -51,16 +51,62 @@ visual:
   hair: black, long, tied back with a white ribbon
   eyes: brown
   distinctive_features: a small burn scar on her right wrist from a mishandled ofuda
-  prompt: ''
+  prompt: 1girl, solo, adult woman, human, slight build, brown eyes, red hakama pants, focused solemn
+    expression, soft candlelight illumination from side, dust motes in air, quiet reverent atmosphere
 image:
-  url: ''
+  url: assets/images/characters/amemiya-sora.background.png
   focalPoint:
     x: 0.5
     y: 0.1
-  seed: null
+  seed: 10235485
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
+  promptUsed: 1girl, solo, adult woman, human, slight build, brown eyes, red hakama pants, focused solemn
+    expression, soft candlelight illumination from side, dust motes in air, quiet reverent atmosphere,
+    wide environmental character scene, full setting visible, cinematic composition, character scene illustration,
+    readable character, detailed setting, wide cinematic composition, horizontal framing, subject and
+    action inside the central horizontal band, masterpiece, best quality, very aesthetic, watercolor \(medium\),
+    traditional media, ink, ink lineart, painterly, semi-realistic, sketchy lineart, delicate lineart,
+    variable line weight, loose brushwork, textured shading, watercolor wash, soft shading, soft gradients,
+    muted colors, desaturated colors, restrained saturation, warm palette, earthy colors, matte colors,
+    soft lighting, diffused lighting, atmospheric perspective, atmospheric haze, soft background, painterly
+    background, ethereal, airy, elegant fantasy illustration
+  negativePrompt: worst quality, low quality, lowres, 3d, cgi, photorealistic, photo, cel shading, hard
+    cel shading, flat coloring, vector art, thick lineart, uniform lineart, airbrush, overly smooth, overly
+    polished, plastic skin, glossy skin, shiny skin, glossy leather, latex, oversaturated, neon colors,
+    bloom, lens flare, strong rim light, game render, anime screencap, gacha illustration, border, frame,
+    text, watermark, logo, signature
+  generationId: d1cd7003-f096-4f7e-9556-e5ae6e033147
+  size:
+  - 1216
+  - 832
+  template: character-background
+  profile: oneobsession-v23
+  recipe:
+    template: character-background
+  requestPayload:
+    prompt: 1girl, solo, adult woman, human, slight build, brown eyes, red hakama pants, focused solemn
+      expression, soft candlelight illumination from side, dust motes in air, quiet reverent atmosphere,
+      wide environmental character scene, full setting visible, cinematic composition, character scene
+      illustration, readable character, detailed setting, wide cinematic composition, horizontal framing,
+      subject and action inside the central horizontal band, masterpiece, best quality, very aesthetic,
+      watercolor \(medium\), traditional media, ink, ink lineart, painterly, semi-realistic, sketchy lineart,
+      delicate lineart, variable line weight, loose brushwork, textured shading, watercolor wash, soft
+      shading, soft gradients, muted colors, desaturated colors, restrained saturation, warm palette,
+      earthy colors, matte colors, soft lighting, diffused lighting, atmospheric perspective, atmospheric
+      haze, soft background, painterly background, ethereal, airy, elegant fantasy illustration
+    seed: 10235485
+    face_fix: true
+    negative_prompt: worst quality, low quality, lowres, 3d, cgi, photorealistic, photo, cel shading,
+      hard cel shading, flat coloring, vector art, thick lineart, uniform lineart, airbrush, overly smooth,
+      overly polished, plastic skin, glossy skin, shiny skin, glossy leather, latex, oversaturated, neon
+      colors, bloom, lens flare, strong rim light, game render, anime screencap, gacha illustration, border,
+      frame, text, watermark, logo, signature
+    width: 1216
+    height: 832
+  generatedAt: '2026-09-08T13:29:15Z'
+  gallery: []
 affiliations:
 - org:ashikara-shogunate
 desires:
@@ -73,7 +119,5 @@ current_state:
   location: location:haru-shrine-town
 purview: []
 ---
-
-
 
 The shrine keeper of [[location:haru-shrine-town|Haru's Shrine Town]]. A woman in her late twenties who maintains the ward for this stretch of the Cedar Road. She performs the daily rituals precisely, keeps the shrine grounds, and is the closest thing to authority in the village.

@@ -133,10 +133,10 @@ Every visual record under `records/` uses this base schema:
 visual:
   prompt: ''
 image:
-  url: ''
+  url: '' # primary landscape/background image
   focalPoint:
     x: 0.5
-    y: 0.1
+    y: 0.5
   seed: null
 ```
 
@@ -144,11 +144,17 @@ Character records extend `image` with a neutral transparent cutout variation:
 
 ```yaml
 image:
-  url: ''
+  url: '' # primary landscape/background image
   focalPoint:
     x: 0.5
-    y: 0.1
+    y: 0.5
   seed: null
+  portrait: # secondary profile image; never used as the scene background
+    url: ''
+    focalPoint:
+      x: 0.5
+      y: 0.1
+    seed: null
   variations:
     - name: neutral
       backgroundRemovedUrl: ''
@@ -160,16 +166,19 @@ image:
   (`visual` > `prompt`). Do not place it in a separate prompt file, a biography
   section, a note, or another field.
 - Keep `image` as a top-level sibling of `visual`, not nested inside it.
-- Store a plain absolute media URL in `image.url`. Do not use Markdown link
-  syntax. Leave the value empty until a real image exists; never invent a URL.
-- Use `image.focalPoint.x: 0.5` and `image.focalPoint.y: 0.1` as the default
-  focal point unless an existing image requires a deliberately different crop.
-- Store the exact generation seed in `image.seed` so the image can be
-  reproduced. Use `null` until an image is generated; never invent or silently
-  replace the seed associated with an existing image.
+- Store the primary landscape/background image in `image.url`. Character
+  profile portraits belong in `image.portrait.url`; they are secondary and
+  must not replace the landscape background. Use a plain absolute URL or a
+  world-relative `assets/images/...` path, never Markdown link syntax.
+- Use `image.focalPoint: {x: 0.5, y: 0.5}` for a landscape by default. Use
+  `image.portrait.focalPoint: {x: 0.5, y: 0.1}` for a profile portrait unless
+  an existing image requires a deliberately different crop.
+- Store the exact generation seed in the matching `image.seed` or
+  `image.portrait.seed` field. Use `null` until an image is generated; never
+  invent or silently replace the seed associated with an existing image.
 - Preserve the entire existing `image` object when editing unrelated fields.
-  Its URL, focal point, seed, and variations are generation metadata that may
-  not be reconstructable.
+  Its background, portrait, focal points, seeds, galleries, and variations are
+  generation metadata that may not be reconstructable.
 - Character cutouts belong in `image.variations`. Every character starts with
   one entry named `neutral`; do not recreate the legacy top-level
   `portrait_variations` field.
