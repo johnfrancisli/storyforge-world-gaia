@@ -22,6 +22,17 @@ biography: >-
   what she was willing to price, setting her against captains who call conscience bad commerce.
 personality: Bold, humorous, worldly, sensate, protective, comfortable wanting and being wanted.
 key_phrases: ["Everything has a price. Not everything should be sold.", "Show me whose hands this left."]
+equipment:
+  underwear: []
+  clothing:
+  - item:wool-overtunic
+  - item:wool-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: athletic hourglass build, medium breasts
   height: medium

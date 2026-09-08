@@ -4,7 +4,14 @@ name: Women's Long Cotton Chemise
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: chest
+equipment_type: wearable
+layer: underwear
+coverage:
+- torso
+- left_arm
+- right_arm
+- left_leg
+- right_leg
 appearance: A loose calf-length cotton chemise with a wide neck opening, long sleeves, underarm gussets, and side slits.
 description: A washable female base layer in [[location:al-khayzar|Al-Khayzar]], worn beneath layered urban dress and also used as private household clothing.
 item_tags:

@@ -51,6 +51,16 @@ personality: Guarded and cautious with trust, blunt and rough-spoken, carries a 
 key_phrases:
 - Knowledge is not power. Knowledge is a lantern in a large, dark room.
 - The truth does not need you to believe in it.
+equipment:
+  underwear: []
+  clothing:
+  - item:wide-sleeved-scholar-robe
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: slight, thin, small breasts
   hair: black, hastily pinned

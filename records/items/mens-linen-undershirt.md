@@ -4,7 +4,12 @@ name: Men's Linen Undershirt
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: chest
+equipment_type: wearable
+layer: underwear
+coverage:
+- torso
+- left_arm
+- right_arm
 appearance: A plain thigh-length linen shirt with long sleeves, a simple neck slit, underarm gussets, and flat-felled seams.
 description: The standard washable male skin layer in [[location:valdris|Valdris]], worn beneath tunics and beneath the padded armor garment that will be cataloged separately.
 item_tags:

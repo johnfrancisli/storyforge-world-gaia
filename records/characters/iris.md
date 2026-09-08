@@ -56,6 +56,17 @@ key_phrases:
 - Understanding comes slowly, like dawn.
 - The question is always more important than the answer.
 - I will not rest until I find out who the stranger was and how they know me grandmother's code.
+equipment:
+  underwear: []
+  clothing:
+  - item:sleeveless-barkcloth-tunic
+  - item:softbark-wrap-skirt
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: slender and fine-boned, precise in movement, small breasts
   hair: black, long, used to anchor the backstrap loom

@@ -4,7 +4,11 @@ name: Wrap Chang Skirt
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: legs
+equipment_type: wearable
+layer: clothing
+coverage:
+- left_leg
+- right_leg
 appearance: A straight ankle-length wrap skirt with a deep overlapping front, broad waist ties, and weighted lower corners that keep the panels orderly.
 description: An older formal lower garment retained by ritualists, scholars, and traditional households in [[location:sangguo|Sangguo]].
 item_tags:

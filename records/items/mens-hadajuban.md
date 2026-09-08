@@ -4,7 +4,12 @@ name: Men's Hadajuban
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: chest
+equipment_type: wearable
+layer: underwear
+coverage:
+- torso
+- left_arm
+- right_arm
 appearance: A lightweight hip-length cotton undershirt cut like a short wrap robe, with a crossed collar, open sleeve ends, and thin internal ties.
 description: Worn against the skin beneath kosode and formal robes in [[location:tsukuyomi|Tsukuyomi]], this washable layer keeps perspiration away from more valuable outer cloth.
 item_tags:

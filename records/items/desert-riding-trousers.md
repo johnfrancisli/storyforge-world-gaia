@@ -4,7 +4,11 @@ name: Desert Riding Trousers
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: legs
+equipment_type: wearable
+layer: clothing
+coverage:
+- left_leg
+- right_leg
 appearance: Roomy riding trousers with a high drawstring waist, reinforced seat and inner knees, tapered calves, and flat seams beneath a saddle.
 description: Riders in [[location:al-khayzar|Al-Khayzar]] wear these beneath long shirts and robes for caravan travel and mounted patrols.
 item_tags:

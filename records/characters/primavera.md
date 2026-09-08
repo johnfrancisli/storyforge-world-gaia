@@ -54,6 +54,17 @@ personality: Composed and even-tempered, compassionate and tender-hearted, guard
 key_phrases:
 - A healer's first task is to listen.
 - Pain speaks louder than words, but silence tells the deeper truth.
+equipment:
+  underwear: []
+  clothing:
+  - item:sleeveless-barkcloth-tunic
+  - item:softbark-wrap-skirt
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: soft and rounded, gentle in bearing, huge breasts
   hair: dark brown, streaked with early grey, worn in a loose bun

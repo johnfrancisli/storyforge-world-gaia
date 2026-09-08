@@ -53,6 +53,17 @@ key_phrases:
 - A healer's first task is to listen.
 - Pain speaks louder than words, but silence tells the deeper truth.
 - I will not rest until I make peace with the triage decision that haunts me.
+equipment:
+  underwear: []
+  clothing:
+  - item:sleeveless-barkcloth-tunic
+  - item:softbark-wrap-skirt
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: medium and well-proportioned, steady-handed, medium breasts
   hair: black, short-cropped for cleanliness

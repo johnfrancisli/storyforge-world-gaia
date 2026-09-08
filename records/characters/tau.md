@@ -58,6 +58,15 @@ personality: Precise and detail-oriented, guarded and cautious with trust, gener
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: stocky, strong-armed, precise, broad chest
   skin: medium brown, wood-stained

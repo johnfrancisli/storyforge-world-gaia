@@ -10,7 +10,7 @@ gm_notes: 'The elder prince was not always cruel. Before the Noh mask made by Me
   in public since he received it, and the spirit has made him afraid to take it off.'
 aliases:
 - Prince Ashikara Renjiro
-race: Elf
+race: Human
 gender: Male
 age: 25
 heritage: Tsukuyomi
@@ -53,6 +53,16 @@ personality: Reserved and soft-spoken, strict and disciplined, driven and relent
 key_phrases:
 - I will not be my father. I will not be his mistake.
 - The throne is not my goal. It is my responsibility.
+equipment:
+  underwear: []
+  clothing:
+  - item:merchants-silk-kosode
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: tall, erect, military bearing, average chest
   hair: black, in a formal topknot

@@ -48,6 +48,16 @@ key_phrases:
 - Discipline is the bridge between intention and action.
 - A blade unused rusts. A blade used without purpose dulls.
 - I will not rest until I serve me clan honorably without betraying the man she has come to love.
+equipment:
+  underwear: []
+  clothing:
+  - item:hemp-work-kosode
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: athletic, broad-shouldered, medium breasts
   hair: black, pinned in a high topknot

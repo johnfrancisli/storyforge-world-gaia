@@ -58,6 +58,15 @@ personality: Bold and uncompromising, composed and even-tempered, reserved and s
 key_phrases:
 - The land doesn't care about your plans.
 - Patience is the only crop that grows in any season.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: strong-backed, earth-handed, sun-browned, broad chest
   skin: deep brown

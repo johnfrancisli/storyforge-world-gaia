@@ -58,6 +58,17 @@ key_phrases:
 - I'm not afraid. I'm just... careful.
 - When you're small, you learn to notice things.
 - I will not rest until I understand what the voices in the vault are saying and why they sound scared.
+equipment:
+  underwear: []
+  clothing:
+  - item:knee-length-pirahan
+  - item:bound-ankle-desert-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: small and slight, a child
   hair: black, long, in two braids

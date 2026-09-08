@@ -4,7 +4,11 @@ name: Women's Loose Undertrousers
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: legs
+equipment_type: wearable
+layer: underwear
+coverage:
+- left_leg
+- right_leg
 appearance: Light full-length undertrousers with a broad tie waist, roomy seat, straight legs, and narrow ankle ties.
 description: Women in [[location:sangguo|Sangguo]] and [[location:al-khayzar|Al-Khayzar]] wear these beneath skirts and robes for travel, cool weather, or active work.
 item_tags:

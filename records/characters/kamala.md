@@ -55,6 +55,15 @@ personality: Reserved and soft-spoken, guarded and cautious with trust, thoughtf
 key_phrases:
 - Home is not a place. It is the people who remember your name.
 - I lost everything. I will not lose who I am.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: capable, strong-handed, hollow-eyed, large breasts
   skin: medium brown

@@ -53,6 +53,15 @@ personality: Precise and detail-oriented, tired and carrying a heavy burden, blu
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: slender, still, small breasts
   hair: pale gold, long, bound with a shimenawa cord

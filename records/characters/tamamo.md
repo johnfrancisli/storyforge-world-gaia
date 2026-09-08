@@ -47,6 +47,16 @@ personality: Compassionate and tender-hearted, blunt and rough-spoken, generous 
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
+equipment:
+  underwear: []
+  clothing:
+  - item:womens-layered-town-kosode
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: slender, small breasts
   hair: silver-white, long, loose

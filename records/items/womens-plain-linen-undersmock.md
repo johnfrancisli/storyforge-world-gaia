@@ -4,7 +4,14 @@ name: Women's Plain Linen Undersmock
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: chest
+equipment_type: wearable
+layer: underwear
+coverage:
+- torso
+- left_arm
+- right_arm
+- left_leg
+- right_leg
 appearance: A plain ankle-length linen smock with long sleeves, a modest round neck, underarm gussets, and generous side gores.
 description: The standard women's washable base garment in [[location:hrafnland|Hrafnland]], worn beneath an apron dress or wool gown.
 item_tags:

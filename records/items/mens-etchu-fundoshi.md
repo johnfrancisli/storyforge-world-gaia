@@ -4,7 +4,11 @@ name: Men's Etchu Fundoshi
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: legs
+equipment_type: wearable
+layer: underwear
+coverage:
+- left_leg
+- right_leg
 appearance: A short rectangular cotton undercloth with a narrow waist cord and a loose front panel.
 description: A simple men's undergarment used in the warmer parts of [[location:tsukuyomi|Tsukuyomi]]. It is quick to wash, quick to dry, and less elaborate to wrap than the longer form.
 item_tags:

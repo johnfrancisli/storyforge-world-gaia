@@ -4,7 +4,12 @@ name: Cross-Collar Ru Jacket
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: chest
+equipment_type: wearable
+layer: clothing
+coverage:
+- torso
+- left_arm
+- right_arm
 appearance: A waist-length hemp or ramie jacket with a right-closing crossed collar, long sleeves, side vents, and cloth ties beneath the outer overlap.
 description: A basic upper garment worn across [[location:sangguo|Sangguo]], easy to combine with trousers or a skirt and light enough for riverland heat.
 item_tags:

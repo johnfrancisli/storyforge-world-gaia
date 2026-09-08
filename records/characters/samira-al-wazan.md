@@ -22,6 +22,18 @@ biography: >-
   is larger than graft: the missing spice is being paid directly into old contracts.
 personality: Quick, irreverent, vigilant, flirtatious through debate, protective of market workers.
 key_phrases: ["Put it on the scale.", "A small theft repeated becomes a palace."]
+equipment:
+  underwear: []
+  clothing:
+  - item:knee-length-pirahan
+  - item:bound-ankle-desert-trousers
+  - item:sleeveless-caravan-vest
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: compact athletic build, small breasts
   height: short

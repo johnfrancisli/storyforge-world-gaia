@@ -50,6 +50,17 @@ personality: Guarded and cautious with trust, carries a secret that shapes every
 key_phrases:
 - Good mead takes patience. Great mead takes luck.
 - You can't rush fermentation, and you can't rush honesty.
+equipment:
+  underwear: []
+  clothing:
+  - item:hemp-work-kosode
+  - item:womens-maekake-work-apron
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: sturdy, thick-armed, medium breasts
   hair: salt-and-pepper black, tied in a loose bun

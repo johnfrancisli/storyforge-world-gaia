@@ -54,6 +54,16 @@ personality: Precise and detail-oriented, defiant and independently minded.
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
+equipment:
+  underwear: []
+  clothing:
+  - item:hemp-work-kosode
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: large, broad-shouldered, deceptively powerful, broad chest
   hair: shaved

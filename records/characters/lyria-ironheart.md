@@ -48,6 +48,17 @@ key_phrases:
 - Metal has opinions. My job is to negotiate.
 - The forge teaches patience whether you want to learn it or not.
 - I will not rest until I forge a blade worthy of legend, something that will outlast me.
+equipment:
+  underwear: []
+  clothing:
+  - item:linen-work-tunic
+  - item:wool-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: stocky and muscular, small breasts
   hair: dark brown, thick, worn tied back

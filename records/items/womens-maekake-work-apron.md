@@ -4,7 +4,13 @@ name: Women's Maekake Work Apron
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: waist
+equipment_type: wearable
+layer: clothing
+coverage:
+- left_leg
+- right_leg
+stacking:
+  mode: overlay
 appearance: A sturdy knee-length apron panel with a broad reinforced top edge, long waist ties, deep corner pockets, and a split lower hem for kneeling.
 description: Women working in kitchens, shops, workshops, and shrine grounds across [[location:tsukuyomi|Tsukuyomi]] tie this protective layer over a kosode or work trousers.
 item_tags:

@@ -4,7 +4,11 @@ name: River-Stone Oracle
 item_type: tool
 rarity: null
 is_equippable: true
-slot: main_hand
+equipment_type: held
+hands_required: 1
+allowed_hands:
+- left
+- right
 appearance: A smooth river-stone, flat and palm-sized, dark green with a single pale vein running through
   it like a dried watercourse. When placed in still water the vein darkens and shifts, and faint lines
   appear on the stone's surface that were not visible dry. The stone is cool and slightly damp to the

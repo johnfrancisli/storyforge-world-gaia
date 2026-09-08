@@ -50,6 +50,17 @@ personality: Reserved and soft-spoken, tired and carrying a heavy burden, guarde
 key_phrases:
 - The path exists whether or not you can see it.
 - Knowing where you are is not the same as knowing where you're going.
+equipment:
+  underwear: []
+  clothing:
+  - item:knee-length-pirahan
+  - item:bound-ankle-desert-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: lean, wiry, endurance-built, narrow chest
   skin: deeply tanned, wind-weathered

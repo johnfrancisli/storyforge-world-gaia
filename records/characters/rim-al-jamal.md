@@ -55,6 +55,18 @@ personality: Guarded and cautious with trust, carries a secret that shapes every
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
+equipment:
+  underwear: []
+  clothing:
+  - item:loose-cotton-qamis
+  - item:desert-riding-trousers
+  - item:sleeveless-caravan-vest
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: sturdy and strong-legged, desert-built, small breasts
   hair: sandy brown, long, braided under a headscarf

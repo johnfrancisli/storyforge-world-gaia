@@ -22,6 +22,18 @@ biography: >-
   now repeats the same hidden flaw on a scale that could drown sixty people.
 personality: Blunt, responsible, dryly playful, physically warm in private, allergic to empty praise.
 key_phrases: ["Wood warns you before it breaks.", "I would rather insult sixty sailors than bury them."]
+equipment:
+  underwear: []
+  clothing:
+  - item:wool-overtunic
+  - item:wool-trousers
+  - item:wrapped-work-apron
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: broad athletic build, medium breasts
   height: tall

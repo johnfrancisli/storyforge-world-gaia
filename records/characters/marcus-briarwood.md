@@ -51,6 +51,15 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 - I will not rest until I find a way to honor me contract without becoming a tool for murder.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: muscular and battle-scarred, broad chest
   hair: brown, cropped military-short

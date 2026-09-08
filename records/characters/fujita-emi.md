@@ -48,6 +48,16 @@ personality: Composed and even-tempered, perceptive and watchful, grounded and s
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
+equipment:
+  underwear: []
+  clothing:
+  - item:hemp-work-kosode
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: slender, long-fingered, small breasts
   hair: dark brown, loose, with thread fragments caught in it

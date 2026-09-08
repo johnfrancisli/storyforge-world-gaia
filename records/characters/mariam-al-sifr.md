@@ -22,6 +22,16 @@ biography: >-
   conclusions. The ancient countdown may connect the mine collapse, water pulses, and a waking road network.
 personality: Brilliant, awkward, quietly sensual, loyal, delighted by patient collaboration.
 key_phrases: ["Nothing is not the same as zero.", "He erased the mark, not the pattern."]
+equipment:
+  underwear: []
+  clothing:
+  - item:crossover-desert-robe
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: slim toned build, small breasts
   height: short

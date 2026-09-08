@@ -47,6 +47,17 @@ personality: Reserved and soft-spoken, wary and watchful, driven and relentless 
 key_phrases:
 - A ship is a promise made to the sea.
 - The keel is the spine. Get it wrong and nothing else matters.
+equipment:
+  underwear: []
+  clothing:
+  - item:wool-overtunic
+  - item:wool-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: big, broad-shouldered, broad chest
   height: tall

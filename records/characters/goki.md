@@ -55,6 +55,16 @@ personality: Compassionate and tender-hearted, guarded and cautious with trust, 
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
+equipment:
+  underwear: []
+  clothing:
+  - item:hemp-work-kosode
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: massive, towering, boulder-like, average chest
   hair: black, coarse, wild

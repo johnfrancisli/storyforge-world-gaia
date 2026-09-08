@@ -4,7 +4,14 @@ name: Women's Linen Chemise
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: chest
+equipment_type: wearable
+layer: underwear
+coverage:
+- torso
+- left_arm
+- right_arm
+- left_leg
+- right_leg
 appearance: A loose ankle-length linen chemise with long sleeves, a wide drawstring neckline, underarm gussets, and side gores.
 description: The standard washable women's base garment in [[location:valdris|Valdris]], worn beneath kirtles, gowns, and wool layers.
 item_tags:

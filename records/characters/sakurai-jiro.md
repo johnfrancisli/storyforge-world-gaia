@@ -54,6 +54,16 @@ personality: Guarded and cautious with trust, carries a secret that shapes every
 key_phrases:
 - Discipline is the bridge between intention and action.
 - A blade unused rusts. A blade used without purpose dulls.
+equipment:
+  underwear: []
+  clothing:
+  - item:hemp-work-kosode
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: thin, formerly powerful, still straight-backed, broad chest
   hair: white, sparse, under a cap

@@ -52,6 +52,17 @@ personality: Wary and watchful, blunt and rough-spoken, caught between duty and 
 key_phrases:
 - Metal has opinions. My job is to negotiate.
 - The forge teaches patience whether you want to learn it or not.
+equipment:
+  underwear: []
+  clothing:
+  - item:hemp-work-kosode
+  - item:womens-maekake-work-apron
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: broad-shouldered, powerful arms, medium breasts
   hair: black, greying, cropped very short

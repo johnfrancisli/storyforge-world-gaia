@@ -51,6 +51,16 @@ personality: Composed and even-tempered.
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
+equipment:
+  underwear: []
+  clothing:
+  - item:wide-sleeved-scholar-robe
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: medium and precise in movement, small breasts
   hair: black, in a medical-practitioner's clean bun

@@ -51,6 +51,16 @@ personality: Shrewd and calculating, guarded and cautious with trust, blunt and 
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
+equipment:
+  underwear: []
+  clothing:
+  - item:braided-fiber-loincloth
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: tall, muscular, lean, broad chest
   skin: tawny brown, rosette spots across the shoulders and back

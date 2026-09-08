@@ -55,6 +55,17 @@ key_phrases:
 - A story forgotten is a person erased.
 - The best stories are the ones that change in the telling.
 - I will not rest until I find someone worthy of the secret before me memory fails completely.
+equipment:
+  underwear: []
+  clothing:
+  - item:wool-overtunic
+  - item:wool-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: very small and frail, shrunken with age, medium breasts
   hair: pure white, thin, worn loose

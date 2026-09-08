@@ -49,6 +49,16 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 - I will not rest until I protect the gifted children from being taken and weaponized.
+equipment:
+  underwear: []
+  clothing:
+  - item:laced-kirtle
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: large and imposing, medium breasts
   hair: iron grey, braided and pinned

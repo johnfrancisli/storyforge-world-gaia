@@ -53,6 +53,17 @@ key_phrases:
 - The river gives and the river takes. You learn to accept both.
 - A bad day fishing is still a day on the water.
 - I will not rest until I free me husband from the sea yokai's hold and have him home permanently.
+equipment:
+  underwear: []
+  clothing:
+  - item:hemp-work-kosode
+  - item:womens-maekake-work-apron
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: weathered, strong-armed, large breasts
   hair: black, sun-faded, tied in a practical single braid

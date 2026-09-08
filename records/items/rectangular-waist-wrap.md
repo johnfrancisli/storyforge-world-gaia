@@ -4,7 +4,11 @@ name: Rectangular Waist Wrap
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: legs
+equipment_type: wearable
+layer: clothing
+coverage:
+- left_leg
+- right_leg
 appearance: A broad rectangular cloth wrapped from waist to calf, overlapped at the front, rolled at the waistband, and secured without rigid fasteners.
 description: The most adaptable everyday lower garment in [[location:tide-archipelago|the Tide Archipelago]], easily retied for sailing, climbing, rest, or formal drape.
 item_tags:

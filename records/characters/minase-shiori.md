@@ -54,6 +54,16 @@ personality: Wary and watchful, defiant and independently minded, guarded and ca
 key_phrases:
 - History is not the past. It is the argument about the past.
 - What is written can be unwritten. What is burned cannot.
+equipment:
+  underwear: []
+  clothing:
+  - item:hemp-work-kosode
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: thin, angular, small breasts
   hair: steel grey, in a tight bun secured with two pins

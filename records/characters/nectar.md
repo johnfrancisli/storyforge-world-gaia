@@ -56,6 +56,17 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 - I will not rest until I feel genuine joy again, even for a single day.
+equipment:
+  underwear: []
+  clothing:
+  - item:sleeveless-barkcloth-tunic
+  - item:softbark-wrap-skirt
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: lean and long-limbed, built for climbing, small breasts
   hair: honey-brown, sun-bleached, worn in a single thick braid

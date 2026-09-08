@@ -49,6 +49,17 @@ key_phrases:
 - A fair deal leaves both sides slightly unhappy. That is how you know it was fair.
 - Trust is the only currency that compounds.
 - I will not rest until I maintain the balance between the three states until a peace is brokered.
+equipment:
+  underwear: []
+  clothing:
+  - item:short-shan-work-shirt
+  - item:bound-cuff-field-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: plump and comfortable, huge breasts
   hair: black streaked with white, in a practical merchant's wrap

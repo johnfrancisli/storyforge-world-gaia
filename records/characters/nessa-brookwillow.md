@@ -47,6 +47,16 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 - I will not rest until I weave beautiful things without the frightening visions.
+equipment:
+  underwear: []
+  clothing:
+  - item:laced-kirtle
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: petite and delicate, medium breasts
   hair: pale blonde, long, worn loose

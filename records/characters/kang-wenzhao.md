@@ -49,6 +49,16 @@ key_phrases:
 - Knowledge is not power. Knowledge is a lantern in a large, dark room.
 - The truth does not need you to believe in it.
 - I will not rest until I see the reunification council become reality.
+equipment:
+  underwear: []
+  clothing:
+  - item:wide-sleeved-scholar-robe
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: medium and slightly soft from scholarly life, average chest
   hair: black, in a scholar's topknot, often loosening

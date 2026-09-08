@@ -54,6 +54,17 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 - I will not rest until I find another source of the special sand before the dune runs out.
+equipment:
+  underwear: []
+  clothing:
+  - item:knee-length-pirahan
+  - item:bound-ankle-desert-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: wiry, strong-lunged, small breasts
   hair: black, short, singed at the edges

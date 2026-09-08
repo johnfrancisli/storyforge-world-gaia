@@ -51,6 +51,17 @@ personality: Compassionate and tender-hearted, defiant and independently minded,
 key_phrases:
 - I will not be my father. I will not be his mistake.
 - The throne is not my goal. It is my responsibility.
+equipment:
+  underwear: []
+  clothing:
+  - item:linen-work-tunic
+  - item:riding-breeches
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: slim, athletic, medium breasts
   hair: auburn, braided

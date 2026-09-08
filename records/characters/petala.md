@@ -55,6 +55,15 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 - I will not rest until I convince the tribal council that the outsiders are a genuine threat.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: sturdy and square-shouldered, strong hands, medium breasts
   hair: black, greying at the temples, pinned up with weaving sticks

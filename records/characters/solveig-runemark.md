@@ -22,6 +22,17 @@ biography: >-
   objects, threatening every claim that the first runes belong only to one sacred site.
 personality: Intense, guileless, imaginative, stubborn under authority, hungry for reciprocal devotion.
 key_phrases: ["Copy it before you explain it.", "The stone changed. I did not."]
+equipment:
+  underwear: []
+  clothing:
+  - item:wool-overtunic
+  - item:wool-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: slim athletic build, small breasts
   height: short

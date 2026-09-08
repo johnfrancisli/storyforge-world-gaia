@@ -52,6 +52,17 @@ key_phrases:
 - Everyone who walks through my door has a story. Most of them I don't ask for.
 - A warm meal and a dry bed — that's half of any problem solved.
 - I will not rest until I deliver the dead commander's dispatch to someone who can act on it.
+equipment:
+  underwear: []
+  clothing:
+  - item:linen-work-tunic
+  - item:wool-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: short and round, halfling stature, large breasts
   hair: greying brown, under a kerchief

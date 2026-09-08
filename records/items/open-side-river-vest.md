@@ -4,7 +4,12 @@ name: Open-Side River Vest
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: chest
+equipment_type: wearable
+layer: clothing
+coverage:
+- torso
+- left_arm
+- right_arm
 appearance: A short woven-fiber vest with broad shoulder panels, open sides, and braided ties beneath each arm.
 description: Boat crews and fishers in [[location:verdania|Verdania]] wear this low-bulk top when sun and insects matter more than full coverage.
 item_tags:

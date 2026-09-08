@@ -22,6 +22,17 @@ biography: >-
   cask she repaired now changes its runes whenever the meadery's balance shifts.
 personality: Gregarious, discerning, tactile, fiercely independent, delighted by people who negotiate honestly.
 key_phrases: ["A hoop holds by pressure, not cruelty.", "Tell me the debt before you tell me the shame."]
+equipment:
+  underwear: []
+  clothing:
+  - item:wool-overtunic
+  - item:wool-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: strong curvy athletic build, medium breasts
   height: medium

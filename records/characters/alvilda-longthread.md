@@ -53,6 +53,18 @@ key_phrases:
 - "Master Thora, what does this thread bind?"
 - "A sail must catch the wind, but the thread must hold the spirit."
 - "I only wanted to see how it was made."
+equipment:
+  underwear: []
+  clothing:
+  - item:wool-overtunic
+  - item:wool-trousers
+  - item:wrapped-work-apron
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: tall, lean, still filling out, small breasts
   hair: red-gold, worn in a single braid

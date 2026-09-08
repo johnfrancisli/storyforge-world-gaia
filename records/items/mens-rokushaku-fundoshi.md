@@ -4,7 +4,11 @@ name: Men's Rokushaku Fundoshi
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: legs
+equipment_type: wearable
+layer: underwear
+coverage:
+- left_leg
+- right_leg
 appearance: A long narrow strip of soft washable cotton intended to wrap securely around the waist and between the legs.
 description: A traditional men's base garment in [[location:tsukuyomi|Tsukuyomi]], used for daily wear, hard labor, and bathing work. It adds little bulk beneath fitted trousers or hakama.
 item_tags:

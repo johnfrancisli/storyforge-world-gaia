@@ -4,7 +4,12 @@ name: Men's Linen Undertunic
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: chest
+equipment_type: wearable
+layer: underwear
+coverage:
+- torso
+- left_arm
+- right_arm
 appearance: A plain thigh-length flax shirt with long fitted sleeves, a small neck slit, gusseted underarms, and flat durable seams.
 description: The standard washable male skin layer in [[location:hrafnland|Hrafnland]], worn beneath wool and suitable beneath a later padded armor garment.
 item_tags:

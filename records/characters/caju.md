@@ -55,6 +55,17 @@ key_phrases:
 - Food is love made edible.
 - A good cook feeds the body. A great cook feeds the soul.
 - I will not rest until I feel safe enough that the hoarding compulsion stops.
+equipment:
+  underwear: []
+  clothing:
+  - item:sleeveless-barkcloth-tunic
+  - item:softbark-wrap-skirt
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: round and soft, strong-armed from stirring large pots, broad chest
   hair: black, thick, tied back with a cloth

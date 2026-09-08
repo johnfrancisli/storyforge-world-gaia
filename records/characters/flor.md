@@ -54,6 +54,15 @@ key_phrases:
 - Every plant has a purpose, if you listen closely enough.
 - The earth provides, if you know where to look.
 - I will not rest until I find a permanent cure for the chief that does not require the forbidden root.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: small and wiry, built for climbing through undergrowth, small breasts
   hair: black, short, practical, often tucked with leaves and twigs

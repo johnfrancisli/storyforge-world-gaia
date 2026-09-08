@@ -4,7 +4,14 @@ name: Summer Katabira
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: chest
+equipment_type: wearable
+layer: clothing
+coverage:
+- torso
+- left_arm
+- right_arm
+- left_leg
+- right_leg
 appearance: An unlined summer robe of loosely woven hemp with a crossed front, open sleeves, ankle-length hem, and a light waist tie.
 description: A breathable hot-weather robe used in the humid valleys and bath towns of [[location:tsukuyomi|Tsukuyomi]]. The loose weave sheds heat and dries quickly.
 item_tags:

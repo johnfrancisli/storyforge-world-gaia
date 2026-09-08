@@ -53,6 +53,17 @@ personality: Precise and detail-oriented, guarded and cautious with trust, blunt
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
+equipment:
+  underwear: []
+  clothing:
+  - item:knee-length-pirahan
+  - item:bound-ankle-desert-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: tall and upright, unbowed by age, medium breasts
   hair: silver-white, worn in a braided crown

@@ -4,7 +4,11 @@ name: Men's Linen Underbreeches
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: legs
+equipment_type: wearable
+layer: underwear
+coverage:
+- left_leg
+- right_leg
 appearance: Loose knee-length linen breeches with a drawstring waist, broad seat gusset, and gathered leg openings.
 description: A washable male underlayer in [[location:hrafnland|Hrafnland]], worn beneath wool trousers or with leg wraps during warm work.
 item_tags:

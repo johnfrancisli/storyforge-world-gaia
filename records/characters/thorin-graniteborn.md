@@ -50,6 +50,17 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 - I will not rest until I decipher the runes and understand what the 'first bond' truly means.
+equipment:
+  underwear: []
+  clothing:
+  - item:dwarven-split-hem-tunic
+  - item:wool-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: short and barrel-chested, dwarven build
   hair: iron grey, long beard braided with metal rings

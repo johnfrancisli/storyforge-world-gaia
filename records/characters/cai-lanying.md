@@ -22,6 +22,17 @@ biography: >-
   hidden commerce than most ministers, and one wax seal could make that knowledge lethal.
 personality: Fast-talking, ambitious, protective, proudly sensual, suspicious of charity.
 key_phrases: ["If I lifted it, I read it.", "Kindness pays wages."]
+equipment:
+  underwear: []
+  clothing:
+  - item:short-shan-work-shirt
+  - item:bound-cuff-field-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: muscular compact build, small breasts
   height: short

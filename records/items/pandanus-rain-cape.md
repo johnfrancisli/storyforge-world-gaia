@@ -4,7 +4,14 @@ name: Pandanus Rain Cape
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: shoulders
+equipment_type: wearable
+layer: clothing
+coverage:
+- torso
+- left_arm
+- right_arm
+stacking:
+  mode: overlay
 appearance: A hip-length cape of overlapping treated pandanus strips, with a close neck opening and layered fringe that sheds tropical rain.
 description: Canoe crews and forest travelers in [[location:tide-archipelago|the Tide Archipelago]] throw this cape over ordinary clothing during sudden downpours.
 item_tags:

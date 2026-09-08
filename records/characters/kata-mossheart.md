@@ -54,6 +54,16 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 - I will not rest until I protect the three families whose secrets she holds — even from themselves.
+equipment:
+  underwear: []
+  clothing:
+  - item:strap-apron-dress
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: medium height, soft and solid, medium breasts
   hair: grey, thick, pinned in a practical coil

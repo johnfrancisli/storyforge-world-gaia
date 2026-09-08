@@ -52,6 +52,17 @@ personality: Reserved and soft-spoken, steadfast and devoted, guarded and cautio
 key_phrases:
 - Metal has opinions. My job is to negotiate.
 - The forge teaches patience whether you want to learn it or not.
+equipment:
+  underwear: []
+  clothing:
+  - item:wool-overtunic
+  - item:wool-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: compact and barrel-chested, powerful for his height
   hair: iron grey, tied back, singed at the tips

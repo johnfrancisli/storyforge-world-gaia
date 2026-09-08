@@ -4,7 +4,11 @@ name: Men's Short Underdrawers
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: legs
+equipment_type: wearable
+layer: underwear
+coverage:
+- left_leg
+- right_leg
 appearance: Light thigh-length drawers with a gathered cord waist, full crotch gusset, and loose leg openings.
 description: A practical male underlayer in [[location:sangguo|Sangguo]], favored beneath closed trousers and riding clothes.
 item_tags:

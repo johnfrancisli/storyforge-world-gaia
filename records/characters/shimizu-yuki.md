@@ -50,6 +50,16 @@ personality: Precise and detail-oriented, guarded and cautious with trust, blunt
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
+equipment:
+  underwear: []
+  clothing:
+  - item:hemp-work-kosode
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: slight, wiry
   hair: black, straight, hip-length, tied back with a white ribbon

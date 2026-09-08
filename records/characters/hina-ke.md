@@ -56,6 +56,15 @@ personality: Precise and detail-oriented, reserved and soft-spoken, wary and wat
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: composed, upright, precise, medium breasts
   skin: medium brown

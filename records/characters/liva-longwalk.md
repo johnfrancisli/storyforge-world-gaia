@@ -56,6 +56,17 @@ personality: Guarded and cautious with trust, thoughtful and philosophical, carr
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
+equipment:
+  underwear: []
+  clothing:
+  - item:wool-overtunic
+  - item:wool-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: lean and long-legged, built for distance walking, small breasts
   hair: brown, sun-bleached, worn in a tight knot

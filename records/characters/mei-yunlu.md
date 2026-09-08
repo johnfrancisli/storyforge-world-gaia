@@ -47,6 +47,17 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 - I will not rest until I finish the coronation robe without revealing what the pattern shows.
+equipment:
+  underwear: []
+  clothing:
+  - item:short-shan-work-shirt
+  - item:bound-cuff-field-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: small and deft-fingered, medium breasts
   hair: dark brown, braided and pinned up with wooden loom-shuttles

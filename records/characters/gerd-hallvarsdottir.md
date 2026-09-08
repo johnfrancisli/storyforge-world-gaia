@@ -52,6 +52,16 @@ key_phrases:
 - The land doesn't care about your plans.
 - Patience is the only crop that grows in any season.
 - I will not rest until I live openly with vigdis without losing me place in me sister's hall.
+equipment:
+  underwear: []
+  clothing:
+  - item:strap-apron-dress
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: medium height, strong and practical, medium breasts
   hair: silver-blonde like her sister's, worn in a single thick braid

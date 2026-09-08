@@ -55,6 +55,17 @@ personality: Warm and optimistic, guarded and cautious with trust, perceptive an
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
+equipment:
+  underwear: []
+  clothing:
+  - item:sleeveless-barkcloth-tunic
+  - item:softbark-wrap-skirt
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: compact and strong from preparing dye materials, medium breasts
   hair: black, tied back with a cord of woven fiber

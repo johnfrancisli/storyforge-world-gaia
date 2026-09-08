@@ -4,7 +4,11 @@ name: Men's Paddling Loin Wrap
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: waist
+equipment_type: wearable
+layer: underwear
+coverage:
+- left_leg
+- right_leg
 appearance: A compact woven loin wrap with a broad supportive center panel, doubled waist ties, and reinforced edges that resist twisting when wet.
 description: Male canoe crews in [[location:tide-archipelago|the Tide Archipelago]] use this secure underlayer beneath split wraps during surf launches and long voyages.
 item_tags:

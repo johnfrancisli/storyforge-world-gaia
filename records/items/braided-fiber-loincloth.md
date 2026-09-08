@@ -4,7 +4,11 @@ name: Braided-Fiber Loincloth
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: legs
+equipment_type: wearable
+layer: clothing
+coverage:
+- left_leg
+- right_leg
 appearance: A long softened cloth panel passed between the legs and secured to a broad braided waist cord, with front and back panels hanging free.
 description: A practical everyday lower garment for many men and women in the hottest parts of [[location:verdania|Verdania]], allowing unrestricted climbing and swimming.
 item_tags:

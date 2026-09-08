@@ -47,6 +47,17 @@ personality: Composed and even-tempered, compassionate and tender-hearted, thoug
 key_phrases:
 - The spirits do not serve. They negotiate.
 - Every pact is a conversation that never ends.
+equipment:
+  underwear: []
+  clothing:
+  - item:open-side-river-vest
+  - item:river-worker-split-wrap
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: wiry, weathered, medium breasts
   skin: deep brown, sun-darkened

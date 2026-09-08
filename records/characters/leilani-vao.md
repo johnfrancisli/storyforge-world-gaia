@@ -22,6 +22,17 @@ biography: >-
   freshwater lens, or the same deep force driving the seas upward.
 personality: Fearless, tactile, funny, modest about praise, deeply affected by patient gentleness.
 key_phrases: ["Hold the line until I tug twice.", "The island is breathing hot."]
+equipment:
+  underwear: []
+  clothing:
+  - item:open-sided-island-tunic
+  - item:pau-wrap-skirt
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: compact swimmer's build, small breasts
   height: short

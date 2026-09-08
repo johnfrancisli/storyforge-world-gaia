@@ -4,7 +4,8 @@ name: Ofuda Talisman
 item_type: tool
 rarity: null
 is_equippable: true
-slot: trinket
+equipment_type: accessory
+accessory_slot: trinket
 appearance: A strip of paper, about the length of a hand, with brush-written characters in black ink.
   Some carry a red stamp at the bottom. They are usually folded and carried in pockets or pinned to doorframes.
 description: The basic tool of shrine magic in Tsukuyomi. An ofuda carries a ward, a blessing, or a command.

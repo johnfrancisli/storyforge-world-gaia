@@ -45,6 +45,17 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 - I will not rest until I earn forgiveness he believes he does not deserve.
+equipment:
+  underwear: []
+  clothing:
+  - item:linen-work-tunic
+  - item:wool-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: broad and thickening with age, broad chest
   hair: greying brown, cropped short

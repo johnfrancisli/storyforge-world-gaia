@@ -4,7 +4,11 @@ name: Women's Inner Hip Wrap
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: legs
+equipment_type: wearable
+layer: underwear
+coverage:
+- left_leg
+- right_leg
 appearance: A short soft barkcloth skirt wrapping closely around the hips, with a deep overlap and narrow braided waist tie.
 description: A women's lower underlayer in [[location:verdania|Verdania]], used beneath fringe skirts, ceremonial wraps, or rougher outer barkcloth.
 item_tags:

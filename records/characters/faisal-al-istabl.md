@@ -54,6 +54,17 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 - I will not rest until I learn what the djinn will ask of him and whether he can prepare for it.
+equipment:
+  underwear: []
+  clothing:
+  - item:knee-length-pirahan
+  - item:bound-ankle-desert-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: lean, weathered, narrow chest
   hair: black, thinning, cropped short

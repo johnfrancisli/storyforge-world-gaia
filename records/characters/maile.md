@@ -59,6 +59,17 @@ personality: Composed and even-tempered, guarded and cautious with trust, carrie
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
+equipment:
+  underwear: []
+  clothing:
+  - item:open-sided-island-tunic
+  - item:pau-wrap-skirt
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: strong, steady, broad-shouldered, small breasts
   skin: deep brown, sun-darkened

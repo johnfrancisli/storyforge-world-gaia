@@ -49,6 +49,15 @@ key_phrases:
 - "We are what we protect."
 - "Silence does not mean absence."
 - "A knight's strength is in his conviction, not his sword."
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: fit, broad-shouldered, strong, broad chest
   height: tall

@@ -57,6 +57,15 @@ key_phrases:
 - Every plant has a purpose, if you listen closely enough.
 - The earth provides, if you know where to look.
 - I will not rest until I identify who took the poison formula before it is used.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: lean and angular, snake-like in stillness, narrow chest
   hair: a crest of dark green-grey scales along the crown

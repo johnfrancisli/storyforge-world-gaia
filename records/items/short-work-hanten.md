@@ -4,7 +4,12 @@ name: Short Work Hanten
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: chest
+equipment_type: wearable
+layer: clothing
+coverage:
+- torso
+- left_arm
+- right_arm
 appearance: A hip-length jacket of sturdy woven cloth with a straight front, broad collar band, square sleeves, and interior ties.
 description: A practical outer top worn by craftspeople, shop workers, and messengers in [[location:tsukuyomi|Tsukuyomi]]. Its short hem stays clear of tools and wet streets.
 item_tags:

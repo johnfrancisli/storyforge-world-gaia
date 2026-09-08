@@ -53,6 +53,16 @@ personality: Guarded and cautious with trust, carries a secret that shapes every
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
+equipment:
+  underwear: []
+  clothing:
+  - item:hemp-work-kosode
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: voluptuous, imposing, large breasts
   hair: black, long, styled with gambling chips as hairpins

@@ -54,6 +54,17 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 - I will not rest until I understand why the river is seeding children and what it wants of them.
+equipment:
+  underwear: []
+  clothing:
+  - item:sleeveless-barkcloth-tunic
+  - item:softbark-wrap-skirt
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: full-figured and strong, broad-hipped, huge breasts
   hair: dark teal, braided and bound with river-shell beads

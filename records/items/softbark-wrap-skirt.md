@@ -4,7 +4,11 @@ name: Softbark Wrap Skirt
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: legs
+equipment_type: wearable
+layer: clothing
+coverage:
+- left_leg
+- right_leg
 appearance: A knee-length rectangular barkcloth skirt with a deep front overlap, broad waist fold, and braided fiber tie.
 description: A common adjustable lower garment in [[location:verdania|Verdania]], worn alone in heat or over an inner wrap when extra coverage is wanted.
 item_tags:

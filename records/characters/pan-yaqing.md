@@ -52,6 +52,16 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 - I will not rest until I personally confront and destroy the general who betrayed me.
+equipment:
+  underwear: []
+  clothing:
+  - item:straight-hem-shenyi
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: slender and graceful, small breasts
   hair: long black, in elaborate court styles

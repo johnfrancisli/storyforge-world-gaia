@@ -4,7 +4,11 @@ name: Long Work Skirt
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: legs
+equipment_type: wearable
+layer: clothing
+coverage:
+- left_leg
+- right_leg
 appearance: An ankle-length wool or linen skirt with a drawstring waist, broad side gores, a deep front overlap, and a patchable lower hem.
 description: A simple lower garment worn by many women and some tradespeople in [[location:valdris|Valdris]], roomy enough for long steps and layered winter wear.
 item_tags:

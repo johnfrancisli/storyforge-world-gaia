@@ -4,7 +4,11 @@ name: Women's Paddling Underwrap
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: waist
+equipment_type: wearable
+layer: underwear
+coverage:
+- left_leg
+- right_leg
 appearance: A close woven hip wrap with a wide center panel, doubled waist ties, reinforced edges, and a short overlapping back panel.
 description: Female canoe crews in [[location:tide-archipelago|the Tide Archipelago]] wear this secure base beneath a split paddling wrap when surf and hard movement demand more coverage.
 item_tags:

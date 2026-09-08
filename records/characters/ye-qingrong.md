@@ -51,6 +51,16 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 - I will not rest until I free herself from the warlord's coercion without endangering the monastery.
+equipment:
+  underwear: []
+  clothing:
+  - item:straight-hem-shenyi
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: slender and upright, cultivator's posture, small breasts
   hair: black, cropped short in monastic style

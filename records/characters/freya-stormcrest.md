@@ -52,6 +52,15 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 - I will not rest until I uncover who is inside the castle guard conspiracy and how high it reaches.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: athletic and broad-shouldered, small breasts
   hair: reddish-blonde, cropped short under a helm

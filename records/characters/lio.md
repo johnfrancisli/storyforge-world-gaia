@@ -57,6 +57,15 @@ personality: Compassionate and tender-hearted, guarded and cautious with trust, 
 key_phrases:
 - The road teaches what the market cannot.
 - Every caravan carries more than goods.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: sharp-eyed, quick-moving, compact, medium breasts
   skin: medium brown

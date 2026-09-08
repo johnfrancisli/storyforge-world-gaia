@@ -185,6 +185,16 @@ stats:
   mana: 10
   speed: 30
   stamina: 30
+equipment:
+  underwear: []
+  clothing:
+  - item:elven-forest-tunic
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: fit, slender, medium breasts
   distinctive_features: pronounced pointed ears, a fletcher's callus on her right thumb, a tiny scar on

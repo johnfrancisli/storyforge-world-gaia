@@ -50,6 +50,16 @@ personality: Reserved and soft-spoken, tired and carrying a heavy burden, steadf
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
+equipment:
+  underwear: []
+  clothing:
+  - item:wide-sleeved-scholar-robe
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: tall and lean from constant travel, small breasts
   hair: dark, loose, and perpetually paint-flecked

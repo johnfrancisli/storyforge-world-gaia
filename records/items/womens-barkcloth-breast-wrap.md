@@ -4,7 +4,12 @@ name: Women's Barkcloth Breast Wrap
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: chest
+equipment_type: wearable
+layer: underwear
+coverage:
+- torso
+- left_arm
+- right_arm
 appearance: A broad softened barkcloth band wrapped around the chest, with overlapped front layers and flat braided ties at the back.
 description: An optional female support layer in [[location:tide-archipelago|the Tide Archipelago]], useful for paddling and strenuous work; many communities instead treat the ordinary chest wrap as both base and public garment.
 item_tags:

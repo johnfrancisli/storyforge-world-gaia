@@ -52,6 +52,16 @@ personality: Precise and detail-oriented, wary and watchful, blunt and rough-spo
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
+equipment:
+  underwear: []
+  clothing:
+  - item:crossover-desert-robe
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: tall, straight-backed, average chest
   skin: warm brown

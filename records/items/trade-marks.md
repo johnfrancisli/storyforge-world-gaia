@@ -4,7 +4,6 @@ name: Trade Marks
 item_type: resource
 rarity: null
 is_equippable: false
-slot: null
 appearance: Small metal discs, about the width of a thumbnail, stamped with the mark of the minting nation.
   Each is slightly different — Tsukuyomi's carry a crescent moon, Valdris's a crown, Sangguo's a jade-inset
   square. They are traded by weight, not by origin.

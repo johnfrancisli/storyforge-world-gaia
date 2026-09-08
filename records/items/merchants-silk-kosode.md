@@ -4,7 +4,14 @@ name: Merchant's Silk Kosode
 item_type: clothing
 rarity: uncommon
 is_equippable: true
-slot: chest
+equipment_type: wearable
+layer: clothing
+coverage:
+- torso
+- left_arm
+- right_arm
+- left_leg
+- right_leg
 appearance: A carefully tailored silk kosode with a crossed front, compact sleeves, smooth lining, and restrained woven motifs concentrated near the hem and sleeve edges.
 description: Prosperous merchants in [[location:tsukuyomi|Tsukuyomi]] favor this refined but controlled display of wealth. Motifs and color are chosen for the wearer, season, and occasion.
 item_tags:

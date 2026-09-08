@@ -52,6 +52,16 @@ key_phrases:
 - The body says what the voice cannot.
 - Every step is a sentence. Every turn is a word.
 - I will not rest until I avenge me father without creating another orphan.
+equipment:
+  underwear: []
+  clothing:
+  - item:straight-hem-shenyi
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: lithe and flexible, dancer's physique, small breasts
   hair: long black, worn in performance coils and cascades

@@ -55,6 +55,15 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 - I will not rest until I block the second marriage and preserve me political standing.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: medium and straight-backed, dignified in bearing, medium breasts
   hair: silver-black, worn in a formal arrangement with bone pins

@@ -33,6 +33,16 @@ personality: Playful, perceptive, evasive under pressure, loyal to the trapped, 
 key_phrases:
 - "Listen to the rest between notes."
 - "Respectability is often a locked door with polished hinges."
+equipment:
+  underwear: []
+  clothing:
+  - item:hemp-work-kosode
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: lithe athletic build, small breasts
   height: short

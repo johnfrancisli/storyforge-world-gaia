@@ -51,6 +51,15 @@ key_phrases:
 - The river gives and the river takes. You learn to accept both.
 - A bad day fishing is still a day on the water.
 - I will not rest until I keep fishing and help zhou when she asks.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: wiry and sun-darkened, narrow chest
   hair: gray-black, cropped close

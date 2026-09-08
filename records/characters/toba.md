@@ -57,6 +57,15 @@ key_phrases:
 - The river gives and the river takes. You learn to accept both.
 - A bad day fishing is still a day on the water.
 - I will not rest until I keep providing for me family without crossing the territorial boundary.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: compact and strong, broad from hauling nets, broad chest
   hair: dark green-blue, cropped close to the skull

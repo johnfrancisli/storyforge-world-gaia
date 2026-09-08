@@ -52,6 +52,15 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 - I will not rest until I prove that non-lethal combat can change how the three states wage war.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: lean and whipcord-strong, broad chest
   hair: black, short-cropped for practicality

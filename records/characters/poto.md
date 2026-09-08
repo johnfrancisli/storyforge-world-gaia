@@ -59,6 +59,15 @@ personality: Guarded and cautious with trust, thoughtful and philosophical, carr
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: thin, weathered, steady-handed, average chest
   skin: deep brown, deeply lined

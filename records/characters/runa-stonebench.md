@@ -53,6 +53,18 @@ personality: Guarded and cautious with trust, carries a secret that shapes every
 key_phrases:
 - Good mead takes patience. Great mead takes luck.
 - You can't rush fermentation, and you can't rush honesty.
+equipment:
+  underwear: []
+  clothing:
+  - item:wool-overtunic
+  - item:wool-trousers
+  - item:wrapped-work-apron
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: medium height, sturdy and practical, medium breasts
   hair: dark blonde, worn in a bun

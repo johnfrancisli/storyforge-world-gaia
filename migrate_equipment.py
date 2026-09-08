@@ -10,6 +10,8 @@ supported by existing appearance, role, or biography text.
 import argparse
 from pathlib import Path
 import re
+import shutil
+import subprocess
 
 import yaml
 
@@ -288,3 +290,166 @@ def clothing_assignment(character):
         if "rain cape" in text:
             overlays.append("item:pandanus-rain-cape")
     return unique([top, bottom], overlays)
+
+
+def special_assignment(character):
+    char_id = character.get("id")
+    appearance = str(character.get("appearance", "")).lower()
+    role = str(character.get("role", "")).lower()
+    biography = str(character.get("biography", "")).lower()
+    text = " ".join((appearance, role, biography))
+    held = []
+    accessories = []
+
+    if "blowpipe" in appearance:
+        held.append("item:sleep-blowpipe")
+    if "iron body cultivation manual" in text:
+        held.append("item:chi-manual")
+    if "astrolabe" in appearance:
+        held.append("item:desert-astrolabe")
+    if "spirit-rattle" in appearance or "spirit rattle" in appearance:
+        held.append("item:spirit-rattle")
+    if "river-stone oracle" in text:
+        held.append("item:river-stone-oracle")
+    if "prophecy bones" in text:
+        held.append("item:volva-bones")
+    if "shrine bell of silence" in text:
+        held.append("item:yokai-bell")
+    if "kitsune's message scroll" in text:
+        held.append("item:kitsune-scroll")
+    if "dwarven master-key" in text or "dwarven master key" in text:
+        held.append("item:dwarven-master-key")
+    if "starlight lantern" in text:
+        held.append("item:starlight-lantern")
+    if "frost-giant's horn" in text or "frost giant's horn" in text:
+        held.append("item:frost-giant-horn")
+    if "current-marking tattoo needle" in text or (
+        "tattoo" in role and "needle" in appearance
+    ):
+        held.append("item:current-needle")
+    if "wayfinder" in role and "staff" in appearance:
+        held.append("item:wayfinder-staff")
+    if "wayfinder" in role and "compass" in appearance:
+        held.append("item:star-compass")
+    if any(phrase in appearance for phrase in ("contract lamp", "family lamp", "binding lamp")):
+        held.append("item:djinn-lamp")
+    if "raikiri" in appearance:
+        held.append("item:raikiri")
+    if "drakeward shield" in appearance:
+        held.append("item:drakeward-shield")
+
+    if char_id == "character:arakawa-kenta" or "ofuda talisman" in appearance:
+        accessories.append("item:ofuda")
+    if "qilin's blessing token" in text:
+        accessories.append("item:qilin-token")
+    if "jade seal" in appearance and "warlord" in role:
+        accessories.append("item:warlord-jade-seal")
+    return unique(held), unique(accessories)
+
+
+def render_list(name, refs, indent=2):
+    pad = " " * indent
+    if not refs:
+        return [f"{pad}{name}: []"]
+    return [f"{pad}{name}:"] + [f"{pad}- {item_ref}" for item_ref in refs]
+
+
+def equipment_block(character):
+    clothing = clothing_assignment(character)
+    held, accessories = special_assignment(character)
+    left = right = None
+    if held:
+        if held[0] in {"item:sleep-blowpipe", "item:chi-manual"}:
+            left = right = held[0]
+        else:
+            right = held[0]
+            if len(held) > 1:
+                left = held[1]
+    lines = ["equipment:"]
+    lines += render_list("underwear", [])
+    lines += render_list("clothing", clothing)
+    lines += render_list("armor", [])
+    lines += [
+        "  hands:",
+        f"    left: {left if left else 'null'}",
+        f"    right: {right if right else 'null'}",
+    ]
+    lines += render_list("accessories", accessories)
+    lines.append("  ammo: null")
+    return "\n".join(lines)
+
+
+def apply_character_patch(path, block, root):
+    relative = path.relative_to(root).as_posix()
+    patch = (
+        "*** Begin Patch\n"
+        f"*** Update File: {relative}\n"
+        "@@\n"
+        "-visual:\n"
+        + "\n".join(f"+{line}" for line in block.splitlines())
+        + "\n+visual:\n"
+        "*** End Patch"
+    )
+    codex = shutil.which("codex")
+    if not codex:
+        raise RuntimeError("codex patch executable not found")
+    result = subprocess.run(
+        [codex, "--codex-run-as-apply-patch", patch],
+        cwd=root,
+        text=True,
+        capture_output=True,
+    )
+    if result.returncode:
+        raise RuntimeError(result.stderr or result.stdout)
+
+
+def migrate_character(path, apply, root):
+    text, character = parse_frontmatter(path)
+    if "equipment" in character:
+        return False, character
+    block = equipment_block(character)
+    if not re.search(r"(?m)^visual:", text):
+        raise ValueError(f"{path}: no visual field found for insertion")
+    if apply:
+        apply_character_patch(path, block, root)
+    return True, character
+
+
+def main():
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--dir", default=".", help="Gaia repository root")
+    parser.add_argument("--apply", action="store_true", help="write changes")
+    args = parser.parse_args()
+    # Keep the mapped-drive path. Resolving it to UNC changes write semantics on
+    # this repository even though reads continue to work.
+    root = Path(args.dir).absolute()
+    item_changes = sum(
+        migrate_item(path, args.apply)
+        for path in sorted((root / "records" / "items").glob("*.md"))
+    )
+    character_changes = 0
+    no_clothing_match = []
+    skipped = []
+    for path in sorted((root / "records" / "characters").glob("*.md")):
+        try:
+            changed, character = migrate_character(path, args.apply, root)
+        except RuntimeError as exc:
+            skipped.append((path.relative_to(root).as_posix(), str(exc).strip()))
+            _, character = parse_frontmatter(path)
+            changed = False
+        character_changes += changed
+        if not clothing_assignment(character):
+            no_clothing_match.append(character.get("id"))
+    mode = "Applied" if args.apply else "Would apply"
+    print(f"{mode} item metadata changes: {item_changes}")
+    print(f"{mode} character equipment blocks: {character_changes}")
+    print(f"Characters without a supported clothing assignment: {len(no_clothing_match)}")
+    for char_id in no_clothing_match:
+        print(f"  {char_id}")
+    print(f"Skipped character files: {len(skipped)}")
+    for path, error in skipped:
+        print(f"  {path}: {error}")
+
+
+if __name__ == "__main__":
+    main()

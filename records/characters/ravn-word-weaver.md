@@ -50,6 +50,17 @@ personality: Strict and disciplined.
 key_phrases:
 - A story forgotten is a person erased.
 - The best stories are the ones that change in the telling.
+equipment:
+  underwear: []
+  clothing:
+  - item:wool-overtunic
+  - item:wool-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: thin, lanky, average chest
   height: tall

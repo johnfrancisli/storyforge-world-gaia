@@ -53,6 +53,15 @@ key_phrases:
 - "The throne is a heavy chair, nothing more."
 - "Let them argue; the quiet ones are the dangerous ones."
 - "Time is the one tax I can no longer afford to pay."
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   height: tall
   skin: fair

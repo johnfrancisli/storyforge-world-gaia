@@ -62,6 +62,15 @@ key_phrases:
 - The spirits do not serve. They negotiate.
 - Every pact is a conversation that never ends.
 - I will not rest until I free the mother of jaguars from what she believes is a cage.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: lithe and alert, built for both study and rainforest travel, medium breasts
   hair: tawny-black with emerging rosette patterning at the temples

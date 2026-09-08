@@ -4,7 +4,10 @@ name: Women's Softbark Chest Wrap
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: chest
+equipment_type: wearable
+layer: underwear
+coverage:
+- torso
 appearance: A wide band of softened inner-bark cloth with tapered ends, wrapped around the chest and tied flat beneath one arm.
 description: An optional women's base layer in [[location:verdania|Verdania]] for support, travel, or personal preference. Many communities do not require a separate upper undergarment in ordinary heat.
 item_tags:

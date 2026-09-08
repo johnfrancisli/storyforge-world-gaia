@@ -47,6 +47,17 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 - I will not rest until I find the unaltered genealogy and restore the truth.
+equipment:
+  underwear: []
+  clothing:
+  - item:linen-work-tunic
+  - item:wool-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: thin and stooped, average chest
   hair: white, wispy, tonsured

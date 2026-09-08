@@ -57,6 +57,17 @@ key_phrases:
 - The road teaches what the market cannot.
 - Every caravan carries more than goods.
 - I will not rest until I understand what the shamans did to me daughter and whether it can be undone.
+equipment:
+  underwear: []
+  clothing:
+  - item:sleeveless-barkcloth-tunic
+  - item:softbark-wrap-skirt
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: sturdy and weathered, built for long river journeys, medium breasts
   hair: greying black, braided tightly against the skull

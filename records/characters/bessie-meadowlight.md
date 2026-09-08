@@ -47,6 +47,16 @@ key_phrases:
 - The land doesn't care about your plans.
 - Patience is the only crop that grows in any season.
 - I will not rest until I keep the elven scholar alive long enough for him to deliver me documents.
+equipment:
+  underwear: []
+  clothing:
+  - item:laced-kirtle
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: short and round, halfling stature, large breasts
   hair: white, thin, pinned in a bun under a hat

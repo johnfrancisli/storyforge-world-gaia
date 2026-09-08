@@ -55,6 +55,17 @@ key_phrases:
 - I'm not afraid. I'm just... careful.
 - When you're small, you learn to notice things.
 - I will not rest until I protect chiyo from the things she sees — even if he can't see them himself.
+equipment:
+  underwear: []
+  clothing:
+  - item:hemp-work-kosode
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories:
+  - item:ofuda
+  ammo: null
 visual:
   body_build: lean, growing fast
   hair: black, cropped short

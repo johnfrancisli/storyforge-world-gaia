@@ -50,6 +50,17 @@ key_phrases:
 - I'm not afraid. I'm just... careful.
 - When you're small, you learn to notice things.
 - I will not rest until I stop being afraid of me own hands.
+equipment:
+  underwear: []
+  clothing:
+  - item:short-shan-work-shirt
+  - item:bound-cuff-field-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: small, slight, and wiry
   hair: black, in two simple braids

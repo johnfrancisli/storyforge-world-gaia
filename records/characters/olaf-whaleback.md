@@ -53,6 +53,17 @@ key_phrases:
 - The whale gave its life. The least I can do is understand why.
 - Every hunt teaches you something about yourself you didn't want to know.
 - I will not rest until I pay for me wife's healing and see me well again — by any means necessary.
+equipment:
+  underwear: []
+  clothing:
+  - item:wool-overtunic
+  - item:wool-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: heavy and powerful, thick through the chest and arms
   hair: red-brown, thick, worn short

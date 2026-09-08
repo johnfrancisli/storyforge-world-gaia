@@ -4,7 +4,12 @@ name: Linen Work Tunic
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: chest
+equipment_type: wearable
+layer: clothing
+coverage:
+- torso
+- left_arm
+- right_arm
 appearance: A knee-length linen tunic with long sleeves, a slit neckline, underarm gussets, side gores, reinforced shoulders, and a belt-ready waist.
 description: A washable daily top worn by farmers, craftspeople, travelers, sailors, and soldiers in both [[location:valdris|Valdris]] and [[location:hrafnland|Hrafnland]], suitable beneath wool clothing or a later padded armor layer.
 item_tags:

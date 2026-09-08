@@ -4,7 +4,12 @@ name: Men's Abdominal Wrap
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: chest
+equipment_type: wearable
+layer: underwear
+coverage:
+- torso
+- left_arm
+- right_arm
 appearance: A broad rectangular band of soft cloth wrapped around the lower chest and abdomen, with tapered ends that tuck flat beneath a robe.
 description: Laborers and martial practitioners in [[location:sangguo|Sangguo]] use this optional base wrap for support and to keep outer waistbands from rubbing.
 item_tags:

@@ -22,6 +22,17 @@ biography: >-
   now makes the pass legible to people without lawyers, while the old company returns under a new seal.
 personality: Magnetic, patient, sensual, unsentimental about power, tender toward people rebuilding autonomy.
 key_phrases: ["A toll is a price. A threat is not.", "Say what freedom costs and I will count it."]
+equipment:
+  underwear: []
+  clothing:
+  - item:sleeveless-barkcloth-tunic
+  - item:softbark-wrap-skirt
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: poised athletic build, medium breasts
   height: medium

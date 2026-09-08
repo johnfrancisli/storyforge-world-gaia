@@ -55,6 +55,17 @@ key_phrases:
 - Food is love made edible.
 - A good cook feeds the body. A great cook feeds the soul.
 - I will not rest until I phase out the psychoactive root without the shamans realizing it.
+equipment:
+  underwear: []
+  clothing:
+  - item:sleeveless-barkcloth-tunic
+  - item:softbark-wrap-skirt
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: round and solid, strong-armed from stirring vats, small breasts
   hair: black, streaked with grey, tied under a cloth wrap

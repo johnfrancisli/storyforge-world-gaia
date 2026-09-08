@@ -4,7 +4,11 @@ name: Wrapped Izar
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: legs
+equipment_type: wearable
+layer: clothing
+coverage:
+- left_leg
+- right_leg
 appearance: A broad rectangular length of lightweight cloth wrapped around the waist to the ankles, secured by a tucked fold and optional woven belt.
 description: A simple heat-friendly lower garment in the warmest parts of [[location:al-khayzar|Al-Khayzar]], easily adjusted for work, washing, or rest.
 item_tags:

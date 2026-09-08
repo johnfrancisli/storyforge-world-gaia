@@ -59,6 +59,15 @@ personality: Guarded and cautious with trust, thoughtful and philosophical, carr
 key_phrases:
 - I see what others miss because I know what to look for.
 - The wilderness does not forgive carelessness.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: lean, sharp-eyed, patient, narrow chest
   skin: medium brown, sun-weathered

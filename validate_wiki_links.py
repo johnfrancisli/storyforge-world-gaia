@@ -69,7 +69,7 @@ def extract_all_ids(project_dir):
                 continue
             filepath = os.path.join(root, f)
             try:
-                with open(filepath, 'r') as fh:
+                with open(filepath, 'r', encoding='utf-8', errors='replace') as fh:
                     content = fh.read()
                 if content.startswith('---'):
                     parts = content.split('---', 2)
@@ -86,7 +86,7 @@ def extract_all_ids(project_dir):
     world_json = os.path.join(project_dir, 'world.json')
     if os.path.isfile(world_json):
         try:
-            with open(world_json, 'r') as fh:
+            with open(world_json, 'r', encoding='utf-8', errors='replace') as fh:
                 world = json.load(fh)
             for key in ['locations', 'organizations', 'characters', 'threads', 'items', 'relationships', 'lore']:
                 block = world.get(key, {})
@@ -251,7 +251,7 @@ def validate_markdown_wiki_links(filepath, content, valid_ids, issues):
 def validate_file(filepath, valid_ids, issues):
     """Validate a single Markdown file."""
     try:
-        with open(filepath, 'r') as fh:
+        with open(filepath, 'r', encoding='utf-8', errors='replace') as fh:
             content = fh.read()
     except Exception as e:
         issues.append({

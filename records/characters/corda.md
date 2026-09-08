@@ -53,6 +53,15 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 - I will not rest until I catch the saboteur before the western platform collapses.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: broad and muscular, especially the arms and shoulders, medium breasts
   hair: black, cropped very short for safety around spinning gear

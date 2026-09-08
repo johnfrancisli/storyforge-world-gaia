@@ -4,7 +4,11 @@ name: Men's Winter Drawers
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: legs
+equipment_type: wearable
+layer: underwear
+coverage:
+- left_leg
+- right_leg
 appearance: Full-length soft wool drawers with a linen-lined waist, ankle ties, and a gusseted seat.
 description: A cold-season male base layer for the highlands and mountain roads of [[location:valdris|Valdris]]. It is too bulky for the closest hose but works beneath trousers.
 item_tags:

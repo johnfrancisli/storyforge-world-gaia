@@ -55,6 +55,16 @@ personality: Dignified and self-assured, guarded and cautious with trust, genero
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
+equipment:
+  underwear: []
+  clothing:
+  - item:crossover-desert-robe
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: tall and stately, medium breasts
   hair: silver-black, pinned under a dark headscarf

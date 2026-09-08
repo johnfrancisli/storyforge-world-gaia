@@ -55,6 +55,17 @@ personality: Reserved and soft-spoken, guarded and cautious with trust, blunt an
 key_phrases:
 - The streets teach you who people really are.
 - I see everything. Nobody sees me.
+equipment:
+  underwear: []
+  clothing:
+  - item:knee-length-pirahan
+  - item:bound-ankle-desert-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: thin and gaunt from years of poverty, average chest
   hair: grey, uneven, unwashed

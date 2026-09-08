@@ -22,6 +22,17 @@ biography: >-
   migrants she escorts, forcing her to betray command without betraying the office.
 personality: Laconic, protective, physically confident, shy with tenderness, angered by casual corruption.
 key_phrases: ["The badge is a duty, not a shield.", "Walk in my footprints."]
+equipment:
+  underwear: []
+  clothing:
+  - item:sleeveless-barkcloth-tunic
+  - item:softbark-wrap-skirt
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: runner's athletic build, small breasts
   height: tall

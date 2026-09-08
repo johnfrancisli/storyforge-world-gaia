@@ -58,6 +58,15 @@ personality: Compassionate and tender-hearted, defiant and independently minded,
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: large, broad, gentle in movement, broad chest
   skin: deep brown

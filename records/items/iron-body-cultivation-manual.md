@@ -4,7 +4,11 @@ name: Iron Body Cultivation Manual
 item_type: document
 rarity: null
 is_equippable: true
-slot: two_hand
+equipment_type: held
+hands_required: 2
+allowed_hands:
+- left
+- right
 appearance: A hand-stitched booklet of bamboo slips threaded on silk cord, the slips darkened with age
   and the brushwork so small it must be read with a lens. The cover slip bears a single character for
   'iron' and the chop of the academy that issued it. The silk cord is frayed and has been re-knotted several

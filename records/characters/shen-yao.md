@@ -22,6 +22,16 @@ biography: >-
   boasts and nervous lies, placing a quiet artisan beside the fuse of another war.
 personality: Serene in public, mischievous in private, ethically bold, patient with fear but not cruelty.
 key_phrases: ["The second pouring tells the truth.", "Drink before you decide whom to hate."]
+equipment:
+  underwear: []
+  clothing:
+  - item:straight-hem-shenyi
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: slender athletic build, small breasts
   height: medium

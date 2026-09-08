@@ -55,6 +55,15 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 - I will not rest until I discover who is using the hidden entrance without being discovered himself.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: powerful and compact, built for stillness and explosive movement, broad chest
   hair: black, shaved on the sides with a single topknot

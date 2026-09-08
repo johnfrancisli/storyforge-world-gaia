@@ -50,6 +50,17 @@ key_phrases:
 - More tea, my lord?
 - I did not see anything, I was only cleaning.
 - A mother does what she must.
+equipment:
+  underwear: []
+  clothing:
+  - item:short-shan-work-shirt
+  - item:bound-cuff-field-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: thin and worn, small breasts
   hair: dull black, in a tight servant's bun

@@ -56,6 +56,15 @@ personality: Reserved and soft-spoken, guarded and cautious with trust, blunt an
 key_phrases:
 - The material tells you what it wants to become.
 - My hands remember what my mind forgets.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: strong-armed, broad-handed, focused, large breasts
   skin: medium brown, stained with wood tannin at the hands

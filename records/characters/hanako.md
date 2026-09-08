@@ -49,6 +49,17 @@ personality: Generous and welcoming.
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
+equipment:
+  underwear: []
+  clothing:
+  - item:hemp-work-kosode
+  - item:womens-maekake-work-apron
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: round, comfortable, large breasts
   hair: black, greying, pinned up with a wooden stick

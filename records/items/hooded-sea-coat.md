@@ -4,7 +4,15 @@ name: Hooded Sea Coat
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: chest
+equipment_type: wearable
+layer: clothing
+coverage:
+- head
+- torso
+- left_arm
+- right_arm
+stacking:
+  mode: overlay
 appearance: A thigh-length densely woven wool coat with a deep hood, overlapping front, fitted wrists, and a split back hem, treated with oil and wax against spray.
 description: Sailors in [[location:hrafnland|Hrafnland]] wear this wind-resistant outer layer on deck, where loose cloaks are dangerous.
 item_tags:

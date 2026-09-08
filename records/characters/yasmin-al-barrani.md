@@ -54,6 +54,17 @@ key_phrases:
 - A fair deal leaves both sides slightly unhappy. That is how you know it was fair.
 - Trust is the only currency that compounds.
 - I will not rest until I break the binding families' monopoly on the council and win a merchant seat.
+equipment:
+  underwear: []
+  clothing:
+  - item:crossover-desert-robe
+  - item:short-sleeved-outer-coat
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: stout and strong, commanding presence, medium breasts
   hair: black with grey streaks, pinned under a silk headscarf

@@ -53,6 +53,17 @@ personality: Reserved and soft-spoken, guarded and cautious with trust.
 key_phrases:
 - The body says what the voice cannot.
 - Every step is a sentence. Every turn is a word.
+equipment:
+  underwear: []
+  clothing:
+  - item:knee-length-pirahan
+  - item:bound-ankle-desert-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: lithe and small, dancer's physique, medium breasts
   hair: black, long, loose when performing

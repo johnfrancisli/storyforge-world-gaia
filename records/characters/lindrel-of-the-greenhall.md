@@ -52,6 +52,17 @@ personality: Reserved and soft-spoken.
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
+equipment:
+  underwear: []
+  clothing:
+  - item:elven-forest-tunic
+  - item:elven-fitted-leggings
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: tall, slender, medium breasts
   skin: pale, faintly luminous

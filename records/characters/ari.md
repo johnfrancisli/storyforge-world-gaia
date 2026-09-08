@@ -53,6 +53,15 @@ key_phrases:
 - I see what others miss because I know what to look for.
 - The wilderness does not forgive carelessness.
 - I will not rest until I confirm the identity of the masked figure before making any accusation.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: sleek and compact, powerful swimmer's build, medium breasts
   hair: short dense brown fur covering the head and body

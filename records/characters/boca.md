@@ -55,6 +55,15 @@ key_phrases:
 - The path exists whether or not you can see it.
 - Knowing where you are is not the same as knowing where you're going.
 - I will not rest until I understand what is cutting the spirit-paths and why.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: wiry and lean, built for endurance hiking, small breasts
   hair: black, greying, cut short and practical

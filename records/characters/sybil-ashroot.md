@@ -49,6 +49,16 @@ key_phrases:
 - Every plant has a purpose, if you listen closely enough.
 - The earth provides, if you know where to look.
 - I will not rest until I protect the three marked children from being taken or exploited.
+equipment:
+  underwear: []
+  clothing:
+  - item:laced-kirtle
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: sturdy and comfortable, large breasts
   hair: white, thick, worn in a long braid

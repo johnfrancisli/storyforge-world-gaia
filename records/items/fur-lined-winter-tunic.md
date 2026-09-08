@@ -4,7 +4,12 @@ name: Fur-Lined Winter Tunic
 item_type: clothing
 rarity: uncommon
 is_equippable: true
-slot: chest
+equipment_type: wearable
+layer: clothing
+coverage:
+- torso
+- left_arm
+- right_arm
 appearance: A long dense-wool tunic with a high overlapping collar, close sleeves, deep side gores, and a narrow fur lining at the torso and cuffs.
 description: A severe-weather garment for mountain settlements and winter travel in [[location:hrafnland|Hrafnland]].
 item_tags:

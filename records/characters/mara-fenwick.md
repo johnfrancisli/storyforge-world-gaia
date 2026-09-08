@@ -22,6 +22,15 @@ biography: >-
   Her discovery could reopen forgotten routes—or make Crossford the center of a violent scramble.
 personality: Capable, earthy, skeptical, flirtatiously competitive, and generous with practical help.
 key_phrases: ["A road is only as good as who comes back along it.", "Hold the spoke. I need both hands."]
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: athletic, strong arms, medium breasts
   height: medium

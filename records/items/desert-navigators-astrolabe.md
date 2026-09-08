@@ -4,7 +4,11 @@ name: Desert Navigator's Astrolabe
 item_type: tool
 rarity: null
 is_equippable: true
-slot: main_hand
+equipment_type: held
+hands_required: 1
+allowed_hands:
+- left
+- right
 appearance: A brass astrolabe the width of two palms, its face a nest of nested rings engraved with star-coordinates
   and the phases of the desert moon. The central alidade is set with a small chip of starlight-glass that
   catches even faint light. The whole is worn smooth by thumbs and hangs from a cord of braided camel-leather.

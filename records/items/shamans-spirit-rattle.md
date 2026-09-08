@@ -4,7 +4,11 @@ name: Shaman's Spirit-Rattle
 item_type: tool
 rarity: null
 is_equippable: true
-slot: main_hand
+equipment_type: held
+hands_required: 1
+allowed_hands:
+- left
+- right
 appearance: A gourd the size of a child's fist, dried and painted in bands of red, black, and yellow,
   hung from a cord of woven palm fiber and filled with seeds and small river-pebbles. The gourd is stoppered
   with wax and wrapped at the neck with a single feather from the shaman's first pact-spirit. Each shaman's

@@ -74,6 +74,15 @@ key_phrases:
 - "Count heads before silver. The dead spend nothing."
 - "A retreat chosen in time is seamanship, not shame."
 - "The sea keeps every boast it is given."
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: athletic, broad-shouldered, powerful arms, medium breasts
   height: tall

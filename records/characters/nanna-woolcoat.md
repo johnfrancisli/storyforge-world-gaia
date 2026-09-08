@@ -53,6 +53,17 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 - I will not rest until I find and kill whatever is draining me sheep before it takes the whole flock.
+equipment:
+  underwear: []
+  clothing:
+  - item:wool-overtunic
+  - item:wool-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: lean and wiry, built for long days on the hill, small breasts
   hair: dark brown, thick, worn in a single braid under a wool cap

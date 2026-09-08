@@ -55,6 +55,15 @@ personality: Precise and detail-oriented, tired and carrying a heavy burden, gua
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: slim, fine-featured, precise in movement, medium breasts
   skin: medium brown

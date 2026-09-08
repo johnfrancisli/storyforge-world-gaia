@@ -52,6 +52,16 @@ key_phrases:
 - Every battle is won before it is fought. Or it is lost the same way.
 - The best strategy is the one your enemy never sees.
 - I will not rest until I defect and atone for the deaths me strategies caused.
+equipment:
+  underwear: []
+  clothing:
+  - item:wide-sleeved-scholar-robe
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: tall and upright, slightly gaunt, average chest
   hair: black heavily streaked with gray, in a formal scholar's topknot

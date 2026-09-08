@@ -53,6 +53,15 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 - I will not rest until I ensure the younger prince is prepared to lead if the elder proves unfit.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: athletic, tall, small breasts
   hair: black, cropped short under helm

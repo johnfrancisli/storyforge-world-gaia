@@ -53,6 +53,16 @@ key_phrases:
 - I'm not afraid. I'm just... careful.
 - When you're small, you learn to notice things.
 - I will not rest until I show me friends the kitsune cub in the grove before it disappears.
+equipment:
+  underwear: []
+  clothing:
+  - item:hemp-work-kosode
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: small, wiry, energetic
   hair: black, unruly, half-tied

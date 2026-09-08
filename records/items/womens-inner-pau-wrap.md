@@ -4,7 +4,11 @@ name: Women's Inner Pa'u Wrap
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: legs
+equipment_type: wearable
+layer: underwear
+coverage:
+- left_leg
+- right_leg
 appearance: A lightweight thigh-length barkcloth wrap with a narrow rolled waistband, modest front overlap, and a single flat tuck.
 description: Women in [[location:tide-archipelago|the Tide Archipelago]] use this as a private base layer beneath a longer skirt or ceremonial pa'u, while often omitting it under simple daily wraps in hot weather.
 item_tags:

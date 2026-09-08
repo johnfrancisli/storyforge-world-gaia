@@ -48,6 +48,15 @@ key_phrases:
 - The oath is the man. Break it and nothing remains.
 - Steel serves the cause; the cause does not serve the steel.
 - I will not rest until I find a way to survive voidgaze's death without losing me mind or me life.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: tall and lean, narrow chest
   hair: black, worn short

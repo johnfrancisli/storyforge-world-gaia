@@ -54,6 +54,16 @@ personality: Guarded and cautious with trust, carries a secret that shapes every
 key_phrases:
 - The river gives and the river takes. You learn to accept both.
 - A bad day fishing is still a day on the water.
+equipment:
+  underwear: []
+  clothing:
+  - item:hemp-work-kosode
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: wiry, sea-worn, narrow chest
   hair: grey, thin, under a knit cap

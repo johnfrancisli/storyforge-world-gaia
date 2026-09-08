@@ -54,6 +54,17 @@ personality: Reserved and soft-spoken, compassionate and tender-hearted, guarded
 key_phrases:
 - The material tells you what it wants to become.
 - My hands remember what my mind forgets.
+equipment:
+  underwear: []
+  clothing:
+  - item:open-sided-island-tunic
+  - item:pau-wrap-skirt
+  armor: []
+  hands:
+    left: null
+    right: item:current-needle
+  accessories: []
+  ammo: null
 visual:
   body_build: stocky, strong-armed, medium breasts
   skin: deep tan

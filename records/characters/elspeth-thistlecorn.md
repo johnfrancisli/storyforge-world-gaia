@@ -53,6 +53,15 @@ personality: Shrewd and calculating, blunt and rough-spoken.
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: small and wiry, bent but energetic, medium breasts
   hair: white, thin, under a straw hat

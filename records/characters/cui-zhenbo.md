@@ -51,6 +51,16 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 - I will not rest until I confirm whether the crown prince is the poisoner before the warlord dies.
+equipment:
+  underwear: []
+  clothing:
+  - item:wide-sleeved-scholar-robe
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: medium, slightly stooped with age, average chest
   hair: white, full, in a physician's formal topknot with a silver pin

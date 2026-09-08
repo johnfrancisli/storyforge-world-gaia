@@ -4,7 +4,12 @@ name: Women's Hadajuban
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: chest
+equipment_type: wearable
+layer: underwear
+coverage:
+- torso
+- left_arm
+- right_arm
 appearance: A light cotton wrap undershirt reaching the upper hip, with a crossed collar, compact sleeves, and small ties at the breast.
 description: A common women's skin layer beneath kosode in [[location:tsukuyomi|Tsukuyomi]]. It is deliberately plain, washable, and easy to replace.
 item_tags:

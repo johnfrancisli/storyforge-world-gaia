@@ -57,6 +57,17 @@ key_phrases:
 - Food is love made edible.
 - A good cook feeds the body. A great cook feeds the soul.
 - I will not rest until I expose the binding families' hoarding before the shortage becomes a famine.
+equipment:
+  underwear: []
+  clothing:
+  - item:knee-length-pirahan
+  - item:bound-ankle-desert-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: stout and strong-armed, large breasts
   hair: grey-black, covered by a cloth cap

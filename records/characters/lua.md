@@ -54,6 +54,17 @@ key_phrases:
 - A story forgotten is a person erased.
 - The best stories are the ones that change in the telling.
 - I will not rest until I pass the encoded binding story to someone worthy before she dies.
+equipment:
+  underwear: []
+  clothing:
+  - item:sleeveless-barkcloth-tunic
+  - item:softbark-wrap-skirt
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: thin and fragile, small-statured, large breasts
   hair: white, fine, worn loose

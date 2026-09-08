@@ -49,6 +49,15 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 - I will not rest until I understand why me veterans are aging and dying prematurely.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: tall, broad, and imposing, broad chest
   hair: black, cropped short under a military topknot

@@ -4,7 +4,11 @@ name: Gathered Ship Trousers
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: legs
+equipment_type: wearable
+layer: clothing
+coverage:
+- left_leg
+- right_leg
 appearance: Roomy wool trousers with a broad gathered seat and thigh, narrowing sharply below the knee for binding with woven leg wraps.
 description: Longship crews in [[location:hrafnland|Hrafnland]] favor this cut because it permits crouching and rowing while keeping the lower leg clear.
 item_tags:

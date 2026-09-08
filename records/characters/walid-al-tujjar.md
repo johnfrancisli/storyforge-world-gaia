@@ -56,6 +56,16 @@ personality: Shrewd and calculating, guarded and cautious with trust, blunt and 
 key_phrases:
 - A fair deal leaves both sides slightly unhappy. That is how you know it was fair.
 - Trust is the only currency that compounds.
+equipment:
+  underwear: []
+  clothing:
+  - item:crossover-desert-robe
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: stout and round, prosperous, average chest
   hair: black, greying, oiled and well-kept

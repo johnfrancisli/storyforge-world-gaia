@@ -52,6 +52,17 @@ personality: Reserved and soft-spoken, guarded and cautious with trust, carries 
 key_phrases:
 - The sea doesn't negotiate. You learn her rules or you drown.
 - A still day on the water is a gift, not a promise.
+equipment:
+  underwear: []
+  clothing:
+  - item:wool-overtunic
+  - item:wool-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: wiry and tall, built for the open deck, small breasts
   hair: pale blonde, bleached nearly white by salt and sun, worn in two thin braids

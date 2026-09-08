@@ -56,6 +56,17 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 - I will not rest until I be free of the hook in me chest and leave the temple for good.
+equipment:
+  underwear: []
+  clothing:
+  - item:sleeveless-barkcloth-tunic
+  - item:softbark-wrap-skirt
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: lean and weathered, pared down by years of solitude, small breasts
   hair: grey-black, long, matted into rough dreadlocks

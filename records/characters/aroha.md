@@ -59,6 +59,17 @@ personality: Compassionate and tender-hearted, generous and welcoming.
 key_phrases:
 - A story forgotten is a person erased.
 - The best stories are the ones that change in the telling.
+equipment:
+  underwear: []
+  clothing:
+  - item:open-sided-island-tunic
+  - item:pau-wrap-skirt
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: soft, round-faced, expressive in gesture, large breasts
   skin: warm brown

@@ -4,7 +4,13 @@ name: Pleated Work Hakama
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: legs
+equipment_type: wearable
+layer: clothing
+coverage:
+- left_leg
+- right_leg
+stacking:
+  mode: overlay
 appearance: A divided lower garment with broad pleated legs, a firm waist panel, long tying cords, and a hem shortened for indoor or workshop use.
 description: A practical hakama worn for formal work, instruction, and household duties in [[location:tsukuyomi|Tsukuyomi]]. The divided construction allows kneeling and steady movement.
 item_tags:

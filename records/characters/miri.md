@@ -54,6 +54,15 @@ personality: Strict and disciplined.
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: muscular and athletic, broad-shouldered and long-limbed, small breasts
   hair: short, tawny-black, spotted pattern continuing from scalp down the neck

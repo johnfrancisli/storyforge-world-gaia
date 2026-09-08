@@ -4,7 +4,11 @@ name: Bound-Ankle Desert Trousers
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: legs
+equipment_type: wearable
+layer: clothing
+coverage:
+- left_leg
+- right_leg
 appearance: Loose straight trousers with a gusseted seat, broad tie waist, reinforced inner thighs, and cloth ties that bind each hem above the ankle.
 description: Laborers and foot travelers in [[location:al-khayzar|Al-Khayzar]] favor this cut because it ventilates well without dragging through sand or brush.
 item_tags:

@@ -4,7 +4,14 @@ name: Women's Quilted Winter Kosode
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: chest
+equipment_type: wearable
+layer: clothing
+coverage:
+- torso
+- left_arm
+- right_arm
+- left_leg
+- right_leg
 appearance: A calf-length padded kosode with a crossed front, compact sleeves, a softly quilted lining,
   reinforced cuffs, and enough room for an underrobe.
 description: Women in the colder mountain districts of [[location:tsukuyomi|Tsukuyomi]] wear this insulated

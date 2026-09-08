@@ -53,6 +53,18 @@ personality: Perceptive and watchful, reserved and soft-spoken, shrewd and calcu
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
+equipment:
+  underwear: []
+  clothing:
+  - item:loose-cotton-qamis
+  - item:desert-riding-trousers
+  - item:sleeveless-caravan-vest
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: lean and wiry, rider's build, medium breasts
   hair: dark brown, short, under a wrapping scarf

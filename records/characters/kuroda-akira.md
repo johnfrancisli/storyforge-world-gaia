@@ -54,6 +54,16 @@ personality: Precise and detail-oriented, reserved and soft-spoken, guarded and 
 key_phrases:
 - Knowledge is not power. Knowledge is a lantern in a large, dark room.
 - The truth does not need you to believe in it.
+equipment:
+  underwear: []
+  clothing:
+  - item:hemp-work-kosode
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: medium, softening with age, average chest
   hair: grey, in a scholar's topknot

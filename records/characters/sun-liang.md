@@ -53,6 +53,16 @@ personality: Composed and even-tempered, guarded and cautious with trust, carrie
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
+equipment:
+  underwear: []
+  clothing:
+  - item:straight-hem-shenyi
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: slim, elegant, narrow chest
   hair: white, topknot, groomed beard

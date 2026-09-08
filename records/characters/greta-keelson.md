@@ -55,6 +55,17 @@ key_phrases:
 - A ship is a promise made to the sea.
 - The keel is the spine. Get it wrong and nothing else matters.
 - I will not rest until I build a ship so fine it would make even the dead southern shipwright proud.
+equipment:
+  underwear: []
+  clothing:
+  - item:wool-overtunic
+  - item:wool-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: broad and muscular from years of timber work, small breasts
   hair: sandy brown, cut short and practical

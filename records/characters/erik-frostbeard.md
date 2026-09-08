@@ -54,6 +54,17 @@ personality: Bold and uncompromising, shrewd and calculating, guarded and cautio
 key_phrases:
 - The stars do not lie, but they do not explain themselves.
 - The ocean is not empty. It is full of things you cannot see.
+equipment:
+  underwear: []
+  clothing:
+  - item:hooded-sea-coat
+  - item:gathered-ship-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: tall but stooped, once powerful now thinning, broad chest
   hair: white, long beard, thinning on top

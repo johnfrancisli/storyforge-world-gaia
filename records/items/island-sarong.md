@@ -4,7 +4,11 @@ name: Island Sarong
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: legs
+equipment_type: wearable
+layer: clothing
+coverage:
+- left_leg
+- right_leg
 appearance: A lightweight tube of woven cloth folded at the waist and secured with a flat tuck, falling in straight loose folds to the ankles.
 description: Common in the trading islands of [[location:tide-archipelago|the Tide Archipelago]], this lower garment reflects long exchange between seafaring communities.
 item_tags:

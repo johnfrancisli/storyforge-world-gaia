@@ -55,6 +55,15 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 - I will not rest until I bring me brother home permanently without destroying the family name.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: medium height, square-shouldered and strong, large breasts
   hair: dark blonde, cropped short under a helm

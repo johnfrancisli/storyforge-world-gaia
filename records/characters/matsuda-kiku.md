@@ -50,6 +50,16 @@ personality: Precise and detail-oriented, blunt and rough-spoken, generous and w
 key_phrases:
 - A story forgotten is a person erased.
 - The best stories are the ones that change in the telling.
+equipment:
+  underwear: []
+  clothing:
+  - item:hemp-work-kosode
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: small, frail-seeming, small breasts
   hair: white, thin, under a cap

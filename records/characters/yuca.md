@@ -55,6 +55,16 @@ key_phrases:
 - A garden is a conversation with patience.
 - Every plant has a lesson, if you are willing to learn it slowly.
 - I will not rest until I understand what she is and why plants respond to me.
+equipment:
+  underwear: []
+  clothing:
+  - item:softbark-wrap-skirt
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: solid and grounded, strong from garden work, large breasts
   hair: black, loose, often tangled with leaves and small flowers

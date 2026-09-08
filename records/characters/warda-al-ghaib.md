@@ -55,6 +55,15 @@ personality: Strict and disciplined.
 key_phrases:
 - The future is not fixed. It is inclined.
 - I see patterns, not certainties. Do not confuse the two.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: slender, restless, small breasts
   hair: black, long, loose and untamed

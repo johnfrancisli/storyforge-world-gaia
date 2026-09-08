@@ -51,6 +51,16 @@ personality: Warm and optimistic, guarded and cautious with trust, carries a sec
 key_phrases:
 - The best lies are the ones that feel like truth.
 - Information is the only currency that never devalues.
+equipment:
+  underwear: []
+  clothing:
+  - item:straight-hem-shenyi
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: compact, muscular, and limber, small breasts
   hair: black, in a performer's high ponytail with red ribbons

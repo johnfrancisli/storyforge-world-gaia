@@ -4,7 +4,10 @@ name: Women's Mofu Chest Wrap
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: chest
+equipment_type: wearable
+layer: underwear
+coverage:
+- torso
 appearance: A soft rectangular chest cloth with long corner ties, wrapped flat around the torso without boning or rigid cups.
 description: An optional supportive women's base garment in [[location:sangguo|Sangguo]], especially useful for riding, martial practice, and physical work.
 item_tags:

@@ -4,7 +4,11 @@ name: Leaf-Fiber Dance Skirt
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: legs
+equipment_type: wearable
+layer: clothing
+coverage:
+- left_leg
+- right_leg
 appearance: A knee-length skirt of prepared leaf-fiber strands knotted to a broad woven waistband, with layered fringe designed to move clearly during dance.
 description: Made for festivals and communal performance in [[location:tide-archipelago|the Tide Archipelago]], it is an outer costume layer rather than ordinary underwear.
 item_tags:

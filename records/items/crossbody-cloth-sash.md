@@ -4,7 +4,12 @@ name: Crossbody Cloth Sash
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: chest
+equipment_type: wearable
+layer: clothing
+coverage:
+- torso
+- left_arm
+- right_arm
 appearance: A broad band of woven plant cloth worn diagonally across the torso, with a widened shoulder section, fringed ends, and a small tied pocket.
 description: A minimal upper layer used by traders and forest travelers in [[location:verdania|Verdania]], doubling as a carrying sling when removed.
 item_tags:

@@ -4,7 +4,11 @@ name: Dwarven Master-Key
 item_type: relic
 rarity: null
 is_equippable: true
-slot: main_hand
+equipment_type: held
+hands_required: 1
+allowed_hands:
+- left
+- right
 appearance: A key of black iron the length of a forearm, too heavy to be carried on a ring. The bow is
   forged into the dwarven rune for 'opening,' and the bit is not a fixed shape but a lattice of interlocking
   plates that shift and settle against any lock they are pressed into. The metal is cold and slightly

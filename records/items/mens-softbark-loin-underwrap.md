@@ -4,7 +4,11 @@ name: Men's Softbark Loin Underwrap
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: legs
+equipment_type: wearable
+layer: underwear
+coverage:
+- left_leg
+- right_leg
 appearance: A narrow strip of very soft inner-bark cloth wrapped at the waist and between the legs, with tapered ends that tuck into the waist fold.
 description: A simple male base layer in [[location:verdania|Verdania]], worn beneath skirts or work wraps when a separate undergarment is desired.
 item_tags:

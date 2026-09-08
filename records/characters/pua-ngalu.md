@@ -22,6 +22,17 @@ biography: >-
   first measurement she cannot independently remember, making the instrument both evidence and warning.
 personality: Precise, private, wry, loyal, quietly intense in affection, intolerant of stolen credit.
 key_phrases: ["Measure twice. Remember together.", "The tool kept what the mind lost."]
+equipment:
+  underwear: []
+  clothing:
+  - item:open-sided-island-tunic
+  - item:pau-wrap-skirt
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: lean athletic build, small breasts
   height: medium

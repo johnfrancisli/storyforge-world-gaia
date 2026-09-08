@@ -54,6 +54,15 @@ personality: Reserved and soft-spoken, guarded and cautious with trust, blunt an
 key_phrases:
 - Food is love made edible.
 - A good cook feeds the body. A great cook feeds the soul.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: broad, solid, thick-armed, small breasts
   skin: medium brown, smoke-darkened at the hands and forearms

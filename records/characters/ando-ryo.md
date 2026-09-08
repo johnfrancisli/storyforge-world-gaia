@@ -56,6 +56,16 @@ personality: Precise and detail-oriented, reserved and soft-spoken, strict and d
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
+equipment:
+  underwear: []
+  clothing:
+  - item:hemp-work-kosode
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: medium, precise in movement, average chest
   hair: black, in a simple topknot

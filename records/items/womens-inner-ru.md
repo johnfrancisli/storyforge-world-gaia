@@ -4,7 +4,12 @@ name: Women's Inner Ru
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: chest
+equipment_type: wearable
+layer: underwear
+coverage:
+- torso
+- left_arm
+- right_arm
 appearance: A lightweight waist-length inner jacket with a crossed collar, narrow sleeves, short side vents, and ties placed to lie flat beneath outer clothing.
 description: A common women's washable underlayer in [[location:sangguo|Sangguo]], worn beneath ru jackets, skirts, and robes.
 item_tags:

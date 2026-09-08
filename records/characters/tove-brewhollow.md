@@ -53,6 +53,17 @@ personality: Reserved and soft-spoken, compassionate and tender-hearted, guarded
 key_phrases:
 - Food is love made edible.
 - A good cook feeds the body. A great cook feeds the soul.
+equipment:
+  underwear: []
+  clothing:
+  - item:strap-apron-dress
+  - item:wrapped-work-apron
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: medium height, sturdy and strong-armed, small breasts
   hair: chestnut brown, worn in two braids pinned up under a cap

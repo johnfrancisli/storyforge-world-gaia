@@ -4,7 +4,11 @@ name: Drakeward Shield
 item_type: armor
 rarity: null
 is_equippable: true
-slot: off_hand
+equipment_type: shield
+hands_required: 1
+allowed_hands:
+- left
+- right
 appearance: A tower shield of layered oak and iron, bound in dragon-scale hide that has darkened to the
   color of old blood. The iron boss is cast in the shape of a sleeping dragon curled around the grip.
   The hide still holds warmth even in winter, and faint scale-shadows move across it in firelight.

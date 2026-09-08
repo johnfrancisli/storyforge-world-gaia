@@ -58,6 +58,17 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 - I will not rest until I understand the spirit-resonance of the blue glaze and what it means.
+equipment:
+  underwear: []
+  clothing:
+  - item:sleeveless-barkcloth-tunic
+  - item:softbark-wrap-skirt
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: broad and sturdy, heat-tolerant from kiln work, broad chest
   hair: black, singed short, perpetually ash-dusted

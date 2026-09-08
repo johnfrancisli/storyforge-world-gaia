@@ -48,6 +48,16 @@ personality: Compassionate and tender-hearted.
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
+equipment:
+  underwear: []
+  clothing:
+  - item:hemp-work-kosode
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: tall, lean, angular, narrow chest
   hair: black, long, tied high

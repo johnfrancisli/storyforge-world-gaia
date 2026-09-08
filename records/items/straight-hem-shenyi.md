@@ -4,7 +4,14 @@ name: Straight-Hem Shenyi
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: chest
+equipment_type: wearable
+layer: clothing
+coverage:
+- torso
+- left_arm
+- right_arm
+- left_leg
+- right_leg
 appearance: A long one-piece robe joining upper and lower panels at the waist, with a right-closing crossed front, straight hem, long sleeves, and a broad sash.
 description: A dignified robe used for study, ceremony, and respectable daily wear throughout [[location:sangguo|Sangguo]].
 item_tags:

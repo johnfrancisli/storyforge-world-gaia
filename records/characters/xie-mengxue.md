@@ -51,6 +51,17 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 - I will not rest until I find safety and someone trustworthy to give the cultivation manual to.
+equipment:
+  underwear: []
+  clothing:
+  - item:short-shan-work-shirt
+  - item:bound-cuff-field-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: slight and wiry, undernourished, small breasts
   hair: dye-darkened brown (naturally lighter), in a tight laundress bun

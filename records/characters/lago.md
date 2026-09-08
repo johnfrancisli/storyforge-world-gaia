@@ -56,6 +56,15 @@ key_phrases:
 - I'm not afraid. I'm just... careful.
 - When you're small, you learn to notice things.
 - I will not rest until I find the place in me dreams and see if it is real.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: small and slight, still growing
   hair: dark blue-green, fine, clinging to the skull

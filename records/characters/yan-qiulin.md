@@ -47,6 +47,15 @@ personality: Guarded and cautious with trust, blunt and rough-spoken.
 key_phrases:
 - The best lies are the ones that feel like truth.
 - Information is the only currency that never devalues.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: tall and upright, medium breasts
   hair: black with early silver threads, in a general's-wife formal coiffure

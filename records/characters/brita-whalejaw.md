@@ -55,6 +55,17 @@ personality: Guarded and cautious with trust, blunt and rough-spoken, carries a 
 key_phrases:
 - The whale gave its life. The least I can do is understand why.
 - Every hunt teaches you something about yourself you didn't want to know.
+equipment:
+  underwear: []
+  clothing:
+  - item:wool-overtunic
+  - item:wool-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: very tall and heavily built, raw power, small breasts
   hair: grey-blonde, thick, worn loose under a leather cap

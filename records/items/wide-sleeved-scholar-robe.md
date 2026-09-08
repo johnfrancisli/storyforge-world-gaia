@@ -4,7 +4,14 @@ name: Wide-Sleeved Scholar Robe
 item_type: clothing
 rarity: uncommon
 is_equippable: true
-slot: chest
+equipment_type: wearable
+layer: clothing
+coverage:
+- torso
+- left_arm
+- right_arm
+- left_leg
+- right_leg
 appearance: A floor-length robe with a crossed collar, very broad sleeves, layered front panels, a bound waist, and a clean straight hem.
 description: Scholars and court officials in [[location:sangguo|Sangguo]] wear this formal silhouette, with material and insignia varying by rank.
 item_tags:

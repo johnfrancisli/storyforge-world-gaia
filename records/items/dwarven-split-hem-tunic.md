@@ -4,7 +4,12 @@ name: Dwarven Split-Hem Tunic
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: chest
+equipment_type: wearable
+layer: clothing
+coverage:
+- torso
+- left_arm
+- right_arm
 appearance: A dense wool tunic cut broad through the torso, with short side vents, fitted forearms, a high collar, and reinforced panels across the shoulders and abdomen.
 description: Favored in the holds of [[location:valdris|Valdris]], this compact cut stays clear of tools while protecting the body from stone dust and forge sparks.
 item_tags:

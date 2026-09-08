@@ -49,6 +49,17 @@ personality: Composed and even-tempered, shrewd and calculating, wary and watchf
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
+equipment:
+  underwear: []
+  clothing:
+  - item:wool-overtunic
+  - item:wool-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: massive, broad, twelve feet tall, broad chest
   skin: grey, cold to look at

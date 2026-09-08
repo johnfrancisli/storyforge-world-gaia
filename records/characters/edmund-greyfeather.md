@@ -48,6 +48,17 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 - I will not rest until I expose the dragon-trapping operation and bring its backers to justice.
+equipment:
+  underwear: []
+  clothing:
+  - item:elven-forest-tunic
+  - item:elven-fitted-leggings
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: lean and rangy, narrow chest
   hair: dark brown, shaggy

@@ -4,7 +4,11 @@ name: Loose Ku Trousers
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: legs
+equipment_type: wearable
+layer: clothing
+coverage:
+- left_leg
+- right_leg
 appearance: Loose full-length trousers with a broad drawstring waist, deep seat, straight legs, and generous ankle openings.
 description: Widely worn beneath short jackets and long robes in [[location:sangguo|Sangguo]], especially for labor and travel.
 item_tags:

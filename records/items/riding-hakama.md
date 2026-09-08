@@ -4,7 +4,13 @@ name: Riding Hakama
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: legs
+equipment_type: wearable
+layer: clothing
+coverage:
+- left_leg
+- right_leg
+stacking:
+  mode: overlay
 appearance: Full divided hakama with deep pleats, generous seat room, reinforced inner legs, and long waist cords for a secure wrap.
 description: Riders and mounted messengers in [[location:tsukuyomi|Tsukuyomi]] use this roomy lower garment over a base layer. Reinforcement protects the cloth from saddle wear.
 item_tags:

@@ -57,6 +57,17 @@ personality: Compassionate and tender-hearted, tired and carrying a heavy burden
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
+equipment:
+  underwear: []
+  clothing:
+  - item:open-sided-island-tunic
+  - item:pau-wrap-skirt
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: slim, fine-fingered, gentle in movement, medium breasts
   skin: medium brown

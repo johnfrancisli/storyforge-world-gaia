@@ -51,6 +51,15 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 - I will not rest until I catch the tamperer and expose the historical revisionism.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: medium and precise, small breasts
   hair: black, in a neat librarian's bun with reading-glasses chain

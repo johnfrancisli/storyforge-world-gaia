@@ -4,7 +4,11 @@ name: Volva's Prophecy Bones
 item_type: tool
 rarity: null
 is_equippable: true
-slot: main_hand
+equipment_type: held
+hands_required: 1
+allowed_hands:
+- left
+- right
 appearance: A leather pouch containing twenty-odd small bones -- knuckle-bones of seals and deer, a fragment
   of whale-rib, two human finger-bones yellow with age -- each scratched with a single rune. The pouch
   is worn soft with handling and tied with a cord of plaited sinew. The bones clatter softly even when

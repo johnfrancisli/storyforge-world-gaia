@@ -52,6 +52,16 @@ personality: Precise and detail-oriented, strict and disciplined.
 key_phrases:
 - The body says what the voice cannot.
 - Every step is a sentence. Every turn is a word.
+equipment:
+  underwear: []
+  clothing:
+  - item:hemp-work-kosode
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: slender, lithe, small breasts
   hair: black, long, worn in an elaborate dance style with floral kanzashi

@@ -56,6 +56,16 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 - I will not rest until I understand what the clay-child is and what it needs to thrive.
+equipment:
+  underwear: []
+  clothing:
+  - item:softbark-wrap-skirt
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: sturdy and patient, strong from kneading clay, medium breasts
   hair: greying black, tied back under a clay-spattered cloth

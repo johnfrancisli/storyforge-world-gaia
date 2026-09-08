@@ -47,6 +47,15 @@ key_phrases:
 - The path exists whether or not you can see it.
 - Knowing where you are is not the same as knowing where you're going.
 - I will not rest until I help arriving souls choose a nation to begin in, and to do this work well.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   hair: grey, long, loosely tied
   eyes: dark, patient

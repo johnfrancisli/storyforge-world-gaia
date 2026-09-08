@@ -65,6 +65,16 @@ personality: Guarded and cautious with trust, blunt and rough-spoken, carries a 
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
+equipment:
+  underwear: []
+  clothing:
+  - item:crossover-desert-robe
+  armor: []
+  hands:
+    left: null
+    right: item:djinn-lamp
+  accessories: []
+  ammo: null
 visual:
   body_build: tall and graceful, small breasts
   hair: black, long, elaborately styled

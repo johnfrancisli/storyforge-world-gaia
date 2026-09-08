@@ -48,6 +48,16 @@ personality: Guarded and cautious with trust, blunt and rough-spoken.
 key_phrases:
 - A fair deal leaves both sides slightly unhappy. That is how you know it was fair.
 - Trust is the only currency that compounds.
+equipment:
+  underwear: []
+  clothing:
+  - item:straight-hem-shenyi
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: round, well-fed, average chest
   hair: black, oiled, topknot

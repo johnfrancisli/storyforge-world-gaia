@@ -56,6 +56,17 @@ personality: Precise and detail-oriented, reserved and soft-spoken, compassionat
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
+equipment:
+  underwear: []
+  clothing:
+  - item:sleeveless-barkcloth-tunic
+  - item:softbark-wrap-skirt
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: medium and soft-handed, built for delicate craft work, average chest
   hair: black, short, always with a few stray feathers caught in it

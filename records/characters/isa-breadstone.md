@@ -57,6 +57,18 @@ personality: Warm and optimistic, guarded and cautious with trust, blunt and rou
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
+equipment:
+  underwear: []
+  clothing:
+  - item:wool-overtunic
+  - item:wool-trousers
+  - item:wrapped-work-apron
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: medium height, soft and strong-armed from kneading, medium breasts
   hair: light brown, worn under a baker's cap

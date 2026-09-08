@@ -59,6 +59,15 @@ personality: Warm and optimistic, guarded and cautious with trust, blunt and rou
 key_phrases:
 - The stars do not lie, but they do not explain themselves.
 - The ocean is not empty. It is full of things you cannot see.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: item:star-compass
+  accessories: []
+  ammo: null
 visual:
   body_build: lean, quick, bright-eyed, medium breasts
   skin: medium brown

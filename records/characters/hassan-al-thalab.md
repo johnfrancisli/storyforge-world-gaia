@@ -56,6 +56,18 @@ personality: Guarded and cautious with trust, blunt and rough-spoken.
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
+equipment:
+  underwear: []
+  clothing:
+  - item:knee-length-pirahan
+  - item:bound-ankle-desert-trousers
+  - item:sleeveless-caravan-vest
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: lean and sinewy, performer's grace, narrow chest
   hair: black, grey-streaked, under a performer's turban

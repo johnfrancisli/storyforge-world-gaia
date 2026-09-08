@@ -4,7 +4,11 @@ name: Men's Cotton Loin Underwrap
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: waist
+equipment_type: wearable
+layer: underwear
+coverage:
+- left_leg
+- right_leg
 appearance: A long narrow strip of soft cotton passed between the legs and secured around the waist with flat overlapping turns.
 description: A minimal male base layer used in the hottest regions of [[location:al-khayzar|Al-Khayzar]], especially beneath an izar or loose trousers.
 item_tags:

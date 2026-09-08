@@ -55,6 +55,17 @@ personality: Shrewd and calculating, guarded and cautious with trust.
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
+equipment:
+  underwear: []
+  clothing:
+  - item:hemp-work-kosode
+  - item:womens-maekake-work-apron
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: slender, fine-boned, small breasts
   hair: black, straight, tied back

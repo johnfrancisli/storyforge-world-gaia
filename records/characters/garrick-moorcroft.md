@@ -51,6 +51,15 @@ personality: Bold and uncompromising, dignified and self-assured, tired and carr
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: big, broad, scarred, broad chest
   height: tall

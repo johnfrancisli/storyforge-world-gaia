@@ -48,6 +48,16 @@ personality: Composed and even-tempered.
 key_phrases:
 - Music is what words feel when they are honest.
 - Every song is a conversation with silence.
+equipment:
+  underwear: []
+  clothing:
+  - item:hemp-work-kosode
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: slender, straight-backed, small breasts
   hair: black, greying at the temples, worn in a formal low bun

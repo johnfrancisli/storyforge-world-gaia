@@ -54,6 +54,17 @@ personality: Reserved and soft-spoken, guarded and cautious with trust.
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
+equipment:
+  underwear: []
+  clothing:
+  - item:open-sided-island-tunic
+  - item:pau-wrap-skirt
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: tall, long-armed, broad across the back, large breasts
   skin: warm brown

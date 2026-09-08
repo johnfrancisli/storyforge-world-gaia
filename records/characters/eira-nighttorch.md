@@ -53,6 +53,17 @@ key_phrases:
 - A story forgotten is a person erased.
 - The best stories are the ones that change in the telling.
 - I will not rest until I tell the true story — because a skald who hides the truth is no skald at all.
+equipment:
+  underwear: []
+  clothing:
+  - item:wool-overtunic
+  - item:wool-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: slender and wiry, quick-moving, small breasts
   hair: black, long, worn loose when performing, braided otherwise

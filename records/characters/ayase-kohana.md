@@ -52,6 +52,16 @@ personality: Strict and disciplined, guarded and cautious with trust.
 key_phrases:
 - Every smile is a weapon. Every whispered word is a strategy.
 - The most dangerous person in any room is the one everyone underestimates.
+equipment:
+  underwear: []
+  clothing:
+  - item:womens-layered-town-kosode
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: slender, graceful, medium breasts
   hair: black, elaborately styled with ornaments

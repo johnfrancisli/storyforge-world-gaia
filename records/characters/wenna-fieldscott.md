@@ -46,6 +46,17 @@ personality: Reserved and soft-spoken, strict and disciplined, blunt and rough-s
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
+equipment:
+  underwear: []
+  clothing:
+  - item:linen-work-tunic
+  - item:wool-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: lean and wiry from years on the hills, medium breasts
   hair: wheat blonde, sun-bleached, worn in a single braid

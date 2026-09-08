@@ -50,6 +50,15 @@ key_phrases:
 - The oath is the man. Break it and nothing remains.
 - Steel serves the cause; the cause does not serve the steel.
 - I will not rest until I follow emberthyst's call and discover what lies in the northern mountains.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: tall and athletic, medium breasts
   hair: red-gold, cropped short

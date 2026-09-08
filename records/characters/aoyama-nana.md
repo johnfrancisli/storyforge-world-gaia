@@ -50,6 +50,16 @@ personality: Composed and even-tempered, reserved and soft-spoken, compassionate
 key_phrases:
 - Every plant has a purpose, if you listen closely enough.
 - The earth provides, if you know where to look.
+equipment:
+  underwear: []
+  clothing:
+  - item:hemp-work-kosode
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: weathered, wiry, small breasts
   hair: iron grey, thick, braided and coiled

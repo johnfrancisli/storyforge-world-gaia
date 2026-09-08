@@ -33,6 +33,16 @@ personality: Steady, blunt, protective, quietly funny, and responsive to compete
 key_phrases:
 - "If the joint is honest, it does not need a nail."
 - "Sacred wood still leaves sawdust. Follow it."
+equipment:
+  underwear: []
+  clothing:
+  - item:hemp-work-kosode
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: lean muscular build, medium breasts
   height: medium

@@ -51,6 +51,17 @@ key_phrases:
 - Metal has opinions. My job is to negotiate.
 - The forge teaches patience whether you want to learn it or not.
 - I will not rest until I perfect the qilin-iron folding technique and create a legendary blade.
+equipment:
+  underwear: []
+  clothing:
+  - item:short-shan-work-shirt
+  - item:bound-cuff-field-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: massive, heavy-armed, thick-necked, broad chest
   hair: shaved, scarred from forge-sparks

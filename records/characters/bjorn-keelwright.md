@@ -55,6 +55,17 @@ key_phrases:
 - A ship is a promise made to the sea.
 - The keel is the spine. Get it wrong and nothing else matters.
 - I will not rest until I tell greta the truth before the weight of it crushes one of them.
+equipment:
+  underwear: []
+  clothing:
+  - item:wool-overtunic
+  - item:wool-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: very tall and broad, thick through the shoulders and chest
   hair: grey, long beard braided with iron rings

@@ -22,6 +22,18 @@ biography: >-
   is too precise for bandits and too widespread for one nation, threatening the trust her business represents.
 personality: Restless, clever, openly warm, skeptical of permanence, attracted to partners who choose the road together.
 key_phrases: ["Risk can be priced. Betrayal cannot.", "The map is wrong in the same place every time."]
+equipment:
+  underwear: []
+  clothing:
+  - item:loose-cotton-qamis
+  - item:desert-riding-trousers
+  - item:sleeveless-caravan-vest
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: rider's athletic build, small breasts
   height: medium

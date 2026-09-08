@@ -55,6 +55,17 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 - I will not rest until I buy me freedom and me daughter's — or to find a way home with both of them.
+equipment:
+  underwear: []
+  clothing:
+  - item:wool-overtunic
+  - item:wool-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: slender and strong from constant labor, medium breasts
   hair: dark brown, long, worn in a single plain braid

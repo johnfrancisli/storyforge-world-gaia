@@ -4,7 +4,11 @@ name: Woven Climbing Kilt
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: legs
+equipment_type: wearable
+layer: clothing
+coverage:
+- left_leg
+- right_leg
 appearance: A short tightly woven wrap kilt with a double-folded waist, overlapping front flap, reinforced seat, and ties that fasten flat at the side.
 description: Canopy workers and hunters in [[location:verdania|Verdania]] wear this compact garment where loose hems would snag on vines or ladders.
 item_tags:

@@ -4,7 +4,14 @@ name: Women's Layered Town Kosode
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: chest
+equipment_type: wearable
+layer: clothing
+coverage:
+- torso
+- left_arm
+- right_arm
+- left_leg
+- right_leg
 appearance: An ankle-length lined kosode with a crossed front, moderately full sleeves, a visible inner collar layer, and a smooth hem suited to indoor streets and shops.
 description: A comfortable everyday choice for women in the towns of [[location:tsukuyomi|Tsukuyomi]], more structured than field clothing but less formal than a merchant's silk robe.
 item_tags:

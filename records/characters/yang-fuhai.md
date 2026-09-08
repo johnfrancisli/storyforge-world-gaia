@@ -52,6 +52,17 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 - I will not rest until I pass the sealed-channel codes to someone worthy before he dies.
+equipment:
+  underwear: []
+  clothing:
+  - item:short-shan-work-shirt
+  - item:bound-cuff-field-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: wiry and sinewy, aged but strong, broad chest
   hair: white, thin, under a canal-keeper's cap

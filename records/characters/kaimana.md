@@ -55,6 +55,15 @@ personality: Composed and even-tempered, guarded and cautious with trust, carrie
 key_phrases:
 - The land doesn't care about your plans.
 - Patience is the only crop that grows in any season.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: strong-backed, broad-handed, sun-browned, small breasts
   skin: deep brown, earth-darkened at the hands

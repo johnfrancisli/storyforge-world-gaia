@@ -53,6 +53,17 @@ personality: Composed and even-tempered, guarded and cautious with trust.
 key_phrases:
 - Music is what words feel when they are honest.
 - Every song is a conversation with silence.
+equipment:
+  underwear: []
+  clothing:
+  - item:knee-length-pirahan
+  - item:bound-ankle-desert-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: slender, long-fingered, small breasts
   hair: black with grey threads, loose past the shoulders

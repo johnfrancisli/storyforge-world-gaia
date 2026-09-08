@@ -4,7 +4,11 @@ name: Women's Koshimaki
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: legs
+equipment_type: wearable
+layer: underwear
+coverage:
+- left_leg
+- right_leg
 appearance: A soft rectangular waist cloth wrapped into a straight underskirt and secured with narrow ties above the hips.
 description: Women in [[location:tsukuyomi|Tsukuyomi]] wear this washable lower layer beneath a kosode or summer robe. The simple wrap adjusts without fitted seams.
 item_tags:

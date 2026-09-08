@@ -51,6 +51,17 @@ personality: Precise and detail-oriented, defiant and independently minded, guar
 key_phrases:
 - Metal has opinions. My job is to negotiate.
 - The forge teaches patience whether you want to learn it or not.
+equipment:
+  underwear: []
+  clothing:
+  - item:dwarven-split-hem-tunic
+  - item:wool-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: compact, dense, heavily muscled, average chest
   height: short but not disproportionately so

@@ -54,6 +54,16 @@ key_phrases:
 - The road teaches what the market cannot.
 - Every caravan carries more than goods.
 - I will not rest until I pay off me debt to the caravan master and be free of me knowledge.
+equipment:
+  underwear: []
+  clothing:
+  - item:crossover-desert-robe
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: lean, precise in movement, medium breasts
   hair: black, thick, hidden under a dark headscarf

@@ -48,6 +48,17 @@ personality: Reserved and soft-spoken, guarded and cautious with trust.
 key_phrases:
 - The stars do not lie, but they do not explain themselves.
 - The ocean is not empty. It is full of things you cannot see.
+equipment:
+  underwear: []
+  clothing:
+  - item:open-sided-island-tunic
+  - item:rectangular-waist-wrap
+  armor: []
+  hands:
+    left: null
+    right: item:wayfinder-staff
+  accessories: []
+  ammo: null
 visual:
   body_build: compact, lean, wiry, narrow chest
   skin: deep tan, sun-darkened

@@ -34,6 +34,16 @@ personality: Direct, competitive, warm after trust, intolerant of condescension,
 key_phrases:
 - "Good charcoal rings. Bad charcoal makes excuses."
 - "My name is on the cart. I answer for what is inside it."
+equipment:
+  underwear: []
+  clothing:
+  - item:hemp-work-kosode
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: sturdy athletic build, medium breasts
   height: medium

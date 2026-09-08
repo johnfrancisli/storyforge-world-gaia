@@ -51,6 +51,16 @@ personality: Precise and detail-oriented, reserved and soft-spoken, steadfast an
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
+equipment:
+  underwear: []
+  clothing:
+  - item:straight-hem-shenyi
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: tall, muscular, imposing, broad chest
   hair: black, topknot, thick beard

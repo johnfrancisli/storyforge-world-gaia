@@ -4,7 +4,12 @@ name: Shrine Maiden Kosode
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: chest
+equipment_type: wearable
+layer: clothing
+coverage:
+- torso
+- left_arm
+- right_arm
 appearance: A white hip-length kosode with a crossed collar, square sleeves, reinforced underarms, and hidden ties that hold the front closed beneath hakama cords.
 description: The prescribed upper garment of miko in [[location:tsukuyomi|Tsukuyomi]]. Its white cloth signifies ritual cleanliness and makes stains or accumulated impurity immediately visible during shrine service.
 item_tags:

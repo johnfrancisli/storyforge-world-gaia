@@ -51,6 +51,15 @@ key_phrases:
 - "Your blade must be an extension of your intent, not just your arm."
 - "The sky remembers."
 - "Pain is just a teacher who doesn't hold back."
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: broad, muscular, battle-worn, broad chest
   hair: grey, cropped close, beard full and braided

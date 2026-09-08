@@ -53,6 +53,16 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 - I will not rest until I prepare prince haru to lead without anyone realizing she's doing it.
+equipment:
+  underwear: []
+  clothing:
+  - item:hemp-work-kosode
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: slender, composed, small breasts
   hair: iron grey, in a smooth low bun

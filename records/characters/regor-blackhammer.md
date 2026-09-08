@@ -48,6 +48,17 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 - I will not rest until I expose the armour sabotage before a knight dies because of it.
+equipment:
+  underwear: []
+  clothing:
+  - item:dwarven-split-hem-tunic
+  - item:wool-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: short and heavily muscled, dwarven build, average chest
   hair: black with early grey streaks, short singed beard

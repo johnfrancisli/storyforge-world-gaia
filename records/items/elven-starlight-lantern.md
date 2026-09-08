@@ -4,7 +4,11 @@ name: Elven Starlight Lantern
 item_type: tool
 rarity: null
 is_equippable: true
-slot: main_hand
+equipment_type: held
+hands_required: 1
+allowed_hands:
+- left
+- right
 appearance: A lantern of pale silver filigree, taller than a hand and narrower than a fist, hung from
   a fine chain. There is no candle inside. Instead, a captured point of cold white light floats at its
   center -- a fragment of starlight gathered by elven sky-watchers on the highest peaks of Valdris on

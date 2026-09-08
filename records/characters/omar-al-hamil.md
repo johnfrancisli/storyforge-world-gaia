@@ -56,6 +56,17 @@ key_phrases:
 - The future is not fixed. It is inclined.
 - I see patterns, not certainties. Do not confuse the two.
 - I will not rest until I protect me mother from the binding family's pressure.
+equipment:
+  underwear: []
+  clothing:
+  - item:knee-length-pirahan
+  - item:bound-ankle-desert-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: large and muscular, gentle despite his size, broad chest
   hair: black, short, under a head wrap

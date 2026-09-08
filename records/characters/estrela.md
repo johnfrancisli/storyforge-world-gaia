@@ -54,6 +54,17 @@ key_phrases:
 - The body says what the voice cannot.
 - Every step is a sentence. Every turn is a word.
 - I will not rest until I remember what happens during me trance-dances.
+equipment:
+  underwear: []
+  clothing:
+  - item:sleeveless-barkcloth-tunic
+  - item:softbark-wrap-skirt
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: lithe and flexible, dancer's build, small breasts
   hair: black, long, worn loose for dancing

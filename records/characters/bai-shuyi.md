@@ -50,6 +50,16 @@ personality: Guarded and cautious with trust, blunt and rough-spoken.
 key_phrases:
 - History is not the past. It is the argument about the past.
 - What is written can be unwritten. What is burned cannot.
+equipment:
+  underwear: []
+  clothing:
+  - item:wide-sleeved-scholar-robe
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: slight and slightly stooped from years at reading desks, medium breasts
   hair: white, in a tight bun

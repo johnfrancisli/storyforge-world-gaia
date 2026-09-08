@@ -54,6 +54,16 @@ personality: Wary and watchful, guarded and cautious with trust, thoughtful and 
 key_phrases:
 - I will not be my father. I will not be his mistake.
 - The throne is not my goal. It is my responsibility.
+equipment:
+  underwear: []
+  clothing:
+  - item:hemp-work-kosode
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: slender, still growing
   hair: black, in a young man's topknot

@@ -56,6 +56,15 @@ personality: Reserved and soft-spoken, generous and welcoming.
 key_phrases:
 - Good mead takes patience. Great mead takes luck.
 - You can't rush fermentation, and you can't rush honesty.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: round-faced, solid, welcoming, small breasts
   skin: warm brown

@@ -56,6 +56,17 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 - I will not rest until I find a way to modulate the spirit-links so she does not lose herself.
+equipment:
+  underwear: []
+  clothing:
+  - item:sleeveless-barkcloth-tunic
+  - item:softbark-wrap-skirt
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: stocky and strong, built for handling large animals, medium breasts
   hair: black, thick, often feathered with bits of down from her birds

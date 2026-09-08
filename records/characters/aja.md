@@ -52,6 +52,17 @@ key_phrases:
 - "The bones do not forget, even if the lips stay silent."
 - "Blood is a river that sometimes flows underground."
 - "I keep the past; I do not dictate the future."
+equipment:
+  underwear: []
+  clothing:
+  - item:sleeveless-barkcloth-tunic
+  - item:softbark-wrap-skirt
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: thin, angular, slightly stooped, fit for age, average chest
   hair: white, fine, worn short

@@ -49,6 +49,16 @@ key_phrases:
 - I'm not afraid. I'm just... careful.
 - When you're small, you learn to notice things.
 - I will not rest until I find a safe place to sleep and enough food to not be hungry.
+equipment:
+  underwear: []
+  clothing:
+  - item:laced-kirtle
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: small and thin, halfling child
   hair: mousy brown, tangled, unpinned

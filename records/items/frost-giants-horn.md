@@ -4,7 +4,11 @@ name: Frost-Giant's Horn
 item_type: relic
 rarity: null
 is_equippable: true
-slot: main_hand
+equipment_type: held
+hands_required: 1
+allowed_hands:
+- left
+- right
 appearance: A drinking horn the length of a forearm, carved from the tusk of some great northern beast
   and bound at rim and tip with cold-forged iron. Frost clings to its surface even in a warm hall, and
   mead poured into it crisps with a skin of ice that does not melt. The iron at the tip is worked with

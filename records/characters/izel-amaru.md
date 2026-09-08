@@ -22,6 +22,17 @@ biography: >-
   notes from her route-songs, as if the forest itself refuses to name certain bridges.
 personality: Kinetic, generous, teasing, brave, afraid of being confined or claimed.
 key_phrases: ["Race you to the next bough.", "The birds knew first."]
+equipment:
+  underwear: []
+  clothing:
+  - item:sleeveless-barkcloth-tunic
+  - item:softbark-wrap-skirt
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: agile athletic build, small breasts
   height: short

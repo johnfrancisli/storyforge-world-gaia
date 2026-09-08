@@ -22,6 +22,17 @@ biography: >-
   maps deny. Her loyalty is to the people above the gate, not the hierarchy concealing it.
 personality: Grounded, sensuous, solemn at work, gently irreverent elsewhere, slow and steadfast in love.
 key_phrases: ["Stone does not lie; builders do.", "Put your palm here. Feel that answer."]
+equipment:
+  underwear: []
+  clothing:
+  - item:sleeveless-barkcloth-tunic
+  - item:softbark-wrap-skirt
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: stocky athletic build, medium breasts
   height: short

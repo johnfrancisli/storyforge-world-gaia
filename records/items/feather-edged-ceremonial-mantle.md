@@ -4,7 +4,14 @@ name: Feather-Edged Ceremonial Mantle
 item_type: clothing
 rarity: uncommon
 is_equippable: true
-slot: shoulders
+equipment_type: wearable
+layer: clothing
+coverage:
+- torso
+- left_arm
+- right_arm
+stacking:
+  mode: overlay
 appearance: A finely woven shoulder mantle with a curved lower edge, dense feather edging, braided closure cords, and geometric fiber appliqué.
 description: Navigators, speakers, and honored guests in [[location:tide-archipelago|the Tide Archipelago]] wear this mantle at councils, welcomes, and remembrance rites.
 item_tags:

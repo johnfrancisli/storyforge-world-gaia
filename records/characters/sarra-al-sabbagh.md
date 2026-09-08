@@ -53,6 +53,17 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 - I will not rest until I keep the location of the djinn-heated spring secret, even from me daughter.
+equipment:
+  underwear: []
+  clothing:
+  - item:knee-length-pirahan
+  - item:bound-ankle-desert-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: broad-shouldered and strong-armed, medium breasts
   hair: black, tied up in a cloth that is itself dyed djinn-blue

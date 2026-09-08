@@ -55,6 +55,16 @@ personality: Guarded and cautious with trust, carries a secret that shapes every
 key_phrases:
 - Good mead takes patience. Great mead takes luck.
 - You can't rush fermentation, and you can't rush honesty.
+equipment:
+  underwear: []
+  clothing:
+  - item:hemp-work-kosode
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: lean, energetic, narrow chest
   hair: black, messy, escaping a topknot

@@ -4,7 +4,14 @@ name: Crossover Desert Robe
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: chest
+equipment_type: wearable
+layer: clothing
+coverage:
+- torso
+- left_arm
+- right_arm
+- left_leg
+- right_leg
 appearance: A long wrap-front robe with an overlapping chest, loose sleeves, deep side vents, and an interior tie beneath a broad sash line.
 description: Worn across [[location:al-khayzar|Al-Khayzar]] for shade, modesty, and protection from blowing sand, with the overlap adjusted to suit heat or wind.
 item_tags:

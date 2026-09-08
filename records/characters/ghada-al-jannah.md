@@ -53,6 +53,17 @@ personality: Strict and disciplined, guarded and cautious with trust, generous a
 key_phrases:
 - A garden is a conversation with patience.
 - Every plant has a lesson, if you are willing to learn it slowly.
+equipment:
+  underwear: []
+  clothing:
+  - item:knee-length-pirahan
+  - item:bound-ankle-desert-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: medium, strong-armed from terraced work, large breasts
   hair: dark brown, braided and wrapped in a cloth

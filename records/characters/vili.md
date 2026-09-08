@@ -60,6 +60,15 @@ personality: Guarded and cautious with trust, driven and relentless in pursuit o
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: lean, deep-chested, long-limbed
   skin: medium brown, salt-lightened

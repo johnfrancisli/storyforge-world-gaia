@@ -49,6 +49,16 @@ key_phrases:
 - The future is not fixed. It is inclined.
 - I see patterns, not certainties. Do not confuse the two.
 - I will not rest until I warn someone about the coup without endangering herself.
+equipment:
+  underwear: []
+  clothing:
+  - item:straight-hem-shenyi
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: thin and angular, medium breasts
   hair: black with gray streaks, loose and talisman-pinned

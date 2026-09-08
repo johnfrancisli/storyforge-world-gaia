@@ -22,6 +22,17 @@ biography: >-
   crisis may be political sabotage—or a continental mechanism waking beneath both deserts and rivers.
 personality: Curious, earnest, physically restless, unpretentious, romantic about shared discovery.
 key_phrases: ["Water is not disobedient; your model is wrong.", "Come see what happens when I open this."]
+equipment:
+  underwear: []
+  clothing:
+  - item:short-shan-work-shirt
+  - item:bound-cuff-field-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: rangy athletic build, small breasts
   height: tall

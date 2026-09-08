@@ -55,6 +55,15 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 - I will not rest until I understand what lives in the cave passage and what it wants.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: sleek and powerful, compact swimmer's build, broad chest
   hair: short dense brown fur covering the entire body

@@ -53,6 +53,16 @@ personality: Precise and detail-oriented, shrewd and calculating, compassionate 
 key_phrases:
 - The material tells you what it wants to become.
 - My hands remember what my mind forgets.
+equipment:
+  underwear: []
+  clothing:
+  - item:strap-apron-dress
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: slender and small-boned, precise in movement, medium breasts
   hair: light brown, worn in a knot at the nape

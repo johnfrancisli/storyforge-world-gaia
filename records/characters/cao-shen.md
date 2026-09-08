@@ -46,6 +46,17 @@ personality: Reserved and soft-spoken, steadfast and devoted, driven and relentl
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
+equipment:
+  underwear: []
+  clothing:
+  - item:straight-hem-shenyi
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories:
+  - item:warlord-jade-seal
+  ammo: null
 visual:
   body_build: lean, wiry, narrow chest
   hair: black, greying, bound in a topknot

@@ -4,7 +4,11 @@ name: Raikiri, the Severing Light
 item_type: weapon
 rarity: legendary
 is_equippable: true
-slot: main_hand
+equipment_type: weapon
+hands_required: 1
+allowed_hands:
+- left
+- right
 appearance: A katana of pale steel with a hamon temper-line that flickers like sheet lightning when the
   blade catches light. The tsuka grip is wrapped in dark blue silk over ray-skin, and the tsuba guard
   is iron worked into a swirling cloud motif. The saya scabbard is lacquered black with a single silver

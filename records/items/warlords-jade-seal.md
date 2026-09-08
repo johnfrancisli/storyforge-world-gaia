@@ -4,7 +4,8 @@ name: Warlord's Jade Seal
 item_type: relic
 rarity: null
 is_equippable: true
-slot: trinket
+equipment_type: accessory
+accessory_slot: trinket
 appearance: A seal of pale green jade, the size of a clenched fist, carved as a coiled qilin with its
   horn forming the grip. The base is polished flat and inscribed with the seal-script of one of the three
   states. The stone is cool and faintly luminous in darkness, and the carving is so fine that the qilin's

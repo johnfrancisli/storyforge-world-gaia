@@ -4,7 +4,11 @@ name: Men's Short Drawstring Drawers
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: legs
+equipment_type: wearable
+layer: underwear
+coverage:
+- left_leg
+- right_leg
 appearance: Loose thigh-length cotton drawers with a drawstring waist, gusseted seat, and broad leg openings.
 description: A common male underlayer in the towns and ports of [[location:al-khayzar|Al-Khayzar]], worn beneath sirwal, riding trousers, or a long robe.
 item_tags:

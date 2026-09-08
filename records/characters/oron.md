@@ -50,6 +50,17 @@ personality: Reserved and soft-spoken, strict and disciplined, tired and carryin
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
+equipment:
+  underwear: []
+  clothing:
+  - item:open-side-river-vest
+  - item:river-worker-split-wrap
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: stocky, broad, broad chest
   skin: deep brown

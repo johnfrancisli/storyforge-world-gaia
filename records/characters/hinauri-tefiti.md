@@ -22,6 +22,17 @@ biography: >-
   public trust, now threatened by proxy purchases hidden inside council procedure.
 personality: Charismatic, maternal without condescension, sensuous, politically acute, hungry for private equality.
 key_phrases: ["No banner owns the water beneath us.", "Name the person who paid."]
+equipment:
+  underwear: []
+  clothing:
+  - item:open-sided-island-tunic
+  - item:pau-wrap-skirt
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: strong athletic build, medium breasts
   height: medium

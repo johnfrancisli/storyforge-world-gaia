@@ -22,6 +22,17 @@ biography: >-
   her leverage, if she can expose the patron without condemning desperate apprentices.
 personality: Severe, principled, unexpectedly gentle, physically affectionate only after deep trust.
 key_phrases: ["Metal remembers every shortcut.", "Do not confuse silence with agreement."]
+equipment:
+  underwear: []
+  clothing:
+  - item:short-shan-work-shirt
+  - item:bound-cuff-field-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: powerful athletic build, medium breasts
   height: medium

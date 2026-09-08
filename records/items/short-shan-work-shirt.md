@@ -4,7 +4,12 @@ name: Short Shan Work Shirt
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: chest
+equipment_type: wearable
+layer: clothing
+coverage:
+- torso
+- left_arm
+- right_arm
 appearance: A hip-length straight-cut work shirt with a crossed front, narrow sleeves, reinforced elbows, and a cloth belt.
 description: Farmers, boat crews, and workshop laborers in [[location:sangguo|Sangguo]] use this compact shirt where broad sleeves would catch or drag.
 item_tags:

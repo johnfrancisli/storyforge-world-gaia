@@ -4,7 +4,11 @@ name: Wayfinder's Staff
 item_type: tool
 rarity: null
 is_equippable: true
-slot: main_hand
+equipment_type: held
+hands_required: 1
+allowed_hands:
+- left
+- right
 appearance: A carved wooden staff, about shoulder-height, marked with notches and painted symbols that
   represent star paths, current patterns, and island positions. The wood is dark from salt and handling.
   Some staves have shells or bone inlays.

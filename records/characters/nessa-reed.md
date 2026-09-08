@@ -22,6 +22,15 @@ biography: >-
   seal may tie river extortion to the looming royal succession.
 personality: Wary, daring, sardonic, protective of underdogs, attracted to consistency rather than display.
 key_phrases: ["Deep water is honest. Shallows keep secrets.", "Pay me after we arrive."]
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: wiry athletic build, small breasts
   height: short

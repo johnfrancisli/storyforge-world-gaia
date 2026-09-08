@@ -54,6 +54,17 @@ personality: Precise and detail-oriented, reserved and soft-spoken, guarded and 
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
+equipment:
+  underwear: []
+  clothing:
+  - item:open-sided-island-tunic
+  - item:pau-wrap-skirt
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: slim, fine-boned, precise in movement, medium breasts
   skin: medium brown

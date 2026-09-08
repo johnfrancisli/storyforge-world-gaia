@@ -47,6 +47,16 @@ key_phrases:
 - Every plant has a purpose, if you listen closely enough.
 - The earth provides, if you know where to look.
 - I will not rest until I keep me village healthy without relying on expensive city healers.
+equipment:
+  underwear: []
+  clothing:
+  - item:laced-kirtle
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: short and soft, halfling stature, large breasts
   hair: sandy blonde, tightly curled, perpetually unruly

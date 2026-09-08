@@ -48,6 +48,17 @@ key_phrases:
 - Everyone who walks through my door has a story. Most of them I don't ask for.
 - A warm meal and a dry bed — that's half of any problem solved.
 - I will not rest until I keep me inn running and me village safe through whatever is coming.
+equipment:
+  underwear: []
+  clothing:
+  - item:linen-work-tunic
+  - item:wool-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: small, round, large breasts
   height: short — halfling

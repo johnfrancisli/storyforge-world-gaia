@@ -59,6 +59,15 @@ personality: Precise and detail-oriented, reserved and soft-spoken, guarded and 
 key_phrases:
 - A life worth living is a life worth singing.
 - The saga does not care about your feelings. It cares about your deeds.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: tall, broad-shouldered, still strong, medium breasts
   hair: red-gold streaked with silver, worn in a tight warrior-knot

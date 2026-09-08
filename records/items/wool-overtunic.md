@@ -4,7 +4,14 @@ name: Wool Overtunic
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: chest
+equipment_type: wearable
+layer: clothing
+coverage:
+- torso
+- left_arm
+- right_arm
+stacking:
+  mode: overlay
 appearance: A mid-thigh wool overtunic with a close round neck, tapered sleeves, broad side gores, and tablet-woven reinforcement at the cuffs and hem.
 description: A durable cool-weather layer worn over linen in both [[location:valdris|Valdris]] and [[location:hrafnland|Hrafnland]], belted close for work, travel, and cold wind.
 item_tags:

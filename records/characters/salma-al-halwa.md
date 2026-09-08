@@ -54,6 +54,17 @@ personality: Precise and detail-oriented.
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
+equipment:
+  underwear: []
+  clothing:
+  - item:knee-length-pirahan
+  - item:bound-ankle-desert-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: petite, deft-fingered, medium breasts
   hair: dark brown, long, tied with a ribbon

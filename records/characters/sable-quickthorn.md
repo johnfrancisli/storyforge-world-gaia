@@ -52,6 +52,15 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 - I will not rest until I find a way to protect daisy without exposing me own identity as a deserter.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: lean and sinewy, small breasts
   hair: black, short, uneven (cut with a knife)

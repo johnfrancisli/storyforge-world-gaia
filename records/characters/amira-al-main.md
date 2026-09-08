@@ -54,6 +54,17 @@ key_phrases:
 - The ground speaks, if you know how to listen with your feet.
 - Water is life. Finding it is a sacred trust.
 - I will not rest until I warn the eastern quarters about the dying aquifer before it is too late.
+equipment:
+  underwear: []
+  clothing:
+  - item:loose-cotton-qamis
+  - item:loose-sirwal
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: lean and long-limbed, built for walking, small breasts
   hair: sandy brown, sun-bleached, short and practical

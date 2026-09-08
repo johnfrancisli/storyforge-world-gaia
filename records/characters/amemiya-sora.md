@@ -46,6 +46,17 @@ personality: Blunt and rough-spoken, bears a slow decline with quiet dignity.
 key_phrases:
 - The wards must hold. Everything else follows.
 - Faith is not a feeling. It is a routine.
+equipment:
+  underwear: []
+  clothing:
+  - item:shrine-maiden-kosode
+  - item:shrine-maiden-hakama
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: slight, lean, small breasts
   hair: black, long, tied back with a white ribbon

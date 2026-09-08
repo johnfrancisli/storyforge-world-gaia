@@ -59,6 +59,17 @@ personality: Reserved and soft-spoken, guarded and cautious with trust, carries 
 key_phrases:
 - Metal has opinions. My job is to negotiate.
 - The forge teaches patience whether you want to learn it or not.
+equipment:
+  underwear: []
+  clothing:
+  - item:knee-length-pirahan
+  - item:bound-ankle-desert-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: broad-shouldered, strong-armed, broad chest
   hair: black, short, soot-darkened

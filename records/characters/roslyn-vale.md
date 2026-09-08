@@ -47,6 +47,17 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 - I will not rest until I understand me visions before they overwhelm me.
+equipment:
+  underwear: []
+  clothing:
+  - item:linen-work-tunic
+  - item:long-work-skirt
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: slender and willowy, medium breasts
   hair: raven black, long, loose

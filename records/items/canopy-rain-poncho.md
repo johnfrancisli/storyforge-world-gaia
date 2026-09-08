@@ -4,7 +4,14 @@ name: Canopy Rain Poncho
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: chest
+equipment_type: wearable
+layer: clothing
+coverage:
+- torso
+- left_arm
+- right_arm
+stacking:
+  mode: overlay
 appearance: A knee-length poncho of overlapping treated palm-fiber panels, with a small hood, open sides, and a pointed hem that sheds water.
 description: Canopy residents in [[location:verdania|Verdania]] use this ventilated rain layer during sudden tropical downpours.
 item_tags:

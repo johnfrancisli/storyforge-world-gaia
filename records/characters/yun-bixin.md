@@ -50,6 +50,16 @@ key_phrases:
 - Music is what words feel when they are honest.
 - Every song is a conversation with silence.
 - I will not rest until I preserve the spirit-music tradition before it dies with me.
+equipment:
+  underwear: []
+  clothing:
+  - item:wide-sleeved-scholar-robe
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: slight and willowy, medium breasts
   hair: long black, loose except when performing

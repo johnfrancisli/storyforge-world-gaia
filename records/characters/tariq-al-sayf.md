@@ -53,6 +53,16 @@ personality: Reserved and soft-spoken, strict and disciplined, guarded and cauti
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
+equipment:
+  underwear: []
+  clothing:
+  - item:crossover-desert-robe
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: tall and thin, rigid posture, average chest
   hair: black, grey at the temples, precisely trimmed

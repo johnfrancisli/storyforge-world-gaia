@@ -4,7 +4,13 @@ name: Women's Court Nagabakama
 item_type: clothing
 rarity: uncommon
 is_equippable: true
-slot: legs
+equipment_type: wearable
+layer: clothing
+coverage:
+- left_leg
+- right_leg
+stacking:
+  mode: overlay
 appearance: Formal divided hakama with a high structured waist, precise deep pleats, long tying cords, and exceptionally extended legs that trail behind the wearer indoors.
 description: Women attached to the highest courts and major shrines of [[location:tsukuyomi|Tsukuyomi]] reserve this impractical trailing garment for audiences, enthronements, and stationary ritual service.
 item_tags:

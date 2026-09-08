@@ -22,6 +22,17 @@ biography: >-
   masonry no company admits building, turning rescue into a confrontation with the city's founding wealth.
 personality: Commanding, earthy, protective, impatient with euphemism, tender toward courage honestly admitted.
 key_phrases: ["No stone is worth a breathing worker.", "Tie in. We go together."]
+equipment:
+  underwear: []
+  clothing:
+  - item:knee-length-pirahan
+  - item:bound-ankle-desert-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: powerful athletic build, medium breasts
   height: medium

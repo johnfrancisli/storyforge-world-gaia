@@ -52,6 +52,16 @@ key_phrases:
 - The material tells you what it wants to become.
 - My hands remember what my mind forgets.
 - I will not rest until I see the three states reunified without more bloodshed.
+equipment:
+  underwear: []
+  clothing:
+  - item:straight-hem-shenyi
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: slender with strong, fine-motor hands, small breasts
   hair: black, in a neat carver's topknot

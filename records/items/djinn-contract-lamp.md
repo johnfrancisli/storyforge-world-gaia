@@ -4,7 +4,11 @@ name: Djinn-Contract Lamp
 item_type: relic
 rarity: null
 is_equippable: true
-slot: main_hand
+equipment_type: held
+hands_required: 1
+allowed_hands:
+- left
+- right
 appearance: A brass oil lamp, hand-sized, dented and dark with age, the spout curved like a serpent's
   head and the body etched with old contract-script that glows faintly when the lamp is filled. It holds
   no wick and no oil -- the interior is dry and smells faintly of smoke and hot sand no matter how it

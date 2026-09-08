@@ -51,6 +51,17 @@ key_phrases:
 - Food is love made edible.
 - A good cook feeds the body. A great cook feeds the soul.
 - I will not rest until I help hanako maintain the old shrine site before its power fades completely.
+equipment:
+  underwear: []
+  clothing:
+  - item:hemp-work-kosode
+  - item:womens-maekake-work-apron
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: sturdy, quick-moving, small breasts
   hair: black, short, tied under a cloth cap

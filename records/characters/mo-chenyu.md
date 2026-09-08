@@ -49,6 +49,15 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 - I will not rest until I expose the advisor's conspiracy before it turns violent.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: tall and muscular, broad-shouldered, medium breasts
   hair: black, cropped to the jaw, practical

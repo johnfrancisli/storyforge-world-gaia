@@ -4,7 +4,14 @@ name: Women's Wool Underdress
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: chest
+equipment_type: wearable
+layer: underwear
+coverage:
+- torso
+- left_arm
+- right_arm
+- left_leg
+- right_leg
 appearance: A calf-length soft wool underdress with close sleeves, a round neckline, side gores, and a thin linen facing where it touches the skin.
 description: A women's winter underlayer in [[location:hrafnland|Hrafnland]], worn between a linen smock and an outer apron dress or coat.
 item_tags:

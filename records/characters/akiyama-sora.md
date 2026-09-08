@@ -46,6 +46,16 @@ personality: Practical, teasing, observant, and slow to surrender control; affec
 key_phrases:
 - A clean ledger and a clean bath both reveal what people tried to hide.
 - Sit. Warm up. Then tell me the part you skipped.
+equipment:
+  underwear: []
+  clothing:
+  - item:hemp-work-kosode
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: compact athletic build, small breasts
   height: short

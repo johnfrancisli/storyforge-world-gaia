@@ -49,6 +49,15 @@ key_phrases:
 - I'm not afraid. I'm just... careful.
 - When you're small, you learn to notice things.
 - I will not rest until I train the talented street child without bringing the warlord's attention.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: small, hunched, deceptively solid beneath the rags, small breasts
   hair: thin white, under a ragged head wrap

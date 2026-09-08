@@ -4,7 +4,12 @@ name: Loose Cotton Qamis
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: chest
+equipment_type: wearable
+layer: clothing
+coverage:
+- torso
+- left_arm
+- right_arm
 appearance: An ankle-length cotton shirt with a straight body, long loose sleeves, side vents, and a small neck opening closed by ties.
 description: A breathable everyday garment in [[location:al-khayzar|Al-Khayzar]], worn alone in sheltered streets or layered beneath a coat for travel.
 item_tags:

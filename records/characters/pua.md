@@ -53,6 +53,17 @@ personality: Precise and detail-oriented, composed and even-tempered, guarded an
 key_phrases:
 - The song is the map. The water is the road.
 - Stars and currents and birds — the ocean speaks in many voices.
+equipment:
+  underwear: []
+  clothing:
+  - item:open-sided-island-tunic
+  - item:pau-wrap-skirt
+  armor: []
+  hands:
+    left: null
+    right: item:wayfinder-staff
+  accessories: []
+  ammo: null
 visual:
   body_build: small, wiry, weathered, small breasts
   skin: deep tan, sun-weathered

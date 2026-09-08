@@ -22,6 +22,17 @@ biography: >-
   frightens her not for herself, but because every student repeats the same blank space after her.
 personality: Nurturing, adventurous, quietly flirtatious, spiritually grounded, honest about fear.
 key_phrases: ["No child owns the sky.", "Tell me what is missing, not what should be there."]
+equipment:
+  underwear: []
+  clothing:
+  - item:open-sided-island-tunic
+  - item:pau-wrap-skirt
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: swimmer's athletic build, medium breasts
   height: medium

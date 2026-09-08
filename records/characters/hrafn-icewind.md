@@ -52,6 +52,17 @@ personality: Reserved and soft-spoken, compassionate and tender-hearted, guarded
 key_phrases:
 - I'm not afraid. I'm just... careful.
 - When you're small, you learn to notice things.
+equipment:
+  underwear: []
+  clothing:
+  - item:wool-overtunic
+  - item:wool-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: small and thin, underfed for his age
   hair: black, straight, worn loose and untidy

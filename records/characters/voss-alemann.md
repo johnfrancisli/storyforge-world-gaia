@@ -52,6 +52,17 @@ personality: Generous and welcoming.
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
+equipment:
+  underwear: []
+  clothing:
+  - item:linen-work-tunic
+  - item:divided-hose
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: thin, wiry, narrow chest
   skin: pale, sunburnt on the nose and forearms

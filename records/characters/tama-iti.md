@@ -61,6 +61,17 @@ personality: Warm and optimistic, reserved and soft-spoken, inquisitive and eage
 key_phrases:
 - I'm not afraid. I'm just... careful.
 - When you're small, you learn to notice things.
+equipment:
+  underwear: []
+  clothing:
+  - item:open-sided-island-tunic
+  - item:rectangular-waist-wrap
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: small, wiry, bright-eyed
   skin: light brown

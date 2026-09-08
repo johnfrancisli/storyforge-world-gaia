@@ -53,6 +53,17 @@ personality: Thoughtful and philosophical.
 key_phrases:
 - Understanding comes slowly, like dawn.
 - The question is always more important than the answer.
+equipment:
+  underwear: []
+  clothing:
+  - item:open-sided-island-tunic
+  - item:rectangular-waist-wrap
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: lean, wiry, narrow chest
   skin: deep tan, sun-dark

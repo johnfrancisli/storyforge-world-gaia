@@ -4,7 +4,6 @@ name: Saffron of Visions
 item_type: consumable
 rarity: null
 is_equippable: false
-slot: null
 appearance: A small quantity of deep crimson stigma-threads, finer than hair, packed in a stoppered glass
   vial wrapped in oiled cloth. The threads give off a warm, heavy fragrance that lingers in a room for
   hours after the vial is opened. Even a pinch stains the fingers orange-gold and does not wash off for

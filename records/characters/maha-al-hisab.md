@@ -54,6 +54,16 @@ personality: Composed and even-tempered, reserved and soft-spoken, guarded and c
 key_phrases:
 - Knowledge is not power. Knowledge is a lantern in a large, dark room.
 - The truth does not need you to believe in it.
+equipment:
+  underwear: []
+  clothing:
+  - item:crossover-desert-robe
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: slender, erect posture, small breasts
   hair: black, pinned in a precise bun

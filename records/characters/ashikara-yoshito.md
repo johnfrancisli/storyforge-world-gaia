@@ -50,6 +50,16 @@ personality: Reserved and soft-spoken, compassionate and tender-hearted.
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
+equipment:
+  underwear: []
+  clothing:
+  - item:merchants-silk-kosode
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: thin, frail but straight-backed, average chest
   hair: white, formal topknot

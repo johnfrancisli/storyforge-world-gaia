@@ -4,7 +4,14 @@ name: Feather-Edged Shoulder Mantle
 item_type: clothing
 rarity: uncommon
 is_equippable: true
-slot: chest
+equipment_type: wearable
+layer: clothing
+coverage:
+- torso
+- left_arm
+- right_arm
+stacking:
+  mode: overlay
 appearance: A light barkcloth mantle draped across the shoulders and fastened at one side, with a narrow fringe of small local feathers along the outer edge.
 description: A social and ceremonial upper garment in [[location:verdania|Verdania]]. Feather species and arrangement identify community or occasion more often than color alone.
 item_tags:

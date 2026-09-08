@@ -57,6 +57,15 @@ personality: Reserved and soft-spoken, guarded and cautious with trust, blunt an
 key_phrases:
 - I'm not afraid. I'm just... careful.
 - When you're small, you learn to notice things.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: small, thin, watchful
   skin: light brown

@@ -4,7 +4,14 @@ name: Women's Winter Undersmock
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: chest
+equipment_type: wearable
+layer: underwear
+coverage:
+- torso
+- left_arm
+- right_arm
+- left_leg
+- right_leg
 appearance: A calf-length soft wool underdress with fitted sleeves, a modest round neck, side gores, and a thin linen facing at the collar and cuffs.
 description: A warm women's underlayer for the highlands of [[location:valdris|Valdris]], worn over a light chemise and beneath a heavier dress.
 item_tags:

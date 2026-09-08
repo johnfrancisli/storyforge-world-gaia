@@ -22,6 +22,16 @@ biography: >-
   itself instead, and the truth could feed thousands or arm one state.
 personality: Exacting, compassionate, understated, stubborn, and warmed by people who make room for doubt.
 key_phrases: ["Every measure is a promise.", "Show me who went hungry."]
+equipment:
+  underwear: []
+  clothing:
+  - item:straight-hem-shenyi
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: compact athletic build, small breasts
   height: short

@@ -22,6 +22,17 @@ biography: >-
   embarrassment because her victories preserve their influence, but the mirrors suggest that bargain will end.
 personality: Elegant, principled, sensually self-possessed, lonely beneath discipline, receptive to brave honesty.
 key_phrases: ["A custom written by men is still a contract.", "Look at me, not my house."]
+equipment:
+  underwear: []
+  clothing:
+  - item:knee-length-pirahan
+  - item:bound-ankle-desert-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: graceful athletic build, medium breasts
   height: tall

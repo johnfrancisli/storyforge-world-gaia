@@ -4,7 +4,11 @@ name: Shrine Bell of Silence
 item_type: tool
 rarity: null
 is_equippable: true
-slot: main_hand
+equipment_type: held
+hands_required: 1
+allowed_hands:
+- left
+- right
 appearance: A bronze bell the size of a closed fist, hung from a cord of braided red and white cotton.
   The metal is dark with age and etched with a ring of tiny shrine characters that no living kannushi
   can fully read. It rings with a clear, thin note that carries further than it should.

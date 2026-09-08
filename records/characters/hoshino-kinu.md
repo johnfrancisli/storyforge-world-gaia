@@ -52,6 +52,16 @@ personality: Precise and detail-oriented, reserved and soft-spoken, wary and wat
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
+equipment:
+  underwear: []
+  clothing:
+  - item:womens-layered-town-kosode
+  armor: []
+  hands:
+    left: null
+    right: item:current-needle
+  accessories: []
+  ammo: null
 visual:
   body_build: lean, strong-shouldered, medium breasts
   hair: black, cropped short, practical

@@ -4,7 +4,11 @@ name: Men's Softbark Malo Underwrap
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: waist
+equipment_type: wearable
+layer: underwear
+coverage:
+- left_leg
+- right_leg
 appearance: A long narrow strip of softened barkcloth wrapped firmly around the waist, passed between the legs, and tucked flat at the front.
 description: A minimal male base garment in [[location:tide-archipelago|the Tide Archipelago]], worn alone for swimming and labor or beneath a public waist wrap.
 item_tags:

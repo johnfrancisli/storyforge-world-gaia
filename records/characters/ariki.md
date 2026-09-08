@@ -14,7 +14,7 @@ gm_notes: 'Ariki was the chief of a small island that submerged two years ago. S
   in place before she announces it.'
 aliases:
 - Ariki Lost-Chief
-race: Elf
+race: Human
 gender: Female
 age: 55
 heritage: Archipelagan
@@ -60,6 +60,17 @@ personality: Reserved and soft-spoken, dignified and self-assured, guarded and c
 key_phrases:
 - Home is not a place. It is the people who remember your name.
 - I lost everything. I will not lose who I am.
+equipment:
+  underwear: []
+  clothing:
+  - item:open-sided-island-tunic
+  - item:pau-wrap-skirt
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: dignified, composed, straight-backed, medium breasts
   skin: deep brown

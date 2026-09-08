@@ -56,6 +56,15 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 - I will not rest until I repay sigunn and be free of the debt — and free of the escalating demands.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: very tall and heavily built, the largest of the guards, average chest
   hair: blonde, thick, worn cropped

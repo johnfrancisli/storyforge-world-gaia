@@ -50,6 +50,16 @@ personality: Composed and even-tempered, perceptive and watchful, grounded and s
 key_phrases:
 - The land doesn't care about your plans.
 - Patience is the only crop that grows in any season.
+equipment:
+  underwear: []
+  clothing:
+  - item:hemp-work-kosode
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: wiry, bent from years of field work, small breasts
   hair: iron grey, under a straw hat

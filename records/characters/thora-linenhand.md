@@ -55,6 +55,18 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 - I will not rest until I find the source of the sail-soul thread before me supply runs out.
+equipment:
+  underwear: []
+  clothing:
+  - item:hooded-sea-coat
+  - item:gathered-ship-trousers
+  - item:wrapped-work-apron
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: tall and long-limbed, rangy, medium breasts
   hair: light brown, thinning, worn under a linen cap

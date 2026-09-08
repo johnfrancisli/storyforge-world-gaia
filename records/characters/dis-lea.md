@@ -53,6 +53,16 @@ key_phrases:
 - Every plant has a purpose, if you listen closely enough.
 - The earth provides, if you know where to look.
 - I will not rest until I heal orm's wound and help him find a way to live without hiding.
+equipment:
+  underwear: []
+  clothing:
+  - item:strap-apron-dress
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: small and wiry, strong for her size, small breasts
   hair: dark brown, long, tied with twine

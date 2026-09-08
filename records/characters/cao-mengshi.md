@@ -46,6 +46,16 @@ key_phrases:
 - Every battle is won before it is fought. Or it is lost the same way.
 - The best strategy is the one your enemy never sees.
 - I will not rest until I finish me fourth treatise before she dies.
+equipment:
+  underwear: []
+  clothing:
+  - item:straight-hem-shenyi
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: thin and angular, medium breasts
   hair: graying black, bound in a simple topknot

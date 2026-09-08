@@ -56,6 +56,17 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 - I will not rest until I understand the true nature of the voice that teaches me.
+equipment:
+  underwear: []
+  clothing:
+  - item:open-side-river-vest
+  - item:river-worker-split-wrap
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: tall and fluidly proportioned, snake-like in stillness, medium breasts
   hair: none — replaced by a fine crest of dark scales along the crown

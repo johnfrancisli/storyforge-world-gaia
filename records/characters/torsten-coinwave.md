@@ -54,6 +54,17 @@ personality: Compassionate and tender-hearted, guarded and cautious with trust, 
 key_phrases:
 - The road teaches what the market cannot.
 - Every caravan carries more than goods.
+equipment:
+  underwear: []
+  clothing:
+  - item:wool-overtunic
+  - item:wool-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: medium height, trim and well-fed, average chest
   hair: brown, worn neatly trimmed

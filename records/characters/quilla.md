@@ -55,6 +55,17 @@ key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 - I will not rest until I break free of the plumed tongue's bargain before it manifests fully.
+equipment:
+  underwear: []
+  clothing:
+  - item:sleeveless-barkcloth-tunic
+  - item:softbark-wrap-skirt
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: slight and wiry, light-boned, small breasts
   hair: a crest of iridescent blue-green feathers that rises when she is emotional

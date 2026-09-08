@@ -4,7 +4,11 @@ name: Wayfinder's Star Compass
 item_type: tool
 rarity: null
 is_equippable: true
-slot: main_hand
+equipment_type: held
+hands_required: 1
+allowed_hands:
+- left
+- right
 appearance: A disc of polished pearl-shell the width of an outstretched hand, set with thirty-two points
   marked in tiny drilled holes filled with black pigment and a central pivot of bone. Etched lines radiate
   from the center in the patterns of the great star-paths. The shell catches light and seems to hold a

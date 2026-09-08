@@ -52,6 +52,15 @@ personality: Blunt and rough-spoken.
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: compact and muscular from drumming, broad-chested, small breasts
   hair: a crest of black and yellow feathers, increasingly grey at the base

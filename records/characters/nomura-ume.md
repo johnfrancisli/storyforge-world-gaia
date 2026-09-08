@@ -52,6 +52,16 @@ personality: Bold and uncompromising, reserved and soft-spoken, shrewd and calcu
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
+equipment:
+  underwear: []
+  clothing:
+  - item:hemp-work-kosode
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: sturdy, short, small breasts
   hair: black, tied under a cloth cap

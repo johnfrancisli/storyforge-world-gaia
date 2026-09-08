@@ -54,6 +54,17 @@ key_phrases:
 - The stars do not lie, but they do not explain themselves.
 - The ocean is not empty. It is full of things you cannot see.
 - I will not rest until I expose the rival pilot family without destroying the iara trade alliance.
+equipment:
+  underwear: []
+  clothing:
+  - item:open-side-river-vest
+  - item:river-worker-split-wrap
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: broad-shouldered and short, powerful arms, medium breasts
   hair: dark green-blue, cropped short and clinging to the skull

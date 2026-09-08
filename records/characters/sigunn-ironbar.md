@@ -53,6 +53,16 @@ key_phrases:
 - The road teaches what the market cannot.
 - Every caravan carries more than goods.
 - I will not rest until I make enough wealth to buy a warehouse and never sail in winter again.
+equipment:
+  underwear: []
+  clothing:
+  - item:strap-apron-dress
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: medium height, trim and quick-moving, medium breasts
   hair: reddish-brown, worn under a dark blue trader's scarf

@@ -4,7 +4,11 @@ name: Elven Fitted Leggings
 item_type: clothing
 rarity: uncommon
 is_equippable: true
-slot: legs
+equipment_type: wearable
+layer: clothing
+coverage:
+- left_leg
+- right_leg
 appearance: Close-fitting forest-silk leggings with a high wrapped waist, shaped knees, flat seams, and narrow ankle openings.
 description: Quiet, low-bulk legwear from [[location:val-elfshade|Elfshade]], made for climbing and travel beneath a split tunic.
 item_tags:

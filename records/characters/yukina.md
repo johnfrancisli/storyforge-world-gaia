@@ -52,6 +52,16 @@ personality: Wary and watchful, defiant and independently minded, guarded and ca
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
+equipment:
+  underwear: []
+  clothing:
+  - item:womens-layered-town-kosode
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: slender, willowy, medium breasts
   hair: white, long, straight

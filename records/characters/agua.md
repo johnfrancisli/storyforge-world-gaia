@@ -53,6 +53,15 @@ key_phrases:
 - "The river knows where it needs to go; the boat only has to listen."
 - "Every creation takes a piece of you."
 - "I just need to finish this one."
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: medium build, medium breasts
   hair: dark blue-green, thinning, worn loose

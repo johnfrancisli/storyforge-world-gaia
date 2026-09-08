@@ -52,6 +52,16 @@ personality: Compassionate and tender-hearted, strict and disciplined, blunt and
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
+equipment:
+  underwear: []
+  clothing:
+  - item:crossover-desert-robe
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: tall, composed, average chest
   skin: dark obsidian skin cracked with blue fire in true form, warm brown skin in human form

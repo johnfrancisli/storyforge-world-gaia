@@ -57,6 +57,18 @@ personality: Bold and uncompromising, reserved and soft-spoken, guarded and caut
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
+equipment:
+  underwear: []
+  clothing:
+  - item:knee-length-pirahan
+  - item:bound-ankle-desert-trousers
+  - item:sleeveless-caravan-vest
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: lean and wiry, outdoor-hardened, medium breasts
   hair: sandy brown, braided, under a falconer's cap

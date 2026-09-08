@@ -4,7 +4,12 @@ name: Women's Sarashi Wrap
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: chest
+equipment_type: wearable
+layer: underwear
+coverage:
+- torso
+- left_arm
+- right_arm
 appearance: A long strip of soft cotton cloth intended to wrap evenly around the chest, with narrow finished edges and no rigid fastenings.
 description: A supportive optional women's base layer in [[location:tsukuyomi|Tsukuyomi]], favored for strenuous work, travel, and training beneath a hadajuban or kosode.
 item_tags:

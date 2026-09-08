@@ -22,6 +22,16 @@ biography: >-
   offers a peaceful answer to the crown crisis, but every claimant benefits from keeping it unread.
 personality: Controlled, incisive, dryly romantic, privately tender, and unwilling to flatter.
 key_phrases: ["A precedent is a ghost with excellent handwriting.", "Do not bow; bring evidence."]
+equipment:
+  underwear: []
+  clothing:
+  - item:laced-kirtle
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: lean athletic build, small breasts
   height: tall

@@ -4,7 +4,11 @@ name: Kitsune's Message Scroll
 item_type: tool
 rarity: null
 is_equippable: true
-slot: main_hand
+equipment_type: held
+hands_required: 1
+allowed_hands:
+- left
+- right
 appearance: A narrow scroll of rice paper, narrower than a finger, wound around a spool of pale fox-bone.
   The writing on it is not ink but fine red fox-fur pressed into the fiber of the paper. When carried,
   the scroll is warm to the touch, like a small living thing held against the chest.

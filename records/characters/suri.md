@@ -54,6 +54,15 @@ personality: Composed and even-tempered, guarded and cautious with trust, blunt 
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: lean and long-limbed, built for distance travel, small breasts
   hair: a crest of pale tan scales, sun-bleached

@@ -60,6 +60,15 @@ personality: Strict and disciplined.
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: lean, long-limbed, deep-chested like her teacher, small breasts
   skin: medium brown, sun-lightened

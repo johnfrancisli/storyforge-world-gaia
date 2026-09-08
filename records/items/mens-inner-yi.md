@@ -4,7 +4,12 @@ name: Men's Inner Yi
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: chest
+equipment_type: wearable
+layer: underwear
+coverage:
+- torso
+- left_arm
+- right_arm
 appearance: A plain hip-length ramie undershirt with a narrow crossed collar, close sleeves, flat seams, and small internal ties.
 description: A washable male skin layer in [[location:sangguo|Sangguo]], worn beneath jackets, robes, and military clothing.
 item_tags:

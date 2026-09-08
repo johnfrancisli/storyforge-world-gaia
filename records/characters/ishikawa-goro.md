@@ -54,6 +54,16 @@ personality: Compassionate and tender-hearted, tired and carrying a heavy burden
 key_phrases:
 - A fair deal leaves both sides slightly unhappy. That is how you know it was fair.
 - Trust is the only currency that compounds.
+equipment:
+  underwear: []
+  clothing:
+  - item:hemp-work-kosode
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: soft, round-faced, average chest
   hair: black, receding, in a merchant's topknot

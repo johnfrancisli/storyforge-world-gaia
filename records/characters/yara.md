@@ -52,6 +52,17 @@ personality: Composed and even-tempered, compassionate and tender-hearted, thoug
 key_phrases:
 - The spirits do not serve. They negotiate.
 - Every pact is a conversation that never ends.
+equipment:
+  underwear: []
+  clothing:
+  - item:feather-edged-shoulder-mantle
+  - item:leaf-fringe-festival-skirt
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: gaunt but unbowed, tall for a beast-kin, medium breasts
   hair: white, coarse, worn loose past the shoulders

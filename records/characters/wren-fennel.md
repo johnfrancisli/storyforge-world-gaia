@@ -52,6 +52,17 @@ key_phrases:
 - Home is not a place. It is the people who remember your name.
 - I lost everything. I will not lose who I am.
 - I will not rest until I find the woman with violet eyes and deliver the box as me mother asked.
+equipment:
+  underwear: []
+  clothing:
+  - item:elven-forest-tunic
+  - item:elven-fitted-leggings
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: thin from weeks of hardship on the road
   hair: dark brown, lank, cut unevenly (done with a knife on the road)

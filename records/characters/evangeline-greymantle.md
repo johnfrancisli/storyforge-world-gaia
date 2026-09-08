@@ -49,6 +49,17 @@ key_phrases:
 - The flame does not ask permission to burn.
 - Doubt is the shadow of faith, not its absence.
 - I will not rest until I expose the high priest's corruption and restore the temple's integrity.
+equipment:
+  underwear: []
+  clothing:
+  - item:linen-work-tunic
+  - item:wool-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: medium height, graceful, medium breasts
   hair: light brown, worn in a modest braid under a wimple

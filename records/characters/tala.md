@@ -56,6 +56,15 @@ personality: Perceptive and watchful.
 key_phrases:
 - I see what others miss because I know what to look for.
 - The wilderness does not forgive carelessness.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: lean, wiry, silent in movement, small breasts
   skin: medium brown, sun-darkened

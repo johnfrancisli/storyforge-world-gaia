@@ -52,6 +52,16 @@ personality: Reserved and soft-spoken, shrewd and calculating, guarded and cauti
 key_phrases:
 - A fair deal leaves both sides slightly unhappy. That is how you know it was fair.
 - Trust is the only currency that compounds.
+equipment:
+  underwear: []
+  clothing:
+  - item:hemp-work-kosode
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: compact, erect, small breasts
   hair: black, streaked silver, in a professional bun

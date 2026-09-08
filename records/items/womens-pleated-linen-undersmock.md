@@ -4,7 +4,14 @@ name: Women's Pleated Linen Undersmock
 item_type: clothing
 rarity: uncommon
 is_equippable: true
-slot: chest
+equipment_type: wearable
+layer: underwear
+coverage:
+- torso
+- left_arm
+- right_arm
+- left_leg
+- right_leg
 appearance: A long fine-linen smock with narrow vertical pleats across the upper chest and sleeves, a small neck opening, and a full straight body.
 description: A more labor-intensive women's undergarment in [[location:hrafnland|Hrafnland]], worn when fine household weaving is meant to show at the neckline and wrists.
 item_tags:

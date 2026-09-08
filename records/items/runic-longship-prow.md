@@ -4,7 +4,6 @@ name: Runic Longship Prow
 item_type: relic
 rarity: null
 is_equippable: false
-slot: null
 appearance: 'The carved prow of a longship -- a dragon''s head and curling neck in dark oak, the span
   of a man''s outstretched arms, the wood blackened with tar and age. Runes are cut along the neck in
   a deep, sure hand: wind, wave, ward, and the name of the ship, which is also the name of the dragon

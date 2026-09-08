@@ -4,7 +4,14 @@ name: Ceremonial Chihaya
 item_type: clothing
 rarity: uncommon
 is_equippable: true
-slot: shoulders
+equipment_type: wearable
+layer: clothing
+coverage:
+- torso
+- left_arm
+- right_arm
+stacking:
+  mode: overlay
 appearance: A light white overrobe with an open front, very wide sleeves, long side openings, and restrained woven shrine emblems near the shoulders and hem.
 description: Senior miko and ritual dancers in [[location:tsukuyomi|Tsukuyomi]] wear this airy layer over the standard shrine garments during major offerings, spirit-channeling rites, and formal dances.
 item_tags:

@@ -22,6 +22,17 @@ biography: >-
   alliances, though each revelation risks the clientele that bought her independence.
 personality: Sensual, disciplined, amused by hypocrisy, socially fearless, careful with genuine attachment.
 key_phrases: ["People lie. Wool remembers.", "That is not rosewater, whatever he told you."]
+equipment:
+  underwear: []
+  clothing:
+  - item:linen-work-tunic
+  - item:wool-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: curvy athletic build, medium breasts
   height: medium

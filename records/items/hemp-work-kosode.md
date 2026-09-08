@@ -4,7 +4,14 @@ name: Hemp Work Kosode
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: chest
+equipment_type: wearable
+layer: clothing
+coverage:
+- torso
+- left_arm
+- right_arm
+- left_leg
+- right_leg
 appearance: A calf-length hemp kosode with a crossed front, narrow sleeves, reinforced underarms, and ties that keep the garment closed beneath a sash.
 description: Everyday working dress in [[location:tsukuyomi|Tsukuyomi]], cut to withstand repeated washing and easy repair. The sleeves can be tied back for cooking, craft, or field work.
 item_tags:

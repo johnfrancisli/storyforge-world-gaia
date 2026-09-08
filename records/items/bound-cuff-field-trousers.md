@@ -4,7 +4,11 @@ name: Bound-Cuff Field Trousers
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: legs
+equipment_type: wearable
+layer: clothing
+coverage:
+- left_leg
+- right_leg
 appearance: Roomy hemp trousers tapered into narrow ankle cuffs, with reinforced knees, a gusseted seat, and ties at the lower leg.
 description: A practical field and workshop garment in [[location:sangguo|Sangguo]], designed to stay clear of mud, machinery, and brush.
 item_tags:

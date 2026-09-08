@@ -57,6 +57,17 @@ personality: Reserved and soft-spoken, guarded and cautious with trust, carries 
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
+equipment:
+  underwear: []
+  clothing:
+  - item:wool-overtunic
+  - item:wool-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: medium height, lean, with strong hands and forearms, broad chest
   hair: light brown, thinning at the crown, worn short

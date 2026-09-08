@@ -55,6 +55,17 @@ personality: Warm and optimistic, generous and welcoming, perceptive and watchfu
 key_phrases:
 - The body says what the voice cannot.
 - Every step is a sentence. Every turn is a word.
+equipment:
+  underwear: []
+  clothing:
+  - item:open-sided-island-tunic
+  - item:pau-wrap-skirt
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: lithe, long-limbed, flexible, small breasts
   skin: medium brown

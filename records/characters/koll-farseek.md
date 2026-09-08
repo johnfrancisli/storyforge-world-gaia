@@ -54,6 +54,17 @@ personality: Guarded and cautious with trust, carries a secret that shapes every
 key_phrases:
 - I see what others miss because I know what to look for.
 - The wilderness does not forgive carelessness.
+equipment:
+  underwear: []
+  clothing:
+  - item:wool-overtunic
+  - item:wool-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: lean and quick, built for running and climbing, narrow chest
   hair: sandy brown, sun-bleached, worn short

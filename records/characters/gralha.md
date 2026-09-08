@@ -55,6 +55,15 @@ key_phrases:
 - I see what others miss because I know what to look for.
 - The wilderness does not forgive carelessness.
 - I will not rest until I gather enough intelligence to present a complete picture to the council.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: light-boned and lean, built for flight, narrow chest
   hair: a crest of dark blue-black feathers

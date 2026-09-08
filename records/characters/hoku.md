@@ -58,6 +58,15 @@ personality: Composed and even-tempered, reserved and soft-spoken, guarded and c
 key_phrases:
 - The stars do not lie, but they do not explain themselves.
 - The ocean is not empty. It is full of things you cannot see.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: lean, weathered, salt-roughened, small breasts
   skin: deep brown, heavily weathered

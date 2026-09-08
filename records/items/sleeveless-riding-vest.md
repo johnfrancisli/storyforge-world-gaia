@@ -4,7 +4,12 @@ name: Sleeveless Riding Vest
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: chest
+equipment_type: wearable
+layer: clothing
+coverage:
+- torso
+stacking:
+  mode: overlay
 appearance: A thigh-length sleeveless overvest with a crossed front, high side slits, reinforced shoulders, and a narrow belt.
 description: Mounted couriers and travelers in [[location:sangguo|Sangguo]] wear this over a fitted shirt for warmth and storage without restricting the arms.
 item_tags:

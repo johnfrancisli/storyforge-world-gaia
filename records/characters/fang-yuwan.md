@@ -54,6 +54,17 @@ key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 - I will not rest until I keep me family's boat-building tradition alive without enabling violence.
+equipment:
+  underwear: []
+  clothing:
+  - item:short-shan-work-shirt
+  - item:bound-cuff-field-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: strong-armed and broad-backed from years of plank-bending, medium breasts
   hair: dark brown, cropped to the jaw and tied back

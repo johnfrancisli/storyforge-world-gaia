@@ -52,6 +52,17 @@ personality: Guarded and cautious with trust, blunt and rough-spoken, generous a
 key_phrases:
 - Good mead takes patience. Great mead takes luck.
 - You can't rush fermentation, and you can't rush honesty.
+equipment:
+  underwear: []
+  clothing:
+  - item:knee-length-pirahan
+  - item:bound-ankle-desert-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: round and comfortable, medium breasts
   hair: black with grey, covered by a green headscarf

@@ -56,6 +56,15 @@ personality: Strict and disciplined, wary and watchful, guarded and cautious wit
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: wiry, strong-forearmed, lean, small breasts
   skin: medium brown, rope-burned at the palms

@@ -4,7 +4,11 @@ name: Men's Wool Undertrousers
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: legs
+equipment_type: wearable
+layer: underwear
+coverage:
+- left_leg
+- right_leg
 appearance: Soft full-length wool undertrousers with a linen-faced waist, close ankles, and a roomy gusseted seat.
 description: A male winter base layer for exposed coasts and mountain travel in [[location:hrafnland|Hrafnland]].
 item_tags:

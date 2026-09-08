@@ -4,7 +4,11 @@ name: Pleated Qun Skirt
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: legs
+equipment_type: wearable
+layer: clothing
+coverage:
+- left_leg
+- right_leg
 appearance: A long skirt assembled from broad cloth panels, gathered into regular pleats at a high wrapped waistband with long ties.
 description: A common lower garment for women in [[location:sangguo|Sangguo]], paired with short jackets or layered robes.
 item_tags:

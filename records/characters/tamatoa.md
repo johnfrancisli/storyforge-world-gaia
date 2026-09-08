@@ -61,6 +61,15 @@ personality: Reserved and soft-spoken, wary and watchful, guarded and cautious w
 key_phrases:
 - The river gives and the river takes. You learn to accept both.
 - A bad day fishing is still a day on the water.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: compact, weathered, unremarkable, average chest
   skin: deep brown, sun-darkened

@@ -4,7 +4,13 @@ name: Traveler's Narrow Hakama
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: legs
+equipment_type: wearable
+layer: clothing
+coverage:
+- left_leg
+- right_leg
+stacking:
+  mode: overlay
 appearance: An ankle-length divided hakama with shallow pleats, a wrapped waist, and narrow lower legs that fit beneath gaiters.
 description: A road-going compromise between formal hakama and work trousers, worn by pilgrims and couriers across [[location:tsukuyomi|Tsukuyomi]].
 item_tags:

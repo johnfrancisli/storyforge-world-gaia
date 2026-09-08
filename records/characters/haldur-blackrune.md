@@ -55,6 +55,17 @@ personality: Precise and detail-oriented, composed and even-tempered, reserved a
 key_phrases:
 - The material tells you what it wants to become.
 - My hands remember what my mind forgets.
+equipment:
+  underwear: []
+  clothing:
+  - item:wool-overtunic
+  - item:wool-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: medium height, thick-armed from stone work, broad chest
   hair: black, going iron-grey, worn short

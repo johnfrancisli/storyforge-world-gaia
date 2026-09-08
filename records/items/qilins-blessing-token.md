@@ -4,7 +4,8 @@ name: Qilin's Blessing Token
 item_type: relic
 rarity: null
 is_equippable: true
-slot: neck
+equipment_type: accessory
+accessory_slot: neck
 appearance: A flat disc of white jade the width of a coin, pierced with a square hole in the old style
   and hung on a cord of red silk. One face is carved with the image of a qilin in mid-stride; the other
   bears a single seal-character meaning 'recognized.' The jade is warm and, in the hands of someone the

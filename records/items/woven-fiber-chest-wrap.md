@@ -4,7 +4,10 @@ name: Woven-Fiber Chest Wrap
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: chest
+equipment_type: wearable
+layer: clothing
+coverage:
+- torso
 appearance: A wide rectangular panel of fine woven fiber wrapped around the upper torso and secured by flat ties beneath one arm.
 description: A light public top in the warm islands of [[location:tide-archipelago|the Tide Archipelago]], worn alone for daily work or beneath a mantle for ceremony.
 item_tags:

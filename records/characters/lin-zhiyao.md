@@ -48,6 +48,16 @@ key_phrases:
 - Music is what words feel when they are honest.
 - Every song is a conversation with silence.
 - I will not rest until I learn the truth of me mother's disappearance.
+equipment:
+  underwear: []
+  clothing:
+  - item:straight-hem-shenyi
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: slender and graceful, small breasts
   hair: long black hair worn in elaborate court pins

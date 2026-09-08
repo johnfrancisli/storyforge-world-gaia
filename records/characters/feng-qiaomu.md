@@ -48,6 +48,17 @@ key_phrases:
 - The land doesn't care about your plans.
 - Patience is the only crop that grows in any season.
 - I will not rest until I see no flag village recognized as neutral territory by all three states.
+equipment:
+  underwear: []
+  clothing:
+  - item:short-shan-work-shirt
+  - item:bound-cuff-field-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: sturdy and broad-hipped from years of field labor, large breasts
   hair: dark brown, gray at the temples, in a tight braid

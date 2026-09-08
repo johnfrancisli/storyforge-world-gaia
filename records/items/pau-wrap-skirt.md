@@ -4,7 +4,11 @@ name: Pa'u Wrap Skirt
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: legs
+equipment_type: wearable
+layer: clothing
+coverage:
+- left_leg
+- right_leg
 appearance: A full barkcloth skirt formed from a wide wrapped panel, with layered front folds and a braided cord securing the waist.
 description: Women across [[location:tide-archipelago|the Tide Archipelago]] wear this skirt in daily and ceremonial forms, changing the fineness and painted pattern rather than the basic construction.
 item_tags:

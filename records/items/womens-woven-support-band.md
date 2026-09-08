@@ -4,7 +4,10 @@ name: Women's Woven Support Band
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: chest
+equipment_type: wearable
+layer: underwear
+coverage:
+- torso
 appearance: A compact chest band of tightly woven plant fiber with broad front coverage, narrow shoulder loops, and adjustable side ties.
 description: Women doing vigorous climbing, running, or river work in [[location:verdania|Verdania]] may choose this more secure upper underlayer.
 item_tags:

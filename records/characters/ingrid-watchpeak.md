@@ -56,6 +56,15 @@ personality: Steadfast and devoted, guarded and cautious with trust, blunt and r
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: medium height, broad and solid, built to stand firm, medium breasts
   hair: red-gold, cropped short

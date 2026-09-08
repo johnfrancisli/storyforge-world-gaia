@@ -4,7 +4,12 @@ name: Sleeveless Caravan Vest
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: chest
+equipment_type: wearable
+layer: clothing
+coverage:
+- torso
+stacking:
+  mode: overlay
 appearance: A hip-length sleeveless vest with an open front, curved armholes, reinforced shoulder panels, and several small inner pockets.
 description: A practical layer used by caravan hands in [[location:al-khayzar|Al-Khayzar]], keeping tools and papers close without trapping much heat.
 item_tags:

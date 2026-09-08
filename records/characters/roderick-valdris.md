@@ -50,6 +50,15 @@ personality: Bold and uncompromising, shrewd and calculating, defiant and indepe
 key_phrases:
 - I will not be my father. I will not be his mistake.
 - The throne is not my goal. It is my responsibility.
+equipment:
+  underwear: []
+  clothing: []
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: broad, muscular, heavy, broad chest
   height: tall

@@ -4,7 +4,11 @@ name: Reinforced Riding Trousers
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: legs
+equipment_type: wearable
+layer: clothing
+coverage:
+- left_leg
+- right_leg
 appearance: Full-crotched riding trousers with a broad waist, roomy thighs, reinforced inner legs, and fitted calves that tuck into boots.
 description: Cavalry retainers, caravan guards, and messengers in [[location:sangguo|Sangguo]] use this cut for long hours in the saddle.
 item_tags:

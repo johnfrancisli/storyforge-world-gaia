@@ -55,6 +55,16 @@ key_phrases:
 - I'm not afraid. I'm just... careful.
 - When you're small, you learn to notice things.
 - I will not rest until I understand me dreams without being taken away to live with the volur.
+equipment:
+  underwear: []
+  clothing:
+  - item:fur-lined-winter-tunic
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
 visual:
   body_build: small and wiry, still growing
   hair: pale blonde, worn in two braids

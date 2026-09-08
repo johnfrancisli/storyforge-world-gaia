@@ -4,7 +4,14 @@ name: Travel Robe
 item_type: clothing
 rarity: common
 is_equippable: true
-slot: chest
+equipment_type: wearable
+layer: clothing
+coverage:
+- torso
+- left_arm
+- right_arm
+- left_leg
+- right_leg
 appearance: A durable knee-length wrap robe with close sleeves, an overlapping front, a reinforced shoulder yoke, and ties at the waist and inner breast.
 description: Pilgrims, couriers, and country travelers in [[location:tsukuyomi|Tsukuyomi]] wear this shortened robe on the road. Its hem permits long strides without exposing the underlayer.
 item_tags:
