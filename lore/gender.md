@@ -2,28 +2,28 @@
 
 ## The two genders
 
-Gaia recognises **two genders**: woman and man.
+Gaia recognises **two genders**: female and male.
 
-- **Woman** — `gender: woman`
-- **Man** — `gender: man`
+- **Female** — `gender: female`
+- **Male** — `gender: male`
 
 Every character record carries one of these. There are no additional values,
 no third standings, and no cultural exceptions. The narrator and the text
 generator need a simple, reliable answer, and two genders provide that.
 
-## What the field means
-
-The `gender:` field on a character record is the character's gender — full
-stop. It is not a pronoun preference, not a social role separate from gender,
-and not something that changes by nation. A woman is a woman in every nation
-she walks into, and the same for a man.
+Using female and male rather than woman and man keeps the field biological
+and age-independent — a girl, a woman, and an elderly grandmother are all
+`gender: female`, and the narrator picks the age-appropriate word. This avoids
+the awkwardness of a child being labelled a "woman" or a "man" when the
+record is meant to capture sex, not social station.
 
 ## Attraction, partnership, and orientation
 
-**Who a person is attracted to is separate from their gender.** A woman may
-be attracted to women, to men, or to both. The same is true for men. Gaia
-does not label or categorise orientation on character records — it is part of
-a character's personality and story, not a structural field.
+**Who a person is attracted to is separate from their gender.** A female
+person may be attracted to females, to males, or to both. The same is true
+for males. Gaia does not label or categorise orientation on character
+records — it is part of a character's personality and story, not a
+structural field.
 
 Homosexual, bisexual, and other pairings are accepted in most of Gaia, but
 **not everywhere**. Four nations enforce laws or customs against same-gender
