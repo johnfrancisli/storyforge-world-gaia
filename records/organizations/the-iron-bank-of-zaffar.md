@@ -1,7 +1,19 @@
 ---
+id: org:the-iron-bank-of-zaffar
 name: The Iron Bank of Zaffar
-type: organization
-aliases: ["The Djinn-Bankers", "The Counting House of Zaffar"]
+seat: location:zaffar
+wants: To hold the international debt of Gaia and collect upon it with ruthless djinn-binding.
+pressure: steady
+holdings:
+- location:zaffar
+visual:
+  prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 # The Iron Bank of Zaffar

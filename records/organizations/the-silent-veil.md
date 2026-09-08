@@ -1,7 +1,18 @@
 ---
+id: org:the-silent-veil
 name: The Silent Veil
-type: organization
-aliases: ["The Faceless Kami", "The Silent Order", "Kage-bito of the Veil"]
+seat: location:tsukuyomi
+wants: To maintain the spiritual balance of the kami-order through precise assassinations.
+pressure: steady
+holdings: []
+visual:
+  prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 # The Silent Veil

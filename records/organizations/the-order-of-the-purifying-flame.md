@@ -1,7 +1,18 @@
 ---
+id: org:the-order-of-the-purifying-flame
 name: The Order of the Purifying Flame
-type: organization
-aliases: ["The Inquisitors of the Dawn", "The Purifiers"]
+seat: location:val-crownhaven-cathedral
+wants: To violently root out heresy, corruption, and unsanctioned magic from Valdris.
+pressure: steady
+holdings: []
+visual:
+  prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 # The Order of the Purifying Flame

@@ -1,7 +1,19 @@
 ---
+id: org:the-broken-watch
 name: The Broken Watch
-type: organization
-aliases: ["The Sable Cloaks", "The Skerry Guard"]
+seat: location:val-northwatch
+wants: To survive the freezing northern shores by any means necessary, including corruption and smuggling.
+pressure: steady
+holdings:
+- location:val-northwatch
+visual:
+  prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 # The Broken Watch

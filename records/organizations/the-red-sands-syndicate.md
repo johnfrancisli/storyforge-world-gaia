@@ -1,8 +1,18 @@
 ---
 id: org:red-sands-syndicate
 name: The Red Sands Syndicate
-type: organization
-aliases: ["The Jackals of the Silk Pass", "The Red Dune Cartel"]
+seat: location:border-silk-pass
+wants: To dominate the illegal slave trade and smuggling routes through sheer brutality and terror.
+pressure: rising
+holdings: []
+visual:
+  prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 # The Red Sands Syndicate

@@ -1,7 +1,18 @@
 ---
+id: org:the-blood-iron-company
 name: The Blood-Iron Company
-type: organization
-aliases: ["The Exiled Guard", "The Iron Brotherhood"]
+seat: location:border-silk-pass
+wants: To execute highly paid mercenary contracts with absolute, unbreakable precision and loyalty.
+pressure: steady
+holdings: []
+visual:
+  prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 # The Blood-Iron Company

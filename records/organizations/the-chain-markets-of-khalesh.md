@@ -1,8 +1,19 @@
 ---
 id: org:chain-markets-of-khalesh
 name: The Chain-Markets of Khalesh
-type: organization
-aliases: ["The Brokers of Khalesh", "The Flesh Markets"]
+seat: location:al-khayzar
+wants: To regulate and profit immensely from the legal and socially accepted human slave trade.
+pressure: steady
+holdings:
+- location:al-khayzar
+visual:
+  prompt: ''
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
 ---
 
 # The Chain-Markets of Khalesh
