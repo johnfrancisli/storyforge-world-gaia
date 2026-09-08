@@ -51,13 +51,16 @@ visual:
   hair: black, long, tied back with a white ribbon
   eyes: brown
   distinctive_features: a small burn scar on her right wrist from a mishandled ofuda
-  prompt: 1girl, solo, adult woman, human, slight build, brown eyes, red hakama pants, focused solemn
-    expression, soft candlelight illumination from side, dust motes in air, quiet reverent atmosphere
+  prompt: 1girl, solo, female focus, Human, adult woman, slight, lean, small breasts, brown eyes, black
+    hair, long hair, tied back with a white ribbon, slight build, shrine keeper robes, white top hakama
+    pants, sleeves tied back, sitting at wooden altar, hands clasped in prayer, focused expression, dim
+    candlelight, incense smoke curling upward, wooden shelves with ritual implements, scroll case beside
+    her, quiet rural shrine interior
 image:
   url: assets/images/characters/amemiya-sora.background.png
   focalPoint:
-    x: 0.5
-    y: 0.1
+    x: 0.687
+    y: 0.316
   seed: 10235485
   variations:
   - name: neutral

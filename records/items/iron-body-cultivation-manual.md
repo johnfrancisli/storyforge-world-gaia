@@ -1,7 +1,10 @@
 ---
 id: item:chi-manual
 name: Iron Body Cultivation Manual
-item_type: artifact
+item_type: document
+rarity: null
+is_equippable: true
+slot: two_hand
 appearance: A hand-stitched booklet of bamboo slips threaded on silk cord, the slips darkened with age
   and the brushwork so small it must be read with a lens. The cover slip bears a single character for
   'iron' and the chop of the academy that issued it. The silk cord is frayed and has been re-knotted several
@@ -17,10 +20,12 @@ description: 'A chi cultivation manual from one of the great academies of Sanggu
 item_tags:
 - magic
 - sangguo
+- document
 - artifact
+- equipment
 - chi-cultivation
 visual:
-  prompt: ''
+  prompt: hand-stitched cultivation manual made from aged bamboo slips, darkened bamboo, fine dense brush calligraphy, silk binding cord, cover slip marked with a single iron character and an academy seal, frayed cord re-knotted several times, object focus, isolated document, open booklet, close-up, three-quarter view
 image:
   url: ''
   focalPoint:

@@ -9,7 +9,7 @@ gm_notes: Ravn has been composing an epic about the frost giants that is not ent
   thinks this is hilarious. Sigrid does not.
 aliases:
 - Skald Ravn
-race: Frost Giant
+race: Human
 gender: Male
 age: 25
 heritage: Hrafnish

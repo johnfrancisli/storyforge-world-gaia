@@ -1,7 +1,10 @@
 ---
 id: item:dwarven-master-key
 name: Dwarven Master-Key
-item_type: artifact
+item_type: relic
+rarity: null
+is_equippable: true
+slot: main_hand
 appearance: A key of black iron the length of a forearm, too heavy to be carried on a ring. The bow is
   forged into the dwarven rune for 'opening,' and the bit is not a fixed shape but a lattice of interlocking
   plates that shift and settle against any lock they are pressed into. The metal is cold and slightly
@@ -16,10 +19,12 @@ description: A relic of the dwarven locksmiths' guild of Deep Valdris, forged be
 item_tags:
 - magic
 - valdris
+- relic
 - artifact
+- equipment
 - dwarf-craft
 visual:
-  prompt: ''
+  prompt: forearm-length black iron master key, massive heavy construction, key bow forged as a dwarven opening rune, bit formed from interlocking movable metal plates, faint oil patina on dark metal, precise dwarven craftsmanship, object focus, isolated relic, full-length three-quarter view, clear silhouette
 image:
   url: ''
   focalPoint:

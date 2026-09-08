@@ -10,7 +10,7 @@ gm_notes: 'Ulf is a hunter and trapper who works the mountain forests, setting l
   not about the cave — the cave, he has told no one. He is afraid that if the ice melts, or if the things
   wake, the mountains will not be safe for anyone.'
 aliases: []
-race: Beast-kin
+race: Human
 gender: Male
 age: 38
 heritage: Hrafnish

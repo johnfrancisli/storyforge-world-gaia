@@ -11,7 +11,7 @@ gm_notes: Kenta is Chiyo's (character:kobayashi-chiyo) best friend and the only 
   stone.
 aliases:
 - Kenta
-race: Kitsune (Yokai)
+race: Human
 gender: Male
 age: 12
 heritage: Tsukuyomi

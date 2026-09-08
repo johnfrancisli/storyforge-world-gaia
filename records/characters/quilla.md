@@ -11,7 +11,7 @@ gm_notes: 'The most skilled feather worker in the western rainforest, famous for
   headdresses for three years, but the spirit has noticed and is beginning to threaten her through her
   dreams.'
 aliases: []
-race: Beast-kin (Serpent)
+race: Beast-kin (Bird)
 gender: Female
 age: 38
 heritage: Verdanian

@@ -10,7 +10,7 @@ gm_notes: 'An herbalist who can cure any rainforest ailment but carries a terrib
   begun to search for an apprentice she can trust with the truth, but admitting what she did means admitting
   she used forbidden root-magic that the tribes have outlawed for two generations.'
 aliases: []
-race: Demon-folk (Mazoku)
+race: Human
 gender: Female
 age: 29
 heritage: Verdanian

@@ -10,7 +10,7 @@ gm_notes: 'Koll is a scout and messenger who runs the mountain trails for Jarl S
   size, moving between the structures with what looked like purpose. Koll has not reported any of this
   because he does not want the jarl to send a war party. He wants to make contact.'
 aliases: []
-race: Frost Giant
+race: Human
 gender: Male
 age: 24
 heritage: Hrafnish

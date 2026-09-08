@@ -9,7 +9,7 @@ gm_notes: Kayo is a rokurokubi — a yokai whose neck extends grotesquely at nig
   as a yokai, but she's more terrified of whoever is tampering with the shrine site. She's been leaving
   anonymous notes for the shrine maiden Katsura (character:katsura).
 aliases: []
-race: Yokai
+race: Rokurokubi (Yokai)
 gender: Female
 age: 25
 heritage: Tsukuyomi

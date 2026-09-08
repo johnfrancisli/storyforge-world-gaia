@@ -1,7 +1,10 @@
 ---
 id: item:yokai-bell
 name: Shrine Bell of Silence
-item_type: religious
+item_type: tool
+rarity: null
+is_equippable: true
+slot: main_hand
 appearance: A bronze bell the size of a closed fist, hung from a cord of braided red and white cotton.
   The metal is dark with age and etched with a ring of tiny shrine characters that no living kannushi
   can fully read. It rings with a clear, thin note that carries further than it should.
@@ -15,9 +18,11 @@ item_tags:
 - magic
 - tsukuyomi
 - religious
+- tool
+- equipment
 - yokai
 visual:
-  prompt: ''
+  prompt: closed-fist-sized bronze ritual bell, dark age-patinated metal, braided red and white cotton cord, ring of tiny etched shrine characters around the bell, simple old shrine craftsmanship, object focus, isolated ritual tool, close-up, three-quarter view, clear silhouette
 image:
   url: ''
   focalPoint:

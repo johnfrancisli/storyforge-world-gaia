@@ -2,6 +2,9 @@
 id: item:desert-astrolabe
 name: Desert Navigator's Astrolabe
 item_type: tool
+rarity: null
+is_equippable: true
+slot: main_hand
 appearance: A brass astrolabe the width of two palms, its face a nest of nested rings engraved with star-coordinates
   and the phases of the desert moon. The central alidade is set with a small chip of starlight-glass that
   catches even faint light. The whole is worn smooth by thumbs and hangs from a cord of braided camel-leather.
@@ -17,9 +20,10 @@ item_tags:
 - magic
 - al-khayzar
 - tool
+- equipment
 - navigation
 visual:
-  prompt: ''
+  prompt: two-palm-wide brass astrolabe, nested rotating rings, engraved star coordinates, engraved desert moon phases, central alidade, small starlight-glass chip catching faint light, thumb-worn brass, braided camel-leather carrying cord, object focus, isolated navigation instrument, close-up, three-quarter view
 image:
   url: ''
   focalPoint:

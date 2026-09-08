@@ -1,7 +1,10 @@
 ---
 id: item:volva-bones
 name: Volva's Prophecy Bones
-item_type: religious
+item_type: tool
+rarity: null
+is_equippable: true
+slot: main_hand
 appearance: A leather pouch containing twenty-odd small bones -- knuckle-bones of seals and deer, a fragment
   of whale-rib, two human finger-bones yellow with age -- each scratched with a single rune. The pouch
   is worn soft with handling and tied with a cord of plaited sinew. The bones clatter softly even when
@@ -17,10 +20,12 @@ item_tags:
 - magic
 - hrafnland
 - religious
+- tool
+- equipment
 - seidr
 - divination
 visual:
-  prompt: ''
+  prompt: worn leather divination pouch with plaited sinew cord, pouch opened beside twenty-odd small prophecy bones, seal and deer knucklebones, whale-rib fragment, two yellowed human finger bones, one deeply scratched rune on each bone, bones scattered across a hide, object focus, close-up, firelight
 image:
   url: ''
   focalPoint:

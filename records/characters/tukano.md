@@ -10,7 +10,7 @@ gm_notes: A bird beast-kin drummer whose rhythms can induce trance states, heal 
   the cost of the rain, and the tribe has begun to praise her as blessed by the storm rather than understanding
   she is burning herself out to keep them alive.
 aliases: []
-race: Beast-kin (Serpent)
+race: Beast-kin (Bird)
 gender: Female
 age: 35
 heritage: Verdanian

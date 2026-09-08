@@ -9,7 +9,7 @@ gm_notes: Saya's sake is prized across the region for its impossible smoothness.
   suspects he knew she was lying.
 aliases:
 - Saya
-race: Tengu (Yokai)
+race: Human
 gender: Female
 age: 25
 heritage: Tsukuyomi

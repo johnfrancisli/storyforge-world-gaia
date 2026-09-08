@@ -10,7 +10,7 @@ gm_notes: 'Hilla hunts the mountain forests above Skaldvik for deer, elk, and oc
   — and Hilla does not believe the giant is a threat. It was avoiding the settlement, staying high, staying
   hidden. She thinks it is alone and possibly wounded.'
 aliases: []
-race: Frost Giant
+race: Human
 gender: Female
 age: 29
 heritage: Hrafnish

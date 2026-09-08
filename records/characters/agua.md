@@ -40,8 +40,8 @@ currency:
   silver: 0
   copper: 0
 appearance: Quiet and precise, with the careful hands of a craftsperson. Works on the riverbank among
-  half-finished hulls. Paler than most Mizuhito, with a translucent quality to her skin. Her features possess
-  a deeply captivating, fragile beauty, highly attractive and delicate.
+  half-finished hulls. Paler than most Mizuhito, with a translucent quality to her skin. Her face has
+  delicate features and a tired, translucent pallor.
 biography: Água grew up on the riverbanks of Iara, learning the sacred art of canoe crafting from the previous
   generation of builders. She discovered a forbidden technique of spirit-binding that allowed her to create
   unparalleled vessels. For years, she has quietly sacrificed pieces of her own soul to fortify the river-cities,
@@ -61,7 +61,7 @@ visual:
   - pale blue-green skin, noticeably lighter than typical Mizuhito coloration
   - webbed fingers and toes
   - fine sawdust and wood-chip scarring on both hands from adze work
-  face: delicate features, fragile beauty
+  face: delicate facial features
   prompt: ''
 image:
   url: ''

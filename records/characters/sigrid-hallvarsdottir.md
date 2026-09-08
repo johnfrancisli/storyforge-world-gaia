@@ -13,7 +13,7 @@ gm_notes: 'Sigrid''s father was killed by a frost giant twelve years ago during 
   has not proved it to the Althing.'
 aliases:
 - Jarl Sigrid Hallvarsdottir
-race: Frost Giant
+race: Human
 gender: Female
 age: 48
 heritage: Hrafnish

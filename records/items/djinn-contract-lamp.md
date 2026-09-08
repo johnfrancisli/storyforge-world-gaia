@@ -1,7 +1,10 @@
 ---
 id: item:djinn-lamp
 name: Djinn-Contract Lamp
-item_type: artifact
+item_type: relic
+rarity: null
+is_equippable: true
+slot: main_hand
 appearance: A brass oil lamp, hand-sized, dented and dark with age, the spout curved like a serpent's
   head and the body etched with old contract-script that glows faintly when the lamp is filled. It holds
   no wick and no oil -- the interior is dry and smells faintly of smoke and hot sand no matter how it
@@ -17,10 +20,12 @@ description: A binding lamp of Al-Khayzar -- the physical vessel of a contract b
 item_tags:
 - magic
 - al-khayzar
+- relic
 - artifact
+- equipment
 - djinn-binding
 visual:
-  prompt: ''
+  prompt: hand-sized aged brass oil lamp, dented tarnished body, serpent-head curved spout, densely etched contract script darkened in the grooves, empty wickless opening, traces of soot, object focus, isolated relic, three-quarter view, clear silhouette
 image:
   url: ''
   focalPoint:

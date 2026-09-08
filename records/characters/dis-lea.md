@@ -9,7 +9,7 @@ gm_notes: 'Dis is an herbalist who tends a garden of medicinal plants behind her
   full story. She does know that if anyone discovered him, the fear and hatred directed at giant-blood
   would make his life — and hers, for sheltering him — very short.'
 aliases: []
-race: Frost Giant
+race: Human
 gender: Female
 age: 35
 heritage: Hrafnish

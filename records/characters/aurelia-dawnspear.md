@@ -8,7 +8,7 @@ gm_notes: Aurelia is one of the few female dragon-bonded knights of the Dragon O
   dragon may be building a nest — something not seen in a century. If true, it could mean a new generation
   of dragons, and a shift in power.
 aliases: []
-race: Dragon-kin (Ryujin)
+race: Human
 gender: Female
 age: 29
 heritage: Valdrian

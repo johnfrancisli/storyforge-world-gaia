@@ -9,7 +9,7 @@ gm_notes: 'Kaa has found something in the deep jungle: a temple entrance that wa
   to decide whether to go back alone or wait for someone to take him seriously.'
 aliases:
 - Kaa the Jaguar-kin
-race: Nekomata
+race: Beast-kin (Jaguar)
 gender: Male
 age: 25
 heritage: Verdanian

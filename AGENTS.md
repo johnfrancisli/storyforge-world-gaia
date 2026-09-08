@@ -196,7 +196,59 @@ image:
   appearance, clothing, equipment, pose, expression, surroundings, and other
   imageable traits. Translate narrative facts into visible evidence where useful;
   do not copy non-visual biography or exposition into the prompt.
-Character age is a top-level factual field, not part of `visual`. It may inform a visual age category but should not normally appear numerically in an image prompt.
+- Treat canonical physical identity as mandatory, not optional flavor. When the
+  character record supplies them, preserve the visible age category, species,
+  body/build and proportions, skin/fur/scale colour, face, eye colour and shape,
+  hair colour/length/texture/style, facial hair, horns, ears, tails, wings,
+  markings, scars, and other species-specific features in the prompt.
+- Preserve an explicitly authored adult chest or breast-size descriptor as part
+  of body proportions. Use neutral anatomical tags such as `broad chest`,
+  `small breasts`, or `large breasts`; do not embellish or eroticize them. Never
+  add or preserve breast-size tags for a child character.
+- Do not substitute a more generic feature for a supplied one. `dark hair` does
+  not replace `long dark teal braids`; `pale skin` does not replace `blue-green
+  skin`; a race name does not replace its visible morphology.
+- Do not invent a missing identity trait. If hair, eyes, build, or the visual
+  form of a non-human ancestry is genuinely unspecified, leave it unspecified
+  and report the missing data for author review.
+- For a non-human character, never rely on the race label alone. Resolve an
+  exact matching `character_visual_reference` or
+  `character_visual_references` entry from `records/lore/`, then include its
+  prompt baseline and invariant morphology. The character's own `visual`
+  fields always override the population baseline.
+- Do not infer ancestry from a name, culture, role, or approximate string. A
+  `Half-Elf` does not inherit an `Elf` reference unless the lore explicitly
+  lists both under `applies_to`.
+
+Character age is a top-level factual field, not part of `visual`. It may inform
+a visual age category but should not normally appear numerically in an image
+prompt.
+
+### Race and ancestry visual-reference schema
+
+Race lore used by prompt generation must include a compact, explicit visual
+reference. A lore record may define one block:
+
+```yaml
+character_visual_reference:
+  applies_to: [Mizuhito]
+  prompt: amphibious humanoid, blue-green skin, webbed fingers and toes
+  invariant_traits:
+    - amphibious humanoid proportions
+    - webbed fingers and toes
+  variable_traits:
+    - skin ranges through blue-green and teal tones
+  avoid:
+    - ordinary human hands and feet
+```
+
+Or one central race document may define multiple entries under
+`character_visual_references`. `prompt` is a short positive baseline suitable
+for direct composition. `invariant_traits` explains what must remain true,
+`variable_traits` documents individual variation and must not be imposed on
+everyone, and `avoid` records common wrong renderings for review and future
+negative-prompt support. Keep political history and metaphysics in normal lore
+prose; only visible anatomy belongs in the prompt baseline.
 
 # ONE OBSESSION / COMFYUI PROMPT GENERATOR
 
@@ -363,6 +415,16 @@ Example:
 The order is a guideline, not a reason to create awkward or repetitive prompts.
 
 Put the most important visual identity information relatively early.
+
+For a character, the first identity block is a fidelity contract. Every
+applicable supplied field must survive final cleanup:
+
+subject/gender, visible age, species and ancestry morphology, body/build and
+adult chest or breast size, skin/fur/scales, face, eyes, hair and facial hair,
+then distinctive anatomy and markings.
+
+Scene composition may make a small detail invisible, but it may not silently
+change a character's colour, body proportions, or species morphology.
 
 ========================================
 SPECIFICITY OVER SYNONYMS
@@ -706,6 +768,35 @@ ITEM / MEMENTO PROMPTS
 
 When the requested subject is an object rather than a character, do not insert character tags.
 
+Every item image uses a clean catalog-style presentation. Depict one centered
+item by itself, with the entire item visible and enough white space around its
+silhouette. The background is clean white. The composition is borderless: do
+not add a decorative frame, card edge, corner ornament, botanical surround,
+compass rose, vignette, pedestal, room, landscape, scenery, props, or text
+unless the item record explicitly requires one of those things as part of the
+item itself.
+
+End every item prompt with the applicable parts of this presentation block:
+
+single item, object focus, isolated object, centered composition, full object visible, clear silhouette, clean white background, borderless composition
+
+For wearable items such as clothing, armor, cloaks, robes, footwear, and
+jewelry, show the item holding its natural worn shape on an invisible wearer.
+Use positive phrases such as:
+
+ghost mannequin display, invisible mannequin, empty garment, natural worn volume, hollow neck opening, empty sleeves, sleeves hanging naturally
+
+Choose only the phrases that fit the item. The wearer must be completely
+absent: never add a person, character count or gender tag, face, head, hair,
+skin, hands, feet, limbs, visible mannequin, hanger, or dress form. “Ghost
+mannequin” describes the display technique only; do not add a ghost, spirit,
+glow, magical aura, or supernatural effect. Do not show wearable items folded,
+laid flat, or collapsed unless the record explicitly requests that view.
+
+For non-wearable items, keep the object unsupported in the simplest stable
+display orientation. Do not apply ghost-mannequin or garment-shaping language
+to weapons, tools, books, relics, or other ordinary objects.
+
 Prioritize:
 
 object type
@@ -725,13 +816,20 @@ Useful composition terms include:
 object focus
 isolated object
 centered composition
+full object visible
 clear silhouette
+clean white background
+borderless composition
 
 when appropriate.
 
-Example:
+Non-wearable example:
 
-ornate elven hunting knife, narrow leaf-shaped steel blade, carved ashwood handle, silver wire wrapping, worn leather sheath, small chip near blade tip, engraved vine motif, object focus, three-quarter view
+ornate elven hunting knife, narrow leaf-shaped steel blade, carved ashwood handle, silver wire wrapping, worn leather sheath, small chip near blade tip, engraved vine motif, three-quarter view, single item, object focus, isolated object, centered composition, full object visible, clear silhouette, clean white background, borderless composition
+
+Wearable example:
+
+long hooded forest cloak, moss-green wool, deep hood, bronze throat clasp, broad draping folds, weathered lower hem, ghost mannequin display, invisible mannequin, empty garment, natural worn volume, hollow hood opening, empty sleeves, sleeves hanging naturally, single item, clothing focus, isolated object, centered composition, full object visible, clear silhouette, clean white background, borderless composition
 
 ========================================
 LOCATION PROMPTS

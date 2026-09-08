@@ -9,7 +9,7 @@ gm_notes: Yukina is a yuki-onna — a snow woman — who fell in love with a hum
   meaning to — the cold inside her is not something she fully controls. She's been considering asking
   the shrine for help, but revealing herself would mean exile — or worse.
 aliases: []
-race: Elf
+race: Yuki-onna (Yokai)
 gender: Female
 age: 25
 heritage: Tsukuyomi

@@ -2,6 +2,9 @@
 id: item:old-road-fragment
 name: Old Road Fragment
 item_type: relic
+rarity: null
+is_equippable: false
+slot: null
 appearance: A piece of what was once a path -- a span of paving, a stone threshold, a pair of way-markers
   -- that clearly does not belong where it is found. The stone is a pale grey found nowhere nearby, and
   it is warm. Standing on it, the air smells faintly of a place that is not the place around you.
@@ -19,7 +22,7 @@ item_tags:
 - relic
 - old-roads
 visual:
-  prompt: ''
+  prompt: broken fragment of an ancient paved road, pale grey stone unlike the surrounding earth, cracked stone threshold, pair of weathered way-markers, faint heat shimmer above the warm paving, object focus, wide three-quarter view, clear boundary between road fragment and natural ground
 image:
   url: ''
   focalPoint:

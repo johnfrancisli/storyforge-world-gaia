@@ -1,0 +1,22 @@
+---
+id: item:womens-hadajuban
+name: Women's Hadajuban
+item_type: clothing
+rarity: common
+is_equippable: true
+slot: chest
+appearance: A light cotton wrap undershirt reaching the upper hip, with a crossed collar, compact sleeves, and small ties at the breast.
+description: A common women's skin layer beneath kosode in [[location:tsukuyomi|Tsukuyomi]]. It is deliberately plain, washable, and easy to replace.
+item_tags:
+- clothing
+- tsukuyomi
+- underwear
+- female
+- top
+visual:
+  prompt: traditional Japanese kimono under-robe shirt, women's upper-hip-length T-shaped cotton wrap undershirt, overlapping front, V-shaped crossed collar, short rectangular sleeves, small inner chest ties, plain washable hadajuban, unworn garment displayed open, clothing focus, front view
+image:
+  url: ''
+  focalPoint: {x: 0.5, y: 0.1}
+  seed: null
+---

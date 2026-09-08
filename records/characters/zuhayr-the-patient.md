@@ -9,7 +9,7 @@ gm_notes: 'Zuhayr is not malicious. He is a djinn of fire and law, and the contr
   before the deadline, Zuhayr must collect. He is, genuinely, on Malik''s side, which makes him the most
   dangerous kind of creditor: one who wants to help but cannot.'
 aliases: []
-race: Human
+race: Djinn
 gender: Male
 age: 45
 heritage: Al-Khayzari
@@ -54,11 +54,10 @@ key_phrases:
 - The work comes first. Everything else can wait.
 visual:
   body_build: tall, composed, average chest
-  skin: dark obsidian with cracks of blue fire (in true form); warm brown (in human form)
-  hair: black, or flame, depending on form
-  eyes: blue fire, always
-  distinctive_features: skin that sometimes shows cracks of blue fire, a faint smell of ozone and hot
-    sand, heat shimmer around the hands
+  skin: dark obsidian skin cracked with blue fire in true form, warm brown skin in human form
+  hair: black hair in human form, blue flame hair in true form
+  eyes: blue flame eyes in every form
+  distinctive_features: blue-fire cracks across the skin in true form, heat shimmer around the hands
   prompt: ''
 image:
   url: ''

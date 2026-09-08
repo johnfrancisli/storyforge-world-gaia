@@ -1,7 +1,10 @@
 ---
 id: item:drakeward-shield
 name: Drakeward Shield
-item_type: weapon
+item_type: armor
+rarity: null
+is_equippable: true
+slot: off_hand
 appearance: A tower shield of layered oak and iron, bound in dragon-scale hide that has darkened to the
   color of old blood. The iron boss is cast in the shape of a sleeping dragon curled around the grip.
   The hide still holds warmth even in winter, and faint scale-shadows move across it in firelight.
@@ -15,10 +18,10 @@ description: 'The shield of a dragon-bonded knight of Valdris, fashioned by a dw
 item_tags:
 - magic
 - valdris
-- weapon
+- armor
 - dragon-bond
 visual:
-  prompt: ''
+  prompt: tall tower shield, layered oak construction, heavy iron binding, dark old-blood-red dragon-scale hide facing, iron shield boss shaped as a sleeping curled dragon, faint scale-shaped shadows across the hide, object focus, isolated armor, upright full view, three-quarter view, clear silhouette
 image:
   url: ''
   focalPoint:

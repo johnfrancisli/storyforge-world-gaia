@@ -11,7 +11,7 @@ gm_notes: Sho discovered Saya's (character:morikawa-saya) secret spring beneath 
   drawing attention to the town and the weakening shrine.
 aliases:
 - Sho
-race: Kitsune (Yokai)
+race: Human
 gender: Male
 age: 19
 heritage: Tsukuyomi

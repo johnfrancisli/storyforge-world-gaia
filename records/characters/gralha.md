@@ -11,7 +11,7 @@ gm_notes: 'A bird beast-kin scout who surveys the rainforest from above and repo
   — which could cause panic and a hasty, disorganized response — and gathering more intelligence on his
   own, which risks being discovered by whoever is building it.'
 aliases: []
-race: Beast-kin (Serpent)
+race: Beast-kin (Bird)
 gender: Male
 age: 26
 heritage: Verdanian

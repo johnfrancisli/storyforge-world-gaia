@@ -10,7 +10,7 @@ gm_notes: Rui runs a gambling den in the capital that is a front for an informat
   — Takeda's agents are hunting him.
 aliases:
 - Rui
-race: Nekomata
+race: Human
 gender: Female
 age: 25
 heritage: Tsukuyomi

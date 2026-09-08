@@ -64,10 +64,11 @@ visual:
   - green-stained fingertips from plant work
   - a faint watering-can-shaped burn scar on the left wrist from steam
   face: gentle, symmetrical features, natural earthy beauty
-  prompt: 1girl, solo, adult woman, human, fit build, soft green eyes, green-stained fingertips, gentle
-    symmetrical features, wearing loose earth-stained gardener's robes, kneeling among plants, holding
-    small gardening tool, garden background, ferns and lilies visible, morning light filtering through
-    dust, dirt under fingernails
+  prompt: 1girl, solo, female focus, Human, adult woman, fit, strong from garden work, small breasts,
+    gentle face, symmetrical features, natural face, light brown skin, soft green eyes, dark brown hair,
+    long hair, leaf in hair, a fit build, gentle symmetrical features, long dark brown hair, leaves caught
+    in hair, dirt-stained gardener's loose robes, leather belt, barefoot, holding pruning shears, soft
+    shadows, garden background
 image:
   variations:
   - name: neutral

@@ -7,7 +7,7 @@ gm_notes: Takeda is quietly assembling a coalition of rural clans who feel the s
   in contact with a wild kitsune named Tamamo who is willing to cause trouble for the right price.
 aliases:
 - Daimyo Takeda Renji
-race: Kitsune (Yokai)
+race: Human
 gender: Male
 age: 25
 heritage: Tsukuyomi

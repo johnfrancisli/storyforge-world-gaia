@@ -1,7 +1,10 @@
 ---
 id: item:longship-prow
 name: Runic Longship Prow
-item_type: artifact
+item_type: relic
+rarity: null
+is_equippable: false
+slot: null
 appearance: 'The carved prow of a longship -- a dragon''s head and curling neck in dark oak, the span
   of a man''s outstretched arms, the wood blackened with tar and age. Runes are cut along the neck in
   a deep, sure hand: wind, wave, ward, and the name of the ship, which is also the name of the dragon
@@ -16,10 +19,11 @@ description: The figurehead of a Hrafnland longship, carved by a master rune-car
 item_tags:
 - magic
 - hrafnland
+- relic
 - artifact
 - runic
 visual:
-  prompt: ''
+  prompt: large carved longship prow, dragon head and curling neck carved from dark oak, span of outstretched arms, tar-blackened weathered wood, deep sure-handed runes carved along the neck, wind wave and ward motifs, object focus, isolated ship figurehead, full view, three-quarter angle, clear silhouette
 image:
   url: ''
   focalPoint:

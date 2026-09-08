@@ -2,6 +2,9 @@
 id: item:star-compass
 name: Wayfinder's Star Compass
 item_type: tool
+rarity: null
+is_equippable: true
+slot: main_hand
 appearance: A disc of polished pearl-shell the width of an outstretched hand, set with thirty-two points
   marked in tiny drilled holes filled with black pigment and a central pivot of bone. Etched lines radiate
   from the center in the patterns of the great star-paths. The shell catches light and seems to hold a
@@ -18,9 +21,10 @@ item_tags:
 - magic
 - tide-archipelago
 - tool
+- equipment
 - navigation
 visual:
-  prompt: ''
+  prompt: outstretched-hand-wide disc of polished pearl shell, thirty-two tiny drilled points filled with black pigment, central bone pivot, etched lines radiating in great star-path patterns, iridescent shell holding a reflected night sky, object focus, isolated navigation instrument, close-up, three-quarter view
 image:
   url: ''
   focalPoint:

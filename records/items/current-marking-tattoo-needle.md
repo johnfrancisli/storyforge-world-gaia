@@ -2,6 +2,9 @@
 id: item:current-needle
 name: Current-Marking Tattoo Needle
 item_type: tool
+rarity: null
+is_equippable: true
+slot: main_hand
 appearance: A tattooing comb of bone with a row of fine needle-teeth set with black ink-pigment ground
   from volcanic ash and shark-oil. The handle is lashed with sennit cord and hung with a single small
   spiral shell that hums faintly when held near open water. The teeth are dark with old ink that never
@@ -18,9 +21,10 @@ item_tags:
 - magic
 - tide-archipelago
 - tool
+- equipment
 - wayfinding
 visual:
-  prompt: ''
+  prompt: bone tattooing comb, row of fine needle teeth, black volcanic-ash ink staining the teeth, sennit-wrapped handle, small spiral shell hanging from handle, dark old ink residue, object focus, isolated tool, close-up, three-quarter view, clear silhouette
 image:
   url: ''
   focalPoint:

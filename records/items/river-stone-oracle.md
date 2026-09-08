@@ -1,7 +1,10 @@
 ---
 id: item:river-stone-oracle
 name: River-Stone Oracle
-item_type: artifact
+item_type: tool
+rarity: null
+is_equippable: true
+slot: main_hand
 appearance: A smooth river-stone, flat and palm-sized, dark green with a single pale vein running through
   it like a dried watercourse. When placed in still water the vein darkens and shifts, and faint lines
   appear on the stone's surface that were not visible dry. The stone is cool and slightly damp to the
@@ -16,10 +19,12 @@ description: A divination stone used by the senior shamans of the Verdania river
 item_tags:
 - magic
 - verdania
+- tool
 - artifact
+- equipment
 - divination
 visual:
-  prompt: ''
+  prompt: palm-sized flat river stone resting in a shallow bowl of still water, smooth dark green stone, single pale vein like a dried watercourse, vein darkening and shifting beneath water, faint branching divination lines appearing across wet surface, subtle ripples, object focus, close-up, top-down three-quarter view
 image:
   url: ''
   focalPoint:

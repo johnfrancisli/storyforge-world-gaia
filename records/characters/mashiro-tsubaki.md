@@ -8,7 +8,7 @@ gm_notes: 'Tsubaki discovered a kiln in the hills above Haru''s Shrine Town that
   (character:ishikawa-goro) has been buying her entire stock and asking to see her kiln.'
 aliases:
 - Tsubaki
-race: Tengu (Yokai)
+race: Human
 gender: Female
 age: 25
 heritage: Tsukuyomi

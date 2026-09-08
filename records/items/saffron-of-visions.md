@@ -1,7 +1,10 @@
 ---
 id: item:vision-spice
 name: Saffron of Visions
-item_type: trade_good
+item_type: consumable
+rarity: null
+is_equippable: false
+slot: null
 appearance: A small quantity of deep crimson stigma-threads, finer than hair, packed in a stoppered glass
   vial wrapped in oiled cloth. The threads give off a warm, heavy fragrance that lingers in a room for
   hours after the vial is opened. Even a pinch stains the fingers orange-gold and does not wash off for
@@ -17,10 +20,12 @@ description: A spice grown only in one irrigated valley near the Mirror Oasis of
 item_tags:
 - magic
 - al-khayzar
+- consumable
 - trade_good
+- resource
 - divination
 visual:
-  prompt: ''
+  prompt: stoppered clear glass vial filled with deep crimson saffron stigma threads, threads finer than hair, vial partly wrapped in oiled cloth, a few loose saffron threads beside it, orange-gold spice stain on the cloth, object focus, isolated consumable, close-up, three-quarter view, clear silhouette
 image:
   url: ''
   focalPoint:

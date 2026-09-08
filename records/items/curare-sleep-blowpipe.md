@@ -2,6 +2,9 @@
 id: item:sleep-blowpipe
 name: Curare Sleep Blowpipe
 item_type: weapon
+rarity: null
+is_equippable: true
+slot: two_hand
 appearance: A blowpipe of smooth dark hardwood, longer than an arm and bored perfectly straight, wrapped
   at the grip with cured vine and hung with two or three small clay darts fletched with kapok fiber. The
   darts' tips are blackened with a paste that has a faintly bitter smell. A carrying quiver of woven reeds
@@ -19,7 +22,7 @@ item_tags:
 - weapon
 - poison
 visual:
-  prompt: ''
+  prompt: smooth dark hardwood blowpipe, longer than an arm, straight narrow bore, cured vine-wrapped grip, two small clay darts hanging from grip, kapok-fiber dart fletching, blackened curare paste on dart tips, woven reed dart quiver, dozen clay darts, object focus, isolated weapon, full-length view, three-quarter view, clear silhouette
 image:
   url: ''
   focalPoint:

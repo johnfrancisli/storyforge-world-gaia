@@ -2,6 +2,9 @@
 id: item:frost-giant-horn
 name: Frost-Giant's Horn
 item_type: relic
+rarity: null
+is_equippable: true
+slot: main_hand
 appearance: A drinking horn the length of a forearm, carved from the tusk of some great northern beast
   and bound at rim and tip with cold-forged iron. Frost clings to its surface even in a warm hall, and
   mead poured into it crisps with a skin of ice that does not melt. The iron at the tip is worked with
@@ -18,9 +21,10 @@ item_tags:
 - magic
 - hrafnland
 - relic
+- equipment
 - giant-craft
 visual:
-  prompt: ''
+  prompt: forearm-length drinking horn carved from a great northern beast tusk, cold-forged iron rim and tip, crude giant rune worked into iron tip, persistent frost crusting the horn, mead inside capped with a thin skin of ice, object focus, isolated relic, three-quarter view, clear silhouette
 image:
   url: ''
   focalPoint:

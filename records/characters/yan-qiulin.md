@@ -8,7 +8,7 @@ gm_notes: The wife of a Chu general who has been missing on the northern front f
   to Wei voluntarily, abandoning his family for a Wei court lady. She is deciding whether to reveal this
   and destroy his honor or use the knowledge to build her own power base.
 aliases: []
-race: Beast-kin
+race: Human
 gender: Female
 age: 38
 heritage: Sangguo (Jin)

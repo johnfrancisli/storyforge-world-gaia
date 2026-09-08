@@ -10,7 +10,7 @@ gm_notes: Chiyo can see and speak with spirits that adults cannot — a gift tha
   has been warning about.
 aliases:
 - Chiyo
-race: Kitsune (Yokai)
+race: Human
 gender: Female
 age: 10
 heritage: Tsukuyomi

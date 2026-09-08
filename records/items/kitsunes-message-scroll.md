@@ -2,6 +2,9 @@
 id: item:kitsune-scroll
 name: Kitsune's Message Scroll
 item_type: tool
+rarity: null
+is_equippable: true
+slot: main_hand
 appearance: A narrow scroll of rice paper, narrower than a finger, wound around a spool of pale fox-bone.
   The writing on it is not ink but fine red fox-fur pressed into the fiber of the paper. When carried,
   the scroll is warm to the touch, like a small living thing held against the chest.
@@ -15,9 +18,10 @@ item_tags:
 - magic
 - tsukuyomi
 - tool
+- equipment
 - communication
 visual:
-  prompt: ''
+  prompt: finger-narrow pale rice-paper message scroll, wound around a pale fox-bone spool, fine red fox fur pressed into the paper as flowing written characters, lightly curled paper edges, object focus, isolated scroll, partially unrolled, close-up, three-quarter view
 image:
   url: ''
   focalPoint:

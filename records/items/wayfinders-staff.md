@@ -2,6 +2,9 @@
 id: item:wayfinder-staff
 name: Wayfinder's Staff
 item_type: tool
+rarity: null
+is_equippable: true
+slot: main_hand
 appearance: A carved wooden staff, about shoulder-height, marked with notches and painted symbols that
   represent star paths, current patterns, and island positions. The wood is dark from salt and handling.
   Some staves have shells or bone inlays.
@@ -11,8 +14,10 @@ description: The primary tool of a wayfinder in the Tide Archipelago. The staff 
 item_tags:
 - magic
 - tide-archipelago
+- tool
+- equipment
 visual:
-  prompt: ''
+  prompt: shoulder-height carved wooden wayfinding staff, salt-darkened wood, dense route notches, painted star-path symbols, painted ocean-current patterns, painted island-position marks, small shell and bone inlays, object focus, isolated navigation tool, upright full-length view, clear silhouette
 image:
   url: ''
   focalPoint:
