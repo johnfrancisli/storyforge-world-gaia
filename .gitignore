@@ -1,2 +1,4 @@
 campaigns/
 .env
+__pycache__/
+*.pyc

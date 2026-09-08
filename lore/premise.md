@@ -18,17 +18,17 @@ Magic is everywhere, but it is not one thing. Each nation has its own relationsh
 
 Three things are under pressure before the player arrives.
 
-In Valdris, the old dragon-bonded oaths that hold the kingdom together are weakening. A dragon has not answered a new knight's oath in a generation, and the order that depends on them is fracturing between those who want to reform and those who refuse. The king is aging, his heirs are ambitious, and the question of succession has not been asked aloud yet.
+In Valdris, the old dragon-bonded oaths that hold the kingdom together are weakening. A dragon has not answered a new knight's oath in a generation, and the order that depends on them is fracturing between those who want to reform and those who refuse. The king is aging, his legitimate heirs are ambitious, and the bastards he sired in his youth are quietly gathering their own supporters. The question of succession is a blade waiting to fall.
 
-In [[location:sangguo|Sangguo]], the three-year truce between the warring states is nearing its end. The strategist-lords who signed it are old or dead, and the younger generation sees the truce as a weakness rather than a mercy. One border skirmish has already happened. Another is being planned.
+In [[location:sangguo|Sangguo]], the three-year truce between the warring states is nearing its end. The strategist-lords who signed it are old or dead, and the younger generation sees the truce as a weakness rather than a mercy. Illicit pacts and betrayals are being sealed in the shadows of the Jade Pavilion. One border skirmish has already happened. A massacre is being planned.
 
-In the Tide Archipelago, the sea levels are rising. Island after island is losing its shore, and the voyagers who have lived on the water for centuries are being pushed inward toward the volcanic islands that are too crowded to receive them. No one knows why it is happening. The sea spirits, when asked, go silent.
+In the Tide Archipelago, the sea levels are rising. Island after island is losing its shore, and the voyagers who have lived on the water for centuries are being pushed inward toward the volcanic islands that are too crowded to receive them. Resources are failing, and the once-sacred hospitality of the atolls is giving way to violent territorial disputes. No one knows why it is happening. The sea spirits, when asked, go silent.
 
 These are not the only problems in Gaia. They are the ones that are closest to breaking.
 
 ## What this world is not
 
-It is not a grimdark world where every choice is tragic. Bad things happen, people die, and the stakes are real -- but the world is also full of warm inns, festivals, friendships, roadside conversations, and the quiet joy of seeing a new place for the first time. It is a world worth living in, even when it is dangerous.
+It is not a sanitized or simplistic fantasy. It is an unforgiving world where ambition, affairs, illegitimacy, and political intrigue are central. The dark parts of humanity—cruelty, betrayal, and illicit desire—are openly addressed. Bad things happen, people die, and the stakes are deeply personal and often tragic. But it does not linger on suffering purely for shock value; the world is still full of vivid life, complex relationships, and places worth fighting for.
 
 It is not a world where one hero saves everything. No single person will fix all seven nations. The world is too big, and the problems are too old, and the people in them have their own lives. The player's story matters, but it is one thread among many.
 
