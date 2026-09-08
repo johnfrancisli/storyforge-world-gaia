@@ -1,81 +1,56 @@
 # Gender in Gaia
 
-> **DRAFT — written to be argued with, not agreed with.**
->
-> Almost nothing about gender was established anywhere in Gaia's lore, so most
-> of what follows is invented to give you something to react to. Every claim
-> here is a guess unless you keep it. Rewrite freely; the only part worth
-> preserving is the shape — that `gender:` on a character record has to resolve
-> to something this file names.
+## The two genders
 
-## What the field means
-
-Every character record carries a `gender:` field. It is not a biological claim
-and it is not a pronoun — it is **the social role a person occupies in their own
-culture**, which is what the narrator needs in order to write a room correctly.
-
-A character may hold different standing in a different nation. Gaia has no
-single gender order, and a world with seven cultures this distinct should not
-pretend otherwise.
-
-## The common terms
-
-Most of Gaia, most of the time, recognises:
+Gaia recognises **two genders**: woman and man.
 
 - **Woman** — `gender: woman`
 - **Man** — `gender: man`
 
-These carry different weight in different places. A woman in [[location:hrafnland|Hrafnland]] who owns
-a ship commands it; a woman in Valdris who owns land often holds it through a
-male relative's name. Neither is the default and neither is the exception.
+Every character record carries one of these. There are no additional values,
+no third standings, and no cultural exceptions. The narrator and the text
+generator need a simple, reliable answer, and two genders provide that.
 
-## Where the world does not stop there
+## What the field means
 
-**Tsukuyomi** recognises a third standing that has no clean translation. Those
-who serve a shrine may set aside their prior standing entirely, and are
-addressed by their office rather than by gender. The spirit-touched are
-frequently among them. Record as `gender: shrine-bound`.
+The `gender:` field on a character record is the character's gender — full
+stop. It is not a pronoun preference, not a social role separate from gender,
+and not something that changes by nation. A woman is a woman in every nation
+she walks into, and the same for a man.
 
-**[[location:tide-archipelago|The Tide Archipelago]]** treats gender as something a person may be recognised
-into rather than born with. A navigator's standing follows the voyage, not the
-body. Record as `gender: navigator-kind` when it applies — most Archipelago
-characters simply use woman or man.
+## Attraction, partnership, and orientation
 
-**[[location:verdania|Verdania]]**'s canopy cities have no fixed term at all. The jungle-facing
-communities describe people by what they tend, not by what they are, and a
-character raised there may hold no gender in the sense other nations mean.
-Record as `gender: untold`.
+**Who a person is attracted to is separate from their gender.** A woman may
+be attracted to women, to men, or to both. The same is true for men. Gaia
+does not label or categorise orientation on character records — it is part of
+a character's personality and story, not a structural field.
 
-**[[location:al-khayzar|Al-Khayzar]]** distinguishes those under a djinn contract, whose standing is
-suspended for its duration. This is a legal condition rather than a gender, but
-it displaces one, and characters bound this way are addressed neither as women
-nor as men. Record as `gender: contract-held`.
+Homosexual, bisexual, and other pairings are unremarkable across Gaia. No
+nation forbids them, no religion condemns them, and no culture treats them
+as exceptional enough to require a special term. Two women who love each other
+in [[location:hrafnland|Hrafnland]] are simply a couple, the same as two
+women who love each other in [[location:tsukuyomi|Tsukuyomi]] or
+[[location:zaffar|Zaffar]].
 
-## Races that complicate it
+What varies from nation to nation is the **custom** around partnership — how
+a union is formalised, whether it involves families or just individuals,
+what obligations it carries. The gender of the partners does not change
+those customs; the customs apply to any couple.
 
-**Dragon-kin (Ryujin)** are said to change over a long life, and the older ones
-are addressed by lineage rather than gender. **Demon-folk (Mazoku)** are
-described by outsiders in terms that do not survive contact with how Mazoku
-describe themselves — which is a thing the world should be able to be wrong
-about, in the mouths of characters who are wrong about it.
+## Cross-race attraction
 
-Elves, dwarves, cat-folk, beast-kin and river-folk broadly follow the customs of
-wherever they live, rather than carrying their own.
+Attraction between races is common and unremarkable. A human and an elf, a
+cat-folk and a beast-kin, a dwarf and a river-folk — none of these pairings
+raises eyebrows in any city large enough to have met a foreigner. The
+[[lore:old-roads|Old Roads]] moved people as freely as goods for
+centuries, and the mixing that resulted is part of Gaia's population.
 
-## The values a record may use
-
-Until this file says otherwise:
-
-```
-woman · man · shrine-bound · navigator-kind · untold · contract-held
-```
-
-A character whose gender has not been decided leaves the field empty. **Empty is
-information** — it says nobody has decided yet, which is true of most of Gaia's
-cast right now and better than a guess somebody has to undo.
+See `lore/races.md` for the full account of how races relate and
+reproduce.
 
 ## What this is not
 
-This file does not describe attraction, partnership, or family structure. Those
-belong in the nations' own lore, where they can differ properly, rather than
-being flattened into one page about gender.
+This file does not describe biological sex in detail, family structure, or
+inheritance law. Those belong in the nations' own lore, where they can differ
+properly. What this file fixes is the **gender system**: two values, applied
+everywhere, with no exceptions and no expansions.
