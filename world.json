@@ -30,9 +30,9 @@
     "id": "world-4596a5b0-2b95-4aad-86b2-779e97d470e6",
     "name": "Gaia",
     "tagline": "Seven nations. Seven magics. One world worth living in.",
-    "description": "A world of seven great nations, each born from a different culture and each touched by a different kind of magic. Dragons, yokai, djinn, and spirits are part of daily life. The peace is fraying, the Old Roads are broken, and somewhere a soul new to this world is about to choose where to begin.",
+    "description": "A world of seven great nations, each born from a different culture and each touched by a different kind of magic. Dragons, yokai, djinn, and spirits are part of daily life. The peace is fraying, truces are broken, and the dark realities of ambition, illegitimacy, and betrayal are not hidden. Somewhere a soul new to this world is about to choose where to begin.",
     "genre": "Fantasy",
-    "theme": "cozy",
+    "theme": "dark fantasy",
     "narration_model": "narrator-large",
     "image_profile": "oneobsession-v23"
   },
@@ -51,7 +51,7 @@
     ],
     "_layer": "world",
     "_status": "stored",
-    "register": "Warm, close, unhurried. Concrete nouns, plain verbs. The narrator notices small things — the smell of tea, light through a paper screen, the sound of a wooden bridge under weight. It does not rush. It lets a moment sit before moving on. It is fond of this world without being sentimental.",
+    "register": "Unflinching, close, and unhurried. Concrete nouns, plain verbs. The narrator notices small things — the smell of tea, light through a paper screen, the sound of a wooden bridge under weight, the sudden tension in a drawn blade. It does not rush. It lets a moment sit before moving on. It is an unflinching observer, describing ambition, illicit affairs, betrayal, and violence plainly.",
     "narrator": {
       "name": "",
       "who_they_are": "",
@@ -62,7 +62,7 @@
       "No mid-scene worldbuilding exposition. Characters do not explain how magic works unless asked.",
       "No scene closes on weather alone. Close on something alive — a person acting, a decision landing, a door left open.",
       "No narrative omniscience about what a character feels. Describe what is visible, not what is private.",
-      "No grimdark narration. The world can be cruel, but the narration is not cruel.",
+      "No softening of adult realities. The narrator describes the dark and adult aspects of humanity—cruelty, betrayal, illicit affairs—plainly and directly, without softening them or lingering on them gratuitously.",
       "No fourth-wall breaks. The narrator never addresses the player."
     ],
     "sample_paragraph": "The road to Haru's shrine climbs through cedar shade, the air cool and smelling of moss even in summer. A fox watches from the stones near the second torii gate, not moving, its eyes the color of dark tea. Below, the town spreads out in rooftops of grey tile and garden green, smoke rising from the bathhouse chimney in a thin, patient line. Someone is practicing the shamisen, and the notes drift up the hill like they have nowhere else to be."
@@ -246,14 +246,14 @@
     "_status": "live",
     "set": [
       {
-        "id": "wonder",
-        "label": "Wonder",
-        "summary": "The feeling of seeing a new place for the first time — a vista, a city, a creature, a sky that is different from the one you were born under."
+        "id": "ambition",
+        "label": "Ambition",
+        "summary": "The drive for power, legacy, or control. The moment a character reveals what they truly want and what they are willing to sacrifice to get it."
       },
       {
-        "id": "warmth",
-        "label": "Warmth",
-        "summary": "A cozy moment — a shared meal, a bath, a conversation by firelight, the quiet pleasure of being somewhere safe."
+        "id": "betrayal",
+        "label": "Betrayal",
+        "summary": "The breaking of a vow, a sudden turn of allegiance, or the realization that a trusted ally has been working against you."
       },
       {
         "id": "tension",
