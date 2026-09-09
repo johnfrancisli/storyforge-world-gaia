@@ -23,5 +23,5 @@ image:
   seed: null
 ---
 
-A memento of Sorrow from [[location:the-heavenly-realm|the Heavenly Realm]], anchoring the memories of arrivals and departures.
+A memento of Sorrow from [[location:heavenly-realm|the Heavenly Realm]], anchoring the memories of arrivals and departures.
 

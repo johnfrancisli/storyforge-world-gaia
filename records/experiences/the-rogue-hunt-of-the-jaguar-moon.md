@@ -17,8 +17,8 @@ related_characters:
 - character:amara
 - character:kaa
 related_locations:
-- location:alta-canopy
-- location:the-seven-boughs-hall
+- location:ver-altacanopy
+- location:ver-altacanopy-canopysevenhall
 related_organizations:
 - org:the-clans-of-the-deep-canopy
 - org:the-council-of-the-seven-boughs
@@ -40,9 +40,9 @@ image:
 
 ### Chronicle
 
-On the brightest night of Harvest month, the clans of [[location:alta-canopy|the Alta Canopy]] gathered to run the Moon Hunt — a ritual pursuit honoring the ancient pact between the jaguar spirits and the forest tribes. The rule is inviolable: exactly one marked stag is taken to feed the elder fires, and no other beast may fall to arrow or spear before morning.
+On the brightest night of Harvest month, the clans of [[location:ver-altacanopy|the Alta Canopy]] gathered to run the Moon Hunt — a ritual pursuit honoring the ancient pact between the jaguar spirits and the forest tribes. The rule is inviolable: exactly one marked stag is taken to feed the elder fires, and no other beast may fall to arrow or spear before morning.
 
-Near third hour after midnight, [[character:amara|Amara]] slipped through the high branches on soft footpads, following the sound of breaking twigs beneath the suspension bridges. On a mossy platform forty feet below [[location:the-seven-boughs-hall|the Seven Boughs Hall]], she found not one kill, but two: a silver-horned stag lying dead in the ferns with an iron-tipped arrow through its neck.
+Near third hour after midnight, [[character:amara|Amara]] slipped through the high branches on soft footpads, following the sound of breaking twigs beneath the suspension bridges. On a mossy platform forty feet below [[location:ver-altacanopy-canopysevenhall|the Seven Boughs Hall]], she found not one kill, but two: a silver-horned stag lying dead in the ferns with an iron-tipped arrow through its neck.
 
 Beside the body knelt [[character:kaa|Kaa]], his stone knife stained red, eyes reflecting the firelight with the terrible realization that the forest spirits had already witnessed the breach.
 

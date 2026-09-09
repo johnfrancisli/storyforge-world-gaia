@@ -17,10 +17,10 @@ related_characters:
 - character:hina
 - character:kaimana-deepscale
 related_locations:
-- location:vanua-tafola
+- location:tide-vanua-tafola
 - location:the-pearl-market
 related_organizations:
-- org:the-pearl-blood-divers
+- org:tide-pearl-guild
 - org:displaced-islanders-council
 related_threads:
 - thread:the-fraying-truce
@@ -40,9 +40,9 @@ image:
 
 ### Chronicle
 
-On the opening morning of the Great Pearl Dive in Greenreach, two hundred canoes gathered over the deep reef trench outside [[location:vanua-tafola|Vanua Tafola]]. The agreement forged by the Council of Atolls granted refugee divers from sunken islets equal access to the outer reef slope for one full day.
+On the opening morning of the Great Pearl Dive in Greenreach, two hundred canoes gathered over the deep reef trench outside [[location:tide-vanua-tafola|Vanua Tafola]]. The agreement forged by the Council of Atolls granted refugee divers from sunken islets equal access to the outer reef slope for one full day.
 
-Near noon, [[character:hina|Hina]], a young diver whose home atoll had drowned two winters before, broke the surface holding a fist-sized black pearl glowing with iridescent peacock violet. Before her canoe boy could haul the basket aboard, a patrol boat from [[org:the-pearl-blood-divers|the Pearl-Blood Divers]] rammed her outrigger, and an apprentice severed her safety line with an obsidian knife.
+Near noon, [[character:hina|Hina]], a young diver whose home atoll had drowned two winters before, broke the surface holding a fist-sized black pearl glowing with iridescent peacock violet. Before her canoe boy could haul the basket aboard, a patrol boat from [[org:tide-pearl-guild|the Pearl-Blood Divers]] rammed her outrigger, and an apprentice severed her safety line with an obsidian knife.
 
 [[character:kaimana-deepscale|Kaimana Deepscale]] dived between the colliding boats before blood was spilled, holding both factions apart at spear-point while sixty canoes converged around the platform with drawn paddles.
 

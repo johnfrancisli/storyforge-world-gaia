@@ -281,8 +281,9 @@ def validate_file(filepath, valid_ids, issues):
 
 
 def main():
+    repo_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     parser = argparse.ArgumentParser(description='Validate wiki-link entity references')
-    parser.add_argument('--dir', default='.', help='Project root directory')
+    parser.add_argument('--dir', default=repo_root, help='Project root directory')
     args = parser.parse_args()
 
     project_dir = os.path.abspath(args.dir)

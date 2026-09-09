@@ -20,7 +20,7 @@ related_characters:
 - character:aurelia-dawnspear
 related_locations:
 - location:dragonrest
-- location:sunhelm-keep
+- location:val-crownhaven-keep
 related_organizations:
 - org:dragon-order
 related_threads:
@@ -41,7 +41,7 @@ image:
 
 ### Chronicle
 
-At Highsun in the five hundred and eighty-fourth year, fifty knights of [[org:dragon-order|the Dragon Order]] knelt in the high meadow below [[location:sunhelm-keep|Sunhelm Keep]] to speak the ancient binding-vows before the wyrms roosting on the ridges above. Sunlight glinted off polished steel, the Dawnfire priests raised their consecrated banners, and the solemn oaths of fire and blood were spoken in the old tongue.
+At Highsun in the five hundred and eighty-fourth year, fifty knights of [[org:dragon-order|the Dragon Order]] knelt in the high meadow below [[location:val-crownhaven-keep|Sunhelm Keep]] to speak the ancient binding-vows before the wyrms roosting on the ridges above. Sunlight glinted off polished steel, the Dawnfire priests raised their consecrated banners, and the solemn oaths of fire and blood were spoken in the old tongue.
 
 No answer came.
 

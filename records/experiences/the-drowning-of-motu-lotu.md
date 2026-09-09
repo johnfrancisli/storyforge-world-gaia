@@ -19,7 +19,7 @@ related_characters:
 - character:lani
 - character:tamatoa
 related_locations:
-- location:motu-lotu
+- location:tide-motu-lotu
 - location:the-memorial-driftwood
 related_organizations:
 - org:the-council-of-atolls
@@ -43,7 +43,7 @@ image:
 
 ### Chronicle
 
-At the equinoctial turn of Thaw, the sea off [[location:motu-lotu|Motu Lotu]] rose higher than any elder remembered. The protective coral ring broke under three consecutive giant rollers, sending foaming turquoise water through the breadfruit groves and washing the cooking fires directly into the lagoon.
+At the equinoctial turn of Thaw, the sea off [[location:tide-motu-lotu|Motu Lotu]] rose higher than any elder remembered. The protective coral ring broke under three consecutive giant rollers, sending foaming turquoise water through the breadfruit groves and washing the cooking fires directly into the lagoon.
 
 [[character:lani|Chief Lani]] stood upon the council rock until the surf reached her waist, directing the children and elders into the outriggers while [[character:tamatoa|Tamatoa]] secured the ancestral chant-scrolls in waterproof sharkskin pouches.
 

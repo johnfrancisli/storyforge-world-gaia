@@ -16,7 +16,7 @@ tags:
 related_characters:
 - character:the-guide
 related_locations:
-- location:the-heavenly-realm
+- location:heavenly-realm
 related_threads:
 - thread:the-arrival
 related_lore:

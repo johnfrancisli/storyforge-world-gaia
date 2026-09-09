@@ -17,8 +17,8 @@ related_characters:
 - character:layla-al-falaki
 - character:tariq-al-sayf
 related_locations:
-- location:khalesh-the-city-of-the-broken-road
-- location:the-archive-of-the-broken-road
+- location:alk-khalesh
+- location:alk-khalesh-brokenroads
 related_organizations:
 - org:the-circle-of-the-broken-road
 related_threads:
@@ -39,7 +39,7 @@ image:
 
 ### Chronicle
 
-On the Night of True Names in deep Snowend, the scholars of [[location:the-archive-of-the-broken-road|the Archive]] opened the star-chamber to verify the sky charts that govern the binding covenants of the city-state of [[location:khalesh-the-city-of-the-broken-road|Khalesh]]. Through the high brass telescope, the stars of the Tethered Djinn burned cold and bright.
+On the Night of True Names in deep Snowend, the scholars of [[location:alk-khalesh-brokenroads|the Archive]] opened the star-chamber to verify the sky charts that govern the binding covenants of the city-state of [[location:alk-khalesh|Khalesh]]. Through the high brass telescope, the stars of the Tethered Djinn burned cold and bright.
 
 [[character:layla-al-falaki|Layla al-Falaki]] was adjusting the sighting-ring of the grand astrolabe when her needle met resistance. The pointer indicated a transit two degrees off the ancient parchment. Examining the star-map beneath a glass magnifier, she found the scraper-marks of an eraser: a star had been scraped away and redrawn forty cubits to the west, shifting the true name of an ancestral djinn to an illegitimate heir.
 

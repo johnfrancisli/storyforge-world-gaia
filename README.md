@@ -38,39 +38,74 @@ Gaia follows Storyforge’s **prose-before-records** architecture: write freefor
 
 ```
 gaia/
-├── world.json                 # World manifest: identity, narration voice, art styling, presets
-├── lore/                      # Freeform markdown worldbuilding (no rigid schema)
+├── world.json                 # World manifest: identity, calendar, tones, settings
+├── README.md                  # World overview & guide
+├── AGENTS.md                  # Rules and instructions for AI agents
+├── records/                   # 1,100+ canonical structured records (YAML frontmatter + Markdown)
+│   ├── characters/            # 418 characters organized by nation / origin
+│   │   ├── al-khayzar/        # 58 characters
+│   │   ├── hrafnland/         # 58 characters
+│   │   ├── sangguo/           # 61 characters
+│   │   ├── tide-archipelago/  # 57 characters
+│   │   ├── tsukuyomi/         # 57 characters
+│   │   ├── valdris/           # 56 characters
+│   │   ├── verdania/          # 54 characters
+│   │   └── other/             # 17 characters (Mazoku, Sylvan, Heavenly Realm)
+│   ├── locations/             # 249 locations organized by nation / region
+│   │   ├── al-khayzar/        # 31 locations
+│   │   ├── borders/           # 19 locations (Silk Pass, Verdmarch, Moon Strait, Skerries)
+│   │   ├── hrafnland/         # 28 locations
+│   │   ├── sangguo/           # 34 locations
+│   │   ├── tide-archipelago/  # 37 locations
+│   │   ├── tsukuyomi/         # 32 locations
+│   │   ├── valdris/           # 38 locations
+│   │   ├── verdania/          # 29 locations
+│   │   └── other/             # 1 location (Heavenly Realm)
+│   ├── items/                 # 159 catalog items organized by category
+│   │   ├── clothing/          # 121 wearable garments & undergarments
+│   │   ├── weapons-and-armor/ # 3 weapons & armors
+│   │   ├── tools-and-gear/    # 11 tools & adventuring items
+│   │   ├── relics-and-mementos/ # 15 relics & mementos
+│   │   └── accessories/       # 9 accessories & documents
+│   ├── organizations/         # 62 factions & guilds organized by nation / region
+│   ├── relationships/         # 134 directed pairwise character relationship records
+│   ├── threads/               # 37 active plot threads (quests, tensions, conflicts)
+│   ├── lore/                  # 23 structured lore records (beliefs, magic, races baseline)
+│   └── experiences/           # 15 campaign events and historical memories
+├── lore/                      # Freeform markdown worldbuilding (recursively read by engine)
 │   ├── premise.md             # Core setting premise and boundaries
 │   ├── nations.md             # Detailed profiles of the seven nations
 │   ├── races.md               # Racial cultures, morphology, and visual references
 │   ├── geopolitics.md         # Faction politics and treaties
 │   ├── religion.md            # Faiths, pantheons, and spiritual pacts
-│   ├── magic.md               # Overview of the seven magical traditions
-│   ├── gender.md              # Social, cultural, and gender customs
+│   ├── heavenly-realm.md      # The higher realm
+│   ├── promises.md            # Narrative promises
 │   └── voice.md               # Narration voice & register guidance
-├── records/                   # 1,000+ canonical structured records (YAML frontmatter + Markdown body)
-│   ├── characters/            # 380+ character sheets (attributes, equipment, visual prompts)
-│   ├── locations/             # 240+ locations (settlements, regions, shrines, landmarks)
-│   ├── items/                 # 140+ catalog items with occupancy and layer metadata
-│   ├── relationships/         # 120+ directed character relationship records
-│   ├── organizations/         # 60+ guilds, clans, orders, and factions
-│   ├── threads/               # Active plot threads, tensions, and quest hooks
-│   └── lore/                  # Structured canonical lore entities
-├── nation_locations/          # Regional location JSON datasets
+├── docs/                      # World specifications & reference documents
+│   ├── WORLD-KIT.md           # Storyforge World Kit specification
+│   ├── GET-STARTED.md         # Authoring quickstart guide
+│   ├── EQUIPMENT-SYSTEM.md    # Unified equipment and layering specification
+│   ├── PROMPTING.md           # Visual prompt engineering guide
+│   └── RELATIONSHIP-PROPOSALS.md # Working relationship proposals
+├── tools/                     # Domain logic, verification & test suites
+│   ├── equipment.py           # Shared domain logic for equipment rules
+│   ├── validate_equipment.py  # Equipment validator script
+│   ├── test_equipment.py      # Equipment test suite
+│   ├── validate_wiki_links.py # Wiki-link validation script
+│   ├── test_wiki_links.py     # Wiki-link test suite
+│   ├── migrate_equipment.py   # Equipment migration utility
+│   └── check_chars.py         # Character stats auditor
 ├── rules/                     # Engine rule modules (e.g. narration rules)
-├── assets/                    # Media assets (images, maps)
-├── equipment.py               # Shared domain logic for equipment occupancy & rules
-├── validate_equipment.py      # Equipment validator script
-├── test_equipment.py          # Equipment test suite
-├── validate_wiki_links.py     # Wiki-link validation script
-└── test_wiki_links.py         # Wiki-link test suite
+├── assets/                    # Media assets (images, audio, video)
+└── archive/                   # Archived scaffolding and legacy datasets
+    └── nation_locations/      # Legacy location JSON imports (superseded by records)
 ```
 
 ---
 
 ## Core Systems & Authoring Conventions
 
-Detailed specifications for contributors and AI agents are documented in **[`AGENTS.md`](AGENTS.md)** and **[`WORLD-KIT.md`](WORLD-KIT.md)**.
+Detailed specifications for contributors and AI agents are documented in **[`AGENTS.md`](AGENTS.md)** and **[`docs/WORLD-KIT.md`](docs/WORLD-KIT.md)**.
 
 ### 1. Wiki-Link Entity References
 Refer to existing canonical records in Markdown prose using:
@@ -82,12 +117,12 @@ Refer to existing canonical records in Markdown prose using:
 * Never invent IDs for uncreated entities; use plain text for incidental mentions.
 * Structured YAML ID fields (e.g., `affiliations`, `participants`, `locations`) must use raw IDs only, never wiki-links.
 
-### 2. Unified Equipment System ([`EQUIPMENT-SYSTEM.md`](EQUIPMENT-SYSTEM.md))
+### 2. Unified Equipment System ([`docs/EQUIPMENT-SYSTEM.md`](docs/EQUIPMENT-SYSTEM.md))
 Character equipment follows a layered schema:
 * **Wearables:** Organized into `underwear`, `clothing`, and `armor` with body region coverage.
 * **Held Items:** Hand occupancy (`left`, `right`) with two-handed items occupying both slots and deduplicated modifiers.
 * **Accessories & Ammunition:** Dedicated slots (`accessories: []`, `ammo: null`).
-* **Domain & Validation:** Handled by `equipment.py` and validated across all items and characters by `validate_equipment.py`.
+* **Domain & Validation:** Handled by `tools/equipment.py` and validated across all items and characters by `tools/validate_equipment.py`.
 
 ### 3. Visual Prompt Generation (One Obsession / ComfyUI)
 Image prompts in `visual.prompt` follow Danbooru-first tag conventions:
@@ -103,16 +138,16 @@ Image prompts in `visual.prompt` follow Danbooru-first tag conventions:
 
 ## Tooling & Validation
 
-To verify the integrity of the world's data, run the local test suites:
+To verify the integrity of the world's data, run the local test suites from the repository root:
 
 ```bash
 # Validate equipment occupancy, layer conflicts, and character loadouts
-python validate_equipment.py --dir .
-python test_equipment.py
+python tools/validate_equipment.py
+python tools/test_equipment.py
 
 # Validate wiki-link references and syntax
-python validate_wiki_links.py
-python test_wiki_links.py
+python tools/validate_wiki_links.py
+python tools/test_wiki_links.py
 ```
 
 ---

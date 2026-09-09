@@ -18,7 +18,7 @@ related_characters:
 - character:tari
 - character:nara
 related_locations:
-- location:temple-of-the-coiled-serpent
+- location:ver-templeruins
 - location:the-breathing-springs
 related_organizations:
 - org:the-guardians-of-the-coiled-serpent
@@ -41,7 +41,7 @@ image:
 
 ### Chronicle
 
-At the turn of Deepwinter, the guardians of [[location:temple-of-the-coiled-serpent|the Coiled Serpent]] ascended the ninety-nine steps of the moss-covered pyramid to perform the ancient Waking Rite. The rite is not meant to wake the serpent god, but to ensure that the binding seal remains unbroken.
+At the turn of Deepwinter, the guardians of [[location:ver-templeruins|the Coiled Serpent]] ascended the ninety-nine steps of the moss-covered pyramid to perform the ancient Waking Rite. The rite is not meant to wake the serpent god, but to ensure that the binding seal remains unbroken.
 
 As dusk settled over the rainforest canopy, [[character:nara|Shaman Nara]] played the single drone note on the bone flute down the gate-shaft. For four generations, the return note has been a single pure harmonic. This evening, the echo rose through the stone lattice split into two notes — a clear flute tone beneath, and a slow, scraping sibilance that chilled the blood of every guardian on the platform.
 

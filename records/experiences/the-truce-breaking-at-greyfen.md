@@ -17,8 +17,8 @@ related_characters:
 - character:corinne-ashcombe
 - character:roderick-valdris
 related_locations:
-- location:crossford
-- location:the-greyfen-quays
+- location:val-crossford
+- location:val-rivenspire-docks
 related_organizations:
 - org:the-greyfen-syndicate
 related_threads:
@@ -39,7 +39,7 @@ image:
 
 ### Chronicle
 
-On a cold dusk in Amberfall, the mist off the Greyfen rose thick enough to blind the bridge towers of [[location:crossford|Crossford]]. Four low-slung flatboats slid against the pilings of [[location:the-greyfen-quays|the Greyfen Quays]], their muffled oars making barely a ripple. They carried forty iron-bound barrels of illicit dwarven blasting-powder, stamped with forged toll-receipts from the royal treasury.
+On a cold dusk in Amberfall, the mist off the Greyfen rose thick enough to blind the bridge towers of [[location:val-crossford|Crossford]]. Four low-slung flatboats slid against the pilings of [[location:val-rivenspire-docks|the Greyfen Quays]], their muffled oars making barely a ripple. They carried forty iron-bound barrels of illicit dwarven blasting-powder, stamped with forged toll-receipts from the royal treasury.
 
 [[character:corinne-ashcombe|Baroness Corinne Ashcombe]] led the night watch in person, blocking the slipway before the cargo could be transferred to syndicate wagons. But before her constables could secure the arrests, [[character:roderick-valdris|Prince Roderick]] arrived with an escort of royal riders, producing an imperial dispatch that remanded the contraband into crown custody without an inquest.
 

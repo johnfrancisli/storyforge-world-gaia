@@ -17,7 +17,7 @@ related_characters:
 - character:grimvard-the-patient
 - character:helga-rune-sight
 related_locations:
-- location:the-bone-circle-of-the-ice-volva
+- location:hra-hvalhofn-bonecircle
 - location:the-fog-mothers-hut
 related_organizations:
 - org:the-coven-of-the-fog-mother
@@ -39,7 +39,7 @@ image:
 
 ### Chronicle
 
-At the darkest turn of Deepwinter, the blizzard wind howling down the glacier fell abruptly silent around [[location:the-bone-circle-of-the-ice-volva|the Bone-Circle]]. The midwinter fire burned blue with dried birch and seal blubber, casting flickering shadows against the standing stones.
+At the darkest turn of Deepwinter, the blizzard wind howling down the glacier fell abruptly silent around [[location:hra-hvalhofn-bonecircle|the Bone-Circle]]. The midwinter fire burned blue with dried birch and seal blubber, casting flickering shadows against the standing stones.
 
 [[character:helga-rune-sight|Helga Rune-sight]] lifted the iron bowl of carved reindeer ribs, whispered the nine names of the frost-wights, and cast the bones across the frozen earth. Three ribs tumbled beyond the outer ring of salt, their scorched ends pointing directly north toward the uninhabited peaks.
 

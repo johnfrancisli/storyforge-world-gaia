@@ -19,7 +19,7 @@ related_characters:
 - character:mori-kiyoe
 - character:ashikara-haru
 related_locations:
-- location:haru-onsen-bathhouse
+- location:tsu-haru-onsen-bathhouse
 - location:haru-hilltop-shrine
 related_organizations:
 - org:the-moon-shrine-network
@@ -42,9 +42,9 @@ image:
 
 ### Chronicle
 
-On the night of the fullest moon of Mistveil, while the crowds of [[location:harus-shrine-town|Haru's shrine town]] drank spiced pear wine on rooftop verandas, the mountain wind dropped to a dead calm. At midnight precisely, as [[character:mori-kiyoe|Mori Kiyoe]] struck the shrine bell to greet the kami of the moon, the bronze tone did not ring clear. It landed with a dull, sickening thud, and a thin white fracture split from the lip upward to the dragon-head crown.
+On the night of the fullest moon of Mistveil, while the crowds of [[location:haru-shrine-town|Haru's shrine town]] drank spiced pear wine on rooftop verandas, the mountain wind dropped to a dead calm. At midnight precisely, as [[character:mori-kiyoe|Mori Kiyoe]] struck the shrine bell to greet the kami of the moon, the bronze tone did not ring clear. It landed with a dull, sickening thud, and a thin white fracture split from the lip upward to the dragon-head crown.
 
-Two hundred feet down the hillside, in the cedar bathing halls of [[location:haru-onsen-bathhouse|Haru Onsen]], [[character:akiyama-sora|Akiyama Sora]] was wiping the copper mirrors clean of evening condensation. Before her eyes, the steam gathered into the jagged shape of a broken ward-sign, repeating three times across the polished metal.
+Two hundred feet down the hillside, in the cedar bathing halls of [[location:tsu-haru-onsen-bathhouse|Haru Onsen]], [[character:akiyama-sora|Akiyama Sora]] was wiping the copper mirrors clean of evening condensation. Before her eyes, the steam gathered into the jagged shape of a broken ward-sign, repeating three times across the polished metal.
 
 When [[character:ashikara-haru|Prince Haru]] reached the hilltop an hour later, the cedar groves were already shivering with the footsteps of mountain yokai creeping closer than they had dared to come in four hundred years.
 

@@ -5,6 +5,8 @@ import argparse
 from pathlib import Path
 import sys
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+
 import yaml
 
 from equipment import validate_character_equipment, validate_item_definition
@@ -24,7 +26,7 @@ def load_frontmatter(path):
 def validate_repository(root):
     errors = []
     item_index = {}
-    for path in sorted((root / "records" / "items").glob("*.md")):
+    for path in sorted((root / "records" / "items").rglob("*.md")):
         try:
             item = load_frontmatter(path)
         except Exception as exc:
@@ -38,7 +40,7 @@ def validate_repository(root):
         errors.extend(validate_item_definition(item))
 
     character_count = 0
-    for path in sorted((root / "records" / "characters").glob("*.md")):
+    for path in sorted((root / "records" / "characters").rglob("*.md")):
         character_count += 1
         try:
             character = load_frontmatter(path)
@@ -50,8 +52,9 @@ def validate_repository(root):
 
 
 def main():
+    repo_root = Path(__file__).resolve().parent.parent
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--dir", default=".", help="Gaia repository root")
+    parser.add_argument("--dir", default=str(repo_root), help="Gaia repository root")
     args = parser.parse_args()
     root = Path(args.dir).resolve()
     errors, item_count, character_count = validate_repository(root)

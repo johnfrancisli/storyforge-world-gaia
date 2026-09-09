@@ -1,6 +1,11 @@
 #!/usr/bin/env python3
 """Focused tests for Gaia's equipment-domain rules."""
 
+from pathlib import Path
+import sys
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+
 from equipment import (
     empty_equipment,
     equip_held_item,

@@ -17,8 +17,8 @@ related_characters:
 - character:wen-li-of-the-canals
 - character:pan-yaqing
 related_locations:
-- location:sanyuan
-- location:the-imperial-granaries-of-sanyuan
+- location:san-river-junction
+- location:san-river-junction-granary
 related_organizations:
 - org:the-guild-of-the-water-keys
 related_threads:
@@ -40,9 +40,9 @@ image:
 
 ### Chronicle
 
-At the turn of Thaw, when meltwater from the northern ridges swells the Silver Serpent Canal, the heavy ironwood gates of the Fourth Lock at [[location:sanyuan|Sanyuan]] began to groan. Silt had packed five cubits deep against the hinge-timbers throughout the winter.
+At the turn of Thaw, when meltwater from the northern ridges swells the Silver Serpent Canal, the heavy ironwood gates of the Fourth Lock at [[location:san-river-junction|Sanyuan]] began to groan. Silt had packed five cubits deep against the hinge-timbers throughout the winter.
 
-At second bell of morning, the lower sluice gave way with a sound like splitting thunder. A wall of yellow water tore through the basin, smashing twenty cargo barges into kindling against the quay walls. [[character:wen-li-of-the-canals|Wen Li]] ran along the slick retaining wall with a gang of sixty haulers, dropping timber braces into the overflow spillway just as the flood reached the foundations of [[location:the-imperial-granaries-of-sanyuan|the Imperial Granaries]].
+At second bell of morning, the lower sluice gave way with a sound like splitting thunder. A wall of yellow water tore through the basin, smashing twenty cargo barges into kindling against the quay walls. [[character:wen-li-of-the-canals|Wen Li]] ran along the slick retaining wall with a gang of sixty haulers, dropping timber braces into the overflow spillway just as the flood reached the foundations of [[location:san-river-junction-granary|the Imperial Granaries]].
 
 [[character:pan-yaqing|Pan Yaqing]] watched from the magistrate's carriage as dry grain sacks were hoisted out of reach of the rising mud, knowing that half the repair money had already been diverted into court bribes months earlier.
 

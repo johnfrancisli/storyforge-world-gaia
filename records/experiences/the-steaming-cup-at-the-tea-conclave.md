@@ -19,8 +19,8 @@ related_characters:
 - character:lu-fang
 - character:jin-xiaoer
 related_locations:
-- location:chudu
-- location:the-hundred-cups-tea-house
+- location:san-chudu
+- location:san-jin-an-tea-house
 related_organizations:
 - org:state-of-jin
 - org:state-of-chu
@@ -43,7 +43,7 @@ image:
 
 ### Chronicle
 
-Every Greenreach, the tea masters of [[location:the-hundred-cups-tea-house|the Hundred Cups]] in [[location:chudu|Chudu]] host the only gathering where delegates from Jin, Chu, and Wei will occupy the same pavilion without armor. The ancient etiquette is absolute: no blade may be bared until the final kettle is lifted from the charcoal.
+Every Greenreach, the tea masters of [[location:san-jin-an-tea-house|the Hundred Cups]] in [[location:san-chudu|Chudu]] host the only gathering where delegates from Jin, Chu, and Wei will occupy the same pavilion without armor. The ancient etiquette is absolute: no blade may be bared until the final kettle is lifted from the charcoal.
 
 On the tenth of the month, [[character:cao-shen|Master Cao Shen]] representing the strategists of Jin sat opposite [[character:lu-fang|General Lu Fang]] of Chu. Between them lay an unrolled silk map of the Silver Serpent canal and two steaming cups of mountain oolong. For two full hours, neither man drank. The tea cooled, the steam thinned to a wisp, and outside the screens the attendants held their breath.
 

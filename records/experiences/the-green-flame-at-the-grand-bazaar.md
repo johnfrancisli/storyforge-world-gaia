@@ -20,7 +20,7 @@ related_characters:
 - character:zahra-al-dhahab
 related_locations:
 - location:zaffar
-- location:the-grand-bazaar-of-zaffar
+- location:alk-zaffar-grandbazaar
 related_organizations:
 - org:the-binding-families-of-zaffar
 - org:the-saffron-houses
@@ -43,7 +43,7 @@ image:
 
 ### Chronicle
 
-At the dawn bidding of Highsun in [[location:the-grand-bazaar-of-zaffar|the Grand Bazaar of Zaffar]], the auction block was piled high with purple crocus baskets and brass balance scales. The binding families sat in cushioned alcoves, flanked by bodyguards with scimitars etched with warding-verses.
+At the dawn bidding of Highsun in [[location:alk-zaffar-grandbazaar|the Grand Bazaar of Zaffar]], the auction block was piled high with purple crocus baskets and brass balance scales. The binding families sat in cushioned alcoves, flanked by bodyguards with scimitars etched with warding-verses.
 
 During the valuation of the southern spice caravan, an assessor from House Al-Sayf pried the wax stopper from a brass inspection lamp to test the fuel. Instead of oil, an emerald vortex of flame roared thirty cubits into the canopy, howling with the laughter of an unbound djinn. The green fire devoured the ledger table in seconds, turning four thousand debt receipts and bond contracts into floating embers.
 

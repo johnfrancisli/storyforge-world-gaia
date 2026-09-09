@@ -416,8 +416,9 @@ def migrate_character(path, apply, root):
 
 
 def main():
+    repo_root = Path(__file__).resolve().parent.parent
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--dir", default=".", help="Gaia repository root")
+    parser.add_argument("--dir", default=str(repo_root), help="Gaia repository root")
     parser.add_argument("--apply", action="store_true", help="write changes")
     args = parser.parse_args()
     # Keep the mapped-drive path. Resolving it to UNC changes write semantics on
@@ -425,12 +426,12 @@ def main():
     root = Path(args.dir).absolute()
     item_changes = sum(
         migrate_item(path, args.apply)
-        for path in sorted((root / "records" / "items").glob("*.md"))
+        for path in sorted((root / "records" / "items").rglob("*.md"))
     )
     character_changes = 0
     no_clothing_match = []
     skipped = []
-    for path in sorted((root / "records" / "characters").glob("*.md")):
+    for path in sorted((root / "records" / "characters").rglob("*.md")):
         try:
             changed, character = migrate_character(path, args.apply, root)
         except RuntimeError as exc:

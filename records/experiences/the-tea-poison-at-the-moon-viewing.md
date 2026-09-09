@@ -19,7 +19,7 @@ related_characters:
 - character:takeda-renji
 - character:ashikara-yoshito
 related_locations:
-- location:tsuki-no-miyako-shogunal-palace
+- location:tsu-tsukinomiyako-palace
 - location:the-floating-lantern-tea-house
 related_organizations:
 - org:takeda-clan
@@ -42,7 +42,7 @@ image:
 
 ### Chronicle
 
-The Moon-Viewing feast on the grand veranda of [[location:tsuki-no-miyako-shogunal-palace|the Shogunal Palace]] was supposed to renew the five-year truce between Clan Ashikara and Clan Takeda. Low lacquer tables were laid with sweet bean cakes and chilled persimmons, and the moonlight gleamed silver on the lotus pond eighty paces below.
+The Moon-Viewing feast on the grand veranda of [[location:tsu-tsukinomiyako-palace|the Shogunal Palace]] was supposed to renew the five-year truce between Clan Ashikara and Clan Takeda. Low lacquer tables were laid with sweet bean cakes and chilled persimmons, and the moonlight gleamed silver on the lotus pond eighty paces below.
 
 [[character:takeda-renji|Takeda Renji]] presented the ceremonial tea bowl with two hands, bowing until his forehead touched the tatami. [[character:ashikara-yoshito|Shogun Ashikara Yoshito]] reached for the bowl, his retainers tense behind their screens. But before the bowl could touch the Shogun's lips, [[character:tamamo|Tamamo]] stepped forward with an accidental stumble of her embroidered sleeve, knocking the vessel from the low table.
 

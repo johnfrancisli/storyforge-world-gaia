@@ -19,7 +19,7 @@ related_characters:
 - character:erik-stone-eye
 - character:ravn-word-weaver
 related_locations:
-- location:drekah-fn
+- location:hra-drekahofn
 - location:the-longkeel-shipyard
 related_organizations:
 - org:the-longkeel-brotherhood
@@ -42,7 +42,7 @@ image:
 
 ### Chronicle
 
-At the dawn of Frostwane, the slipways of [[location:drekah-fn|Drekahöfn]] were slick with seal tallow and crushed ice as the brotherhood prepared to slide the Great Wyrm into the fjord. The longship had been carved with warding-runes across every rib, blessed by [[character:sigrid-hallvarsdottir|High Jarl Sigrid]] with mead from the ancestral horn.
+At the dawn of Frostwane, the slipways of [[location:hra-drekahofn|Drekahöfn]] were slick with seal tallow and crushed ice as the brotherhood prepared to slide the Great Wyrm into the fjord. The longship had been carved with warding-runes across every rib, blessed by [[character:sigrid-hallvarsdottir|High Jarl Sigrid]] with mead from the ancestral horn.
 
 As the chocks were knocked loose, the port roller groaned and split in half with a crack that echoed off the fjord walls. The fifty-oar dragon twisted sideways, its keel grinding into the frozen rock. [[character:ravn-word-weaver|Ravn the Skald]] sprang clear just as two iron spikes popped from the timber, proving the oak support had been notched with a saw before sunrise.
 

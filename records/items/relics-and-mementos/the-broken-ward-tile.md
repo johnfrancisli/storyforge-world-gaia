@@ -23,5 +23,5 @@ image:
   seed: null
 ---
 
-A memento of Peril from [[location:harus-shrine-town|Haru's shrine town]] in [[location:tsukuyomi|Tsukuyomi]], keeping the memory of failing wards alive.
+A memento of Peril from [[location:haru-shrine-town|Haru's shrine town]] in [[location:tsukuyomi|Tsukuyomi]], keeping the memory of failing wards alive.
 
