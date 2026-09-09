@@ -1,17 +1,19 @@
 ---
 id: character:tui
 name: Tui
-gm_notes: 'Tui makes the nets that every fishing family on three islands depends on, and she has been
-  weaving something else in secret: a net made from fiber she collects from the hulls of canoes that have
-  returned from voyages to the far south. The fiber is different — it has a faint luminescence, and it
-  does not decay in saltwater. She found it caught in the seams of three separate canoes that all returned
-  from the same region, a route no wayfinder will officially confirm. She has been weaving the fiber into
-  a net large enough to hold something very big, and she does not know what. She started the net on impulse,
-  guided by a feeling she cannot explain, and the pattern she is weaving is not a fishing pattern — it
-  is a pattern she has never seen but that her hands seem to know. She is afraid she is weaving a trap,
-  and she is afraid she is weaving a cage for something that needs to be free.'
+gm_notes: 'Tui makes the nets that every fishing family on three islands depends on,
+  and she has been weaving something else in secret: a net made from fiber she collects
+  from the hulls of canoes that have returned from voyages to the far south. The fiber
+  is different — it has a faint luminescence, and it does not decay in saltwater.
+  She found it caught in the seams of three separate canoes that all returned from
+  the same region, a route no wayfinder will officially confirm. She has been weaving
+  the fiber into a net large enough to hold something very big, and she does not know
+  what. She started the net on impulse, guided by a feeling she cannot explain, and
+  the pattern she is weaving is not a fishing pattern — it is a pattern she has never
+  seen but that her hands seem to know. She is afraid she is weaving a trap, and she
+  is afraid she is weaving a cage for something that needs to be free.'
 aliases: []
-race: Human
+race: Cat-folk
 gender: Female
 age: 29
 heritage: Archipelagan
@@ -39,26 +41,38 @@ currency:
   gold: 3
   silver: 5
   copper: 15
-appearance: A compact, quick-handed woman with net fragments always draped over her lap. She works fast,
-  her fingers moving in patterns so practiced they look involuntary. She talks to her nets as she makes
+appearance: A master net weaver with cute, delicate feline features, soft ears that
+  tilt thoughtfully as she knots cords, and a tail that twitches in concentration.
+  She has warm golden-brown human skin with no body fur. A compact, quick-handed woman
+  with net fragments always draped over her lap. She works fast, her fingers moving
+  in patterns so practiced they look involuntary. She talks to her nets as she makes
   them.
-biography: 'Tui makes the nets that every fishing family on three islands depends on, and she has been
-  weaving something else in secret: a net made from fiber she collects from the hulls of canoes that have
-  returned from voyages to the far south. The fiber is different — it has a faint luminescence, and it
-  does not decay in saltwater. She found it caught in the seams of three separate canoes that all returned
-  from the same region, a route no wayfinder will officially confirm. She has been weaving the fiber into
-  a net large enough to hold something very big, and she does not know what. She started the net on impulse,
-  guided by a feeling she cannot explain, and the pattern she is weaving is not a fishing pattern — it
-  is a pattern she has never seen but that her hands seem to know. She is afraid she is weaving a trap,
-  and she is afraid she is weaving a cage for something that needs to be free.'
-personality: Guarded and cautious with trust, carries a secret that shapes every decision.
+biography: 'Tui makes the nets that every fishing family on three islands depends
+  on, and she has been weaving something else in secret: a net made from fiber she
+  collects from the hulls of canoes that have returned from voyages to the far south.
+  The fiber is different — it has a faint luminescence, and it does not decay in saltwater.
+  She found it caught in the seams of three separate canoes that all returned from
+  the same region, a route no wayfinder will officially confirm. She has been weaving
+  the fiber into a net large enough to hold something very big, and she does not know
+  what. She started the net on impulse, guided by a feeling she cannot explain, and
+  the pattern she is weaving is not a fishing pattern — it is a pattern she has never
+  seen but that her hands seem to know. She is afraid she is weaving a trap, and she
+  is afraid she is weaving a cage for something that needs to be free.'
+personality: Meticulous and patient, she has an amusing, catlike fascination with
+  untangled strings, twine, and subtle knots. Guarded and cautious with trust, carries
+  a secret that shapes every decision.
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
-- I will not rest until I finish the net and discover what me hands are making and why.
+- I will not rest until I finish the net and discover what me hands are making and
+  why.
 equipment:
-  underwear: []
-  clothing: []
+  underwear:
+  - item:womens-woven-support-band
+  - item:womens-inner-pau-wrap
+  clothing:
+  - item:open-sided-island-tunic
+  - item:pau-wrap-skirt
   armor: []
   hands:
     left: null
@@ -70,9 +84,17 @@ visual:
   skin: medium brown
   hair: black, short, wind-tangled
   eyes: dark brown, quick and watchful
-  distinctive_features: fiber calluses on both hands, a half-finished luminescent net she carries everywhere
-    wrapped around her left arm, a habit of moving her fingers in weaving patterns even when empty-handed
-  prompt: ''
+  distinctive_features:
+  - thoughtful cat ears
+  - expressive cat tail
+  - nimble knotting fingers
+  prompt: 1girl, solo, young adult woman, cat-folk, cat ears, cat tail, slit pupils,
+    cute face, compact, quick-handed, narrow-wristed, small breasts, medium brown
+    skin, cute, delicate feline facial features, dark brown eyes, black, short, wind-tangled
+    hair, thoughtful cat ears, expressive cat tail, open-sided island tunic, printed
+    pau wrap skirt, portrait, upper body, looking at viewer, soft lighting
+  height: 5'6"
+  face: cute, delicate feline facial features
 image:
   url: ''
   focalPoint:
@@ -80,8 +102,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:wayfinder-guilds
 desires:
@@ -89,10 +111,12 @@ desires:
 - To find the source of the luminescent fiber and learn what lies in the far south
 fears_or_limits:
 - That she is weaving a cage for something that is trying to help the Archipelago
-- That the impulse guiding her hands is not her own — that something is using her to make a trap for someone
-  else
+- That the impulse guiding her hands is not her own — that something is using her
+  to make a trap for someone else
 current_state:
   location: location:tide-archipelago
+memories: []
+momentos: []
 purview: []
 ---
 

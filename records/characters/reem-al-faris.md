@@ -1,16 +1,18 @@
 ---
 id: character:reem-al-faris
 name: Reem al-Faris
-gm_notes: 'Nadia''s granddaughter and heir to the al-Faris binding line. Reem has been hearing a voice
-  since she was nine — not a djinn''s, but something older and stranger that speaks in a language she
-  almost recognizes. She has hidden this from her family because the al-Faris contract specifically binds
-  Kashan''s service to the firstborn, and Reem is third-born. She believes the voice is the original language
-  of the Pact itself, the words spoken when the first binding was made. She has been secretly studying
-  ancient contract texts in the family vault, trying to translate what the voice tells her. Last week
-  it gave her a name she found in no text: the name of the djinn who first proposed the Pact of the Lamp,
-  who was supposedly destroyed by the other djinn for giving humans power over fire.'
+gm_notes: 'Nadia''s granddaughter and heir to the al-Faris binding line. Reem has
+  been hearing a voice since she was nine — not a djinn''s, but something older and
+  stranger that speaks in a language she almost recognizes. She has hidden this from
+  her family because the al-Faris contract specifically binds Kashan''s service to
+  the firstborn, and Reem is third-born. She believes the voice is the original language
+  of the Pact itself, the words spoken when the first binding was made. She has been
+  secretly studying ancient contract texts in the family vault, trying to translate
+  what the voice tells her. Last week it gave her a name she found in no text: the
+  name of the djinn who first proposed the Pact of the Lamp, who was supposedly destroyed
+  by the other djinn for giving humans power over fire.'
 aliases: []
-race: Elf
+race: Human
 gender: Female
 age: 22
 heritage: Al-Khayzari
@@ -39,28 +41,32 @@ currency:
   gold: 4
   silver: 13
   copper: 5
-appearance: Young and bookish in practical linen robes, her hair bound in a loose braid. She has ink on
-  her fingers and a habit of mouthing words silently as she reads. She watches the djinn in the market
-  with more intensity than fear.
-biography: 'Nadia''s granddaughter and heir to the al-Faris binding line. Reem has been hearing a voice
-  since she was nine — not a djinn''s, but something older and stranger that speaks in a language she
-  almost recognizes. She has hidden this from her family because the al-Faris contract specifically binds
-  Kashan''s service to the firstborn, and Reem is third-born. She believes the voice is the original language
-  of the Pact itself, the words spoken when the first binding was made. She has been secretly studying
-  ancient contract texts in the family vault, trying to translate what the voice tells her. Last week
-  it gave her a name she found in no text: the name of the djinn who first proposed the Pact of the Lamp,
-  who was supposedly destroyed by the other djinn for giving humans power over fire.'
-personality: Reserved and soft-spoken, guarded and cautious with trust, carries a secret that shapes every
-  decision.
+appearance: Young and bookish in practical linen robes, her hair bound in a loose
+  braid. She has ink on her fingers and a habit of mouthing words silently as she
+  reads. She watches the djinn in the market with more intensity than fear.
+biography: 'Nadia''s granddaughter and heir to the al-Faris binding line. Reem has
+  been hearing a voice since she was nine — not a djinn''s, but something older and
+  stranger that speaks in a language she almost recognizes. She has hidden this from
+  her family because the al-Faris contract specifically binds Kashan''s service to
+  the firstborn, and Reem is third-born. She believes the voice is the original language
+  of the Pact itself, the words spoken when the first binding was made. She has been
+  secretly studying ancient contract texts in the family vault, trying to translate
+  what the voice tells her. Last week it gave her a name she found in no text: the
+  name of the djinn who first proposed the Pact of the Lamp, who was supposedly destroyed
+  by the other djinn for giving humans power over fire.'
+personality: Reserved and soft-spoken, guarded and cautious with trust, carries a
+  secret that shapes every decision.
 key_phrases:
 - Knowledge is not power. Knowledge is a lantern in a large, dark room.
 - The truth does not need you to believe in it.
-- I will not rest until I translate the voice's language and understand what it is telling me.
+- I will not rest until I translate the voice's language and understand what it is
+  telling me.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-long-cotton-chemise
+  - item:womens-cotton-underdrawers
   clothing:
-  - item:knee-length-pirahan
-  - item:bound-ankle-desert-trousers
+  - item:crossover-desert-robe
   armor: []
   hands:
     left: null
@@ -74,7 +80,15 @@ visual:
   distinctive_features:
   - ink stains on the right index finger from annotating contract texts
   - a small birthmark behind the left ear shaped like a flame
-  prompt: ''
+  prompt: 1girl, solo, young adult woman, slender, slight, medium breasts, light golden
+    olive skin, striking West Asian facial features, strong dark brows, hazel eyes,
+    dark brown, long braid hair, ink stains on the right index finger from annotating
+    contract texts, a small birthmark behind the left ear shaped like a flame, knee-length
+    pirahan shirt, bound-ankle desert trousers, portrait, upper body, looking at viewer,
+    soft lighting
+  skin: light golden olive
+  height: 5'4"
+  face: striking West Asian facial features, strong dark brows
 image:
   url: ''
   focalPoint:
@@ -82,18 +96,21 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:binding-families
 desires:
 - To translate the voice's language and understand what it is telling her
 - To prove the original Pact djinn was not destroyed and may still be alive
 fears_or_limits:
-- That her grandmother will discover the voice and bind her to a contract she did not choose
+- That her grandmother will discover the voice and bind her to a contract she did
+  not choose
 - That the voice is not benevolent and is using her to unravel the Pact from within
 current_state:
   location: location:zaffar
+memories: []
+momentos: []
 purview: []
 ---
 

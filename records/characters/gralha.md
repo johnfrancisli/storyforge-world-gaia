@@ -1,15 +1,17 @@
 ---
 id: character:gralha
 name: Gralha
-gm_notes: 'A bird beast-kin scout who surveys the rainforest from above and reports movements, weather
-  patterns, and threats to Iara. His secret: during a high-altitude scouting flight three weeks ago, he
-  spotted a large structure being built deep in the rainforest, several days'' travel from any known tribe
-  — a wooden platform-and-tower complex that is clearly not of tribal design. It is being constructed
-  by people he did not recognize, using tools and techniques he has never seen. He reported only that
-  he saw unusual tree-felling, not the full extent of what he saw, because the structure''s design included
-  defensive fortifications that suggested military purpose. He is torn between reporting the full truth
-  — which could cause panic and a hasty, disorganized response — and gathering more intelligence on his
-  own, which risks being discovered by whoever is building it.'
+gm_notes: 'A bird beast-kin scout who surveys the rainforest from above and reports
+  movements, weather patterns, and threats to Iara. His secret: during a high-altitude
+  scouting flight three weeks ago, he spotted a large structure being built deep in
+  the rainforest, several days'' travel from any known tribe — a wooden platform-and-tower
+  complex that is clearly not of tribal design. It is being constructed by people
+  he did not recognize, using tools and techniques he has never seen. He reported
+  only that he saw unusual tree-felling, not the full extent of what he saw, because
+  the structure''s design included defensive fortifications that suggested military
+  purpose. He is torn between reporting the full truth — which could cause panic and
+  a hasty, disorganized response — and gathering more intelligence on his own, which
+  risks being discovered by whoever is building it.'
 aliases: []
 race: Beast-kin (Bird)
 gender: Male
@@ -39,25 +41,32 @@ currency:
   gold: 15
   silver: 36
   copper: 17
-appearance: Light-boned and keen-eyed, built for sustained flight. Wears minimal gear to reduce weight.
-  His feathered wings fold along his arms when at rest.
-biography: 'A bird beast-kin scout who surveys the rainforest from above and reports movements, weather
-  patterns, and threats to Iara. His secret: during a high-altitude scouting flight three weeks ago, he
-  spotted a large structure being built deep in the rainforest, several days'' travel from any known tribe
-  — a wooden platform-and-tower complex that is clearly not of tribal design. It is being constructed
-  by people he did not recognize, using tools and techniques he has never seen. He reported only that
-  he saw unusual tree-felling, not the full extent of what he saw, because the structure''s design included
-  defensive fortifications that suggested military purpose. He is torn between reporting the full truth
-  — which could cause panic and a hasty, disorganized response — and gathering more intelligence on his
-  own, which risks being discovered by whoever is building it.'
-personality: Wary and watchful, guarded and cautious with trust, carries a secret that shapes every decision.
+appearance: Light-boned and keen-eyed, built for sustained flight. Wears minimal gear
+  to reduce weight. His feathered wings fold along his arms when at rest.
+biography: 'A bird beast-kin scout who surveys the rainforest from above and reports
+  movements, weather patterns, and threats to Iara. His secret: during a high-altitude
+  scouting flight three weeks ago, he spotted a large structure being built deep in
+  the rainforest, several days'' travel from any known tribe — a wooden platform-and-tower
+  complex that is clearly not of tribal design. It is being constructed by people
+  he did not recognize, using tools and techniques he has never seen. He reported
+  only that he saw unusual tree-felling, not the full extent of what he saw, because
+  the structure''s design included defensive fortifications that suggested military
+  purpose. He is torn between reporting the full truth — which could cause panic and
+  a hasty, disorganized response — and gathering more intelligence on his own, which
+  risks being discovered by whoever is building it.'
+personality: Wary and watchful, guarded and cautious with trust, carries a secret
+  that shapes every decision.
 key_phrases:
 - I see what others miss because I know what to look for.
 - The wilderness does not forgive carelessness.
-- I will not rest until I gather enough intelligence to present a complete picture to the council.
+- I will not rest until I gather enough intelligence to present a complete picture
+  to the council.
 equipment:
-  underwear: []
-  clothing: []
+  underwear:
+  - item:mens-softbark-loin-underwrap
+  clothing:
+  - item:sleeveless-barkcloth-tunic
+  - item:braided-fiber-loincloth
   armor: []
   hands:
     left: null
@@ -72,7 +81,15 @@ visual:
   - feathered crest and wing-feathers along the forearms that can spread for gliding
   - fine scales on the face and neck
   - hollow-boned lightness
-  prompt: ''
+  prompt: 1boy, solo, young adult man, avian beast-kin, feathered crest, fine facial
+    scales, light-boned, light-boned and lean, built for flight, narrow chest, warm
+    bronze with fine facial feathering skin, sharp avian facial traits, golden eyes,
+    a crest of dark blue-black feathers hair, feathered crest and wing-feathers along
+    the forearms, fine scales on the face and neck, sleeveless barkcloth tunic, braided-fiber
+    loincloth, portrait, upper body, looking at viewer, soft lighting
+  skin: warm bronze with fine facial feathering
+  height: 5'6"
+  face: sharp avian facial traits, light-boned, feathered crest
 image:
   url: ''
   focalPoint:
@@ -80,8 +97,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:ver-hunter-clans
 desires:
@@ -92,6 +109,8 @@ fears_or_limits:
 - That the builders have lookouts who can spot a bird beast-kin scout
 current_state:
   location: location:verdania
+memories: []
+momentos: []
 purview: []
 ---
 

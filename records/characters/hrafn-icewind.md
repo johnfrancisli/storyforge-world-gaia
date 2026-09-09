@@ -1,13 +1,15 @@
 ---
 id: character:hrafn-icewind
 name: Hrafn Icewind
-gm_notes: 'Hrafn is a boy of ten, the son of two of the jarl''s household thralls. His secret: he has
-  been sneaking out at night to listen to the volur''s chanting when Yrsa goes into trance. He is drawn
-  to the seidr — not the show of it, but the feel. When Yrsa chants, he says he can feel something in
-  the air, like the hum before a storm. He has started trying to chant himself, alone, in the dark behind
-  the thralls'' quarters, and the last time he did, the air around him moved. A small thing — a draft
-  that should not have been there, a flicker in the fire. He is ten and does not understand what is happening,
-  and he has not told anyone because he knows that seidr is for the volur, not for a thrall''s child.'
+gm_notes: 'Hrafn is a boy of ten, the son of two of the jarl''s household thralls.
+  His secret: he has been sneaking out at night to listen to the volur''s chanting
+  when Yrsa goes into trance. He is drawn to the seidr — not the show of it, but the
+  feel. When Yrsa chants, he says he can feel something in the air, like the hum before
+  a storm. He has started trying to chant himself, alone, in the dark behind the thralls''
+  quarters, and the last time he did, the air around him moved. A small thing — a
+  draft that should not have been there, a flicker in the fire. He is ten and does
+  not understand what is happening, and he has not told anyone because he knows that
+  seidr is for the volur, not for a thrall''s child.'
 aliases: []
 race: Elf
 gender: Male
@@ -38,22 +40,28 @@ currency:
   gold: 0
   silver: 0
   copper: 2
-appearance: Small and dark-haired, Hrafn wears the plain wool of a thrall's child — undyed, patched. He
-  is thin and quiet, the kind of child who is easy to overlook, which is how he prefers it. He watches
-  everything with dark, serious eyes that look older than ten.
-biography: 'Hrafn is a boy of ten, the son of two of the jarl''s household thralls. His secret: he has
-  been sneaking out at night to listen to the volur''s chanting when Yrsa goes into trance. He is drawn
-  to the seidr — not the show of it, but the feel. When Yrsa chants, he says he can feel something in
-  the air, like the hum before a storm. He has started trying to chant himself, alone, in the dark behind
-  the thralls'' quarters, and the last time he did, the air around him moved. A small thing — a draft
-  that should not have been there, a flicker in the fire. He is ten and does not understand what is happening,
-  and he has not told anyone because he knows that seidr is for the volur, not for a thrall''s child.'
-personality: Reserved and soft-spoken, compassionate and tender-hearted, guarded and cautious with trust.
+appearance: Small and dark-haired, Hrafn wears the plain wool of a thrall's child
+  — undyed, patched. He is thin and quiet, the kind of child who is easy to overlook,
+  which is how he prefers it. He watches everything with dark, serious eyes that look
+  older than ten.
+biography: 'Hrafn is a boy of ten, the son of two of the jarl''s household thralls.
+  His secret: he has been sneaking out at night to listen to the volur''s chanting
+  when Yrsa goes into trance. He is drawn to the seidr — not the show of it, but the
+  feel. When Yrsa chants, he says he can feel something in the air, like the hum before
+  a storm. He has started trying to chant himself, alone, in the dark behind the thralls''
+  quarters, and the last time he did, the air around him moved. A small thing — a
+  draft that should not have been there, a flicker in the fire. He is ten and does
+  not understand what is happening, and he has not told anyone because he knows that
+  seidr is for the volur, not for a thrall''s child.'
+personality: Reserved and soft-spoken, compassionate and tender-hearted, guarded and
+  cautious with trust.
 key_phrases:
 - I'm not afraid. I'm just... careful.
 - When you're small, you learn to notice things.
 equipment:
-  underwear: []
+  underwear:
+  - item:mens-light-linen-undershirt
+  - item:mens-winter-drawers
   clothing:
   - item:wool-overtunic
   - item:wool-trousers
@@ -67,9 +75,15 @@ visual:
   body_build: small and thin, underfed for his age
   hair: black, straight, worn loose and untidy
   eyes: very dark brown, nearly black, serious
-  distinctive_features: a thrall's iron band on his left wrist (child-sized, engraved with Sigrid's mark),
-    a faded burn on his right palm from tending fires
-  prompt: ''
+  distinctive_features: a thrall's iron band on his left wrist (child-sized, engraved
+    with Sigrid's mark), a faded burn on his right palm from tending fires
+  prompt: 1boy, solo, young boy, elf, pointed ears, small and thin, underfed for his
+    age, fair, wind-reddened skin, refined Nordic features, pronounced pointed ears,
+    very dark brown eyes, black, straight, worn loose and untidy hair, wool overtunic,
+    leather belt, wool trousers, portrait, upper body, looking at viewer, soft lighting
+  skin: fair, wind-reddened
+  height: 4'10"
+  face: refined Nordic features, pronounced pointed ears
 image:
   url: ''
   focalPoint:
@@ -77,19 +91,22 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:hra-volur-coven
 desires:
-- to understand what is happening to him when he chants — whether it is a gift or something wrong with
-  him
+- to understand what is happening to him when he chants — whether it is a gift or
+  something wrong with him
 - to be more than a thrall's son — to be someone the saga-singers remember
 fears_or_limits:
-- that the seidr will be taken from him — or that it will grow and he will not be able to control it
+- that the seidr will be taken from him — or that it will grow and he will not be
+  able to control it
 - that Yrsa will catch him watching and be angry, or worse, interested
 current_state:
   location: location:skaldvik
+memories: []
+momentos: []
 purview: []
 ---
 

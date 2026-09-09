@@ -1,11 +1,12 @@
 ---
 id: character:tor-longkeel
 name: Tor Longkeel
-gm_notes: Tor's wife was on a fishing boat that vanished near the deep fjords two months ago — one of
-  the villages Sigrid has been worried about. The boat was found empty, no signs of violence. Tor has
-  been building a longship in his yard, not for trade but for a voyage into the deep fjords to find her.
-  He has not told Jarl Sigrid because he does not want to be stopped. He has been gathering supplies quietly
-  and has recruited three other men who lost family on the same boat.
+gm_notes: Tor's wife was on a fishing boat that vanished near the deep fjords two
+  months ago — one of the villages Sigrid has been worried about. The boat was found
+  empty, no signs of violence. Tor has been building a longship in his yard, not for
+  trade but for a voyage into the deep fjords to find her. He has not told Jarl Sigrid
+  because he does not want to be stopped. He has been gathering supplies quietly and
+  has recruited three other men who lost family on the same boat.
 aliases: []
 race: Human
 gender: Male
@@ -35,23 +36,28 @@ currency:
   gold: 3
   silver: 14
   copper: 25
-appearance: A big man in a leather apron, sawdust in his beard, his hands huge and calloused from decades
-  of woodwork. He smells of pine tar and wood shavings. He is quiet — not unfriendly, just economical
-  with words.
-biography: Tor's wife was on a fishing boat that vanished near the deep fjords two months ago — one of
-  the villages Sigrid has been worried about. The boat was found empty, no signs of violence. Tor has
-  been building a longship in his yard, not for trade but for a voyage into the deep fjords to find her.
-  He has not told Jarl Sigrid because he does not want to be stopped. He has been gathering supplies quietly
-  and has recruited three other men who lost family on the same boat.
-personality: Reserved and soft-spoken, wary and watchful, driven and relentless in pursuit of goals.
+appearance: A big man in a leather apron, sawdust in his beard, his hands huge and
+  calloused from decades of woodwork. He smells of pine tar and wood shavings. He
+  is quiet — not unfriendly, just economical with words.
+biography: Tor's wife was on a fishing boat that vanished near the deep fjords two
+  months ago — one of the villages Sigrid has been worried about. The boat was found
+  empty, no signs of violence. Tor has been building a longship in his yard, not for
+  trade but for a voyage into the deep fjords to find her. He has not told Jarl Sigrid
+  because he does not want to be stopped. He has been gathering supplies quietly and
+  has recruited three other men who lost family on the same boat.
+personality: Reserved and soft-spoken, wary and watchful, driven and relentless in
+  pursuit of goals.
 key_phrases:
 - A ship is a promise made to the sea.
 - The keel is the spine. Get it wrong and nothing else matters.
 equipment:
-  underwear: []
+  underwear:
+  - item:mens-light-linen-undershirt
+  - item:mens-winter-drawers
   clothing:
   - item:wool-overtunic
   - item:wool-trousers
+  - item:wrapped-work-apron
   armor: []
   hands:
     left: null
@@ -63,9 +69,14 @@ visual:
   height: tall
   hair: brown, greying, sawdust-dusted
   eyes: blue
-  distinctive_features: a woodworker's calluses on both hands, a missing ring finger on the left hand
-    from a saw accident
-  prompt: ''
+  distinctive_features: a woodworker's calluses on both hands, a missing ring finger
+    on the left hand from a saw accident
+  prompt: 1boy, solo, young adult man, big, broad-shouldered, broad chest, salt-roughened,
+    wind-reddened fair skin, strong, weather-hardened Norse facial features, blue
+    eyes, brown, greying, sawdust-dusted hair, wool overtunic, leather belt, wool
+    trousers, portrait, upper body, looking at viewer, soft lighting
+  skin: salt-roughened, wind-reddened fair skin
+  face: strong, weather-hardened Norse facial features
 image:
   url: ''
   focalPoint:
@@ -73,18 +84,22 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:hra-shipwright-brotherhood
 desires:
-- To find his wife, who vanished on a fishing boat near the deep fjords two months ago.
+- To find his wife, who vanished on a fishing boat near the deep fjords two months
+  ago.
 - To build the ship that will take him there, regardless of what the jarl says.
 fears_or_limits:
-- He is going into the deep fjords, where Sigrid's scouts have not returned from. He is a shipwright,
-  not a warrior. He is driven by grief, which is not the same as courage.
+- He is going into the deep fjords, where Sigrid's scouts have not returned from.
+  He is a shipwright, not a warrior. He is driven by grief, which is not the same
+  as courage.
 current_state:
   location: location:skaldvik
+memories: []
+momentos: []
 purview: []
 ---
 

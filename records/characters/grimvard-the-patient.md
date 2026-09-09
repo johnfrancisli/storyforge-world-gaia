@@ -1,12 +1,14 @@
 ---
 id: character:grimvard-the-patient
 name: Grimvard the Patient
-gm_notes: 'Grimvard is not a warrior — he is a frost giant elder, a keeper of their oral history. He has
-  come to Skaldvik not to threaten but to correct the record: Ravn''s poem has the giants'' history wrong,
-  and giants take their history seriously. He is sitting outside the town because he is too large for
-  the buildings and because sitting is the giants'' way of saying ''I will wait.'' He is willing to talk.
-  He is not willing to leave until the poem is corrected. If Sigrid asks the right questions, Grimvard
-  knows things about the deep mountains that her scouts did not survive to report.'
+gm_notes: 'Grimvard is not a warrior — he is a frost giant elder, a keeper of their
+  oral history. He has come to Skaldvik not to threaten but to correct the record:
+  Ravn''s poem has the giants'' history wrong, and giants take their history seriously.
+  He is sitting outside the town because he is too large for the buildings and because
+  sitting is the giants'' way of saying ''I will wait.'' He is willing to talk. He
+  is not willing to leave until the poem is corrected. If Sigrid asks the right questions,
+  Grimvard knows things about the deep mountains that her scouts did not survive to
+  report.'
 aliases: []
 race: Frost Giant
 gender: Male
@@ -36,21 +38,26 @@ currency:
   gold: 116
   silver: 58
   copper: 64
-appearance: A towering figure, grey-skinned and broad, wrapped in layers of white fur. He sits cross-legged
-  outside the town walls, his hands on his knees, and does not move. His eyes are pale blue, ancient,
-  and unbothered. He speaks rarely, in a voice like grinding ice.
-biography: 'Grimvard is not a warrior — he is a frost giant elder, a keeper of their oral history. He
-  has come to Skaldvik not to threaten but to correct the record: Ravn''s poem has the giants'' history
-  wrong, and giants take their history seriously. He is sitting outside the town because he is too large
-  for the buildings and because sitting is the giants'' way of saying ''I will wait.'' He is willing to
-  talk. He is not willing to leave until the poem is corrected. If Sigrid asks the right questions, Grimvard
-  knows things about the deep mountains that her scouts did not survive to report.'
+appearance: A towering figure, grey-skinned and broad, wrapped in layers of white
+  fur. He sits cross-legged outside the town walls, his hands on his knees, and does
+  not move. His eyes are pale blue, ancient, and unbothered. He speaks rarely, in
+  a voice like grinding ice.
+biography: 'Grimvard is not a warrior — he is a frost giant elder, a keeper of their
+  oral history. He has come to Skaldvik not to threaten but to correct the record:
+  Ravn''s poem has the giants'' history wrong, and giants take their history seriously.
+  He is sitting outside the town because he is too large for the buildings and because
+  sitting is the giants'' way of saying ''I will wait.'' He is willing to talk. He
+  is not willing to leave until the poem is corrected. If Sigrid asks the right questions,
+  Grimvard knows things about the deep mountains that her scouts did not survive to
+  report.'
 personality: Composed and even-tempered, shrewd and calculating, wary and watchful.
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 equipment:
-  underwear: []
+  underwear:
+  - item:mens-light-linen-undershirt
+  - item:mens-winter-drawers
   clothing:
   - item:wool-overtunic
   - item:wool-trousers
@@ -65,8 +72,15 @@ visual:
   skin: grey, cold to look at
   hair: white, long, matted with frost
   eyes: pale blue, ancient
-  distinctive_features: ritual scarring on both cheeks, frost crystals in the beard that never melt
-  prompt: ''
+  distinctive_features: ritual scarring on both cheeks, frost crystals in the beard
+    that never melt
+  prompt: 1man, solo, elderly man, frost giant, massive humanoid, 12 feet tall, massive,
+    broad, twelve feet tall, broad chest, grey, cold to look at skin, massive weathered
+    northern features, pale blue eyes, white, long, matted with frost hair, ritual
+    scarring on both cheeks, frost crystals in the beard, wool overtunic, leather
+    belt, wool trousers, portrait, upper body, looking at viewer, soft lighting
+  height: 12 feet
+  face: massive weathered northern features
 image:
   url: ''
   focalPoint:
@@ -74,19 +88,23 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:hra-jarl-council
 desires:
-- To have the skald's poem corrected — the giants' history must be told accurately, or not at all.
+- To have the skald's poem corrected — the giants' history must be told accurately,
+  or not at all.
 - To maintain the peace between giants and humans, which he believes serves both peoples.
 fears_or_limits:
-- He is one giant sitting outside a human town, and not all humans are as patient as he is. He cannot
-  enter the buildings. His size makes communication awkward and his presence makes people nervous even
-  though he means no harm.
+- He is one giant sitting outside a human town, and not all humans are as patient
+  as he is. He cannot enter the buildings. His size makes communication awkward and
+  his presence makes people nervous even though he means no harm.
 current_state:
   location: location:skaldvik
+memories:
+- campaign-event/the-fog-mothers-warning
+momentos: []
 purview: []
 ---
 

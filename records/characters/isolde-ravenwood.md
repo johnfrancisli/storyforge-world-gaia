@@ -1,11 +1,12 @@
 ---
 id: character:isolde-ravenwood
 name: Isolde Ravenwood
-gm_notes: Isolde is a healer who once served the royal family directly. She was dismissed after she failed
-  to save the queen from a mysterious illness — but she believes the queen was poisoned, and that the
-  poisoner is still in the court. She has since set up a modest healing practice in Crownhaven's lower
-  town, but she has been quietly cultivating connections with current servants to investigate. She recently
-  obtained a sample of a rare toxin from an apothecary that matches the symptoms she witnessed.
+gm_notes: Isolde is a healer who once served the royal family directly. She was dismissed
+  after she failed to save the queen from a mysterious illness — but she believes
+  the queen was poisoned, and that the poisoner is still in the court. She has since
+  set up a modest healing practice in Crownhaven's lower town, but she has been quietly
+  cultivating connections with current servants to investigate. She recently obtained
+  a sample of a rare toxin from an apothecary that matches the symptoms she witnessed.
 aliases: []
 race: Human
 gender: Female
@@ -35,23 +36,25 @@ currency:
   gold: 2
   silver: 7
   copper: 16
-appearance: Dignified and composed, Isolde wears clean but plain grey robes. Her hands are steady and
-  her manner is clinical, though warmth surfaces when she treats children.
-biography: Isolde is a healer who once served the royal family directly. She was dismissed after she failed
-  to save the queen from a mysterious illness — but she believes the queen was poisoned, and that the
-  poisoner is still in the court. She has since set up a modest healing practice in Crownhaven's lower
-  town, but she has been quietly cultivating connections with current servants to investigate. She recently
-  obtained a sample of a rare toxin from an apothecary that matches the symptoms she witnessed.
+appearance: Dignified and composed, Isolde wears clean but plain grey robes. Her hands
+  are steady and her manner is clinical, though warmth surfaces when she treats children.
+biography: Isolde is a healer who once served the royal family directly. She was dismissed
+  after she failed to save the queen from a mysterious illness — but she believes
+  the queen was poisoned, and that the poisoner is still in the court. She has since
+  set up a modest healing practice in Crownhaven's lower town, but she has been quietly
+  cultivating connections with current servants to investigate. She recently obtained
+  a sample of a rare toxin from an apothecary that matches the symptoms she witnessed.
 personality: Reserved and soft-spoken, dignified and self-assured, generous and welcoming.
 key_phrases:
 - A healer's first task is to listen.
 - Pain speaks louder than words, but silence tells the deeper truth.
 - I will not rest until I identify and expose the person who poisoned the queen.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-linen-chemise
+  - item:womens-linen-underbreeches
   clothing:
-  - item:linen-work-tunic
-  - item:wool-trousers
+  - item:travel-robe
   armor: []
   hands:
     left: null
@@ -62,9 +65,15 @@ visual:
   body_build: tall and straight-backed, medium breasts
   hair: dark brown, shot through with silver, worn in a bun
   eyes: dark grey
-  distinctive_features: a small but precise scar on her left eyebrow, healer's ink-mark on her right wrist
-    (professional guild mark)
-  prompt: ''
+  distinctive_features: a small but precise scar on her left eyebrow, healer's ink-mark
+    on her right wrist (professional guild mark)
+  prompt: 1girl, solo, adult woman, tall and straight-backed, medium breasts, light
+    beige skin, classic European facial features, dark grey eyes, dark brown, shot
+    through with silver, worn in a bun hair, linen work tunic, leather belt, wool
+    trousers, portrait, upper body, looking at viewer, soft lighting
+  skin: light beige
+  height: 5'5"
+  face: classic European facial features
 image:
   url: ''
   focalPoint:
@@ -72,8 +81,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:val-mages-circle
 desires:
@@ -84,6 +93,8 @@ fears_or_limits:
 - that she was truly at fault and the queen's death was her failure, not a crime
 current_state:
   location: location:crownhaven
+memories: []
+momentos: []
 purview: []
 ---
 

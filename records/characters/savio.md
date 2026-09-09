@@ -1,16 +1,18 @@
 ---
 id: character:savio
 name: Sávio
-gm_notes: 'A human guide who leads expeditions into the rainforest for traders, hunters, and diplomats,
-  and who is known for reading the river''s mood — he can predict floods, find channels, and sense danger
-  before it arrives. His secret: he lost his entire first expedition party seven years ago to a flash
-  flood that he did not predict. He tells people it was an unprecedented event, but the truth is he was
-  overconfident and ignored warning signs he should have recognized. Three people died. He has been carrying
-  the guilt ever since and has become hyper-vigilant to the point of anxiety — he sometimes turns expeditions
-  back at the first sign of questionable conditions, which has cost him clients and reputation. Recently,
-  a group of outsiders — the same ones the basket weaver Petala has been observing — has hired him to
-  guide them to the upper tributaries, and he is torn between the money and the conviction that their
-  intentions are not what they claim.'
+gm_notes: 'A human guide who leads expeditions into the rainforest for traders, hunters,
+  and diplomats, and who is known for reading the river''s mood — he can predict floods,
+  find channels, and sense danger before it arrives. His secret: he lost his entire
+  first expedition party seven years ago to a flash flood that he did not predict.
+  He tells people it was an unprecedented event, but the truth is he was overconfident
+  and ignored warning signs he should have recognized. Three people died. He has been
+  carrying the guilt ever since and has become hyper-vigilant to the point of anxiety
+  — he sometimes turns expeditions back at the first sign of questionable conditions,
+  which has cost him clients and reputation. Recently, a group of outsiders — the
+  same ones the basket weaver Petala has been observing — has hired him to guide them
+  to the upper tributaries, and he is torn between the money and the conviction that
+  their intentions are not what they claim.'
 aliases: []
 race: Human
 gender: Male
@@ -40,26 +42,34 @@ currency:
   gold: 0
   silver: 20
   copper: 22
-appearance: Lean and weathered, with a guide's cautious eyes. Wears practical travel gear and carries
-  a walking staff with river-markings. Always checking the water, the sky, the current.
-biography: 'A human guide who leads expeditions into the rainforest for traders, hunters, and diplomats,
-  and who is known for reading the river''s mood — he can predict floods, find channels, and sense danger
-  before it arrives. His secret: he lost his entire first expedition party seven years ago to a flash
-  flood that he did not predict. He tells people it was an unprecedented event, but the truth is he was
-  overconfident and ignored warning signs he should have recognized. Three people died. He has been carrying
-  the guilt ever since and has become hyper-vigilant to the point of anxiety — he sometimes turns expeditions
-  back at the first sign of questionable conditions, which has cost him clients and reputation. Recently,
-  a group of outsiders — the same ones the basket weaver Petala has been observing — has hired him to
-  guide them to the upper tributaries, and he is torn between the money and the conviction that their
-  intentions are not what they claim.'
-personality: Wary and watchful, guarded and cautious with trust, carries a secret that shapes every decision.
+appearance: Lean and weathered, with a guide's cautious eyes. Wears practical travel
+  gear and carries a walking staff with river-markings. Always checking the water,
+  the sky, the current.
+biography: 'A human guide who leads expeditions into the rainforest for traders, hunters,
+  and diplomats, and who is known for reading the river''s mood — he can predict floods,
+  find channels, and sense danger before it arrives. His secret: he lost his entire
+  first expedition party seven years ago to a flash flood that he did not predict.
+  He tells people it was an unprecedented event, but the truth is he was overconfident
+  and ignored warning signs he should have recognized. Three people died. He has been
+  carrying the guilt ever since and has become hyper-vigilant to the point of anxiety
+  — he sometimes turns expeditions back at the first sign of questionable conditions,
+  which has cost him clients and reputation. Recently, a group of outsiders — the
+  same ones the basket weaver Petala has been observing — has hired him to guide them
+  to the upper tributaries, and he is torn between the money and the conviction that
+  their intentions are not what they claim.'
+personality: Wary and watchful, guarded and cautious with trust, carries a secret
+  that shapes every decision.
 key_phrases:
 - The path exists whether or not you can see it.
 - Knowing where you are is not the same as knowing where you're going.
-- I will not rest until I atone for the expedition he lost by never losing another person.
+- I will not rest until I atone for the expedition he lost by never losing another
+  person.
 equipment:
-  underwear: []
-  clothing: []
+  underwear:
+  - item:mens-softbark-loin-underwrap
+  clothing:
+  - item:sleeveless-barkcloth-tunic
+  - item:softbark-wrap-skirt
   armor: []
   hands:
     left: null
@@ -73,7 +83,15 @@ visual:
   distinctive_features:
   - a faded river-tattoo of a fish on the left forearm from his youth
   - a slight tremor in the hands that appears when the water rises
-  prompt: ''
+  prompt: 1man, solo, adult man, lean and weathered, built for river travel, narrow
+    chest, deep reddish-brown, weathered skin, Indigenous Amazonian facial features,
+    high cheekbones, hazel eyes, black, greying, cut short and practical hair, a faded
+    river-tattoo of a fish on the left forearm from his youth, a slight tremor in
+    the hands, sleeveless barkcloth tunic, softbark wrap skirt, portrait, upper body,
+    looking at viewer, soft lighting
+  skin: deep reddish-brown, weathered
+  height: 5'6"
+  face: Indigenous Amazonian facial features, high cheekbones
 image:
   url: ''
   focalPoint:
@@ -81,8 +99,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:ver-hunter-clans
 desires:
@@ -93,6 +111,8 @@ fears_or_limits:
 - That guiding the outsiders will lead to harm he could have prevented
 current_state:
   location: location:verdania
+memories: []
+momentos: []
 purview: []
 ---
 

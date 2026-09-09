@@ -1,11 +1,12 @@
 ---
 id: character:wei-fengge
 name: Wei Fengge
-gm_notes: A calligrapher of extraordinary talent whose brushwork is said to carry chi that can calm or
-  agitate the viewer. This is not superstition—she is an unconscious chi-cultivator who channels emotional
-  energy into her ink. The Wei warlord has commissioned her to write victory proclamations that inflame
-  patriotism; she has realized the proclamations are making citizens fanatically loyal and willing to
-  die in battle. She is horrified and has begun deliberately corrupting her chi-channeling to neutralize
+gm_notes: A calligrapher of extraordinary talent whose brushwork is said to carry
+  chi that can calm or agitate the viewer. This is not superstition—she is an unconscious
+  chi-cultivator who channels emotional energy into her ink. The Wei warlord has commissioned
+  her to write victory proclamations that inflame patriotism; she has realized the
+  proclamations are making citizens fanatically loyal and willing to die in battle.
+  She is horrified and has begun deliberately corrupting her chi-channeling to neutralize
   the effect, but this is causing her own emotional numbing.
 aliases: []
 race: Human
@@ -36,21 +37,25 @@ currency:
   gold: 3
   silver: 14
   copper: 19
-appearance: Refined and expressive, wearing flowing Wei-state blue robes. Often has ink on her sleeves
-  and jaw.
-biography: A calligrapher of extraordinary talent whose brushwork is said to carry chi that can calm or
-  agitate the viewer. This is not superstition—she is an unconscious chi-cultivator who channels emotional
-  energy into her ink. The Wei warlord has commissioned her to write victory proclamations that inflame
-  patriotism; she has realized the proclamations are making citizens fanatically loyal and willing to
-  die in battle. She is horrified and has begun deliberately corrupting her chi-channeling to neutralize
+appearance: Refined and expressive, wearing flowing Wei-state blue robes. Often has
+  ink on her sleeves and jaw.
+biography: A calligrapher of extraordinary talent whose brushwork is said to carry
+  chi that can calm or agitate the viewer. This is not superstition—she is an unconscious
+  chi-cultivator who channels emotional energy into her ink. The Wei warlord has commissioned
+  her to write victory proclamations that inflame patriotism; she has realized the
+  proclamations are making citizens fanatically loyal and willing to die in battle.
+  She is horrified and has begun deliberately corrupting her chi-channeling to neutralize
   the effect, but this is causing her own emotional numbing.
-personality: Composed and even-tempered, steadfast and devoted, guarded and cautious with trust.
+personality: Composed and even-tempered, steadfast and devoted, guarded and cautious
+  with trust.
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 - I will not rest until I create a work of pure beauty with no chi manipulation whatsoever.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-inner-ru
+  - item:womens-loose-undertrousers
   clothing:
   - item:straight-hem-shenyi
   armor: []
@@ -66,7 +71,15 @@ visual:
   distinctive_features:
   - permanent ink callus on the right middle finger
   - a fading scar on the left palm from a childhood accident with a knife
-  prompt: ''
+  prompt: 1girl, solo, adult woman, willowy, with long expressive hands, small breasts,
+    warm beige skin, strong Chinese facial features, bright and dark eyes, long black,
+    loosely pinned with a brush-rest stick hair, permanent ink callus on the right
+    middle finger, a fading scar on the left palm from a childhood accident with a
+    knife, straight-hem shenyi robe, wide embroidered sash, portrait, upper body,
+    looking at viewer, soft lighting
+  skin: warm beige
+  height: 5'3"
+  face: strong Chinese facial features
 image:
   url: ''
   focalPoint:
@@ -74,8 +87,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:wei-state
 desires:
@@ -86,6 +99,8 @@ fears_or_limits:
 - Someone discovering her ability and weaponizing it further
 current_state:
   location: location:jin-an
+memories: []
+momentos: []
 purview: []
 ---
 

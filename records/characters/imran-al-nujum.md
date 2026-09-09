@@ -1,15 +1,17 @@
 ---
 id: character:imran-al-nujum
 name: Imran al-Nujum
-gm_notes: A male astrologer and Tara's (character:tara-al-nujum) former student, now a rival. Imran discovered
-  independently that certain star alignments weaken djinn contracts temporarily, and he has been selling
-  this information to the highest bidder among the binding families. He does not know Tara can read true
-  names, but he has noticed that her star charts contain annotations he cannot explain — symbols that
-  correspond to no constellation he knows. He has been stealing glances at her charts during Academy meetings
-  and is close to deciphering the true-name notation system. If he succeeds, he will have the most dangerous
-  information in Al-Khayzar, and he has already shown he will sell anything to anyone. He is being followed
-  by a djinn in human form who he has not noticed, and the djinn is reporting his progress to its own
-  masters.
+gm_notes: A male astrologer and Tara's (character:tara-al-nujum) former student, now
+  a rival. Imran discovered independently that certain star alignments weaken djinn
+  contracts temporarily, and he has been selling this information to the highest bidder
+  among the binding families. He does not know Tara can read true names, but he has
+  noticed that her star charts contain annotations he cannot explain — symbols that
+  correspond to no constellation he knows. He has been stealing glances at her charts
+  during Academy meetings and is close to deciphering the true-name notation system.
+  If he succeeds, he will have the most dangerous information in Al-Khayzar, and he
+  has already shown he will sell anything to anyone. He is being followed by a djinn
+  in human form who he has not noticed, and the djinn is reporting his progress to
+  its own masters.
 aliases: []
 race: Human
 gender: Male
@@ -39,25 +41,31 @@ currency:
   gold: 11
   silver: 76
   copper: 39
-appearance: Smooth-faced and well-dressed in scholar's robes with too much silver jewelry, he carries
-  a brass telescope and a case of charts. He is handsome and knows it, and he speaks with the confidence
-  of a man who believes his intelligence makes him untouchable.
-biography: A male astrologer and Tara's (character:tara-al-nujum) former student, now a rival. Imran discovered
-  independently that certain star alignments weaken djinn contracts temporarily, and he has been selling
-  this information to the highest bidder among the binding families. He does not know Tara can read true
-  names, but he has noticed that her star charts contain annotations he cannot explain — symbols that
-  correspond to no constellation he knows. He has been stealing glances at her charts during Academy meetings
-  and is close to deciphering the true-name notation system. If he succeeds, he will have the most dangerous
-  information in Al-Khayzar, and he has already shown he will sell anything to anyone. He is being followed
-  by a djinn in human form who he has not noticed, and the djinn is reporting his progress to its own
-  masters.
+appearance: Smooth-faced and well-dressed in scholar's robes with too much silver
+  jewelry, he carries a brass telescope and a case of charts. He is handsome and knows
+  it, and he speaks with the confidence of a man who believes his intelligence makes
+  him untouchable.
+biography: A male astrologer and Tara's (character:tara-al-nujum) former student,
+  now a rival. Imran discovered independently that certain star alignments weaken
+  djinn contracts temporarily, and he has been selling this information to the highest
+  bidder among the binding families. He does not know Tara can read true names, but
+  he has noticed that her star charts contain annotations he cannot explain — symbols
+  that correspond to no constellation he knows. He has been stealing glances at her
+  charts during Academy meetings and is close to deciphering the true-name notation
+  system. If he succeeds, he will have the most dangerous information in Al-Khayzar,
+  and he has already shown he will sell anything to anyone. He is being followed by
+  a djinn in human form who he has not noticed, and the djinn is reporting his progress
+  to its own masters.
 personality: Guarded and cautious with trust.
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
-- I will not rest until I decipher tara's notation system and gain access to djinn true names.
+- I will not rest until I decipher tara's notation system and gain access to djinn
+  true names.
 equipment:
-  underwear: []
+  underwear:
+  - item:mens-light-linen-undershirt
+  - item:mens-cotton-loin-underwrap
   clothing:
   - item:crossover-desert-robe
   armor: []
@@ -73,7 +81,14 @@ visual:
   distinctive_features:
   - a silver star earring in the left ear
   - ink stains on the right cuff from chart work
-  prompt: ''
+  prompt: 1man, solo, adult man, slender, precise, narrow chest, light golden olive
+    skin, striking West Asian facial features, strong dark brows, dark brown eyes,
+    black, oiled, immaculately kept hair, a silver star earring in the left ear, ink
+    stains on the right cuff from chart work, crossover desert robe, embroidered borders,
+    portrait, upper body, looking at viewer, soft lighting
+  skin: light golden olive
+  height: 5'9"
+  face: striking West Asian facial features, strong dark brows
 image:
   url: ''
   focalPoint:
@@ -81,8 +96,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:alk-scholar-circle
 desires:
@@ -93,6 +108,8 @@ fears_or_limits:
 - That Tara will discover his theft of her annotations and expose him before the Academy
 current_state:
   location: location:zaffar
+memories: []
+momentos: []
 purview: []
 ---
 

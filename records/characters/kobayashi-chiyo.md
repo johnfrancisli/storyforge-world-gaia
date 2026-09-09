@@ -1,13 +1,14 @@
 ---
 id: character:kobayashi-chiyo
 name: Kobayashi Chiyo
-gm_notes: Chiyo can see and speak with spirits that adults cannot — a gift that most children lose by
-  puberty but which has persisted in her. She has befriended a kitsune cub that lives in the shrine grove,
-  and the cub has told her that the 'big bright lines' under the ground are getting thin. She doesn't
-  understand that this means the shrine network's ley lines are failing. She repeats this information
-  to her friend Kenta (character:arakawa-kenta) as if it's a game. She has also mentioned seeing a 'tall
-  shadow with too many eyes' near the old sealed stone — the same creature Obaba Kiku (character:matsuda-kiku)
-  has been warning about.
+gm_notes: Chiyo can see and speak with spirits that adults cannot — a gift that most
+  children lose by puberty but which has persisted in her. She has befriended a kitsune
+  cub that lives in the shrine grove, and the cub has told her that the 'big bright
+  lines' under the ground are getting thin. She doesn't understand that this means
+  the shrine network's ley lines are failing. She repeats this information to her
+  friend Kenta (character:arakawa-kenta) as if it's a game. She has also mentioned
+  seeing a 'tall shadow with too many eyes' near the old sealed stone — the same creature
+  Obaba Kiku (character:matsuda-kiku) has been warning about.
 aliases:
 - Chiyo
 race: Human
@@ -38,23 +39,27 @@ currency:
   gold: 0
   silver: 0
   copper: 2
-appearance: She wears a bright cotton kimono with a sash that's coming undone and geta sandals that clack
-  on the stone paths. She carries a cloth bag full of acorns and interesting stones. Her hair is escaping
-  its ties, and she has grass stains on her knees.
-biography: Chiyo can see and speak with spirits that adults cannot — a gift that most children lose by
-  puberty but which has persisted in her. She has befriended a kitsune cub that lives in the shrine grove,
-  and the cub has told her that the 'big bright lines' under the ground are getting thin. She doesn't
-  understand that this means the shrine network's ley lines are failing. She repeats this information
-  to her friend Kenta (character:arakawa-kenta) as if it's a game. She has also mentioned seeing a 'tall
-  shadow with too many eyes' near the old sealed stone — the same creature Obaba Kiku (character:matsuda-kiku)
-  has been warning about.
+appearance: She wears a bright cotton kimono with a sash that's coming undone and
+  geta sandals that clack on the stone paths. She carries a cloth bag full of acorns
+  and interesting stones. Her hair is escaping its ties, and she has grass stains
+  on her knees.
+biography: Chiyo can see and speak with spirits that adults cannot — a gift that most
+  children lose by puberty but which has persisted in her. She has befriended a kitsune
+  cub that lives in the shrine grove, and the cub has told her that the 'big bright
+  lines' under the ground are getting thin. She doesn't understand that this means
+  the shrine network's ley lines are failing. She repeats this information to her
+  friend Kenta (character:arakawa-kenta) as if it's a game. She has also mentioned
+  seeing a 'tall shadow with too many eyes' near the old sealed stone — the same creature
+  Obaba Kiku (character:matsuda-kiku) has been warning about.
 personality: Warm and optimistic, inquisitive and eager to learn.
 key_phrases:
 - I'm not afraid. I'm just... careful.
 - When you're small, you learn to notice things.
 - I will not rest until I show me friends the kitsune cub in the grove before it disappears.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-hadajuban
+  - item:womens-koshimaki
   clothing:
   - item:hemp-work-kosode
   armor: []
@@ -68,7 +73,13 @@ visual:
   hair: black, unruly, half-tied
   eyes: dark brown, bright
   distinctive_features: a missing front tooth
-  prompt: ''
+  prompt: 1girl, solo, young girl, small, wiry, energetic, weathered sun-browned skin,
+    traditional Japanese facial features, dark brown eyes, black, unruly, half-tied
+    hair, a missing front tooth, indigo hemp work kosode, portrait, upper body, looking
+    at viewer, soft lighting
+  skin: weathered sun-browned
+  height: 4'3"
+  face: traditional Japanese facial features
 image:
   url: ''
   focalPoint:
@@ -76,20 +87,22 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:ashikara-shogunate
 desires:
 - To show her friends the kitsune cub in the grove before it disappears.
 - To find out what the tall shadow is and whether it's friendly.
 fears_or_limits:
-- Adults don't believe her about the things she sees, and she's starting to wonder if something is wrong
-  with her.
-- The kitsune cub told her not to go near the sealed stone, and she's both scared and desperately curious
-  about it.
+- Adults don't believe her about the things she sees, and she's starting to wonder
+  if something is wrong with her.
+- The kitsune cub told her not to go near the sealed stone, and she's both scared
+  and desperately curious about it.
 current_state:
   location: location:haru-shrine-town
+memories: []
+momentos: []
 purview: []
 ---
 

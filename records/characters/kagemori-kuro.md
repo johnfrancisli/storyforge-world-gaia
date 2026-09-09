@@ -1,10 +1,11 @@
 ---
 id: character:kagemori-kuro
 name: Kagemori Kuro
-gm_notes: Kuro is a cat-folk thief who specializes in stealing from the wealthy districts of Tsuki-no-Miyako.
-  He is not a revolutionary — he steals for profit and the thrill. However, he accidentally stole a document
-  from a daimyo's estate that contains evidence of Takeda's coalition plans. He does not understand what
-  he has, but Takeda's agents are looking for it, and for him. He has gone to ground in the merchant district.
+gm_notes: Kuro is a cat-folk thief who specializes in stealing from the wealthy districts
+  of Tsuki-no-Miyako. He is not a revolutionary — he steals for profit and the thrill.
+  However, he accidentally stole a document from a daimyo's estate that contains evidence
+  of Takeda's coalition plans. He does not understand what he has, but Takeda's agents
+  are looking for it, and for him. He has gone to ground in the merchant district.
 aliases:
 - Kuro the Smoke
 race: Nekomata
@@ -36,19 +37,22 @@ currency:
   gold: 4
   silver: 4
   copper: 6
-appearance: A lean cat-folk man in dark, close-fitting clothes, his ears flat and his tail curled tight
-  — the posture of someone who is used to being hunted. He moves through crowds like water. His eyes catch
-  light in the dark.
-biography: Kuro is a cat-folk thief who specializes in stealing from the wealthy districts of Tsuki-no-Miyako.
-  He is not a revolutionary — he steals for profit and the thrill. However, he accidentally stole a document
-  from a daimyo's estate that contains evidence of Takeda's coalition plans. He does not understand what
-  he has, but Takeda's agents are looking for it, and for him. He has gone to ground in the merchant district.
+appearance: A lean cat-folk man in dark, close-fitting clothes, his ears flat and
+  his tail curled tight — the posture of someone who is used to being hunted. He moves
+  through crowds like water. His eyes catch light in the dark.
+biography: Kuro is a cat-folk thief who specializes in stealing from the wealthy districts
+  of Tsuki-no-Miyako. He is not a revolutionary — he steals for profit and the thrill.
+  However, he accidentally stole a document from a daimyo's estate that contains evidence
+  of Takeda's coalition plans. He does not understand what he has, but Takeda's agents
+  are looking for it, and for him. He has gone to ground in the merchant district.
 personality: Strict and disciplined, blunt and rough-spoken.
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 equipment:
-  underwear: []
+  underwear:
+  - item:mens-hadajuban
+  - item:mens-etchu-fundoshi
   clothing:
   - item:hemp-work-kosode
   armor: []
@@ -61,8 +65,16 @@ visual:
   body_build: lean, wiry, compact, narrow chest
   hair: black, short, messy
   eyes: green, slit-pupiled
-  distinctive_features: black cat ears, long black tail, a small chip in the left ear
-  prompt: ''
+  distinctive_features: black cat ears, long black tail, a small chip in the left
+    ear
+  prompt: 1boy, solo, young adult man, cat yokai, feline cat ears, cat tail, slit
+    pupils, lean, wiry, compact, narrow chest, warm fair beige skin, Japanese facial
+    features with feline eyes and cat ears, green eyes, black, short, messy hair,
+    black cat ears, long black tail, a small chip in the left ear, indigo hemp work
+    kosode, portrait, upper body, looking at viewer, soft lighting
+  skin: warm fair beige
+  height: 5'6"
+  face: Japanese facial features with feline eyes and cat ears
 image:
   url: ''
   focalPoint:
@@ -70,19 +82,21 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:tsu-merchant-guild
 desires:
-- To survive the current situation and find a buyer for the document he stole — which he thinks is valuable
-  but does not understand.
+- To survive the current situation and find a buyer for the document he stole — which
+  he thinks is valuable but does not understand.
 - To get out of Tsuki-no-Miyako before whoever is looking for him finds him.
 fears_or_limits:
-- He is being hunted by Takeda's agents and does not know why the document matters. He has no combat skills
-  beyond running and climbing. He cannot go to the authorities.
+- He is being hunted by Takeda's agents and does not know why the document matters.
+  He has no combat skills beyond running and climbing. He cannot go to the authorities.
 current_state:
   location: location:tsuki-no-miyako
+memories: []
+momentos: []
 purview: []
 ---
 

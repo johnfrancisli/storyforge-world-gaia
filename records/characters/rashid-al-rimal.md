@@ -1,12 +1,14 @@
 ---
 id: character:rashid-al-rimal
 name: Rashid al-Rimal
-gm_notes: Rashid knows the deep desert better than anyone alive — the routes between oases that do not
-  appear on maps, the places where the sand shifts and the Old Road fragments surface after storms. He
-  has found a working fragment of the Old Road in the deep desert — a short stretch, maybe two hours of
-  walking, that connects the Mirror Oasis to a point near the Verdania border. He has not told anyone
-  because a working Old Road fragment is the most valuable secret in Gaia, and he is deciding who to sell
-  it to. He is also slightly frightened of it, because the fragment hums, and the hum sounds like a voice.
+gm_notes: Rashid knows the deep desert better than anyone alive — the routes between
+  oases that do not appear on maps, the places where the sand shifts and the Old Road
+  fragments surface after storms. He has found a working fragment of the Old Road
+  in the deep desert — a short stretch, maybe two hours of walking, that connects
+  the Mirror Oasis to a point near the Verdania border. He has not told anyone because
+  a working Old Road fragment is the most valuable secret in Gaia, and he is deciding
+  who to sell it to. He is also slightly frightened of it, because the fragment hums,
+  and the hum sounds like a voice.
 aliases:
 - Rashid the Sand-walker
 race: Human
@@ -37,24 +39,29 @@ currency:
   gold: 0
   silver: 16
   copper: 21
-appearance: A lean, weathered man in desert robes — sun-bleached and sand-worn, wrapped against the heat.
-  His face is deeply lined and his eyes are narrowed against a sun that is no longer there. He carries
-  a waterskin and a staff and moves through sand as if it were pavement.
-biography: Rashid knows the deep desert better than anyone alive — the routes between oases that do not
-  appear on maps, the places where the sand shifts and the Old Road fragments surface after storms. He
-  has found a working fragment of the Old Road in the deep desert — a short stretch, maybe two hours of
-  walking, that connects the Mirror Oasis to a point near the Verdania border. He has not told anyone
-  because a working Old Road fragment is the most valuable secret in Gaia, and he is deciding who to sell
-  it to. He is also slightly frightened of it, because the fragment hums, and the hum sounds like a voice.
-personality: Reserved and soft-spoken, tired and carrying a heavy burden, guarded and cautious with trust.
+appearance: A lean, weathered man in desert robes — sun-bleached and sand-worn, wrapped
+  against the heat. His face is deeply lined and his eyes are narrowed against a sun
+  that is no longer there. He carries a waterskin and a staff and moves through sand
+  as if it were pavement.
+biography: Rashid knows the deep desert better than anyone alive — the routes between
+  oases that do not appear on maps, the places where the sand shifts and the Old Road
+  fragments surface after storms. He has found a working fragment of the Old Road
+  in the deep desert — a short stretch, maybe two hours of walking, that connects
+  the Mirror Oasis to a point near the Verdania border. He has not told anyone because
+  a working Old Road fragment is the most valuable secret in Gaia, and he is deciding
+  who to sell it to. He is also slightly frightened of it, because the fragment hums,
+  and the hum sounds like a voice.
+personality: Reserved and soft-spoken, tired and carrying a heavy burden, guarded
+  and cautious with trust.
 key_phrases:
 - The path exists whether or not you can see it.
 - Knowing where you are is not the same as knowing where you're going.
 equipment:
-  underwear: []
+  underwear:
+  - item:mens-light-linen-undershirt
+  - item:mens-cotton-loin-underwrap
   clothing:
-  - item:knee-length-pirahan
-  - item:bound-ankle-desert-trousers
+  - item:crossover-desert-robe
   armor: []
   hands:
     left: null
@@ -66,9 +73,15 @@ visual:
   skin: deeply tanned, wind-weathered
   hair: black, greying, wrapped in a desert headwrap
   eyes: dark brown, permanently narrowed
-  distinctive_features: sun-wrinkles deep around the eyes, a sand-scar on the left cheek from a dust storm,
-    a tattoo of a compass rose on the right forearm
-  prompt: ''
+  distinctive_features: sun-wrinkles deep around the eyes, a sand-scar on the left
+    cheek from a dust storm, a tattoo of a compass rose on the right forearm
+  prompt: 1boy, solo, young adult man, lean, wiry, endurance-built, narrow chest,
+    deeply tanned, wind-weathered skin, striking West Asian facial features, strong
+    dark brows, dark brown eyes, black, greying, wrapped in a desert headwrap hair,
+    knee-length pirahan shirt, bound-ankle desert trousers, portrait, upper body,
+    looking at viewer, soft lighting
+  height: 5'9"
+  face: striking West Asian facial features, strong dark brows
 image:
   url: ''
   focalPoint:
@@ -76,18 +89,23 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:alk-caravan-companies
 desires:
-- To sell his knowledge of the working Old Road fragment to the right person for the right price.
-- To understand why the fragment hums like a voice, which is not how Old Roads are supposed to behave.
+- To sell his knowledge of the working Old Road fragment to the right person for the
+  right price.
+- To understand why the fragment hums like a voice, which is not how Old Roads are
+  supposed to behave.
 fears_or_limits:
-- A working Old Road fragment is the most valuable secret in Gaia, and everyone he tells becomes a threat
-  or a competitor. The hum frightens him — Old Roads are silent, and this one is not.
+- A working Old Road fragment is the most valuable secret in Gaia, and everyone he
+  tells becomes a threat or a competitor. The hum frightens him — Old Roads are silent,
+  and this one is not.
 current_state:
   location: location:al-khayzar
+memories: []
+momentos: []
 purview: []
 ---
 

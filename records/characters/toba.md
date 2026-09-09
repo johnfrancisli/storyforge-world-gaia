@@ -1,14 +1,16 @@
 ---
 id: character:toba
 name: Toba
-gm_notes: 'A Mizuhito fisher who provides much of Iara''s daily catch and who has an extraordinary ability
-  to predict where fish will be on any given day. His secret: he has been fishing a stretch of river that
-  is technically claimed by a neighboring tribe, crossing the territorial boundary regularly because the
-  fish there are larger and more plentiful. He has been careful, but a border patrol from the neighboring
-  tribe caught his empty nets last week and reported them to their chief. Toba does not know this yet.
-  The territorial dispute between the two tribes has been peaceful but tense for years, and his poaching
-  — if discovered publicly — could reignite a conflict that the council has spent a decade preventing.
-  He has been weighing whether to confess voluntarily and accept punishment or to hope the nets were not
+gm_notes: 'A Mizuhito fisher who provides much of Iara''s daily catch and who has
+  an extraordinary ability to predict where fish will be on any given day. His secret:
+  he has been fishing a stretch of river that is technically claimed by a neighboring
+  tribe, crossing the territorial boundary regularly because the fish there are larger
+  and more plentiful. He has been careful, but a border patrol from the neighboring
+  tribe caught his empty nets last week and reported them to their chief. Toba does
+  not know this yet. The territorial dispute between the two tribes has been peaceful
+  but tense for years, and his poaching — if discovered publicly — could reignite
+  a conflict that the council has spent a decade preventing. He has been weighing
+  whether to confess voluntarily and accept punishment or to hope the nets were not
   traced to him.'
 aliases: []
 race: Mizuhito
@@ -40,26 +42,32 @@ currency:
   gold: 4
   silver: 17
   copper: 19
-appearance: Compact and waterproof-looking, perpetually in a state of half-dryness. Wears a net-scarf
-  and a fishing spear. His canoe is low and fast.
-biography: 'A Mizuhito fisher who provides much of Iara''s daily catch and who has an extraordinary ability
-  to predict where fish will be on any given day. His secret: he has been fishing a stretch of river that
-  is technically claimed by a neighboring tribe, crossing the territorial boundary regularly because the
-  fish there are larger and more plentiful. He has been careful, but a border patrol from the neighboring
-  tribe caught his empty nets last week and reported them to their chief. Toba does not know this yet.
-  The territorial dispute between the two tribes has been peaceful but tense for years, and his poaching
-  — if discovered publicly — could reignite a conflict that the council has spent a decade preventing.
-  He has been weighing whether to confess voluntarily and accept punishment or to hope the nets were not
+appearance: Compact and waterproof-looking, perpetually in a state of half-dryness.
+  Wears a net-scarf and a fishing spear. His canoe is low and fast.
+biography: 'A Mizuhito fisher who provides much of Iara''s daily catch and who has
+  an extraordinary ability to predict where fish will be on any given day. His secret:
+  he has been fishing a stretch of river that is technically claimed by a neighboring
+  tribe, crossing the territorial boundary regularly because the fish there are larger
+  and more plentiful. He has been careful, but a border patrol from the neighboring
+  tribe caught his empty nets last week and reported them to their chief. Toba does
+  not know this yet. The territorial dispute between the two tribes has been peaceful
+  but tense for years, and his poaching — if discovered publicly — could reignite
+  a conflict that the council has spent a decade preventing. He has been weighing
+  whether to confess voluntarily and accept punishment or to hope the nets were not
   traced to him.'
-personality: Precise and detail-oriented, guarded and cautious with trust, carries a secret that shapes
-  every decision.
+personality: Precise and detail-oriented, guarded and cautious with trust, carries
+  a secret that shapes every decision.
 key_phrases:
 - The river gives and the river takes. You learn to accept both.
 - A bad day fishing is still a day on the water.
-- I will not rest until I keep providing for me family without crossing the territorial boundary.
+- I will not rest until I keep providing for me family without crossing the territorial
+  boundary.
 equipment:
-  underwear: []
-  clothing: []
+  underwear:
+  - item:mens-softbark-loin-underwrap
+  clothing:
+  - item:open-side-river-vest
+  - item:river-worker-split-wrap
   armor: []
   hands:
     left: null
@@ -74,7 +82,15 @@ visual:
   - blue-green skin with mottling along the forearms
   - webbed fingers and toes
   - a fish-spine scar embedded in the left palm, permanently raised
-  prompt: ''
+  prompt: 1boy, solo, young adult man, amphibious humanoid, webbed fingers and toes,
+    fine aquatic scales, compact and strong, broad from hauling nets, broad chest,
+    sun-darkened teal and blue-green skin, fine-scaled amphibious features, large
+    dark eyes, pale aquamarine eyes, dark green-blue, cropped close to the skull hair,
+    blue-green skin with mottling along the forearms, open-side river vest, river-worker
+    split wrap, portrait, upper body, looking at viewer, soft lighting
+  skin: sun-darkened teal and blue-green
+  height: 5'7"
+  face: fine-scaled amphibious features, large dark eyes
 image:
   url: ''
   focalPoint:
@@ -82,8 +98,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:ver-river-consortium
 desires:
@@ -94,6 +110,8 @@ fears_or_limits:
 - That the fish are plentiful in the disputed territory for a reason he does not understand
 current_state:
   location: location:iara
+memories: []
+momentos: []
 purview: []
 ---
 

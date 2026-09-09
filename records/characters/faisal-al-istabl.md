@@ -1,14 +1,16 @@
 ---
 id: character:faisal-al-istabl
 name: Faisal al-Istabl
-gm_notes: A male stable hand who tends the camels and horses of a binding family's estate. Faisal was
-  a caravan driver who lost his entire caravan to a djinn-fire ambush in the deep desert five years ago.
-  He survived because a djinn — the same one bound to the binding family he now serves — pulled him from
-  the flames. The djinn then told him, in a voice like cooling iron, 'I will call for you one day. Be
-  ready.' Faisal has been living in the binding family's stables ever since, waiting for the djinn's call,
-  working as a stable hand because it is the closest he can be to the family's lamp. He has heard the
-  djinn's voice twice more, always in dreams, always saying 'not yet.' He does not know what the djinn
-  will ask, but he knows he will not be able to refuse, and the waiting is slowly breaking him.
+gm_notes: A male stable hand who tends the camels and horses of a binding family's
+  estate. Faisal was a caravan driver who lost his entire caravan to a djinn-fire
+  ambush in the deep desert five years ago. He survived because a djinn — the same
+  one bound to the binding family he now serves — pulled him from the flames. The
+  djinn then told him, in a voice like cooling iron, 'I will call for you one day.
+  Be ready.' Faisal has been living in the binding family's stables ever since, waiting
+  for the djinn's call, working as a stable hand because it is the closest he can
+  be to the family's lamp. He has heard the djinn's voice twice more, always in dreams,
+  always saying 'not yet.' He does not know what the djinn will ask, but he knows
+  he will not be able to refuse, and the waiting is slowly breaking him.
 aliases: []
 race: Human
 gender: Male
@@ -38,24 +40,30 @@ currency:
   gold: 5
   silver: 7
   copper: 28
-appearance: Quiet and scarred in stable clothes, his hands rough from grooming and mucking. He moves among
-  the animals with the gentleness of someone who finds peace in their company. He rarely speaks above
-  a murmur and startles at sudden sounds.
-biography: A male stable hand who tends the camels and horses of a binding family's estate. Faisal was
-  a caravan driver who lost his entire caravan to a djinn-fire ambush in the deep desert five years ago.
-  He survived because a djinn — the same one bound to the binding family he now serves — pulled him from
-  the flames. The djinn then told him, in a voice like cooling iron, 'I will call for you one day. Be
-  ready.' Faisal has been living in the binding family's stables ever since, waiting for the djinn's call,
-  working as a stable hand because it is the closest he can be to the family's lamp. He has heard the
-  djinn's voice twice more, always in dreams, always saying 'not yet.' He does not know what the djinn
-  will ask, but he knows he will not be able to refuse, and the waiting is slowly breaking him.
-personality: Reserved and soft-spoken, compassionate and tender-hearted, blunt and rough-spoken.
+appearance: Quiet and scarred in stable clothes, his hands rough from grooming and
+  mucking. He moves among the animals with the gentleness of someone who finds peace
+  in their company. He rarely speaks above a murmur and startles at sudden sounds.
+biography: A male stable hand who tends the camels and horses of a binding family's
+  estate. Faisal was a caravan driver who lost his entire caravan to a djinn-fire
+  ambush in the deep desert five years ago. He survived because a djinn — the same
+  one bound to the binding family he now serves — pulled him from the flames. The
+  djinn then told him, in a voice like cooling iron, 'I will call for you one day.
+  Be ready.' Faisal has been living in the binding family's stables ever since, waiting
+  for the djinn's call, working as a stable hand because it is the closest he can
+  be to the family's lamp. He has heard the djinn's voice twice more, always in dreams,
+  always saying 'not yet.' He does not know what the djinn will ask, but he knows
+  he will not be able to refuse, and the waiting is slowly breaking him.
+personality: Reserved and soft-spoken, compassionate and tender-hearted, blunt and
+  rough-spoken.
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
-- I will not rest until I learn what the djinn will ask of him and whether he can prepare for it.
+- I will not rest until I learn what the djinn will ask of him and whether he can
+  prepare for it.
 equipment:
-  underwear: []
+  underwear:
+  - item:mens-light-linen-undershirt
+  - item:mens-cotton-loin-underwrap
   clothing:
   - item:knee-length-pirahan
   - item:bound-ankle-desert-trousers
@@ -72,7 +80,14 @@ visual:
   distinctive_features:
   - extensive burn scarring on the left arm and shoulder from the djinn-fire ambush
   - a permanent tremor in the left hand
-  prompt: ''
+  prompt: 1man, solo, adult man, lean, weathered, narrow chest, light golden olive
+    skin, striking West Asian facial features, strong dark brows, brown eyes, black,
+    thinning, cropped short hair, a permanent tremor in the left hand, knee-length
+    pirahan shirt, bound-ankle desert trousers, portrait, upper body, looking at viewer,
+    soft lighting
+  skin: light golden olive
+  height: 5'9"
+  face: striking West Asian facial features, strong dark brows
 image:
   url: ''
   focalPoint:
@@ -80,19 +95,23 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:binding-families
 desires:
 - To learn what the djinn will ask of him and whether he can prepare for it
-- To find peace — to stop waiting for a call that may never come, or to answer it and be done
+- To find peace — to stop waiting for a call that may never come, or to answer it
+  and be done
 fears_or_limits:
-- That the djinn's request will require him to betray the binding family that shelters him
-- That the waiting is itself the price — that the djinn is feeding on his anticipation and will never
-  actually call
+- That the djinn's request will require him to betray the binding family that shelters
+  him
+- That the waiting is itself the price — that the djinn is feeding on his anticipation
+  and will never actually call
 current_state:
   location: location:zaffar
+memories: []
+momentos: []
 purview: []
 ---
 

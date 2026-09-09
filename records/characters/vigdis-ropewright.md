@@ -1,14 +1,15 @@
 ---
 id: character:vigdis-ropewright
 name: Vigdis Ropewright
-gm_notes: 'Vigdis makes rope — anchor rope, fishing line, rigging, and the heavy hawsers that moor longships.
-  Her secret: she is in love with Gerd Hallvarsdottir, the jarl''s sister, and they have been meeting
-  in secret for three years. Vigdis is content with secrecy — she is a craftswoman, not a politician,
-  and she does not need public recognition. But she has noticed that Gerd is growing more anxious, and
-  Vigdis fears that the strain of hiding is hurting Gerd more than the revelation would. Vigdis has also
-  been asked, twice, by a jarl''s retainer whether she would be interested in marriage — and she has deflected
-  both times, but a third deflection will raise questions she cannot answer without either lying or exposing
-  the truth.'
+gm_notes: 'Vigdis makes rope — anchor rope, fishing line, rigging, and the heavy hawsers
+  that moor longships. Her secret: she is in love with Gerd Hallvarsdottir, the jarl''s
+  sister, and they have been meeting in secret for three years. Vigdis is content
+  with secrecy — she is a craftswoman, not a politician, and she does not need public
+  recognition. But she has noticed that Gerd is growing more anxious, and Vigdis fears
+  that the strain of hiding is hurting Gerd more than the revelation would. Vigdis
+  has also been asked, twice, by a jarl''s retainer whether she would be interested
+  in marriage — and she has deflected both times, but a third deflection will raise
+  questions she cannot answer without either lying or exposing the truth.'
 aliases: []
 race: Human
 gender: Female
@@ -38,27 +39,33 @@ currency:
   gold: 0
   silver: 11
   copper: 19
-appearance: Strong-armed and sun-roughened, Vigdis works at the ropewalk in a leather apron, her hands
-  moving in the constant twisting rhythm of her trade. She wears her hair short — it catches in the hemp
-  otherwise — and her forearms are roped with muscle and old friction-burns. She is quiet, with a dry
-  sense of humor that surfaces when she is comfortable.
-biography: 'Vigdis makes rope — anchor rope, fishing line, rigging, and the heavy hawsers that moor longships.
-  Her secret: she is in love with Gerd Hallvarsdottir, the jarl''s sister, and they have been meeting
-  in secret for three years. Vigdis is content with secrecy — she is a craftswoman, not a politician,
-  and she does not need public recognition. But she has noticed that Gerd is growing more anxious, and
-  Vigdis fears that the strain of hiding is hurting Gerd more than the revelation would. Vigdis has also
-  been asked, twice, by a jarl''s retainer whether she would be interested in marriage — and she has deflected
-  both times, but a third deflection will raise questions she cannot answer without either lying or exposing
-  the truth.'
-personality: Reserved and soft-spoken, wary and watchful, guarded and cautious with trust.
+appearance: Strong-armed and sun-roughened, Vigdis works at the ropewalk in a leather
+  apron, her hands moving in the constant twisting rhythm of her trade. She wears
+  her hair short — it catches in the hemp otherwise — and her forearms are roped with
+  muscle and old friction-burns. She is quiet, with a dry sense of humor that surfaces
+  when she is comfortable.
+biography: 'Vigdis makes rope — anchor rope, fishing line, rigging, and the heavy
+  hawsers that moor longships. Her secret: she is in love with Gerd Hallvarsdottir,
+  the jarl''s sister, and they have been meeting in secret for three years. Vigdis
+  is content with secrecy — she is a craftswoman, not a politician, and she does not
+  need public recognition. But she has noticed that Gerd is growing more anxious,
+  and Vigdis fears that the strain of hiding is hurting Gerd more than the revelation
+  would. Vigdis has also been asked, twice, by a jarl''s retainer whether she would
+  be interested in marriage — and she has deflected both times, but a third deflection
+  will raise questions she cannot answer without either lying or exposing the truth.'
+personality: Reserved and soft-spoken, wary and watchful, guarded and cautious with
+  trust.
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-wool-underdress
+  - item:womens-wool-undertrousers
   clothing:
   - item:wool-overtunic
   - item:wool-trousers
+  - item:wrapped-work-apron
   armor: []
   hands:
     left: null
@@ -69,9 +76,15 @@ visual:
   body_build: medium height, powerful arms and shoulders, medium breasts
   hair: dark brown, cropped short
   eyes: warm hazel
-  distinctive_features: rope-burn scars on both forearms in overlapping patterns, a missing tip of her
-    right ring finger (caught in a winch)
-  prompt: ''
+  distinctive_features: rope-burn scars on both forearms in overlapping patterns,
+    a missing tip of her right ring finger (caught in a winch)
+  prompt: 1girl, solo, adult woman, medium height, powerful arms and shoulders, medium
+    breasts, fair pink-beige skin, strong, weather-hardened Norse facial features,
+    warm hazel eyes, dark brown, cropped short hair, wool overtunic, leather belt,
+    wool trousers, portrait, upper body, looking at viewer, soft lighting
+  skin: fair pink-beige
+  height: 5'8"
+  face: strong, weather-hardened Norse facial features
 image:
   url: ''
   focalPoint:
@@ -79,18 +92,23 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:hra-shipwright-brotherhood
 desires:
-- to be with Gerd openly, or at least without the fear that secrecy is slowly poisoning them both
-- to make a rope strong enough to moor the largest longship ever built — a rope that will never snap
+- to be with Gerd openly, or at least without the fear that secrecy is slowly poisoning
+  them both
+- to make a rope strong enough to moor the largest longship ever built — a rope that
+  will never snap
 fears_or_limits:
 - that a third marriage proposal will force a public answer that endangers Gerd
-- that she is asking Gerd to choose between family and love, and that is not a fair thing to ask
+- that she is asking Gerd to choose between family and love, and that is not a fair
+  thing to ask
 current_state:
   location: location:skaldvik
+memories: []
+momentos: []
 purview: []
 ---
 

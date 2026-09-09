@@ -145,7 +145,7 @@ def test_table_with_wiki_link():
 
 
 def test_valid_types_set():
-    expected = {'character', 'location', 'organization', 'thread', 'item', 'relationship', 'lore', 'org'}
+    expected = {'character', 'location', 'organization', 'thread', 'item', 'relationship', 'lore', 'org', 'experience', 'campaign-event', 'event'}
     assert VALID_TYPES == expected, f"VALID_TYPES mismatch: {VALID_TYPES} vs {expected}"
     print("PASS: test_valid_types_set")
 

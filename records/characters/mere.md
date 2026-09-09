@@ -1,14 +1,16 @@
 ---
 id: character:mere
 name: Mere
-gm_notes: 'Mere is the cook who feeds the great meeting house on Lani Atoll, and her preserved foods —
-  smoked fish, fermented breadfruit, dried sea-vegetable — keep the atoll fed through the storm season
-  when no canoe can sail. She has a secret store beneath the meeting house: enough preserved food to feed
-  five hundred people for three months, far more than Lani Atoll needs. She has been building this store
-  for eight years, since she first heard a wayfinder describe how fast the seas were rising. She has told
-  no one because she fears that if the chiefs knew, they would redistribute the food now rather than saving
-  it, and she believes the crisis she is preparing for is not a bad storm season but the year the sea
-  takes three islands at once. Her husband thinks she is hoarding out of anxiety. She is. She is also
+gm_notes: 'Mere is the cook who feeds the great meeting house on Lani Atoll, and her
+  preserved foods — smoked fish, fermented breadfruit, dried sea-vegetable — keep
+  the atoll fed through the storm season when no canoe can sail. She has a secret
+  store beneath the meeting house: enough preserved food to feed five hundred people
+  for three months, far more than Lani Atoll needs. She has been building this store
+  for eight years, since she first heard a wayfinder describe how fast the seas were
+  rising. She has told no one because she fears that if the chiefs knew, they would
+  redistribute the food now rather than saving it, and she believes the crisis she
+  is preparing for is not a bad storm season but the year the sea takes three islands
+  at once. Her husband thinks she is hoarding out of anxiety. She is. She is also
   right.'
 aliases: []
 race: Human
@@ -39,24 +41,32 @@ currency:
   gold: 4
   silver: 13
   copper: 14
-appearance: A broad, solid woman with flour-dusted hands and a permanent smell of woodsmoke. She moves
-  efficiently between cooking pits and drying racks, always checking, always preparing.
-biography: 'Mere is the cook who feeds the great meeting house on Lani Atoll, and her preserved foods
-  — smoked fish, fermented breadfruit, dried sea-vegetable — keep the atoll fed through the storm season
-  when no canoe can sail. She has a secret store beneath the meeting house: enough preserved food to feed
-  five hundred people for three months, far more than Lani Atoll needs. She has been building this store
-  for eight years, since she first heard a wayfinder describe how fast the seas were rising. She has told
-  no one because she fears that if the chiefs knew, they would redistribute the food now rather than saving
-  it, and she believes the crisis she is preparing for is not a bad storm season but the year the sea
-  takes three islands at once. Her husband thinks she is hoarding out of anxiety. She is. She is also
+appearance: A broad, solid woman with flour-dusted hands and a permanent smell of
+  woodsmoke. She moves efficiently between cooking pits and drying racks, always checking,
+  always preparing.
+biography: 'Mere is the cook who feeds the great meeting house on Lani Atoll, and
+  her preserved foods — smoked fish, fermented breadfruit, dried sea-vegetable — keep
+  the atoll fed through the storm season when no canoe can sail. She has a secret
+  store beneath the meeting house: enough preserved food to feed five hundred people
+  for three months, far more than Lani Atoll needs. She has been building this store
+  for eight years, since she first heard a wayfinder describe how fast the seas were
+  rising. She has told no one because she fears that if the chiefs knew, they would
+  redistribute the food now rather than saving it, and she believes the crisis she
+  is preparing for is not a bad storm season but the year the sea takes three islands
+  at once. Her husband thinks she is hoarding out of anxiety. She is. She is also
   right.'
-personality: Reserved and soft-spoken, guarded and cautious with trust, blunt and rough-spoken.
+personality: Reserved and soft-spoken, guarded and cautious with trust, blunt and
+  rough-spoken.
 key_phrases:
 - Food is love made edible.
 - A good cook feeds the body. A great cook feeds the soul.
 equipment:
-  underwear: []
-  clothing: []
+  underwear:
+  - item:womens-woven-support-band
+  - item:womens-inner-pau-wrap
+  clothing:
+  - item:open-sided-island-tunic
+  - item:pau-wrap-skirt
   armor: []
   hands:
     left: null
@@ -68,9 +78,16 @@ visual:
   skin: medium brown, smoke-darkened at the hands and forearms
   hair: black, greying, tied under a cloth wrap
   eyes: dark brown, watchful
-  distinctive_features: smoke-darkened staining on both hands and forearms, a cloth wrap always worn over
-    the hair, keys to the storehouse worn on a cord around the neck
-  prompt: ''
+  distinctive_features: smoke-darkened staining on both hands and forearms, a cloth
+    wrap always worn over the hair, keys to the storehouse worn on a cord around the
+    neck
+  prompt: 1girl, solo, adult woman, broad, solid, thick-armed, small breasts, medium
+    brown, smoke-darkened at the hands and forearms skin, Polynesian maritime facial
+    features, warm expressive eyes, dark brown eyes, black, greying, tied under a
+    cloth wrap hair, open-sided island tunic, printed pau wrap skirt, portrait, upper
+    body, looking at viewer, soft lighting
+  height: 5'6"
+  face: Polynesian maritime facial features, warm expressive eyes
 image:
   url: ''
   focalPoint:
@@ -78,20 +95,23 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:wayfinder-guilds
 desires:
 - To complete the emergency food store before the catastrophe she senses is coming
-- To convince the chiefs to build a public reserve without revealing her own — so the food exists in two
-  places and cannot be lost
+- To convince the chiefs to build a public reserve without revealing her own — so
+  the food exists in two places and cannot be lost
 fears_or_limits:
-- That the chiefs will discover her store and take it for current needs, leaving nothing for the crisis
-- That the crisis will come before she has stored enough, and she will have to choose who eats and who
-  does not
+- That the chiefs will discover her store and take it for current needs, leaving nothing
+  for the crisis
+- That the crisis will come before she has stored enough, and she will have to choose
+  who eats and who does not
 current_state:
   location: location:lani-atoll
+memories: []
+momentos: []
 purview: []
 ---
 

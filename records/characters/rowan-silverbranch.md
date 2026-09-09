@@ -1,12 +1,13 @@
 ---
 id: character:rowan-silverbranch
 name: Rowan Silverbranch
-gm_notes: 'Rowan is an elf who has lived in the forest near Valdris for over two centuries. She remembers
-  the founding of the Dragon Order and knew the first dragon-bonded knights personally. She has been watching
-  the succession crisis with growing unease, because she knows a truth the Order has forgotten: the original
-  dragon bond was not a gift — it was a pact, and the terms of that pact included a promise that humans
-  would not use dragons in wars of conquest. She believes the current kingdom has broken that pact, and
-  the dragons'' growing restlessness is the consequence.'
+gm_notes: 'Rowan is an elf who has lived in the forest near Valdris for over two centuries.
+  She remembers the founding of the Dragon Order and knew the first dragon-bonded
+  knights personally. She has been watching the succession crisis with growing unease,
+  because she knows a truth the Order has forgotten: the original dragon bond was
+  not a gift — it was a pact, and the terms of that pact included a promise that humans
+  would not use dragons in wars of conquest. She believes the current kingdom has
+  broken that pact, and the dragons'' growing restlessness is the consequence.'
 aliases: []
 race: Elf
 gender: Female
@@ -37,24 +38,26 @@ currency:
   gold: 5
   silver: 14
   copper: 16
-appearance: Tall and ageless, Rowan wears simple robes of forest green and walks barefoot regardless of
-  season. Her hair is silver and impossibly long, and her eyes hold a depth that unnerves those who meet
-  them.
-biography: 'Rowan is an elf who has lived in the forest near Valdris for over two centuries. She remembers
-  the founding of the Dragon Order and knew the first dragon-bonded knights personally. She has been watching
-  the succession crisis with growing unease, because she knows a truth the Order has forgotten: the original
-  dragon bond was not a gift — it was a pact, and the terms of that pact included a promise that humans
-  would not use dragons in wars of conquest. She believes the current kingdom has broken that pact, and
-  the dragons'' growing restlessness is the consequence.'
+appearance: Tall and ageless, Rowan wears simple robes of forest green and walks barefoot
+  regardless of season. Her hair is silver and impossibly long, and her eyes hold
+  a depth that unnerves those who meet them.
+biography: 'Rowan is an elf who has lived in the forest near Valdris for over two
+  centuries. She remembers the founding of the Dragon Order and knew the first dragon-bonded
+  knights personally. She has been watching the succession crisis with growing unease,
+  because she knows a truth the Order has forgotten: the original dragon bond was
+  not a gift — it was a pact, and the terms of that pact included a promise that humans
+  would not use dragons in wars of conquest. She believes the current kingdom has
+  broken that pact, and the dragons'' growing restlessness is the consequence.'
 personality: Composed and even-tempered, perceptive and watchful, grounded and sensible.
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-linen-chemise
+  - item:womens-linen-underbreeches
   clothing:
-  - item:elven-forest-tunic
-  - item:elven-fitted-leggings
+  - item:travel-robe
   armor: []
   hands:
     left: null
@@ -65,9 +68,15 @@ visual:
   body_build: tall and slender, elven, small breasts
   hair: silver, waist-length, loose
   eyes: emerald green
-  distinctive_features: pronounced pointed ears, faint luminous quality to her skin in moonlight, bare
-    feet with soles hardened like leather
-  prompt: ''
+  distinctive_features: pronounced pointed ears, faint luminous quality to her skin
+    in moonlight, bare feet with soles hardened like leather
+  prompt: 1girl, solo, elderly woman, elf, pointed ears, tall and slender, elven,
+    small breasts, light beige skin, symmetrical, elegant elven features, emerald
+    green eyes, silver, waist-length, loose hair, elven forest work tunic, fitted
+    leather leggings, portrait, upper body, looking at viewer, soft lighting
+  skin: light beige
+  height: 5'7"
+  face: symmetrical, elegant elven features, pointed ears
 image:
   url: ''
   focalPoint:
@@ -75,18 +84,22 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:dragon-order
 desires:
-- to make someone in power understand the ancient pact before the dragons turn against the kingdom
+- to make someone in power understand the ancient pact before the dragons turn against
+  the kingdom
 - to preserve the forest and its ancient places from expansion
 fears_or_limits:
 - that the pact has already been broken beyond repair and the dragons' wrath is inevitable
-- that her long isolation has made her unable to communicate effectively with humans in time
+- that her long isolation has made her unable to communicate effectively with humans
+  in time
 current_state:
   location: location:valdris
+memories: []
+momentos: []
 purview: []
 ---
 

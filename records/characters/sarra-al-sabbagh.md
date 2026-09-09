@@ -1,13 +1,15 @@
 ---
 id: character:sarra-al-sabbagh
 name: Sarra al-Sabbagh
-gm_notes: A master dyer who can produce colors no other dyer in Zaffar can replicate — specifically, a
-  blue so deep it appears to contain fire, which she calls 'djinn-blue.' The secret is that she uses water
-  from a hot spring deep in the desert that is heated by a sleeping djinn's ambient fire. She found the
-  spring as a teenager and has told no one its location. A binding family has been trying to reverse-engineer
-  her dye for a decade and has recently started buying up all the indigo in the market, trying to pressure
-  her into revealing her source. Sarra's teenage daughter has been asking questions about where her mother
-  disappears to on full moon nights, and Sarra is afraid she followed her last time.
+gm_notes: A master dyer who can produce colors no other dyer in Zaffar can replicate
+  — specifically, a blue so deep it appears to contain fire, which she calls 'djinn-blue.'
+  The secret is that she uses water from a hot spring deep in the desert that is heated
+  by a sleeping djinn's ambient fire. She found the spring as a teenager and has told
+  no one its location. A binding family has been trying to reverse-engineer her dye
+  for a decade and has recently started buying up all the indigo in the market, trying
+  to pressure her into revealing her source. Sarra's teenage daughter has been asking
+  questions about where her mother disappears to on full moon nights, and Sarra is
+  afraid she followed her last time.
 aliases: []
 race: Elf
 gender: Female
@@ -38,26 +40,33 @@ currency:
   gold: 4
   silver: 19
   copper: 5
-appearance: Sturdy and stained in a dyer's apron permanently marked with every color she has ever mixed.
-  Her forearms are dyed blue to the elbow, and she smells of mordant and indigo. She is boisterous and
-  loud in the market, the opposite of secretive in manner.
-biography: A master dyer who can produce colors no other dyer in Zaffar can replicate — specifically,
-  a blue so deep it appears to contain fire, which she calls 'djinn-blue.' The secret is that she uses
-  water from a hot spring deep in the desert that is heated by a sleeping djinn's ambient fire. She found
-  the spring as a teenager and has told no one its location. A binding family has been trying to reverse-engineer
-  her dye for a decade and has recently started buying up all the indigo in the market, trying to pressure
-  her into revealing her source. Sarra's teenage daughter has been asking questions about where her mother
-  disappears to on full moon nights, and Sarra is afraid she followed her last time.
+appearance: Sturdy and stained in a dyer's apron permanently marked with every color
+  she has ever mixed. Her forearms are dyed blue to the elbow, and she smells of mordant
+  and indigo. She is boisterous and loud in the market, the opposite of secretive
+  in manner.
+biography: A master dyer who can produce colors no other dyer in Zaffar can replicate
+  — specifically, a blue so deep it appears to contain fire, which she calls 'djinn-blue.'
+  The secret is that she uses water from a hot spring deep in the desert that is heated
+  by a sleeping djinn's ambient fire. She found the spring as a teenager and has told
+  no one its location. A binding family has been trying to reverse-engineer her dye
+  for a decade and has recently started buying up all the indigo in the market, trying
+  to pressure her into revealing her source. Sarra's teenage daughter has been asking
+  questions about where her mother disappears to on full moon nights, and Sarra is
+  afraid she followed her last time.
 personality: Guarded and cautious with trust, carries a secret that shapes every decision.
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
-- I will not rest until I keep the location of the djinn-heated spring secret, even from me daughter.
+- I will not rest until I keep the location of the djinn-heated spring secret, even
+  from me daughter.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-long-cotton-chemise
+  - item:womens-cotton-underdrawers
   clothing:
   - item:knee-length-pirahan
   - item:bound-ankle-desert-trousers
+  - item:wrapped-work-apron
   armor: []
   hands:
     left: null
@@ -71,7 +80,15 @@ visual:
   distinctive_features:
   - permanent blue staining from fingertips to elbows on both arms
   - a chemical burn scar on the right hand from mordant work
-  prompt: ''
+  prompt: 1girl, solo, adult woman, elf, pointed ears, broad-shouldered and strong-armed,
+    medium breasts, light beige skin, symmetrical, elegant elven features, dark brown
+    eyes, black, tied up in a cloth that is itself dyed djinn-blue hair, permanent
+    blue staining from fingertips to elbows on both arms, a chemical burn scar on
+    the right hand from mordant work, knee-length pirahan shirt, bound-ankle desert
+    trousers, portrait, upper body, looking at viewer, soft lighting
+  skin: light beige
+  height: 5'7"
+  face: symmetrical, elegant elven features, pointed ears
 image:
   url: ''
   focalPoint:
@@ -79,18 +96,22 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:binding-families
 desires:
 - To keep the location of the djinn-heated spring secret, even from her daughter
 - To find an apprentice she can trust with the secret before her arms give out
 fears_or_limits:
-- That her daughter followed her to the spring and is now in danger from the djinn's proximity
-- That the binding family will trace the dye's properties to the spring and claim it
+- That her daughter followed her to the spring and is now in danger from the djinn's
+  proximity
+- That the binding family will trace the dye's properties to the spring and claim
+  it
 current_state:
   location: location:zaffar
+memories: []
+momentos: []
 purview: []
 ---
 

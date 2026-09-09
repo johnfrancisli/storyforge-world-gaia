@@ -1,15 +1,17 @@
 ---
 id: character:rania-al-khatt
 name: Rania al-Khatt
-gm_notes: A calligrapher who can write binding contracts that are more binding than any other scribe's
-  — her brushwork has a quality that makes the supernatural terms stick harder, as if her ink carries
-  weight the djinn can feel. She does not know why; she was simply born with steady hands and an instinct
-  for the formal language. The binding families pay her fortunes to write their contracts, but she has
-  begun to notice that the contracts she writes feel wrong — she can sense the terms are weighted against
-  the humans, and the djinn always get slightly more than agreed. She has started subtly altering the
-  contracts she writes, inserting clauses that give the human signers small advantages — a few extra years,
-  a loophole, a forgotten promise. She has altered eleven contracts and no one has noticed yet. She is
-  waiting for a djinn to notice.
+gm_notes: A calligrapher who can write binding contracts that are more binding than
+  any other scribe's — her brushwork has a quality that makes the supernatural terms
+  stick harder, as if her ink carries weight the djinn can feel. She does not know
+  why; she was simply born with steady hands and an instinct for the formal language.
+  The binding families pay her fortunes to write their contracts, but she has begun
+  to notice that the contracts she writes feel wrong — she can sense the terms are
+  weighted against the humans, and the djinn always get slightly more than agreed.
+  She has started subtly altering the contracts she writes, inserting clauses that
+  give the human signers small advantages — a few extra years, a loophole, a forgotten
+  promise. She has altered eleven contracts and no one has noticed yet. She is waiting
+  for a djinn to notice.
 aliases: []
 race: Elf
 gender: Female
@@ -40,24 +42,28 @@ currency:
   gold: 0
   silver: 19
   copper: 10
-appearance: Refined and still in flowing dark robes, her hands stained with ink to the wrist. She writes
-  with a reed pen in a hand so steady it is said she can draw a line the width of a hair. She speaks softly
-  and never repeats herself.
-biography: A calligrapher who can write binding contracts that are more binding than any other scribe's
-  — her brushwork has a quality that makes the supernatural terms stick harder, as if her ink carries
-  weight the djinn can feel. She does not know why; she was simply born with steady hands and an instinct
-  for the formal language. The binding families pay her fortunes to write their contracts, but she has
-  begun to notice that the contracts she writes feel wrong — she can sense the terms are weighted against
-  the humans, and the djinn always get slightly more than agreed. She has started subtly altering the
-  contracts she writes, inserting clauses that give the human signers small advantages — a few extra years,
-  a loophole, a forgotten promise. She has altered eleven contracts and no one has noticed yet. She is
-  waiting for a djinn to notice.
+appearance: Refined and still in flowing dark robes, her hands stained with ink to
+  the wrist. She writes with a reed pen in a hand so steady it is said she can draw
+  a line the width of a hair. She speaks softly and never repeats herself.
+biography: A calligrapher who can write binding contracts that are more binding than
+  any other scribe's — her brushwork has a quality that makes the supernatural terms
+  stick harder, as if her ink carries weight the djinn can feel. She does not know
+  why; she was simply born with steady hands and an instinct for the formal language.
+  The binding families pay her fortunes to write their contracts, but she has begun
+  to notice that the contracts she writes feel wrong — she can sense the terms are
+  weighted against the humans, and the djinn always get slightly more than agreed.
+  She has started subtly altering the contracts she writes, inserting clauses that
+  give the human signers small advantages — a few extra years, a loophole, a forgotten
+  promise. She has altered eleven contracts and no one has noticed yet. She is waiting
+  for a djinn to notice.
 personality: Guarded and cautious with trust.
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-long-cotton-chemise
+  - item:womens-cotton-underdrawers
   clothing:
   - item:crossover-desert-robe
   armor: []
@@ -73,7 +79,15 @@ visual:
   distinctive_features:
   - permanent ink staining on the right index and middle fingers
   - a callus on the right middle finger from years of reed pen grip
-  prompt: ''
+  prompt: 1girl, solo, adult woman, elf, pointed ears, slender, long-fingered, small
+    breasts, light beige skin, symmetrical, elegant elven features, dark brown eyes,
+    black, long, pinned with a silver pen-clip hair, permanent ink staining on the
+    right index and middle fingers, a callus on the right middle finger, crossover
+    desert robe, embroidered borders, portrait, upper body, looking at viewer, soft
+    lighting
+  skin: light beige
+  height: 5'7"
+  face: symmetrical, elegant elven features, pointed ears
 image:
   url: ''
   focalPoint:
@@ -81,19 +95,22 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:alk-scholar-circle
 desires:
-- To continue altering contracts without being discovered until she has given enough humans an edge to
-  balance the djinn's advantage
+- To continue altering contracts without being discovered until she has given enough
+  humans an edge to balance the djinn's advantage
 - To understand why her writing carries supernatural weight and where it comes from
 fears_or_limits:
-- That a djinn will notice her alterations and come to collect the difference from her
+- That a djinn will notice her alterations and come to collect the difference from
+  her
 - That the binding families will compare her contracts and discover the inserted clauses
 current_state:
   location: location:zaffar
+memories: []
+momentos: []
 purview: []
 ---
 

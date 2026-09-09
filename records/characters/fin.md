@@ -1,16 +1,18 @@
 ---
 id: character:fin
 name: Fin
-gm_notes: 'Fin has been hearing something from the whales that frightens him: the great whales are leaving.
-  Not migrating — leaving. They are swimming south, past the Archipelago, past Verdania, toward the open
-  southern ocean, and they are not coming back. The whales have been the Archipelago''s allies for centuries
-  — they guide wayfinders, warn of storms, and carry messages. Without them, voyaging becomes vastly more
-  dangerous. Fin has tried to ask why they are leaving. The whales answer in images, not words, and the
-  images they have been sending are: deep water, a door, and something behind it that is waking up. The
-  same images Nara''s river spirit sent, the same vision Jian Yi and Helga have seen.'
+gm_notes: 'Fin has been hearing something from the whales that frightens him: the
+  great whales are leaving. Not migrating — leaving. They are swimming south, past
+  the Archipelago, past Verdania, toward the open southern ocean, and they are not
+  coming back. The whales have been the Archipelago''s allies for centuries — they
+  guide wayfinders, warn of storms, and carry messages. Without them, voyaging becomes
+  vastly more dangerous. Fin has tried to ask why they are leaving. The whales answer
+  in images, not words, and the images they have been sending are: deep water, a door,
+  and something behind it that is waking up. The same images Nara''s river spirit
+  sent, the same vision Jian Yi and Helga have seen.'
 aliases:
 - Fin the Whale-speaker
-race: Human
+race: Cat-folk
 gender: Male
 age: 25
 heritage: Archipelagan
@@ -39,22 +41,29 @@ currency:
   gold: 4
   silver: 18
   copper: 20
-appearance: A lean young man in simple island cloth, barefoot, sitting at the water's edge. He has the
-  distant look of someone who is always half-listening to something else. His skin is dark and his hair
-  is salt-bleached. He carries a conch shell horn for calling whales.
-biography: 'Fin has been hearing something from the whales that frightens him: the great whales are leaving.
-  Not migrating — leaving. They are swimming south, past the Archipelago, past Verdania, toward the open
-  southern ocean, and they are not coming back. The whales have been the Archipelago''s allies for centuries
-  — they guide wayfinders, warn of storms, and carry messages. Without them, voyaging becomes vastly more
-  dangerous. Fin has tried to ask why they are leaving. The whales answer in images, not words, and the
-  images they have been sending are: deep water, a door, and something behind it that is waking up. The
-  same images Nara''s river spirit sent, the same vision Jian Yi and Helga have seen.'
-personality: Thoughtful and philosophical.
+appearance: A high-mast lookout and whale-speaker with windswept cat ears and an active
+  tail. His weather-tanned skin is human with no fur, complemented by sharp, handsome
+  feline features. A lean young man in simple island cloth, barefoot, sitting at the
+  water's edge. He has the distant look of someone who is always half-listening to
+  something else. His skin is dark and his hair is salt-bleached. He carries a conch
+  shell horn for calling whales.
+biography: 'Fin has been hearing something from the whales that frightens him: the
+  great whales are leaving. Not migrating — leaving. They are swimming south, past
+  the Archipelago, past Verdania, toward the open southern ocean, and they are not
+  coming back. The whales have been the Archipelago''s allies for centuries — they
+  guide wayfinders, warn of storms, and carry messages. Without them, voyaging becomes
+  vastly more dangerous. Fin has tried to ask why they are leaving. The whales answer
+  in images, not words, and the images they have been sending are: deep water, a door,
+  and something behind it that is waking up. The same images Nara''s river spirit
+  sent, the same vision Jian Yi and Helga have seen.'
+personality: A solitary and contemplative spirit who loves the solitude of the crow's
+  nest and can listen to the ocean for hours. Thoughtful and philosophical.
 key_phrases:
 - Understanding comes slowly, like dawn.
 - The question is always more important than the answer.
 equipment:
-  underwear: []
+  underwear:
+  - item:mens-paddling-loin-wrap
   clothing:
   - item:open-sided-island-tunic
   - item:rectangular-waist-wrap
@@ -69,9 +78,17 @@ visual:
   skin: deep tan, sun-dark
   hair: bleached blonde from salt and sun, shaggy
   eyes: grey-blue, distant
-  distinctive_features: a conch shell horn worn on a cord around the neck, webbed toes (a minor birth
-    trait common in whale-speaker families), a far-listening expression
-  prompt: ''
+  distinctive_features:
+  - windswept cat ears
+  - active feline tail
+  - keen oceanic hearing
+  prompt: 1boy, solo, young adult man, cat-folk, cat ears, cat tail, slit pupils,
+    lean, wiry, narrow chest, deep tan, sun-dark skin, handsome, contemplative feline
+    facial features, grey-blue eyes, bleached blonde from salt and sun, shaggy hair,
+    windswept cat ears, active feline tail, open-sided island tunic, rectangular waist
+    wrap, portrait, upper body, looking at viewer, soft lighting
+  height: 5'11"
+  face: handsome, contemplative feline facial features
 image:
   url: ''
   focalPoint:
@@ -79,21 +96,23 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:wayfinder-guilds
 desires:
-- To understand why the whales are leaving the Archipelago — they have been allies for centuries and their
-  departure endangers everyone.
-- To translate what the whales are showing him — images of deep water, a door, and something waking —
-  into something people can act on.
+- To understand why the whales are leaving the Archipelago — they have been allies
+  for centuries and their departure endangers everyone.
+- To translate what the whales are showing him — images of deep water, a door, and
+  something waking — into something people can act on.
 fears_or_limits:
-- The whales are leaving and he cannot stop them. The images they send are not words — he has to interpret
-  them, and he is not certain he is interpreting correctly. He is young and his gift isolates him — most
-  people think whale-speaking is a myth.
+- The whales are leaving and he cannot stop them. The images they send are not words
+  — he has to interpret them, and he is not certain he is interpreting correctly.
+  He is young and his gift isolates him — most people think whale-speaking is a myth.
 current_state:
   location: location:lani-atoll
+memories: []
+momentos: []
 purview: []
 ---
 

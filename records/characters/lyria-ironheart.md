@@ -1,11 +1,13 @@
 ---
 id: character:lyria-ironheart
 name: Lyria Ironheart
-gm_notes: Secretly the illegitimate daughter of the late King Aldric and a blacksmith's daughter. Her
-  birth was hidden to protect the succession line. A sealed letter from her mother, only to be opened
-  upon the queen's death, proves her royal blood. If revealed, she could destabilize the entire succession
-  crisis — or resolve it. She does not yet know the full truth, only that her mother whispered 'you have
-  your father's hands' on her deathbed. The sealed letter sits in a lockbox beneath the forge.
+gm_notes: Secretly the illegitimate daughter of the late King Aldric and a blacksmith's
+  daughter. Her birth was hidden to protect the succession line. A sealed letter from
+  her mother, only to be opened upon the queen's death, proves her royal blood. If
+  revealed, she could destabilize the entire succession crisis — or resolve it. She
+  does not yet know the full truth, only that her mother whispered 'you have your
+  father's hands' on her deathbed. The sealed letter sits in a lockbox beneath the
+  forge.
 aliases: []
 race: Human
 gender: Female
@@ -35,24 +37,30 @@ currency:
   gold: 1
   silver: 15
   copper: 7
-appearance: Broad-shouldered and soot-stained, with calloused hands and a permanent burn scar curling
-  up her left forearm. She wears a leather apron over simple linen, her dark hair tied back with iron
-  wire.
-biography: Secretly the illegitimate daughter of the late King Aldric and a blacksmith's daughter. Her
-  birth was hidden to protect the succession line. A sealed letter from her mother, only to be opened
-  upon the queen's death, proves her royal blood. If revealed, she could destabilize the entire succession
-  crisis — or resolve it. She does not yet know the full truth, only that her mother whispered 'you have
-  your father's hands' on her deathbed. The sealed letter sits in a lockbox beneath the forge.
+appearance: Broad-shouldered and soot-stained, with calloused hands and a permanent
+  burn scar curling up her left forearm. She wears a leather apron over simple linen,
+  her dark hair tied back with iron wire.
+biography: Secretly the illegitimate daughter of the late King Aldric and a blacksmith's
+  daughter. Her birth was hidden to protect the succession line. A sealed letter from
+  her mother, only to be opened upon the queen's death, proves her royal blood. If
+  revealed, she could destabilize the entire succession crisis — or resolve it. She
+  does not yet know the full truth, only that her mother whispered 'you have your
+  father's hands' on her deathbed. The sealed letter sits in a lockbox beneath the
+  forge.
 personality: Guarded and cautious with trust, carries a secret that shapes every decision.
 key_phrases:
 - Metal has opinions. My job is to negotiate.
 - The forge teaches patience whether you want to learn it or not.
-- I will not rest until I forge a blade worthy of legend, something that will outlast me.
+- I will not rest until I forge a blade worthy of legend, something that will outlast
+  me.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-linen-chemise
+  - item:womens-linen-underbreeches
   clothing:
   - item:linen-work-tunic
   - item:wool-trousers
+  - item:wrapped-work-apron
   armor: []
   hands:
     left: null
@@ -63,8 +71,15 @@ visual:
   body_build: stocky and muscular, small breasts
   hair: dark brown, thick, worn tied back
   eyes: stormy grey
-  distinctive_features: burn scar on left forearm, exceptionally large and calloused hands for her frame
-  prompt: ''
+  distinctive_features: burn scar on left forearm, exceptionally large and calloused
+    hands for her frame
+  prompt: 1girl, solo, young adult woman, stocky and muscular, small breasts, weathered
+    tan skin, classic European facial features, stormy grey eyes, dark brown, thick,
+    worn tied back hair, linen work tunic, leather belt, wool trousers, portrait,
+    upper body, looking at viewer, soft lighting
+  skin: weathered tan
+  height: 5'5"
+  face: classic European facial features
 image:
   url: ''
   focalPoint:
@@ -72,8 +87,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:val-merchant-guild
 desires:
@@ -84,6 +99,8 @@ fears_or_limits:
 - that the forge fire will one day take more than her forearm
 current_state:
   location: location:crownhaven
+memories: []
+momentos: []
 purview: []
 ---
 

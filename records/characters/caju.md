@@ -1,15 +1,17 @@
 ---
 id: character:caju
 name: Caju
-gm_notes: 'A human cook who runs the communal cooking fire of Iara and feeds the entire community. He
-  is beloved — generous, warm, and always feeding someone. His secret: he is a compulsive hoarder of food,
-  a scar from a famine he experienced as a child that killed two of his siblings. He maintains a hidden
-  cache of preserved food beneath his cooking platform that could feed Iara for a month — far more than
-  any rational preparation requires. The cache includes food he has quietly diverted from communal stores,
-  which is technically theft. He knows the hoarding is irrational and that discovery would be humiliating,
-  but he cannot stop. Recently, the food stores have been coming up short in ways that other people have
-  noticed, and the council has been discussing the possibility of a thief. Caju is terrified that his
-  cache will be found and his shame exposed.'
+gm_notes: 'A human cook who runs the communal cooking fire of Iara and feeds the entire
+  community. He is beloved — generous, warm, and always feeding someone. His secret:
+  he is a compulsive hoarder of food, a scar from a famine he experienced as a child
+  that killed two of his siblings. He maintains a hidden cache of preserved food beneath
+  his cooking platform that could feed Iara for a month — far more than any rational
+  preparation requires. The cache includes food he has quietly diverted from communal
+  stores, which is technically theft. He knows the hoarding is irrational and that
+  discovery would be humiliating, but he cannot stop. Recently, the food stores have
+  been coming up short in ways that other people have noticed, and the council has
+  been discussing the possibility of a thief. Caju is terrified that his cache will
+  be found and his shame exposed.'
 aliases: []
 race: Human
 gender: Male
@@ -39,24 +41,28 @@ currency:
   gold: 2
   silver: 2
   copper: 9
-appearance: Round and jolly, with flour on his arms and a perpetual stain of smoke and spice on his wrap.
-  Laughs loudly, hugs freely, feeds compulsively.
-biography: 'A human cook who runs the communal cooking fire of Iara and feeds the entire community. He
-  is beloved — generous, warm, and always feeding someone. His secret: he is a compulsive hoarder of food,
-  a scar from a famine he experienced as a child that killed two of his siblings. He maintains a hidden
-  cache of preserved food beneath his cooking platform that could feed Iara for a month — far more than
-  any rational preparation requires. The cache includes food he has quietly diverted from communal stores,
-  which is technically theft. He knows the hoarding is irrational and that discovery would be humiliating,
-  but he cannot stop. Recently, the food stores have been coming up short in ways that other people have
-  noticed, and the council has been discussing the possibility of a thief. Caju is terrified that his
+appearance: Round and jolly, with flour on his arms and a perpetual stain of smoke
+  and spice on his wrap. Laughs loudly, hugs freely, feeds compulsively.
+biography: 'A human cook who runs the communal cooking fire of Iara and feeds the
+  entire community. He is beloved — generous, warm, and always feeding someone. His
+  secret: he is a compulsive hoarder of food, a scar from a famine he experienced
+  as a child that killed two of his siblings. He maintains a hidden cache of preserved
+  food beneath his cooking platform that could feed Iara for a month — far more than
+  any rational preparation requires. The cache includes food he has quietly diverted
+  from communal stores, which is technically theft. He knows the hoarding is irrational
+  and that discovery would be humiliating, but he cannot stop. Recently, the food
+  stores have been coming up short in ways that other people have noticed, and the
+  council has been discussing the possibility of a thief. Caju is terrified that his
   cache will be found and his shame exposed.'
-personality: Warm and optimistic, reserved and soft-spoken, guarded and cautious with trust.
+personality: Warm and optimistic, reserved and soft-spoken, guarded and cautious with
+  trust.
 key_phrases:
 - Food is love made edible.
 - A good cook feeds the body. A great cook feeds the soul.
 - I will not rest until I feel safe enough that the hoarding compulsion stops.
 equipment:
-  underwear: []
+  underwear:
+  - item:mens-softbark-loin-underwrap
   clothing:
   - item:sleeveless-barkcloth-tunic
   - item:softbark-wrap-skirt
@@ -73,7 +79,15 @@ visual:
   distinctive_features:
   - a burn-scar patch on the right forearm from a cookfire accident
   - perpetual smudges of ash and spice on the hands and forearms
-  prompt: ''
+  prompt: 1man, solo, adult man, round and soft, strong-armed from stirring large
+    pots, broad chest, warm copper-brown skin, Indigenous Amazonian facial features,
+    high cheekbones, warm brown eyes, black, thick, tied back with a cloth hair, a
+    burn-scar patch on the right forearm from a cookfire accident, perpetual smudges
+    of ash and spice on the hands and forearms, sleeveless barkcloth tunic, softbark
+    wrap skirt, portrait, upper body, looking at viewer, soft lighting
+  skin: warm copper-brown
+  height: 5'6"
+  face: Indigenous Amazonian facial features, high cheekbones
 image:
   url: ''
   focalPoint:
@@ -81,8 +95,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:ver-river-consortium
 desires:
@@ -93,6 +107,8 @@ fears_or_limits:
 - That a real famine will come and his cache will not be enough
 current_state:
   location: location:iara
+memories: []
+momentos: []
 purview: []
 ---
 

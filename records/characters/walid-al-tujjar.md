@@ -1,17 +1,19 @@
 ---
 id: character:walid-al-tujjar
 name: Walid al-Tujjar
-gm_notes: A male spice merchant who controls the pepper and clove trade through the mountain passes. Walid
-  is secretly the half-brother of Yasmin al-Barrani (character:yasmin-al-barrani) — they share a mother,
-  though neither knows it. Their mother was a caravan driver who had children by two different merchants
-  and gave both up. Walid has been contracted by a binding family to spy on Yasmin, who they suspect is
-  building a political movement against them. Walid has been reporting Yasmin's activities to the binding
-  family for six months, feeding them just enough to stay paid. He has begun to admire Yasmin from afar,
-  not knowing she is his sister, and is conflicted about the spying. He is looking for a way to warn her
-  without exposing himself, and he has recently found their mother's name in an old shipping manifest
-  — a discovery that is pulling him toward a truth that will upend everything.
+gm_notes: A male spice merchant who controls the pepper and clove trade through the
+  mountain passes. Walid is secretly the half-brother of Yasmin al-Barrani (character:yasmin-al-barrani)
+  — they share a mother, though neither knows it. Their mother was a caravan driver
+  who had children by two different merchants and gave both up. Walid has been contracted
+  by a binding family to spy on Yasmin, who they suspect is building a political movement
+  against them. Walid has been reporting Yasmin's activities to the binding family
+  for six months, feeding them just enough to stay paid. He has begun to admire Yasmin
+  from afar, not knowing she is his sister, and is conflicted about the spying. He
+  is looking for a way to warn her without exposing himself, and he has recently found
+  their mother's name in an old shipping manifest — a discovery that is pulling him
+  toward a truth that will upend everything.
 aliases: []
-race: Elf
+race: Human
 gender: Male
 age: 52
 heritage: Al-Khayzari
@@ -40,24 +42,29 @@ currency:
   gold: 25
   silver: 23
   copper: 26
-appearance: Round-faced and jovial in a merchant's fine robes, he is the picture of a successful trader
-  — generous with samples, free with compliments, always smiling. His eyes, however, are calculating,
-  and his smile reaches them less often than it should.
-biography: A male spice merchant who controls the pepper and clove trade through the mountain passes.
-  Walid is secretly the half-brother of Yasmin al-Barrani (character:yasmin-al-barrani) — they share a
-  mother, though neither knows it. Their mother was a caravan driver who had children by two different
-  merchants and gave both up. Walid has been contracted by a binding family to spy on Yasmin, who they
-  suspect is building a political movement against them. Walid has been reporting Yasmin's activities
-  to the binding family for six months, feeding them just enough to stay paid. He has begun to admire
-  Yasmin from afar, not knowing she is his sister, and is conflicted about the spying. He is looking for
-  a way to warn her without exposing himself, and he has recently found their mother's name in an old
-  shipping manifest — a discovery that is pulling him toward a truth that will upend everything.
+appearance: Round-faced and jovial in a merchant's fine robes, he is the picture of
+  a successful trader — generous with samples, free with compliments, always smiling.
+  His eyes, however, are calculating, and his smile reaches them less often than it
+  should.
+biography: A male spice merchant who controls the pepper and clove trade through the
+  mountain passes. Walid is secretly the half-brother of Yasmin al-Barrani (character:yasmin-al-barrani)
+  — they share a mother, though neither knows it. Their mother was a caravan driver
+  who had children by two different merchants and gave both up. Walid has been contracted
+  by a binding family to spy on Yasmin, who they suspect is building a political movement
+  against them. Walid has been reporting Yasmin's activities to the binding family
+  for six months, feeding them just enough to stay paid. He has begun to admire Yasmin
+  from afar, not knowing she is his sister, and is conflicted about the spying. He
+  is looking for a way to warn her without exposing himself, and he has recently found
+  their mother's name in an old shipping manifest — a discovery that is pulling him
+  toward a truth that will upend everything.
 personality: Shrewd and calculating, guarded and cautious with trust, blunt and rough-spoken.
 key_phrases:
 - A fair deal leaves both sides slightly unhappy. That is how you know it was fair.
 - Trust is the only currency that compounds.
 equipment:
-  underwear: []
+  underwear:
+  - item:mens-light-linen-undershirt
+  - item:mens-cotton-loin-underwrap
   clothing:
   - item:crossover-desert-robe
   armor: []
@@ -73,7 +80,14 @@ visual:
   distinctive_features:
   - a merchant's signet ring on the right index finger
   - a wart on the left cheek
-  prompt: ''
+  prompt: 1man, solo, adult man, stout and round, prosperous, average chest, warm
+    bronze-brown skin, striking West Asian facial features, strong dark brows, dark
+    brown eyes, black, greying, oiled and well-kept hair, a merchant's signet ring
+    on the right index finger, a wart on the left cheek, crossover desert robe, embroidered
+    borders, portrait, upper body, looking at viewer, soft lighting
+  skin: warm bronze-brown
+  height: 5'9"
+  face: striking West Asian facial features, strong dark brows
 image:
   url: ''
   focalPoint:
@@ -81,18 +95,23 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:alk-city-guard
 desires:
-- To find a way to warn Yasmin about the binding family's surveillance without exposing his role
+- To find a way to warn Yasmin about the binding family's surveillance without exposing
+  his role
 - To learn the truth about his mother and whether Yasmin is connected to him
 fears_or_limits:
-- That the binding family will discover his hesitation and punish him for incomplete intelligence
-- That Yasmin will learn he has been spying on her before he can warn her, destroying any chance of connection
+- That the binding family will discover his hesitation and punish him for incomplete
+  intelligence
+- That Yasmin will learn he has been spying on her before he can warn her, destroying
+  any chance of connection
 current_state:
   location: location:zaffar
+memories: []
+momentos: []
 purview: []
 ---
 

@@ -1,14 +1,16 @@
 ---
 id: character:svanhild-frostchild
 name: Svanhild Frostchild
-gm_notes: 'Svanhild is a child of twelve, the daughter of one of the jarl''s household guards. Her secret:
-  she has been having dreams that come true. Small things — a dream about a boat sinking, and the next
-  day a fishing skiff capsizes in the harbor; a dream about a wolf in the byre, and the next morning a
-  fox gets into the goat pen. She has not told anyone because the last child in Skaldvik who ''saw things''
-  was taken to live with the volur, and Svanhild does not want to leave her family. She has started keeping
-  a dream-journal — scratched runes on birch bark, hidden under her sleeping furs — and she is both fascinated
-  and terrified by the pattern she sees forming. Last night she dreamed of fire over the mead hall during
-  a gathering, and the smoke was shaped like a raven.'
+gm_notes: 'Svanhild is a child of twelve, the daughter of one of the jarl''s household
+  guards. Her secret: she has been having dreams that come true. Small things — a
+  dream about a boat sinking, and the next day a fishing skiff capsizes in the harbor;
+  a dream about a wolf in the byre, and the next morning a fox gets into the goat
+  pen. She has not told anyone because the last child in Skaldvik who ''saw things''
+  was taken to live with the volur, and Svanhild does not want to leave her family.
+  She has started keeping a dream-journal — scratched runes on birch bark, hidden
+  under her sleeping furs — and she is both fascinated and terrified by the pattern
+  she sees forming. Last night she dreamed of fire over the mead hall during a gathering,
+  and the smoke was shaped like a raven.'
 aliases: []
 race: Human
 gender: Female
@@ -38,25 +40,31 @@ currency:
   gold: 0
   silver: 0
   copper: 0
-appearance: Small and fair-haired, Svanhild wears a child's wool tunic and fur-lined boots, her hair in
-  two messy braids. She is always underfoot — climbing on the dock, chasing cats, listening to conversations
-  she is not part of. She has the bright, intense stare of a child who pays attention to everything.
-biography: 'Svanhild is a child of twelve, the daughter of one of the jarl''s household guards. Her secret:
-  she has been having dreams that come true. Small things — a dream about a boat sinking, and the next
-  day a fishing skiff capsizes in the harbor; a dream about a wolf in the byre, and the next morning a
-  fox gets into the goat pen. She has not told anyone because the last child in Skaldvik who ''saw things''
-  was taken to live with the volur, and Svanhild does not want to leave her family. She has started keeping
-  a dream-journal — scratched runes on birch bark, hidden under her sleeping furs — and she is both fascinated
-  and terrified by the pattern she sees forming. Last night she dreamed of fire over the mead hall during
-  a gathering, and the smoke was shaped like a raven.'
-personality: Warm and optimistic, guarded and cautious with trust, carries a secret that shapes every
-  decision.
+appearance: Small and fair-haired, Svanhild wears a child's wool tunic and fur-lined
+  boots, her hair in two messy braids. She is always underfoot — climbing on the dock,
+  chasing cats, listening to conversations she is not part of. She has the bright,
+  intense stare of a child who pays attention to everything.
+biography: 'Svanhild is a child of twelve, the daughter of one of the jarl''s household
+  guards. Her secret: she has been having dreams that come true. Small things — a
+  dream about a boat sinking, and the next day a fishing skiff capsizes in the harbor;
+  a dream about a wolf in the byre, and the next morning a fox gets into the goat
+  pen. She has not told anyone because the last child in Skaldvik who ''saw things''
+  was taken to live with the volur, and Svanhild does not want to leave her family.
+  She has started keeping a dream-journal — scratched runes on birch bark, hidden
+  under her sleeping furs — and she is both fascinated and terrified by the pattern
+  she sees forming. Last night she dreamed of fire over the mead hall during a gathering,
+  and the smoke was shaped like a raven.'
+personality: Warm and optimistic, guarded and cautious with trust, carries a secret
+  that shapes every decision.
 key_phrases:
 - I'm not afraid. I'm just... careful.
 - When you're small, you learn to notice things.
-- I will not rest until I understand me dreams without being taken away to live with the volur.
+- I will not rest until I understand me dreams without being taken away to live with
+  the volur.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-wool-underdress
+  - item:womens-wool-undertrousers
   clothing:
   - item:fur-lined-winter-tunic
   armor: []
@@ -69,9 +77,15 @@ visual:
   body_build: small and wiry, still growing
   hair: pale blonde, worn in two braids
   eyes: bright blue, wide and alert
-  distinctive_features: a gap where her left upper canine is missing (baby tooth), a faded scrape-scar
-    on her right knee
-  prompt: ''
+  distinctive_features: a gap where her left upper canine is missing (baby tooth),
+    a faded scrape-scar on her right knee
+  prompt: 1girl, solo, young girl, small and wiry, still growing, fair pink-beige
+    skin, strong, weather-hardened Norse facial features, bright blue eyes, pale blonde,
+    worn in two braids hair, fur-lined winter tunic, portrait, upper body, looking
+    at viewer, soft lighting
+  skin: fair pink-beige
+  height: 4'11"
+  face: strong, weather-hardened Norse facial features
 image:
   url: ''
   focalPoint:
@@ -79,18 +93,22 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:hra-shipwright-brotherhood
 desires:
 - to understand her dreams without being taken away to live with the volur
-- to be treated as grown-up enough to matter — she has things to say, if anyone would listen
+- to be treated as grown-up enough to matter — she has things to say, if anyone would
+  listen
 fears_or_limits:
-- that her dream about fire over the mead hall will come true and she will not have warned anyone
+- that her dream about fire over the mead hall will come true and she will not have
+  warned anyone
 - that if she tells her parents, they will be frightened and send her to Yrsa
 current_state:
   location: location:skaldvik
+memories: []
+momentos: []
 purview: []
 ---
 

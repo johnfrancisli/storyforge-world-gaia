@@ -8,7 +8,7 @@ gm_notes: 'King Aldran knows he is dying. He has a heart condition that his phys
   He has not named an heir because he is afraid that naming one will trigger the other two into action
   before he is ready. He is trying to buy time.'
 aliases:
-- 'King Aldran Valdris III'
+- King Aldran Valdris III
 race: Human
 gender: Male
 age: 68
@@ -50,12 +50,16 @@ personality: Cunning, weary, but fiercely protective of his realm. He masks his 
   behind a facade of regal authority, observing every whisper and glance in his court with the sharp mind
   of a seasoned tactician.
 key_phrases:
-- "The throne is a heavy chair, nothing more."
-- "Let them argue; the quiet ones are the dangerous ones."
-- "Time is the one tax I can no longer afford to pay."
+- The throne is a heavy chair, nothing more.
+- Let them argue; the quiet ones are the dangerous ones.
+- Time is the one tax I can no longer afford to pay.
 equipment:
-  underwear: []
-  clothing: []
+  underwear:
+  - item:mens-linen-undershirt
+  - item:mens-drawstring-braies
+  clothing:
+  - item:wool-overtunic
+  - item:wool-trousers
   armor: []
   hands:
     left: null
@@ -70,16 +74,69 @@ visual:
   eyes: pale blue
   distinctive_features: a faded scar on the right brow from an old battle wound
   face: handsome, majestic, age-lined
-  prompt: ''
+  prompt: 1boy, solo, male focus, Human, old man, tall, once powerful, now thin, broad chest, fair skin,
+    age-lined face, pale blue eyes, white hair, thinning hair, a faded scar on the right brow from an
+    old battle wound, white thinning hair, tunic, royal robe, crown, royal chair background sitting
 image:
-  url: ''
+  url: assets/images/characters/aldran-valdris-iii.background.png
   focalPoint:
-    x: 0.5
-    y: 0.1
-  seed: null
+    x: 0.604
+    y: 0.329
+  seed: 95996016
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
+  promptUsed: 1boy, solo, male focus, Human, adult man, tall, once powerful, now thin, broad chest, fair
+    skin, majestic face, age-lined face, pale blue eyes, white hair, thinning hair, a faded scar on the
+    right brow from an old battle wound, old man, white thinning hair, tunic, royal robe, crown, royal
+    chair background sitting, wide environmental character scene, full setting visible, cinematic composition,
+    character scene illustration, readable character, detailed setting, wide cinematic composition, horizontal
+    framing, subject and action inside the central horizontal band, masterpiece, best quality, very aesthetic,
+    watercolor illustration, traditional media illustration, watercolor and ink illustration, inked linework,
+    painterly, semi-realistic, sketchy delicate linework, variable line weight, loose watercolor brushwork,
+    textured watercolor shading, transparent watercolor washes, soft shading, soft gradients, diffused
+    natural lighting, atmospheric perspective, soft painterly background, subtle atmospheric haze, airy,
+    elegant fantasy illustration
+  negativePrompt: worst quality, low quality, lowres, 3d, cgi, photorealistic, photo, cel shading, hard
+    cel shading, flat coloring, vector art, thick lineart, uniform lineart, airbrush, overly smooth, overly
+    polished, plastic skin, glossy skin, shiny skin, glossy leather, latex, oversaturated, neon colors,
+    bloom, lens flare, strong rim light, game render, anime screencap, gacha illustration, ink spill,
+    spilled ink, ink splatter, ink stain, paint splatter, paint drips, paint stains, random brush strokes,
+    visible brush marks floating over image, art supplies, paint palette, paintbrush, border, frame, text,
+    watermark, logo, signature
+  generationId: 879c757a-e1cf-46f5-ac93-80435e55c8d3
+  size:
+  - 1216
+  - 832
+  template: character-background
+  profile: oneobsession-v23
+  recipe:
+    template: character-background
+  requestPayload:
+    prompt: 1boy, solo, male focus, Human, adult man, tall, once powerful, now thin, broad chest, fair
+      skin, majestic face, age-lined face, pale blue eyes, white hair, thinning hair, a faded scar on
+      the right brow from an old battle wound, old man, white thinning hair, tunic, royal robe, crown,
+      royal chair background sitting, wide environmental character scene, full setting visible, cinematic
+      composition, character scene illustration, readable character, detailed setting, wide cinematic
+      composition, horizontal framing, subject and action inside the central horizontal band, masterpiece,
+      best quality, very aesthetic, watercolor illustration, traditional media illustration, watercolor
+      and ink illustration, inked linework, painterly, semi-realistic, sketchy delicate linework, variable
+      line weight, loose watercolor brushwork, textured watercolor shading, transparent watercolor washes,
+      soft shading, soft gradients, diffused natural lighting, atmospheric perspective, soft painterly
+      background, subtle atmospheric haze, airy, elegant fantasy illustration
+    seed: 95996016
+    face_fix: true
+    negative_prompt: worst quality, low quality, lowres, 3d, cgi, photorealistic, photo, cel shading,
+      hard cel shading, flat coloring, vector art, thick lineart, uniform lineart, airbrush, overly smooth,
+      overly polished, plastic skin, glossy skin, shiny skin, glossy leather, latex, oversaturated, neon
+      colors, bloom, lens flare, strong rim light, game render, anime screencap, gacha illustration, ink
+      spill, spilled ink, ink splatter, ink stain, paint splatter, paint drips, paint stains, random brush
+      strokes, visible brush marks floating over image, art supplies, paint palette, paintbrush, border,
+      frame, text, watermark, logo, signature
+    width: 1216
+    height: 832
+  generatedAt: '2026-09-09T04:40:29Z'
+  gallery: []
 affiliations:
 - org:val-merchant-guild
 desires:
@@ -89,6 +146,8 @@ fears_or_limits:
   prevent. Not naming one will start it anyway when he dies.
 current_state:
   location: location:crownhaven
+memories: []
+momentos: []
 purview: []
 ---
 

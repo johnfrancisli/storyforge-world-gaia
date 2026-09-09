@@ -1,15 +1,17 @@
 ---
 id: character:zahra-al-nasij
 name: Zahra al-Nasij
-gm_notes: A carpet weaver whose carpets are said to show the pattern of a person's fate if they sleep
-  on them. This is not superstition — Zahra's loom was built from the wood of a djinn-burning tree, and
-  the thread she uses is spun from a plant that grows only where djinn fire has touched the ground. When
-  someone sleeps on her carpet, the weave shifts overnight to reveal a symbolic image. A binding family
-  matriarch slept on one of Zahra's carpets three weeks ago, and the carpet now shows a figure of blue
-  fire in chains. Zahra has the carpet hidden in her workshop and has been visited twice by servants of
-  that family asking if she has 'noticed anything unusual' about her weaving. She is terrified because
-  she knows what the image means — a bound djinn — and she suspects the binding family is looking for
-  evidence to confiscate or destroy it.
+gm_notes: A carpet weaver whose carpets are said to show the pattern of a person's
+  fate if they sleep on them. This is not superstition — Zahra's loom was built from
+  the wood of a djinn-burning tree, and the thread she uses is spun from a plant that
+  grows only where djinn fire has touched the ground. When someone sleeps on her carpet,
+  the weave shifts overnight to reveal a symbolic image. A binding family matriarch
+  slept on one of Zahra's carpets three weeks ago, and the carpet now shows a figure
+  of blue fire in chains. Zahra has the carpet hidden in her workshop and has been
+  visited twice by servants of that family asking if she has 'noticed anything unusual'
+  about her weaving. She is terrified because she knows what the image means — a bound
+  djinn — and she suspects the binding family is looking for evidence to confiscate
+  or destroy it.
 aliases: []
 race: Human
 gender: Female
@@ -39,27 +41,31 @@ currency:
   gold: 4
   silver: 20
   copper: 22
-appearance: Graceful and focused in a dyed apron over simple robes, her hands moving across the loom with
-  rhythmic precision. Thread dust clings to her clothes and hair. She hums while working — always the
-  same melody, one she says the loom taught her.
-biography: A carpet weaver whose carpets are said to show the pattern of a person's fate if they sleep
-  on them. This is not superstition — Zahra's loom was built from the wood of a djinn-burning tree, and
-  the thread she uses is spun from a plant that grows only where djinn fire has touched the ground. When
-  someone sleeps on her carpet, the weave shifts overnight to reveal a symbolic image. A binding family
-  matriarch slept on one of Zahra's carpets three weeks ago, and the carpet now shows a figure of blue
-  fire in chains. Zahra has the carpet hidden in her workshop and has been visited twice by servants of
-  that family asking if she has 'noticed anything unusual' about her weaving. She is terrified because
-  she knows what the image means — a bound djinn — and she suspects the binding family is looking for
-  evidence to confiscate or destroy it.
+appearance: Graceful and focused in a dyed apron over simple robes, her hands moving
+  across the loom with rhythmic precision. Thread dust clings to her clothes and hair.
+  She hums while working — always the same melody, one she says the loom taught her.
+biography: A carpet weaver whose carpets are said to show the pattern of a person's
+  fate if they sleep on them. This is not superstition — Zahra's loom was built from
+  the wood of a djinn-burning tree, and the thread she uses is spun from a plant that
+  grows only where djinn fire has touched the ground. When someone sleeps on her carpet,
+  the weave shifts overnight to reveal a symbolic image. A binding family matriarch
+  slept on one of Zahra's carpets three weeks ago, and the carpet now shows a figure
+  of blue fire in chains. Zahra has the carpet hidden in her workshop and has been
+  visited twice by servants of that family asking if she has 'noticed anything unusual'
+  about her weaving. She is terrified because she knows what the image means — a bound
+  djinn — and she suspects the binding family is looking for evidence to confiscate
+  or destroy it.
 personality: Guarded and cautious with trust, carries a secret that shapes every decision.
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-long-cotton-chemise
+  - item:womens-cotton-underdrawers
   clothing:
-  - item:knee-length-pirahan
-  - item:bound-ankle-desert-trousers
+  - item:crossover-desert-robe
+  - item:wrapped-work-apron
   armor: []
   hands:
     left: null
@@ -73,7 +79,15 @@ visual:
   distinctive_features:
   - weaver's calluses on both thumbs and index fingers
   - a faded dye-stain on the left wrist in the shape of a crescent
-  prompt: ''
+  prompt: 1girl, solo, adult woman, slender, long-fingered, large breasts, light golden
+    olive skin, striking West Asian facial features, strong dark brows, dark brown
+    eyes, black, long, tied back with dyed thread hair, weaver's calluses on both
+    thumbs and index fingers, a faded dye-stain on the left wrist in the shape of
+    a crescent, knee-length pirahan shirt, bound-ankle desert trousers, portrait,
+    upper body, looking at viewer, soft lighting
+  skin: light golden olive
+  height: 5'4"
+  face: striking West Asian facial features, strong dark brows
 image:
   url: ''
   focalPoint:
@@ -81,18 +95,22 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:binding-families
 desires:
-- To understand what the chained-djinn carpet is showing and decide what to do with it
+- To understand what the chained-djinn carpet is showing and decide what to do with
+  it
 - To protect her loom and her craft from anyone who would take it for their own purposes
 fears_or_limits:
-- That the binding family will confiscate the carpet and her loom and bind her to silence
+- That the binding family will confiscate the carpet and her loom and bind her to
+  silence
 - That the carpets' prophetic properties will attract the attention of the djinn themselves
 current_state:
   location: location:zaffar
+memories: []
+momentos: []
 purview: []
 ---
 

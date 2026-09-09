@@ -1,15 +1,17 @@
 ---
 id: character:huda-al-tabbakha
 name: Huda al-Tabbakha
-gm_notes: A cook who runs a kitchen feeding the poor of the eastern quarter, funded by binding family
-  charity. Huda has discovered that the grain shipments from the binding families' storehouses have been
-  cut by a third — the families are hoarding food against a coming crisis they have not announced publicly.
-  Huda has been stretching her recipes with sawdust and bulgur to keep feeding the same number of people
-  and has not told anyone the shipments are short. She obtained a copy of the binding families' private
-  grain ledger from a sympathetic stable hand and knows the hoarding began the same month the oldest djinn
-  contracts started coming due. She believes the binding families are preparing for a famine they expect
-  the djinn contract crisis to cause, and they plan to let the poor bear the shortage while the high city
-  eats well.
+gm_notes: A cook who runs a kitchen feeding the poor of the eastern quarter, funded
+  by binding family charity. Huda has discovered that the grain shipments from the
+  binding families' storehouses have been cut by a third — the families are hoarding
+  food against a coming crisis they have not announced publicly. Huda has been stretching
+  her recipes with sawdust and bulgur to keep feeding the same number of people and
+  has not told anyone the shipments are short. She obtained a copy of the binding
+  families' private grain ledger from a sympathetic stable hand and knows the hoarding
+  began the same month the oldest djinn contracts started coming due. She believes
+  the binding families are preparing for a famine they expect the djinn contract crisis
+  to cause, and they plan to let the poor bear the shortage while the high city eats
+  well.
 aliases: []
 race: Elf
 gender: Female
@@ -40,28 +42,34 @@ currency:
   gold: 0
   silver: 2
   copper: 16
-appearance: Stout and flour-dusted in a cook's apron over practical cotton, her arms ruddy from steam
-  and heat. She stirs pots taller than herself with a wooden paddle and never stops moving. She smells
-  of bread and cumin and rosewater.
-biography: A cook who runs a kitchen feeding the poor of the eastern quarter, funded by binding family
-  charity. Huda has discovered that the grain shipments from the binding families' storehouses have been
-  cut by a third — the families are hoarding food against a coming crisis they have not announced publicly.
-  Huda has been stretching her recipes with sawdust and bulgur to keep feeding the same number of people
-  and has not told anyone the shipments are short. She obtained a copy of the binding families' private
-  grain ledger from a sympathetic stable hand and knows the hoarding began the same month the oldest djinn
-  contracts started coming due. She believes the binding families are preparing for a famine they expect
-  the djinn contract crisis to cause, and they plan to let the poor bear the shortage while the high city
-  eats well.
+appearance: Stout and flour-dusted in a cook's apron over practical cotton, her arms
+  ruddy from steam and heat. She stirs pots taller than herself with a wooden paddle
+  and never stops moving. She smells of bread and cumin and rosewater.
+biography: A cook who runs a kitchen feeding the poor of the eastern quarter, funded
+  by binding family charity. Huda has discovered that the grain shipments from the
+  binding families' storehouses have been cut by a third — the families are hoarding
+  food against a coming crisis they have not announced publicly. Huda has been stretching
+  her recipes with sawdust and bulgur to keep feeding the same number of people and
+  has not told anyone the shipments are short. She obtained a copy of the binding
+  families' private grain ledger from a sympathetic stable hand and knows the hoarding
+  began the same month the oldest djinn contracts started coming due. She believes
+  the binding families are preparing for a famine they expect the djinn contract crisis
+  to cause, and they plan to let the poor bear the shortage while the high city eats
+  well.
 personality: Strict and disciplined, guarded and cautious with trust.
 key_phrases:
 - Food is love made edible.
 - A good cook feeds the body. A great cook feeds the soul.
-- I will not rest until I expose the binding families' hoarding before the shortage becomes a famine.
+- I will not rest until I expose the binding families' hoarding before the shortage
+  becomes a famine.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-long-cotton-chemise
+  - item:womens-cotton-underdrawers
   clothing:
   - item:knee-length-pirahan
   - item:bound-ankle-desert-trousers
+  - item:wrapped-work-apron
   armor: []
   hands:
     left: null
@@ -75,7 +83,15 @@ visual:
   distinctive_features:
   - a burn scar on the right forearm from a pot of boiling stew
   - a permanent flush across the cheeks from years of kitchen heat
-  prompt: ''
+  prompt: 1girl, solo, adult woman, elf, pointed ears, stout and strong-armed, large
+    breasts, light beige skin, symmetrical, elegant elven features, warm brown eyes,
+    grey-black, covered by a cloth cap hair, a burn scar on the right forearm from
+    a pot of boiling stew, a permanent flush across the cheeks, knee-length pirahan
+    shirt, bound-ankle desert trousers, portrait, upper body, looking at viewer, soft
+    lighting
+  skin: light beige
+  height: 5'7"
+  face: symmetrical, elegant elven features, pointed ears
 image:
   url: ''
   focalPoint:
@@ -83,18 +99,23 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:binding-families
 desires:
 - To expose the binding families' hoarding before the shortage becomes a famine
-- To keep feeding the eastern quarter without anyone realizing the food is running short
+- To keep feeding the eastern quarter without anyone realizing the food is running
+  short
 fears_or_limits:
-- That the binding families will cut the grain shipments entirely and blame her for the shortage
-- That the people she feeds will realize the food is adulterated and lose trust in her kitchen
+- That the binding families will cut the grain shipments entirely and blame her for
+  the shortage
+- That the people she feeds will realize the food is adulterated and lose trust in
+  her kitchen
 current_state:
   location: location:zaffar
+memories: []
+momentos: []
 purview: []
 ---
 

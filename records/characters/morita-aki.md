@@ -1,12 +1,13 @@
 ---
 id: character:morita-aki
 name: Morita Aki
-gm_notes: Aki works in Hanako's (character:hanako) tea house and is the only person who knows Hanako rings
-  the old shrine bell for real — not just for luck. Aki has been helping maintain the old shrine site
-  behind the tea house, keeping the stone path clear and the weeds down. She's noticed the bell's sound
-  has been getting thinner and weaker over the past year, and she knows it means the shrine network's
-  power is fading. She's been experimenting with adding shrine herbs to her cooking to subtly strengthen
-  the wards around the tea house.
+gm_notes: Aki works in Hanako's (character:hanako) tea house and is the only person
+  who knows Hanako rings the old shrine bell for real — not just for luck. Aki has
+  been helping maintain the old shrine site behind the tea house, keeping the stone
+  path clear and the weeds down. She's noticed the bell's sound has been getting thinner
+  and weaker over the past year, and she knows it means the shrine network's power
+  is fading. She's been experimenting with adding shrine herbs to her cooking to subtly
+  strengthen the wards around the tea house.
 aliases:
 - Aki
 race: Human
@@ -37,22 +38,27 @@ currency:
   gold: 5
   silver: 19
   copper: 9
-appearance: She wears a clean apron over a simple kimono, her sleeves bound with cords. She tastes everything
-  she serves and adjusts by instinct. Her station is immaculate, and she moves between cutting board,
-  hearth, and serving tray with choreographed efficiency.
-biography: Aki works in Hanako's (character:hanako) tea house and is the only person who knows Hanako
-  rings the old shrine bell for real — not just for luck. Aki has been helping maintain the old shrine
-  site behind the tea house, keeping the stone path clear and the weeds down. She's noticed the bell's
-  sound has been getting thinner and weaker over the past year, and she knows it means the shrine network's
-  power is fading. She's been experimenting with adding shrine herbs to her cooking to subtly strengthen
-  the wards around the tea house.
+appearance: She wears a clean apron over a simple kimono, her sleeves bound with cords.
+  She tastes everything she serves and adjusts by instinct. Her station is immaculate,
+  and she moves between cutting board, hearth, and serving tray with choreographed
+  efficiency.
+biography: Aki works in Hanako's (character:hanako) tea house and is the only person
+  who knows Hanako rings the old shrine bell for real — not just for luck. Aki has
+  been helping maintain the old shrine site behind the tea house, keeping the stone
+  path clear and the weeds down. She's noticed the bell's sound has been getting thinner
+  and weaker over the past year, and she knows it means the shrine network's power
+  is fading. She's been experimenting with adding shrine herbs to her cooking to subtly
+  strengthen the wards around the tea house.
 personality: Blunt and rough-spoken, bears a slow decline with quiet dignity.
 key_phrases:
 - Food is love made edible.
 - A good cook feeds the body. A great cook feeds the soul.
-- I will not rest until I help hanako maintain the old shrine site before its power fades completely.
+- I will not rest until I help hanako maintain the old shrine site before its power
+  fades completely.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-hadajuban
+  - item:womens-koshimaki
   clothing:
   - item:hemp-work-kosode
   - item:womens-maekake-work-apron
@@ -66,8 +72,16 @@ visual:
   body_build: sturdy, quick-moving, small breasts
   hair: black, short, tied under a cloth cap
   eyes: warm brown
-  distinctive_features: a small burn scar on the left wrist from a kitchen accident years ago
-  prompt: ''
+  distinctive_features: a small burn scar on the left wrist from a kitchen accident
+    years ago
+  prompt: 1girl, solo, young adult woman, sturdy, quick-moving, small breasts, warm
+    beige skin, traditional Japanese facial features, warm brown eyes, black, short,
+    tied under a cloth cap hair, a small burn scar on the left wrist from a kitchen
+    accident years ago, indigo hemp work kosode, maekake work apron, portrait, upper
+    body, looking at viewer, soft lighting
+  skin: warm beige
+  height: 5'2"
+  face: traditional Japanese facial features
 image:
   url: ''
   focalPoint:
@@ -75,19 +89,23 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:ashikara-shogunate
 desires:
 - To help Hanako maintain the old shrine site before its power fades completely.
-- To keep the tea house a place where people feel safe, even as the world outside gets more dangerous.
+- To keep the tea house a place where people feel safe, even as the world outside
+  gets more dangerous.
 fears_or_limits:
-- She's not a shrine maiden, and her improvised ward-strengthening through cooking may be doing more harm
-  than good.
-- If the bell stops ringing, she doesn't know what will happen to the old shrine site — or to the town.
+- She's not a shrine maiden, and her improvised ward-strengthening through cooking
+  may be doing more harm than good.
+- If the bell stops ringing, she doesn't know what will happen to the old shrine site
+  — or to the town.
 current_state:
   location: location:haru-shrine-town
+memories: []
+momentos: []
 purview: []
 ---
 

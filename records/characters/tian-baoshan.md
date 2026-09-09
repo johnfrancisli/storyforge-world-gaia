@@ -1,12 +1,13 @@
 ---
 id: character:tian-baoshan
 name: Tian Baoshan
-gm_notes: An iron mine foreman in the Wei mountains who discovered a vein of ore that glows faintly green
-  and seems to strengthen chi in anyone who carries it. He has been secretly mining this 'qilin iron'
-  and forging small ingots, selling them to martial artists at exorbitant prices. He does not know the
-  ore is slowly poisoning the miners—three have developed a wasting sickness he has been hiding by sending
-  them to distant clinics. He is afraid the Wei military will seize the mine if they learn of the ore's
-  properties.
+gm_notes: An iron mine foreman in the Wei mountains who discovered a vein of ore that
+  glows faintly green and seems to strengthen chi in anyone who carries it. He has
+  been secretly mining this 'qilin iron' and forging small ingots, selling them to
+  martial artists at exorbitant prices. He does not know the ore is slowly poisoning
+  the miners—three have developed a wasting sickness he has been hiding by sending
+  them to distant clinics. He is afraid the Wei military will seize the mine if they
+  learn of the ore's properties.
 aliases: []
 race: Human
 gender: Male
@@ -36,20 +37,24 @@ currency:
   gold: 6
   silver: 30
   copper: 40
-appearance: Stocky and soot-stained, wearing heavy leather work clothes and a miner's leather cap.
-biography: An iron mine foreman in the Wei mountains who discovered a vein of ore that glows faintly green
-  and seems to strengthen chi in anyone who carries it. He has been secretly mining this 'qilin iron'
-  and forging small ingots, selling them to martial artists at exorbitant prices. He does not know the
-  ore is slowly poisoning the miners—three have developed a wasting sickness he has been hiding by sending
-  them to distant clinics. He is afraid the Wei military will seize the mine if they learn of the ore's
-  properties.
+appearance: Stocky and soot-stained, wearing heavy leather work clothes and a miner's
+  leather cap.
+biography: An iron mine foreman in the Wei mountains who discovered a vein of ore
+  that glows faintly green and seems to strengthen chi in anyone who carries it. He
+  has been secretly mining this 'qilin iron' and forging small ingots, selling them
+  to martial artists at exorbitant prices. He does not know the ore is slowly poisoning
+  the miners—three have developed a wasting sickness he has been hiding by sending
+  them to distant clinics. He is afraid the Wei military will seize the mine if they
+  learn of the ore's properties.
 personality: Guarded and cautious with trust, carries a secret that shapes every decision.
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 - I will not rest until I sell enough qilin iron to retire far from the mines.
 equipment:
-  underwear: []
+  underwear:
+  - item:mens-inner-yi
+  - item:mens-short-underdrawers
   clothing:
   - item:short-shan-work-shirt
   - item:bound-cuff-field-trousers
@@ -66,7 +71,14 @@ visual:
   distinctive_features:
   - a burn scar across the bridge of the nose
   - missing the left earlobe from a mining explosion
-  prompt: ''
+  prompt: 1man, solo, adult man, thick and muscular, barrel-chested, warm beige skin,
+    strong Chinese facial features, deep-set brown eyes, shaved head, scarred from
+    mine accidents hair, a burn scar across the bridge of the nose, missing the left
+    earlobe from a mining explosion, short shan work shirt, bound-cuff field trousers,
+    portrait, upper body, looking at viewer, soft lighting
+  skin: warm beige
+  height: 5'8"
+  face: strong Chinese facial features
 image:
   url: ''
   focalPoint:
@@ -74,8 +86,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:wei-state
 desires:
@@ -86,6 +98,8 @@ fears_or_limits:
 - The poisoned miners' families learning he hid their sickness
 current_state:
   location: location:sangguo
+memories: []
+momentos: []
 purview: []
 ---
 

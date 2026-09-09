@@ -1,11 +1,12 @@
 ---
 id: character:the-guide
 name: The Guide
-gm_notes: The Guide is not a god. They are a remnant of whatever built the Old Roads — a part of the world
-  left behind when the rest took shape. They have been in the Heavenly Realm longer than anyone alive
-  in Gaia. They do not know the future. They know the nations in general terms but not current events.
-  They are genuinely kind but not warm — they do their work and do not explain why. They cannot leave
-  the Heavenly Realm.
+gm_notes: The Guide is not a god. They are a remnant of whatever built the Old Roads
+  — a part of the world left behind when the rest took shape. They have been in the
+  Heavenly Realm longer than anyone alive in Gaia. They do not know the future. They
+  know the nations in general terms but not current events. They are genuinely kind
+  but not warm — they do their work and do not explain why. They cannot leave the
+  Heavenly Realm.
 aliases: []
 race: Spirit
 gender: Uncertain
@@ -35,21 +36,28 @@ currency:
   gold: 5
   silver: 6
   copper: 11
-appearance: Ageless and calm, dressed in simple undyed robes that could belong to any of the seven nations.
-  They move slowly, as if time is not a concern. Their eyes are dark and patient. They carry nothing.
-biography: The Guide is not a god. They are a remnant of whatever built the Old Roads — a part of the
-  world left behind when the rest took shape. They have been in the Heavenly Realm longer than anyone
-  alive in Gaia. They do not know the future. They know the nations in general terms but not current events.
-  They are genuinely kind but not warm — they do their work and do not explain why. They cannot leave
-  the Heavenly Realm.
-personality: Composed and even-tempered, compassionate and tender-hearted, generous and welcoming.
+appearance: Ageless and calm, dressed in simple undyed robes that could belong to
+  any of the seven nations. They move slowly, as if time is not a concern. Their eyes
+  are dark and patient. They carry nothing.
+biography: The Guide is not a god. They are a remnant of whatever built the Old Roads
+  — a part of the world left behind when the rest took shape. They have been in the
+  Heavenly Realm longer than anyone alive in Gaia. They do not know the future. They
+  know the nations in general terms but not current events. They are genuinely kind
+  but not warm — they do their work and do not explain why. They cannot leave the
+  Heavenly Realm.
+personality: Composed and even-tempered, compassionate and tender-hearted, generous
+  and welcoming.
 key_phrases:
 - The path exists whether or not you can see it.
 - Knowing where you are is not the same as knowing where you're going.
-- I will not rest until I help arriving souls choose a nation to begin in, and to do this work well.
+- I will not rest until I help arriving souls choose a nation to begin in, and to
+  do this work well.
 equipment:
-  underwear: []
-  clothing: []
+  underwear:
+  - item:mens-linen-undershirt
+  - item:mens-drawstring-braies
+  clothing:
+  - item:straight-hem-shenyi
   armor: []
   hands:
     left: null
@@ -59,8 +67,15 @@ equipment:
 visual:
   hair: grey, long, loosely tied
   eyes: dark, patient
-  distinctive_features: a faint mark on the left palm, like an old scar in the shape of a road
-  prompt: ''
+  distinctive_features: a faint mark on the left palm, like an old scar in the shape
+    of a road
+  prompt: 1man, solo, adult man, fit build, broad chest, ethereal luminous pale skin,
+    celestial serene features, dark eyes, grey, long, loosely tied hair, straight-hem
+    shenyi robe, wide embroidered sash, portrait, upper body, looking at viewer, soft
+    lighting
+  skin: ethereal luminous pale
+  height: 5'9"
+  face: celestial serene features
 image:
   url: ''
   focalPoint:
@@ -68,16 +83,20 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations: []
 desires:
 - To help arriving souls choose a nation to begin in, and to do this work well.
 fears_or_limits:
-- Cannot leave the Heavenly Realm. Does not know current events in Gaia. Cannot predict what an arriving
-  soul will become.
+- Cannot leave the Heavenly Realm. Does not know current events in Gaia. Cannot predict
+  what an arriving soul will become.
 current_state:
   location: location:heavenly-realm
+memories:
+- campaign-event/the-arrival-at-the-turning-wheel
+momentos:
+- the-bench-that-keeps
 purview: []
 ---
 

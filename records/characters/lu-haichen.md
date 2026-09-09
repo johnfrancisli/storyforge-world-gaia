@@ -1,13 +1,14 @@
 ---
 id: character:lu-haichen
 name: Lu Haichen
-gm_notes: A martial arts teacher at the Great Academy who teaches swordsmanship but is secretly a pacifist
-  who has never killed anyone. He won his reputation through tournament fighting—always non-lethal. He
-  was conscripted by the Chu warlord three years ago to lead a raid and refused; he was stripped of his
-  Chu rank and fled to the Academy. He teaches students to defend without killing and has developed a
-  fighting style that disarms and incapacitates. The Chu warlord has sent assassins twice, and both times
-  Lu disarmed them and sent them home alive, which infuriates the warlord more than killing them would
-  have.
+gm_notes: A martial arts teacher at the Great Academy who teaches swordsmanship but
+  is secretly a pacifist who has never killed anyone. He won his reputation through
+  tournament fighting—always non-lethal. He was conscripted by the Chu warlord three
+  years ago to lead a raid and refused; he was stripped of his Chu rank and fled to
+  the Academy. He teaches students to defend without killing and has developed a fighting
+  style that disarms and incapacitates. The Chu warlord has sent assassins twice,
+  and both times Lu disarmed them and sent them home alive, which infuriates the warlord
+  more than killing them would have.
 aliases: []
 race: Human
 gender: Male
@@ -37,24 +38,30 @@ currency:
   gold: 0
   silver: 5
   copper: 19
-appearance: Centered and unhurried, wearing simple Academy gray. Always has a wooden practice sword at
-  his side.
-biography: A martial arts teacher at the Great Academy who teaches swordsmanship but is secretly a pacifist
-  who has never killed anyone. He won his reputation through tournament fighting—always non-lethal. He
-  was conscripted by the Chu warlord three years ago to lead a raid and refused; he was stripped of his
-  Chu rank and fled to the Academy. He teaches students to defend without killing and has developed a
-  fighting style that disarms and incapacitates. The Chu warlord has sent assassins twice, and both times
-  Lu disarmed them and sent them home alive, which infuriates the warlord more than killing them would
-  have.
-personality: Guarded and cautious with trust, blunt and rough-spoken, carries a secret that shapes every
-  decision.
+appearance: Centered and unhurried, wearing simple Academy gray. Always has a wooden
+  practice sword at his side.
+biography: A martial arts teacher at the Great Academy who teaches swordsmanship but
+  is secretly a pacifist who has never killed anyone. He won his reputation through
+  tournament fighting—always non-lethal. He was conscripted by the Chu warlord three
+  years ago to lead a raid and refused; he was stripped of his Chu rank and fled to
+  the Academy. He teaches students to defend without killing and has developed a fighting
+  style that disarms and incapacitates. The Chu warlord has sent assassins twice,
+  and both times Lu disarmed them and sent them home alive, which infuriates the warlord
+  more than killing them would have.
+personality: Guarded and cautious with trust, blunt and rough-spoken, carries a secret
+  that shapes every decision.
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
-- I will not rest until I prove that non-lethal combat can change how the three states wage war.
+- I will not rest until I prove that non-lethal combat can change how the three states
+  wage war.
 equipment:
-  underwear: []
-  clothing: []
+  underwear:
+  - item:mens-inner-yi
+  - item:mens-short-underdrawers
+  clothing:
+  - item:short-shan-work-shirt
+  - item:bound-cuff-field-trousers
   armor: []
   hands:
     left: null
@@ -68,7 +75,14 @@ visual:
   distinctive_features:
   - a faint scar across the left cheekbone from a tournament bout
   - hands with knuckles callused from decades of wooden-sword practice
-  prompt: ''
+  prompt: 1man, solo, adult man, lean and whipcord-strong, broad chest, sun-browned
+    tan skin, strong Chinese facial features, dark brown eyes, black, short-cropped
+    for practicality hair, a faint scar across the left cheekbone from a tournament
+    bout, hands with knuckles callused, short shan work shirt, bound-cuff field trousers,
+    portrait, upper body, looking at viewer, soft lighting
+  skin: sun-browned tan
+  height: 5'8"
+  face: strong Chinese facial features
 image:
   url: ''
   focalPoint:
@@ -76,8 +90,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:great-academy
 desires:
@@ -88,6 +102,8 @@ fears_or_limits:
 - That his pacifism is actually cowardice he has dressed in philosophy
 current_state:
   location: location:jin-an
+memories: []
+momentos: []
 purview: []
 ---
 

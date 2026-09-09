@@ -1,12 +1,14 @@
 ---
 id: character:yan-qiulin
 name: Yan Qiulin
-gm_notes: The wife of a Chu general who has been missing on the northern front for eight months. Officially
-  she maintains the household and raises their daughter. Unofficially, she has taken over her husband's
-  intelligence network—the general embedded spies in Wei and Jin under the cover of tea merchants, and
-  she now controls them. She has discovered through this network that her husband is not dead but defected
-  to Wei voluntarily, abandoning his family for a Wei court lady. She is deciding whether to reveal this
-  and destroy his honor or use the knowledge to build her own power base.
+gm_notes: The wife of a Chu general who has been missing on the northern front for
+  eight months. Officially she maintains the household and raises their daughter.
+  Unofficially, she has taken over her husband's intelligence network—the general
+  embedded spies in Wei and Jin under the cover of tea merchants, and she now controls
+  them. She has discovered through this network that her husband is not dead but defected
+  to Wei voluntarily, abandoning his family for a Wei court lady. She is deciding
+  whether to reveal this and destroy his honor or use the knowledge to build her own
+  power base.
 aliases: []
 race: Human
 gender: Female
@@ -36,20 +38,27 @@ currency:
   gold: 1
   silver: 35
   copper: 9
-appearance: Regal and composed, always in Chu-state crimson and gold. Carries a war-fan given by her husband.
-biography: The wife of a Chu general who has been missing on the northern front for eight months. Officially
-  she maintains the household and raises their daughter. Unofficially, she has taken over her husband's
-  intelligence network—the general embedded spies in Wei and Jin under the cover of tea merchants, and
-  she now controls them. She has discovered through this network that her husband is not dead but defected
-  to Wei voluntarily, abandoning his family for a Wei court lady. She is deciding whether to reveal this
-  and destroy his honor or use the knowledge to build her own power base.
+appearance: Regal and composed, always in Chu-state crimson and gold. Carries a war-fan
+  given by her husband.
+biography: The wife of a Chu general who has been missing on the northern front for
+  eight months. Officially she maintains the household and raises their daughter.
+  Unofficially, she has taken over her husband's intelligence network—the general
+  embedded spies in Wei and Jin under the cover of tea merchants, and she now controls
+  them. She has discovered through this network that her husband is not dead but defected
+  to Wei voluntarily, abandoning his family for a Wei court lady. She is deciding
+  whether to reveal this and destroy his honor or use the knowledge to build her own
+  power base.
 personality: Guarded and cautious with trust, blunt and rough-spoken.
 key_phrases:
 - The best lies are the ones that feel like truth.
 - Information is the only currency that never devalues.
 equipment:
-  underwear: []
-  clothing: []
+  underwear:
+  - item:womens-inner-ru
+  - item:womens-loose-undertrousers
+  clothing:
+  - item:cross-collar-ru-jacket
+  - item:reinforced-riding-trousers
   armor: []
   hands:
     left: null
@@ -63,7 +72,15 @@ visual:
   distinctive_features:
   - a thin gold wedding bangle on the left wrist, never removed
   - a callus on the right thumb from archery
-  prompt: ''
+  prompt: 1girl, solo, adult woman, tall and upright, medium breasts, warm golden-tan
+    skin, strong Chinese facial features, sharp black eyes, black with early silver
+    threads, in a general's-wife formal coiffure hair, a thin gold wedding bangle
+    on the left wrist, never removed, a callus on the right thumb from archery, cross-collar
+    ru jacket, reinforced riding trousers, portrait, upper body, looking at viewer,
+    soft lighting
+  skin: warm golden-tan
+  height: 5'1"
+  face: strong Chinese facial features
 image:
   url: ''
   focalPoint:
@@ -71,18 +88,21 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:chu-state
 desires:
-- To build enough leverage that her daughter inherits a title regardless of her husband's fate
+- To build enough leverage that her daughter inherits a title regardless of her husband's
+  fate
 - To confront her husband face to face
 fears_or_limits:
 - Her daughter learning the truth about her father
 - The Chu warlord discovering she commands the spy network and viewing her as a threat
 current_state:
   location: location:jin-an
+memories: []
+momentos: []
 purview: []
 ---
 

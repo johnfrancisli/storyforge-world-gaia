@@ -1,12 +1,13 @@
 ---
 id: character:mei-lin
 name: Mei Lin
-gm_notes: 'Mei Lin has discovered something in the old archives: the original truce agreement between
-  Jin, Chu, and Wei included a secret clause — a mutual defense pact against an external threat that was
-  deliberately omitted from the public text. The threat was never specified, but the archives reference
-  ''the deep place'' and ''the old door,'' phrases that also appear in Shaman Nara''s river spirit warning
-  and Wayfinder Kai''s sea spirit encounter. Mei Lin does not know about Nara or Kai. She thinks the clause
-  is a historical curiosity. It is not.'
+gm_notes: 'Mei Lin has discovered something in the old archives: the original truce
+  agreement between Jin, Chu, and Wei included a secret clause — a mutual defense
+  pact against an external threat that was deliberately omitted from the public text.
+  The threat was never specified, but the archives reference ''the deep place'' and
+  ''the old door,'' phrases that also appear in Shaman Nara''s river spirit warning
+  and Wayfinder Kai''s sea spirit encounter. Mei Lin does not know about Nara or Kai.
+  She thinks the clause is a historical curiosity. It is not.'
 aliases:
 - Strategist Mei Lin
 race: Human
@@ -37,22 +38,26 @@ currency:
   gold: 1
   silver: 19
   copper: 28
-appearance: A slight woman in plain scholar's robes, ink-stained fingers, and hair pinned hastily with
-  a wooden pin. She carries scrolls everywhere and reads while walking, which has caused three collisions
-  this month. Her spectacles are held on with a string.
-biography: 'Mei Lin has discovered something in the old archives: the original truce agreement between
-  Jin, Chu, and Wei included a secret clause — a mutual defense pact against an external threat that was
-  deliberately omitted from the public text. The threat was never specified, but the archives reference
-  ''the deep place'' and ''the old door,'' phrases that also appear in Shaman Nara''s river spirit warning
-  and Wayfinder Kai''s sea spirit encounter. Mei Lin does not know about Nara or Kai. She thinks the clause
-  is a historical curiosity. It is not.'
-personality: Guarded and cautious with trust, blunt and rough-spoken, carries a secret that shapes every
-  decision.
+appearance: A slight woman in plain scholar's robes, ink-stained fingers, and hair
+  pinned hastily with a wooden pin. She carries scrolls everywhere and reads while
+  walking, which has caused three collisions this month. Her spectacles are held on
+  with a string.
+biography: 'Mei Lin has discovered something in the old archives: the original truce
+  agreement between Jin, Chu, and Wei included a secret clause — a mutual defense
+  pact against an external threat that was deliberately omitted from the public text.
+  The threat was never specified, but the archives reference ''the deep place'' and
+  ''the old door,'' phrases that also appear in Shaman Nara''s river spirit warning
+  and Wayfinder Kai''s sea spirit encounter. Mei Lin does not know about Nara or Kai.
+  She thinks the clause is a historical curiosity. It is not.'
+personality: Guarded and cautious with trust, blunt and rough-spoken, carries a secret
+  that shapes every decision.
 key_phrases:
 - Knowledge is not power. Knowledge is a lantern in a large, dark room.
 - The truth does not need you to believe in it.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-inner-ru
+  - item:womens-loose-undertrousers
   clothing:
   - item:wide-sleeved-scholar-robe
   armor: []
@@ -65,8 +70,15 @@ visual:
   body_build: slight, thin, small breasts
   hair: black, hastily pinned
   eyes: dark brown, behind round spectacles
-  distinctive_features: ink stains on right hand and fingertips, round spectacles on a string
-  prompt: ''
+  distinctive_features: ink stains on right hand and fingertips, round spectacles
+    on a string
+  prompt: 1girl, solo, young adult woman, slight, thin, small breasts, sun-browned
+    tan skin, delicate, elegant Chinese facial features, dark brown eyes, black, hastily
+    pinned hair, ink stains on right hand and fingertips, round spectacles on a string,
+    wide-sleeved scholar robe, portrait, upper body, looking at viewer, soft lighting
+  skin: sun-browned tan
+  height: 5'3"
+  face: delicate, elegant Chinese facial features
 image:
   url: ''
   focalPoint:
@@ -74,20 +86,22 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:jin-state
 desires:
-- To understand the full context of the original truce and the secret clause she found — she is a scholar
-  before she is a strategist.
+- To understand the full context of the original truce and the secret clause she found
+  — she is a scholar before she is a strategist.
 - To earn a permanent position on Cao Shen's staff through merit, not politics.
 fears_or_limits:
-- She has no political allies and has accidentally offended two senior advisors by correcting them in
-  public. Her discovery about the secret clause could be politically explosive if she shares it with the
-  wrong person.
+- She has no political allies and has accidentally offended two senior advisors by
+  correcting them in public. Her discovery about the secret clause could be politically
+  explosive if she shares it with the wrong person.
 current_state:
   location: location:jin-an
+memories: []
+momentos: []
 purview: []
 ---
 

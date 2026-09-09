@@ -1,12 +1,13 @@
 ---
 id: character:thorin-graniteborn
 name: Thorin Graniteborn
-gm_notes: Thorin is a dwarf stonemason who discovered a hidden chamber beneath Crownhaven Castle while
-  doing repair work. The chamber contains ancient draconic runes that mention a 'first bond' between humans
-  and dragons — predating the Dragon Order by centuries. He was told to seal it back up by a castle official
-  who seemed terrified. He kept rubbings of the runes and is trying to decipher them privately. The runes
-  suggest the dragon bond can be transferred, not just broken — which could change the succession crisis
-  entirely.
+gm_notes: Thorin is a dwarf stonemason who discovered a hidden chamber beneath Crownhaven
+  Castle while doing repair work. The chamber contains ancient draconic runes that
+  mention a 'first bond' between humans and dragons — predating the Dragon Order by
+  centuries. He was told to seal it back up by a castle official who seemed terrified.
+  He kept rubbings of the runes and is trying to decipher them privately. The runes
+  suggest the dragon bond can be transferred, not just broken — which could change
+  the succession crisis entirely.
 aliases: []
 race: Dwarf
 gender: Male
@@ -37,24 +38,30 @@ currency:
   gold: 5
   silver: 4
   copper: 14
-appearance: Stocky and stone-faced, Thorin wears a leather work vest over a thick shirt, his beard braided
-  with iron beads. His hands are rough as the granite he works.
-biography: Thorin is a dwarf stonemason who discovered a hidden chamber beneath Crownhaven Castle while
-  doing repair work. The chamber contains ancient draconic runes that mention a 'first bond' between humans
-  and dragons — predating the Dragon Order by centuries. He was told to seal it back up by a castle official
-  who seemed terrified. He kept rubbings of the runes and is trying to decipher them privately. The runes
-  suggest the dragon bond can be transferred, not just broken — which could change the succession crisis
-  entirely.
+appearance: Stocky and stone-faced, Thorin wears a leather work vest over a thick
+  shirt, his beard braided with iron beads. His hands are rough as the granite he
+  works.
+biography: Thorin is a dwarf stonemason who discovered a hidden chamber beneath Crownhaven
+  Castle while doing repair work. The chamber contains ancient draconic runes that
+  mention a 'first bond' between humans and dragons — predating the Dragon Order by
+  centuries. He was told to seal it back up by a castle official who seemed terrified.
+  He kept rubbings of the runes and is trying to decipher them privately. The runes
+  suggest the dragon bond can be transferred, not just broken — which could change
+  the succession crisis entirely.
 personality: Shrewd and calculating, guarded and cautious with trust, blunt and rough-spoken.
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
-- I will not rest until I decipher the runes and understand what the 'first bond' truly means.
+- I will not rest until I decipher the runes and understand what the 'first bond'
+  truly means.
 equipment:
-  underwear: []
+  underwear:
+  - item:mens-linen-undershirt
+  - item:mens-drawstring-braies
   clothing:
   - item:dwarven-split-hem-tunic
   - item:wool-trousers
+  - item:sleeveless-riding-vest
   armor: []
   hands:
     left: null
@@ -65,9 +72,16 @@ visual:
   body_build: short and barrel-chested, dwarven build
   hair: iron grey, long beard braided with metal rings
   eyes: dark brown
-  distinctive_features: a missing left ring finger (lost to a stone splinter), intricate dwarven clan
-    tattoos on both forearms
-  prompt: ''
+  distinctive_features: a missing left ring finger (lost to a stone splinter), intricate
+    dwarven clan tattoos on both forearms
+  prompt: 1man, solo, elderly man, dwarf, compact dense adult stature, short and barrel-chested,
+    dwarven build, weathered tan skin, broad, dense, determined adult dwarven features,
+    dark brown eyes, iron grey, long beard braided with metal rings hair, split-hem
+    dwarven work tunic, wide belt, wool trousers, portrait, upper body, looking at
+    viewer, soft lighting
+  skin: weathered tan
+  height: 4'7"
+  face: broad, dense, determined adult dwarven features
 image:
   url: ''
   focalPoint:
@@ -75,8 +89,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:val-merchant-guild
 desires:
@@ -87,6 +101,8 @@ fears_or_limits:
 - that the ancient knowledge will be worse than the current crisis
 current_state:
   location: location:crownhaven
+memories: []
+momentos: []
 purview: []
 ---
 

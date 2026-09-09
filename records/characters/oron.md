@@ -1,12 +1,13 @@
 ---
 id: character:oron
 name: Oron
-gm_notes: Oron is a politician, not a shaman. He respects Nara but is tired of her spiritual warnings
-  taking priority over practical problems. The city is flooding, people need housing, and the council
-  spends its time discussing spirit-pacts. He has been quietly building support to relocate Iara upstream,
-  away from the rising river — a massive undertaking that would split the community. He does not believe
-  the river spirit's warning is about something supernatural; he thinks it is about the river flooding,
-  which is a problem engineering can solve, not magic.
+gm_notes: Oron is a politician, not a shaman. He respects Nara but is tired of her
+  spiritual warnings taking priority over practical problems. The city is flooding,
+  people need housing, and the council spends its time discussing spirit-pacts. He
+  has been quietly building support to relocate Iara upstream, away from the rising
+  river — a massive undertaking that would split the community. He does not believe
+  the river spirit's warning is about something supernatural; he thinks it is about
+  the river flooding, which is a problem engineering can solve, not magic.
 aliases:
 - Chief Oron of Iara
 race: Human
@@ -37,21 +38,24 @@ currency:
   gold: 40
   silver: 86
   copper: 49
-appearance: A stocky, sun-darkened man in fine river-cloth and featherwork — the marks of his office.
-  He carries a chief's staff of carved driftwood. He is usually in the council hall, arguing. He has a
-  loud voice and uses it.
-biography: Oron is a politician, not a shaman. He respects Nara but is tired of her spiritual warnings
-  taking priority over practical problems. The city is flooding, people need housing, and the council
-  spends its time discussing spirit-pacts. He has been quietly building support to relocate Iara upstream,
-  away from the rising river — a massive undertaking that would split the community. He does not believe
-  the river spirit's warning is about something supernatural; he thinks it is about the river flooding,
-  which is a problem engineering can solve, not magic.
-personality: Reserved and soft-spoken, strict and disciplined, tired and carrying a heavy burden.
+appearance: A stocky, sun-darkened man in fine river-cloth and featherwork — the marks
+  of his office. He carries a chief's staff of carved driftwood. He is usually in
+  the council hall, arguing. He has a loud voice and uses it.
+biography: Oron is a politician, not a shaman. He respects Nara but is tired of her
+  spiritual warnings taking priority over practical problems. The city is flooding,
+  people need housing, and the council spends its time discussing spirit-pacts. He
+  has been quietly building support to relocate Iara upstream, away from the rising
+  river — a massive undertaking that would split the community. He does not believe
+  the river spirit's warning is about something supernatural; he thinks it is about
+  the river flooding, which is a problem engineering can solve, not magic.
+personality: Reserved and soft-spoken, strict and disciplined, tired and carrying
+  a heavy burden.
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 equipment:
-  underwear: []
+  underwear:
+  - item:mens-softbark-loin-underwrap
   clothing:
   - item:open-side-river-vest
   - item:river-worker-split-wrap
@@ -66,8 +70,15 @@ visual:
   skin: deep brown
   hair: grey, close-cropped
   eyes: dark brown
-  distinctive_features: a chief's featherwork collar, a ritual scar on the left cheek marking his election
-  prompt: ''
+  distinctive_features: a chief's featherwork collar, a ritual scar on the left cheek
+    marking his election
+  prompt: 1boy, solo, young adult man, stocky, broad, broad chest, deep brown skin,
+    Indigenous Amazonian facial features, high cheekbones, dark brown eyes, grey,
+    close-cropped hair, a chief's featherwork collar, a ritual scar on the left cheek,
+    open-side river vest, river-worker split wrap, portrait, upper body, looking at
+    viewer, soft lighting
+  height: 5'6"
+  face: Indigenous Amazonian facial features, high cheekbones
 image:
   url: ''
   focalPoint:
@@ -75,20 +86,23 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:ver-shaman-circle
 desires:
-- To relocate Iara upstream before the river takes the lower districts, with or without the council's
-  agreement.
-- To reduce the shamans' influence over civic decisions, which he believes is keeping the city from acting.
+- To relocate Iara upstream before the river takes the lower districts, with or without
+  the council's agreement.
+- To reduce the shamans' influence over civic decisions, which he believes is keeping
+  the city from acting.
 fears_or_limits:
-- The shamans have more influence than he does with the people. Relocating the city splits the community.
-  He may be right about the engineering and wrong about the supernatural — and being wrong about the supernatural
-  in Verdania has consequences.
+- The shamans have more influence than he does with the people. Relocating the city
+  splits the community. He may be right about the engineering and wrong about the
+  supernatural — and being wrong about the supernatural in Verdania has consequences.
 current_state:
   location: location:iara
+memories: []
+momentos: []
 purview: []
 ---
 

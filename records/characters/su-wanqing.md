@@ -1,12 +1,14 @@
 ---
 id: character:su-wanqing
 name: Su Wanqing
-gm_notes: A tea merchant whose tea blends are renowned across all three states. She is also the Great
-  Academy's primary information broker—her tea caravans carry coded messages hidden in the tea packaging.
-  She chose this life after the Academy saved her from a Wei prison where she was held for 'treasonous
-  poetry.' She has a photographic memory for faces and conversations and can recall details from a single
-  meeting years later. She is being courted by both Jin and Chu intelligence services and has been feeding
-  both slightly altered versions of the same information to maintain a balance of power.
+gm_notes: A tea merchant whose tea blends are renowned across all three states. She
+  is also the Great Academy's primary information broker—her tea caravans carry coded
+  messages hidden in the tea packaging. She chose this life after the Academy saved
+  her from a Wei prison where she was held for 'treasonous poetry.' She has a photographic
+  memory for faces and conversations and can recall details from a single meeting
+  years later. She is being courted by both Jin and Chu intelligence services and
+  has been feeding both slightly altered versions of the same information to maintain
+  a balance of power.
 aliases: []
 race: Human
 gender: Female
@@ -36,21 +38,27 @@ currency:
   gold: 24
   silver: 55
   copper: 31
-appearance: Warm and round-faced, always offering tea. Wears travel-worn but quality clothes and carries
-  sample tins.
-biography: A tea merchant whose tea blends are renowned across all three states. She is also the Great
-  Academy's primary information broker—her tea caravans carry coded messages hidden in the tea packaging.
-  She chose this life after the Academy saved her from a Wei prison where she was held for 'treasonous
-  poetry.' She has a photographic memory for faces and conversations and can recall details from a single
-  meeting years later. She is being courted by both Jin and Chu intelligence services and has been feeding
-  both slightly altered versions of the same information to maintain a balance of power.
-personality: Tired and carrying a heavy burden, guarded and cautious with trust, thoughtful and philosophical.
+appearance: Warm and round-faced, always offering tea. Wears travel-worn but quality
+  clothes and carries sample tins.
+biography: A tea merchant whose tea blends are renowned across all three states. She
+  is also the Great Academy's primary information broker—her tea caravans carry coded
+  messages hidden in the tea packaging. She chose this life after the Academy saved
+  her from a Wei prison where she was held for 'treasonous poetry.' She has a photographic
+  memory for faces and conversations and can recall details from a single meeting
+  years later. She is being courted by both Jin and Chu intelligence services and
+  has been feeding both slightly altered versions of the same information to maintain
+  a balance of power.
+personality: Tired and carrying a heavy burden, guarded and cautious with trust, thoughtful
+  and philosophical.
 key_phrases:
 - A fair deal leaves both sides slightly unhappy. That is how you know it was fair.
 - Trust is the only currency that compounds.
-- I will not rest until I maintain the balance between the three states until a peace is brokered.
+- I will not rest until I maintain the balance between the three states until a peace
+  is brokered.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-inner-ru
+  - item:womens-loose-undertrousers
   clothing:
   - item:short-shan-work-shirt
   - item:bound-cuff-field-trousers
@@ -67,7 +75,14 @@ visual:
   distinctive_features:
   - tea-stained fingertips
   - a small jade pendant of a lotus (Academy signal)
-  prompt: ''
+  prompt: 1girl, solo, adult woman, plump and comfortable, huge breasts, warm beige
+    skin, strong Chinese facial features, small eyes, black streaked with white, in
+    a practical merchant's wrap hair, tea-stained fingertips, a small jade pendant
+    of a lotus, short shan work shirt, bound-cuff field trousers, portrait, upper
+    body, looking at viewer, soft lighting
+  skin: warm beige
+  height: 5'3"
+  face: strong Chinese facial features
 image:
   url: ''
   focalPoint:
@@ -75,8 +90,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:great-academy
 desires:
@@ -87,6 +102,8 @@ fears_or_limits:
 - A coded message being intercepted and decoded
 current_state:
   location: location:sangguo
+memories: []
+momentos: []
 purview: []
 ---
 

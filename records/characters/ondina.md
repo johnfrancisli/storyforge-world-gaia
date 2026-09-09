@@ -1,14 +1,16 @@
 ---
 id: character:ondina
 name: Ondina
-gm_notes: 'A Mizuhito midwife who has delivered over three hundred babies — human, beast-kin, and Mizuhito
-  alike — and who can hold her breath underwater for nearly an hour. Her secret is that she has delivered
-  four children who were not born of their mothers but of the river itself — infants who appeared in the
-  shallows, alive and breathing water, with no visible parents. She has quietly placed each one with families
-  who believe they are natural births. These four children are now between the ages of two and twelve
-  and share a strange trait: they never cry and they can find fresh water by smell alone. Ondina has realized
-  the river is seeding children into the population for a purpose she does not understand, and she is
-  afraid of what will happen when they come of age.'
+gm_notes: 'A Mizuhito midwife who has delivered over three hundred babies — human,
+  beast-kin, and Mizuhito alike — and who can hold her breath underwater for nearly
+  an hour. Her secret is that she has delivered four children who were not born of
+  their mothers but of the river itself — infants who appeared in the shallows, alive
+  and breathing water, with no visible parents. She has quietly placed each one with
+  families who believe they are natural births. These four children are now between
+  the ages of two and twelve and share a strange trait: they never cry and they can
+  find fresh water by smell alone. Ondina has realized the river is seeding children
+  into the population for a purpose she does not understand, and she is afraid of
+  what will happen when they come of age.'
 aliases: []
 race: Mizuhito
 gender: Female
@@ -39,23 +41,29 @@ currency:
   gold: 3
   silver: 9
   copper: 3
-appearance: Solid and reassuring, with the serene patience of deep water. Wears a wet wrap and a belt
-  of tools. Her webbed hands are extraordinarily gentle.
-biography: 'A Mizuhito midwife who has delivered over three hundred babies — human, beast-kin, and Mizuhito
-  alike — and who can hold her breath underwater for nearly an hour. Her secret is that she has delivered
-  four children who were not born of their mothers but of the river itself — infants who appeared in the
-  shallows, alive and breathing water, with no visible parents. She has quietly placed each one with families
-  who believe they are natural births. These four children are now between the ages of two and twelve
-  and share a strange trait: they never cry and they can find fresh water by smell alone. Ondina has realized
-  the river is seeding children into the population for a purpose she does not understand, and she is
-  afraid of what will happen when they come of age.'
-personality: Composed and even-tempered, reserved and soft-spoken, compassionate and tender-hearted.
+appearance: Solid and reassuring, with the serene patience of deep water. Wears a
+  wet wrap and a belt of tools. Her webbed hands are extraordinarily gentle.
+biography: 'A Mizuhito midwife who has delivered over three hundred babies — human,
+  beast-kin, and Mizuhito alike — and who can hold her breath underwater for nearly
+  an hour. Her secret is that she has delivered four children who were not born of
+  their mothers but of the river itself — infants who appeared in the shallows, alive
+  and breathing water, with no visible parents. She has quietly placed each one with
+  families who believe they are natural births. These four children are now between
+  the ages of two and twelve and share a strange trait: they never cry and they can
+  find fresh water by smell alone. Ondina has realized the river is seeding children
+  into the population for a purpose she does not understand, and she is afraid of
+  what will happen when they come of age.'
+personality: Composed and even-tempered, reserved and soft-spoken, compassionate and
+  tender-hearted.
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
-- I will not rest until I understand why the river is seeding children and what it wants of them.
+- I will not rest until I understand why the river is seeding children and what it
+  wants of them.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-softbark-chest-wrap
+  - item:womens-inner-hip-wrap
   clothing:
   - item:sleeveless-barkcloth-tunic
   - item:softbark-wrap-skirt
@@ -73,7 +81,15 @@ visual:
   - blue-green skin with darker mottling across the shoulders
   - webbed fingers and toes
   - gill-like slits along the ribcage that flare when she breathes deeply
-  prompt: ''
+  prompt: 1girl, solo, elderly woman, amphibious humanoid, webbed fingers and toes,
+    fine aquatic scales, full-figured and strong, broad-hipped, huge breasts, smooth
+    aqua and blue-green skin, fine-scaled amphibious features, large dark eyes, pale
+    blue-grey eyes, dark teal, braided and bound with river-shell beads hair, blue-green
+    skin with darker mottling across the shoulders, sleeveless barkcloth tunic, softbark
+    wrap skirt, portrait, upper body, looking at viewer, soft lighting
+  skin: smooth aqua and blue-green
+  height: 5'3"
+  face: fine-scaled amphibious features, large dark eyes
 image:
   url: ''
   focalPoint:
@@ -81,8 +97,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:ver-shaman-circle
 desires:
@@ -93,6 +109,8 @@ fears_or_limits:
 - That revealing their nature will turn the tribes against them
 current_state:
   location: location:iara
+memories: []
+momentos: []
 purview: []
 ---
 

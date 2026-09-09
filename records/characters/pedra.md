@@ -1,16 +1,19 @@
 ---
 id: character:pedra
 name: Pedra
-gm_notes: 'A human potter who specializes in fire-resistant cooking vessels and who maintains the kilns
-  used by the community. He is Argila''s younger brother and works alongside her, though their relationship
-  has been strained since he noticed she has been acting secretive and hiding something in her home. He
-  does not know about the clay-child, but he has heard sounds from her locked storeroom and has assumed
-  she is hoarding a special clay deposit. His own secret: he has been experimenting with a glazing technique
-  using a mineral he found near the temple ruins — a metallic oxide that produces a stunning deep blue
-  glaze but which, he has realized, gives off a faint spirit-resonance when fired. The glazed pots seem
-  to attract insects and small animals, which gather near them inexplicably. He has been testing whether
-  the resonance can be controlled or directed, and he has started sleeping next to a glazed pot to see
-  if it affects his dreams. It does — vividly — and the dreams are not entirely his own.'
+gm_notes: 'A human potter who specializes in fire-resistant cooking vessels and who
+  maintains the kilns used by the community. He is Argila''s younger brother and works
+  alongside her, though their relationship has been strained since he noticed she
+  has been acting secretive and hiding something in her home. He does not know about
+  the clay-child, but he has heard sounds from her locked storeroom and has assumed
+  she is hoarding a special clay deposit. His own secret: he has been experimenting
+  with a glazing technique using a mineral he found near the temple ruins — a metallic
+  oxide that produces a stunning deep blue glaze but which, he has realized, gives
+  off a faint spirit-resonance when fired. The glazed pots seem to attract insects
+  and small animals, which gather near them inexplicably. He has been testing whether
+  the resonance can be controlled or directed, and he has started sleeping next to
+  a glazed pot to see if it affects his dreams. It does — vividly — and the dreams
+  are not entirely his own.'
 aliases: []
 race: Human
 gender: Male
@@ -40,26 +43,31 @@ currency:
   gold: 0
   silver: 15
   copper: 7
-appearance: Broad and soot-darkened, with burn scars on his forearms. Works shirtless near the heat of
-  the kilns. His hands are permanently stained with mineral colors.
-biography: 'A human potter who specializes in fire-resistant cooking vessels and who maintains the kilns
-  used by the community. He is Argila''s younger brother and works alongside her, though their relationship
-  has been strained since he noticed she has been acting secretive and hiding something in her home. He
-  does not know about the clay-child, but he has heard sounds from her locked storeroom and has assumed
-  she is hoarding a special clay deposit. His own secret: he has been experimenting with a glazing technique
-  using a mineral he found near the temple ruins — a metallic oxide that produces a stunning deep blue
-  glaze but which, he has realized, gives off a faint spirit-resonance when fired. The glazed pots seem
-  to attract insects and small animals, which gather near them inexplicably. He has been testing whether
-  the resonance can be controlled or directed, and he has started sleeping next to a glazed pot to see
-  if it affects his dreams. It does — vividly — and the dreams are not entirely his own.'
-personality: Defiant and independently minded, guarded and cautious with trust, carries a secret that
-  shapes every decision.
+appearance: Broad and soot-darkened, with burn scars on his forearms. Works shirtless
+  near the heat of the kilns. His hands are permanently stained with mineral colors.
+biography: 'A human potter who specializes in fire-resistant cooking vessels and who
+  maintains the kilns used by the community. He is Argila''s younger brother and works
+  alongside her, though their relationship has been strained since he noticed she
+  has been acting secretive and hiding something in her home. He does not know about
+  the clay-child, but he has heard sounds from her locked storeroom and has assumed
+  she is hoarding a special clay deposit. His own secret: he has been experimenting
+  with a glazing technique using a mineral he found near the temple ruins — a metallic
+  oxide that produces a stunning deep blue glaze but which, he has realized, gives
+  off a faint spirit-resonance when fired. The glazed pots seem to attract insects
+  and small animals, which gather near them inexplicably. He has been testing whether
+  the resonance can be controlled or directed, and he has started sleeping next to
+  a glazed pot to see if it affects his dreams. It does — vividly — and the dreams
+  are not entirely his own.'
+personality: Defiant and independently minded, guarded and cautious with trust, carries
+  a secret that shapes every decision.
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
-- I will not rest until I understand the spirit-resonance of the blue glaze and what it means.
+- I will not rest until I understand the spirit-resonance of the blue glaze and what
+  it means.
 equipment:
-  underwear: []
+  underwear:
+  - item:mens-softbark-loin-underwrap
   clothing:
   - item:sleeveless-barkcloth-tunic
   - item:softbark-wrap-skirt
@@ -77,7 +85,15 @@ visual:
   - kiln-burn scarring on both forearms, layered and old
   - deep blue mineral staining on the fingers from glaze work
   - a permanent faint smokiness to his scent
-  prompt: ''
+  prompt: 1man, solo, adult man, broad and sturdy, heat-tolerant from kiln work, broad
+    chest, warm copper-brown skin, Indigenous Amazonian facial features, high cheekbones,
+    brown eyes, black, singed short, perpetually ash-dusted hair, kiln-burn scarring
+    on both forearms, layered and old, deep blue mineral staining on the fingers from
+    glaze work, sleeveless barkcloth tunic, softbark wrap skirt, portrait, upper body,
+    looking at viewer, soft lighting
+  skin: warm copper-brown
+  height: 5'6"
+  face: Indigenous Amazonian facial features, high cheekbones
 image:
   url: ''
   focalPoint:
@@ -85,8 +101,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:ver-river-consortium
 desires:
@@ -97,6 +113,8 @@ fears_or_limits:
 - That whatever Argila is hiding is dangerous and he is the only one who has noticed
 current_state:
   location: location:iara
+memories: []
+momentos: []
 purview: []
 ---
 

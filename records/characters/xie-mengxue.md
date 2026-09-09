@@ -1,13 +1,14 @@
 ---
 id: character:xie-mengxue
 name: Xie Mengxue
-gm_notes: A young woman who was the Wei warlord's personal chi-cultivation student until she discovered
-  that the warlord's training method involved draining chi from prisoners to fuel his students' advancement.
-  She escaped the Wei palace, taking evidence of the chi-draining practice—a bloodstained cultivation
-  manual. She is now hiding in Jin-an under a false name, working as a laundress. The Wei warlord has
-  sent his best chi-cultivator to retrieve her and the manual. She has sought refuge at the Great Academy
-  but has not yet revealed what she knows because she is terrified the Academy will hand her back to Wei
-  to avoid a diplomatic incident.
+gm_notes: A young woman who was the Wei warlord's personal chi-cultivation student
+  until she discovered that the warlord's training method involved draining chi from
+  prisoners to fuel his students' advancement. She escaped the Wei palace, taking
+  evidence of the chi-draining practice—a bloodstained cultivation manual. She is
+  now hiding in Jin-an under a false name, working as a laundress. The Wei warlord
+  has sent his best chi-cultivator to retrieve her and the manual. She has sought
+  refuge at the Great Academy but has not yet revealed what she knows because she
+  is terrified the Academy will hand her back to Wei to avoid a diplomatic incident.
 aliases: []
 race: Human
 gender: Female
@@ -37,22 +38,27 @@ currency:
   gold: 2
   silver: 17
   copper: 14
-appearance: Nondescript and deliberately plain, wearing laundress's clothes. Hands red and rough from
-  lye soap. Moves quietly and stays near exits.
-biography: A young woman who was the Wei warlord's personal chi-cultivation student until she discovered
-  that the warlord's training method involved draining chi from prisoners to fuel his students' advancement.
-  She escaped the Wei palace, taking evidence of the chi-draining practice—a bloodstained cultivation
-  manual. She is now hiding in Jin-an under a false name, working as a laundress. The Wei warlord has
-  sent his best chi-cultivator to retrieve her and the manual. She has sought refuge at the Great Academy
-  but has not yet revealed what she knows because she is terrified the Academy will hand her back to Wei
-  to avoid a diplomatic incident.
-personality: Reserved and soft-spoken, guarded and cautious with trust, blunt and rough-spoken.
+appearance: Nondescript and deliberately plain, wearing laundress's clothes. Hands
+  red and rough from lye soap. Moves quietly and stays near exits.
+biography: A young woman who was the Wei warlord's personal chi-cultivation student
+  until she discovered that the warlord's training method involved draining chi from
+  prisoners to fuel his students' advancement. She escaped the Wei palace, taking
+  evidence of the chi-draining practice—a bloodstained cultivation manual. She is
+  now hiding in Jin-an under a false name, working as a laundress. The Wei warlord
+  has sent his best chi-cultivator to retrieve her and the manual. She has sought
+  refuge at the Great Academy but has not yet revealed what she knows because she
+  is terrified the Academy will hand her back to Wei to avoid a diplomatic incident.
+personality: Reserved and soft-spoken, guarded and cautious with trust, blunt and
+  rough-spoken.
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
-- I will not rest until I find safety and someone trustworthy to give the cultivation manual to.
+- I will not rest until I find safety and someone trustworthy to give the cultivation
+  manual to.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-inner-ru
+  - item:womens-loose-undertrousers
   clothing:
   - item:short-shan-work-shirt
   - item:bound-cuff-field-trousers
@@ -69,7 +75,14 @@ visual:
   distinctive_features:
   - chi-cultivation calluses on both palms (inconsistent with a laundress's hands)
   - a faded Wei-state cultivation corps brand on the inside of the left wrist
-  prompt: ''
+  prompt: 1girl, solo, young adult woman, slight and wiry, undernourished, small breasts,
+    warm beige skin, strong Chinese facial features, dark brown eyes, dye-darkened
+    brown, in a tight laundress bun hair, chi-cultivation calluses on both palms,
+    short shan work shirt, bound-cuff field trousers, portrait, upper body, looking
+    at viewer, soft lighting
+  skin: warm beige
+  height: 5'3"
+  face: strong Chinese facial features
 image:
   url: ''
   focalPoint:
@@ -77,8 +90,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:san-merchant-cartel
 desires:
@@ -89,6 +102,8 @@ fears_or_limits:
 - The Academy returning her to Wei as a diplomatic gesture
 current_state:
   location: location:jin-an
+memories: []
+momentos: []
 purview: []
 ---
 

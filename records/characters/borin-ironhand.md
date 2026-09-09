@@ -1,12 +1,13 @@
 ---
 id: character:borin-ironhand
 name: Borin Ironhand
-gm_notes: Borin has been asked by the reformist faction to examine dragonbone artifacts that Elara's people
-  have been collecting. He has discovered that the bones still carry a faint resonance — a shadow of the
-  bond. He believes it might be possible to create an artificial bond using processed dragonbone, but
-  the process would require a live dragon's cooperation to calibrate, which is exactly what no one has.
-  He has not told Elara this because he is not certain, and a dwarf who gives uncertain information is
-  a dwarf who does not get hired again.
+gm_notes: Borin has been asked by the reformist faction to examine dragonbone artifacts
+  that Elara's people have been collecting. He has discovered that the bones still
+  carry a faint resonance — a shadow of the bond. He believes it might be possible
+  to create an artificial bond using processed dragonbone, but the process would require
+  a live dragon's cooperation to calibrate, which is exactly what no one has. He has
+  not told Elara this because he is not certain, and a dwarf who gives uncertain information
+  is a dwarf who does not get hired again.
 aliases: []
 race: Dwarf
 gender: Male
@@ -37,25 +38,30 @@ currency:
   gold: 5
   silver: 15
   copper: 14
-appearance: A compact, broad man in a leather apron over forge-stained clothes, his arms bare and heavily
-  muscled. His beard is iron-grey and braided in the mountain-dwarf style. His hands are scarred from
-  decades of forge work. He smells of coal and hot metal.
-biography: Borin has been asked by the reformist faction to examine dragonbone artifacts that Elara's
-  people have been collecting. He has discovered that the bones still carry a faint resonance — a shadow
-  of the bond. He believes it might be possible to create an artificial bond using processed dragonbone,
-  but the process would require a live dragon's cooperation to calibrate, which is exactly what no one
-  has. He has not told Elara this because he is not certain, and a dwarf who gives uncertain information
+appearance: A compact, broad man in a leather apron over forge-stained clothes, his
+  arms bare and heavily muscled. His beard is iron-grey and braided in the mountain-dwarf
+  style. His hands are scarred from decades of forge work. He smells of coal and hot
+  metal.
+biography: Borin has been asked by the reformist faction to examine dragonbone artifacts
+  that Elara's people have been collecting. He has discovered that the bones still
+  carry a faint resonance — a shadow of the bond. He believes it might be possible
+  to create an artificial bond using processed dragonbone, but the process would require
+  a live dragon's cooperation to calibrate, which is exactly what no one has. He has
+  not told Elara this because he is not certain, and a dwarf who gives uncertain information
   is a dwarf who does not get hired again.
-personality: Precise and detail-oriented, defiant and independently minded, guarded and cautious with
-  trust.
+personality: Precise and detail-oriented, defiant and independently minded, guarded
+  and cautious with trust.
 key_phrases:
 - Metal has opinions. My job is to negotiate.
 - The forge teaches patience whether you want to learn it or not.
 equipment:
-  underwear: []
+  underwear:
+  - item:mens-linen-undershirt
+  - item:mens-drawstring-braies
   clothing:
   - item:dwarven-split-hem-tunic
   - item:wool-trousers
+  - item:wrapped-work-apron
   armor: []
   hands:
     left: null
@@ -67,9 +73,15 @@ visual:
   height: short but not disproportionately so
   hair: iron grey, braided beard
   eyes: dark brown
-  distinctive_features: extensive burn scars on both forearms and hands, a metal replacement tip on the
-    left thumb
-  prompt: ''
+  distinctive_features: extensive burn scars on both forearms and hands, a metal replacement
+    tip on the left thumb
+  prompt: 1boy, solo, young adult man, dwarf, compact dense adult stature, compact,
+    dense, heavily muscled, average chest, weathered tan skin, broad, determined adult
+    dwarven features, dark brown eyes, iron grey, braided beard hair, split-hem dwarven
+    work tunic, wide belt, wool trousers, portrait, upper body, looking at viewer,
+    soft lighting
+  skin: weathered tan
+  face: broad, dense, determined adult dwarven features
 image:
   url: ''
   focalPoint:
@@ -77,19 +89,22 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:val-dawnfire-church
 desires:
-- To understand dragonbone well enough to work it properly — it is the one material that still challenges
-  him.
+- To understand dragonbone well enough to work it properly — it is the one material
+  that still challenges him.
 - To be paid well and left alone, in roughly that order.
 fears_or_limits:
-- His research into dragonbone resonance is incomplete and potentially dangerous. If the wrong people
-  learn what he is doing, he becomes a political pawn in the succession crisis.
+- His research into dragonbone resonance is incomplete and potentially dangerous.
+  If the wrong people learn what he is doing, he becomes a political pawn in the succession
+  crisis.
 current_state:
   location: location:crownhaven
+memories: []
+momentos: []
 purview: []
 ---
 

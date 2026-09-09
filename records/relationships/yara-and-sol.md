@@ -10,7 +10,7 @@ bond: Yara's spiritual authority and Sol's civic influence place mother and daug
 is_familial: true
 kinship:
 - subject: character:yara
-  relation: parent_of
+  relation: adoptive_parent_of
   object: character:sol
   visibility: public
 summary: Yara's spiritual authority and Sol's civic influence place mother and daughter at the center

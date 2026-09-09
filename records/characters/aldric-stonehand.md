@@ -38,8 +38,8 @@ currency:
   copper: 0
 appearance: Grey-bearded and scarred, Aldric wears a faded Dragon Order tabard over chainmail. He favours
   his left leg, an old injury, and his right hand trembles slightly — a remnant of bond-sickness. Despite
-  his scars, he carries a rugged, highly attractive and handsome masculine appeal, a grizzled veteran whose
-  aesthetics command respect.
+  his scars, he carries a rugged, highly attractive and handsome masculine appeal, a grizzled veteran
+  whose aesthetics command respect.
 biography: Once a proud knight of the Dragon Order, Aldric's life fractured when his bonded dragon fell
   in battle two decades ago. The resulting bond-breaking trauma forced his retirement. He now dedicates
   his life to training the next generation of squires in Dragonrest, quietly suffering the phantom pains
@@ -48,12 +48,16 @@ personality: Gruff, disciplined, and outwardly stoic. He is demanding of his squ
   the lethal cost of a mistake. Beneath his hard exterior lies a profound sorrow and a secret, terrifying
   hope regarding the new sensations stirring in his mind.
 key_phrases:
-- "Your blade must be an extension of your intent, not just your arm."
-- "The sky remembers."
-- "Pain is just a teacher who doesn't hold back."
+- Your blade must be an extension of your intent, not just your arm.
+- The sky remembers.
+- Pain is just a teacher who doesn't hold back.
 equipment:
-  underwear: []
-  clothing: []
+  underwear:
+  - item:mens-linen-undershirt
+  - item:mens-drawstring-braies
+  clothing:
+  - item:wool-overtunic
+  - item:wool-trousers
   armor: []
   hands:
     left: null
@@ -67,7 +71,13 @@ visual:
   distinctive_features: a dragon-scale burn scar covering his right hand and forearm, a limp on the left
     leg from a shattered knee
   face: rugged, handsome features
-  prompt: ''
+  prompt: 1boy, solo, male focus, Human, middle-aged man, broad, muscular, battle-worn, broad chest, 5'10",
+    light beige skin, rugged face, pale blue eyes, grey hair, cropped close hair, beard full and braided,
+    a dragon-scale burn scar covering his right hand and forearm, a limp on the left leg from a shattered
+    knee, broad muscular build, grey cropped hair, full braided beard, tunic, trousers, holding sword,
+    training grounds
+  skin: light beige
+  height: 5'10"
 image:
   url: ''
   focalPoint:
@@ -75,8 +85,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:dragon-order
 desires:
@@ -87,6 +97,8 @@ fears_or_limits:
 - that he will fail another person the way he failed his dragon
 current_state:
   location: location:dragonrest
+memories: []
+momentos: []
 purview: []
 ---
 

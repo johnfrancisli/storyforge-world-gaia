@@ -1,10 +1,11 @@
 ---
 id: character:takeda-honoka
 name: Takeda Honoka
-gm_notes: Honoka serves Daimyo Takeda (character:takeda-renji) as a vassal warrior, but she has fallen
-  secretly in love with Prince Haru (character:ashikara-haru), the shogun's younger son, after meeting
-  him at a border inspection. She has been passing no information to either side, but both Takeda's retainer
-  and the prince's attendant have noticed her distraction. Takeda is beginning to suspect her loyalty.
+gm_notes: Honoka serves Daimyo Takeda (character:takeda-renji) as a vassal warrior,
+  but she has fallen secretly in love with Prince Haru (character:ashikara-haru),
+  the shogun's younger son, after meeting him at a border inspection. She has been
+  passing no information to either side, but both Takeda's retainer and the prince's
+  attendant have noticed her distraction. Takeda is beginning to suspect her loyalty.
   She carries a letter from the prince that she has neither sent nor destroyed.
 aliases: []
 race: Human
@@ -35,23 +36,30 @@ currency:
   gold: 5
   silver: 36
   copper: 21
-appearance: She wears practical armor over a dark blue kimono, her naginata resting across her back. Her
-  hair is pinned severely for combat readiness. There is a folded letter tucked inside her armor that
-  she touches unconsciously when she thinks no one is watching.
-biography: Honoka serves Daimyo Takeda (character:takeda-renji) as a vassal warrior, but she has fallen
-  secretly in love with Prince Haru (character:ashikara-haru), the shogun's younger son, after meeting
-  him at a border inspection. She has been passing no information to either side, but both Takeda's retainer
-  and the prince's attendant have noticed her distraction. Takeda is beginning to suspect her loyalty.
+appearance: She wears practical armor over a dark blue kimono, her naginata resting
+  across her back. Her hair is pinned severely for combat readiness. There is a folded
+  letter tucked inside her armor that she touches unconsciously when she thinks no
+  one is watching.
+biography: Honoka serves Daimyo Takeda (character:takeda-renji) as a vassal warrior,
+  but she has fallen secretly in love with Prince Haru (character:ashikara-haru),
+  the shogun's younger son, after meeting him at a border inspection. She has been
+  passing no information to either side, but both Takeda's retainer and the prince's
+  attendant have noticed her distraction. Takeda is beginning to suspect her loyalty.
   She carries a letter from the prince that she has neither sent nor destroyed.
-personality: Shrewd and calculating, steadfast and devoted, guarded and cautious with trust.
+personality: Shrewd and calculating, steadfast and devoted, guarded and cautious with
+  trust.
 key_phrases:
 - Discipline is the bridge between intention and action.
 - A blade unused rusts. A blade used without purpose dulls.
-- I will not rest until I serve me clan honorably without betraying the man she has come to love.
+- I will not rest until I serve me clan honorably without betraying the man she has
+  come to love.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-sarashi-wrap
+  - item:womens-koshimaki
   clothing:
   - item:hemp-work-kosode
+  - item:riding-hakama
   armor: []
   hands:
     left: null
@@ -63,7 +71,14 @@ visual:
   hair: black, pinned in a high topknot
   eyes: dark brown, narrow
   distinctive_features: a callus ridge across both palms from years of weapons training
-  prompt: ''
+  prompt: 1girl, solo, young adult woman, athletic, broad-shouldered, medium breasts,
+    warm beige skin, traditional Japanese facial features, dark brown eyes, black,
+    pinned in a high topknot, a callus ridge across both palms, indigo hemp work kosode,
+    riding hakama, practical samurai armor, portrait, upper body, looking at viewer,
+    soft lighting
+  skin: warm beige
+  height: 5'2"
+  face: traditional Japanese facial features
 image:
   url: ''
   focalPoint:
@@ -71,19 +86,23 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:takeda-clan
 desires:
 - To serve her clan honorably without betraying the man she has come to love.
-- To find a way to prevent the conflict she sees building between Takeda's coalition and the shogunate.
+- To find a way to prevent the conflict she sees building between Takeda's coalition
+  and the shogunate.
 fears_or_limits:
-- If Takeda discovers her feelings, she will be forced to prove her loyalty by killing the prince or being
-  executed herself.
-- She has no political power — she is a soldier, not a negotiator, and the situation requires a diplomat.
+- If Takeda discovers her feelings, she will be forced to prove her loyalty by killing
+  the prince or being executed herself.
+- She has no political power — she is a soldier, not a negotiator, and the situation
+  requires a diplomat.
 current_state:
   location: location:tsuki-no-miyako
+memories: []
+momentos: []
 purview: []
 ---
 

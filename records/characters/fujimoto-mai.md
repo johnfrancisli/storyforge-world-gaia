@@ -1,13 +1,14 @@
 ---
 id: character:fujimoto-mai
 name: Fujimoto Mai
-gm_notes: Mai's dances are unknowingly ritual movements that can temporarily strengthen shrine wards —
-  she inherited the forms from her mother, who was a shrine dancer before the family fell on hard times.
-  Mai thinks she's simply a performer, but a shrine maiden — Katsura (character:katsura) — has been attending
-  her performances and noticed the wards in the district flicker stronger when she dances. Someone has
-  been leaving anonymous gifts at her dressing room with notes asking her to dance at specific shrines.
-  Someone else has been leaving threats telling her to stop dancing entirely. She doesn't understand why
-  a dancer would be this important to anyone.
+gm_notes: Mai's dances are unknowingly ritual movements that can temporarily strengthen
+  shrine wards — she inherited the forms from her mother, who was a shrine dancer
+  before the family fell on hard times. Mai thinks she's simply a performer, but a
+  shrine maiden — Katsura (character:katsura) — has been attending her performances
+  and noticed the wards in the district flicker stronger when she dances. Someone
+  has been leaving anonymous gifts at her dressing room with notes asking her to dance
+  at specific shrines. Someone else has been leaving threats telling her to stop dancing
+  entirely. She doesn't understand why a dancer would be this important to anyone.
 aliases:
 - Mai
 race: Human
@@ -38,22 +39,26 @@ currency:
   gold: 2
   silver: 14
   copper: 4
-appearance: She wears a performing kimono in flowing layers of cherry-blossom pink and white, a fan in
-  each hand. She dances barefoot on the wooden stage, her hair ornamented with seasonal flowers. Her movements
-  are precise and ancient in a way her audiences feel but can't name.
-biography: Mai's dances are unknowingly ritual movements that can temporarily strengthen shrine wards
-  — she inherited the forms from her mother, who was a shrine dancer before the family fell on hard times.
-  Mai thinks she's simply a performer, but a shrine maiden — Katsura (character:katsura) — has been attending
-  her performances and noticed the wards in the district flicker stronger when she dances. Someone has
-  been leaving anonymous gifts at her dressing room with notes asking her to dance at specific shrines.
-  Someone else has been leaving threats telling her to stop dancing entirely. She doesn't understand why
-  a dancer would be this important to anyone.
+appearance: She wears a performing kimono in flowing layers of cherry-blossom pink
+  and white, a fan in each hand. She dances barefoot on the wooden stage, her hair
+  ornamented with seasonal flowers. Her movements are precise and ancient in a way
+  her audiences feel but can't name.
+biography: Mai's dances are unknowingly ritual movements that can temporarily strengthen
+  shrine wards — she inherited the forms from her mother, who was a shrine dancer
+  before the family fell on hard times. Mai thinks she's simply a performer, but a
+  shrine maiden — Katsura (character:katsura) — has been attending her performances
+  and noticed the wards in the district flicker stronger when she dances. Someone
+  has been leaving anonymous gifts at her dressing room with notes asking her to dance
+  at specific shrines. Someone else has been leaving threats telling her to stop dancing
+  entirely. She doesn't understand why a dancer would be this important to anyone.
 personality: Precise and detail-oriented, strict and disciplined.
 key_phrases:
 - The body says what the voice cannot.
 - Every step is a sentence. Every turn is a word.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-hadajuban
+  - item:womens-koshimaki
   clothing:
   - item:hemp-work-kosode
   armor: []
@@ -66,8 +71,15 @@ visual:
   body_build: slender, lithe, small breasts
   hair: black, long, worn in an elaborate dance style with floral kanzashi
   eyes: dark brown, expressive
-  distinctive_features: a spray of pale freckles across the bridge of the nose, unusual for the region
-  prompt: ''
+  distinctive_features: a spray of pale freckles across the bridge of the nose, unusual
+    for the region
+  prompt: 1girl, solo, young adult woman, slender, lithe, small breasts, weathered
+    sun-browned skin, refined Japanese facial features, dark almond eyes, dark brown
+    eyes, black, long, worn in an elaborate dance style with floral kanzashi hair,
+    indigo hemp work kosode, portrait, upper body, looking at viewer, soft lighting
+  skin: weathered sun-browned
+  height: 5'2"
+  face: refined Japanese facial features, dark almond eyes
 image:
   url: ''
   focalPoint:
@@ -75,19 +87,22 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:ashikara-shogunate
 desires:
-- To understand why her dancing draws such intense attention from strangers who won't explain themselves.
+- To understand why her dancing draws such intense attention from strangers who won't
+  explain themselves.
 - To dance freely without being controlled by whoever is leaving the gifts and threats.
 fears_or_limits:
-- She has no idea that her dancing has spiritual power, which means she can't protect herself from those
-  who do.
+- She has no idea that her dancing has spiritual power, which means she can't protect
+  herself from those who do.
 - The threats are escalating, and she has no combat skills and no protector.
 current_state:
   location: location:tsuki-no-miyako
+memories: []
+momentos: []
 purview: []
 ---
 

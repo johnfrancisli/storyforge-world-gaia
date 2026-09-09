@@ -45,18 +45,19 @@ appearance: Thin and precise, with a scholar's bearing despite living in a rainf
   handsome appeal, possessing an extremely attractive and wise aesthetic that commands immediate respect.
 biography: Aja has devoted his entire life to the preservation of tribal histories, trusted by generations
   of chiefs. Thirty years ago, he made a fateful decision to alter a bloodline at a dying chief's behest.
-  Now, as the tribe faces a succession crisis, the weight of that solitary lie threatens to unravel his life's work.
+  Now, as the tribe faces a succession crisis, the weight of that solitary lie threatens to unravel his
+  life's work.
 personality: Dignified, sharp, and burdened by memory. He speaks deliberately, measuring every word, fully
   aware of the immense power his knowledge holds over the future of the tribe.
 key_phrases:
-- "The bones do not forget, even if the lips stay silent."
-- "Blood is a river that sometimes flows underground."
-- "I keep the past; I do not dictate the future."
+- The bones do not forget, even if the lips stay silent.
+- Blood is a river that sometimes flows underground.
+- I keep the past; I do not dictate the future.
 equipment:
-  underwear: []
+  underwear:
+  - item:mens-softbark-loin-underwrap
   clothing:
-  - item:sleeveless-barkcloth-tunic
-  - item:softbark-wrap-skirt
+  - item:travel-robe
   armor: []
   hands:
     left: null
@@ -71,7 +72,12 @@ visual:
   - carved bone bead necklace marking his office as genealogist
   - a slight tremor in the right hand from age
   face: distinguished, ruggedly handsome, age-lined
-  prompt: ''
+  prompt: 1boy, solo, elderly man, human, thin angular build, slightly stooped posture, copper-brown skin,
+    age-lined face, rugged features, dark brown eyes, short fine white hair, carved bone bead necklace,
+    simple travel robe, woven satchel, bone tablets, full body, standing on wooden riverfront walkway,
+    broad tropical river, timber river buildings, dense green foliage, humid daylight
+  skin: warm copper-brown
+  height: 5'6"
 image:
   url: ''
   focalPoint:
@@ -79,8 +85,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:ver-shaman-circle
 desires:
@@ -91,6 +97,8 @@ fears_or_limits:
 - That the wrong person will inherit the chiefdom and the tribe will fracture
 current_state:
   location: location:iara
+memories: []
+momentos: []
 purview: []
 ---
 

@@ -1,15 +1,17 @@
 ---
 id: character:miao-qingci
 name: Miao Qingci
-gm_notes: 'A physician at the Great Academy''s medical hall who specializes in chi-pathology—the study
-  of how chi disruption causes disease. She has identified a new illness she calls ''spirit-drift'' affecting
-  people who live near old qilin-spirit sites: their chi gradually detaches from their bodies, causing
-  dissociation, memory loss, and eventually coma. She has traced the illness to the three warlords'' ancestor-ritual,
-  which scattered qilin spirits and destabilized the chi-meridians of the land itself. She has twelve
-  patients in varying stages of spirit-drift and is running out of time to find a treatment. She has not
-  published her findings because the conclusions would be politically explosive.'
+gm_notes: 'A physician at the Great Academy''s medical hall who specializes in chi-pathology—the
+  study of how chi disruption causes disease. She has identified a new illness she
+  calls ''spirit-drift'' affecting people who live near old qilin-spirit sites: their
+  chi gradually detaches from their bodies, causing dissociation, memory loss, and
+  eventually coma. She has traced the illness to the three warlords'' ancestor-ritual,
+  which scattered qilin spirits and destabilized the chi-meridians of the land itself.
+  She has twelve patients in varying stages of spirit-drift and is running out of
+  time to find a treatment. She has not published her findings because the conclusions
+  would be politically explosive.'
 aliases: []
-race: Elf
+race: Human
 gender: Female
 age: 36
 heritage: Sangguo (Jin)
@@ -38,21 +40,25 @@ currency:
   gold: 5
   silver: 6
   copper: 30
-appearance: Neat and focused, wearing Academy medical robes of gray-white. Carries a diagnostic case with
-  chi-sensing tools.
-biography: 'A physician at the Great Academy''s medical hall who specializes in chi-pathology—the study
-  of how chi disruption causes disease. She has identified a new illness she calls ''spirit-drift'' affecting
-  people who live near old qilin-spirit sites: their chi gradually detaches from their bodies, causing
-  dissociation, memory loss, and eventually coma. She has traced the illness to the three warlords'' ancestor-ritual,
-  which scattered qilin spirits and destabilized the chi-meridians of the land itself. She has twelve
-  patients in varying stages of spirit-drift and is running out of time to find a treatment. She has not
-  published her findings because the conclusions would be politically explosive.'
+appearance: Neat and focused, wearing Academy medical robes of gray-white. Carries
+  a diagnostic case with chi-sensing tools.
+biography: 'A physician at the Great Academy''s medical hall who specializes in chi-pathology—the
+  study of how chi disruption causes disease. She has identified a new illness she
+  calls ''spirit-drift'' affecting people who live near old qilin-spirit sites: their
+  chi gradually detaches from their bodies, causing dissociation, memory loss, and
+  eventually coma. She has traced the illness to the three warlords'' ancestor-ritual,
+  which scattered qilin spirits and destabilized the chi-meridians of the land itself.
+  She has twelve patients in varying stages of spirit-drift and is running out of
+  time to find a treatment. She has not published her findings because the conclusions
+  would be politically explosive.'
 personality: Composed and even-tempered.
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-inner-ru
+  - item:womens-loose-undertrousers
   clothing:
   - item:wide-sleeved-scholar-robe
   armor: []
@@ -68,7 +74,14 @@ visual:
   distinctive_features:
   - a physician's chi-sense callus on both index fingertips
   - a faint scar on the left thumb from a dissection accident
-  prompt: ''
+  prompt: 1girl, solo, adult woman, medium and precise in movement, small breasts,
+    warm beige skin, delicate, elegant Chinese facial features, clear gray eyes, black,
+    in a medical-practitioner's clean bun hair, a physician's chi-sense callus on
+    both index fingertips, a faint scar on the left thumb from a dissection accident,
+    wide-sleeved scholar robe, portrait, upper body, looking at viewer, soft lighting
+  skin: warm beige
+  height: 5'3"
+  face: delicate, elegant Chinese facial features
 image:
   url: ''
   focalPoint:
@@ -76,8 +89,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:great-academy
 desires:
@@ -85,9 +98,12 @@ desires:
 - To publish her findings despite the political danger
 fears_or_limits:
 - The warlords suppressing her research to protect their ancestor-ritual legitimacy
-- That the treatment requires a qilin spirit's willing cooperation, which may be impossible to obtain
+- That the treatment requires a qilin spirit's willing cooperation, which may be impossible
+  to obtain
 current_state:
   location: location:jin-an
+memories: []
+momentos: []
 purview: []
 ---
 

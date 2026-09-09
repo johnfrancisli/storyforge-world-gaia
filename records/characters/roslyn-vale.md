@@ -1,11 +1,13 @@
 ---
 id: character:roslyn-vale
 name: Roslyn Vale
-gm_notes: Roslyn is a fortune teller who genuinely has prophetic dreams — but they are fragmentary and
-  symbolic, never clear. She dreamed of a crown falling into a dragon's mouth three nights before the
-  king died. She has since dreamed of 'two shadows merging at the harvest moon,' which she believes foretells
-  an alliance or betrayal during the autumn festival. She fears her visions are being watched by someone
-  who wants to use them, and she has noticed a hooded figure following her through the market.
+gm_notes: Roslyn is a fortune teller who genuinely has prophetic dreams — but they
+  are fragmentary and symbolic, never clear. She dreamed of a crown falling into a
+  dragon's mouth three nights before the king died. She has since dreamed of 'two
+  shadows merging at the harvest moon,' which she believes foretells an alliance or
+  betrayal during the autumn festival. She fears her visions are being watched by
+  someone who wants to use them, and she has noticed a hooded figure following her
+  through the market.
 aliases: []
 race: Human
 gender: Female
@@ -35,20 +37,25 @@ currency:
   gold: 4
   silver: 14
   copper: 13
-appearance: Dark-haired and intense-eyed, Roslyn wears layered shawls and skirts in deep jewel tones.
-  She carries a pouch of rune stones and a deck of hand-painted cards.
-biography: Roslyn is a fortune teller who genuinely has prophetic dreams — but they are fragmentary and
-  symbolic, never clear. She dreamed of a crown falling into a dragon's mouth three nights before the
-  king died. She has since dreamed of 'two shadows merging at the harvest moon,' which she believes foretells
-  an alliance or betrayal during the autumn festival. She fears her visions are being watched by someone
-  who wants to use them, and she has noticed a hooded figure following her through the market.
+appearance: Dark-haired and intense-eyed, Roslyn wears layered shawls and skirts in
+  deep jewel tones. She carries a pouch of rune stones and a deck of hand-painted
+  cards.
+biography: Roslyn is a fortune teller who genuinely has prophetic dreams — but they
+  are fragmentary and symbolic, never clear. She dreamed of a crown falling into a
+  dragon's mouth three nights before the king died. She has since dreamed of 'two
+  shadows merging at the harvest moon,' which she believes foretells an alliance or
+  betrayal during the autumn festival. She fears her visions are being watched by
+  someone who wants to use them, and she has noticed a hooded figure following her
+  through the market.
 personality: Shrewd and calculating, blunt and rough-spoken.
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 - I will not rest until I understand me visions before they overwhelm me.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-linen-chemise
+  - item:womens-linen-underbreeches
   clothing:
   - item:linen-work-tunic
   - item:long-work-skirt
@@ -62,9 +69,16 @@ visual:
   body_build: slender and willowy, medium breasts
   hair: raven black, long, loose
   eyes: deep amber
-  distinctive_features: a small mole below her left eye, ritual tattoos on her inner wrists (old fortune-teller
-    tradition)
-  prompt: ''
+  distinctive_features: a small mole below her left eye, ritual tattoos on her inner
+    wrists (old fortune-teller tradition)
+  prompt: 1girl, solo, young adult woman, slender and willowy, medium breasts, weathered
+    tan skin, classic European facial features, deep amber eyes, raven black, long,
+    loose hair, a small mole below her left eye, ritual tattoos on her inner wrists,
+    linen work tunic, leather belt, long work skirt, portrait, upper body, looking
+    at viewer, soft lighting
+  skin: weathered tan
+  height: 5'5"
+  face: classic European facial features
 image:
   url: ''
   focalPoint:
@@ -72,8 +86,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:val-mages-circle
 desires:
@@ -84,6 +98,8 @@ fears_or_limits:
 - that someone will force her to prophesy for political gain
 current_state:
   location: location:crownhaven
+memories: []
+momentos: []
 purview: []
 ---
 

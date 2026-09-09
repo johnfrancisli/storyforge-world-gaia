@@ -1,11 +1,13 @@
 ---
 id: character:shen-wuguang
 name: Shen Wuguang
-gm_notes: A Chu court official who has been managing the warlord's treasury for fifteen years. He has
-  been skimming a small percentage of war taxes and funneling the money into a hidden orphanage he runs
-  in a Chu farming village. The orphanage houses forty children orphaned by Chu's wars. He views his embezzlement
-  as moral restitution. The Chu warlord's new auditor is meticulous and getting close to the discrepancy.
-  Shen has a plan to frame a rival official for the theft but it would destroy an innocent man's life.
+gm_notes: A Chu court official who has been managing the warlord's treasury for fifteen
+  years. He has been skimming a small percentage of war taxes and funneling the money
+  into a hidden orphanage he runs in a Chu farming village. The orphanage houses forty
+  children orphaned by Chu's wars. He views his embezzlement as moral restitution.
+  The Chu warlord's new auditor is meticulous and getting close to the discrepancy.
+  Shen has a plan to frame a rival official for the theft but it would destroy an
+  innocent man's life.
 aliases: []
 race: Human
 gender: Male
@@ -35,20 +37,25 @@ currency:
   gold: 0
   silver: 0
   copper: 7
-appearance: Immaculate and soft-spoken, wearing Chu-state formal robes of dark red. Always carries a counting
-  frame.
-biography: A Chu court official who has been managing the warlord's treasury for fifteen years. He has
-  been skimming a small percentage of war taxes and funneling the money into a hidden orphanage he runs
-  in a Chu farming village. The orphanage houses forty children orphaned by Chu's wars. He views his embezzlement
-  as moral restitution. The Chu warlord's new auditor is meticulous and getting close to the discrepancy.
-  Shen has a plan to frame a rival official for the theft but it would destroy an innocent man's life.
-personality: Precise and detail-oriented, reserved and soft-spoken, guarded and cautious with trust.
+appearance: Immaculate and soft-spoken, wearing Chu-state formal robes of dark red.
+  Always carries a counting frame.
+biography: A Chu court official who has been managing the warlord's treasury for fifteen
+  years. He has been skimming a small percentage of war taxes and funneling the money
+  into a hidden orphanage he runs in a Chu farming village. The orphanage houses forty
+  children orphaned by Chu's wars. He views his embezzlement as moral restitution.
+  The Chu warlord's new auditor is meticulous and getting close to the discrepancy.
+  Shen has a plan to frame a rival official for the theft but it would destroy an
+  innocent man's life.
+personality: Precise and detail-oriented, reserved and soft-spoken, guarded and cautious
+  with trust.
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 - I will not rest until I protect the forty orphans regardless of cost.
 equipment:
-  underwear: []
+  underwear:
+  - item:mens-inner-yi
+  - item:mens-short-underdrawers
   clothing:
   - item:straight-hem-shenyi
   armor: []
@@ -64,7 +71,14 @@ visual:
   distinctive_features:
   - a wen on the right temple
   - an abacus-callus on the right thumb
-  prompt: ''
+  prompt: 1man, solo, elderly man, soft and well-fed, average chest, warm golden-tan
+    skin, delicate, elegant Chinese facial features, small eyes, thin gray, oiled
+    and formal hair, a wen on the right temple, an abacus-callus on the right thumb,
+    straight-hem shenyi robe, wide embroidered sash, portrait, upper body, looking
+    at viewer, soft lighting
+  skin: warm golden-tan
+  height: 5'5"
+  face: delicate, elegant Chinese facial features
 image:
   url: ''
   focalPoint:
@@ -72,8 +86,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:chu-state
 desires:
@@ -84,6 +98,8 @@ fears_or_limits:
 - That his moral justification for theft is just self-deception
 current_state:
   location: location:jin-an
+memories: []
+momentos: []
 purview: []
 ---
 

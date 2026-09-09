@@ -1,13 +1,15 @@
 ---
 id: character:xu-anwen
 name: Xu Anwen
-gm_notes: A paper maker from a family of paper makers who has developed a method to infuse paper with
-  chi, creating 'spirit paper' that can hold written spells and activate them when read. This is the technology
-  behind the Jin warlord's chi-propaganda proclamations—Wei Fengge's chi-infused calligraphy is written
-  on Xu's spirit paper, which is why the emotional manipulation works. Xu does not know her paper is being
-  used for propaganda; she was commissioned by the Jin court to make 'fine ceremonial paper' and was not
-  told its purpose. She has recently seen one of the proclamations and recognized her paper, and the calligraphy's
-  unsettling emotional effect has made her suspect something is wrong.
+gm_notes: A paper maker from a family of paper makers who has developed a method to
+  infuse paper with chi, creating 'spirit paper' that can hold written spells and
+  activate them when read. This is the technology behind the Jin warlord's chi-propaganda
+  proclamations—Wei Fengge's chi-infused calligraphy is written on Xu's spirit paper,
+  which is why the emotional manipulation works. Xu does not know her paper is being
+  used for propaganda; she was commissioned by the Jin court to make 'fine ceremonial
+  paper' and was not told its purpose. She has recently seen one of the proclamations
+  and recognized her paper, and the calligraphy's unsettling emotional effect has
+  made her suspect something is wrong.
 aliases: []
 race: Human
 gender: Female
@@ -37,22 +39,26 @@ currency:
   gold: 1
   silver: 19
   copper: 27
-appearance: Patient and earthy, wearing paper-maker's work clothes stained with pulp. Hands always slightly
-  damp from pulp.
-biography: A paper maker from a family of paper makers who has developed a method to infuse paper with
-  chi, creating 'spirit paper' that can hold written spells and activate them when read. This is the technology
-  behind the Jin warlord's chi-propaganda proclamations—Wei Fengge's chi-infused calligraphy is written
-  on Xu's spirit paper, which is why the emotional manipulation works. Xu does not know her paper is being
-  used for propaganda; she was commissioned by the Jin court to make 'fine ceremonial paper' and was not
-  told its purpose. She has recently seen one of the proclamations and recognized her paper, and the calligraphy's
-  unsettling emotional effect has made her suspect something is wrong.
+appearance: Patient and earthy, wearing paper-maker's work clothes stained with pulp.
+  Hands always slightly damp from pulp.
+biography: A paper maker from a family of paper makers who has developed a method
+  to infuse paper with chi, creating 'spirit paper' that can hold written spells and
+  activate them when read. This is the technology behind the Jin warlord's chi-propaganda
+  proclamations—Wei Fengge's chi-infused calligraphy is written on Xu's spirit paper,
+  which is why the emotional manipulation works. Xu does not know her paper is being
+  used for propaganda; she was commissioned by the Jin court to make 'fine ceremonial
+  paper' and was not told its purpose. She has recently seen one of the proclamations
+  and recognized her paper, and the calligraphy's unsettling emotional effect has
+  made her suspect something is wrong.
 personality: Composed and even-tempered, guarded and cautious with trust.
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 - I will not rest until I discover what the jin court is doing with me paper.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-inner-ru
+  - item:womens-loose-undertrousers
   clothing:
   - item:short-shan-work-shirt
   - item:bound-cuff-field-trousers
@@ -69,7 +75,14 @@ visual:
   distinctive_features:
   - permanently pruned fingertips from working in water
   - a pulp-stain birthmark on the right wrist
-  prompt: ''
+  prompt: 1girl, solo, adult woman, compact and strong-armed from pulp-mashing, large
+    breasts, warm beige skin, strong Chinese facial features, warm brown eyes, dark,
+    wrapped in a cloth headband hair, permanently pruned fingertips from working in
+    water, a pulp-stain birthmark on the right wrist, short shan work shirt, bound-cuff
+    field trousers, portrait, upper body, looking at viewer, soft lighting
+  skin: warm beige
+  height: 5'3"
+  face: strong Chinese facial features
 image:
   url: ''
   focalPoint:
@@ -77,8 +90,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:jin-state
 desires:
@@ -89,6 +102,8 @@ fears_or_limits:
 - That her paper has been used to manipulate thousands of people
 current_state:
   location: location:jin-an
+memories: []
+momentos: []
 purview: []
 ---
 

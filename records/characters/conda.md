@@ -1,14 +1,16 @@
 ---
 id: character:conda
 name: Conda
-gm_notes: 'A serpent beast-kin spirit-talker who serves as intermediary between the living and the river-serpent
-  spirits that dwell in the deep channels. Conda was born with the ability to enter a trance state in
-  which she becomes a vessel for serpent-spirit voices — but one of those voices is not a spirit. It is
-  the lingering consciousness of a Mizuhito woman who was drowned as a sacrifice four hundred years ago
-  and whose spirit became entangled with the serpent current. The drowned woman has been using Conda to
-  slowly, patiently direct Conda''s actions toward a single goal: leading Conda to the sealed chamber
-  beneath Iara where the woman''s bones still lie, so that her spirit can finally be freed. Conda does
-  not fully understand she is being guided; she believes the voice is simply the eldest serpent-spirit
+gm_notes: 'A serpent beast-kin spirit-talker who serves as intermediary between the
+  living and the river-serpent spirits that dwell in the deep channels. Conda was
+  born with the ability to enter a trance state in which she becomes a vessel for
+  serpent-spirit voices — but one of those voices is not a spirit. It is the lingering
+  consciousness of a Mizuhito woman who was drowned as a sacrifice four hundred years
+  ago and whose spirit became entangled with the serpent current. The drowned woman
+  has been using Conda to slowly, patiently direct Conda''s actions toward a single
+  goal: leading Conda to the sealed chamber beneath Iara where the woman''s bones
+  still lie, so that her spirit can finally be freed. Conda does not fully understand
+  she is being guided; she believes the voice is simply the eldest serpent-spirit
   teaching her.'
 aliases: []
 race: Beast-kin (Serpent)
@@ -40,16 +42,18 @@ currency:
   gold: 3
   silver: 19
   copper: 15
-appearance: Elegant and unnervingly still, with smooth green-scaled skin and a gaze that rarely blinks.
-  Wears minimal wrapped garments of dark river-silk.
-biography: 'A serpent beast-kin spirit-talker who serves as intermediary between the living and the river-serpent
-  spirits that dwell in the deep channels. Conda was born with the ability to enter a trance state in
-  which she becomes a vessel for serpent-spirit voices — but one of those voices is not a spirit. It is
-  the lingering consciousness of a Mizuhito woman who was drowned as a sacrifice four hundred years ago
-  and whose spirit became entangled with the serpent current. The drowned woman has been using Conda to
-  slowly, patiently direct Conda''s actions toward a single goal: leading Conda to the sealed chamber
-  beneath Iara where the woman''s bones still lie, so that her spirit can finally be freed. Conda does
-  not fully understand she is being guided; she believes the voice is simply the eldest serpent-spirit
+appearance: Elegant and unnervingly still, with smooth green-scaled skin and a gaze
+  that rarely blinks. Wears minimal wrapped garments of dark river-silk.
+biography: 'A serpent beast-kin spirit-talker who serves as intermediary between the
+  living and the river-serpent spirits that dwell in the deep channels. Conda was
+  born with the ability to enter a trance state in which she becomes a vessel for
+  serpent-spirit voices — but one of those voices is not a spirit. It is the lingering
+  consciousness of a Mizuhito woman who was drowned as a sacrifice four hundred years
+  ago and whose spirit became entangled with the serpent current. The drowned woman
+  has been using Conda to slowly, patiently direct Conda''s actions toward a single
+  goal: leading Conda to the sealed chamber beneath Iara where the woman''s bones
+  still lie, so that her spirit can finally be freed. Conda does not fully understand
+  she is being guided; she believes the voice is simply the eldest serpent-spirit
   teaching her.'
 personality: Composed and even-tempered.
 key_phrases:
@@ -57,7 +61,9 @@ key_phrases:
 - The work comes first. Everything else can wait.
 - I will not rest until I understand the true nature of the voice that teaches me.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-softbark-chest-wrap
+  - item:womens-inner-hip-wrap
   clothing:
   - item:open-side-river-vest
   - item:river-worker-split-wrap
@@ -75,7 +81,16 @@ visual:
   - smooth green scales covering the forehead, temples, and neck
   - a forked tongue visible when she speaks at length
   - heat-sensory pits along the upper lip
-  prompt: ''
+  prompt: 1girl, solo, adult woman, serpent beast-kin, vertical slit pupils, fine
+    facial scales, tall and fluidly proportioned, snake-like in stillness, medium
+    breasts, pale green and bronze scales skin, fine upper-facial scales, forked tongue,
+    vertical-pupiled eyes, none, replaced by a fine crest of dark scales along the
+    crown hair, smooth green scales covering the forehead, temples, and neck, a forked
+    tongue visible when she speaks at length, open-side river vest, river-worker split
+    wrap, portrait, upper body, looking at viewer, soft lighting
+  skin: pale green and bronze scales
+  height: 5'7"
+  face: fine upper-facial scales, vertical slit pupils, forked tongue
 image:
   url: ''
   focalPoint:
@@ -83,8 +98,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:ver-shaman-circle
 desires:
@@ -95,6 +110,8 @@ fears_or_limits:
 - That freeing the drowned woman's spirit will unleash something worse
 current_state:
   location: location:iara
+memories: []
+momentos: []
 purview: []
 ---
 

@@ -1,12 +1,13 @@
 ---
 id: character:duan-lizi
 name: Duan Lizi
-gm_notes: 'A noodle vendor in Jin-an''s market who served a bowl of noodles to a dying man who whispered
-  a military secret into his soup before expiring. The secret: the Wei military is building a fleet of
-  chi-powered war barges on a hidden canal tributary. Duan is illiterate and cannot write the secret down,
-  and he does not understand its significance. He has told no one because he is afraid of being interrogated.
-  He keeps replaying the dying man''s words in his head and is increasingly paranoid that someone is watching
-  his stall.'
+gm_notes: 'A noodle vendor in Jin-an''s market who served a bowl of noodles to a dying
+  man who whispered a military secret into his soup before expiring. The secret: the
+  Wei military is building a fleet of chi-powered war barges on a hidden canal tributary.
+  Duan is illiterate and cannot write the secret down, and he does not understand
+  its significance. He has told no one because he is afraid of being interrogated.
+  He keeps replaying the dying man''s words in his head and is increasingly paranoid
+  that someone is watching his stall.'
 aliases: []
 race: Human
 gender: Male
@@ -36,23 +37,29 @@ currency:
   gold: 25
   silver: 26
   copper: 10
-appearance: Round and ruddy, always steaming and wiping his hands on his apron. Laughs easily and loudly.
-biography: 'A noodle vendor in Jin-an''s market who served a bowl of noodles to a dying man who whispered
-  a military secret into his soup before expiring. The secret: the Wei military is building a fleet of
-  chi-powered war barges on a hidden canal tributary. Duan is illiterate and cannot write the secret down,
-  and he does not understand its significance. He has told no one because he is afraid of being interrogated.
-  He keeps replaying the dying man''s words in his head and is increasingly paranoid that someone is watching
-  his stall.'
+appearance: Round and ruddy, always steaming and wiping his hands on his apron. Laughs
+  easily and loudly.
+biography: 'A noodle vendor in Jin-an''s market who served a bowl of noodles to a
+  dying man who whispered a military secret into his soup before expiring. The secret:
+  the Wei military is building a fleet of chi-powered war barges on a hidden canal
+  tributary. Duan is illiterate and cannot write the secret down, and he does not
+  understand its significance. He has told no one because he is afraid of being interrogated.
+  He keeps replaying the dying man''s words in his head and is increasingly paranoid
+  that someone is watching his stall.'
 personality: Guarded and cautious with trust, carries a secret that shapes every decision.
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
-- I will not rest until I forget the dying man's words and go back to just making noodles.
+- I will not rest until I forget the dying man's words and go back to just making
+  noodles.
 equipment:
-  underwear: []
+  underwear:
+  - item:mens-inner-yi
+  - item:mens-short-underdrawers
   clothing:
   - item:short-shan-work-shirt
   - item:bound-cuff-field-trousers
+  - item:wrapped-work-apron
   armor: []
   hands:
     left: null
@@ -66,7 +73,14 @@ visual:
   distinctive_features:
   - a soup-burn scar on the left forearm
   - flour permanently dusting his shoulders and sleeves
-  prompt: ''
+  prompt: 1man, solo, adult man, short and round-bellied, average chest, warm beige
+    skin, strong Chinese facial features, small eyes, mostly bald with a fringe of
+    gray, a soup-burn scar on the left forearm, flour permanently dusting his shoulders
+    and sleeves, short shan work shirt, bound-cuff field trousers, portrait, upper
+    body, looking at viewer, soft lighting
+  skin: warm beige
+  height: 5'8"
+  face: strong Chinese facial features
 image:
   url: ''
   focalPoint:
@@ -74,8 +88,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:san-merchant-cartel
 desires:
@@ -86,6 +100,8 @@ fears_or_limits:
 - That his stall is being watched and he cannot tell by whom
 current_state:
   location: location:jin-an
+memories: []
+momentos: []
 purview: []
 ---
 

@@ -1,15 +1,16 @@
 ---
 id: character:quilla
 name: Quilla
-gm_notes: 'The most skilled feather worker in the western rainforest, famous for ceremonial headdresses
-  that are said to carry fragments of bird-spirits. What no one knows is that Quilla''s mastery comes
-  from a bargain she made as a desperate young woman with a feathered serpent-spirit called the Plumed
-  Tongue: in exchange for the ability to weave spirit-essence into feathers, she must weave one headdress
-  per year that contains a fragment of a living person''s breath — a tiny theft of vitality that she disguises
-  as part of the blessing ritual. The stolen vitality goes to the Plumed Tongue, who is using it to slowly
-  manifest a physical body. Quilla has realized what she is feeding and has been secretly weakening the
-  headdresses for three years, but the spirit has noticed and is beginning to threaten her through her
-  dreams.'
+gm_notes: 'The most skilled feather worker in the western rainforest, famous for ceremonial
+  headdresses that are said to carry fragments of bird-spirits. What no one knows
+  is that Quilla''s mastery comes from a bargain she made as a desperate young woman
+  with a feathered serpent-spirit called the Plumed Tongue: in exchange for the ability
+  to weave spirit-essence into feathers, she must weave one headdress per year that
+  contains a fragment of a living person''s breath — a tiny theft of vitality that
+  she disguises as part of the blessing ritual. The stolen vitality goes to the Plumed
+  Tongue, who is using it to slowly manifest a physical body. Quilla has realized
+  what she is feeding and has been secretly weakening the headdresses for three years,
+  but the spirit has noticed and is beginning to threaten her through her dreams.'
 aliases: []
 race: Beast-kin (Bird)
 gender: Female
@@ -39,24 +40,30 @@ currency:
   gold: 3
   silver: 8
   copper: 18
-appearance: Vivid and bright-eyed, draped in her own feather-work — mantles of scarlet, gold, and iridescent
-  green. Her fingers are perpetually stained with natural dyes.
-biography: 'The most skilled feather worker in the western rainforest, famous for ceremonial headdresses
-  that are said to carry fragments of bird-spirits. What no one knows is that Quilla''s mastery comes
-  from a bargain she made as a desperate young woman with a feathered serpent-spirit called the Plumed
-  Tongue: in exchange for the ability to weave spirit-essence into feathers, she must weave one headdress
-  per year that contains a fragment of a living person''s breath — a tiny theft of vitality that she disguises
-  as part of the blessing ritual. The stolen vitality goes to the Plumed Tongue, who is using it to slowly
-  manifest a physical body. Quilla has realized what she is feeding and has been secretly weakening the
-  headdresses for three years, but the spirit has noticed and is beginning to threaten her through her
-  dreams.'
-personality: Warm and optimistic, strict and disciplined, guarded and cautious with trust.
+appearance: Vivid and bright-eyed, draped in her own feather-work — mantles of scarlet,
+  gold, and iridescent green. Her fingers are perpetually stained with natural dyes.
+biography: 'The most skilled feather worker in the western rainforest, famous for
+  ceremonial headdresses that are said to carry fragments of bird-spirits. What no
+  one knows is that Quilla''s mastery comes from a bargain she made as a desperate
+  young woman with a feathered serpent-spirit called the Plumed Tongue: in exchange
+  for the ability to weave spirit-essence into feathers, she must weave one headdress
+  per year that contains a fragment of a living person''s breath — a tiny theft of
+  vitality that she disguises as part of the blessing ritual. The stolen vitality
+  goes to the Plumed Tongue, who is using it to slowly manifest a physical body. Quilla
+  has realized what she is feeding and has been secretly weakening the headdresses
+  for three years, but the spirit has noticed and is beginning to threaten her through
+  her dreams.'
+personality: Warm and optimistic, strict and disciplined, guarded and cautious with
+  trust.
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
-- I will not rest until I break free of the plumed tongue's bargain before it manifests fully.
+- I will not rest until I break free of the plumed tongue's bargain before it manifests
+  fully.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-softbark-chest-wrap
+  - item:womens-inner-hip-wrap
   clothing:
   - item:sleeveless-barkcloth-tunic
   - item:softbark-wrap-skirt
@@ -74,7 +81,16 @@ visual:
   - feathered crest along the crown that molts seasonally
   - fine scales faintly visible on the cheekbones and ears
   - hollow-boned lightness to her step
-  prompt: ''
+  prompt: 1girl, solo, adult woman, avian beast-kin, feathered crest, fine facial
+    scales, light-boned, slight and wiry, small breasts, warm bronze with fine facial
+    feathering skin, sharp avian facial traits, bright gold eyes, a crest of iridescent
+    blue-green feathers that rises when she is emotional hair, feathered crest along
+    the crown, fine scales faintly visible on the cheekbones and ears, sleeveless
+    barkcloth tunic, softbark wrap skirt, portrait, upper body, looking at viewer,
+    soft lighting
+  skin: warm bronze with fine facial feathering
+  height: 5'2"
+  face: sharp avian facial traits, light-boned, feathered crest
 image:
   url: ''
   focalPoint:
@@ -82,18 +98,21 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:ver-shaman-circle
 desires:
 - To break free of the Plumed Tongue's bargain before it manifests fully
-- To create one final headdress that is genuinely blessed — with no stolen breath in it
+- To create one final headdress that is genuinely blessed — with no stolen breath
+  in it
 fears_or_limits:
 - The Plumed Tongue retaliating against her children if she stops weaving entirely
 - That someone will notice the headdresses have weakened and ask why
 current_state:
   location: location:verdania
+memories: []
+momentos: []
 purview: []
 ---
 

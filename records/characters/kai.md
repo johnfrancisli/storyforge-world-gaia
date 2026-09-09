@@ -1,11 +1,12 @@
 ---
 id: character:kai
 name: Kai
-gm_notes: Kai has lost three routes in the last year — islands that were navigable are now underwater,
-  and the songs that guided voyagers there no longer work because the landmarks are gone. He believes
-  the rising seas are not natural but caused by something, and he wants to find out what. He has been
-  asking the sea spirits, and they have been silent. He has not told the guild council that the spirits
-  are silent because he fears it means something worse than the water.
+gm_notes: Kai has lost three routes in the last year — islands that were navigable
+  are now underwater, and the songs that guided voyagers there no longer work because
+  the landmarks are gone. He believes the rising seas are not natural but caused by
+  something, and he wants to find out what. He has been asking the sea spirits, and
+  they have been silent. He has not told the guild council that the spirits are silent
+  because he fears it means something worse than the water.
 aliases:
 - Wayfinder Kai
 race: Human
@@ -36,20 +37,23 @@ currency:
   gold: 3
   silver: 19
   copper: 20
-appearance: A compact man in light island cloth, barefoot, with a carved wayfinding staff in his hand.
-  His arms are covered in tattoo patterns — geometric lines and stars that map the routes he has sailed.
-  He watches the water the way most people watch faces.
-biography: Kai has lost three routes in the last year — islands that were navigable are now underwater,
-  and the songs that guided voyagers there no longer work because the landmarks are gone. He believes
-  the rising seas are not natural but caused by something, and he wants to find out what. He has been
-  asking the sea spirits, and they have been silent. He has not told the guild council that the spirits
-  are silent because he fears it means something worse than the water.
+appearance: A compact man in light island cloth, barefoot, with a carved wayfinding
+  staff in his hand. His arms are covered in tattoo patterns — geometric lines and
+  stars that map the routes he has sailed. He watches the water the way most people
+  watch faces.
+biography: Kai has lost three routes in the last year — islands that were navigable
+  are now underwater, and the songs that guided voyagers there no longer work because
+  the landmarks are gone. He believes the rising seas are not natural but caused by
+  something, and he wants to find out what. He has been asking the sea spirits, and
+  they have been silent. He has not told the guild council that the spirits are silent
+  because he fears it means something worse than the water.
 personality: Reserved and soft-spoken, guarded and cautious with trust.
 key_phrases:
 - The stars do not lie, but they do not explain themselves.
 - The ocean is not empty. It is full of things you cannot see.
 equipment:
-  underwear: []
+  underwear:
+  - item:mens-paddling-loin-wrap
   clothing:
   - item:open-sided-island-tunic
   - item:rectangular-waist-wrap
@@ -64,8 +68,15 @@ visual:
   skin: deep tan, sun-darkened
   hair: black, short, salt-stiffened
   eyes: dark brown
-  distinctive_features: tattoo patterns covering both arms — wayfinding route maps in geometric ink
-  prompt: ''
+  distinctive_features: tattoo patterns covering both arms — wayfinding route maps
+    in geometric ink
+  prompt: 1boy, solo, young adult man, compact, lean, wiry, narrow chest, deep tan,
+    sun-darkened skin, Polynesian maritime facial features, warm expressive eyes,
+    dark brown eyes, black, short, salt-stiffened hair, open-sided island tunic, rectangular
+    waist wrap, holding carved wooden wayfinder staff, portrait, upper body, looking
+    at viewer, soft lighting
+  height: 5'11"
+  face: Polynesian maritime facial features, warm expressive eyes
 image:
   url: ''
   focalPoint:
@@ -73,17 +84,23 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:wayfinder-guilds
 desires:
-- To find the cause of the rising seas and reverse it, before the Archipelago loses more islands.
+- To find the cause of the rising seas and reverse it, before the Archipelago loses
+  more islands.
 fears_or_limits:
-- The sea spirits have gone silent when asked about the rising water. Kai does not know if they cannot
-  answer or will not. He is one man against a problem that affects hundreds of islands.
+- The sea spirits have gone silent when asked about the rising water. Kai does not
+  know if they cannot answer or will not. He is one man against a problem that affects
+  hundreds of islands.
 current_state:
   location: location:lani-atoll
+memories:
+- campaign-event/the-drowning-of-motu-lotu
+momentos:
+- the-five-knot-cord
 purview: []
 ---
 

@@ -10,7 +10,7 @@ bond: Amara has been trying to make Kaa stop drinking and tell her what he found
 is_familial: true
 kinship:
 - subject: character:amara
-  relation: cousin_of
+  relation: chosen_family_of
   object: character:kaa
   visibility: public
 summary: Amara has been trying to make Kaa stop drinking and tell her what he found in the rainforest.

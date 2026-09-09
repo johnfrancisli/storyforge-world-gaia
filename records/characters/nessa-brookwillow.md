@@ -1,11 +1,13 @@
 ---
 id: character:nessa-brookwillow
 name: Nessa Brookwillow
-gm_notes: Nessa is a young weaver whose loom produces tapestries of startling beauty and eerie accuracy.
-  She has woven two tapestries depicting events before they happened — one showed a fire at the harbour
-  district three days before it occurred, another showed a knight falling from his horse before the tournament
-  accident. She does not understand how or why this happens and is terrified. A local priest has begun
-  asking questions, calling her gift 'divine.' She fears being labelled a prophet — or worse, a witch.
+gm_notes: Nessa is a young weaver whose loom produces tapestries of startling beauty
+  and eerie accuracy. She has woven two tapestries depicting events before they happened
+  — one showed a fire at the harbour district three days before it occurred, another
+  showed a knight falling from his horse before the tournament accident. She does
+  not understand how or why this happens and is terrified. A local priest has begun
+  asking questions, calling her gift 'divine.' She fears being labelled a prophet
+  — or worse, a witch.
 aliases: []
 race: Human
 gender: Female
@@ -35,20 +37,24 @@ currency:
   gold: 0
   silver: 6
   copper: 25
-appearance: Fine-boned and shy, Nessa wears a simple dress with thread-snarls caught in her sleeves. She
-  keeps her head down and speaks barely above a whisper.
-biography: Nessa is a young weaver whose loom produces tapestries of startling beauty and eerie accuracy.
-  She has woven two tapestries depicting events before they happened — one showed a fire at the harbour
-  district three days before it occurred, another showed a knight falling from his horse before the tournament
-  accident. She does not understand how or why this happens and is terrified. A local priest has begun
-  asking questions, calling her gift 'divine.' She fears being labelled a prophet — or worse, a witch.
+appearance: Fine-boned and shy, Nessa wears a simple dress with thread-snarls caught
+  in her sleeves. She keeps her head down and speaks barely above a whisper.
+biography: Nessa is a young weaver whose loom produces tapestries of startling beauty
+  and eerie accuracy. She has woven two tapestries depicting events before they happened
+  — one showed a fire at the harbour district three days before it occurred, another
+  showed a knight falling from his horse before the tournament accident. She does
+  not understand how or why this happens and is terrified. A local priest has begun
+  asking questions, calling her gift 'divine.' She fears being labelled a prophet
+  — or worse, a witch.
 personality: Reserved and soft-spoken, strict and disciplined.
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 - I will not rest until I weave beautiful things without the frightening visions.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-linen-chemise
+  - item:womens-linen-underbreeches
   clothing:
   - item:laced-kirtle
   armor: []
@@ -61,9 +67,15 @@ visual:
   body_build: petite and delicate, medium breasts
   hair: pale blonde, long, worn loose
   eyes: blue-grey
-  distinctive_features: a thread-callus on her right index finger, a port-wine birthmark on her left shoulder
-    blade
-  prompt: ''
+  distinctive_features: a thread-callus on her right index finger, a port-wine birthmark
+    on her left shoulder blade
+  prompt: 1girl, solo, young adult woman, petite and delicate, medium breasts, light
+    beige skin, classic European facial features, blue-grey eyes, pale blonde, long,
+    worn loose hair, laced kirtle dress, portrait, upper body, looking at viewer,
+    soft lighting
+  skin: light beige
+  height: 5'5"
+  face: classic European facial features
 image:
   url: ''
   focalPoint:
@@ -71,8 +83,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:val-thieves-guild
 desires:
@@ -83,6 +95,8 @@ fears_or_limits:
 - that her next tapestry will show something terrible she cannot prevent
 current_state:
   location: location:valdris
+memories: []
+momentos: []
 purview: []
 ---
 

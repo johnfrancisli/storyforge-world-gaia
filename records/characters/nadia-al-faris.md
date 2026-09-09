@@ -1,14 +1,16 @@
 ---
 id: character:nadia-al-faris
 name: Nadia al-Faris
-gm_notes: Matriarch of the al-Faris binding family, one of the seven founding houses of the Pact of the
-  Lamp. Her family's contract with the djinn Kashan is the oldest in Zaffar — signed four hundred years
-  ago — and the price was 'the first voice of each firstborn.' Nadia was the firstborn and lost her voice
-  at age twelve, communicating through gestures and a slate board ever since. She regained it three months
-  ago without explanation and has told no one. She fears Kashan is dead, which would mean the family's
-  protective contract is void and their political enemies on the Council know it. She has been attending
-  Council meetings speaking normally, pretending she hired a discreet healer, while secretly trying to
-  determine whether Kashan still lives.
+gm_notes: Matriarch of the al-Faris binding family, one of the seven founding houses
+  of the Pact of the Lamp. Her family's contract with the djinn Kashan is the oldest
+  in Zaffar — signed four hundred years ago — and the price was 'the first voice of
+  each firstborn.' Nadia was the firstborn and lost her voice at age twelve, communicating
+  through gestures and a slate board ever since. She regained it three months ago
+  without explanation and has told no one. She fears Kashan is dead, which would mean
+  the family's protective contract is void and their political enemies on the Council
+  know it. She has been attending Council meetings speaking normally, pretending she
+  hired a discreet healer, while secretly trying to determine whether Kashan still
+  lives.
 aliases: []
 race: Human
 gender: Female
@@ -38,26 +40,31 @@ currency:
   gold: 3
   silver: 11
   copper: 23
-appearance: Regal and composed in dark indigo robes embroidered with the al-Faris lamp sigil. She carries
-  a small slate board and chalk on a cord around her neck and writes in a precise, elegant hand. Her family's
-  bronze lamp hangs at her belt, always cold.
-biography: Matriarch of the al-Faris binding family, one of the seven founding houses of the Pact of the
-  Lamp. Her family's contract with the djinn Kashan is the oldest in Zaffar — signed four hundred years
-  ago — and the price was 'the first voice of each firstborn.' Nadia was the firstborn and lost her voice
-  at age twelve, communicating through gestures and a slate board ever since. She regained it three months
-  ago without explanation and has told no one. She fears Kashan is dead, which would mean the family's
-  protective contract is void and their political enemies on the Council know it. She has been attending
-  Council meetings speaking normally, pretending she hired a discreet healer, while secretly trying to
-  determine whether Kashan still lives.
-personality: Precise and detail-oriented, guarded and cautious with trust, blunt and rough-spoken.
+appearance: Regal and composed in dark indigo robes embroidered with the al-Faris
+  lamp sigil. She carries a small slate board and chalk on a cord around her neck
+  and writes in a precise, elegant hand. Her family's bronze lamp hangs at her belt,
+  always cold.
+biography: Matriarch of the al-Faris binding family, one of the seven founding houses
+  of the Pact of the Lamp. Her family's contract with the djinn Kashan is the oldest
+  in Zaffar — signed four hundred years ago — and the price was 'the first voice of
+  each firstborn.' Nadia was the firstborn and lost her voice at age twelve, communicating
+  through gestures and a slate board ever since. She regained it three months ago
+  without explanation and has told no one. She fears Kashan is dead, which would mean
+  the family's protective contract is void and their political enemies on the Council
+  know it. She has been attending Council meetings speaking normally, pretending she
+  hired a discreet healer, while secretly trying to determine whether Kashan still
+  lives.
+personality: Precise and detail-oriented, guarded and cautious with trust, blunt and
+  rough-spoken.
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-long-cotton-chemise
+  - item:womens-cotton-underdrawers
   clothing:
-  - item:knee-length-pirahan
-  - item:bound-ankle-desert-trousers
+  - item:crossover-desert-robe
   armor: []
   hands:
     left: null
@@ -71,7 +78,15 @@ visual:
   distinctive_features:
   - a thin scar across the throat from a childhood illness
   - the al-Faris lamp sigil tattooed on the inside of her left wrist
-  prompt: ''
+  prompt: 1girl, solo, elderly woman, tall and upright, unbowed by age, medium breasts,
+    warm bronze-brown skin, striking West Asian facial features, strong dark brows,
+    deep brown eyes, silver-white, worn in a braided crown hair, a thin scar across
+    the throat from a childhood illness, the al-Faris lamp sigil tattooed on the inside
+    of her left wrist, knee-length pirahan shirt, bound-ankle desert trousers, portrait,
+    upper body, looking at viewer, soft lighting
+  skin: warm bronze-brown
+  height: 5'4"
+  face: striking West Asian facial features, strong dark brows
 image:
   url: ''
   focalPoint:
@@ -79,19 +94,23 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:binding-families
 desires:
-- To determine whether the djinn Kashan still lives and what the return of her voice means
+- To determine whether the djinn Kashan still lives and what the return of her voice
+  means
 - To protect the al-Faris family's position on the Council before rivals sense weakness
 fears_or_limits:
-- That Kashan's death means the oldest contract in Zaffar is broken and the family is unprotected
-- That her regained voice is not a gift but a sign the contract's terms have changed in a way she does
-  not understand
+- That Kashan's death means the oldest contract in Zaffar is broken and the family
+  is unprotected
+- That her regained voice is not a gift but a sign the contract's terms have changed
+  in a way she does not understand
 current_state:
   location: location:zaffar
+memories: []
+momentos: []
 purview: []
 ---
 

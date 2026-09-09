@@ -1,13 +1,15 @@
 ---
 id: character:bai-shuyi
 name: Bai Shuyi
-gm_notes: An archivist at the Great Academy who has discovered a sealed scroll repository beneath the
-  library containing pre-war records from before the three states split. The records reveal that the original
-  unified kingdom fell not through conquest but through a deliberate chi-ritual gone wrong—a ritual the
-  current warlords' ancestors attempted to harness a qilin spirit's power. The ritual shattered the kingdom
-  and scattered qilin spirits across the land. If this knowledge became public, it would undermine the
-  legitimacy of all three warlords. She has been slowly copying the records and hiding the copies in different
-  locations, preparing for the day she must release them.
+gm_notes: An archivist at the Great Academy who has discovered a sealed scroll repository
+  beneath the library containing pre-war records from before the three states split.
+  The records reveal that the original unified kingdom fell not through conquest but
+  through a deliberate chi-ritual gone wrong—a ritual the current warlords' ancestors
+  attempted to harness a qilin spirit's power. The ritual shattered the kingdom and
+  scattered qilin spirits across the land. If this knowledge became public, it would
+  undermine the legitimacy of all three warlords. She has been slowly copying the
+  records and hiding the copies in different locations, preparing for the day she
+  must release them.
 aliases: []
 race: Human
 gender: Female
@@ -37,21 +39,25 @@ currency:
   gold: 4
   silver: 18
   copper: 21
-appearance: Bookish and unobtrusive, always in Academy brown robes. Carries a scroll-case and reading
-  spectacles.
-biography: An archivist at the Great Academy who has discovered a sealed scroll repository beneath the
-  library containing pre-war records from before the three states split. The records reveal that the original
-  unified kingdom fell not through conquest but through a deliberate chi-ritual gone wrong—a ritual the
-  current warlords' ancestors attempted to harness a qilin spirit's power. The ritual shattered the kingdom
-  and scattered qilin spirits across the land. If this knowledge became public, it would undermine the
-  legitimacy of all three warlords. She has been slowly copying the records and hiding the copies in different
-  locations, preparing for the day she must release them.
+appearance: Bookish and unobtrusive, always in Academy brown robes. Carries a scroll-case
+  and reading spectacles.
+biography: An archivist at the Great Academy who has discovered a sealed scroll repository
+  beneath the library containing pre-war records from before the three states split.
+  The records reveal that the original unified kingdom fell not through conquest but
+  through a deliberate chi-ritual gone wrong—a ritual the current warlords' ancestors
+  attempted to harness a qilin spirit's power. The ritual shattered the kingdom and
+  scattered qilin spirits across the land. If this knowledge became public, it would
+  undermine the legitimacy of all three warlords. She has been slowly copying the
+  records and hiding the copies in different locations, preparing for the day she
+  must release them.
 personality: Guarded and cautious with trust, blunt and rough-spoken.
 key_phrases:
 - History is not the past. It is the argument about the past.
 - What is written can be unwritten. What is burned cannot.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-inner-ru
+  - item:womens-loose-undertrousers
   clothing:
   - item:wide-sleeved-scholar-robe
   armor: []
@@ -67,7 +73,14 @@ visual:
   distinctive_features:
   - a large ink-stain birthmark on the right jaw
   - fingers stained with old ink from handling ancient scrolls
-  prompt: ''
+  prompt: 1girl, solo, elderly woman, slight and slightly stooped from years at reading
+    desks, medium breasts, warm beige skin, strong Chinese facial features, pale brown
+    behind round spectacles eyes, white, in a tight bun hair, a large ink-stain birthmark
+    on the right jaw, fingers stained with old ink from handling ancient scrolls,
+    wide-sleeved scholar robe, portrait, upper body, looking at viewer, soft lighting
+  skin: warm beige
+  height: 5'3"
+  face: strong Chinese facial features
 image:
   url: ''
   focalPoint:
@@ -75,8 +88,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:great-academy
 desires:
@@ -87,6 +100,8 @@ fears_or_limits:
 - Dying before she finishes copying everything
 current_state:
   location: location:jin-an
+memories: []
+momentos: []
 purview: []
 ---
 

@@ -1,11 +1,13 @@
 ---
 id: character:mei-yunlu
 name: Mei Yunlu
-gm_notes: A silk weaver whose loom produces fabric with patterns that seem to move in candlelight. She
-  weaves prophetic images into ceremonial robes—a gift from a qilin spirit that visited her mother during
-  pregnancy. She has woven three robes that depicted future battles before they occurred, and all three
-  came true. The Jin warlord's court has noticed. She has been ordered to weave the Jin warlord's coronation
-  robe and is terrified because the pattern forming on her loom shows the warlord's death.
+gm_notes: A silk weaver whose loom produces fabric with patterns that seem to move
+  in candlelight. She weaves prophetic images into ceremonial robes—a gift from a
+  qilin spirit that visited her mother during pregnancy. She has woven three robes
+  that depicted future battles before they occurred, and all three came true. The
+  Jin warlord's court has noticed. She has been ordered to weave the Jin warlord's
+  coronation robe and is terrified because the pattern forming on her loom shows the
+  warlord's death.
 aliases: []
 race: Human
 gender: Female
@@ -35,20 +37,25 @@ currency:
   gold: 0
   silver: 21
   copper: 20
-appearance: Gentle and focused, wearing simple weave-stained clothes. Hands always moving, as if at an
-  invisible loom.
-biography: A silk weaver whose loom produces fabric with patterns that seem to move in candlelight. She
-  weaves prophetic images into ceremonial robes—a gift from a qilin spirit that visited her mother during
-  pregnancy. She has woven three robes that depicted future battles before they occurred, and all three
-  came true. The Jin warlord's court has noticed. She has been ordered to weave the Jin warlord's coronation
-  robe and is terrified because the pattern forming on her loom shows the warlord's death.
+appearance: Gentle and focused, wearing simple weave-stained clothes. Hands always
+  moving, as if at an invisible loom.
+biography: A silk weaver whose loom produces fabric with patterns that seem to move
+  in candlelight. She weaves prophetic images into ceremonial robes—a gift from a
+  qilin spirit that visited her mother during pregnancy. She has woven three robes
+  that depicted future battles before they occurred, and all three came true. The
+  Jin warlord's court has noticed. She has been ordered to weave the Jin warlord's
+  coronation robe and is terrified because the pattern forming on her loom shows the
+  warlord's death.
 personality: Compassionate and tender-hearted.
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
-- I will not rest until I finish the coronation robe without revealing what the pattern shows.
+- I will not rest until I finish the coronation robe without revealing what the pattern
+  shows.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-inner-ru
+  - item:womens-loose-undertrousers
   clothing:
   - item:short-shan-work-shirt
   - item:bound-cuff-field-trousers
@@ -65,7 +72,14 @@ visual:
   distinctive_features:
   - weaver's calluses on both thumbs
   - a faint shimmer in her hair that catches light like silk thread
-  prompt: ''
+  prompt: 1girl, solo, young adult woman, small and deft-fingered, medium breasts,
+    warm beige skin, strong Chinese facial features, soft gray-brown eyes, dark brown,
+    braided and pinned up with wooden loom-shuttles hair, weaver's calluses on both
+    thumbs, a faint shimmer in her hair, short shan work shirt, bound-cuff field trousers,
+    portrait, upper body, looking at viewer, soft lighting
+  skin: warm beige
+  height: 5'3"
+  face: strong Chinese facial features
 image:
   url: ''
   focalPoint:
@@ -73,8 +87,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:jin-state
 desires:
@@ -85,6 +99,8 @@ fears_or_limits:
 - That altering the pattern will change fate in a worse way
 current_state:
   location: location:jin-an
+memories: []
+momentos: []
 purview: []
 ---
 

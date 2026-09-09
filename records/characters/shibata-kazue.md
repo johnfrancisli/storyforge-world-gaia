@@ -1,13 +1,15 @@
 ---
 id: character:shibata-kazue
 name: Shibata Kazue
-gm_notes: 'Kazue forges blades using an alloy that includes yokai-silver — a material that makes weapons
-  capable of cutting spirits and yokai, not just flesh. She learned the technique from her master, who
-  was executed by shrine authorities for ''consorting with yokai'' when she was his apprentice. She''s
-  been hiding the nature of her blades, selling them as ordinary quality steel. Daimyo Takeda (character:takeda-renji)
-  has been buying her blades in bulk through intermediaries, and she suspects he''s building an arsenal
-  specifically for use against yokai — possibly to engineer an incident that proves the shrine network''s
-  weakness. She''s torn: the blades are her living, but their use could trigger a catastrophe.'
+gm_notes: 'Kazue forges blades using an alloy that includes yokai-silver — a material
+  that makes weapons capable of cutting spirits and yokai, not just flesh. She learned
+  the technique from her master, who was executed by shrine authorities for ''consorting
+  with yokai'' when she was his apprentice. She''s been hiding the nature of her blades,
+  selling them as ordinary quality steel. Daimyo Takeda (character:takeda-renji) has
+  been buying her blades in bulk through intermediaries, and she suspects he''s building
+  an arsenal specifically for use against yokai — possibly to engineer an incident
+  that proves the shrine network''s weakness. She''s torn: the blades are her living,
+  but their use could trigger a catastrophe.'
 aliases:
 - Kazue
 race: Human
@@ -38,22 +40,27 @@ currency:
   gold: 0
   silver: 13
   copper: 12
-appearance: She wears a leather smith's apron over a soot-stained kimono, her sleeves bound tight. She's
-  broad-shouldered from years at the anvil, and she wields a hammer with controlled, rhythmic force. Her
-  forge-glow is always behind her, outlining her in red and shadow.
-biography: 'Kazue forges blades using an alloy that includes yokai-silver — a material that makes weapons
-  capable of cutting spirits and yokai, not just flesh. She learned the technique from her master, who
-  was executed by shrine authorities for ''consorting with yokai'' when she was his apprentice. She''s
-  been hiding the nature of her blades, selling them as ordinary quality steel. Daimyo Takeda (character:takeda-renji)
-  has been buying her blades in bulk through intermediaries, and she suspects he''s building an arsenal
-  specifically for use against yokai — possibly to engineer an incident that proves the shrine network''s
-  weakness. She''s torn: the blades are her living, but their use could trigger a catastrophe.'
+appearance: She wears a leather smith's apron over a soot-stained kimono, her sleeves
+  bound tight. She's broad-shouldered from years at the anvil, and she wields a hammer
+  with controlled, rhythmic force. Her forge-glow is always behind her, outlining
+  her in red and shadow.
+biography: 'Kazue forges blades using an alloy that includes yokai-silver — a material
+  that makes weapons capable of cutting spirits and yokai, not just flesh. She learned
+  the technique from her master, who was executed by shrine authorities for ''consorting
+  with yokai'' when she was his apprentice. She''s been hiding the nature of her blades,
+  selling them as ordinary quality steel. Daimyo Takeda (character:takeda-renji) has
+  been buying her blades in bulk through intermediaries, and she suspects he''s building
+  an arsenal specifically for use against yokai — possibly to engineer an incident
+  that proves the shrine network''s weakness. She''s torn: the blades are her living,
+  but their use could trigger a catastrophe.'
 personality: Wary and watchful, blunt and rough-spoken, caught between duty and conscience.
 key_phrases:
 - Metal has opinions. My job is to negotiate.
 - The forge teaches patience whether you want to learn it or not.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-hadajuban
+  - item:womens-koshimaki
   clothing:
   - item:hemp-work-kosode
   - item:womens-maekake-work-apron
@@ -67,8 +74,15 @@ visual:
   body_build: broad-shouldered, powerful arms, medium breasts
   hair: black, greying, cropped very short
   eyes: dark brown, steady
-  distinctive_features: burn scars across both forearms and a permanent forge-tan on the hands
-  prompt: ''
+  distinctive_features: burn scars across both forearms and a permanent forge-tan
+    on the hands
+  prompt: 1girl, solo, young adult woman, broad-shouldered, powerful arms, medium
+    breasts, weathered sun-browned skin, traditional Japanese facial features, dark
+    brown eyes, black, greying, cropped very short hair, indigo hemp work kosode,
+    maekake work apron, portrait, upper body, looking at viewer, soft lighting
+  skin: weathered sun-browned
+  height: 5'2"
+  face: traditional Japanese facial features
 image:
   url: ''
   focalPoint:
@@ -76,18 +90,24 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:ashikara-shogunate
 desires:
-- To keep her master's technique alive and honor his memory without being arrested for it.
-- To stop Takeda from using her blades to trigger the yokai incident she fears he's planning.
+- To keep her master's technique alive and honor his memory without being arrested
+  for it.
+- To stop Takeda from using her blades to trigger the yokai incident she fears he's
+  planning.
 fears_or_limits:
-- Yokai-silver weapons are contraband under shogunate law — possessing the technique is a crime.
-- She cannot refuse a daimyo's orders without consequences, and she has no political protection.
+- Yokai-silver weapons are contraband under shogunate law — possessing the technique
+  is a crime.
+- She cannot refuse a daimyo's orders without consequences, and she has no political
+  protection.
 current_state:
   location: location:tsukuyomi
+memories: []
+momentos: []
 purview: []
 ---
 

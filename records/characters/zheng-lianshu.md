@@ -1,13 +1,15 @@
 ---
 id: character:zheng-lianshu
 name: Zheng Lianshu
-gm_notes: 'A librarian at the Great Academy who manages the student reading rooms. She has noticed that
-  someone has been systematically removing and replacing pages from historical texts about the qilin-spirit
-  ritual that split the kingdom. The tampering alters the texts to make the warlords'' ancestors appear
-  as heroes rather than perpetrators of the failed ritual. She has compared the tampered texts with Bai
-  Shuyi''s archivist copies and confirmed the alterations. She does not know who is doing the tampering—a
-  faculty member with after-hours access, or an infiltrator. She has set a trap: she has marked several
-  texts with a chi-reactive ink that will stain the hands of the next person who handles them.'
+gm_notes: 'A librarian at the Great Academy who manages the student reading rooms.
+  She has noticed that someone has been systematically removing and replacing pages
+  from historical texts about the qilin-spirit ritual that split the kingdom. The
+  tampering alters the texts to make the warlords'' ancestors appear as heroes rather
+  than perpetrators of the failed ritual. She has compared the tampered texts with
+  Bai Shuyi''s archivist copies and confirmed the alterations. She does not know who
+  is doing the tampering—a faculty member with after-hours access, or an infiltrator.
+  She has set a trap: she has marked several texts with a chi-reactive ink that will
+  stain the hands of the next person who handles them.'
 aliases: []
 race: Human
 gender: Female
@@ -37,23 +39,30 @@ currency:
   gold: 4
   silver: 16
   copper: 24
-appearance: Neat and attentive, wearing Academy brown with a librarian's reading chain. Always has a list
-  and a pen.
-biography: 'A librarian at the Great Academy who manages the student reading rooms. She has noticed that
-  someone has been systematically removing and replacing pages from historical texts about the qilin-spirit
-  ritual that split the kingdom. The tampering alters the texts to make the warlords'' ancestors appear
-  as heroes rather than perpetrators of the failed ritual. She has compared the tampered texts with Bai
-  Shuyi''s archivist copies and confirmed the alterations. She does not know who is doing the tampering—a
-  faculty member with after-hours access, or an infiltrator. She has set a trap: she has marked several
-  texts with a chi-reactive ink that will stain the hands of the next person who handles them.'
-personality: Precise and detail-oriented, inquisitive and eager to learn, reserved and soft-spoken.
+appearance: Neat and attentive, wearing Academy brown with a librarian's reading chain.
+  Always has a list and a pen.
+biography: 'A librarian at the Great Academy who manages the student reading rooms.
+  She has noticed that someone has been systematically removing and replacing pages
+  from historical texts about the qilin-spirit ritual that split the kingdom. The
+  tampering alters the texts to make the warlords'' ancestors appear as heroes rather
+  than perpetrators of the failed ritual. She has compared the tampered texts with
+  Bai Shuyi''s archivist copies and confirmed the alterations. She does not know who
+  is doing the tampering—a faculty member with after-hours access, or an infiltrator.
+  She has set a trap: she has marked several texts with a chi-reactive ink that will
+  stain the hands of the next person who handles them.'
+personality: Precise and detail-oriented, inquisitive and eager to learn, reserved
+  and soft-spoken.
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 - I will not rest until I catch the tamperer and expose the historical revisionism.
 equipment:
-  underwear: []
-  clothing: []
+  underwear:
+  - item:womens-inner-ru
+  - item:womens-loose-undertrousers
+  clothing:
+  - item:short-shan-work-shirt
+  - item:bound-cuff-field-trousers
   armor: []
   hands:
     left: null
@@ -67,7 +76,14 @@ visual:
   distinctive_features:
   - a paper-cut scar on the right thumb
   - a faint ink-stain on the left jaw that never quite fades
-  prompt: ''
+  prompt: 1girl, solo, adult woman, medium and precise, small breasts, warm beige
+    skin, delicate, elegant Chinese facial features, myopic brown behind round spectacles
+    eyes, black, in a neat librarian's bun with reading-glasses chain hair, a paper-cut
+    scar on the right thumb, a faint ink-stain on the left jaw, short shan work shirt,
+    bound-cuff field trousers, portrait, upper body, looking at viewer, soft lighting
+  skin: warm beige
+  height: 5'3"
+  face: delicate, elegant Chinese facial features
 image:
   url: ''
   focalPoint:
@@ -75,8 +91,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:great-academy
 desires:
@@ -87,6 +103,8 @@ fears_or_limits:
 - That the chi-reactive ink trap will catch an innocent student and damage her credibility
 current_state:
   location: location:jin-an
+memories: []
+momentos: []
 purview: []
 ---
 

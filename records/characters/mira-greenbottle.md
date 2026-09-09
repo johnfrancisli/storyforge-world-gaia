@@ -1,11 +1,11 @@
 ---
 id: character:mira-greenbottle
 name: Mira Greenbottle
-gm_notes: Mira is a halfling herbalist who discovered a rare mushroom that can temporarily suppress a
-  dragon-bonded knight's connection to their dragon. She has not told anyone, but a noble has been pressuring
-  her to sell her entire supply. She suspects the mushrooms could be used to assassinate a dragon-bonded
-  knight by severing their bond mid-flight. She is hiding the remaining supply in a false-bottomed root
-  cellar.
+gm_notes: Mira is a halfling herbalist who discovered a rare mushroom that can temporarily
+  suppress a dragon-bonded knight's connection to their dragon. She has not told anyone,
+  but a noble has been pressuring her to sell her entire supply. She suspects the
+  mushrooms could be used to assassinate a dragon-bonded knight by severing their
+  bond mid-flight. She is hiding the remaining supply in a false-bottomed root cellar.
 aliases: []
 race: Halfling
 gender: Female
@@ -35,20 +35,23 @@ currency:
   gold: 2
   silver: 13
   copper: 13
-appearance: Small and round-faced, Mira wears a patched green dress and carries herbs in every pocket.
-  Her curly hair always seems to have a leaf or twig caught in it.
-biography: Mira is a halfling herbalist who discovered a rare mushroom that can temporarily suppress a
-  dragon-bonded knight's connection to their dragon. She has not told anyone, but a noble has been pressuring
-  her to sell her entire supply. She suspects the mushrooms could be used to assassinate a dragon-bonded
-  knight by severing their bond mid-flight. She is hiding the remaining supply in a false-bottomed root
-  cellar.
+appearance: Small and round-faced, Mira wears a patched green dress and carries herbs
+  in every pocket. Her curly hair always seems to have a leaf or twig caught in it.
+biography: Mira is a halfling herbalist who discovered a rare mushroom that can temporarily
+  suppress a dragon-bonded knight's connection to their dragon. She has not told anyone,
+  but a noble has been pressuring her to sell her entire supply. She suspects the
+  mushrooms could be used to assassinate a dragon-bonded knight by severing their
+  bond mid-flight. She is hiding the remaining supply in a false-bottomed root cellar.
 personality: Dignified and self-assured, guarded and cautious with trust.
 key_phrases:
 - Every plant has a purpose, if you listen closely enough.
 - The earth provides, if you know where to look.
-- I will not rest until I keep me village healthy without relying on expensive city healers.
+- I will not rest until I keep me village healthy without relying on expensive city
+  healers.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-linen-chemise
+  - item:womens-linen-underbreeches
   clothing:
   - item:laced-kirtle
   armor: []
@@ -61,9 +64,16 @@ visual:
   body_build: short and soft, halfling stature, large breasts
   hair: sandy blonde, tightly curled, perpetually unruly
   eyes: warm brown
-  distinctive_features: permanently green-stained fingertips, a missing left earlobe (lost to a biting
-    creature in the woods)
-  prompt: ''
+  distinctive_features: permanently green-stained fingertips, a missing left earlobe
+    (lost to a biting creature in the woods)
+  prompt: 1girl, solo, adult woman, halfling, short adult stature, short and soft,
+    halfling stature, large breasts, fair peach-beige skin, compact adult halfling
+    proportions, expressive warm eyes, warm brown eyes, sandy blonde, tightly curled,
+    perpetually unruly hair, permanently green-stained fingertips, a missing left
+    earlobe, laced kirtle dress, portrait, upper body, looking at viewer, soft lighting
+  skin: fair peach-beige
+  height: 3'3"
+  face: compact adult halfling proportions, expressive warm eyes
 image:
   url: ''
   focalPoint:
@@ -71,8 +81,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:val-mages-circle
 desires:
@@ -83,6 +93,8 @@ fears_or_limits:
 - that she will be forced to choose between her village and her conscience
 current_state:
   location: location:valdris
+memories: []
+momentos: []
 purview: []
 ---
 

@@ -1,12 +1,13 @@
 ---
 id: character:daisy-teasprout
 name: Daisy Teasprout
-gm_notes: Daisy is a halfling girl, just twelve years old, who ran away from her village after her uncle
-  — her only remaining family — began selling her belongings to pay debts. She made her way to Crownhaven
-  and has been living on the streets, surviving by begging and picking pockets. She accidentally stole
-  a sealed letter from a nobleman's cloak that contains details of a planned coup. She cannot read well
-  enough to understand it, but she knows it is important because the nobleman has posted a reward for
-  its return — and she has seen his men searching the streets for a 'small girl.'
+gm_notes: Daisy is a halfling girl, just twelve years old, who ran away from her village
+  after her uncle — her only remaining family — began selling her belongings to pay
+  debts. She made her way to Crownhaven and has been living on the streets, surviving
+  by begging and picking pockets. She accidentally stole a sealed letter from a nobleman's
+  cloak that contains details of a planned coup. She cannot read well enough to understand
+  it, but she knows it is important because the nobleman has posted a reward for its
+  return — and she has seen his men searching the streets for a 'small girl.'
 aliases: []
 race: Halfling
 gender: Female
@@ -36,21 +37,26 @@ currency:
   gold: 0
   silver: 0
   copper: 0
-appearance: Small and underfed, Daisy wears a threadbare dress too large for her, belted with rope. Her
-  hair is tangled and her face is dirty, but her eyes are alert and wary beyond her years.
-biography: Daisy is a halfling girl, just twelve years old, who ran away from her village after her uncle
-  — her only remaining family — began selling her belongings to pay debts. She made her way to Crownhaven
-  and has been living on the streets, surviving by begging and picking pockets. She accidentally stole
-  a sealed letter from a nobleman's cloak that contains details of a planned coup. She cannot read well
-  enough to understand it, but she knows it is important because the nobleman has posted a reward for
-  its return — and she has seen his men searching the streets for a 'small girl.'
+appearance: Small and underfed, Daisy wears a threadbare dress too large for her,
+  belted with rope. Her hair is tangled and her face is dirty, but her eyes are alert
+  and wary beyond her years.
+biography: Daisy is a halfling girl, just twelve years old, who ran away from her
+  village after her uncle — her only remaining family — began selling her belongings
+  to pay debts. She made her way to Crownhaven and has been living on the streets,
+  surviving by begging and picking pockets. She accidentally stole a sealed letter
+  from a nobleman's cloak that contains details of a planned coup. She cannot read
+  well enough to understand it, but she knows it is important because the nobleman
+  has posted a reward for its return — and she has seen his men searching the streets
+  for a 'small girl.'
 personality: Dignified and self-assured, perceptive and watchful.
 key_phrases:
 - I'm not afraid. I'm just... careful.
 - When you're small, you learn to notice things.
 - I will not rest until I find a safe place to sleep and enough food to not be hungry.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-linen-chemise
+  - item:womens-linen-underbreeches
   clothing:
   - item:laced-kirtle
   armor: []
@@ -63,9 +69,15 @@ visual:
   body_build: small and thin, halfling child
   hair: mousy brown, tangled, unpinned
   eyes: large grey-green
-  distinctive_features: a faded bruise on her right forearm, bare feet with calloused soles, a rope-belt
-    with a small stolen pouch tied to it
-  prompt: ''
+  distinctive_features: a faded bruise on her right forearm, bare feet with calloused
+    soles, a rope-belt with a small stolen pouch tied to it
+  prompt: 1girl, solo, young girl, halfling, short adult stature, small and thin,
+    halfling child, fair peach-beige skin, compact adult halfling proportions, expressive
+    warm eyes, large grey-green eyes, mousy brown, tangled, unpinned hair, laced kirtle
+    dress, portrait, upper body, looking at viewer, soft lighting
+  skin: fair peach-beige
+  height: 3'3"
+  face: compact adult halfling proportions, expressive warm eyes
 image:
   url: ''
   focalPoint:
@@ -73,8 +85,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:val-mages-circle
 desires:
@@ -85,6 +97,8 @@ fears_or_limits:
 - that she will be sent back to her uncle or punished for stealing
 current_state:
   location: location:crownhaven
+memories: []
+momentos: []
 purview: []
 ---
 

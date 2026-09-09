@@ -1,11 +1,13 @@
 ---
 id: character:edmund-greyfeather
 name: Edmund Greyfeather
-gm_notes: Edmund is a half-elf forester who patrols the King's Wood. He discovered a poaching camp that
-  was not just taking deer — it was trapping live dragons, young ones, barely fledged. The trappers are
-  well-equipped and organized, suggesting a wealthy backer. Edmund disabled two traps but was spotted
-  by a lookout. He is now hiding in the forest, afraid to return to his post or his home, because the
-  trappers know his face. He has information that could expose the operation but no one to trust.
+gm_notes: Edmund is a half-elf forester who patrols the King's Wood. He discovered
+  a poaching camp that was not just taking deer — it was trapping live dragons, young
+  ones, barely fledged. The trappers are well-equipped and organized, suggesting a
+  wealthy backer. Edmund disabled two traps but was spotted by a lookout. He is now
+  hiding in the forest, afraid to return to his post or his home, because the trappers
+  know his face. He has information that could expose the operation but no one to
+  trust.
 aliases: []
 race: Elf
 gender: Male
@@ -36,20 +38,26 @@ currency:
   gold: 4
   silver: 14
   copper: 3
-appearance: Lean and weathered, Edmund wears forest-green garb and a hooded cloak. His ears are slightly
-  pointed but less pronounced than a full elf's, and he carries a longbow.
-biography: Edmund is a half-elf forester who patrols the King's Wood. He discovered a poaching camp that
-  was not just taking deer — it was trapping live dragons, young ones, barely fledged. The trappers are
-  well-equipped and organized, suggesting a wealthy backer. Edmund disabled two traps but was spotted
-  by a lookout. He is now hiding in the forest, afraid to return to his post or his home, because the
-  trappers know his face. He has information that could expose the operation but no one to trust.
+appearance: Lean and weathered, Edmund wears forest-green garb and a hooded cloak.
+  His ears are slightly pointed but less pronounced than a full elf's, and he carries
+  a longbow.
+biography: Edmund is a half-elf forester who patrols the King's Wood. He discovered
+  a poaching camp that was not just taking deer — it was trapping live dragons, young
+  ones, barely fledged. The trappers are well-equipped and organized, suggesting a
+  wealthy backer. Edmund disabled two traps but was spotted by a lookout. He is now
+  hiding in the forest, afraid to return to his post or his home, because the trappers
+  know his face. He has information that could expose the operation but no one to
+  trust.
 personality: Guarded and cautious with trust.
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
-- I will not rest until I expose the dragon-trapping operation and bring its backers to justice.
+- I will not rest until I expose the dragon-trapping operation and bring its backers
+  to justice.
 equipment:
-  underwear: []
+  underwear:
+  - item:mens-linen-undershirt
+  - item:mens-drawstring-braies
   clothing:
   - item:elven-forest-tunic
   - item:elven-fitted-leggings
@@ -63,9 +71,15 @@ visual:
   body_build: lean and rangy, narrow chest
   hair: dark brown, shaggy
   eyes: green
-  distinctive_features: slightly pointed ears (half-elf), a bowstring callus on his left fingers, a scar
-    across his right palm from a trap wire
-  prompt: ''
+  distinctive_features: slightly pointed ears (half-elf), a bowstring callus on his
+    left fingers, a scar across his right palm from a trap wire
+  prompt: 1man, solo, adult man, elf, pointed ears, lean and rangy, narrow chest,
+    light beige skin, symmetrical, elegant elven features, green eyes, dark brown,
+    shaggy hair, elven forest work tunic, fitted leather leggings, portrait, upper
+    body, looking at viewer, soft lighting
+  skin: light beige
+  height: 5'11"
+  face: symmetrical, elegant elven features, pointed ears
 image:
   url: ''
   focalPoint:
@@ -73,8 +87,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:val-noble-council
 desires:
@@ -85,6 +99,8 @@ fears_or_limits:
 - that the dragons trapped in the camp will be killed or sold before he can act
 current_state:
   location: location:valdris
+memories: []
+momentos: []
 purview: []
 ---
 

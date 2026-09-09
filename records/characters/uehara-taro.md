@@ -1,14 +1,15 @@
 ---
 id: character:uehara-taro
 name: Uehara Taro
-gm_notes: Taro knows about Iso's (character:hamada-iso) deal with the umi-bozu because he's the one who
-  introduced her to it — he made the same bargain twenty years ago. The yokai gives him abundant catches
-  in exchange for his service at the hidden coastal shrine every new moon. But Taro is aging, and the
-  yokai wants a successor — it's been demanding that Taro recruit a replacement or forfeit his own catch.
-  He introduced Iso to the bargain partly out of desperation, partly because the yokai told him to. He's
-  wracked with guilt about what he's done to her and her husband, but he's also terrified of what the
-  umi-bozu will do if he refuses. He's been leaving offerings at a proper shrine in secret, praying for
-  a way out that doesn't exist.
+gm_notes: Taro knows about Iso's (character:hamada-iso) deal with the umi-bozu because
+  he's the one who introduced her to it — he made the same bargain twenty years ago.
+  The yokai gives him abundant catches in exchange for his service at the hidden coastal
+  shrine every new moon. But Taro is aging, and the yokai wants a successor — it's
+  been demanding that Taro recruit a replacement or forfeit his own catch. He introduced
+  Iso to the bargain partly out of desperation, partly because the yokai told him
+  to. He's wracked with guilt about what he's done to her and her husband, but he's
+  also terrified of what the umi-bozu will do if he refuses. He's been leaving offerings
+  at a proper shrine in secret, praying for a way out that doesn't exist.
 aliases:
 - Taro
 race: Human
@@ -39,23 +40,27 @@ currency:
   gold: 3
   silver: 5
   copper: 9
-appearance: He wears a salt-stained work kimono with rubber-soled boots, a fishing knife at his belt.
-  His skin is weathered dark from decades of sea wind, and he squints from permanently salt-reddened eyes.
-  He smells of fish and cheap sake, and his hands shake when he's not holding something.
-biography: Taro knows about Iso's (character:hamada-iso) deal with the umi-bozu because he's the one who
-  introduced her to it — he made the same bargain twenty years ago. The yokai gives him abundant catches
-  in exchange for his service at the hidden coastal shrine every new moon. But Taro is aging, and the
-  yokai wants a successor — it's been demanding that Taro recruit a replacement or forfeit his own catch.
-  He introduced Iso to the bargain partly out of desperation, partly because the yokai told him to. He's
-  wracked with guilt about what he's done to her and her husband, but he's also terrified of what the
-  umi-bozu will do if he refuses. He's been leaving offerings at a proper shrine in secret, praying for
-  a way out that doesn't exist.
+appearance: He wears a salt-stained work kimono with rubber-soled boots, a fishing
+  knife at his belt. His skin is weathered dark from decades of sea wind, and he squints
+  from permanently salt-reddened eyes. He smells of fish and cheap sake, and his hands
+  shake when he's not holding something.
+biography: Taro knows about Iso's (character:hamada-iso) deal with the umi-bozu because
+  he's the one who introduced her to it — he made the same bargain twenty years ago.
+  The yokai gives him abundant catches in exchange for his service at the hidden coastal
+  shrine every new moon. But Taro is aging, and the yokai wants a successor — it's
+  been demanding that Taro recruit a replacement or forfeit his own catch. He introduced
+  Iso to the bargain partly out of desperation, partly because the yokai told him
+  to. He's wracked with guilt about what he's done to her and her husband, but he's
+  also terrified of what the umi-bozu will do if he refuses. He's been leaving offerings
+  at a proper shrine in secret, praying for a way out that doesn't exist.
 personality: Guarded and cautious with trust, carries a secret that shapes every decision.
 key_phrases:
 - The river gives and the river takes. You learn to accept both.
 - A bad day fishing is still a day on the water.
 equipment:
-  underwear: []
+  underwear:
+  - item:mens-hadajuban
+  - item:mens-etchu-fundoshi
   clothing:
   - item:hemp-work-kosode
   armor: []
@@ -68,9 +73,15 @@ visual:
   body_build: wiry, sea-worn, narrow chest
   hair: grey, thin, under a knit cap
   eyes: pale brown, bloodshot
-  distinctive_features: a rope-scar around the right wrist and a permanently crooked left ring finger
-    from a net accident
-  prompt: ''
+  distinctive_features: a rope-scar around the right wrist and a permanently crooked
+    left ring finger from a net accident
+  prompt: 1boy, solo, young adult man, wiry, sea-worn, narrow chest, weathered sun-browned
+    skin, traditional Japanese facial features, pale brown eyes, grey, thin, under
+    a knit cap hair, indigo hemp work kosode, portrait, upper body, looking at viewer,
+    soft lighting
+  skin: weathered sun-browned
+  height: 5'7"
+  face: traditional Japanese facial features
 image:
   url: ''
   focalPoint:
@@ -78,19 +89,24 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:ashikara-shogunate
 desires:
-- To find a way out of his bargain with the umi-bozu before it forces him to recruit more people.
-- To make amends to Iso (character:hamada-iso) for what he dragged her into, if amends are even possible.
+- To find a way out of his bargain with the umi-bozu before it forces him to recruit
+  more people.
+- To make amends to Iso (character:hamada-iso) for what he dragged her into, if amends
+  are even possible.
 fears_or_limits:
-- The umi-bozu will not release him, and refusing its demands means losing his livelihood — or worse.
-- If Iso learns he introduced her to the bargain on the yokai's orders, she may never forgive him — or
-  she may kill him.
+- The umi-bozu will not release him, and refusing its demands means losing his livelihood
+  — or worse.
+- If Iso learns he introduced her to the bargain on the yokai's orders, she may never
+  forgive him — or she may kill him.
 current_state:
   location: location:tsukuyomi
+memories: []
+momentos: []
 purview: []
 ---
 

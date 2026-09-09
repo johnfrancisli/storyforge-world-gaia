@@ -1,13 +1,14 @@
 ---
 id: character:ichinose-satsuki
 name: Ichinose Satsuki
-gm_notes: Satsuki teaches tea ceremony to Prince Haru (character:ashikara-haru) and has become a mother
-  figure to him since his own mother died. She knows the shogun (character:ashikara-yoshito) is dying
-  — she's seen the medicines being prepared in the palace kitchens and recognized the herbs. She's been
-  quietly preparing the younger prince for leadership under the guise of tea lessons, teaching him patience,
+gm_notes: Satsuki teaches tea ceremony to Prince Haru (character:ashikara-haru) and
+  has become a mother figure to him since his own mother died. She knows the shogun
+  (character:ashikara-yoshito) is dying — she's seen the medicines being prepared
+  in the palace kitchens and recognized the herbs. She's been quietly preparing the
+  younger prince for leadership under the guise of tea lessons, teaching him patience,
   observation, and the art of reading people. She believes the elder prince (character:ashikara-renjiro)
-  is dangerous but has no proof beyond instinct. She's also been in quiet contact with Rin (character:hanabusa-rin),
-  who arranges flowers for the same tea room.
+  is dangerous but has no proof beyond instinct. She's also been in quiet contact
+  with Rin (character:hanabusa-rin), who arranges flowers for the same tea room.
 aliases:
 - Satsuki
 race: Human
@@ -38,23 +39,28 @@ currency:
   gold: 5
   silver: 17
   copper: 26
-appearance: She wears an immaculate, subdued kimono in slate grey or deep indigo, with a white fukusa
-  cloth folded precisely at her collar. Her movements in the tea room are liquid and unhurried. She speaks
-  softly, and people lean in to hear her — which is the point.
-biography: Satsuki teaches tea ceremony to Prince Haru (character:ashikara-haru) and has become a mother
-  figure to him since his own mother died. She knows the shogun (character:ashikara-yoshito) is dying
-  — she's seen the medicines being prepared in the palace kitchens and recognized the herbs. She's been
-  quietly preparing the younger prince for leadership under the guise of tea lessons, teaching him patience,
+appearance: She wears an immaculate, subdued kimono in slate grey or deep indigo,
+  with a white fukusa cloth folded precisely at her collar. Her movements in the tea
+  room are liquid and unhurried. She speaks softly, and people lean in to hear her
+  — which is the point.
+biography: Satsuki teaches tea ceremony to Prince Haru (character:ashikara-haru) and
+  has become a mother figure to him since his own mother died. She knows the shogun
+  (character:ashikara-yoshito) is dying — she's seen the medicines being prepared
+  in the palace kitchens and recognized the herbs. She's been quietly preparing the
+  younger prince for leadership under the guise of tea lessons, teaching him patience,
   observation, and the art of reading people. She believes the elder prince (character:ashikara-renjiro)
-  is dangerous but has no proof beyond instinct. She's also been in quiet contact with Rin (character:hanabusa-rin),
-  who arranges flowers for the same tea room.
+  is dangerous but has no proof beyond instinct. She's also been in quiet contact
+  with Rin (character:hanabusa-rin), who arranges flowers for the same tea room.
 personality: Precise and detail-oriented, reserved and soft-spoken.
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
-- I will not rest until I prepare prince haru to lead without anyone realizing she's doing it.
+- I will not rest until I prepare prince haru to lead without anyone realizing she's
+  doing it.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-hadajuban
+  - item:womens-koshimaki
   clothing:
   - item:hemp-work-kosode
   armor: []
@@ -67,8 +73,15 @@ visual:
   body_build: slender, composed, small breasts
   hair: iron grey, in a smooth low bun
   eyes: dark brown, warm but observant
-  distinctive_features: a faint tea-stain discoloration on the right thumb and forefinger, permanent
-  prompt: ''
+  distinctive_features: a faint tea-stain discoloration on the right thumb and forefinger,
+    permanent
+  prompt: 1girl, solo, young adult woman, slender, composed, small breasts, warm beige
+    skin, traditional Japanese facial features, dark brown eyes, iron grey, in a smooth
+    low bun hair, indigo hemp work kosode, portrait, upper body, looking at viewer,
+    soft lighting
+  skin: warm beige
+  height: 5'2"
+  face: traditional Japanese facial features
 image:
   url: ''
   focalPoint:
@@ -76,18 +89,22 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:tsu-tea-schools
 desires:
 - To prepare Prince Haru to lead without anyone realizing she's doing it.
 - To protect the younger prince from the elder's growing cruelty.
 fears_or_limits:
-- If the elder prince learns she's coaching his brother, she will be removed from the palace — or worse.
-- She is a servant, not a strategist, and the forces around the succession are far beyond her influence.
+- If the elder prince learns she's coaching his brother, she will be removed from
+  the palace — or worse.
+- She is a servant, not a strategist, and the forces around the succession are far
+  beyond her influence.
 current_state:
   location: location:tsuki-no-miyako
+memories: []
+momentos: []
 purview: []
 ---
 

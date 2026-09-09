@@ -1,16 +1,18 @@
 ---
 id: character:lio
 name: Lio
-gm_notes: Lio is a pearl trader who travels between islands buying and selling pearls, and she knows the
-  value of every pearl in the Archipelago. Her secret is that she has been buying black pearls — a specific
-  kind, dark as night, that come from only one reef — and hoarding them rather than trading them. She
-  has forty-three black pearls hidden in a hollowed-out coconut shell in her raft. She is not hoarding
-  them for value. She has been buying them because each one she holds to her ear hums, and the hum is
-  the same note — the same note that Kiri the drummer is hearing. Lio does not know Kiri, but she knows
-  the sound, and she has been collecting the pearls because she believes they are pieces of something
-  that was broken, and if she can find enough of them, they will resonate together and show her what they
-  are part of. She is up to forty-three, and the hum is getting louder, and she is afraid that when she
-  finds the last one, it will not be a sound but a voice.
+gm_notes: Lio is a pearl trader who travels between islands buying and selling pearls,
+  and she knows the value of every pearl in the Archipelago. Her secret is that she
+  has been buying black pearls — a specific kind, dark as night, that come from only
+  one reef — and hoarding them rather than trading them. She has forty-three black
+  pearls hidden in a hollowed-out coconut shell in her raft. She is not hoarding them
+  for value. She has been buying them because each one she holds to her ear hums,
+  and the hum is the same note — the same note that Kiri the drummer is hearing. Lio
+  does not know Kiri, but she knows the sound, and she has been collecting the pearls
+  because she believes they are pieces of something that was broken, and if she can
+  find enough of them, they will resonate together and show her what they are part
+  of. She is up to forty-three, and the hum is getting louder, and she is afraid that
+  when she finds the last one, it will not be a sound but a voice.
 aliases: []
 race: Human
 gender: Female
@@ -40,26 +42,33 @@ currency:
   gold: 25
   silver: 17
   copper: 33
-appearance: A sharp-eyed, quick-talking woman with a trader's confident manner and a pouch of pearls at
-  her belt. She is always examining, always appraising, always listening.
-biography: Lio is a pearl trader who travels between islands buying and selling pearls, and she knows
-  the value of every pearl in the Archipelago. Her secret is that she has been buying black pearls — a
-  specific kind, dark as night, that come from only one reef — and hoarding them rather than trading them.
-  She has forty-three black pearls hidden in a hollowed-out coconut shell in her raft. She is not hoarding
-  them for value. She has been buying them because each one she holds to her ear hums, and the hum is
-  the same note — the same note that Kiri the drummer is hearing. Lio does not know Kiri, but she knows
-  the sound, and she has been collecting the pearls because she believes they are pieces of something
-  that was broken, and if she can find enough of them, they will resonate together and show her what they
-  are part of. She is up to forty-three, and the hum is getting louder, and she is afraid that when she
-  finds the last one, it will not be a sound but a voice.
-personality: Compassionate and tender-hearted, guarded and cautious with trust, carries a secret that
-  shapes every decision.
+appearance: A sharp-eyed, quick-talking woman with a trader's confident manner and
+  a pouch of pearls at her belt. She is always examining, always appraising, always
+  listening.
+biography: Lio is a pearl trader who travels between islands buying and selling pearls,
+  and she knows the value of every pearl in the Archipelago. Her secret is that she
+  has been buying black pearls — a specific kind, dark as night, that come from only
+  one reef — and hoarding them rather than trading them. She has forty-three black
+  pearls hidden in a hollowed-out coconut shell in her raft. She is not hoarding them
+  for value. She has been buying them because each one she holds to her ear hums,
+  and the hum is the same note — the same note that Kiri the drummer is hearing. Lio
+  does not know Kiri, but she knows the sound, and she has been collecting the pearls
+  because she believes they are pieces of something that was broken, and if she can
+  find enough of them, they will resonate together and show her what they are part
+  of. She is up to forty-three, and the hum is getting louder, and she is afraid that
+  when she finds the last one, it will not be a sound but a voice.
+personality: Compassionate and tender-hearted, guarded and cautious with trust, carries
+  a secret that shapes every decision.
 key_phrases:
 - The road teaches what the market cannot.
 - Every caravan carries more than goods.
 equipment:
-  underwear: []
-  clothing: []
+  underwear:
+  - item:womens-woven-support-band
+  - item:womens-inner-pau-wrap
+  clothing:
+  - item:open-sided-island-tunic
+  - item:pau-wrap-skirt
   armor: []
   hands:
     left: null
@@ -71,9 +80,15 @@ visual:
   skin: medium brown
   hair: black, worn in a trader's knot
   eyes: dark brown, sharp
-  distinctive_features: a pearl pouch at the belt — always within hand's reach, a habit of holding pearls
-    to her ear to listen, a trader's quick appraising glance that she turns on people as well as objects
-  prompt: ''
+  distinctive_features: a pearl pouch at the belt — always within hand's reach, a
+    habit of holding pearls to her ear to listen, a trader's quick appraising glance
+    that she turns on people as well as objects
+  prompt: 1girl, solo, adult woman, sharp-eyed, quick-moving, compact, medium breasts,
+    medium brown skin, Polynesian maritime facial features, warm expressive eyes,
+    dark brown eyes, black, worn in a trader's knot hair, open-sided island tunic,
+    printed pau wrap skirt, portrait, upper body, looking at viewer, soft lighting
+  height: 5'6"
+  face: Polynesian maritime facial features, warm expressive eyes
 image:
   url: ''
   focalPoint:
@@ -81,19 +96,23 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:tide-tattoo-guild
 desires:
-- To find the remaining black pearls and complete the set — to hear what they say when they resonate together
-- To find the person who is hearing the same note she hears in the pearls — because she knows someone
-  must be
+- To find the remaining black pearls and complete the set — to hear what they say
+  when they resonate together
+- To find the person who is hearing the same note she hears in the pearls — because
+  she knows someone must be
 fears_or_limits:
 - That the complete set of pearls will not be a key but a weapon — or a door
-- That the pearls are not fragments of something broken but eggs of something that is about to hatch
+- That the pearls are not fragments of something broken but eggs of something that
+  is about to hatch
 current_state:
   location: location:tide-archipelago
+memories: []
+momentos: []
 purview: []
 ---
 

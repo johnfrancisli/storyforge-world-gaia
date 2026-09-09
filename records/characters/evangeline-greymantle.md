@@ -1,12 +1,14 @@
 ---
 id: character:evangeline-greymantle
 name: Evangeline Greymantle
-gm_notes: Evangeline is a priest of the Temple of the Sacred Flame who genuinely believes in her faith
-  — but she has discovered that the High Priest has been reading private confessions and selling the secrets
-  to rival nobles for blackmail. She found proof in the form of a ledger hidden in the temple's archive.
-  She cannot go to the secular authorities because the temple is technically outside their jurisdiction.
-  She has been quietly building a case to present to the temple's governing council, but two of the five
-  council members are in the High Priest's pocket. She needs an ally outside the temple.
+gm_notes: Evangeline is a priest of the Temple of the Sacred Flame who genuinely believes
+  in her faith — but she has discovered that the High Priest has been reading private
+  confessions and selling the secrets to rival nobles for blackmail. She found proof
+  in the form of a ledger hidden in the temple's archive. She cannot go to the secular
+  authorities because the temple is technically outside their jurisdiction. She has
+  been quietly building a case to present to the temple's governing council, but two
+  of the five council members are in the High Priest's pocket. She needs an ally outside
+  the temple.
 aliases: []
 race: Human
 gender: Female
@@ -36,24 +38,29 @@ currency:
   gold: 5
   silver: 18
   copper: 3
-appearance: Serene and composed, Evangeline wears the white and gold robes of the Sacred Flame order.
-  She has kind eyes and a measured voice that carries natural authority.
-biography: Evangeline is a priest of the Temple of the Sacred Flame who genuinely believes in her faith
-  — but she has discovered that the High Priest has been reading private confessions and selling the secrets
-  to rival nobles for blackmail. She found proof in the form of a ledger hidden in the temple's archive.
-  She cannot go to the secular authorities because the temple is technically outside their jurisdiction.
-  She has been quietly building a case to present to the temple's governing council, but two of the five
-  council members are in the High Priest's pocket. She needs an ally outside the temple.
+appearance: Serene and composed, Evangeline wears the white and gold robes of the
+  Sacred Flame order. She has kind eyes and a measured voice that carries natural
+  authority.
+biography: Evangeline is a priest of the Temple of the Sacred Flame who genuinely
+  believes in her faith — but she has discovered that the High Priest has been reading
+  private confessions and selling the secrets to rival nobles for blackmail. She found
+  proof in the form of a ledger hidden in the temple's archive. She cannot go to the
+  secular authorities because the temple is technically outside their jurisdiction.
+  She has been quietly building a case to present to the temple's governing council,
+  but two of the five council members are in the High Priest's pocket. She needs an
+  ally outside the temple.
 personality: Composed and even-tempered, reserved and soft-spoken, dignified and self-assured.
 key_phrases:
 - The flame does not ask permission to burn.
 - Doubt is the shadow of faith, not its absence.
-- I will not rest until I expose the high priest's corruption and restore the temple's integrity.
+- I will not rest until I expose the high priest's corruption and restore the temple's
+  integrity.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-linen-chemise
+  - item:womens-linen-underbreeches
   clothing:
-  - item:linen-work-tunic
-  - item:wool-trousers
+  - item:travel-robe
   armor: []
   hands:
     left: null
@@ -64,9 +71,15 @@ visual:
   body_build: medium height, graceful, medium breasts
   hair: light brown, worn in a modest braid under a wimple
   eyes: clear blue
-  distinctive_features: a sacred flame tattoo on her right wrist (ordination mark), a faint scar on her
-    left hand from a candle-burn during her initiation rite
-  prompt: ''
+  distinctive_features: a sacred flame tattoo on her right wrist (ordination mark),
+    a faint scar on her left hand from a candle-burn during her initiation rite
+  prompt: 1girl, solo, adult woman, medium height, graceful, medium breasts, light
+    beige skin, classic European facial features, clear blue eyes, light brown, worn
+    in a modest braid under a wimple hair, linen work tunic, leather belt, wool trousers,
+    portrait, upper body, looking at viewer, soft lighting
+  skin: light beige
+  height: 5'5"
+  face: classic European facial features
 image:
   url: ''
   focalPoint:
@@ -74,8 +87,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:dragon-order
 desires:
@@ -86,6 +99,8 @@ fears_or_limits:
 - that exposing the scandal will destroy the congregation's faith in the temple itself
 current_state:
   location: location:crownhaven
+memories: []
+momentos: []
 purview: []
 ---
 

@@ -1,13 +1,14 @@
 ---
 id: character:hoshino-kinu
 name: Hoshino Kinu
-gm_notes: Kinu's tattoos are magical — inked with a formula that includes yokai-silver ground into the
-  pigment, they can ward against spirit influence or attract it, depending on the design. She's been giving
-  protective tattoos to villagers in Tsukuyomi for free, quietly building a network of people who carry
-  shrine-ward-equivalent protection on their skin. She's worried this constitutes unauthorized practice
-  of shrine magic, which is a shogunate crime. She's also been approached by a Takeda agent (character:takeda-renji's
-  retainer) who wants offensive tattoos — designs that attract hostile yokai to a target. She refused,
-  and the agent didn't accept her refusal gracefully.
+gm_notes: Kinu's tattoos are magical — inked with a formula that includes yokai-silver
+  ground into the pigment, they can ward against spirit influence or attract it, depending
+  on the design. She's been giving protective tattoos to villagers in Tsukuyomi for
+  free, quietly building a network of people who carry shrine-ward-equivalent protection
+  on their skin. She's worried this constitutes unauthorized practice of shrine magic,
+  which is a shogunate crime. She's also been approached by a Takeda agent (character:takeda-renji's
+  retainer) who wants offensive tattoos — designs that attract hostile yokai to a
+  target. She refused, and the agent didn't accept her refusal gracefully.
 aliases:
 - Kinu
 race: Human
@@ -38,22 +39,26 @@ currency:
   gold: 3
   silver: 18
   copper: 21
-appearance: She wears a short-sleeved kimono that shows her own elaborate tattoos — a phoenix across one
-  arm, water patterns on the other. She holds her needles with the steadiness of a surgeon. Her workspace
-  is spotless, the ink stones arranged in a precise row.
-biography: Kinu's tattoos are magical — inked with a formula that includes yokai-silver ground into the
-  pigment, they can ward against spirit influence or attract it, depending on the design. She's been giving
-  protective tattoos to villagers in Tsukuyomi for free, quietly building a network of people who carry
-  shrine-ward-equivalent protection on their skin. She's worried this constitutes unauthorized practice
-  of shrine magic, which is a shogunate crime. She's also been approached by a Takeda agent (character:takeda-renji's
-  retainer) who wants offensive tattoos — designs that attract hostile yokai to a target. She refused,
-  and the agent didn't accept her refusal gracefully.
+appearance: She wears a short-sleeved kimono that shows her own elaborate tattoos
+  — a phoenix across one arm, water patterns on the other. She holds her needles with
+  the steadiness of a surgeon. Her workspace is spotless, the ink stones arranged
+  in a precise row.
+biography: Kinu's tattoos are magical — inked with a formula that includes yokai-silver
+  ground into the pigment, they can ward against spirit influence or attract it, depending
+  on the design. She's been giving protective tattoos to villagers in Tsukuyomi for
+  free, quietly building a network of people who carry shrine-ward-equivalent protection
+  on their skin. She's worried this constitutes unauthorized practice of shrine magic,
+  which is a shogunate crime. She's also been approached by a Takeda agent (character:takeda-renji's
+  retainer) who wants offensive tattoos — designs that attract hostile yokai to a
+  target. She refused, and the agent didn't accept her refusal gracefully.
 personality: Precise and detail-oriented, reserved and soft-spoken, wary and watchful.
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-hadajuban
+  - item:womens-koshimaki
   clothing:
   - item:womens-layered-town-kosode
   armor: []
@@ -66,8 +71,16 @@ visual:
   body_build: lean, strong-shouldered, medium breasts
   hair: black, cropped short, practical
   eyes: dark brown, steady
-  distinctive_features: elaborate tattoos visible on both forearms — phoenix and wave motifs
-  prompt: ''
+  distinctive_features: elaborate tattoos visible on both forearms — phoenix and wave
+    motifs
+  prompt: 1girl, solo, young adult woman, lean, strong-shouldered, medium breasts,
+    weathered sun-browned skin, traditional Japanese facial features, dark brown eyes,
+    black, cropped short, practical hair, elaborate tattoos visible on both forearms,
+    phoenix and wave motifs, layered town kimono, floral pattern, wide obi sash, holding
+    bone tattoo needle, portrait, upper body, looking at viewer, soft lighting
+  skin: weathered sun-browned
+  height: 5'2"
+  face: traditional Japanese facial features
 image:
   url: ''
   focalPoint:
@@ -75,19 +88,23 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:ashikara-shogunate
 desires:
-- To protect the villagers through her art and build a ward network that survives even if the shrines
-  fall.
+- To protect the villagers through her art and build a ward network that survives
+  even if the shrines fall.
 - To refuse Takeda's demand for weaponized tattoos without making the clan her enemy.
 fears_or_limits:
-- Practicing ward-magic without shrine authorization is a crime, and she's already done it dozens of times.
-- Takeda's agent made it clear that refusal has consequences, and she's a lone artist in a rural province.
+- Practicing ward-magic without shrine authorization is a crime, and she's already
+  done it dozens of times.
+- Takeda's agent made it clear that refusal has consequences, and she's a lone artist
+  in a rural province.
 current_state:
   location: location:tsukuyomi
+memories: []
+momentos: []
 purview: []
 ---
 

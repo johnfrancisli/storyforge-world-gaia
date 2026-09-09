@@ -1,14 +1,15 @@
 ---
 id: character:gwendolyn-fairhold
 name: Gwendolyn Fairhold
-gm_notes: Gwendolyn is the wife of a minor baron who has positioned herself as a neutral mediator in the
-  succession crisis. Publicly, she hosts peace talks and advocates for unity. Privately, she has been
-  playing both sides against each other, feeding each faction information about the other to prolong the
-  crisis. Her goal is to keep the succession unresolved long enough for her own family's claim — a distant
-  but legitimate bloodline — to gain traction. She has been cultivating support among the lesser nobility,
-  waiting for the stronger claimants to destroy each other.
+gm_notes: Gwendolyn is the wife of a minor baron who has positioned herself as a neutral
+  mediator in the succession crisis. Publicly, she hosts peace talks and advocates
+  for unity. Privately, she has been playing both sides against each other, feeding
+  each faction information about the other to prolong the crisis. Her goal is to keep
+  the succession unresolved long enough for her own family's claim — a distant but
+  legitimate bloodline — to gain traction. She has been cultivating support among
+  the lesser nobility, waiting for the stronger claimants to destroy each other.
 aliases: []
-race: Elf
+race: Human
 gender: Female
 age: 38
 heritage: Valdrian
@@ -37,21 +38,25 @@ currency:
   gold: 141
   silver: 73
   copper: 74
-appearance: Elegant and composed, Gwendolyn wears fine but understated gowns and minimal jewellery. She
-  has a gift for making everyone she speaks to feel uniquely heard.
-biography: Gwendolyn is the wife of a minor baron who has positioned herself as a neutral mediator in
-  the succession crisis. Publicly, she hosts peace talks and advocates for unity. Privately, she has been
-  playing both sides against each other, feeding each faction information about the other to prolong the
-  crisis. Her goal is to keep the succession unresolved long enough for her own family's claim — a distant
-  but legitimate bloodline — to gain traction. She has been cultivating support among the lesser nobility,
-  waiting for the stronger claimants to destroy each other.
+appearance: Elegant and composed, Gwendolyn wears fine but understated gowns and minimal
+  jewellery. She has a gift for making everyone she speaks to feel uniquely heard.
+biography: Gwendolyn is the wife of a minor baron who has positioned herself as a
+  neutral mediator in the succession crisis. Publicly, she hosts peace talks and advocates
+  for unity. Privately, she has been playing both sides against each other, feeding
+  each faction information about the other to prolong the crisis. Her goal is to keep
+  the succession unresolved long enough for her own family's claim — a distant but
+  legitimate bloodline — to gain traction. She has been cultivating support among
+  the lesser nobility, waiting for the stronger claimants to destroy each other.
 personality: Shrewd and calculating, guarded and cautious with trust.
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 equipment:
-  underwear: []
-  clothing: []
+  underwear:
+  - item:womens-linen-chemise
+  - item:womens-linen-underbreeches
+  clothing:
+  - item:laced-kirtle
   armor: []
   hands:
     left: null
@@ -62,9 +67,14 @@ visual:
   body_build: slender and poised, medium breasts
   hair: dark auburn, elaborately styled
   eyes: hazel, warm and measuring
-  distinctive_features: a beauty mark on her right cheek, a thin gold chain always worn at her throat
-    (family heirloom), exceptionally manicured hands
-  prompt: ''
+  distinctive_features: a beauty mark on her right cheek, a thin gold chain always
+    worn at her throat (family heirloom), exceptionally manicured hands
+  prompt: 1girl, solo, adult woman, slender and poised, medium breasts, pale fair
+    skin, refined European facial features, hazel eyes, dark auburn, elaborately styled
+    hair, laced kirtle dress, portrait, upper body, looking at viewer, soft lighting
+  skin: pale fair
+  height: 5'5"
+  face: refined European facial features
 image:
   url: ''
   focalPoint:
@@ -72,8 +82,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:val-noble-council
 desires:
@@ -84,6 +94,8 @@ fears_or_limits:
 - that someone with a stronger claim will emerge before her plan matures
 current_state:
   location: location:crownhaven
+memories: []
+momentos: []
 purview: []
 ---
 

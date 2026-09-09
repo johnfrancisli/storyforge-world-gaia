@@ -1,13 +1,15 @@
 ---
 id: character:sun-liang
 name: Sun Liang
-gm_notes: Sun Liang is not a coward — he is a patient man who believes that time is on his side. Chu's
-  economy is growing while Jin and Wei spend on military. He is correct about the economics, but he is
-  wrong about the timeline. Cao Shen's illness means Jin's timeline is shorter than Sun Liang thinks,
-  and Lu Fang's impatience means the truce may break before Chu's economic advantage matures. Sun Liang
-  has also been secretly negotiating with Wei's heir — not for alliance against Jin, but for a future
-  marriage alliance that would merge Chu's wealth with Wei's iron. If it works, the combined state would
-  dominate Sangguo without a war. If Jin finds out, it looks like an alliance against them.
+gm_notes: Sun Liang is not a coward — he is a patient man who believes that time is
+  on his side. Chu's economy is growing while Jin and Wei spend on military. He is
+  correct about the economics, but he is wrong about the timeline. Cao Shen's illness
+  means Jin's timeline is shorter than Sun Liang thinks, and Lu Fang's impatience
+  means the truce may break before Chu's economic advantage matures. Sun Liang has
+  also been secretly negotiating with Wei's heir — not for alliance against Jin, but
+  for a future marriage alliance that would merge Chu's wealth with Wei's iron. If
+  it works, the combined state would dominate Sangguo without a war. If Jin finds
+  out, it looks like an alliance against them.
 aliases:
 - Warlord Sun Liang
 race: Human
@@ -38,37 +40,49 @@ currency:
   gold: 138
   silver: 52
   copper: 30
-appearance: An elegant man in fine silk robes, a jade pendant at his belt, a fan in his hand. He is slim,
-  composed, and moves with the grace of someone trained in the martial arts who no longer needs to prove
-  it. His beard is white and perfectly groomed.
-biography: Sun Liang is not a coward — he is a patient man who believes that time is on his side. Chu's
-  economy is growing while Jin and Wei spend on military. He is correct about the economics, but he is
-  wrong about the timeline. Cao Shen's illness means Jin's timeline is shorter than Sun Liang thinks,
-  and Lu Fang's impatience means the truce may break before Chu's economic advantage matures. Sun Liang
-  has also been secretly negotiating with Wei's heir — not for alliance against Jin, but for a future
-  marriage alliance that would merge Chu's wealth with Wei's iron. If it works, the combined state would
-  dominate Sangguo without a war. If Jin finds out, it looks like an alliance against them.
-personality: Composed and even-tempered, guarded and cautious with trust, carries a secret that shapes
-  every decision.
+appearance: An elegant man in fine silk robes, a jade pendant at his belt, a fan in
+  his hand. He is slim, composed, and moves with the grace of someone trained in the
+  martial arts who no longer needs to prove it. His beard is white and perfectly groomed.
+biography: Sun Liang is not a coward — he is a patient man who believes that time
+  is on his side. Chu's economy is growing while Jin and Wei spend on military. He
+  is correct about the economics, but he is wrong about the timeline. Cao Shen's illness
+  means Jin's timeline is shorter than Sun Liang thinks, and Lu Fang's impatience
+  means the truce may break before Chu's economic advantage matures. Sun Liang has
+  also been secretly negotiating with Wei's heir — not for alliance against Jin, but
+  for a future marriage alliance that would merge Chu's wealth with Wei's iron. If
+  it works, the combined state would dominate Sangguo without a war. If Jin finds
+  out, it looks like an alliance against them.
+personality: Composed and even-tempered, guarded and cautious with trust, carries
+  a secret that shapes every decision.
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 equipment:
-  underwear: []
+  underwear:
+  - item:mens-inner-yi
+  - item:mens-short-underdrawers
   clothing:
   - item:straight-hem-shenyi
   armor: []
   hands:
     left: null
     right: null
-  accessories: []
+  accessories:
+  - item:scholar-jade-pendant
   ammo: null
 visual:
   body_build: slim, elegant, narrow chest
   hair: white, topknot, groomed beard
   eyes: dark brown, warm but calculating
-  distinctive_features: a jade pendant worn at the belt, ink-calligraphy stains on the right index finger
-  prompt: ''
+  distinctive_features: a jade pendant worn at the belt, ink-calligraphy stains on
+    the right index finger
+  prompt: 1boy, solo, young adult man, slim, elegant, narrow chest, warm beige skin,
+    strong Chinese facial features, dark brown eyes, white, topknot, groomed beard,
+    straight-hem shenyi robe, wide embroidered sash, portrait, upper body, looking
+    at viewer, soft lighting
+  skin: warm beige
+  height: 5'8"
+  face: strong Chinese facial features
 image:
   url: ''
   focalPoint:
@@ -76,19 +90,22 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:chu-state
 desires:
-- To make Chu's economic advantage insurmountable before the truce breaks, so that unification happens
-  by merger, not conquest.
+- To make Chu's economic advantage insurmountable before the truce breaks, so that
+  unification happens by merger, not conquest.
 - To secure a marriage alliance with Wei's heir that would combine their strengths.
 fears_or_limits:
-- His strategy requires time, and time may be running out — Jin's military pressure is increasing. The
-  Wei marriage negotiation is delicate and could be interpreted as an act of war by Jin.
+- His strategy requires time, and time may be running out — Jin's military pressure
+  is increasing. The Wei marriage negotiation is delicate and could be interpreted
+  as an act of war by Jin.
 current_state:
   location: location:sangguo
+memories: []
+momentos: []
 purview: []
 ---
 

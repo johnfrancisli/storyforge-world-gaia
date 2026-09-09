@@ -1,12 +1,13 @@
 ---
 id: character:erik-stone-eye
 name: Erik Stone-eye
-gm_notes: Erik is Sigrid's rival on the Althing council — a young jarl from the southern fjords who opposes
-  her coalition against the giants. He does not believe the giants are a threat and thinks Sigrid is using
-  them as an excuse to consolidate power. He is not wrong to be suspicious of Sigrid's motives, but he
-  is wrong about the giants. Erik has been quietly gathering support to block Sigrid's coalition at the
-  next Althing, and he has enough support to force a stalemate. He does not know about the abandoned village
-  — if he did, it would change his position.
+gm_notes: Erik is Sigrid's rival on the Althing council — a young jarl from the southern
+  fjords who opposes her coalition against the giants. He does not believe the giants
+  are a threat and thinks Sigrid is using them as an excuse to consolidate power.
+  He is not wrong to be suspicious of Sigrid's motives, but he is wrong about the
+  giants. Erik has been quietly gathering support to block Sigrid's coalition at the
+  next Althing, and he has enough support to force a stalemate. He does not know about
+  the abandoned village — if he did, it would change his position.
 aliases:
 - Jarl Erik Stone-eye
 race: Human
@@ -37,22 +38,28 @@ currency:
   gold: 147
   silver: 79
   copper: 68
-appearance: A young, handsome man in fine fur and iron, a throwing axe at his belt. He has a jarl's bearing
-  and a younger man's certainty. His left eye is pale and unseeing — the stone-eye that gives him his
-  name — and he wears an eyepatch of polished slate.
-biography: Erik is Sigrid's rival on the Althing council — a young jarl from the southern fjords who opposes
-  her coalition against the giants. He does not believe the giants are a threat and thinks Sigrid is using
-  them as an excuse to consolidate power. He is not wrong to be suspicious of Sigrid's motives, but he
-  is wrong about the giants. Erik has been quietly gathering support to block Sigrid's coalition at the
-  next Althing, and he has enough support to force a stalemate. He does not know about the abandoned village
-  — if he did, it would change his position.
+appearance: A young, handsome man in fine fur and iron, a throwing axe at his belt.
+  He has a jarl's bearing and a younger man's certainty. His left eye is pale and
+  unseeing — the stone-eye that gives him his name — and he wears an eyepatch of polished
+  slate.
+biography: Erik is Sigrid's rival on the Althing council — a young jarl from the southern
+  fjords who opposes her coalition against the giants. He does not believe the giants
+  are a threat and thinks Sigrid is using them as an excuse to consolidate power.
+  He is not wrong to be suspicious of Sigrid's motives, but he is wrong about the
+  giants. Erik has been quietly gathering support to block Sigrid's coalition at the
+  next Althing, and he has enough support to force a stalemate. He does not know about
+  the abandoned village — if he did, it would change his position.
 personality: Reserved and soft-spoken.
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 equipment:
-  underwear: []
-  clothing: []
+  underwear:
+  - item:mens-light-linen-undershirt
+  - item:mens-winter-drawers
+  clothing:
+  - item:wool-overtunic
+  - item:wool-trousers
   armor: []
   hands:
     left: null
@@ -64,8 +71,14 @@ visual:
   height: tall
   hair: blond, braided
   eyes: right eye blue, left eye pale and unseeing
-  distinctive_features: a polished slate eyepatch over the left eye, a young jarl's silver arm-ring
-  prompt: ''
+  distinctive_features: a polished slate eyepatch over the left eye, a young jarl's
+    silver arm-ring
+  prompt: 1boy, solo, young adult man, lean, fit, athletic, narrow chest, salt-roughened,
+    wind-reddened fair skin, strong, weather-hardened Norse facial features, right
+    eye blue eyes, blond, braided hair, wool overtunic, leather belt, wool trousers,
+    portrait, upper body, looking at viewer, soft lighting
+  skin: salt-roughened, wind-reddened fair skin
+  face: strong, weather-hardened Norse facial features
 image:
   url: ''
   focalPoint:
@@ -73,20 +86,24 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:hra-jarl-council
 desires:
-- To block Sigrid's coalition at the Althing and prevent what he sees as an unnecessary war with the frost
-  giants.
-- To position himself as the voice of the southern fjords, which feel ignored by the north.
+- To block Sigrid's coalition at the Althing and prevent what he sees as an unnecessary
+  war with the frost giants.
+- To position himself as the voice of the southern fjords, which feel ignored by the
+  north.
 fears_or_limits:
-- He is wrong about the giants' intentions, but his political instincts about Sigrid's consolidation are
-  not entirely wrong. If he blocks action and the giants are a threat, the blood is on his hands. He does
-  not know about the abandoned village.
+- He is wrong about the giants' intentions, but his political instincts about Sigrid's
+  consolidation are not entirely wrong. If he blocks action and the giants are a threat,
+  the blood is on his hands. He does not know about the abandoned village.
 current_state:
   location: location:hrafnland
+memories:
+- campaign-event/the-frost-slip-shattering
+momentos: []
 purview: []
 ---
 

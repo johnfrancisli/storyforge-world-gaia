@@ -1,17 +1,18 @@
 ---
 id: character:kurosawa-mei
 name: Kurosawa Mei
-gm_notes: Mei's Noh masks are inhabited by minor spirits — each mask she carves becomes a home for a small
-  yokai that gives the mask its uncanny expressiveness. This is a gift she inherited from her mother,
-  who taught her to coax spirits into wood without telling her how to control them. The mask she made
-  for the elder prince (character:ashikara-renjiro) houses a particularly cunning and hungry spirit that
-  has been amplifying his worst impulses — cruelty, suspicion, aggression. Mei didn't intend this, but
-  she's begun to suspect something is wrong. She's afraid to confront the mask because the spirit inside
-  it is stronger than any she's housed before, and she doesn't know how to remove it without harming the
-  wearer.
+gm_notes: Mei's Noh masks are inhabited by minor spirits — each mask she carves becomes
+  a home for a small yokai that gives the mask its uncanny expressiveness. This is
+  a gift she inherited from her mother, who taught her to coax spirits into wood without
+  telling her how to control them. The mask she made for the elder prince (character:ashikara-renjiro)
+  houses a particularly cunning and hungry spirit that has been amplifying his worst
+  impulses — cruelty, suspicion, aggression. Mei didn't intend this, but she's begun
+  to suspect something is wrong. She's afraid to confront the mask because the spirit
+  inside it is stronger than any she's housed before, and she doesn't know how to
+  remove it without harming the wearer.
 aliases:
 - Mei
-race: Elf
+race: Human
 gender: Female
 age: 25
 heritage: Tsukuyomi
@@ -40,23 +41,26 @@ currency:
   gold: 0
   silver: 13
   copper: 28
-appearance: She wears a carpenter's apron over a plain kimono, her hair tied back with a cloth. She holds
-  a carving knife the way a calligrapher holds a brush. Wood shavings curl at her feet, and unfinished
-  faces stare from every shelf.
-biography: Mei's Noh masks are inhabited by minor spirits — each mask she carves becomes a home for a
-  small yokai that gives the mask its uncanny expressiveness. This is a gift she inherited from her mother,
-  who taught her to coax spirits into wood without telling her how to control them. The mask she made
-  for the elder prince (character:ashikara-renjiro) houses a particularly cunning and hungry spirit that
-  has been amplifying his worst impulses — cruelty, suspicion, aggression. Mei didn't intend this, but
-  she's begun to suspect something is wrong. She's afraid to confront the mask because the spirit inside
-  it is stronger than any she's housed before, and she doesn't know how to remove it without harming the
-  wearer.
+appearance: She wears a carpenter's apron over a plain kimono, her hair tied back
+  with a cloth. She holds a carving knife the way a calligrapher holds a brush. Wood
+  shavings curl at her feet, and unfinished faces stare from every shelf.
+biography: Mei's Noh masks are inhabited by minor spirits — each mask she carves becomes
+  a home for a small yokai that gives the mask its uncanny expressiveness. This is
+  a gift she inherited from her mother, who taught her to coax spirits into wood without
+  telling her how to control them. The mask she made for the elder prince (character:ashikara-renjiro)
+  houses a particularly cunning and hungry spirit that has been amplifying his worst
+  impulses — cruelty, suspicion, aggression. Mei didn't intend this, but she's begun
+  to suspect something is wrong. She's afraid to confront the mask because the spirit
+  inside it is stronger than any she's housed before, and she doesn't know how to
+  remove it without harming the wearer.
 personality: Shrewd and calculating, guarded and cautious with trust.
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-hadajuban
+  - item:womens-koshimaki
   clothing:
   - item:hemp-work-kosode
   - item:womens-maekake-work-apron
@@ -70,8 +74,16 @@ visual:
   body_build: slender, fine-boned, small breasts
   hair: black, straight, tied back
   eyes: dark brown, intense and focused
-  distinctive_features: a pale scar across the left thumb from a carving slip years ago
-  prompt: ''
+  distinctive_features: a pale scar across the left thumb from a carving slip years
+    ago
+  prompt: 1girl, solo, young adult woman, slender, fine-boned, small breasts, weathered
+    sun-browned skin, traditional Japanese facial features, dark brown eyes, black,
+    straight, tied back hair, a pale scar across the left thumb from a carving slip
+    years ago, indigo hemp work kosode, maekake work apron, portrait, upper body,
+    looking at viewer, soft lighting
+  skin: weathered sun-browned
+  height: 5'2"
+  face: traditional Japanese facial features
 image:
   url: ''
   focalPoint:
@@ -79,20 +91,24 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:tsu-tea-schools
 desires:
-- To undo the damage the elder prince's mask is causing without revealing that her masks are spiritually
-  alive.
-- To learn to control the spirits she houses before one of them does something she can't undo.
+- To undo the damage the elder prince's mask is causing without revealing that her
+  masks are spiritually alive.
+- To learn to control the spirits she houses before one of them does something she
+  can't undo.
 fears_or_limits:
-- The spirit in the elder prince's mask is stronger than she is, and she doesn't know how to exorcise
-  it without harming the prince.
-- If anyone discovers her masks contain yokai, her work will be destroyed and she may be arrested.
+- The spirit in the elder prince's mask is stronger than she is, and she doesn't know
+  how to exorcise it without harming the prince.
+- If anyone discovers her masks contain yokai, her work will be destroyed and she
+  may be arrested.
 current_state:
   location: location:tsuki-no-miyako
+memories: []
+momentos: []
 purview: []
 ---
 

@@ -261,6 +261,14 @@ has never lifted a hammer is still harder to push over than a human who has.
 Their complexion, facial structure, eyes, and hair follow family and national
 heritage. Facial hair is individual and cultural, not universal.
 
+In [[location:sangguo|Sangguo]], dwarven engineers and miners have faced mounting
+silent pressure as the rival warlord courts increasingly push an unspoken "human-only"
+ideology. Rather than open bans, non-human stone guilds have been excluded from imperial
+tenders, heavy tax burdens placed on non-human mining syndicates, and residency permits
+denied. Most Sangguo dwarves have emigrated west or withdrawn into isolated highland crags,
+leaving only a few stubborn masters hiding in remote shafts or operating through forged human
+guild licenses.
+
 ## Halflings
 
 Halflings are concentrated in Valdris, especially farming villages, river
@@ -336,24 +344,34 @@ anatomy follow the lineage:
 
 The people of the demon lands — a harsh region south of Tsukuyomi across the
 sea, sometimes called the Broken Continent. Demon-folk have skin tones
+
+The people of the demon lands — a harsh region south of Tsukuyomi across the
+sea, sometimes called the Broken Continent. Demon-folk have skin tones
 ranging from ash-grey to deep blue to mottled green, horns of various shapes,
 and eyes that sometimes glow in low light. They are not evil. They are people
 from a hard place, and the place has made them practical, direct, and
 suspicious of politeness.
 
 Demon-folk are rare outside their homeland. Those who travel are usually
-adventurers, traders, or exiles. In most of Gaia they are met with curiosity
+adventurers, traders, challengers, or exiles. In most of Gaia they are met with curiosity
 or wariness, occasionally hostility. In [[location:tsukuyomi|Tsukuyomi]] they
 are technically barred from entry by an old edict that no one enforces.
 
 Demon-folk are broadly human-sized and commonly show pronounced sexual
-dimorphism. Adult women often have a succubus-like appearance: slender or
-curvaceous feminine proportions, refined features, graceful limbs, and an
-alluring or temptress-like presentation rather than the massive musculature
-common among adult men. Adult men more often have tall, broad, heavy, or
-strongly muscular builds and visibly imposing features. These are population
-tendencies, not personality rules: an alluring-looking woman need not be
-seductive, and individuals of any gender may depart from the usual build.
+dimorphism in both physical form and societal culture. Adult men more often have tall, broad, heavy, or
+strongly muscular builds with sweeping forehead horns and visibly imposing features.
+Culturally, wandering male demon-folk live by a code of martial dominance: they travel
+across kingdoms challenging the strongest mortal champions, testing their resolve in single combat.
+When a male demon-folk encounters a warrior of genuine courage and strength, he acknowledges them
+as an equal and may bestow demonic boons or pact-empowered blessings.
+
+Adult women often have a succubus-like appearance: slender or curvaceous feminine
+proportions, refined features, graceful limbs, and an alluring or seductive presentation.
+Culturally, female demon-folk outside their homeland frequently operate as brilliant tricksters,
+temptresses, and shadow brokers. They take delight in outwitting overconfident men, manipulating
+wealthy merchants, and extracting concessions or rare secrets from corrupt officials.
+These are cultural and population tendencies, not rigid rules: an alluring-looking woman need
+not be malevolent, and individuals of any gender may depart from the usual path.
 
 Their canonical skin range is ash-grey, deep blue, or mottled green rather than
 ordinary human pink or beige. Horns may be straight, swept, curled, ridged,
@@ -365,19 +383,18 @@ individual or their established lineage supplies them.
 
 ## Dragon-kin (Ryujin)
 
-Extremely rare. People who carry dragon blood, usually from an ancient pact
-between a dragon and a human family. Dragon-kin have scale patches on their
-skin, sometimes on the arms or neck, and eyes with vertical pupils. They are
-slightly warm to the touch and have an instinctive sense for fire and
-weather.
+Exceedingly rare and solitary. People who carry dragon blood, usually from an ancient pact
+between a dragon and a mortal bloodline. Dragon-kin have scale patches on their
+skin, sometimes on the arms, cheek, or neck, and eyes with vertical pupils. They are
+slightly warm to the touch and have an instinctive sense for fire and weather.
 
-Dragon-kin are most common in
-[[location:valdris|Valdris]] (where the dragon-bonded knightly
-families sometimes produce them) and in [[location:sangguo|Sangguo]] (where
-the dragon spirit-pacts occasionally leave a mark on the bloodline). In the
-[[location:tide-archipelago|Tide Archipelago]], they are considered blessed
-by the sea rather than the fire, and their scales are iridescent rather than
-warm-colored.
+Every living dragon-kin in Gaia is female. Over a century ago, an unexplained calamity
+known as **The Silence of the Drakes** caused all male dragon-kin across the world to vanish
+or perish within a single season. The cause remains one of Gaia's deepest unsolved mysteries.
+Because they cannot bear children of their kind, the dragon-kin population is steadily dwindling.
+The surviving women are almost universally solitary hermits, guardians, or wanderers who dwell
+in the most remote corners of the world — high mountain spires in Valdris, mist-shrouded peaks in
+Sangguo, isolated volcanic sea needles in the Tide Archipelago, and glacial crevasses in Hrafnland.
 
 Dragon-kin remain humanlike in overall height and build. Their ordinary skin,
 face, and hair follow national and family heritage, overlaid by visible scale

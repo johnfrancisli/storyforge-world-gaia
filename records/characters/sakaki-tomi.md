@@ -1,14 +1,15 @@
 ---
 id: character:sakaki-tomi
 name: Sakaki Tomi
-gm_notes: Tomi serves in Daimyo Takeda's (character:takeda-renji) household as a personal attendant and
-  reports to him on his retainers' loyalty and conversations. But she is also secretly reporting Takeda's
-  plans to the shogunate's intelligence service, because her family lives in the capital and Takeda's
-  coalition, if it succeeds, would put them in danger. She's playing both sides — giving Takeda enough
-  genuine intelligence to stay valuable while feeding the shogunate enough to stay protected. The arrangement
-  is unsustainable. She knows that Takeda's retainer Honoka (character:takeda-honoka) has been distracted
-  and suspects why, but she hasn't reported it to Takeda — a small act of mercy that could cost her everything
-  if discovered.
+gm_notes: Tomi serves in Daimyo Takeda's (character:takeda-renji) household as a personal
+  attendant and reports to him on his retainers' loyalty and conversations. But she
+  is also secretly reporting Takeda's plans to the shogunate's intelligence service,
+  because her family lives in the capital and Takeda's coalition, if it succeeds,
+  would put them in danger. She's playing both sides — giving Takeda enough genuine
+  intelligence to stay valuable while feeding the shogunate enough to stay protected.
+  The arrangement is unsustainable. She knows that Takeda's retainer Honoka (character:takeda-honoka)
+  has been distracted and suspects why, but she hasn't reported it to Takeda — a small
+  act of mercy that could cost her everything if discovered.
 aliases:
 - Tomi
 race: Human
@@ -39,23 +40,27 @@ currency:
   gold: 5
   silver: 6
   copper: 28
-appearance: She wears a plain servant's kimono in muted grey, her hair in a simple bun. She moves through
-  rooms like a shadow — present, useful, and invisible. She pours tea at precisely the right moment and
-  never interrupts.
-biography: Tomi serves in Daimyo Takeda's (character:takeda-renji) household as a personal attendant and
-  reports to him on his retainers' loyalty and conversations. But she is also secretly reporting Takeda's
-  plans to the shogunate's intelligence service, because her family lives in the capital and Takeda's
-  coalition, if it succeeds, would put them in danger. She's playing both sides — giving Takeda enough
-  genuine intelligence to stay valuable while feeding the shogunate enough to stay protected. The arrangement
-  is unsustainable. She knows that Takeda's retainer Honoka (character:takeda-honoka) has been distracted
-  and suspects why, but she hasn't reported it to Takeda — a small act of mercy that could cost her everything
-  if discovered.
-personality: Precise and detail-oriented, steadfast and devoted, guarded and cautious with trust.
+appearance: She wears a plain servant's kimono in muted grey, her hair in a simple
+  bun. She moves through rooms like a shadow — present, useful, and invisible. She
+  pours tea at precisely the right moment and never interrupts.
+biography: Tomi serves in Daimyo Takeda's (character:takeda-renji) household as a
+  personal attendant and reports to him on his retainers' loyalty and conversations.
+  But she is also secretly reporting Takeda's plans to the shogunate's intelligence
+  service, because her family lives in the capital and Takeda's coalition, if it succeeds,
+  would put them in danger. She's playing both sides — giving Takeda enough genuine
+  intelligence to stay valuable while feeding the shogunate enough to stay protected.
+  The arrangement is unsustainable. She knows that Takeda's retainer Honoka (character:takeda-honoka)
+  has been distracted and suspects why, but she hasn't reported it to Takeda — a small
+  act of mercy that could cost her everything if discovered.
+personality: Precise and detail-oriented, steadfast and devoted, guarded and cautious
+  with trust.
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-hadajuban
+  - item:womens-koshimaki
   clothing:
   - item:hemp-work-kosode
   armor: []
@@ -69,7 +74,13 @@ visual:
   hair: black, plain bun
   eyes: dark brown, downcast by habit
   distinctive_features: a small mole at the corner of the left eye
-  prompt: ''
+  prompt: 1girl, solo, young adult woman, slight, unremarkable, small breasts, warm
+    beige skin, traditional Japanese facial features, dark brown eyes, black, plain
+    bun hair, a small mole at the corner of the left eye, indigo hemp work kosode,
+    portrait, upper body, looking at viewer, soft lighting
+  skin: warm beige
+  height: 5'2"
+  face: traditional Japanese facial features
 image:
   url: ''
   focalPoint:
@@ -77,19 +88,21 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:takeda-clan
 desires:
-- To keep her family in the capital safe by feeding the shogunate enough intelligence to counter Takeda's
-  plans.
+- To keep her family in the capital safe by feeding the shogunate enough intelligence
+  to counter Takeda's plans.
 - To find a way out of the double life before one side or the other discovers her.
 fears_or_limits:
 - If Takeda discovers she's a double agent, her death will be slow and exemplary.
 - If the shogunate falls, her family has no protection and she has no value to anyone.
 current_state:
   location: location:tsuki-no-miyako
+memories: []
+momentos: []
 purview: []
 ---
 

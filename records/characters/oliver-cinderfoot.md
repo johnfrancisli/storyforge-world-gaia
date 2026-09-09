@@ -1,12 +1,13 @@
 ---
 id: character:oliver-cinderfoot
 name: Oliver Cinderfoot
-gm_notes: 'Oliver is a chimney sweep''s apprentice, a young boy who climbs the narrow flues of Crownhaven''s
-  buildings. While sweeping the chimney of a nobleman''s study, he witnessed a secret meeting through
-  a crack in the flue: the nobleman and a masked figure discussing the ''removal'' of a rival claimant
-  to the throne. Oliver memorized the nobleman''s face and the phrase ''the rose must be cut before it
-  blooms,'' but does not fully understand what he heard. He told his master, who told him to forget it.
-  Oliver has not forgotten.'
+gm_notes: 'Oliver is a chimney sweep''s apprentice, a young boy who climbs the narrow
+  flues of Crownhaven''s buildings. While sweeping the chimney of a nobleman''s study,
+  he witnessed a secret meeting through a crack in the flue: the nobleman and a masked
+  figure discussing the ''removal'' of a rival claimant to the throne. Oliver memorized
+  the nobleman''s face and the phrase ''the rose must be cut before it blooms,'' but
+  does not fully understand what he heard. He told his master, who told him to forget
+  it. Oliver has not forgotten.'
 aliases: []
 race: Human
 gender: Male
@@ -36,21 +37,27 @@ currency:
   gold: 0
   silver: 0
   copper: 2
-appearance: Small and perpetually soot-stained, Oliver wears a ragged tunic and bare feet for grip in
-  the flues. He is wiry and quick, with alert eyes that dart around rooms.
-biography: 'Oliver is a chimney sweep''s apprentice, a young boy who climbs the narrow flues of Crownhaven''s
-  buildings. While sweeping the chimney of a nobleman''s study, he witnessed a secret meeting through
-  a crack in the flue: the nobleman and a masked figure discussing the ''removal'' of a rival claimant
-  to the throne. Oliver memorized the nobleman''s face and the phrase ''the rose must be cut before it
-  blooms,'' but does not fully understand what he heard. He told his master, who told him to forget it.
-  Oliver has not forgotten.'
-personality: Dignified and self-assured, shrewd and calculating, guarded and cautious with trust.
+appearance: Small and perpetually soot-stained, Oliver wears a ragged tunic and bare
+  feet for grip in the flues. He is wiry and quick, with alert eyes that dart around
+  rooms.
+biography: 'Oliver is a chimney sweep''s apprentice, a young boy who climbs the narrow
+  flues of Crownhaven''s buildings. While sweeping the chimney of a nobleman''s study,
+  he witnessed a secret meeting through a crack in the flue: the nobleman and a masked
+  figure discussing the ''removal'' of a rival claimant to the throne. Oliver memorized
+  the nobleman''s face and the phrase ''the rose must be cut before it blooms,'' but
+  does not fully understand what he heard. He told his master, who told him to forget
+  it. Oliver has not forgotten.'
+personality: Dignified and self-assured, shrewd and calculating, guarded and cautious
+  with trust.
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
-- I will not rest until I find someone who will listen to what he saw and take it seriously.
+- I will not rest until I find someone who will listen to what he saw and take it
+  seriously.
 equipment:
-  underwear: []
+  underwear:
+  - item:mens-linen-undershirt
+  - item:mens-drawstring-braies
   clothing:
   - item:linen-work-tunic
   - item:wool-trousers
@@ -64,9 +71,14 @@ visual:
   body_build: small and wiry, underfed
   hair: brown, cut very short (to prevent lice and fire)
   eyes: grey, sharp and watchful
-  distinctive_features: permanent soot stains in his skin creases, a healing burn on his right palm, knees
-    and elbows perpetually scraped
-  prompt: ''
+  distinctive_features: permanent soot stains in his skin creases, a healing burn
+    on his right palm, knees and elbows perpetually scraped
+  prompt: 1boy, solo, young boy, small and wiry, underfed, light beige skin, classic
+    European facial features, grey eyes, brown, cut very short hair, linen work tunic,
+    leather belt, wool trousers, portrait, upper body, looking at viewer, soft lighting
+  skin: light beige
+  height: 4'5"
+  face: classic European facial features
 image:
   url: ''
   focalPoint:
@@ -74,8 +86,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:val-merchant-guild
 desires:
@@ -86,6 +98,8 @@ fears_or_limits:
 - that he will be trapped in a collapsing flue one day and no one will come
 current_state:
   location: location:crownhaven
+memories: []
+momentos: []
 purview: []
 ---
 

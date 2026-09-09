@@ -1,11 +1,13 @@
 ---
 id: character:amara
 name: Amara
-gm_notes: Amara is the person who connects Verdania to the outside world. Her boat is one of the few that
-  travels the full river from the Mist Falls to Iara and back. She has noticed that the river's behavior
-  is changing — currents are shifting, fish patterns are altering, and the river spirits she makes small
-  offerings to are restless. She carries mail, news, and goods between the jungle edge and the river capital.
-  She is also Kaa's cousin and has been trying to get him to stop drinking and tell her what he found.
+gm_notes: Amara is the person who connects Verdania to the outside world. Her boat
+  is one of the few that travels the full river from the Mist Falls to Iara and back.
+  She has noticed that the river's behavior is changing — currents are shifting, fish
+  patterns are altering, and the river spirits she makes small offerings to are restless.
+  She carries mail, news, and goods between the jungle edge and the river capital.
+  She is also Kaa's cousin and has been trying to get him to stop drinking and tell
+  her what he found.
 aliases: []
 race: Mizuhito
 gender: Female
@@ -35,23 +37,27 @@ currency:
   gold: 15
   silver: 40
   copper: 0
-appearance: A stocky river-folk woman in waterproof river-cloth, her blue-green skin wind-dried and sun-darkened.
-  She poles her boat with a strength that surprises people who judge by her height. She wears a necklace
-  of river-stones, one for each year on the water. Beneath her weathered exterior, she has a rugged, undeniable
-  beauty, possessing strong, captivating features shaped by the elements.
-biography: Amara has spent her entire life navigating the winding currents between Mist Falls and Iara.
-  Acting as the lifeline of Verdania, she carries not only goods but the lifeblood of communication. Recently,
-  the changing tides and the disturbing silence of her cousin Kaa have forced her to realize that the river
-  is carrying a new, dangerous undercurrent.
-personality: Practical, no-nonsense, and fiercely loyal to her family. She is deeply attuned to the natural
-  world and treats the river spirits with pragmatic respect, valuing hard work and direct honesty above
-  all else.
+appearance: A stocky river-folk woman in waterproof river-cloth, her blue-green skin
+  wind-dried and sun-darkened. She poles her boat with a strength that surprises people
+  who judge by her height. She wears a necklace of river-stones, one for each year
+  on the water. Beneath her weathered exterior, she has a rugged, undeniable beauty,
+  possessing strong, captivating features shaped by the elements.
+biography: Amara has spent her entire life navigating the winding currents between
+  Mist Falls and Iara. Acting as the lifeline of Verdania, she carries not only goods
+  but the lifeblood of communication. Recently, the changing tides and the disturbing
+  silence of her cousin Kaa have forced her to realize that the river is carrying
+  a new, dangerous undercurrent.
+personality: Practical, no-nonsense, and fiercely loyal to her family. She is deeply
+  attuned to the natural world and treats the river spirits with pragmatic respect,
+  valuing hard work and direct honesty above all else.
 key_phrases:
-- "The river doesn't care if you're in a hurry."
-- "Spirits are restless, meaning the water will be too."
-- "Kaa, put the bottle down and tell me what you saw."
+- The river doesn't care if you're in a hurry.
+- Spirits are restless, meaning the water will be too.
+- Kaa, put the bottle down and tell me what you saw.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-softbark-chest-wrap
+  - item:womens-inner-hip-wrap
   clothing:
   - item:open-side-river-vest
   - item:river-worker-split-wrap
@@ -59,17 +65,23 @@ equipment:
   hands:
     left: null
     right: null
-  accessories: []
+  accessories:
+  - item:river-stone-necklace
   ammo: null
 visual:
   body_build: fit, stocky, strong, medium breasts
   skin: blue-green, sun-darkened
   hair: dark green, braided tight
   eyes: teal
-  distinctive_features: webbed hands, a necklace of seventeen river-stones, a faded tattoo of a river-spirit
-    sigil on the left shoulder
+  distinctive_features: webbed hands, a necklace of seventeen river-stones, a faded
+    tattoo of a river-spirit sigil on the left shoulder
   face: rugged, strong features
-  prompt: ''
+  prompt: 1girl, solo, adult woman, amphibious humanoid, webbed fingers and toes,
+    fine aquatic scales, fit, stocky, strong, medium breasts, blue-green, sun-darkened
+    skin, rugged, strong features, teal eyes, dark green, braided tight hair, open-side
+    river vest, river-worker split wrap, portrait, upper body, looking at viewer,
+    soft lighting
+  height: 5'3"
 image:
   url: ''
   focalPoint:
@@ -77,18 +89,23 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:ver-river-consortium
 desires:
-- To keep her trade route running as the river changes, and to understand why the river spirits are restless.
-- To get her cousin Kaa to tell her what he found in the deep jungle before he drinks himself into uselessness.
+- To keep her trade route running as the river changes, and to understand why the
+  river spirits are restless.
+- To get her cousin Kaa to tell her what he found in the deep jungle before he drinks
+  himself into uselessness.
 fears_or_limits:
-- The river is changing and her route may become impassable. She is a trader, not a shaman or a fighter.
-  Her boat is her livelihood and her only asset.
+- The river is changing and her route may become impassable. She is a trader, not
+  a shaman or a fighter. Her boat is her livelihood and her only asset.
 current_state:
   location: location:verdania
+memories:
+- campaign-event/the-rogue-hunt-of-the-jaguar-moon
+momentos: []
 purview: []
 ---
 

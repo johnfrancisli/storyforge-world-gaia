@@ -1,12 +1,14 @@
 ---
 id: character:tao-renshui
 name: Tao Renshui
-gm_notes: 'A Mizuhito fisherman who tends eel traps in the canal junction and has witnessed a Wei military
-  construction project through the mist: workers building chi-powered war barges on a hidden tributary.
-  He does not understand what he saw but described the ''glowing boats'' to Zhou Geha, who recognized
-  the military significance. He is now Zhou Geha''s unwitting eyes on the canal. He is simple-hearted
-  and loyal to Zhou and does not realize he is part of an intelligence chain. The Wei military has posted
-  guards on the tributary, and one guard noticed Taro''s boat and reported it.'
+gm_notes: 'A Mizuhito fisherman who tends eel traps in the canal junction and has
+  witnessed a Wei military construction project through the mist: workers building
+  chi-powered war barges on a hidden tributary. He does not understand what he saw
+  but described the ''glowing boats'' to Zhou Geha, who recognized the military significance.
+  He is now Zhou Geha''s unwitting eyes on the canal. He is simple-hearted and loyal
+  to Zhou and does not realize he is part of an intelligence chain. The Wei military
+  has posted guards on the tributary, and one guard noticed Taro''s boat and reported
+  it.'
 aliases:
 - Mizuhito Taro
 race: Mizuhito
@@ -38,22 +40,28 @@ currency:
   gold: 4
   silver: 19
   copper: 18
-appearance: Weathered and easy-smiling, wearing Mizuhito water-gear and a woven reed hat. Always smells
-  of canal water and eel oil.
-biography: 'A Mizuhito fisherman who tends eel traps in the canal junction and has witnessed a Wei military
-  construction project through the mist: workers building chi-powered war barges on a hidden tributary.
-  He does not understand what he saw but described the ''glowing boats'' to Zhou Geha, who recognized
-  the military significance. He is now Zhou Geha''s unwitting eyes on the canal. He is simple-hearted
-  and loyal to Zhou and does not realize he is part of an intelligence chain. The Wei military has posted
-  guards on the tributary, and one guard noticed Taro''s boat and reported it.'
+appearance: Weathered and easy-smiling, wearing Mizuhito water-gear and a woven reed
+  hat. Always smells of canal water and eel oil.
+biography: 'A Mizuhito fisherman who tends eel traps in the canal junction and has
+  witnessed a Wei military construction project through the mist: workers building
+  chi-powered war barges on a hidden tributary. He does not understand what he saw
+  but described the ''glowing boats'' to Zhou Geha, who recognized the military significance.
+  He is now Zhou Geha''s unwitting eyes on the canal. He is simple-hearted and loyal
+  to Zhou and does not realize he is part of an intelligence chain. The Wei military
+  has posted guards on the tributary, and one guard noticed Taro''s boat and reported
+  it.'
 personality: Steadfast and devoted, guarded and cautious with trust, blunt and rough-spoken.
 key_phrases:
 - The river gives and the river takes. You learn to accept both.
 - A bad day fishing is still a day on the water.
 - I will not rest until I keep fishing and help zhou when she asks.
 equipment:
-  underwear: []
-  clothing: []
+  underwear:
+  - item:mens-inner-yi
+  - item:mens-short-underdrawers
+  clothing:
+  - item:short-shan-work-shirt
+  - item:bound-cuff-field-trousers
   armor: []
   hands:
     left: null
@@ -67,7 +75,15 @@ visual:
   distinctive_features:
   - a Mizuhito river-tattoo of a water-serpent on the right forearm
   - a hook-scar on the left index finger
-  prompt: ''
+  prompt: 1man, solo, adult man, amphibious humanoid, webbed fingers and toes, fine
+    aquatic scales, wiry and sun-darkened, narrow chest, sun-darkened teal and blue-green
+    skin, fine-scaled amphibious features, large dark eyes, dark eyes, gray-black,
+    cropped close hair, a Mizuhito river-tattoo of a water-serpent on the right forearm,
+    a hook-scar on the left index finger, short shan work shirt, bound-cuff field
+    trousers, portrait, upper body, looking at viewer, soft lighting
+  skin: sun-darkened teal and blue-green
+  height: 5'7"
+  face: fine-scaled amphibious features, large dark eyes
 image:
   url: ''
   focalPoint:
@@ -75,8 +91,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:jin-state
 desires:
@@ -87,6 +103,8 @@ fears_or_limits:
 - That his reports to Zhou are putting him in danger he does not understand
 current_state:
   location: location:sangguo
+memories: []
+momentos: []
 purview: []
 ---
 

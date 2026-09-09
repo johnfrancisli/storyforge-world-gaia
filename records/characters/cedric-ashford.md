@@ -1,10 +1,11 @@
 ---
 id: character:cedric-ashford
 name: Cedric Ashford
-gm_notes: Cedric was once a knight of the Dragon Order who broke his oath to protect a village from a
-  dragon raid, fleeing instead. He carries immense guilt and has secretly abandoned his knightly identity,
-  living as a lowly stable hand. He recognizes one of the dragon-bonded knights who visits the stables
-  as the son of a man who died in that village — and fears eventual recognition.
+gm_notes: Cedric was once a knight of the Dragon Order who broke his oath to protect
+  a village from a dragon raid, fleeing instead. He carries immense guilt and has
+  secretly abandoned his knightly identity, living as a lowly stable hand. He recognizes
+  one of the dragon-bonded knights who visits the stables as the son of a man who
+  died in that village — and fears eventual recognition.
 aliases: []
 race: Human
 gender: Male
@@ -34,19 +35,24 @@ currency:
   gold: 5
   silver: 3
   copper: 23
-appearance: Grey-templed and quiet, Cedric wears nondescript roughspun clothing. He moves with a soldier's
-  efficiency despite his humble station, a detail not lost on the observant.
-biography: Cedric was once a knight of the Dragon Order who broke his oath to protect a village from a
-  dragon raid, fleeing instead. He carries immense guilt and has secretly abandoned his knightly identity,
-  living as a lowly stable hand. He recognizes one of the dragon-bonded knights who visits the stables
-  as the son of a man who died in that village — and fears eventual recognition.
-personality: Reserved and soft-spoken, guarded and cautious with trust, blunt and rough-spoken.
+appearance: Grey-templed and quiet, Cedric wears nondescript roughspun clothing. He
+  moves with a soldier's efficiency despite his humble station, a detail not lost
+  on the observant.
+biography: Cedric was once a knight of the Dragon Order who broke his oath to protect
+  a village from a dragon raid, fleeing instead. He carries immense guilt and has
+  secretly abandoned his knightly identity, living as a lowly stable hand. He recognizes
+  one of the dragon-bonded knights who visits the stables as the son of a man who
+  died in that village — and fears eventual recognition.
+personality: Reserved and soft-spoken, guarded and cautious with trust, blunt and
+  rough-spoken.
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 - I will not rest until I earn forgiveness he believes he does not deserve.
 equipment:
-  underwear: []
+  underwear:
+  - item:mens-linen-undershirt
+  - item:mens-drawstring-braies
   clothing:
   - item:linen-work-tunic
   - item:wool-trousers
@@ -60,9 +66,15 @@ visual:
   body_build: broad and thickening with age, broad chest
   hair: greying brown, cropped short
   eyes: blue, deep-set
-  distinctive_features: an old brand mark on his right shoulder (the Dragon Order sigil, partially scarred
-    over), calloused knuckles consistent with sword training
-  prompt: ''
+  distinctive_features: an old brand mark on his right shoulder (the Dragon Order
+    sigil, partially scarred over), calloused knuckles consistent with sword training
+  prompt: 1man, solo, adult man, broad and thickening with age, broad chest, light
+    beige skin, classic European facial features, blue eyes, greying brown, cropped
+    short hair, linen work tunic, leather belt, wool trousers, portrait, upper body,
+    looking at viewer, soft lighting
+  skin: light beige
+  height: 5'10"
+  face: classic European facial features
 image:
   url: ''
   focalPoint:
@@ -70,8 +82,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:val-mages-circle
 desires:
@@ -82,6 +94,8 @@ fears_or_limits:
 - that he will flee again when courage is needed most
 current_state:
   location: location:dragonrest
+memories: []
+momentos: []
 purview: []
 ---
 

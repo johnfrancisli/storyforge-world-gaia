@@ -1,13 +1,14 @@
 ---
 id: character:kanzaki-rui
 name: Kanzaki Rui
-gm_notes: Rui runs a gambling den in the capital that is a front for an information-brokering network
-  — she doesn't gamble for money, she gambles for secrets. Last month, she won a bet that gave her knowledge
-  of a hidden vault beneath the shogun's palace, sealed by shrine wards, containing artifacts from the
-  original human-yokai pact. She's been planning a break-in, but the cat-folk thief Kuro (character:kagemori-kuro)
-  has been spotted near the same vault by her informants. She doesn't know if he's after the same thing
-  or if he's been sent by someone else. She's been trying to make contact with him, but he's gone to ground
-  — Takeda's agents are hunting him.
+gm_notes: Rui runs a gambling den in the capital that is a front for an information-brokering
+  network — she doesn't gamble for money, she gambles for secrets. Last month, she
+  won a bet that gave her knowledge of a hidden vault beneath the shogun's palace,
+  sealed by shrine wards, containing artifacts from the original human-yokai pact.
+  She's been planning a break-in, but the cat-folk thief Kuro (character:kagemori-kuro)
+  has been spotted near the same vault by her informants. She doesn't know if he's
+  after the same thing or if he's been sent by someone else. She's been trying to
+  make contact with him, but he's gone to ground — Takeda's agents are hunting him.
 aliases:
 - Rui
 race: Human
@@ -39,22 +40,26 @@ currency:
   gold: 44
   silver: 70
   copper: 38
-appearance: She wears a dramatic kimono in deep purples and blacks, a fan always in hand. She sits at
-  the head of the room where she can see every table. She smiles when she's winning and smiles wider when
-  she's about to fold — both look the same, which is the point.
-biography: Rui runs a gambling den in the capital that is a front for an information-brokering network
-  — she doesn't gamble for money, she gambles for secrets. Last month, she won a bet that gave her knowledge
-  of a hidden vault beneath the shogun's palace, sealed by shrine wards, containing artifacts from the
-  original human-yokai pact. She's been planning a break-in, but the cat-folk thief Kuro (character:kagemori-kuro)
-  has been spotted near the same vault by her informants. She doesn't know if he's after the same thing
-  or if he's been sent by someone else. She's been trying to make contact with him, but he's gone to ground
-  — Takeda's agents are hunting him.
+appearance: She wears a dramatic kimono in deep purples and blacks, a fan always in
+  hand. She sits at the head of the room where she can see every table. She smiles
+  when she's winning and smiles wider when she's about to fold — both look the same,
+  which is the point.
+biography: Rui runs a gambling den in the capital that is a front for an information-brokering
+  network — she doesn't gamble for money, she gambles for secrets. Last month, she
+  won a bet that gave her knowledge of a hidden vault beneath the shogun's palace,
+  sealed by shrine wards, containing artifacts from the original human-yokai pact.
+  She's been planning a break-in, but the cat-folk thief Kuro (character:kagemori-kuro)
+  has been spotted near the same vault by her informants. She doesn't know if he's
+  after the same thing or if he's been sent by someone else. She's been trying to
+  make contact with him, but he's gone to ground — Takeda's agents are hunting him.
 personality: Guarded and cautious with trust, carries a secret that shapes every decision.
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-hadajuban
+  - item:womens-koshimaki
   clothing:
   - item:hemp-work-kosode
   armor: []
@@ -68,7 +73,14 @@ visual:
   hair: black, long, styled with gambling chips as hairpins
   eyes: dark brown, heavy-lidded
   distinctive_features: a tiny fox tattoo behind the right ear — the mark of her network
-  prompt: ''
+  prompt: 1girl, solo, young adult woman, voluptuous, imposing, large breasts, warm
+    beige skin, traditional Japanese facial features, dark brown eyes, black, long,
+    styled with gambling chips as hairpins, a tiny fox tattoo behind the right ear,
+    the mark of her network, indigo hemp work kosode, portrait, upper body, looking
+    at viewer, soft lighting
+  skin: warm beige
+  height: 5'2"
+  face: traditional Japanese facial features
 image:
   url: ''
   focalPoint:
@@ -76,19 +88,24 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:ashikara-shogunate
 desires:
-- To crack the hidden vault beneath the palace and claim whatever the original pact left behind.
-- To find Kuro (character:kagemori-kuro) before Takeda's agents do and learn what he knows about the vault.
+- To crack the hidden vault beneath the palace and claim whatever the original pact
+  left behind.
+- To find Kuro (character:kagemori-kuro) before Takeda's agents do and learn what
+  he knows about the vault.
 fears_or_limits:
-- Breaking into a shrine-warded vault in the shogun's palace is a capital offense — and she doesn't know
-  how to breach the wards.
-- If Takeda's agents catch her near Kuro, they'll assume she's involved with whatever he stole.
+- Breaking into a shrine-warded vault in the shogun's palace is a capital offense
+  — and she doesn't know how to breach the wards.
+- If Takeda's agents catch her near Kuro, they'll assume she's involved with whatever
+  he stole.
 current_state:
   location: location:tsuki-no-miyako
+memories: []
+momentos: []
 purview: []
 ---
 

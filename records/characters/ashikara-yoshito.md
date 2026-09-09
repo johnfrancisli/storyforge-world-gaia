@@ -1,12 +1,13 @@
 ---
 id: character:ashikara-yoshito
 name: Ashikara Yoshito
-gm_notes: 'The shogun is dying. He has been dying for two years — a slow decline that his physicians cannot
-  explain and his court pretends not to see. He knows he is dying and has refused to name an heir because
-  he cannot decide between his two sons: the elder, who is competent but cruel, and the younger, who is
-  kind but untested. He is using his remaining time to try to shore up the shrine network, which he understands
-  is failing, but the treasury is empty and the clans will not pay for it. He puts on a strong face in
-  public but is privately terrified of what happens after him.'
+gm_notes: 'The shogun is dying. He has been dying for two years — a slow decline that
+  his physicians cannot explain and his court pretends not to see. He knows he is
+  dying and has refused to name an heir because he cannot decide between his two sons:
+  the elder, who is competent but cruel, and the younger, who is kind but untested.
+  He is using his remaining time to try to shore up the shrine network, which he understands
+  is failing, but the treasury is empty and the clans will not pay for it. He puts
+  on a strong face in public but is privately terrified of what happens after him.'
 aliases:
 - Shogun Ashikara Yoshito
 race: Human
@@ -37,21 +38,24 @@ currency:
   gold: 51
   silver: 46
   copper: 2
-appearance: A thin, old man in formal court robes, seated straight-backed on his dais. His hair is white,
-  his hands are spotted with age, and his eyes are still sharp. He speaks softly, and the room goes quiet
-  to hear him.
-biography: 'The shogun is dying. He has been dying for two years — a slow decline that his physicians
-  cannot explain and his court pretends not to see. He knows he is dying and has refused to name an heir
-  because he cannot decide between his two sons: the elder, who is competent but cruel, and the younger,
-  who is kind but untested. He is using his remaining time to try to shore up the shrine network, which
-  he understands is failing, but the treasury is empty and the clans will not pay for it. He puts on a
-  strong face in public but is privately terrified of what happens after him.'
+appearance: A thin, old man in formal court robes, seated straight-backed on his dais.
+  His hair is white, his hands are spotted with age, and his eyes are still sharp.
+  He speaks softly, and the room goes quiet to hear him.
+biography: 'The shogun is dying. He has been dying for two years — a slow decline
+  that his physicians cannot explain and his court pretends not to see. He knows he
+  is dying and has refused to name an heir because he cannot decide between his two
+  sons: the elder, who is competent but cruel, and the younger, who is kind but untested.
+  He is using his remaining time to try to shore up the shrine network, which he understands
+  is failing, but the treasury is empty and the clans will not pay for it. He puts
+  on a strong face in public but is privately terrified of what happens after him.'
 personality: Reserved and soft-spoken, compassionate and tender-hearted.
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 equipment:
-  underwear: []
+  underwear:
+  - item:mens-hadajuban
+  - item:mens-etchu-fundoshi
   clothing:
   - item:merchants-silk-kosode
   armor: []
@@ -65,7 +69,14 @@ visual:
   hair: white, formal topknot
   eyes: dark brown, sharp despite age
   distinctive_features: liver spots on the hands, a formal court fan always carried
-  prompt: ''
+  prompt: 1boy, solo, young adult man, thin, frail but straight-backed, average chest,
+    fair porcelain beige skin, refined Japanese facial features, dark almond eyes,
+    dark brown eyes, white, formal topknot, liver spots on the hands, a formal court
+    fan always carried, fine silk kimono, haori jacket, portrait, upper body, looking
+    at viewer, soft lighting
+  skin: fair porcelain beige
+  height: 5'7"
+  face: refined Japanese facial features, dark almond eyes
 image:
   url: ''
   focalPoint:
@@ -73,17 +84,21 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:ashikara-shogunate
 desires:
-- To name an heir who will hold the shogunate together, and to repair the shrine network before he dies.
+- To name an heir who will hold the shogunate together, and to repair the shrine network
+  before he dies.
 fears_or_limits:
-- He is dying and has not told his court. He cannot decide between his sons. The treasury cannot fund
-  both the capital and the provinces, and every choice abandons someone.
+- He is dying and has not told his court. He cannot decide between his sons. The treasury
+  cannot fund both the capital and the provinces, and every choice abandons someone.
 current_state:
   location: location:tsuki-no-miyako
+memories:
+- campaign-event/the-tea-poison-at-the-moon-viewing
+momentos: []
 purview: []
 ---
 

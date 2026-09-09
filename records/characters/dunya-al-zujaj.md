@@ -1,14 +1,15 @@
 ---
 id: character:dunya-al-zujaj
 name: Dunya al-Zujaj
-gm_notes: A glassblower whose glass vessels can hold light — not metaphorically, but literally. A bottle
-  blown from her furnace traps sunlight and releases it slowly over hours, glowing in the dark like a
-  captured star. She discovered this by accident when she used sand from a site where a djinn had been
-  bound and released centuries ago. She has been selling these light-bottles to the poor quarters as lamps
-  that need no oil, and the binding families have noticed — they are concerned because djinn-bound sites
-  are supposed to be under their control. Dunya does not know the political implications; she only knows
-  the sand from that one dune makes magical glass and she has been quietly mining it for three years.
-  The dune is nearly depleted.
+gm_notes: A glassblower whose glass vessels can hold light — not metaphorically, but
+  literally. A bottle blown from her furnace traps sunlight and releases it slowly
+  over hours, glowing in the dark like a captured star. She discovered this by accident
+  when she used sand from a site where a djinn had been bound and released centuries
+  ago. She has been selling these light-bottles to the poor quarters as lamps that
+  need no oil, and the binding families have noticed — they are concerned because
+  djinn-bound sites are supposed to be under their control. Dunya does not know the
+  political implications; she only knows the sand from that one dune makes magical
+  glass and she has been quietly mining it for three years. The dune is nearly depleted.
 aliases: []
 race: Human
 gender: Female
@@ -38,27 +39,33 @@ currency:
   gold: 3
   silver: 2
   copper: 28
-appearance: Sooty and bright-eyed in a leather apron and cotton scarf, working before a furnace that turns
-  her face gold. She blows glass with cheeks puffed and scarred from stray sparks. Finished light-bottles
-  glow on her shelves like trapped moons.
-biography: A glassblower whose glass vessels can hold light — not metaphorically, but literally. A bottle
-  blown from her furnace traps sunlight and releases it slowly over hours, glowing in the dark like a
-  captured star. She discovered this by accident when she used sand from a site where a djinn had been
-  bound and released centuries ago. She has been selling these light-bottles to the poor quarters as lamps
-  that need no oil, and the binding families have noticed — they are concerned because djinn-bound sites
-  are supposed to be under their control. Dunya does not know the political implications; she only knows
-  the sand from that one dune makes magical glass and she has been quietly mining it for three years.
-  The dune is nearly depleted.
-personality: Warm and optimistic, reserved and soft-spoken, guarded and cautious with trust.
+appearance: Sooty and bright-eyed in a leather apron and cotton scarf, working before
+  a furnace that turns her face gold. She blows glass with cheeks puffed and scarred
+  from stray sparks. Finished light-bottles glow on her shelves like trapped moons.
+biography: A glassblower whose glass vessels can hold light — not metaphorically,
+  but literally. A bottle blown from her furnace traps sunlight and releases it slowly
+  over hours, glowing in the dark like a captured star. She discovered this by accident
+  when she used sand from a site where a djinn had been bound and released centuries
+  ago. She has been selling these light-bottles to the poor quarters as lamps that
+  need no oil, and the binding families have noticed — they are concerned because
+  djinn-bound sites are supposed to be under their control. Dunya does not know the
+  political implications; she only knows the sand from that one dune makes magical
+  glass and she has been quietly mining it for three years. The dune is nearly depleted.
+personality: Warm and optimistic, reserved and soft-spoken, guarded and cautious with
+  trust.
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
-- I will not rest until I find another source of the special sand before the dune runs out.
+- I will not rest until I find another source of the special sand before the dune
+  runs out.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-long-cotton-chemise
+  - item:womens-cotton-underdrawers
   clothing:
   - item:knee-length-pirahan
   - item:bound-ankle-desert-trousers
+  - item:wrapped-work-apron
   armor: []
   hands:
     left: null
@@ -72,7 +79,14 @@ visual:
   distinctive_features:
   - a spark burn scar on the right cheek
   - permanent soot darkening around the eyes
-  prompt: ''
+  prompt: 1girl, solo, young adult woman, wiry, strong-lunged, small breasts, light
+    golden olive skin, striking West Asian facial features, strong dark brows, amber
+    eyes, black, short, singed at the edges hair, a spark burn scar on the right cheek,
+    permanent soot darkening around the eyes, knee-length pirahan shirt, bound-ankle
+    desert trousers, portrait, upper body, looking at viewer, soft lighting
+  skin: light golden olive
+  height: 5'4"
+  face: striking West Asian facial features, strong dark brows
 image:
   url: ''
   focalPoint:
@@ -80,18 +94,23 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:binding-families
 desires:
 - To find another source of the special sand before the dune runs out
-- To keep her light-bottles affordable for the poor quarters that have come to depend on them
+- To keep her light-bottles affordable for the poor quarters that have come to depend
+  on them
 fears_or_limits:
-- That the binding families will claim the dune as a djinn site and confiscate her supply
-- That the light trapped in the bottles is not sunlight but something else that will eventually burn free
+- That the binding families will claim the dune as a djinn site and confiscate her
+  supply
+- That the light trapped in the bottles is not sunlight but something else that will
+  eventually burn free
 current_state:
   location: location:zaffar
+memories: []
+momentos: []
 purview: []
 ---
 

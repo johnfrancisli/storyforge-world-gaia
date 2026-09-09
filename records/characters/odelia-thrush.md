@@ -1,10 +1,11 @@
 ---
 id: character:odelia-thrush
 name: Odelia Thrush
-gm_notes: Odelia is a minstrel who travels the kingdom performing songs and stories. She is also a spy
-  for a foreign power — not a Valdris loyalist at all. She reports on troop movements, political tensions,
-  and the succession crisis. However, she has genuinely come to love Valdris and its people during her
-  years undercover. Her handler has demanded she facilitate the assassination of a key Valdris noble during
+gm_notes: Odelia is a minstrel who travels the kingdom performing songs and stories.
+  She is also a spy for a foreign power — not a Valdris loyalist at all. She reports
+  on troop movements, political tensions, and the succession crisis. However, she
+  has genuinely come to love Valdris and its people during her years undercover. Her
+  handler has demanded she facilitate the assassination of a key Valdris noble during
   the autumn festival. She is torn between her orders, her cover, and her conscience.
 aliases: []
 race: Human
@@ -35,20 +36,25 @@ currency:
   gold: 4
   silver: 10
   copper: 19
-appearance: Bright and performative, Odelia wears colourful travelling clothes and a lutenist's callus
-  on her fingers. Her smile is quick and warm, but does not always reach her eyes.
-biography: Odelia is a minstrel who travels the kingdom performing songs and stories. She is also a spy
-  for a foreign power — not a Valdris loyalist at all. She reports on troop movements, political tensions,
-  and the succession crisis. However, she has genuinely come to love Valdris and its people during her
-  years undercover. Her handler has demanded she facilitate the assassination of a key Valdris noble during
+appearance: Bright and performative, Odelia wears colourful travelling clothes and
+  a lutenist's callus on her fingers. Her smile is quick and warm, but does not always
+  reach her eyes.
+biography: Odelia is a minstrel who travels the kingdom performing songs and stories.
+  She is also a spy for a foreign power — not a Valdris loyalist at all. She reports
+  on troop movements, political tensions, and the succession crisis. However, she
+  has genuinely come to love Valdris and its people during her years undercover. Her
+  handler has demanded she facilitate the assassination of a key Valdris noble during
   the autumn festival. She is torn between her orders, her cover, and her conscience.
 personality: Warm and optimistic, dignified and self-assured, wary and watchful.
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
-- I will not rest until I find a way out of me spy contract without being killed by me handler.
+- I will not rest until I find a way out of me spy contract without being killed by
+  me handler.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-linen-chemise
+  - item:womens-linen-underbreeches
   clothing:
   - item:linen-work-tunic
   - item:wool-trousers
@@ -62,9 +68,15 @@ visual:
   body_build: slender and expressive, small breasts
   hair: honey-blonde, long, worn loose or in a quick braid
   eyes: green
-  distinctive_features: a lutenist's callus on her left fingertips, a small scar on her lower lip (bit
-    through it during a childhood fall)
-  prompt: ''
+  distinctive_features: a lutenist's callus on her left fingertips, a small scar on
+    her lower lip (bit through it during a childhood fall)
+  prompt: 1girl, solo, adult woman, slender and expressive, small breasts, light beige
+    skin, classic European facial features, green eyes, honey-blonde, long, worn loose
+    or in a quick braid hair, linen work tunic, leather belt, wool trousers, portrait,
+    upper body, looking at viewer, soft lighting
+  skin: light beige
+  height: 5'5"
+  face: classic European facial features
 image:
   url: ''
   focalPoint:
@@ -72,8 +84,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:dragon-order
 desires:
@@ -84,6 +96,8 @@ fears_or_limits:
 - that she will be discovered as a spy by Valdris authorities and executed
 current_state:
   location: location:valdris
+memories: []
+momentos: []
 purview: []
 ---
 

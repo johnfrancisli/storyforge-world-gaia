@@ -1,14 +1,16 @@
 ---
 id: character:koll-farseek
 name: Koll Farseek
-gm_notes: 'Koll is a scout and messenger who runs the mountain trails for Jarl Sigrid, watching for ships
-  in the fjord and carrying word between Skaldvik and the outlying farms. His secret: he has been mapping
-  the frost giant territories in the high mountains — not for Sigrid, but for himself. He is obsessed
-  with the giants. He has found evidence of a settlement — not a cave, a settlement, with shaped stones
-  and arranged hearths — high enough that no human should be able to live there. He has been spending
-  his rest days climbing to observe it from a distance. He has seen one giant, twice — a figure of enormous
-  size, moving between the structures with what looked like purpose. Koll has not reported any of this
-  because he does not want the jarl to send a war party. He wants to make contact.'
+gm_notes: 'Koll is a scout and messenger who runs the mountain trails for Jarl Sigrid,
+  watching for ships in the fjord and carrying word between Skaldvik and the outlying
+  farms. His secret: he has been mapping the frost giant territories in the high mountains
+  — not for Sigrid, but for himself. He is obsessed with the giants. He has found
+  evidence of a settlement — not a cave, a settlement, with shaped stones and arranged
+  hearths — high enough that no human should be able to live there. He has been spending
+  his rest days climbing to observe it from a distance. He has seen one giant, twice
+  — a figure of enormous size, moving between the structures with what looked like
+  purpose. Koll has not reported any of this because he does not want the jarl to
+  send a war party. He wants to make contact.'
 aliases: []
 race: Human
 gender: Male
@@ -38,24 +40,28 @@ currency:
   gold: 3
   silver: 23
   copper: 25
-appearance: Lean and fast, Koll wears light wool and leather — travelling clothes, not armor — with a
-  scout's short bow and a belt knife. He is always slightly out of breath, as though he has just arrived
-  from somewhere far away, because he usually has. His face is wind-burned and his eyes are always scanning
-  the horizon.
-biography: 'Koll is a scout and messenger who runs the mountain trails for Jarl Sigrid, watching for ships
-  in the fjord and carrying word between Skaldvik and the outlying farms. His secret: he has been mapping
-  the frost giant territories in the high mountains — not for Sigrid, but for himself. He is obsessed
-  with the giants. He has found evidence of a settlement — not a cave, a settlement, with shaped stones
-  and arranged hearths — high enough that no human should be able to live there. He has been spending
-  his rest days climbing to observe it from a distance. He has seen one giant, twice — a figure of enormous
-  size, moving between the structures with what looked like purpose. Koll has not reported any of this
-  because he does not want the jarl to send a war party. He wants to make contact.'
+appearance: Lean and fast, Koll wears light wool and leather — travelling clothes,
+  not armor — with a scout's short bow and a belt knife. He is always slightly out
+  of breath, as though he has just arrived from somewhere far away, because he usually
+  has. His face is wind-burned and his eyes are always scanning the horizon.
+biography: 'Koll is a scout and messenger who runs the mountain trails for Jarl Sigrid,
+  watching for ships in the fjord and carrying word between Skaldvik and the outlying
+  farms. His secret: he has been mapping the frost giant territories in the high mountains
+  — not for Sigrid, but for himself. He is obsessed with the giants. He has found
+  evidence of a settlement — not a cave, a settlement, with shaped stones and arranged
+  hearths — high enough that no human should be able to live there. He has been spending
+  his rest days climbing to observe it from a distance. He has seen one giant, twice
+  — a figure of enormous size, moving between the structures with what looked like
+  purpose. Koll has not reported any of this because he does not want the jarl to
+  send a war party. He wants to make contact.'
 personality: Guarded and cautious with trust, carries a secret that shapes every decision.
 key_phrases:
 - I see what others miss because I know what to look for.
 - The wilderness does not forgive carelessness.
 equipment:
-  underwear: []
+  underwear:
+  - item:mens-light-linen-undershirt
+  - item:mens-winter-drawers
   clothing:
   - item:wool-overtunic
   - item:wool-trousers
@@ -69,9 +75,16 @@ visual:
   body_build: lean and quick, built for running and climbing, narrow chest
   hair: sandy brown, sun-bleached, worn short
   eyes: green, bright and constantly moving
-  distinctive_features: a scout's tattoo of an eye on his right wrist, a scar on his left cheek from a
-    fall against rock
-  prompt: ''
+  distinctive_features: a scout's tattoo of an eye on his right wrist, a scar on his
+    left cheek from a fall against rock
+  prompt: 1boy, solo, young adult man, lean and quick, built for running and climbing,
+    narrow chest, salt-roughened, wind-reddened fair skin, strong, weather-hardened
+    Norse facial features, green eyes, sandy brown, sun-bleached, worn short hair,
+    wool overtunic, leather belt, wool trousers, portrait, upper body, looking at
+    viewer, soft lighting
+  skin: salt-roughened, wind-reddened fair skin
+  height: 6'1"
+  face: strong, weather-hardened Norse facial features
 image:
   url: ''
   focalPoint:
@@ -79,19 +92,24 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:hra-shipwright-brotherhood
 desires:
-- to make contact with the frost giant settlement — to be the first human to speak with them in living
-  memory
-- to prove that the giants are not monsters, that coexistence is possible — a saga-worthy achievement
+- to make contact with the frost giant settlement — to be the first human to speak
+  with them in living memory
+- to prove that the giants are not monsters, that coexistence is possible — a saga-worthy
+  achievement
 fears_or_limits:
-- that the giants will respond to human contact with violence, and he will have provoked a war
-- that if he reports the settlement, the jarls will send warriors and destroy any chance of peace
+- that the giants will respond to human contact with violence, and he will have provoked
+  a war
+- that if he reports the settlement, the jarls will send warriors and destroy any
+  chance of peace
 current_state:
   location: location:hrafnland
+memories: []
+momentos: []
 purview: []
 ---
 

@@ -1,16 +1,19 @@
 ---
 id: character:hina-ke
 name: Hina-ke
-gm_notes: Hina-ke is a chant keeper, one of the few who knows the full sequence of the tide chants — the
-  songs that map the daily and seasonal tides of the Archipelago. She is Vehina's former student and was
-  expected to be her successor, but Vehina chose Mafana instead, and Hina-ke does not know why. She has
-  been hurt and confused by this choice and has been quietly investigating Mafana — watching her, listening
-  to her sleep, trying to understand what Vehina sees in a silent refugee child. What she has discovered
-  is that Mafana sings deep-water songs in her sleep, and Hina-ke is frightened because she recognizes
-  them — they are the songs Vehina has refused to teach anyone, the songs Vehina says are too dangerous.
-  Hina-ke is torn between telling the guild council what Mafana is singing and keeping the secret to see
-  what happens. She is afraid that Vehina is using the child as a vessel for songs too dangerous to carry
-  in an old woman's failing memory — and she is afraid that is actually wise.
+gm_notes: Hina-ke is a chant keeper, one of the few who knows the full sequence of
+  the tide chants — the songs that map the daily and seasonal tides of the Archipelago.
+  She is Vehina's former student and was expected to be her successor, but Vehina
+  chose Mafana instead, and Hina-ke does not know why. She has been hurt and confused
+  by this choice and has been quietly investigating Mafana — watching her, listening
+  to her sleep, trying to understand what Vehina sees in a silent refugee child. What
+  she has discovered is that Mafana sings deep-water songs in her sleep, and Hina-ke
+  is frightened because she recognizes them — they are the songs Vehina has refused
+  to teach anyone, the songs Vehina says are too dangerous. Hina-ke is torn between
+  telling the guild council what Mafana is singing and keeping the secret to see what
+  happens. She is afraid that Vehina is using the child as a vessel for songs too
+  dangerous to carry in an old woman's failing memory — and she is afraid that is
+  actually wise.
 aliases: []
 race: Human
 gender: Female
@@ -40,25 +43,33 @@ currency:
   gold: 5
   silver: 16
   copper: 11
-appearance: A composed, precise woman with a chanter's trained voice and a scholar's attention to detail.
-  She wears the markers of a chant keeper — a woven scarf and bone pins — and carries a tapa-book of notation.
-biography: Hina-ke is a chant keeper, one of the few who knows the full sequence of the tide chants —
-  the songs that map the daily and seasonal tides of the Archipelago. She is Vehina's former student and
-  was expected to be her successor, but Vehina chose Mafana instead, and Hina-ke does not know why. She
-  has been hurt and confused by this choice and has been quietly investigating Mafana — watching her,
-  listening to her sleep, trying to understand what Vehina sees in a silent refugee child. What she has
-  discovered is that Mafana sings deep-water songs in her sleep, and Hina-ke is frightened because she
-  recognizes them — they are the songs Vehina has refused to teach anyone, the songs Vehina says are too
-  dangerous. Hina-ke is torn between telling the guild council what Mafana is singing and keeping the
-  secret to see what happens. She is afraid that Vehina is using the child as a vessel for songs too dangerous
-  to carry in an old woman's failing memory — and she is afraid that is actually wise.
+appearance: A composed, precise woman with a chanter's trained voice and a scholar's
+  attention to detail. She wears the markers of a chant keeper — a woven scarf and
+  bone pins — and carries a tapa-book of notation.
+biography: Hina-ke is a chant keeper, one of the few who knows the full sequence of
+  the tide chants — the songs that map the daily and seasonal tides of the Archipelago.
+  She is Vehina's former student and was expected to be her successor, but Vehina
+  chose Mafana instead, and Hina-ke does not know why. She has been hurt and confused
+  by this choice and has been quietly investigating Mafana — watching her, listening
+  to her sleep, trying to understand what Vehina sees in a silent refugee child. What
+  she has discovered is that Mafana sings deep-water songs in her sleep, and Hina-ke
+  is frightened because she recognizes them — they are the songs Vehina has refused
+  to teach anyone, the songs Vehina says are too dangerous. Hina-ke is torn between
+  telling the guild council what Mafana is singing and keeping the secret to see what
+  happens. She is afraid that Vehina is using the child as a vessel for songs too
+  dangerous to carry in an old woman's failing memory — and she is afraid that is
+  actually wise.
 personality: Precise and detail-oriented, reserved and soft-spoken, wary and watchful.
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 equipment:
-  underwear: []
-  clothing: []
+  underwear:
+  - item:womens-woven-support-band
+  - item:womens-inner-pau-wrap
+  clothing:
+  - item:open-sided-island-tunic
+  - item:pau-wrap-skirt
   armor: []
   hands:
     left: null
@@ -70,9 +81,16 @@ visual:
   skin: medium brown
   hair: black, greying early, worn in a chanter's braided style
   eyes: dark brown, sharp
-  distinctive_features: a chant-keeper's woven scarf, a tapa-book of chant notation carried under the
-    arm, a quality of precise observation that makes people feel they are being memorized
-  prompt: ''
+  distinctive_features: a chant-keeper's woven scarf, a tapa-book of chant notation
+    carried under the arm, a quality of precise observation that makes people feel
+    they are being memorized
+  prompt: 1girl, solo, adult woman, composed, upright, precise, medium breasts, medium
+    brown skin, Polynesian maritime facial features, warm expressive eyes, dark brown
+    eyes, black, greying early, worn in a chanter's braided style hair, open-sided
+    island tunic, printed pau wrap skirt, portrait, upper body, looking at viewer,
+    soft lighting
+  height: 5'6"
+  face: Polynesian maritime facial features, warm expressive eyes
 image:
   url: ''
   focalPoint:
@@ -80,20 +98,24 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:wayfinder-guilds
 desires:
-- To understand why Vehina chose Mafana over her — and whether the choice was wisdom or desperation
-- To decide whether to tell the guild council what Mafana sings — and to live with either choice
+- To understand why Vehina chose Mafana over her — and whether the choice was wisdom
+  or desperation
+- To decide whether to tell the guild council what Mafana sings — and to live with
+  either choice
 fears_or_limits:
-- That Vehina chose Mafana because Hina-ke is not capable of carrying the deep-water songs — that her
-  teacher found her lacking
-- That if the guild council learns about the songs, they will take Mafana away from Vehina — and the songs
-  will be lost or used as weapons
+- That Vehina chose Mafana because Hina-ke is not capable of carrying the deep-water
+  songs — that her teacher found her lacking
+- That if the guild council learns about the songs, they will take Mafana away from
+  Vehina — and the songs will be lost or used as weapons
 current_state:
   location: location:lani-atoll
+memories: []
+momentos: []
 purview: []
 ---
 

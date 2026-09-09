@@ -148,6 +148,20 @@ character_visual_references:
       - coat colour, tail shape, and fur coverage follow the individual
     avoid:
       - fox ears or jaguar rosettes unless explicitly authored
+  - name: Cat-folk
+    applies_to:
+      - Cat-folk
+    prompt: cat-folk humanoid, cat ears, feline tail, slit pupils
+    invariant_traits:
+      - humanoid proportions
+      - feline ears and tail
+      - slit pupils
+    variable_traits:
+      - ear and tail coloration follows the individual
+      - human skin tone without body fur
+    avoid:
+      - full-body animal fur
+      - fox or jaguar anatomy
   - name: Yuki-onna
     applies_to:
       - Yuki-onna (Yokai)

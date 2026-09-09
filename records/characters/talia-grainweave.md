@@ -1,11 +1,13 @@
 ---
 id: character:talia-grainweave
 name: Talia Grainweave
-gm_notes: Talia is a miller who controls the only functioning mill in the Valdris countryside after the
-  other two were burned in raids. She has been charging fair prices but has been secretly approached by
-  a merchant guild offering her triple the normal rate if she restricts grain flow to create an artificial
-  shortage — which would drive up prices and destabilize the region. She refused, but the guild has since
-  threatened her family and sabotaged her mill's waterwheel once already. She fears they will escalate.
+gm_notes: Talia is a miller who controls the only functioning mill in the Valdris
+  countryside after the other two were burned in raids. She has been charging fair
+  prices but has been secretly approached by a merchant guild offering her triple
+  the normal rate if she restricts grain flow to create an artificial shortage — which
+  would drive up prices and destabilize the region. She refused, but the guild has
+  since threatened her family and sabotaged her mill's waterwheel once already. She
+  fears they will escalate.
 aliases: []
 race: Human
 gender: Female
@@ -35,20 +37,25 @@ currency:
   gold: 5
   silver: 16
   copper: 10
-appearance: Strong-armed and practical, Talia wears flour-dusted work clothes and keeps her hair tied
-  back. She has a warm but no-nonsense demeanour and a firm handshake.
-biography: Talia is a miller who controls the only functioning mill in the Valdris countryside after the
-  other two were burned in raids. She has been charging fair prices but has been secretly approached by
-  a merchant guild offering her triple the normal rate if she restricts grain flow to create an artificial
-  shortage — which would drive up prices and destabilize the region. She refused, but the guild has since
-  threatened her family and sabotaged her mill's waterwheel once already. She fears they will escalate.
-personality: Strict and disciplined, guarded and cautious with trust, generous and welcoming.
+appearance: Strong-armed and practical, Talia wears flour-dusted work clothes and
+  keeps her hair tied back. She has a warm but no-nonsense demeanour and a firm handshake.
+biography: Talia is a miller who controls the only functioning mill in the Valdris
+  countryside after the other two were burned in raids. She has been charging fair
+  prices but has been secretly approached by a merchant guild offering her triple
+  the normal rate if she restricts grain flow to create an artificial shortage — which
+  would drive up prices and destabilize the region. She refused, but the guild has
+  since threatened her family and sabotaged her mill's waterwheel once already. She
+  fears they will escalate.
+personality: Strict and disciplined, guarded and cautious with trust, generous and
+  welcoming.
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 - I will not rest until I keep the mill running and the villages fed.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-linen-chemise
+  - item:womens-linen-underbreeches
   clothing:
   - item:linen-work-tunic
   - item:wool-trousers
@@ -62,9 +69,15 @@ visual:
   body_build: strong-armed and sturdy, small breasts
   hair: dark blonde, tied in a practical bun
   eyes: brown
-  distinctive_features: permanently flour-dusted eyebrows, a scar on her right forearm from the mill's
-    gear mechanism
-  prompt: ''
+  distinctive_features: permanently flour-dusted eyebrows, a scar on her right forearm
+    from the mill's gear mechanism
+  prompt: 1girl, solo, adult woman, strong-armed and sturdy, small breasts, light
+    beige skin, classic European facial features, brown eyes, dark blonde, tied in
+    a practical bun hair, linen work tunic, leather belt, wool trousers, portrait,
+    upper body, looking at viewer, soft lighting
+  skin: light beige
+  height: 5'5"
+  face: classic European facial features
 image:
   url: ''
   focalPoint:
@@ -72,8 +85,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:val-merchant-guild
 desires:
@@ -84,6 +97,8 @@ fears_or_limits:
 - that she will be forced to give in to protect her children
 current_state:
   location: location:valdris
+memories: []
+momentos: []
 purview: []
 ---
 

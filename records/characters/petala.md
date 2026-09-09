@@ -1,15 +1,17 @@
 ---
 id: character:petala
 name: Petala
-gm_notes: A basket weaver whose baskets are so tightly woven they can hold water indefinitely — a skill
-  she learned from her grandmother, who claimed the technique was taught by a river-spirit. Petala recently
-  discovered that her grandmother's baskets, when filled with river water under a full moon, reveal reflections
-  of events happening elsewhere along the river. She has been secretly using this to observe a group of
-  outsiders who have arrived at the upper river — heavily armed traders who are mapping the tributaries
-  and marking locations with carved stone posts. She believes they are preparing to claim territory and
-  has been trying to warn the tribal council through anonymous messages, but no one has connected the
-  warnings to a real threat. She does not know that one of the outsiders has a spirit-ward that can detect
-  scrying baskets.
+gm_notes: A basket weaver whose baskets are so tightly woven they can hold water indefinitely
+  — a skill she learned from her grandmother, who claimed the technique was taught
+  by a river-spirit. Petala recently discovered that her grandmother's baskets, when
+  filled with river water under a full moon, reveal reflections of events happening
+  elsewhere along the river. She has been secretly using this to observe a group of
+  outsiders who have arrived at the upper river — heavily armed traders who are mapping
+  the tributaries and marking locations with carved stone posts. She believes they
+  are preparing to claim territory and has been trying to warn the tribal council
+  through anonymous messages, but no one has connected the warnings to a real threat.
+  She does not know that one of the outsiders has a spirit-ward that can detect scrying
+  baskets.
 aliases: []
 race: Human
 gender: Female
@@ -39,25 +41,33 @@ currency:
   gold: 0
   silver: 7
   copper: 20
-appearance: Sturdy and calm-handed, always working. Sits cross-legged on her platform with materials spread
-  around her. Her baskets hang from every rafter.
-biography: A basket weaver whose baskets are so tightly woven they can hold water indefinitely — a skill
-  she learned from her grandmother, who claimed the technique was taught by a river-spirit. Petala recently
-  discovered that her grandmother's baskets, when filled with river water under a full moon, reveal reflections
-  of events happening elsewhere along the river. She has been secretly using this to observe a group of
-  outsiders who have arrived at the upper river — heavily armed traders who are mapping the tributaries
-  and marking locations with carved stone posts. She believes they are preparing to claim territory and
-  has been trying to warn the tribal council through anonymous messages, but no one has connected the
-  warnings to a real threat. She does not know that one of the outsiders has a spirit-ward that can detect
+appearance: Sturdy and calm-handed, always working. Sits cross-legged on her platform
+  with materials spread around her. Her baskets hang from every rafter.
+biography: A basket weaver whose baskets are so tightly woven they can hold water
+  indefinitely — a skill she learned from her grandmother, who claimed the technique
+  was taught by a river-spirit. Petala recently discovered that her grandmother's
+  baskets, when filled with river water under a full moon, reveal reflections of events
+  happening elsewhere along the river. She has been secretly using this to observe
+  a group of outsiders who have arrived at the upper river — heavily armed traders
+  who are mapping the tributaries and marking locations with carved stone posts. She
+  believes they are preparing to claim territory and has been trying to warn the tribal
+  council through anonymous messages, but no one has connected the warnings to a real
+  threat. She does not know that one of the outsiders has a spirit-ward that can detect
   scrying baskets.
-personality: Composed and even-tempered, guarded and cautious with trust, thoughtful and philosophical.
+personality: Composed and even-tempered, guarded and cautious with trust, thoughtful
+  and philosophical.
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
-- I will not rest until I convince the tribal council that the outsiders are a genuine threat.
+- I will not rest until I convince the tribal council that the outsiders are a genuine
+  threat.
 equipment:
-  underwear: []
-  clothing: []
+  underwear:
+  - item:womens-softbark-chest-wrap
+  - item:womens-inner-hip-wrap
+  clothing:
+  - item:sleeveless-barkcloth-tunic
+  - item:softbark-wrap-skirt
   armor: []
   hands:
     left: null
@@ -71,7 +81,15 @@ visual:
   distinctive_features:
   - permanent grooves in both index fingers from palm-leaf fibers
   - a dark mole beneath the left ear
-  prompt: ''
+  prompt: 1girl, solo, adult woman, sturdy and square-shouldered, strong hands, medium
+    breasts, warm copper-brown skin, Indigenous Amazonian facial features, high cheekbones,
+    dark brown eyes, black, greying at the temples, pinned up with weaving sticks
+    hair, permanent grooves in both index fingers from palm-leaf fibers, a dark mole
+    beneath the left ear, sleeveless barkcloth tunic, softbark wrap skirt, portrait,
+    upper body, looking at viewer, soft lighting
+  skin: warm copper-brown
+  height: 5'1"
+  face: Indigenous Amazonian facial features, high cheekbones
 image:
   url: ''
   focalPoint:
@@ -79,8 +97,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:ver-shaman-circle
 desires:
@@ -91,6 +109,8 @@ fears_or_limits:
 - That the council's inaction will cost lives before anyone listens
 current_state:
   location: location:iara
+memories: []
+momentos: []
 purview: []
 ---
 

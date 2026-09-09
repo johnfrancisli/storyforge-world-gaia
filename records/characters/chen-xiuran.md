@@ -1,13 +1,14 @@
 ---
 id: character:chen-xiuran
 name: Chen Xiuran
-gm_notes: A herbalist who lives at the edge of the Wei mountains and gathers rare medicinal herbs. She
-  is the only person who knows the location of the 'Ghost Orchid,' a flower that blooms once every twelve
-  years and can cure any poison—including the chi-wasting sickness afflicting Tian Baoshan's miners. She
-  was the lover of one of the poisoned miners and does not know he is ill because he was sent away. She
-  has been visited by a qilin spirit in the form of a white deer that guards the Ghost Orchid grove and
-  has told her the flower must not be picked for 'petty human wars.' She is torn between the spirit's
-  warning and saving lives.
+gm_notes: A herbalist who lives at the edge of the Wei mountains and gathers rare
+  medicinal herbs. She is the only person who knows the location of the 'Ghost Orchid,'
+  a flower that blooms once every twelve years and can cure any poison—including the
+  chi-wasting sickness afflicting Tian Baoshan's miners. She was the lover of one
+  of the poisoned miners and does not know he is ill because he was sent away. She
+  has been visited by a qilin spirit in the form of a white deer that guards the Ghost
+  Orchid grove and has told her the flower must not be picked for 'petty human wars.'
+  She is torn between the spirit's warning and saving lives.
 aliases: []
 race: Human
 gender: Female
@@ -37,22 +38,27 @@ currency:
   gold: 2
   silver: 17
   copper: 27
-appearance: Wild-haired and forest-worn, wearing layered patched clothes and carrying baskets of drying
-  herbs.
-biography: A herbalist who lives at the edge of the Wei mountains and gathers rare medicinal herbs. She
-  is the only person who knows the location of the 'Ghost Orchid,' a flower that blooms once every twelve
-  years and can cure any poison—including the chi-wasting sickness afflicting Tian Baoshan's miners. She
-  was the lover of one of the poisoned miners and does not know he is ill because he was sent away. She
-  has been visited by a qilin spirit in the form of a white deer that guards the Ghost Orchid grove and
-  has told her the flower must not be picked for 'petty human wars.' She is torn between the spirit's
-  warning and saving lives.
-personality: Tired and carrying a heavy burden, wary and watchful, caught between duty and conscience.
+appearance: Wild-haired and forest-worn, wearing layered patched clothes and carrying
+  baskets of drying herbs.
+biography: A herbalist who lives at the edge of the Wei mountains and gathers rare
+  medicinal herbs. She is the only person who knows the location of the 'Ghost Orchid,'
+  a flower that blooms once every twelve years and can cure any poison—including the
+  chi-wasting sickness afflicting Tian Baoshan's miners. She was the lover of one
+  of the poisoned miners and does not know he is ill because he was sent away. She
+  has been visited by a qilin spirit in the form of a white deer that guards the Ghost
+  Orchid grove and has told her the flower must not be picked for 'petty human wars.'
+  She is torn between the spirit's warning and saving lives.
+personality: Tired and carrying a heavy burden, wary and watchful, caught between
+  duty and conscience.
 key_phrases:
 - Every plant has a purpose, if you listen closely enough.
 - The earth provides, if you know where to look.
-- I will not rest until I find a way to save the miners without defying the qilin spirit.
+- I will not rest until I find a way to save the miners without defying the qilin
+  spirit.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-inner-ru
+  - item:womens-loose-undertrousers
   clothing:
   - item:short-shan-work-shirt
   - item:bound-cuff-field-trousers
@@ -69,7 +75,14 @@ visual:
   distinctive_features:
   - mud-stained fingers with green herbal stains
   - a necklace of small animal bones and dried seed pods
-  prompt: ''
+  prompt: 1girl, solo, adult woman, lean and weathered from mountain living, medium
+    breasts, warm beige skin, strong Chinese facial features, green-brown eyes, long,
+    dark, and untamed hair, mud-stained fingers with green herbal stains, a necklace
+    of small animal bones and dried seed pods, short shan work shirt, bound-cuff field
+    trousers, portrait, upper body, looking at viewer, soft lighting
+  skin: warm beige
+  height: 5'3"
+  face: strong Chinese facial features
 image:
   url: ''
   focalPoint:
@@ -77,8 +90,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:san-strategist-circle
 desires:
@@ -89,6 +102,8 @@ fears_or_limits:
 - That the Ghost Orchid's next blooming will be the last
 current_state:
   location: location:sangguo
+memories: []
+momentos: []
 purview: []
 ---
 

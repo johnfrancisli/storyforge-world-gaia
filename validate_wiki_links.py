@@ -30,6 +30,7 @@ VALID_TYPES = {
     'character', 'location', 'organization', 'thread',
     'item', 'relationship', 'lore',
     'org',  # abbreviation used in existing records
+    'experience', 'campaign-event', 'event',
 }
 
 # Fields in record YAML frontmatter that expect raw IDs, not wiki-link markup.
@@ -38,6 +39,10 @@ RAW_ID_FIELDS = {
     'affiliations', 'current_state', 'home',
     'parent_location_id', 'seat', 'holdings',
     'purview', 'current_quest', 'current_location',
+    'memories', 'momentos',
+    'related_characters', 'related_locations',
+    'related_organizations', 'related_factions',
+    'related_threads', 'related_lore',
 }
 
 # Wiki-link pattern: [[type:id]] or [[type:id|display text]]
@@ -79,6 +84,13 @@ def extract_all_ids(project_dir):
                             rec_id = data.get('id')
                             if rec_id and isinstance(rec_id, str):
                                 valid_ids.add(rec_id)
+                                if rec_id.startswith('experience:'):
+                                    slug = rec_id[11:]
+                                    valid_ids.add(f'campaign-event/{slug}')
+                                    valid_ids.add(f'campaign-event:{slug}')
+                                elif rec_id.startswith('campaign-event/'):
+                                    slug = rec_id[15:]
+                                    valid_ids.add(f'experience:{slug}')
             except Exception:
                 pass
 

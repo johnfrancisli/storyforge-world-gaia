@@ -1,13 +1,15 @@
 ---
 id: character:sha-wuyin
 name: Sha Wuyin
-gm_notes: A shadowy figure who operates Jin-an's underground gambling den and is the city's premier fixer—able
-  to arrange forged documents, discreet passage, and anonymous contacts for a price. She lost her entire
-  family to a Wei military raid twenty years ago and rebuilt her life in the criminal underworld. She
-  is the only person who knows that the Jin warlord's chief advisor and the Chu warlord's chancellor have
-  been secretly corresponding about a partition plan to divide Jin territory between Wei and Chu after
-  a coordinated coup. She has kept this information because she is waiting to sell it to the highest bidder,
-  but the coup timeline is approaching and she is running out of time to find a buyer she trusts.
+gm_notes: A shadowy figure who operates Jin-an's underground gambling den and is the
+  city's premier fixer—able to arrange forged documents, discreet passage, and anonymous
+  contacts for a price. She lost her entire family to a Wei military raid twenty years
+  ago and rebuilt her life in the criminal underworld. She is the only person who
+  knows that the Jin warlord's chief advisor and the Chu warlord's chancellor have
+  been secretly corresponding about a partition plan to divide Jin territory between
+  Wei and Chu after a coordinated coup. She has kept this information because she
+  is waiting to sell it to the highest bidder, but the coup timeline is approaching
+  and she is running out of time to find a buyer she trusts.
 aliases: []
 race: Human
 gender: Female
@@ -37,22 +39,27 @@ currency:
   gold: 44
   silver: 46
   copper: 40
-appearance: Hard-edged and watchful, wearing dark, practical clothes under a gambler's coat. Rings on
-  every finger, eyes on every door.
-biography: A shadowy figure who operates Jin-an's underground gambling den and is the city's premier fixer—able
-  to arrange forged documents, discreet passage, and anonymous contacts for a price. She lost her entire
-  family to a Wei military raid twenty years ago and rebuilt her life in the criminal underworld. She
-  is the only person who knows that the Jin warlord's chief advisor and the Chu warlord's chancellor have
-  been secretly corresponding about a partition plan to divide Jin territory between Wei and Chu after
-  a coordinated coup. She has kept this information because she is waiting to sell it to the highest bidder,
-  but the coup timeline is approaching and she is running out of time to find a buyer she trusts.
-personality: Guarded and cautious with trust, thoughtful and philosophical, perceptive and watchful.
+appearance: Hard-edged and watchful, wearing dark, practical clothes under a gambler's
+  coat. Rings on every finger, eyes on every door.
+biography: A shadowy figure who operates Jin-an's underground gambling den and is
+  the city's premier fixer—able to arrange forged documents, discreet passage, and
+  anonymous contacts for a price. She lost her entire family to a Wei military raid
+  twenty years ago and rebuilt her life in the criminal underworld. She is the only
+  person who knows that the Jin warlord's chief advisor and the Chu warlord's chancellor
+  have been secretly corresponding about a partition plan to divide Jin territory
+  between Wei and Chu after a coordinated coup. She has kept this information because
+  she is waiting to sell it to the highest bidder, but the coup timeline is approaching
+  and she is running out of time to find a buyer she trusts.
+personality: Guarded and cautious with trust, thoughtful and philosophical, perceptive
+  and watchful.
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 - I will not rest until I sell the partition plan before the coup happens.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-inner-ru
+  - item:womens-loose-undertrousers
   clothing:
   - item:short-shan-work-shirt
   - item:bound-cuff-field-trousers
@@ -69,7 +76,15 @@ visual:
   distinctive_features:
   - a knife-scar from the right ear to the jaw
   - a gambler's callus on the right thumb from dice and cards
-  prompt: ''
+  prompt: 1girl, solo, adult woman, lean and wiry, coiled-tight, medium breasts, warm
+    beige skin, strong Chinese facial features, sharp black eyes, black with a white
+    streak at the right temple, in a practical gambler's ponytail hair, a knife-scar
+    from the right ear to the jaw, a gambler's callus on the right thumb from dice
+    and cards, short shan work shirt, bound-cuff field trousers, portrait, upper body,
+    looking at viewer, soft lighting
+  skin: warm beige
+  height: 5'3"
+  face: strong Chinese facial features
 image:
   url: ''
   focalPoint:
@@ -77,18 +92,23 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:san-merchant-cartel
 desires:
 - To sell the partition plan before the coup happens
-- To find a buyer who will use the information to prevent the partition, not enable it
+- To find a buyer who will use the information to prevent the partition, not enable
+  it
 fears_or_limits:
-- The Jin advisor or Chu chancellor discovering she knows before she can sell the information
-- That no buyer will pay what the information is worth and she will have died for nothing
+- The Jin advisor or Chu chancellor discovering she knows before she can sell the
+  information
+- That no buyer will pay what the information is worth and she will have died for
+  nothing
 current_state:
   location: location:jin-an
+memories: []
+momentos: []
 purview: []
 ---
 

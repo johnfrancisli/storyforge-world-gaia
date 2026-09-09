@@ -1,12 +1,13 @@
 ---
 id: character:aurelia-dawnspear
 name: Aurelia Dawnspear
-gm_notes: Aurelia is one of the few female dragon-bonded knights of the Dragon Order. Her dragon, a young
-  female named Emberthyst, has been acting strangely — flying toward the northern mountains as if drawn
-  by something. Aurelia has been concealing this from the Order's leadership, fearing they will ground
-  her or separate them. She believes Emberthyst is responding to a wild dragon's call, and that the wild
-  dragon may be building a nest — something not seen in a century. If true, it could mean a new generation
-  of dragons, and a shift in power.
+gm_notes: Aurelia is one of the few female dragon-bonded knights of the Dragon Order.
+  Her dragon, a young female named Emberthyst, has been acting strangely — flying
+  toward the northern mountains as if drawn by something. Aurelia has been concealing
+  this from the Order's leadership, fearing they will ground her or separate them.
+  She believes Emberthyst is responding to a wild dragon's call, and that the wild
+  dragon may be building a nest — something not seen in a century. If true, it could
+  mean a new generation of dragons, and a shift in power.
 aliases: []
 race: Human
 gender: Female
@@ -36,23 +37,29 @@ currency:
   gold: 15
   silver: 21
   copper: 20
-appearance: Tall and commanding, Aurelia wears Dragon Order plate etched with flame motifs. Her red-gold
-  hair is cut short for helmet-fitting, and she moves with an awareness that suggests she is always listening
-  for something inaudible.
-biography: Aurelia is one of the few female dragon-bonded knights of the Dragon Order. Her dragon, a young
-  female named Emberthyst, has been acting strangely — flying toward the northern mountains as if drawn
-  by something. Aurelia has been concealing this from the Order's leadership, fearing they will ground
-  her or separate them. She believes Emberthyst is responding to a wild dragon's call, and that the wild
-  dragon may be building a nest — something not seen in a century. If true, it could mean a new generation
-  of dragons, and a shift in power.
+appearance: Tall and commanding, Aurelia wears Dragon Order plate etched with flame
+  motifs. Her red-gold hair is cut short for helmet-fitting, and she moves with an
+  awareness that suggests she is always listening for something inaudible.
+biography: Aurelia is one of the few female dragon-bonded knights of the Dragon Order.
+  Her dragon, a young female named Emberthyst, has been acting strangely — flying
+  toward the northern mountains as if drawn by something. Aurelia has been concealing
+  this from the Order's leadership, fearing they will ground her or separate them.
+  She believes Emberthyst is responding to a wild dragon's call, and that the wild
+  dragon may be building a nest — something not seen in a century. If true, it could
+  mean a new generation of dragons, and a shift in power.
 personality: Guarded and cautious with trust.
 key_phrases:
 - The oath is the man. Break it and nothing remains.
 - Steel serves the cause; the cause does not serve the steel.
-- I will not rest until I follow emberthyst's call and discover what lies in the northern mountains.
+- I will not rest until I follow emberthyst's call and discover what lies in the northern
+  mountains.
 equipment:
-  underwear: []
-  clothing: []
+  underwear:
+  - item:womens-fitted-underbodice
+  - item:womens-linen-underbreeches
+  clothing:
+  - item:linen-work-tunic
+  - item:riding-breeches
   armor: []
   hands:
     left: null
@@ -63,9 +70,16 @@ visual:
   body_build: tall and athletic, medium breasts
   hair: red-gold, cropped short
   eyes: amber
-  distinctive_features: a burn-scar pattern on her left shoulder (dragon-bond mark, resembles scales),
-    a broken nose that healed slightly crooked
-  prompt: ''
+  distinctive_features: a burn-scar pattern on her left shoulder (dragon-bond mark,
+    resembles scales), a broken nose that healed slightly crooked
+  prompt: 1girl, solo, young adult woman, tall and athletic, medium breasts, light
+    beige skin, classic European facial features, amber eyes, red-gold, cropped short
+    hair, a burn-scar pattern on her left shoulder, a broken nose, linen work tunic,
+    riding breeches, etched dragon order plate armor, portrait, upper body, looking
+    at viewer, soft lighting
+  skin: light beige
+  height: 5'5"
+  face: classic European facial features
 image:
   url: ''
   focalPoint:
@@ -73,18 +87,22 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:dragon-order
 desires:
 - to follow Emberthyst's call and discover what lies in the northern mountains
 - to prove that female dragon-bonded knights are as capable as any
 fears_or_limits:
-- that the Order will separate her from Emberthyst if they learn of the wild dragon's call
+- that the Order will separate her from Emberthyst if they learn of the wild dragon's
+  call
 - that the wild dragon may be hostile and Emberthyst will be hurt
 current_state:
   location: location:dragonrest
+memories:
+- campaign-event/the-dragon-silence-at-sunhelm
+momentos: []
 purview: []
 ---
 

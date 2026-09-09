@@ -1,15 +1,17 @@
 ---
 id: character:ando-ryo
 name: Ando Ryo
-gm_notes: Ryo makes paper lanterns using fragments of old ofuda — spirit wards that were supposed to be
-  ritually destroyed when their shrines were decommissioned. He's been rescuing them from demolition sites
-  and weaving the paper into his lanterns. His lanterns create small warded zones wherever they hang —
-  a merchant's stall with a Ryo lantern is subtly protected from yokai intrusion. He's accidentally created
-  a patchwork of mini-wards throughout the merchant district of the capital, which has been keeping wild
-  yokai out of the area far more effectively than the official shrine network. The shrine authorities
-  don't know what he's doing, but they've noticed the anomaly — the merchant district has unusually low
-  yokai activity, and they're sending an investigator. If they discover his lanterns contain unauthorized
-  ofuda, he'll be arrested and the mini-wards will collapse.
+gm_notes: Ryo makes paper lanterns using fragments of old ofuda — spirit wards that
+  were supposed to be ritually destroyed when their shrines were decommissioned. He's
+  been rescuing them from demolition sites and weaving the paper into his lanterns.
+  His lanterns create small warded zones wherever they hang — a merchant's stall with
+  a Ryo lantern is subtly protected from yokai intrusion. He's accidentally created
+  a patchwork of mini-wards throughout the merchant district of the capital, which
+  has been keeping wild yokai out of the area far more effectively than the official
+  shrine network. The shrine authorities don't know what he's doing, but they've noticed
+  the anomaly — the merchant district has unusually low yokai activity, and they're
+  sending an investigator. If they discover his lanterns contain unauthorized ofuda,
+  he'll be arrested and the mini-wards will collapse.
 aliases:
 - Ryo
 race: Human
@@ -40,26 +42,32 @@ currency:
   gold: 4
   silver: 12
   copper: 13
-appearance: He wears a craftsman's apron over a simple kimono, his hands nimble with bamboo and paper.
-  He works surrounded by half-finished lantern frames in every color. He is quiet, meticulous, and has
-  a habit of checking where his lanterns are hung when he walks the market street at night.
-biography: Ryo makes paper lanterns using fragments of old ofuda — spirit wards that were supposed to
-  be ritually destroyed when their shrines were decommissioned. He's been rescuing them from demolition
-  sites and weaving the paper into his lanterns. His lanterns create small warded zones wherever they
-  hang — a merchant's stall with a Ryo lantern is subtly protected from yokai intrusion. He's accidentally
-  created a patchwork of mini-wards throughout the merchant district of the capital, which has been keeping
-  wild yokai out of the area far more effectively than the official shrine network. The shrine authorities
-  don't know what he's doing, but they've noticed the anomaly — the merchant district has unusually low
-  yokai activity, and they're sending an investigator. If they discover his lanterns contain unauthorized
-  ofuda, he'll be arrested and the mini-wards will collapse.
+appearance: He wears a craftsman's apron over a simple kimono, his hands nimble with
+  bamboo and paper. He works surrounded by half-finished lantern frames in every color.
+  He is quiet, meticulous, and has a habit of checking where his lanterns are hung
+  when he walks the market street at night.
+biography: Ryo makes paper lanterns using fragments of old ofuda — spirit wards that
+  were supposed to be ritually destroyed when their shrines were decommissioned. He's
+  been rescuing them from demolition sites and weaving the paper into his lanterns.
+  His lanterns create small warded zones wherever they hang — a merchant's stall with
+  a Ryo lantern is subtly protected from yokai intrusion. He's accidentally created
+  a patchwork of mini-wards throughout the merchant district of the capital, which
+  has been keeping wild yokai out of the area far more effectively than the official
+  shrine network. The shrine authorities don't know what he's doing, but they've noticed
+  the anomaly — the merchant district has unusually low yokai activity, and they're
+  sending an investigator. If they discover his lanterns contain unauthorized ofuda,
+  he'll be arrested and the mini-wards will collapse.
 personality: Precise and detail-oriented, reserved and soft-spoken, strict and disciplined.
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 equipment:
-  underwear: []
+  underwear:
+  - item:mens-hadajuban
+  - item:mens-etchu-fundoshi
   clothing:
   - item:hemp-work-kosode
+  - item:wrapped-work-apron
   armor: []
   hands:
     left: null
@@ -70,8 +78,15 @@ visual:
   body_build: medium, precise in movement, average chest
   hair: black, in a simple topknot
   eyes: dark brown, focused
-  distinctive_features: paper-cut calluses on both thumbs and a faint glue stain on the left forearm
-  prompt: ''
+  distinctive_features: paper-cut calluses on both thumbs and a faint glue stain on
+    the left forearm
+  prompt: 1boy, solo, young adult man, medium, precise in movement, average chest,
+    fair porcelain beige skin, refined Japanese facial features, dark almond eyes,
+    dark brown eyes, black, in a simple topknot, indigo hemp work kosode, portrait,
+    upper body, looking at viewer, soft lighting
+  skin: fair porcelain beige
+  height: 5'7"
+  face: refined Japanese facial features, dark almond eyes
 image:
   url: ''
   focalPoint:
@@ -79,19 +94,24 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:ashikara-shogunate
 desires:
-- To protect the merchant district from yokai through his craft, one lantern at a time.
-- To stay ahead of the shrine investigator who's asking why the district has unusually low spirit activity.
+- To protect the merchant district from yokai through his craft, one lantern at a
+  time.
+- To stay ahead of the shrine investigator who's asking why the district has unusually
+  low spirit activity.
 fears_or_limits:
-- Using decommissioned ofuda in craftwork is a shogunate crime — unauthorized manipulation of shrine materials.
-- If his lanterns are confiscated, the mini-ward network collapses and the merchant district becomes vulnerable
-  overnight.
+- Using decommissioned ofuda in craftwork is a shogunate crime — unauthorized manipulation
+  of shrine materials.
+- If his lanterns are confiscated, the mini-ward network collapses and the merchant
+  district becomes vulnerable overnight.
 current_state:
   location: location:tsuki-no-miyako
+memories: []
+momentos: []
 purview: []
 ---
 

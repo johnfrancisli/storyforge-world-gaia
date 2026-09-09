@@ -1,11 +1,12 @@
 ---
 id: character:mashiro-tsubaki
 name: Mashiro Tsubaki
-gm_notes: 'Tsubaki discovered a kiln in the hills above Haru''s Shrine Town that fires itself — a tengu
-  kiln, built centuries ago. The pottery it produces has strange properties: tea poured in a tengu-kiln
-  cup stays warm for hours, and food served on its plates doesn''t spoil. She''s been selling them as
-  ordinary wares, terrified someone will trace the quality back to the source. A merchant from the capital
-  (character:ishikawa-goro) has been buying her entire stock and asking to see her kiln.'
+gm_notes: 'Tsubaki discovered a kiln in the hills above Haru''s Shrine Town that fires
+  itself — a tengu kiln, built centuries ago. The pottery it produces has strange
+  properties: tea poured in a tengu-kiln cup stays warm for hours, and food served
+  on its plates doesn''t spoil. She''s been selling them as ordinary wares, terrified
+  someone will trace the quality back to the source. A merchant from the capital (character:ishikawa-goro)
+  has been buying her entire stock and asking to see her kiln.'
 aliases:
 - Tsubaki
 race: Human
@@ -36,21 +37,25 @@ currency:
   gold: 4
   silver: 4
   copper: 6
-appearance: She wears a clay-spattered apron and keeps her hair tied under a cloth. Her hands are always
-  dusted with kaolin. She speaks quickly when anyone asks about her firing techniques and changes the
-  subject to glazes.
-biography: 'Tsubaki discovered a kiln in the hills above Haru''s Shrine Town that fires itself — a tengu
-  kiln, built centuries ago. The pottery it produces has strange properties: tea poured in a tengu-kiln
-  cup stays warm for hours, and food served on its plates doesn''t spoil. She''s been selling them as
-  ordinary wares, terrified someone will trace the quality back to the source. A merchant from the capital
-  (character:ishikawa-goro) has been buying her entire stock and asking to see her kiln.'
+appearance: She wears a clay-spattered apron and keeps her hair tied under a cloth.
+  Her hands are always dusted with kaolin. She speaks quickly when anyone asks about
+  her firing techniques and changes the subject to glazes.
+biography: 'Tsubaki discovered a kiln in the hills above Haru''s Shrine Town that
+  fires itself — a tengu kiln, built centuries ago. The pottery it produces has strange
+  properties: tea poured in a tengu-kiln cup stays warm for hours, and food served
+  on its plates doesn''t spoil. She''s been selling them as ordinary wares, terrified
+  someone will trace the quality back to the source. A merchant from the capital (character:ishikawa-goro)
+  has been buying her entire stock and asking to see her kiln.'
 personality: Guarded and cautious with trust, generous and welcoming.
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
-- I will not rest until I keep the tengu kiln secret and continue making pottery that people cherish.
+- I will not rest until I keep the tengu kiln secret and continue making pottery that
+  people cherish.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-hadajuban
+  - item:womens-koshimaki
   clothing:
   - item:hemp-work-kosode
   - item:womens-maekake-work-apron
@@ -64,8 +69,16 @@ visual:
   body_build: compact, strong-wristed, medium breasts
   hair: black, cropped short for practicality
   eyes: dark brown
-  distinctive_features: a pale clay-colored callus on the right thumb from years of wheel work
-  prompt: ''
+  distinctive_features: a pale clay-colored callus on the right thumb from years of
+    wheel work
+  prompt: 1girl, solo, young adult woman, compact, strong-wristed, medium breasts,
+    warm beige skin, traditional Japanese facial features, dark brown eyes, black,
+    cropped short for practicality hair, a pale clay-colored callus on the right thumb,
+    indigo hemp work kosode, maekake work apron, portrait, upper body, looking at
+    viewer, soft lighting
+  skin: warm beige
+  height: 5'2"
+  face: traditional Japanese facial features
 image:
   url: ''
   focalPoint:
@@ -73,8 +86,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:tsu-merchant-guild
 desires:
@@ -82,10 +95,12 @@ desires:
 - To understand why the kiln fires itself and whether it will ever stop.
 fears_or_limits:
 - If the tengu discover a human is using their kiln, the consequences could be severe.
-- If shrine authorities learn the pottery has spiritual properties, they may confiscate her work as shrine
-  artifacts.
+- If shrine authorities learn the pottery has spiritual properties, they may confiscate
+  her work as shrine artifacts.
 current_state:
   location: location:haru-shrine-town
+memories: []
+momentos: []
 purview: []
 ---
 

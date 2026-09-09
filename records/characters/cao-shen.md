@@ -1,10 +1,11 @@
 ---
 id: character:cao-shen
 name: Cao Shen
-gm_notes: Cao Shen is not as healthy as he appears. He has been taking chi-enhancing elixirs that are
-  quietly damaging his heart. His court physician knows but has been silenced. Cao Shen's strategic brilliance
-  is genuine, but his timeline is shorter than anyone realizes. He wants to reunify Sangguo before he
-  dies, and he is running out of time.
+gm_notes: Cao Shen is not as healthy as he appears. He has been taking chi-enhancing
+  elixirs that are quietly damaging his heart. His court physician knows but has been
+  silenced. Cao Shen's strategic brilliance is genuine, but his timeline is shorter
+  than anyone realizes. He wants to reunify Sangguo before he dies, and he is running
+  out of time.
 aliases:
 - Warlord Cao Shen
 race: Human
@@ -35,19 +36,23 @@ currency:
   gold: 118
   silver: 98
   copper: 64
-appearance: A lean man in dark robes, moving with the economy of a martial artist who has nothing to prove.
-  His beard is trimmed short, his hair is bound in a topknot, and he wears a jade seal at his belt. He
-  watches more than he speaks.
-biography: Cao Shen is not as healthy as he appears. He has been taking chi-enhancing elixirs that are
-  quietly damaging his heart. His court physician knows but has been silenced. Cao Shen's strategic brilliance
-  is genuine, but his timeline is shorter than anyone realizes. He wants to reunify Sangguo before he
-  dies, and he is running out of time.
-personality: Reserved and soft-spoken, steadfast and devoted, driven and relentless in pursuit of goals.
+appearance: A lean man in dark robes, moving with the economy of a martial artist
+  who has nothing to prove. His beard is trimmed short, his hair is bound in a topknot,
+  and he wears a jade seal at his belt. He watches more than he speaks.
+biography: Cao Shen is not as healthy as he appears. He has been taking chi-enhancing
+  elixirs that are quietly damaging his heart. His court physician knows but has been
+  silenced. Cao Shen's strategic brilliance is genuine, but his timeline is shorter
+  than anyone realizes. He wants to reunify Sangguo before he dies, and he is running
+  out of time.
+personality: Reserved and soft-spoken, steadfast and devoted, driven and relentless
+  in pursuit of goals.
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 equipment:
-  underwear: []
+  underwear:
+  - item:mens-inner-yi
+  - item:mens-short-underdrawers
   clothing:
   - item:straight-hem-shenyi
   armor: []
@@ -61,8 +66,16 @@ visual:
   body_build: lean, wiry, narrow chest
   hair: black, greying, bound in a topknot
   eyes: dark brown, sharp
-  distinctive_features: a thin scar along the jawline from an assassin's blade years ago
-  prompt: ''
+  distinctive_features: a thin scar along the jawline from an assassin's blade years
+    ago
+  prompt: 1boy, solo, young adult man, lean, wiry, narrow chest, light beige skin,
+    strong Chinese facial features, dark brown eyes, black, greying, bound in a topknot,
+    a thin scar along the jawline from an assassin's blade years ago, straight-hem
+    shenyi robe, wide embroidered sash, carved jade seal at sash, portrait, upper
+    body, looking at viewer, soft lighting
+  skin: light beige
+  height: 5'10"
+  face: strong Chinese facial features
 image:
   url: ''
   focalPoint:
@@ -70,17 +83,22 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:jin-state
 desires:
-- To reunify Sangguo under Jin's banner and end the three-state division within his lifetime.
+- To reunify Sangguo under Jin's banner and end the three-state division within his
+  lifetime.
 fears_or_limits:
-- His health is failing faster than anyone knows. His best general, Lu Fang, is loyal but ambitious, and
-  Cao Shen is not certain the loyalty outlasts him.
+- His health is failing faster than anyone knows. His best general, Lu Fang, is loyal
+  but ambitious, and Cao Shen is not certain the loyalty outlasts him.
 current_state:
   location: location:jin-an
+memories:
+- campaign-event/the-steaming-cup-at-the-tea-conclave
+momentos:
+- the-paper-boat-of-plain-words
 purview: []
 ---
 

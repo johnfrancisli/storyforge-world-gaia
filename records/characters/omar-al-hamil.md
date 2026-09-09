@@ -1,15 +1,17 @@
 ---
 id: character:omar-al-hamil
 name: Omar al-Hamil
-gm_notes: 'A male porter who works the spice market docks, carrying crates and bales for merchants. Omar
-  is developmentally disabled — he does not speak and struggles with complex tasks — but he has an extraordinary
-  gift: djinn are visible to him in their true forms, even when they are disguised as humans. He cannot
-  explain what he sees, but he reacts with fear or calm to specific people in the market, and the other
-  porters have learned that when Omar flinches, the person he flinched at is a djinn in disguise. A binding
-  family has noticed this and has been trying to hire Omar as a ''djinn detector,'' but his elderly mother
-  refuses, knowing the binding families would use him as a tool. The binding family has been pressuring
-  the mother with offers and veiled threats, and Omar has begun drawing pictures of what he sees — disturbing
-  images of fire-creatures wearing human skin.'
+gm_notes: 'A male porter who works the spice market docks, carrying crates and bales
+  for merchants. Omar is developmentally disabled — he does not speak and struggles
+  with complex tasks — but he has an extraordinary gift: djinn are visible to him
+  in their true forms, even when they are disguised as humans. He cannot explain what
+  he sees, but he reacts with fear or calm to specific people in the market, and the
+  other porters have learned that when Omar flinches, the person he flinched at is
+  a djinn in disguise. A binding family has noticed this and has been trying to hire
+  Omar as a ''djinn detector,'' but his elderly mother refuses, knowing the binding
+  families would use him as a tool. The binding family has been pressuring the mother
+  with offers and veiled threats, and Omar has begun drawing pictures of what he sees
+  — disturbing images of fire-creatures wearing human skin.'
 aliases: []
 race: Human
 gender: Male
@@ -39,25 +41,31 @@ currency:
   gold: 4
   silver: 22
   copper: 9
-appearance: Large and gentle-eyed in a porter's rough tunic and head wrap, he carries crates with careful,
-  deliberate movements. He watches the market with an alertness that surprises those who assume he is
-  simple. He often has charcoal on his fingers from drawing.
-biography: 'A male porter who works the spice market docks, carrying crates and bales for merchants. Omar
-  is developmentally disabled — he does not speak and struggles with complex tasks — but he has an extraordinary
-  gift: djinn are visible to him in their true forms, even when they are disguised as humans. He cannot
-  explain what he sees, but he reacts with fear or calm to specific people in the market, and the other
-  porters have learned that when Omar flinches, the person he flinched at is a djinn in disguise. A binding
-  family has noticed this and has been trying to hire Omar as a ''djinn detector,'' but his elderly mother
-  refuses, knowing the binding families would use him as a tool. The binding family has been pressuring
-  the mother with offers and veiled threats, and Omar has begun drawing pictures of what he sees — disturbing
-  images of fire-creatures wearing human skin.'
-personality: Precise and detail-oriented, composed and even-tempered, compassionate and tender-hearted.
+appearance: Large and gentle-eyed in a porter's rough tunic and head wrap, he carries
+  crates with careful, deliberate movements. He watches the market with an alertness
+  that surprises those who assume he is simple. He often has charcoal on his fingers
+  from drawing.
+biography: 'A male porter who works the spice market docks, carrying crates and bales
+  for merchants. Omar is developmentally disabled — he does not speak and struggles
+  with complex tasks — but he has an extraordinary gift: djinn are visible to him
+  in their true forms, even when they are disguised as humans. He cannot explain what
+  he sees, but he reacts with fear or calm to specific people in the market, and the
+  other porters have learned that when Omar flinches, the person he flinched at is
+  a djinn in disguise. A binding family has noticed this and has been trying to hire
+  Omar as a ''djinn detector,'' but his elderly mother refuses, knowing the binding
+  families would use him as a tool. The binding family has been pressuring the mother
+  with offers and veiled threats, and Omar has begun drawing pictures of what he sees
+  — disturbing images of fire-creatures wearing human skin.'
+personality: Precise and detail-oriented, composed and even-tempered, compassionate
+  and tender-hearted.
 key_phrases:
 - The future is not fixed. It is inclined.
 - I see patterns, not certainties. Do not confuse the two.
 - I will not rest until I protect me mother from the binding family's pressure.
 equipment:
-  underwear: []
+  underwear:
+  - item:mens-light-linen-undershirt
+  - item:mens-cotton-loin-underwrap
   clothing:
   - item:knee-length-pirahan
   - item:bound-ankle-desert-trousers
@@ -74,7 +82,15 @@ visual:
   distinctive_features:
   - a callus ridge across both shoulders from years of carrying crates
   - permanent charcoal staining on the right hand and fingertips
-  prompt: ''
+  prompt: 1boy, solo, young adult man, large and muscular, gentle despite his size,
+    broad chest, warm bronze-brown skin, striking West Asian facial features, strong
+    dark brows, dark brown eyes, black, short, under a head wrap hair, a callus ridge
+    across both shoulders, permanent charcoal staining on the right hand and fingertips,
+    knee-length pirahan shirt, bound-ankle desert trousers, portrait, upper body,
+    looking at viewer, soft lighting
+  skin: warm bronze-brown
+  height: 5'9"
+  face: striking West Asian facial features, strong dark brows
 image:
   url: ''
   focalPoint:
@@ -82,8 +98,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:alk-spice-houses
 desires:
@@ -94,6 +110,8 @@ fears_or_limits:
 - That the djinn he draws will realize he can see them and come for him
 current_state:
   location: location:zaffar
+memories: []
+momentos: []
 purview: []
 ---
 

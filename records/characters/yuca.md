@@ -1,17 +1,20 @@
 ---
 id: character:yuca
 name: Yuca
-gm_notes: 'A gardener who tends the floating gardens of the Verdania river-cities and who has an almost
-  magical ability to grow plants — any cutting she touches takes root. The secret is that Yuca is not
-  fully human: she is the daughter of a human gardener and a green-spirit, a plant-entity that takes human
-  form once a generation to seed its lineage into the world. Yuca does not know her father''s true nature;
-  she only knows she was born with green veins that show through her skin and that plants lean toward
-  her. The green-spirit has begun to manifest near her garden, watching her from the canopy, and Yuca
-  has started hearing a voice in the rustling leaves that calls her ''daughter.'' She is torn between
-  wonder and terror — the green-spirit intends to take her into the forest to become part of it permanently,
-  and the process has already begun: her toes have started putting out fine root-hairs in damp soil.'
+gm_notes: 'A gardener who tends the floating gardens of the Verdania river-cities
+  and who has an almost magical ability to grow plants — any cutting she touches takes
+  root. The secret is that Yuca is not fully human: she is the daughter of a human
+  gardener and a green-spirit, a plant-entity that takes human form once a generation
+  to seed its lineage into the world. Yuca does not know her father''s true nature;
+  she only knows she was born with green veins that show through her skin and that
+  plants lean toward her. The green-spirit has begun to manifest near her garden,
+  watching her from the canopy, and Yuca has started hearing a voice in the rustling
+  leaves that calls her ''daughter.'' She is torn between wonder and terror — the
+  green-spirit intends to take her into the forest to become part of it permanently,
+  and the process has already begun: her toes have started putting out fine root-hairs
+  in damp soil.'
 aliases: []
-race: Human
+race: Cat-folk
 gender: Female
 age: 31
 heritage: Verdanian
@@ -39,24 +42,34 @@ currency:
   gold: 3
   silver: 10
   copper: 16
-appearance: Earth-toned and sun-warm, always slightly dirt-smudged. Wears a simple wrap skirt and nothing
-  on her feet. Surrounded by improbably lush greenery.
-biography: 'A gardener who tends the floating gardens of the Verdania river-cities and who has an almost
-  magical ability to grow plants — any cutting she touches takes root. The secret is that Yuca is not
-  fully human: she is the daughter of a human gardener and a green-spirit, a plant-entity that takes human
-  form once a generation to seed its lineage into the world. Yuca does not know her father''s true nature;
-  she only knows she was born with green veins that show through her skin and that plants lean toward
-  her. The green-spirit has begun to manifest near her garden, watching her from the canopy, and Yuca
-  has started hearing a voice in the rustling leaves that calls her ''daughter.'' She is torn between
-  wonder and terror — the green-spirit intends to take her into the forest to become part of it permanently,
-  and the process has already begun: her toes have started putting out fine root-hairs in damp soil.'
-personality: Wary and watchful, guarded and cautious with trust, blunt and rough-spoken.
+appearance: A tranquil forest gardener with relaxed cat ears and a lazily curling
+  feline tail. Her copper-brown skin is smooth human skin without fur, paired with
+  a cute, peaceful countenance. Earth-toned and sun-warm, always slightly dirt-smudged.
+  Wears a simple wrap skirt and nothing on her feet. Surrounded by improbably lush
+  greenery.
+biography: 'A gardener who tends the floating gardens of the Verdania river-cities
+  and who has an almost magical ability to grow plants — any cutting she touches takes
+  root. The secret is that Yuca is not fully human: she is the daughter of a human
+  gardener and a green-spirit, a plant-entity that takes human form once a generation
+  to seed its lineage into the world. Yuca does not know her father''s true nature;
+  she only knows she was born with green veins that show through her skin and that
+  plants lean toward her. The green-spirit has begun to manifest near her garden,
+  watching her from the canopy, and Yuca has started hearing a voice in the rustling
+  leaves that calls her ''daughter.'' She is torn between wonder and terror — the
+  green-spirit intends to take her into the forest to become part of it permanently,
+  and the process has already begun: her toes have started putting out fine root-hairs
+  in damp soil.'
+personality: Content, observant, and gentle; loves curling up for midday naps in warm
+  sunbeams filtering through the broadleaf canopy. Wary and watchful, guarded and
+  cautious with trust, blunt and rough-spoken.
 key_phrases:
 - A garden is a conversation with patience.
 - Every plant has a lesson, if you are willing to learn it slowly.
 - I will not rest until I understand what she is and why plants respond to me.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-softbark-chest-wrap
+  - item:womens-inner-hip-wrap
   clothing:
   - item:softbark-wrap-skirt
   armor: []
@@ -70,9 +83,18 @@ visual:
   hair: black, loose, often tangled with leaves and small flowers
   eyes: deep green-flecked brown
   distinctive_features:
-  - faint greenish veining visible at the wrists and ankles
-  - small vine-like calluses on the palms that resemble bark
-  prompt: ''
+  - relaxed cat ears
+  - curling feline tail
+  - sun-seeking habit
+  prompt: 1girl, solo, adult woman, cat-folk, cat ears, cat tail, slit pupils, cute
+    face, solid and grounded, strong from garden work, large breasts, warm copper-brown
+    skin, cute, tranquil feline facial features, deep green-flecked brown eyes, black,
+    loose, often tangled with leaves and small flowers hair, relaxed cat ears, curling
+    feline tail, softbark wrap skirt, portrait, upper body, looking at viewer, soft
+    lighting
+  skin: warm copper-brown
+  height: 5'1"
+  face: cute, tranquil feline facial features
 image:
   url: ''
   focalPoint:
@@ -80,8 +102,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:ver-shaman-circle
 desires:
@@ -92,6 +114,8 @@ fears_or_limits:
 - That the green-spirit will take her against her will
 current_state:
   location: location:iara
+memories: []
+momentos: []
 purview: []
 ---
 

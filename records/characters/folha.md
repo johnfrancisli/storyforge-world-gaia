@@ -1,16 +1,17 @@
 ---
 id: character:folha
 name: Folha
-gm_notes: 'A ten-year-old human girl who is the happiest child in Iara and who has an invisible friend
-  she calls ''the Gentle One.'' The Gentle One is real — it is a spirit of the shallow water that has
-  attached itself to Folha after she fed it fruit near the riverbank. The spirit is mostly benign but
-  is slowly drawing vitality from her the way a lamp draws oil: Folha has been sleeping more than usual
-  and bruising easily, though she is too young to connect the symptoms. Her mother is worried but has
-  been told by the healer that it is a childhood ailment. Folha is the only one who can see and hear the
-  spirit, and she loves it, which makes the situation doubly dangerous — she will not want it to leave
-  even if someone identifies it.'
+gm_notes: 'A ten-year-old human girl who is the happiest child in Iara and who has
+  an invisible friend she calls ''the Gentle One.'' The Gentle One is real — it is
+  a spirit of the shallow water that has attached itself to Folha after she fed it
+  fruit near the riverbank. The spirit is mostly benign but is slowly drawing vitality
+  from her the way a lamp draws oil: Folha has been sleeping more than usual and bruising
+  easily, though she is too young to connect the symptoms. Her mother is worried but
+  has been told by the healer that it is a childhood ailment. Folha is the only one
+  who can see and hear the spirit, and she loves it, which makes the situation doubly
+  dangerous — she will not want it to leave even if someone identifies it.'
 aliases: []
-race: Elf
+race: Human
 gender: Female
 age: 10
 heritage: Verdanian
@@ -39,23 +40,26 @@ currency:
   gold: 0
   silver: 0
   copper: 2
-appearance: Small, bright-eyed, and constantly in motion. Barefoot, simple wrap, hair wild. Carries a
-  woven doll made of palm leaves.
-biography: 'A ten-year-old human girl who is the happiest child in Iara and who has an invisible friend
-  she calls ''the Gentle One.'' The Gentle One is real — it is a spirit of the shallow water that has
-  attached itself to Folha after she fed it fruit near the riverbank. The spirit is mostly benign but
-  is slowly drawing vitality from her the way a lamp draws oil: Folha has been sleeping more than usual
-  and bruising easily, though she is too young to connect the symptoms. Her mother is worried but has
-  been told by the healer that it is a childhood ailment. Folha is the only one who can see and hear the
-  spirit, and she loves it, which makes the situation doubly dangerous — she will not want it to leave
-  even if someone identifies it.'
+appearance: Small, bright-eyed, and constantly in motion. Barefoot, simple wrap, hair
+  wild. Carries a woven doll made of palm leaves.
+biography: 'A ten-year-old human girl who is the happiest child in Iara and who has
+  an invisible friend she calls ''the Gentle One.'' The Gentle One is real — it is
+  a spirit of the shallow water that has attached itself to Folha after she fed it
+  fruit near the riverbank. The spirit is mostly benign but is slowly drawing vitality
+  from her the way a lamp draws oil: Folha has been sleeping more than usual and bruising
+  easily, though she is too young to connect the symptoms. Her mother is worried but
+  has been told by the healer that it is a childhood ailment. Folha is the only one
+  who can see and hear the spirit, and she loves it, which makes the situation doubly
+  dangerous — she will not want it to leave even if someone identifies it.'
 personality: Warm and optimistic, compassionate and tender-hearted, wary and watchful.
 key_phrases:
 - I'm not afraid. I'm just... careful.
 - When you're small, you learn to notice things.
 - I will not rest until I keep playing with the gentle one forever.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-softbark-chest-wrap
+  - item:womens-inner-hip-wrap
   clothing:
   - item:sleeveless-barkcloth-tunic
   - item:softbark-wrap-skirt
@@ -72,7 +76,14 @@ visual:
   distinctive_features:
   - a gap-toothed smile
   - faint, unexplained bruising on both forearms
-  prompt: ''
+  prompt: 1girl, solo, young girl, small and wiry, all elbows and knees, warm copper-brown
+    skin, Indigenous Amazonian facial features, high cheekbones, bright brown eyes,
+    black, wild, untamed hair, a gap-toothed smile, faint, unexplained bruising on
+    both forearms, sleeveless barkcloth tunic, softbark wrap skirt, portrait, upper
+    body, looking at viewer, soft lighting
+  skin: warm copper-brown
+  height: 4'3"
+  face: Indigenous Amazonian facial features, high cheekbones
 image:
   url: ''
   focalPoint:
@@ -80,8 +91,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:ver-shaman-circle
 desires:
@@ -92,6 +103,8 @@ fears_or_limits:
 - The dark water under the stilt-platforms at night
 current_state:
   location: location:iara
+memories: []
+momentos: []
 purview: []
 ---
 

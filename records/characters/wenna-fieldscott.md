@@ -1,11 +1,12 @@
 ---
 id: character:wenna-fieldscott
 name: Wenna Fieldscott
-gm_notes: Wenna is a shepherdess who tends her flocks on the high meadows near Dragonrest. She has found
-  dragon scales shed in the mountain passes — fresh ones — and has been quietly collecting and selling
-  them to an alchemist in Crownhaven. Dragon scale trade is strictly controlled by the Dragon Order, and
-  selling them illegally carries severe punishment. She needs the coin to pay off her late husband's gambling
-  debts to a dangerous moneylender who has threatened her children.
+gm_notes: Wenna is a shepherdess who tends her flocks on the high meadows near Dragonrest.
+  She has found dragon scales shed in the mountain passes — fresh ones — and has been
+  quietly collecting and selling them to an alchemist in Crownhaven. Dragon scale
+  trade is strictly controlled by the Dragon Order, and selling them illegally carries
+  severe punishment. She needs the coin to pay off her late husband's gambling debts
+  to a dangerous moneylender who has threatened her children.
 aliases: []
 race: Human
 gender: Female
@@ -35,19 +36,23 @@ currency:
   gold: 1
   silver: 11
   copper: 13
-appearance: Sun-weathered and practical, Wenna wears a woollen shawl and rough boots. A shepherd's crook
-  is always in her hand, and she carries a slingshot tucked in her belt.
-biography: Wenna is a shepherdess who tends her flocks on the high meadows near Dragonrest. She has found
-  dragon scales shed in the mountain passes — fresh ones — and has been quietly collecting and selling
-  them to an alchemist in Crownhaven. Dragon scale trade is strictly controlled by the Dragon Order, and
-  selling them illegally carries severe punishment. She needs the coin to pay off her late husband's gambling
-  debts to a dangerous moneylender who has threatened her children.
+appearance: Sun-weathered and practical, Wenna wears a woollen shawl and rough boots.
+  A shepherd's crook is always in her hand, and she carries a slingshot tucked in
+  her belt.
+biography: Wenna is a shepherdess who tends her flocks on the high meadows near Dragonrest.
+  She has found dragon scales shed in the mountain passes — fresh ones — and has been
+  quietly collecting and selling them to an alchemist in Crownhaven. Dragon scale
+  trade is strictly controlled by the Dragon Order, and selling them illegally carries
+  severe punishment. She needs the coin to pay off her late husband's gambling debts
+  to a dangerous moneylender who has threatened her children.
 personality: Reserved and soft-spoken, strict and disciplined, blunt and rough-spoken.
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-linen-chemise
+  - item:womens-linen-underbreeches
   clothing:
   - item:linen-work-tunic
   - item:wool-trousers
@@ -61,8 +66,16 @@ visual:
   body_build: lean and wiry from years on the hills, medium breasts
   hair: wheat blonde, sun-bleached, worn in a single braid
   eyes: weathered green
-  distinctive_features: freckles across nose and shoulders, a crooked left little finger (healed badly)
-  prompt: ''
+  distinctive_features: freckles across nose and shoulders, a crooked left little
+    finger (healed badly)
+  prompt: 1girl, solo, adult woman, lean and wiry from years on the hills, medium
+    breasts, light beige skin, classic European facial features, weathered green eyes,
+    wheat blonde, sun-bleached, worn in a single braid hair, freckles across nose
+    and shoulders, a crooked left little finger, linen work tunic, leather belt, wool
+    trousers, portrait, upper body, looking at viewer, soft lighting
+  skin: light beige
+  height: 5'5"
+  face: classic European facial features
 image:
   url: ''
   focalPoint:
@@ -70,8 +83,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:val-merchant-guild
 desires:
@@ -82,6 +95,8 @@ fears_or_limits:
 - that the moneylender will make good on his threats before she can pay
 current_state:
   location: location:dragonrest
+memories: []
+momentos: []
 purview: []
 ---
 

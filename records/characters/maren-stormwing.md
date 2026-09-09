@@ -1,13 +1,14 @@
 ---
 id: character:maren-stormwing
 name: Maren Stormwing
-gm_notes: 'Maren is a squire to a Dragon Order knight who was killed in a skirmish three weeks ago. Her
-  knight died before completing her squire training, leaving Maren in limbo — not a knight, but too trained
-  to be a civilian. What no one knows is that her knight''s dying words were not a farewell but a warning:
-  ''The scale is a lie. The scale in the vault is not the true scale.'' Maren does not know what scale
-  or vault her knight meant, but she believes it refers to the Dragon Heart Scale — the sacred relic that
-  the Order''s oath of bonding is sworn upon. If the relic has been replaced with a forgery, every oath
-  sworn upon it may be invalid.'
+gm_notes: 'Maren is a squire to a Dragon Order knight who was killed in a skirmish
+  three weeks ago. Her knight died before completing her squire training, leaving
+  Maren in limbo — not a knight, but too trained to be a civilian. What no one knows
+  is that her knight''s dying words were not a farewell but a warning: ''The scale
+  is a lie. The scale in the vault is not the true scale.'' Maren does not know what
+  scale or vault her knight meant, but she believes it refers to the Dragon Heart
+  Scale — the sacred relic that the Order''s oath of bonding is sworn upon. If the
+  relic has been replaced with a forgery, every oath sworn upon it may be invalid.'
 aliases: []
 race: Human
 gender: Female
@@ -37,23 +38,28 @@ currency:
   gold: 5
   silver: 2
   copper: 12
-appearance: Young and determined, Maren wears a squire's padded tunic and carries her late knight's sword,
-  which is slightly too large for her. She has the posture of someone who refuses to grieve until the
-  work is done.
-biography: 'Maren is a squire to a Dragon Order knight who was killed in a skirmish three weeks ago. Her
-  knight died before completing her squire training, leaving Maren in limbo — not a knight, but too trained
-  to be a civilian. What no one knows is that her knight''s dying words were not a farewell but a warning:
-  ''The scale is a lie. The scale in the vault is not the true scale.'' Maren does not know what scale
-  or vault her knight meant, but she believes it refers to the Dragon Heart Scale — the sacred relic that
-  the Order''s oath of bonding is sworn upon. If the relic has been replaced with a forgery, every oath
-  sworn upon it may be invalid.'
-personality: Tired and carrying a heavy burden, driven and relentless in pursuit of goals.
+appearance: Young and determined, Maren wears a squire's padded tunic and carries
+  her late knight's sword, which is slightly too large for her. She has the posture
+  of someone who refuses to grieve until the work is done.
+biography: 'Maren is a squire to a Dragon Order knight who was killed in a skirmish
+  three weeks ago. Her knight died before completing her squire training, leaving
+  Maren in limbo — not a knight, but too trained to be a civilian. What no one knows
+  is that her knight''s dying words were not a farewell but a warning: ''The scale
+  is a lie. The scale in the vault is not the true scale.'' Maren does not know what
+  scale or vault her knight meant, but she believes it refers to the Dragon Heart
+  Scale — the sacred relic that the Order''s oath of bonding is sworn upon. If the
+  relic has been replaced with a forgery, every oath sworn upon it may be invalid.'
+personality: Tired and carrying a heavy burden, driven and relentless in pursuit of
+  goals.
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
-- I will not rest until I understand me knight's final warning about the dragon heart scale.
+- I will not rest until I understand me knight's final warning about the dragon heart
+  scale.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-fitted-underbodice
+  - item:womens-linen-underbreeches
   clothing:
   - item:linen-work-tunic
   - item:wool-trousers
@@ -67,9 +73,16 @@ visual:
   body_build: athletic and still growing
   hair: black, cut short in the squire's style
   eyes: dark grey, fierce
-  distinctive_features: a squire's brand on her right shoulder (Dragon Order mark), a healing cut on her
-    left cheek from the skirmish that killed her knight, calloused palms from sword training
-  prompt: ''
+  distinctive_features: a squire's brand on her right shoulder (Dragon Order mark),
+    a healing cut on her left cheek from the skirmish that killed her knight, calloused
+    palms from sword training
+  prompt: 1girl, solo, young adult woman, athletic and still growing, medium breasts,
+    light beige skin, classic European facial features, dark grey eyes, black, cut
+    short in the squire's style hair, linen work tunic, leather belt, wool trousers,
+    portrait, upper body, looking at viewer, soft lighting
+  skin: light beige
+  height: 5'5"
+  face: classic European facial features
 image:
   url: ''
   focalPoint:
@@ -77,8 +90,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:dragon-order
 desires:
@@ -89,6 +102,8 @@ fears_or_limits:
 - that asking questions about the vault will mark her as a traitor to the Order
 current_state:
   location: location:dragonrest
+memories: []
+momentos: []
 purview: []
 ---
 

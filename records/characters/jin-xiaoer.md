@@ -1,15 +1,16 @@
 ---
 id: character:jin-xiaoer
 name: Jin Xiao'er
-gm_notes: An eight-year-old boy who is the Jin warlord's youngest son and is deliberately kept out of
-  public view because he was born with a lame left leg. The warlord considers him an embarrassment. Jin
-  Xiao'er is quietly brilliant—he has taught himself to read military texts and has an intuitive grasp
-  of chi-flow that none of his siblings possess. He has secretly befriended Niu Caihong, the beggar-chi-master,
-  who has been teaching him basic cultivation through the market well where he sometimes sneaks out to.
-  He does not understand his father's war but has intuited from his readings that the war is built on
-  a lie, though he cannot articulate which lie.
+gm_notes: An eight-year-old boy who is the Jin warlord's youngest son and is deliberately
+  kept out of public view because he was born with a lame left leg. The warlord considers
+  him an embarrassment. Jin Xiao'er is quietly brilliant—he has taught himself to
+  read military texts and has an intuitive grasp of chi-flow that none of his siblings
+  possess. He has secretly befriended Niu Caihong, the beggar-chi-master, who has
+  been teaching him basic cultivation through the market well where he sometimes sneaks
+  out to. He does not understand his father's war but has intuited from his readings
+  that the war is built on a lie, though he cannot articulate which lie.
 aliases: []
-race: Elf
+race: Human
 gender: Male
 age: 8
 heritage: Sangguo (Jin)
@@ -38,22 +39,26 @@ currency:
   gold: 0
   silver: 0
   copper: 1
-appearance: Small and pale, wearing fine but plain Jin court children's clothes. Left leg braced with
-  a wooden support. Always has a scroll.
-biography: An eight-year-old boy who is the Jin warlord's youngest son and is deliberately kept out of
-  public view because he was born with a lame left leg. The warlord considers him an embarrassment. Jin
-  Xiao'er is quietly brilliant—he has taught himself to read military texts and has an intuitive grasp
-  of chi-flow that none of his siblings possess. He has secretly befriended Niu Caihong, the beggar-chi-master,
-  who has been teaching him basic cultivation through the market well where he sometimes sneaks out to.
-  He does not understand his father's war but has intuited from his readings that the war is built on
-  a lie, though he cannot articulate which lie.
-personality: Reserved and soft-spoken, guarded and cautious with trust, blunt and rough-spoken.
+appearance: Small and pale, wearing fine but plain Jin court children's clothes. Left
+  leg braced with a wooden support. Always has a scroll.
+biography: An eight-year-old boy who is the Jin warlord's youngest son and is deliberately
+  kept out of public view because he was born with a lame left leg. The warlord considers
+  him an embarrassment. Jin Xiao'er is quietly brilliant—he has taught himself to
+  read military texts and has an intuitive grasp of chi-flow that none of his siblings
+  possess. He has secretly befriended Niu Caihong, the beggar-chi-master, who has
+  been teaching him basic cultivation through the market well where he sometimes sneaks
+  out to. He does not understand his father's war but has intuited from his readings
+  that the war is built on a lie, though he cannot articulate which lie.
+personality: Reserved and soft-spoken, guarded and cautious with trust, blunt and
+  rough-spoken.
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 - I will not rest until I understand why me father is ashamed of him.
 equipment:
-  underwear: []
+  underwear:
+  - item:mens-inner-yi
+  - item:mens-short-underdrawers
   clothing:
   - item:straight-hem-shenyi
   armor: []
@@ -69,7 +74,13 @@ visual:
   distinctive_features:
   - a wooden leg-brace on the left leg
   - ink stains on the right hand from reading and writing beyond his years
-  prompt: ''
+  prompt: 1boy, solo, young boy, small and slight for his age, weathered tan skin,
+    delicate, elegant Chinese facial features, enormous dark brown eyes, black, in
+    a child's simple topknot, a wooden leg-brace on the left leg, straight-hem shenyi
+    robe, wide embroidered sash, portrait, upper body, looking at viewer, soft lighting
+  skin: weathered tan
+  height: 3'10"
+  face: delicate, elegant Chinese facial features
 image:
   url: ''
   focalPoint:
@@ -77,8 +88,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:jin-state
 desires:
@@ -89,6 +100,9 @@ fears_or_limits:
 - That his lameness means he will never matter to anyone
 current_state:
   location: location:jin-an
+memories:
+- campaign-event/the-steaming-cup-at-the-tea-conclave
+momentos: []
 purview: []
 ---
 

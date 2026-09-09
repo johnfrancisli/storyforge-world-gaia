@@ -1,15 +1,17 @@
 ---
 id: character:paco
 name: Paco
-gm_notes: 'A human builder who constructs and repairs the stilt-platforms that are Iara''s foundation.
-  He is the only person who knows the full structural layout of the city''s supports, having inherited
-  the knowledge from his father, who was the previous master builder. His secret: the original builders
-  of Iara sunk the central support pillars not into the riverbed but into something older — a structure
-  beneath the mud that is not natural. Paco discovered this when replacing a rotted pillar ten years ago:
-  the old pillar''s base had fused with a smooth, warm stone that hummed faintly. He has been maintaining
-  the platforms above this structure without understanding it, and the hum has been getting stronger.
-  He is afraid that the ancient structure beneath Iara is waking up, and that the weight of the city above
-  it might be the only thing keeping it dormant — or the thing most at risk if it stirs.'
+gm_notes: 'A human builder who constructs and repairs the stilt-platforms that are
+  Iara''s foundation. He is the only person who knows the full structural layout of
+  the city''s supports, having inherited the knowledge from his father, who was the
+  previous master builder. His secret: the original builders of Iara sunk the central
+  support pillars not into the riverbed but into something older — a structure beneath
+  the mud that is not natural. Paco discovered this when replacing a rotted pillar
+  ten years ago: the old pillar''s base had fused with a smooth, warm stone that hummed
+  faintly. He has been maintaining the platforms above this structure without understanding
+  it, and the hum has been getting stronger. He is afraid that the ancient structure
+  beneath Iara is waking up, and that the weight of the city above it might be the
+  only thing keeping it dormant — or the thing most at risk if it stirs.'
 aliases: []
 race: Human
 gender: Male
@@ -39,28 +41,33 @@ currency:
   gold: 1
   silver: 14
   copper: 3
-appearance: Broad and capable, with builder's hands and a builder's eye for level and load. Wears a tool
-  belt and a carpenter's apron. Always checking joints and braces.
-biography: 'A human builder who constructs and repairs the stilt-platforms that are Iara''s foundation.
-  He is the only person who knows the full structural layout of the city''s supports, having inherited
-  the knowledge from his father, who was the previous master builder. His secret: the original builders
-  of Iara sunk the central support pillars not into the riverbed but into something older — a structure
-  beneath the mud that is not natural. Paco discovered this when replacing a rotted pillar ten years ago:
-  the old pillar''s base had fused with a smooth, warm stone that hummed faintly. He has been maintaining
-  the platforms above this structure without understanding it, and the hum has been getting stronger.
-  He is afraid that the ancient structure beneath Iara is waking up, and that the weight of the city above
-  it might be the only thing keeping it dormant — or the thing most at risk if it stirs.'
-personality: Guarded and cautious with trust, generous and welcoming, carries a secret that shapes every
-  decision.
+appearance: Broad and capable, with builder's hands and a builder's eye for level
+  and load. Wears a tool belt and a carpenter's apron. Always checking joints and
+  braces.
+biography: 'A human builder who constructs and repairs the stilt-platforms that are
+  Iara''s foundation. He is the only person who knows the full structural layout of
+  the city''s supports, having inherited the knowledge from his father, who was the
+  previous master builder. His secret: the original builders of Iara sunk the central
+  support pillars not into the riverbed but into something older — a structure beneath
+  the mud that is not natural. Paco discovered this when replacing a rotted pillar
+  ten years ago: the old pillar''s base had fused with a smooth, warm stone that hummed
+  faintly. He has been maintaining the platforms above this structure without understanding
+  it, and the hum has been getting stronger. He is afraid that the ancient structure
+  beneath Iara is waking up, and that the weight of the city above it might be the
+  only thing keeping it dormant — or the thing most at risk if it stirs.'
+personality: Guarded and cautious with trust, generous and welcoming, carries a secret
+  that shapes every decision.
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 - I will not rest until I understand what lies beneath iara before it wakes fully.
 equipment:
-  underwear: []
+  underwear:
+  - item:mens-softbark-loin-underwrap
   clothing:
   - item:sleeveless-barkcloth-tunic
   - item:softbark-wrap-skirt
+  - item:wrapped-work-apron
   armor: []
   hands:
     left: null
@@ -74,7 +81,15 @@ visual:
   distinctive_features:
   - a hammer-callus on the right palm
   - a missing tip of the left ring finger from a saw accident
-  prompt: ''
+  prompt: 1man, solo, adult man, broad and powerful, built for heavy construction
+    work, broad chest, warm copper-brown skin, Indigenous Amazonian facial features,
+    high cheekbones, brown eyes, black, thinning, cut short for safety hair, a hammer-callus
+    on the right palm, a missing tip of the left ring finger from a saw accident,
+    sleeveless barkcloth tunic, softbark wrap skirt, portrait, upper body, looking
+    at viewer, soft lighting
+  skin: warm copper-brown
+  height: 5'6"
+  face: Indigenous Amazonian facial features, high cheekbones
 image:
   url: ''
   focalPoint:
@@ -82,8 +97,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:ver-canopy-council
 desires:
@@ -94,6 +109,8 @@ fears_or_limits:
 - That revealing the truth will force an evacuation that the tribes cannot survive
 current_state:
   location: location:iara
+memories: []
+momentos: []
 purview: []
 ---
 

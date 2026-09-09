@@ -1,11 +1,12 @@
 ---
 id: character:kael-drakesworn
 name: Kael Drakesworn
-gm_notes: Kael is a young knight of the Dragon Order whose bonded dragon, a male named Voidgaze, is one
-  of the largest and oldest in the Order. But Voidgaze is dying of old age — a fact Kael is hiding from
-  everyone. When Voidgaze dies, the bond-breaking will likely kill Kael or drive him mad. He has been
-  secretly searching for a way to transfer or sever the bond safely, which leads him to the ancient runes
-  Thorin discovered. He does not know Thorin, but their paths are converging.
+gm_notes: Kael is a young knight of the Dragon Order whose bonded dragon, a male named
+  Voidgaze, is one of the largest and oldest in the Order. But Voidgaze is dying of
+  old age — a fact Kael is hiding from everyone. When Voidgaze dies, the bond-breaking
+  will likely kill Kael or drive him mad. He has been secretly searching for a way
+  to transfer or sever the bond safely, which leads him to the ancient runes Thorin
+  discovered. He does not know Thorin, but their paths are converging.
 aliases: []
 race: Human
 gender: Male
@@ -35,22 +36,28 @@ currency:
   gold: 14
   silver: 19
   copper: 14
-appearance: Handsome and intense, Kael wears Dragon Order plate with a black dragon sigil. He has dark
-  circles under his eyes from sleepless nights and moves with the tension of someone carrying an unbearable
-  weight.
-biography: Kael is a young knight of the Dragon Order whose bonded dragon, a male named Voidgaze, is one
-  of the largest and oldest in the Order. But Voidgaze is dying of old age — a fact Kael is hiding from
-  everyone. When Voidgaze dies, the bond-breaking will likely kill Kael or drive him mad. He has been
-  secretly searching for a way to transfer or sever the bond safely, which leads him to the ancient runes
-  Thorin discovered. He does not know Thorin, but their paths are converging.
+appearance: Handsome and intense, Kael wears Dragon Order plate with a black dragon
+  sigil. He has dark circles under his eyes from sleepless nights and moves with the
+  tension of someone carrying an unbearable weight.
+biography: Kael is a young knight of the Dragon Order whose bonded dragon, a male
+  named Voidgaze, is one of the largest and oldest in the Order. But Voidgaze is dying
+  of old age — a fact Kael is hiding from everyone. When Voidgaze dies, the bond-breaking
+  will likely kill Kael or drive him mad. He has been secretly searching for a way
+  to transfer or sever the bond safely, which leads him to the ancient runes Thorin
+  discovered. He does not know Thorin, but their paths are converging.
 personality: Guarded and cautious with trust, carries a secret that shapes every decision.
 key_phrases:
 - The oath is the man. Break it and nothing remains.
 - Steel serves the cause; the cause does not serve the steel.
-- I will not rest until I find a way to survive voidgaze's death without losing me mind or me life.
+- I will not rest until I find a way to survive voidgaze's death without losing me
+  mind or me life.
 equipment:
-  underwear: []
-  clothing: []
+  underwear:
+  - item:mens-linen-undershirt
+  - item:mens-drawstring-braies
+  clothing:
+  - item:wool-overtunic
+  - item:wool-trousers
   armor: []
   hands:
     left: null
@@ -61,9 +68,15 @@ visual:
   body_build: tall and lean, narrow chest
   hair: black, worn short
   eyes: dark brown, intense
-  distinctive_features: a dragon-bond scar covering his entire chest (hidden by armour), premature grey
-    at his temples from bond-stress
-  prompt: ''
+  distinctive_features: a dragon-bond scar covering his entire chest (hidden by armour),
+    premature grey at his temples from bond-stress
+  prompt: 1boy, solo, young adult man, tall and lean, narrow chest, light beige skin,
+    classic European facial features, dark brown eyes, black, worn short hair, wool
+    overtunic, leather belt, wool trousers, portrait, upper body, looking at viewer,
+    soft lighting
+  skin: light beige
+  height: 5'10"
+  face: classic European facial features
 image:
   url: ''
   focalPoint:
@@ -71,8 +84,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:dragon-order
 desires:
@@ -83,6 +96,10 @@ fears_or_limits:
 - that the Order will discover Voidgaze is dying and force a premature bond-severing
 current_state:
   location: location:dragonrest
+memories:
+- campaign-event/the-dragon-silence-at-sunhelm
+momentos:
+- the-silent-drake-scale
 purview: []
 ---
 

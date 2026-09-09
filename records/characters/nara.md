@@ -1,10 +1,11 @@
 ---
 id: character:nara
 name: Nara
-gm_notes: Nara has been hearing something new from the river spirit — a warning about the rising water
-  that the spirit itself does not fully understand. The river spirit is frightened, and spirits do not
-  frighten easily. Nara has not shared this with the council because she does not know what it means yet,
-  and she fears that sharing partial information will cause panic rather than action.
+gm_notes: Nara has been hearing something new from the river spirit — a warning about
+  the rising water that the spirit itself does not fully understand. The river spirit
+  is frightened, and spirits do not frighten easily. Nara has not shared this with
+  the council because she does not know what it means yet, and she fears that sharing
+  partial information will cause panic rather than action.
 aliases:
 - Shaman Nara
 race: Elf
@@ -36,19 +37,23 @@ currency:
   gold: 0
   silver: 22
   copper: 5
-appearance: A weathered woman in painted river-cloth, her arms marked with the spirit-pact patterns of
-  her lineage. She moves slowly but with purpose, and her eyes focus on things others do not seem to see.
-  Feathers and bone ornaments hang from her neck.
-biography: Nara has been hearing something new from the river spirit — a warning about the rising water
-  that the spirit itself does not fully understand. The river spirit is frightened, and spirits do not
-  frighten easily. Nara has not shared this with the council because she does not know what it means yet,
-  and she fears that sharing partial information will cause panic rather than action.
-personality: Composed and even-tempered, compassionate and tender-hearted, thoughtful and philosophical.
+appearance: A weathered woman in painted river-cloth, her arms marked with the spirit-pact
+  patterns of her lineage. She moves slowly but with purpose, and her eyes focus on
+  things others do not seem to see. Feathers and bone ornaments hang from her neck.
+biography: Nara has been hearing something new from the river spirit — a warning about
+  the rising water that the spirit itself does not fully understand. The river spirit
+  is frightened, and spirits do not frighten easily. Nara has not shared this with
+  the council because she does not know what it means yet, and she fears that sharing
+  partial information will cause panic rather than action.
+personality: Composed and even-tempered, compassionate and tender-hearted, thoughtful
+  and philosophical.
 key_phrases:
 - The spirits do not serve. They negotiate.
 - Every pact is a conversation that never ends.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-softbark-chest-wrap
+  - item:womens-inner-hip-wrap
   clothing:
   - item:open-side-river-vest
   - item:river-worker-split-wrap
@@ -63,8 +68,14 @@ visual:
   skin: deep brown, sun-darkened
   hair: white, braided with river-stone beads
   eyes: dark brown
-  distinctive_features: ritual scarification patterns on both forearms — the marks of her spirit-pacts
-  prompt: ''
+  distinctive_features: ritual scarification patterns on both forearms — the marks
+    of her spirit-pacts
+  prompt: 1girl, solo, young adult woman, elf, pointed ears, wiry, weathered, medium
+    breasts, deep brown, sun-darkened skin, symmetrical, elegant elven features, dark
+    brown eyes, white, braided with river-stone beads hair, open-side river vest,
+    river-worker split wrap, portrait, upper body, looking at viewer, soft lighting
+  height: 5'7"
+  face: symmetrical, elegant elven features, pointed ears
 image:
   url: ''
   focalPoint:
@@ -72,17 +83,21 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:ver-shaman-circle
 desires:
-- To understand why the river spirit is frightened, and to protect her people from whatever is coming.
+- To understand why the river spirit is frightened, and to protect her people from
+  whatever is coming.
 fears_or_limits:
-- The river spirit's warning is incomplete, and Nara does not know what to do with partial knowledge.
-  She is old and her strongest pact is weakening with age.
+- The river spirit's warning is incomplete, and Nara does not know what to do with
+  partial knowledge. She is old and her strongest pact is weakening with age.
 current_state:
   location: location:iara
+memories:
+- campaign-event/the-serpent-gate-whisper
+momentos: []
 purview: []
 ---
 

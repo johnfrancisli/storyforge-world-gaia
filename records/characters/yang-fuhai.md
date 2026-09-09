@@ -1,13 +1,14 @@
 ---
 id: character:yang-fuhai
 name: Yang Fuhai
-gm_notes: A canal worker and Mizuhito elder who has maintained the canal locks at the tri-border junction
-  for forty years. He knows the original canal blueprints, which include sealed channels that predate
-  the three-state division—channels that could bypass all three states' military checkpoints. He has been
-  approached by Zhou Geha to reveal the sealed channels' locations for refugee smuggling. He refused because
-  the sealed channels are rigged with ancient chi-mechanisms that flood if opened incorrectly, and the
-  knowledge was entrusted to his family by the old unified kingdom's canal authority. He is the last person
-  alive who knows the mechanism codes.
+gm_notes: A canal worker and Mizuhito elder who has maintained the canal locks at
+  the tri-border junction for forty years. He knows the original canal blueprints,
+  which include sealed channels that predate the three-state division—channels that
+  could bypass all three states' military checkpoints. He has been approached by Zhou
+  Geha to reveal the sealed channels' locations for refugee smuggling. He refused
+  because the sealed channels are rigged with ancient chi-mechanisms that flood if
+  opened incorrectly, and the knowledge was entrusted to his family by the old unified
+  kingdom's canal authority. He is the last person alive who knows the mechanism codes.
 aliases: []
 race: Mizuhito
 gender: Male
@@ -38,22 +39,26 @@ currency:
   gold: 1
   silver: 12
   copper: 10
-appearance: Old and river-worn, wearing Mizuhito canal-worker's garb and a faded official's sash from
-  the old kingdom. Works methodically.
-biography: A canal worker and Mizuhito elder who has maintained the canal locks at the tri-border junction
-  for forty years. He knows the original canal blueprints, which include sealed channels that predate
-  the three-state division—channels that could bypass all three states' military checkpoints. He has been
-  approached by Zhou Geha to reveal the sealed channels' locations for refugee smuggling. He refused because
-  the sealed channels are rigged with ancient chi-mechanisms that flood if opened incorrectly, and the
-  knowledge was entrusted to his family by the old unified kingdom's canal authority. He is the last person
-  alive who knows the mechanism codes.
+appearance: Old and river-worn, wearing Mizuhito canal-worker's garb and a faded official's
+  sash from the old kingdom. Works methodically.
+biography: A canal worker and Mizuhito elder who has maintained the canal locks at
+  the tri-border junction for forty years. He knows the original canal blueprints,
+  which include sealed channels that predate the three-state division—channels that
+  could bypass all three states' military checkpoints. He has been approached by Zhou
+  Geha to reveal the sealed channels' locations for refugee smuggling. He refused
+  because the sealed channels are rigged with ancient chi-mechanisms that flood if
+  opened incorrectly, and the knowledge was entrusted to his family by the old unified
+  kingdom's canal authority. He is the last person alive who knows the mechanism codes.
 personality: Tired and carrying a heavy burden.
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
-- I will not rest until I pass the sealed-channel codes to someone worthy before he dies.
+- I will not rest until I pass the sealed-channel codes to someone worthy before he
+  dies.
 equipment:
-  underwear: []
+  underwear:
+  - item:mens-inner-yi
+  - item:mens-short-underdrawers
   clothing:
   - item:short-shan-work-shirt
   - item:bound-cuff-field-trousers
@@ -70,7 +75,16 @@ visual:
   distinctive_features:
   - a Mizuhito river-tattoo of a lock-gate on both forearms (master lock-keeper mark)
   - a permanently crooked left ring finger from a lock-chain accident
-  prompt: ''
+  prompt: 1man, solo, elderly man, amphibious humanoid, webbed fingers and toes, fine
+    aquatic scales, wiry and sinewy, aged but strong, broad chest, sun-darkened teal
+    and blue-green skin, fine-scaled amphibious features, large dark eyes, pale blue-gray
+    eyes, white, thin, under a canal-keeper's cap hair, a Mizuhito river-tattoo of
+    a lock-gate on both forearms, a permanently crooked left ring finger from a lock-chain
+    accident, short shan work shirt, bound-cuff field trousers, portrait, upper body,
+    looking at viewer, soft lighting
+  skin: sun-darkened teal and blue-green
+  height: 5'7"
+  face: fine-scaled amphibious features, large dark eyes
 image:
   url: ''
   focalPoint:
@@ -78,8 +92,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:jin-state
 desires:
@@ -90,6 +104,8 @@ fears_or_limits:
 - Dying without passing on the knowledge and the channels being forced open destructively
 current_state:
   location: location:sangguo
+memories: []
+momentos: []
 purview: []
 ---
 

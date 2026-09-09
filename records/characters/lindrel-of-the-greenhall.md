@@ -1,13 +1,14 @@
 ---
 id: character:lindrel-of-the-greenhall
 name: Lindrel of the Greenhall
-gm_notes: 'Lindrel is the last of the old elven forest-keepers of the Greenhall, an ancient forest within
-  Valdris. She is two hundred and thirty years old and remembers when the dragon bond was new. She knows
-  why the dragons stopped answering, and she has not told anyone because the reason is embarrassing to
-  the knightly order: the oath was changed two generations ago, simplified for political reasons, and
-  the simplified version no longer means what it used to. The dragons are not silent because they are
-  angry — they are silent because the words have become meaningless. Lindrel is waiting for someone to
-  ask the right question.'
+gm_notes: 'Lindrel is the last of the old elven forest-keepers of the Greenhall, an
+  ancient forest within Valdris. She is two hundred and thirty years old and remembers
+  when the dragon bond was new. She knows why the dragons stopped answering, and she
+  has not told anyone because the reason is embarrassing to the knightly order: the
+  oath was changed two generations ago, simplified for political reasons, and the
+  simplified version no longer means what it used to. The dragons are not silent because
+  they are angry — they are silent because the words have become meaningless. Lindrel
+  is waiting for someone to ask the right question.'
 aliases: []
 race: Elf
 gender: Female
@@ -38,25 +39,28 @@ currency:
   gold: 0
   silver: 16
   copper: 30
-appearance: A tall, slender elf in forest-green robes, her hair silver-white and very long. She moves
-  slowly, as if each step is considered. Her ears are long and sharply pointed. She carries a staff of
-  living wood that is still growing — small leaves bud from it in spring.
-biography: 'Lindrel is the last of the old elven forest-keepers of the Greenhall, an ancient forest within
-  Valdris. She is two hundred and thirty years old and remembers when the dragon bond was new. She knows
-  why the dragons stopped answering, and she has not told anyone because the reason is embarrassing to
-  the knightly order: the oath was changed two generations ago, simplified for political reasons, and
-  the simplified version no longer means what it used to. The dragons are not silent because they are
-  angry — they are silent because the words have become meaningless. Lindrel is waiting for someone to
-  ask the right question.'
+appearance: A tall, slender elf in forest-green robes, her hair silver-white and very
+  long. She moves slowly, as if each step is considered. Her ears are long and sharply
+  pointed. She carries a staff of living wood that is still growing — small leaves
+  bud from it in spring.
+biography: 'Lindrel is the last of the old elven forest-keepers of the Greenhall,
+  an ancient forest within Valdris. She is two hundred and thirty years old and remembers
+  when the dragon bond was new. She knows why the dragons stopped answering, and she
+  has not told anyone because the reason is embarrassing to the knightly order: the
+  oath was changed two generations ago, simplified for political reasons, and the
+  simplified version no longer means what it used to. The dragons are not silent because
+  they are angry — they are silent because the words have become meaningless. Lindrel
+  is waiting for someone to ask the right question.'
 personality: Reserved and soft-spoken.
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-linen-chemise
+  - item:womens-linen-underbreeches
   clothing:
-  - item:elven-forest-tunic
-  - item:elven-fitted-leggings
+  - item:travel-robe
   armor: []
   hands:
     left: null
@@ -68,8 +72,15 @@ visual:
   skin: pale, faintly luminous
   hair: silver-white, very long
   eyes: deep green
-  distinctive_features: long sharply pointed ears, a staff of living wood that buds in season
-  prompt: ''
+  distinctive_features: long sharply pointed ears, a staff of living wood that buds
+    in season
+  prompt: 1girl, solo, adult woman, elf, pointed ears, tall, slender, medium breasts,
+    pale, faintly luminous skin, symmetrical, elegant elven features, deep green eyes,
+    silver-white, very long hair, long sharply pointed ears, a staff of living wood,
+    elven forest work tunic, fitted leather leggings, portrait, upper body, looking
+    at viewer, soft lighting
+  height: 5'7"
+  face: symmetrical, elegant elven features, pointed ears
 image:
   url: ''
   focalPoint:
@@ -77,21 +88,23 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:dragon-order
 desires:
-- To see the dragon bond restored properly — the old oath, not the simplified version the order currently
-  uses.
-- To protect the Greenhall, which is being slowly encroached by logging operations backed by Prince Roderick's
-  allies.
+- To see the dragon bond restored properly — the old oath, not the simplified version
+  the order currently uses.
+- To protect the Greenhall, which is being slowly encroached by logging operations
+  backed by Prince Roderick's allies.
 fears_or_limits:
-- She knows the truth about the dragon bond but has been waiting for someone to ask, which is a passive
-  strategy that is running out of time. The Greenhall is under pressure, and she cannot fight logging
-  crews and political forces alone.
+- She knows the truth about the dragon bond but has been waiting for someone to ask,
+  which is a passive strategy that is running out of time. The Greenhall is under
+  pressure, and she cannot fight logging crews and political forces alone.
 current_state:
   location: location:valdris
+memories: []
+momentos: []
 purview: []
 ---
 

@@ -1,11 +1,13 @@
 ---
 id: character:hayashi-fumiko
 name: Hayashi Fumiko
-gm_notes: Fumiko was once the shogunate's court koto player, dismissed when she refused the advances of
-  a court official who has since risen to become the shogun's senior advisor — the same man Yuri (character:onodera-yuri)
-  saw something wrong with. She knows things about his character that could end his career, but she has
-  no standing to make accusations. He's been sending agents to the teahouse where she now plays, making
-  inquiries. She recognizes the pattern — he's deciding whether she's a threat that needs silencing.
+gm_notes: Fumiko was once the shogunate's court koto player, dismissed when she refused
+  the advances of a court official who has since risen to become the shogun's senior
+  advisor — the same man Yuri (character:onodera-yuri) saw something wrong with. She
+  knows things about his character that could end his career, but she has no standing
+  to make accusations. He's been sending agents to the teahouse where she now plays,
+  making inquiries. She recognizes the pattern — he's deciding whether she's a threat
+  that needs silencing.
 aliases:
 - Fumiko
 race: Human
@@ -36,20 +38,25 @@ currency:
   gold: 2
   silver: 4
   copper: 12
-appearance: She sits behind her koto with perfect posture, her hands moving over the strings with a precision
-  that comes from decades of practice. She wears a refined but faded kimono — the fabric of better days.
-  Her expression is serene until she thinks no one is watching.
-biography: Fumiko was once the shogunate's court koto player, dismissed when she refused the advances
-  of a court official who has since risen to become the shogun's senior advisor — the same man Yuri (character:onodera-yuri)
-  saw something wrong with. She knows things about his character that could end his career, but she has
-  no standing to make accusations. He's been sending agents to the teahouse where she now plays, making
-  inquiries. She recognizes the pattern — he's deciding whether she's a threat that needs silencing.
+appearance: She sits behind her koto with perfect posture, her hands moving over the
+  strings with a precision that comes from decades of practice. She wears a refined
+  but faded kimono — the fabric of better days. Her expression is serene until she
+  thinks no one is watching.
+biography: Fumiko was once the shogunate's court koto player, dismissed when she refused
+  the advances of a court official who has since risen to become the shogun's senior
+  advisor — the same man Yuri (character:onodera-yuri) saw something wrong with. She
+  knows things about his character that could end his career, but she has no standing
+  to make accusations. He's been sending agents to the teahouse where she now plays,
+  making inquiries. She recognizes the pattern — he's deciding whether she's a threat
+  that needs silencing.
 personality: Composed and even-tempered.
 key_phrases:
 - Music is what words feel when they are honest.
 - Every song is a conversation with silence.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-hadajuban
+  - item:womens-koshimaki
   clothing:
   - item:hemp-work-kosode
   armor: []
@@ -62,8 +69,15 @@ visual:
   body_build: slender, straight-backed, small breasts
   hair: black, greying at the temples, worn in a formal low bun
   eyes: dark brown, lined
-  distinctive_features: deep calluses on the right-hand fingertips from koto picks worn for decades
-  prompt: ''
+  distinctive_features: deep calluses on the right-hand fingertips from koto picks
+    worn for decades
+  prompt: 1girl, solo, young adult woman, slender, straight-backed, small breasts,
+    warm beige skin, traditional Japanese facial features, dark brown eyes, black,
+    greying at the temples, worn in a formal low bun hair, indigo hemp work kosode,
+    portrait, upper body, looking at viewer, soft lighting
+  skin: warm beige
+  height: 5'2"
+  face: traditional Japanese facial features
 image:
   url: ''
   focalPoint:
@@ -71,18 +85,22 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:ashikara-shogunate
 desires:
-- To survive the advisor's renewed interest in her and protect herself from being silenced.
+- To survive the advisor's renewed interest in her and protect herself from being
+  silenced.
 - To play music that matters again, somewhere she is safe.
 fears_or_limits:
 - The advisor has power she does not, and silence is cheaper than justice in the capital.
-- She has no protector and no patron — just a instrument and a reputation that is fading.
+- She has no protector and no patron — just a instrument and a reputation that is
+  fading.
 current_state:
   location: location:tsuki-no-miyako
+memories: []
+momentos: []
 purview: []
 ---
 

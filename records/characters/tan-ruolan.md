@@ -1,12 +1,14 @@
 ---
 id: character:tan-ruolan
 name: Tan Ruolan
-gm_notes: A fortune teller in Jin-an's market district who reads palms and tortoise shells. She is genuinely
-  gifted—her readings are accurate about seventy percent of the time, a gift from a qilin-spirit encounter
-  in childhood. She has read the palms of three of the Jin warlord's inner circle and knows that a coup
-  is being planned for the autumn festival. She has not told anyone because the last time she tried to
-  warn a powerful person, her family was killed in reprisal. She is now weighing whether to warn the warlord
-  (who she despises) to save innocent festival-goers who might die in the violence.
+gm_notes: A fortune teller in Jin-an's market district who reads palms and tortoise
+  shells. She is genuinely gifted—her readings are accurate about seventy percent
+  of the time, a gift from a qilin-spirit encounter in childhood. She has read the
+  palms of three of the Jin warlord's inner circle and knows that a coup is being
+  planned for the autumn festival. She has not told anyone because the last time she
+  tried to warn a powerful person, her family was killed in reprisal. She is now weighing
+  whether to warn the warlord (who she despises) to save innocent festival-goers who
+  might die in the violence.
 aliases: []
 race: Human
 gender: Female
@@ -36,21 +38,25 @@ currency:
   gold: 5
   silver: 16
   copper: 14
-appearance: Mystical and theatrical in market-performers' robes, draped in auspicious charms. Eyes that
-  seem to look through people.
-biography: A fortune teller in Jin-an's market district who reads palms and tortoise shells. She is genuinely
-  gifted—her readings are accurate about seventy percent of the time, a gift from a qilin-spirit encounter
-  in childhood. She has read the palms of three of the Jin warlord's inner circle and knows that a coup
-  is being planned for the autumn festival. She has not told anyone because the last time she tried to
-  warn a powerful person, her family was killed in reprisal. She is now weighing whether to warn the warlord
-  (who she despises) to save innocent festival-goers who might die in the violence.
+appearance: Mystical and theatrical in market-performers' robes, draped in auspicious
+  charms. Eyes that seem to look through people.
+biography: A fortune teller in Jin-an's market district who reads palms and tortoise
+  shells. She is genuinely gifted—her readings are accurate about seventy percent
+  of the time, a gift from a qilin-spirit encounter in childhood. She has read the
+  palms of three of the Jin warlord's inner circle and knows that a coup is being
+  planned for the autumn festival. She has not told anyone because the last time she
+  tried to warn a powerful person, her family was killed in reprisal. She is now weighing
+  whether to warn the warlord (who she despises) to save innocent festival-goers who
+  might die in the violence.
 personality: Strict and disciplined, blunt and rough-spoken.
 key_phrases:
 - The future is not fixed. It is inclined.
 - I see patterns, not certainties. Do not confuse the two.
 - I will not rest until I warn someone about the coup without endangering herself.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-inner-ru
+  - item:womens-loose-undertrousers
   clothing:
   - item:straight-hem-shenyi
   armor: []
@@ -66,7 +72,14 @@ visual:
   distinctive_features:
   - a tortoise-shell burn scar on the right palm from divination rites
   - a white streak in the left temple hair
-  prompt: ''
+  prompt: 1girl, solo, adult woman, thin and angular, medium breasts, warm beige skin,
+    strong Chinese facial features, very dark eyes, black with gray streaks, loose
+    and talisman-pinned hair, a tortoise-shell burn scar on the right palm from divination
+    rites, a white streak in the left temple hair, straight-hem shenyi robe, wide
+    embroidered sash, portrait, upper body, looking at viewer, soft lighting
+  skin: warm beige
+  height: 5'3"
+  face: strong Chinese facial features
 image:
   url: ''
   focalPoint:
@@ -74,8 +87,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:san-merchant-cartel
 desires:
@@ -86,6 +99,8 @@ fears_or_limits:
 - That her vision of the coup is one of her thirty-percent wrong readings
 current_state:
   location: location:jin-an
+memories: []
+momentos: []
 purview: []
 ---
 

@@ -1,15 +1,17 @@
 ---
 id: character:moana
 name: Moana
-gm_notes: 'Moana fishes the shallow reefs at dawn every day and has done so for twenty years. She knows
-  every coral head, every channel, every tide pool by name. Six months ago she noticed the reef was changing
-  — not dying, which everyone expects, but growing. New coral is appearing in places it has never grown,
-  and the fish are following patterns she has never seen. She has been mapping the changes in secret on
-  a piece of tapa cloth, and the pattern she sees is not random: the new coral is growing in the shape
-  of channels — navigable channels, as if the reef is building new routes through the Archipelago. She
-  believes the sea is not just taking islands away but building something new, and she does not know if
-  what it is building is for humans or something else. She has shown the map to no one because she is
-  afraid the wayfinder guilds will see it as hope and stop preparing for the worst.'
+gm_notes: 'Moana fishes the shallow reefs at dawn every day and has done so for twenty
+  years. She knows every coral head, every channel, every tide pool by name. Six months
+  ago she noticed the reef was changing — not dying, which everyone expects, but growing.
+  New coral is appearing in places it has never grown, and the fish are following
+  patterns she has never seen. She has been mapping the changes in secret on a piece
+  of tapa cloth, and the pattern she sees is not random: the new coral is growing
+  in the shape of channels — navigable channels, as if the reef is building new routes
+  through the Archipelago. She believes the sea is not just taking islands away but
+  building something new, and she does not know if what it is building is for humans
+  or something else. She has shown the map to no one because she is afraid the wayfinder
+  guilds will see it as hope and stop preparing for the worst.'
 aliases: []
 race: Human
 gender: Female
@@ -39,26 +41,32 @@ currency:
   gold: 5
   silver: 11
   copper: 5
-appearance: A stocky, weathered woman with salt-bleached hair and a fishing spear always at hand. She
-  wears a woven hat against the sun and moves along the reef with the sureness of someone who knows every
-  step.
-biography: 'Moana fishes the shallow reefs at dawn every day and has done so for twenty years. She knows
-  every coral head, every channel, every tide pool by name. Six months ago she noticed the reef was changing
-  — not dying, which everyone expects, but growing. New coral is appearing in places it has never grown,
-  and the fish are following patterns she has never seen. She has been mapping the changes in secret on
-  a piece of tapa cloth, and the pattern she sees is not random: the new coral is growing in the shape
-  of channels — navigable channels, as if the reef is building new routes through the Archipelago. She
-  believes the sea is not just taking islands away but building something new, and she does not know if
-  what it is building is for humans or something else. She has shown the map to no one because she is
-  afraid the wayfinder guilds will see it as hope and stop preparing for the worst.'
-personality: Guarded and cautious with trust, blunt and rough-spoken, carries a secret that shapes every
-  decision.
+appearance: A stocky, weathered woman with salt-bleached hair and a fishing spear
+  always at hand. She wears a woven hat against the sun and moves along the reef with
+  the sureness of someone who knows every step.
+biography: 'Moana fishes the shallow reefs at dawn every day and has done so for twenty
+  years. She knows every coral head, every channel, every tide pool by name. Six months
+  ago she noticed the reef was changing — not dying, which everyone expects, but growing.
+  New coral is appearing in places it has never grown, and the fish are following
+  patterns she has never seen. She has been mapping the changes in secret on a piece
+  of tapa cloth, and the pattern she sees is not random: the new coral is growing
+  in the shape of channels — navigable channels, as if the reef is building new routes
+  through the Archipelago. She believes the sea is not just taking islands away but
+  building something new, and she does not know if what it is building is for humans
+  or something else. She has shown the map to no one because she is afraid the wayfinder
+  guilds will see it as hope and stop preparing for the worst.'
+personality: Guarded and cautious with trust, blunt and rough-spoken, carries a secret
+  that shapes every decision.
 key_phrases:
 - The river gives and the river takes. You learn to accept both.
 - A bad day fishing is still a day on the water.
 equipment:
-  underwear: []
-  clothing: []
+  underwear:
+  - item:womens-woven-support-band
+  - item:womens-inner-pau-wrap
+  clothing:
+  - item:open-sided-island-tunic
+  - item:split-paddling-wrap
   armor: []
   hands:
     left: null
@@ -70,9 +78,15 @@ visual:
   skin: deep brown, heavily sun-weathered
   hair: black fading to grey-brown at the temples, short and practical
   eyes: dark brown, narrow against the sun
-  distinctive_features: a healed reef-cut scar across the left foot, a woven palm hat worn at all times
-    outdoors, a fishing spear callus on the right palm
-  prompt: ''
+  distinctive_features: a healed reef-cut scar across the left foot, a woven palm
+    hat worn at all times outdoors, a fishing spear callus on the right palm
+  prompt: 1girl, solo, adult woman, stocky, thick-legged, sure-footed, small breasts,
+    deep brown, heavily sun-weathered skin, Polynesian maritime facial features, warm
+    expressive eyes, dark brown eyes, black fading to grey-brown at the temples, short
+    and practical hair, open-sided island tunic, split paddling wrap, portrait, upper
+    body, looking at viewer, soft lighting
+  height: 5'6"
+  face: Polynesian maritime facial features, warm expressive eyes
 image:
   url: ''
   focalPoint:
@@ -80,18 +94,23 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:wayfinder-guilds
 desires:
-- To complete her map of the new reef channels and determine whether they form a navigable network
+- To complete her map of the new reef channels and determine whether they form a navigable
+  network
 - To find out whether the sea is building for humans or replacing them
 fears_or_limits:
-- That the new reef growth is not a gift but a trap — that the channels lead somewhere dangerous
-- That showing the map will give false hope to families who have already lost their islands
+- That the new reef growth is not a gift but a trap — that the channels lead somewhere
+  dangerous
+- That showing the map will give false hope to families who have already lost their
+  islands
 current_state:
   location: location:tide-archipelago
+memories: []
+momentos: []
 purview: []
 ---
 

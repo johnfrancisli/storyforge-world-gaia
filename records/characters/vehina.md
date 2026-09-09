@@ -1,15 +1,16 @@
 ---
 id: character:vehina
 name: Vehina
-gm_notes: 'Vehina is the oldest person on Lani Atoll and the keeper of the genealogy chants that trace
-  every family line back eight generations. She has been losing her memory for the past year — slowly,
-  but unmistakably. She confuses names, repeats verses, and forgets the order of chants she has known
-  for sixty years. She has not told anyone. Instead, she has been teaching the chants in secret to a refugee
-  girl named Mafana, age nine, who has no family line to chant — her island submerged with everyone Vehina
-  could have asked. Vehina chose Mafana because the genealogy chants require a clear lineage, and Mafana
-  has none, which means either the chants will fail in her mouth or they will become something new. Vehina
-  is conducting an experiment she will not live to see the end of: whether memory can survive without
-  bloodline.'
+gm_notes: 'Vehina is the oldest person on Lani Atoll and the keeper of the genealogy
+  chants that trace every family line back eight generations. She has been losing
+  her memory for the past year — slowly, but unmistakably. She confuses names, repeats
+  verses, and forgets the order of chants she has known for sixty years. She has not
+  told anyone. Instead, she has been teaching the chants in secret to a refugee girl
+  named Mafana, age nine, who has no family line to chant — her island submerged with
+  everyone Vehina could have asked. Vehina chose Mafana because the genealogy chants
+  require a clear lineage, and Mafana has none, which means either the chants will
+  fail in her mouth or they will become something new. Vehina is conducting an experiment
+  she will not live to see the end of: whether memory can survive without bloodline.'
 aliases: []
 race: Human
 gender: Female
@@ -39,24 +40,28 @@ currency:
   gold: 5
   silver: 16
   copper: 26
-appearance: A tiny, frail woman wrapped in fine woven cloth, her eyes milky but sharp. She sits in the
-  meeting house and chants in a voice that is barely a whisper but carries across the entire hall.
-biography: 'Vehina is the oldest person on Lani Atoll and the keeper of the genealogy chants that trace
-  every family line back eight generations. She has been losing her memory for the past year — slowly,
-  but unmistakably. She confuses names, repeats verses, and forgets the order of chants she has known
-  for sixty years. She has not told anyone. Instead, she has been teaching the chants in secret to a refugee
-  girl named Mafana, age nine, who has no family line to chant — her island submerged with everyone Vehina
-  could have asked. Vehina chose Mafana because the genealogy chants require a clear lineage, and Mafana
-  has none, which means either the chants will fail in her mouth or they will become something new. Vehina
-  is conducting an experiment she will not live to see the end of: whether memory can survive without
-  bloodline.'
+appearance: A tiny, frail woman wrapped in fine woven cloth, her eyes milky but sharp.
+  She sits in the meeting house and chants in a voice that is barely a whisper but
+  carries across the entire hall.
+biography: 'Vehina is the oldest person on Lani Atoll and the keeper of the genealogy
+  chants that trace every family line back eight generations. She has been losing
+  her memory for the past year — slowly, but unmistakably. She confuses names, repeats
+  verses, and forgets the order of chants she has known for sixty years. She has not
+  told anyone. Instead, she has been teaching the chants in secret to a refugee girl
+  named Mafana, age nine, who has no family line to chant — her island submerged with
+  everyone Vehina could have asked. Vehina chose Mafana because the genealogy chants
+  require a clear lineage, and Mafana has none, which means either the chants will
+  fail in her mouth or they will become something new. Vehina is conducting an experiment
+  she will not live to see the end of: whether memory can survive without bloodline.'
 personality: Guarded and cautious with trust, carries a secret that shapes every decision.
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 - I will not rest until I teach mafana every chant before me memory fails completely.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-woven-support-band
+  - item:womens-inner-pau-wrap
   clothing:
   - item:open-sided-island-tunic
   - item:pau-wrap-skirt
@@ -71,10 +76,16 @@ visual:
   skin: deep brown, deeply lined
   hair: white, thin, covered by a woven scarf
   eyes: pale brown, clouding with age
-  distinctive_features: a woven chant-keeper's scarf always worn over the hair, hands that move unconsciously
-    in the gesture-patterns of chants even when she is silent, a voice that carries far further than its
-    volume should allow
-  prompt: ''
+  distinctive_features: a woven chant-keeper's scarf always worn over the hair, hands
+    that move unconsciously in the gesture-patterns of chants even when she is silent,
+    a voice that carries far further than its volume should allow
+  prompt: 1girl, solo, elderly woman, small, frail, bird-boned, medium breasts, deep
+    brown, deeply lined skin, Polynesian maritime facial features, warm expressive
+    eyes, pale brown eyes, white, thin, covered by a woven scarf hair, a woven chant-keeper's
+    scarf always worn over the hair, hands, open-sided island tunic, printed pau wrap
+    skirt, portrait, upper body, looking at viewer, soft lighting
+  height: 5'6"
+  face: Polynesian maritime facial features, warm expressive eyes
 image:
   url: ''
   focalPoint:
@@ -82,20 +93,23 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:wayfinder-guilds
 desires:
 - To teach Mafana every chant before her memory fails completely
-- To learn whether memory can survive without bloodline — whether a child of no island can carry the songs
-  of all islands
+- To learn whether memory can survive without bloodline — whether a child of no island
+  can carry the songs of all islands
 fears_or_limits:
-- That the chants will warp in Mafana's mouth and become something that misleads rather than remembers
-- That she will forget Mafana's name before she finishes teaching her, and the child will be left with
-  half a tradition and no one to complete it
+- That the chants will warp in Mafana's mouth and become something that misleads rather
+  than remembers
+- That she will forget Mafana's name before she finishes teaching her, and the child
+  will be left with half a tradition and no one to complete it
 current_state:
   location: location:lani-atoll
+memories: []
+momentos: []
 purview: []
 ---
 

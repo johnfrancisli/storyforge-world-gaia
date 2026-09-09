@@ -1,12 +1,14 @@
 ---
 id: character:niu-caihong
 name: Niu Caihong
-gm_notes: An elderly beggar woman in Jin-an who is actually a retired chi-cultivation master who faked
-  her death twenty years ago to escape the Jin warlord's father, who wanted to conscript her into his
-  war machine. She lives as a street beggar because it is the last place anyone would look for a master
-  cultivator. She watches over the street children of Jin-an and has quietly taught basic chi-centering
-  to a dozen of them to help them survive. One of her students has shown prodigy-level talent and she
-  is deciding whether to train the child fully or push them away to protect them from her past.
+gm_notes: An elderly beggar woman in Jin-an who is actually a retired chi-cultivation
+  master who faked her death twenty years ago to escape the Jin warlord's father,
+  who wanted to conscript her into his war machine. She lives as a street beggar because
+  it is the last place anyone would look for a master cultivator. She watches over
+  the street children of Jin-an and has quietly taught basic chi-centering to a dozen
+  of them to help them survive. One of her students has shown prodigy-level talent
+  and she is deciding whether to train the child fully or push them away to protect
+  them from her past.
 aliases: []
 race: Human
 gender: Female
@@ -36,22 +38,30 @@ currency:
   gold: 0
   silver: 0
   copper: 0
-appearance: Small and hunched in layered dirty rags, but with eyes that are too clear and a stillness
-  that does not match her apparent frailty.
-biography: An elderly beggar woman in Jin-an who is actually a retired chi-cultivation master who faked
-  her death twenty years ago to escape the Jin warlord's father, who wanted to conscript her into his
-  war machine. She lives as a street beggar because it is the last place anyone would look for a master
-  cultivator. She watches over the street children of Jin-an and has quietly taught basic chi-centering
-  to a dozen of them to help them survive. One of her students has shown prodigy-level talent and she
-  is deciding whether to train the child fully or push them away to protect them from her past.
-personality: Reserved and soft-spoken, tired and carrying a heavy burden, guarded and cautious with trust.
+appearance: Small and hunched in layered dirty rags, but with eyes that are too clear
+  and a stillness that does not match her apparent frailty.
+biography: An elderly beggar woman in Jin-an who is actually a retired chi-cultivation
+  master who faked her death twenty years ago to escape the Jin warlord's father,
+  who wanted to conscript her into his war machine. She lives as a street beggar because
+  it is the last place anyone would look for a master cultivator. She watches over
+  the street children of Jin-an and has quietly taught basic chi-centering to a dozen
+  of them to help them survive. One of her students has shown prodigy-level talent
+  and she is deciding whether to train the child fully or push them away to protect
+  them from her past.
+personality: Reserved and soft-spoken, tired and carrying a heavy burden, guarded
+  and cautious with trust.
 key_phrases:
 - I'm not afraid. I'm just... careful.
 - When you're small, you learn to notice things.
-- I will not rest until I train the talented street child without bringing the warlord's attention.
+- I will not rest until I train the talented street child without bringing the warlord's
+  attention.
 equipment:
-  underwear: []
-  clothing: []
+  underwear:
+  - item:womens-inner-ru
+  - item:womens-loose-undertrousers
+  clothing:
+  - item:short-shan-work-shirt
+  - item:bound-cuff-field-trousers
   armor: []
   hands:
     left: null
@@ -65,7 +75,15 @@ visual:
   distinctive_features:
   - a web of fine scars on the hands (old chi-training marks)
   - a barely visible, perfectly circular callus on each palm (cultivation seat-mark)
-  prompt: ''
+  prompt: 1girl, solo, elderly woman, small, hunched, deceptively solid beneath the
+    rags, small breasts, warm beige skin, strong Chinese facial features, startlingly
+    clear and bright brown eyes, thin white, under a ragged head wrap hair, a web
+    of fine scars on the hands, a barely visible, perfectly circular callus on each
+    palm, short shan work shirt, bound-cuff field trousers, portrait, upper body,
+    looking at viewer, soft lighting
+  skin: warm beige
+  height: 5'3"
+  face: strong Chinese facial features
 image:
   url: ''
   focalPoint:
@@ -73,8 +91,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:san-merchant-cartel
 desires:
@@ -85,6 +103,8 @@ fears_or_limits:
 - That training the child will repeat the cycle she fled
 current_state:
   location: location:jin-an
+memories: []
+momentos: []
 purview: []
 ---
 

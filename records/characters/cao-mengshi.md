@@ -1,11 +1,12 @@
 ---
 id: character:cao-mengshi
 name: Cao Mengshi
-gm_notes: 'She is the Wei state''s foremost strategist and has authored three military treatises under
-  a male pen name. The Wei warlord knows her true identity and deliberately keeps it secret: if rival
-  states learned a woman commands Wei''s war planning, they would underestimate Wei, which is a strategic
-  advantage he exploits. She is slowly dying of a lung ailment from battlefield smoke inhalation and has
-  perhaps two years left. She is training a replacement in secret.'
+gm_notes: 'She is the Wei state''s foremost strategist and has authored three military
+  treatises under a male pen name. The Wei warlord knows her true identity and deliberately
+  keeps it secret: if rival states learned a woman commands Wei''s war planning, they
+  would underestimate Wei, which is a strategic advantage he exploits. She is slowly
+  dying of a lung ailment from battlefield smoke inhalation and has perhaps two years
+  left. She is training a replacement in secret.'
 aliases: []
 race: Human
 gender: Female
@@ -35,19 +36,23 @@ currency:
   gold: 0
   silver: 13
   copper: 10
-appearance: Plain-faced and practical, robes always ink-stained. Moves with deliberate economy.
-biography: 'She is the Wei state''s foremost strategist and has authored three military treatises under
-  a male pen name. The Wei warlord knows her true identity and deliberately keeps it secret: if rival
-  states learned a woman commands Wei''s war planning, they would underestimate Wei, which is a strategic
-  advantage he exploits. She is slowly dying of a lung ailment from battlefield smoke inhalation and has
-  perhaps two years left. She is training a replacement in secret.'
+appearance: Plain-faced and practical, robes always ink-stained. Moves with deliberate
+  economy.
+biography: 'She is the Wei state''s foremost strategist and has authored three military
+  treatises under a male pen name. The Wei warlord knows her true identity and deliberately
+  keeps it secret: if rival states learned a woman commands Wei''s war planning, they
+  would underestimate Wei, which is a strategic advantage he exploits. She is slowly
+  dying of a lung ailment from battlefield smoke inhalation and has perhaps two years
+  left. She is training a replacement in secret.'
 personality: Guarded and cautious with trust, carries a secret that shapes every decision.
 key_phrases:
 - Every battle is won before it is fought. Or it is lost the same way.
 - The best strategy is the one your enemy never sees.
 - I will not rest until I finish me fourth treatise before she dies.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-inner-ru
+  - item:womens-loose-undertrousers
   clothing:
   - item:straight-hem-shenyi
   armor: []
@@ -63,7 +68,14 @@ visual:
   distinctive_features:
   - ink stains permanently embedded in right index and middle fingers
   - a persistent dry cough
-  prompt: ''
+  prompt: 1girl, solo, adult woman, thin and angular, medium breasts, warm beige skin,
+    strong Chinese facial features, piercing black eyes, graying black, bound in a
+    simple topknot, ink stains permanently embedded in right index and middle fingers,
+    a persistent dry cough, straight-hem shenyi robe, wide embroidered sash, portrait,
+    upper body, looking at viewer, soft lighting
+  skin: warm beige
+  height: 5'3"
+  face: strong Chinese facial features
 image:
   url: ''
   focalPoint:
@@ -71,8 +83,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:wei-state
 desires:
@@ -83,6 +95,8 @@ fears_or_limits:
 - That her pen name will outlive her real name
 current_state:
   location: location:jin-an
+memories: []
+momentos: []
 purview: []
 ---
 

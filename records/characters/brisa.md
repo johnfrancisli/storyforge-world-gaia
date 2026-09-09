@@ -1,17 +1,19 @@
 ---
 id: character:brisa
 name: Brisa
-gm_notes: A body painter whose designs are more than decoration — they are spirit-glyphs that can temporarily
-  grant protection, courage, or luck. Brisa learned the true glyph-language from her mother, who learned
-  it from a painted-spirit that lives in the cliff caves above the river. Brisa has discovered that one
-  of the glyph patterns she was taught — the one used for 'protection from harm' — actually contains a
-  sub-glyph that marks the wearer as a target for a specific predator-spirit. Her mother used it on hunters
-  before dangerous expeditions. Brisa now suspects her mother was deliberately feeding hunters to the
-  predator-spirit in exchange for the glyph-knowledge, and that Brisa herself was marked with the same
-  sub-glyph as an infant. She has stopped using the protection glyph entirely but has not told anyone
-  why, and hunters have begun asking why their luck has changed.
+gm_notes: A body painter whose designs are more than decoration — they are spirit-glyphs
+  that can temporarily grant protection, courage, or luck. Brisa learned the true
+  glyph-language from her mother, who learned it from a painted-spirit that lives
+  in the cliff caves above the river. Brisa has discovered that one of the glyph patterns
+  she was taught — the one used for 'protection from harm' — actually contains a sub-glyph
+  that marks the wearer as a target for a specific predator-spirit. Her mother used
+  it on hunters before dangerous expeditions. Brisa now suspects her mother was deliberately
+  feeding hunters to the predator-spirit in exchange for the glyph-knowledge, and
+  that Brisa herself was marked with the same sub-glyph as an infant. She has stopped
+  using the protection glyph entirely but has not told anyone why, and hunters have
+  begun asking why their luck has changed.
 aliases: []
-race: Elf
+race: Human
 gender: Female
 age: 34
 heritage: Verdanian
@@ -40,23 +42,29 @@ currency:
   gold: 3
   silver: 10
   copper: 8
-appearance: Hands and forearms permanently stained red-black from years of dye work. Bright, observant
-  eyes. Wears simple wrapped cloth, always with a clay pot of fresh pigment at her hip.
-biography: A body painter whose designs are more than decoration — they are spirit-glyphs that can temporarily
-  grant protection, courage, or luck. Brisa learned the true glyph-language from her mother, who learned
-  it from a painted-spirit that lives in the cliff caves above the river. Brisa has discovered that one
-  of the glyph patterns she was taught — the one used for 'protection from harm' — actually contains a
-  sub-glyph that marks the wearer as a target for a specific predator-spirit. Her mother used it on hunters
-  before dangerous expeditions. Brisa now suspects her mother was deliberately feeding hunters to the
-  predator-spirit in exchange for the glyph-knowledge, and that Brisa herself was marked with the same
-  sub-glyph as an infant. She has stopped using the protection glyph entirely but has not told anyone
-  why, and hunters have begun asking why their luck has changed.
-personality: Warm and optimistic, guarded and cautious with trust, perceptive and watchful.
+appearance: Hands and forearms permanently stained red-black from years of dye work.
+  Bright, observant eyes. Wears simple wrapped cloth, always with a clay pot of fresh
+  pigment at her hip.
+biography: A body painter whose designs are more than decoration — they are spirit-glyphs
+  that can temporarily grant protection, courage, or luck. Brisa learned the true
+  glyph-language from her mother, who learned it from a painted-spirit that lives
+  in the cliff caves above the river. Brisa has discovered that one of the glyph patterns
+  she was taught — the one used for 'protection from harm' — actually contains a sub-glyph
+  that marks the wearer as a target for a specific predator-spirit. Her mother used
+  it on hunters before dangerous expeditions. Brisa now suspects her mother was deliberately
+  feeding hunters to the predator-spirit in exchange for the glyph-knowledge, and
+  that Brisa herself was marked with the same sub-glyph as an infant. She has stopped
+  using the protection glyph entirely but has not told anyone why, and hunters have
+  begun asking why their luck has changed.
+personality: Warm and optimistic, guarded and cautious with trust, perceptive and
+  watchful.
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-softbark-chest-wrap
+  - item:womens-inner-hip-wrap
   clothing:
   - item:sleeveless-barkcloth-tunic
   - item:softbark-wrap-skirt
@@ -73,7 +81,15 @@ visual:
   distinctive_features:
   - permanent red-black pigment staining from fingertips to elbows
   - a faint glyph-shaped birthmark on the right shoulder blade
-  prompt: ''
+  prompt: 1girl, solo, adult woman, compact and strong from preparing dye materials,
+    medium breasts, warm copper-brown skin, Indigenous Amazonian facial features,
+    high cheekbones, dark brown eyes, black, tied back with a cord of woven fiber
+    hair, permanent red-black pigment staining from fingertips to elbows, a faint
+    glyph-shaped birthmark on the right shoulder blade, sleeveless barkcloth tunic,
+    softbark wrap skirt, portrait, upper body, looking at viewer, soft lighting
+  skin: warm copper-brown
+  height: 5'1"
+  face: Indigenous Amazonian facial features, high cheekbones
 image:
   url: ''
   focalPoint:
@@ -81,8 +97,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:ver-canopy-council
 desires:
@@ -93,6 +109,8 @@ fears_or_limits:
 - That her mother's glyph-knowledge is poisoned and everything she paints is compromised
 current_state:
   location: location:iara
+memories: []
+momentos: []
 purview: []
 ---
 

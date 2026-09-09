@@ -47,7 +47,9 @@ key_phrases:
 - A clean ledger and a clean bath both reveal what people tried to hide.
 - Sit. Warm up. Then tell me the part you skipped.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-hadajuban
+  - item:womens-koshimaki
   clothing:
   - item:hemp-work-kosode
   armor: []
@@ -63,18 +65,89 @@ visual:
   hair: black, shoulder-length, tied with a plum cord
   eyes: dark brown
   distinctive_features: faint steam burn on the inside of her right wrist
-  prompt: 1girl, solo, adult woman, human, compact athletic build, short warm beige skin, dark brown eyes,
-    condensation on metal surfaces, focused expression, upper body, three-quarter view, traditional japanese
-    bathhouse interior, wooden floors, tatami mats, paper sliding doors, soft warm ambient lighting
+  prompt: 1girl, solo, female focus, Human, adult woman, compact athletic build, small breasts, short,
+    warm beige skin, traditional Japanese facial features, dark brown eyes, black hair, shoulder-length
+    hair, japanese ryokan, warm ambient bathhouse lighting, welcoming smile, short-sleeve kimono
+  face: traditional Japanese facial features
 image:
-  url: ''
+  url: assets/images/characters/akiyama-sora.background-2.png
   focalPoint:
-    x: 0.5
-    y: 0.1
-  seed: null
+    x: 0.548
+    y: 0.366
+  seed: 23080178
   variations:
   - name: neutral
     backgroundRemovedUrl: ''
+  promptUsed: 1girl, solo, female focus, Human, adult woman, compact athletic build, small breasts, short,
+    warm beige skin, traditional Japanese facial features, dark brown eyes, black hair, shoulder-length
+    hair, tied with a plum cord, faint steam burn on the inside of her right wrist, japanese ryokan, warm
+    ambient bathhouse lighting, loving face, short-sleeve kimono, wide environmental character scene,
+    full setting visible, cinematic composition, character scene illustration, readable character, detailed
+    setting, wide cinematic composition, horizontal framing, subject and action inside the central horizontal
+    band, masterpiece, best quality, very aesthetic, watercolor illustration, traditional media illustration,
+    watercolor and ink illustration, inked linework, painterly, semi-realistic, sketchy delicate linework,
+    variable line weight, loose watercolor brushwork, textured watercolor shading, transparent watercolor
+    washes, soft shading, soft gradients, diffused natural lighting, atmospheric perspective, soft painterly
+    background, subtle atmospheric haze, airy, elegant fantasy illustration
+  negativePrompt: worst quality, low quality, lowres, 3d, cgi, photorealistic, photo, cel shading, hard
+    cel shading, flat coloring, vector art, thick lineart, uniform lineart, airbrush, overly smooth, overly
+    polished, plastic skin, glossy skin, shiny skin, glossy leather, latex, oversaturated, neon colors,
+    bloom, lens flare, strong rim light, game render, anime screencap, gacha illustration, ink spill,
+    spilled ink, ink splatter, ink stain, paint splatter, paint drips, paint stains, random brush strokes,
+    visible brush marks floating over image, art supplies, paint palette, paintbrush, border, frame, text,
+    watermark, logo, signature
+  generationId: b49845ae-c939-44cf-ad22-33f705836215
+  size:
+  - 1216
+  - 832
+  template: character-background
+  profile: oneobsession-v23
+  recipe:
+    template: character-background
+  requestPayload:
+    prompt: 1girl, solo, female focus, Human, adult woman, compact athletic build, small breasts, short,
+      warm beige skin, traditional Japanese facial features, dark brown eyes, black hair, shoulder-length
+      hair, tied with a plum cord, faint steam burn on the inside of her right wrist, japanese ryokan,
+      warm ambient bathhouse lighting, loving face, short-sleeve kimono, wide environmental character
+      scene, full setting visible, cinematic composition, character scene illustration, readable character,
+      detailed setting, wide cinematic composition, horizontal framing, subject and action inside the
+      central horizontal band, masterpiece, best quality, very aesthetic, watercolor illustration, traditional
+      media illustration, watercolor and ink illustration, inked linework, painterly, semi-realistic,
+      sketchy delicate linework, variable line weight, loose watercolor brushwork, textured watercolor
+      shading, transparent watercolor washes, soft shading, soft gradients, diffused natural lighting,
+      atmospheric perspective, soft painterly background, subtle atmospheric haze, airy, elegant fantasy
+      illustration
+    seed: 23080178
+    face_fix: true
+    negative_prompt: worst quality, low quality, lowres, 3d, cgi, photorealistic, photo, cel shading,
+      hard cel shading, flat coloring, vector art, thick lineart, uniform lineart, airbrush, overly smooth,
+      overly polished, plastic skin, glossy skin, shiny skin, glossy leather, latex, oversaturated, neon
+      colors, bloom, lens flare, strong rim light, game render, anime screencap, gacha illustration, ink
+      spill, spilled ink, ink splatter, ink stain, paint splatter, paint drips, paint stains, random brush
+      strokes, visible brush marks floating over image, art supplies, paint palette, paintbrush, border,
+      frame, text, watermark, logo, signature
+    width: 1216
+    height: 832
+  generatedAt: '2026-09-09T04:34:50Z'
+  gallery:
+  - url: assets/images/characters/akiyama-sora.background.png
+    focalPoint:
+      x: 0.49
+      y: 0.44
+    seed: 60557006
+    promptUsed: 1girl, solo, female focus, Human, adult woman, compact athletic build, small breasts,
+      short, warm beige skin, traditional Japanese facial features, dark brown eyes, black hair, shoulder-length
+      hair, tied with a plum cord, faint steam burn on the inside of her right wrist, japanese ryokan,
+      warm ambient bathhouse lighting, smirking, short-sleeve kimono, wide environmental character scene,
+      full setting visible, cinematic composition, character scene illustration, readable character, detailed
+      setting, wide cinematic composition, horizontal framing, subject and action inside the central horizontal
+      band, masterpiece, best quality, very aesthetic, watercolor illustration, traditional media illustration,
+      watercolor and ink illustration, inked linework, painterly, semi-realistic, sketchy delicate linework,
+      variable line weight, loose watercolor brushwork, textured watercolor shading, transparent watercolor
+      washes, soft shading, soft gradients, diffused natural lighting, atmospheric perspective, soft painterly
+      background, subtle atmospheric haze, airy, elegant fantasy illustration
+    generationId: 7a354098-f56c-40ca-b7dd-8d715067f927
+    template: character-background
 affiliations: []
 desires:
 - Keep the bathhouse independent and its workers securely paid.
@@ -84,6 +157,10 @@ fears_or_limits:
 - She mistakes asking for help for surrendering authority.
 current_state:
   location: location:tsu-haru-onsen-bathhouse
+memories:
+- campaign-event/the-night-the-ward-bell-cracked
+momentos:
+- the-broken-ward-tile
 purview: []
 ---
 

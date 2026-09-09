@@ -1,15 +1,16 @@
 ---
 id: character:guo-mingyue
 name: Guo Mingyue
-gm_notes: 'A jade carver whose work is sought after by all three courts. She has discovered that a specific
-  type of jade, when carved with precise geometric patterns, can store and release chi in controlled bursts.
-  She has created three such ''chi-jade'' pieces: one amplifies physical strength, one enhances mental
-  clarity, and one accelerates healing. She has given the healing piece secretly to a rebel faction that
-  opposes all three warlords. She is a member of that faction—the ''Jade Restoration''—which seeks to
-  reunify the states through cultural rather than military power. Her faction is small but includes influential
-  scholars and artisans.'
+gm_notes: 'A jade carver whose work is sought after by all three courts. She has discovered
+  that a specific type of jade, when carved with precise geometric patterns, can store
+  and release chi in controlled bursts. She has created three such ''chi-jade'' pieces:
+  one amplifies physical strength, one enhances mental clarity, and one accelerates
+  healing. She has given the healing piece secretly to a rebel faction that opposes
+  all three warlords. She is a member of that faction—the ''Jade Restoration''—which
+  seeks to reunify the states through cultural rather than military power. Her faction
+  is small but includes influential scholars and artisans.'
 aliases: []
-race: Elf
+race: Human
 gender: Female
 age: 37
 heritage: Sangguo (Jin)
@@ -38,22 +39,26 @@ currency:
   gold: 1
   silver: 2
   copper: 28
-appearance: Precise and self-contained, wearing fine craftsman's robes. Hands always still and deliberate.
-biography: 'A jade carver whose work is sought after by all three courts. She has discovered that a specific
-  type of jade, when carved with precise geometric patterns, can store and release chi in controlled bursts.
-  She has created three such ''chi-jade'' pieces: one amplifies physical strength, one enhances mental
-  clarity, and one accelerates healing. She has given the healing piece secretly to a rebel faction that
-  opposes all three warlords. She is a member of that faction—the ''Jade Restoration''—which seeks to
-  reunify the states through cultural rather than military power. Her faction is small but includes influential
-  scholars and artisans.'
-personality: Precise and detail-oriented, defiant and independently minded, guarded and cautious with
-  trust.
+appearance: Precise and self-contained, wearing fine craftsman's robes. Hands always
+  still and deliberate.
+biography: 'A jade carver whose work is sought after by all three courts. She has
+  discovered that a specific type of jade, when carved with precise geometric patterns,
+  can store and release chi in controlled bursts. She has created three such ''chi-jade''
+  pieces: one amplifies physical strength, one enhances mental clarity, and one accelerates
+  healing. She has given the healing piece secretly to a rebel faction that opposes
+  all three warlords. She is a member of that faction—the ''Jade Restoration''—which
+  seeks to reunify the states through cultural rather than military power. Her faction
+  is small but includes influential scholars and artisans.'
+personality: Precise and detail-oriented, defiant and independently minded, guarded
+  and cautious with trust.
 key_phrases:
 - The material tells you what it wants to become.
 - My hands remember what my mind forgets.
 - I will not rest until I see the three states reunified without more bloodshed.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-inner-ru
+  - item:womens-loose-undertrousers
   clothing:
   - item:straight-hem-shenyi
   armor: []
@@ -69,7 +74,14 @@ visual:
   distinctive_features:
   - jade-dust stains in the cuticles
   - a faint white scar on the right thumb from a carving slip
-  prompt: ''
+  prompt: 1girl, solo, adult woman, slender with strong, fine-motor hands, small breasts,
+    warm beige skin, strong Chinese facial features, green-flecked brown eyes, black,
+    in a neat carver's topknot, jade-dust stains in the cuticles, a faint white scar
+    on the right thumb from a carving slip, straight-hem shenyi robe, wide embroidered
+    sash, portrait, upper body, looking at viewer, soft lighting
+  skin: warm beige
+  height: 5'3"
+  face: strong Chinese facial features
 image:
   url: ''
   focalPoint:
@@ -77,8 +89,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:san-merchant-cartel
 desires:
@@ -89,6 +101,8 @@ fears_or_limits:
 - The Jade Restoration being infiltrated by state agents
 current_state:
   location: location:jin-an
+memories: []
+momentos: []
 purview: []
 ---
 

@@ -1,11 +1,12 @@
 ---
 id: character:jorah-quillback
 name: Jorah Quillback
-gm_notes: Jorah is a scribe who works for the city magistrate, recording legal proceedings and property
-  disputes. He has been falsifying land records to slowly transfer properties from absent or refugee landowners
-  to a particular noble — Lord Cael. Jorah was coerced into this after Lord Cael's men threatened his
-  family. He has kept a hidden copy of every falsified record, hoping that one day he can use them to
-  undo the damage and expose Cael. The hidden records are sewn into the lining of his coat.
+gm_notes: Jorah is a scribe who works for the city magistrate, recording legal proceedings
+  and property disputes. He has been falsifying land records to slowly transfer properties
+  from absent or refugee landowners to a particular noble — Lord Cael. Jorah was coerced
+  into this after Lord Cael's men threatened his family. He has kept a hidden copy
+  of every falsified record, hoping that one day he can use them to undo the damage
+  and expose Cael. The hidden records are sewn into the lining of his coat.
 aliases: []
 race: Human
 gender: Male
@@ -35,20 +36,26 @@ currency:
   gold: 5
   silver: 18
   copper: 29
-appearance: Thin and precise, Jorah wears an ink-spotted scholar's coat and carries a leather satchel
-  of documents. He is always neatly groomed and speaks in measured, careful sentences.
-biography: Jorah is a scribe who works for the city magistrate, recording legal proceedings and property
-  disputes. He has been falsifying land records to slowly transfer properties from absent or refugee landowners
-  to a particular noble — Lord Cael. Jorah was coerced into this after Lord Cael's men threatened his
-  family. He has kept a hidden copy of every falsified record, hoping that one day he can use them to
-  undo the damage and expose Cael. The hidden records are sewn into the lining of his coat.
-personality: Precise and detail-oriented, composed and even-tempered, dignified and self-assured.
+appearance: Thin and precise, Jorah wears an ink-spotted scholar's coat and carries
+  a leather satchel of documents. He is always neatly groomed and speaks in measured,
+  careful sentences.
+biography: Jorah is a scribe who works for the city magistrate, recording legal proceedings
+  and property disputes. He has been falsifying land records to slowly transfer properties
+  from absent or refugee landowners to a particular noble — Lord Cael. Jorah was coerced
+  into this after Lord Cael's men threatened his family. He has kept a hidden copy
+  of every falsified record, hoping that one day he can use them to undo the damage
+  and expose Cael. The hidden records are sewn into the lining of his coat.
+personality: Precise and detail-oriented, composed and even-tempered, dignified and
+  self-assured.
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
-- I will not rest until I find a way to expose lord cael's land theft without endangering me family.
+- I will not rest until I find a way to expose lord cael's land theft without endangering
+  me family.
 equipment:
-  underwear: []
+  underwear:
+  - item:mens-linen-undershirt
+  - item:mens-drawstring-braies
   clothing:
   - item:linen-work-tunic
   - item:wool-trousers
@@ -62,9 +69,15 @@ visual:
   body_build: thin and angular, average chest
   hair: sandy brown, neatly combed
   eyes: grey
-  distinctive_features: a callus on his right middle finger (quill), ink stain on his left cuff that never
-    washes out, wire-rimmed spectacles
-  prompt: ''
+  distinctive_features: a callus on his right middle finger (quill), ink stain on
+    his left cuff that never washes out, wire-rimmed spectacles
+  prompt: 1man, solo, adult man, thin and angular, average chest, pale fair skin,
+    refined European facial features, grey eyes, sandy brown, neatly combed hair,
+    a callus on his right middle finger, ink stain on his left cuff, linen work tunic,
+    leather belt, wool trousers, portrait, upper body, looking at viewer, soft lighting
+  skin: pale fair
+  height: 5'10"
+  face: refined European facial features
 image:
   url: ''
   focalPoint:
@@ -72,8 +85,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:val-mages-circle
 desires:
@@ -84,6 +97,8 @@ fears_or_limits:
 - that he has already done too much damage to ever make it right
 current_state:
   location: location:crownhaven
+memories: []
+momentos: []
 purview: []
 ---
 

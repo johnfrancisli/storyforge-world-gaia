@@ -1,15 +1,16 @@
 ---
 id: character:vesper-ashlight
 name: Vesper Ashlight
-gm_notes: 'Vesper is a falconer who tends hunting birds for a minor lord''s estate near Dragonrest. Over
-  the past month, her falcons have begun refusing to fly toward the northern mountains — they launch,
-  circle, and return immediately, shrieking and agitated. This behaviour coincides with Aurelia Dawnspear''s
-  secret observation that her dragon Emberthyst is being drawn to the same mountains. Vesper does not
-  know about Aurelia''s situation, but she has her own theory: something large and predatory has established
-  territory in the northern peaks, something that terrifies even birds of prey. She has tried to warn
-  the local lord, who laughed and told her falcons are skittish creatures. She is now trying to reach
-  the Dragon Order directly, but a falconer has no standing to request an audience with dragon-bonded
-  knights.'
+gm_notes: 'Vesper is a falconer who tends hunting birds for a minor lord''s estate
+  near Dragonrest. Over the past month, her falcons have begun refusing to fly toward
+  the northern mountains — they launch, circle, and return immediately, shrieking
+  and agitated. This behaviour coincides with Aurelia Dawnspear''s secret observation
+  that her dragon Emberthyst is being drawn to the same mountains. Vesper does not
+  know about Aurelia''s situation, but she has her own theory: something large and
+  predatory has established territory in the northern peaks, something that terrifies
+  even birds of prey. She has tried to warn the local lord, who laughed and told her
+  falcons are skittish creatures. She is now trying to reach the Dragon Order directly,
+  but a falconer has no standing to request an audience with dragon-bonded knights.'
 aliases: []
 race: Human
 gender: Female
@@ -39,24 +40,29 @@ currency:
   gold: 0
   silver: 15
   copper: 4
-appearance: Quiet and watchful, Vesper wears a leather falconer's gauntlet on her left arm and a simple
-  tunic. A peregrine falcon named Ash is usually perched on her wrist. She has an stillness about her
-  that comes from hours of patient stillness with her birds.
-biography: 'Vesper is a falconer who tends hunting birds for a minor lord''s estate near Dragonrest. Over
-  the past month, her falcons have begun refusing to fly toward the northern mountains — they launch,
-  circle, and return immediately, shrieking and agitated. This behaviour coincides with Aurelia Dawnspear''s
-  secret observation that her dragon Emberthyst is being drawn to the same mountains. Vesper does not
-  know about Aurelia''s situation, but she has her own theory: something large and predatory has established
-  territory in the northern peaks, something that terrifies even birds of prey. She has tried to warn
-  the local lord, who laughed and told her falcons are skittish creatures. She is now trying to reach
-  the Dragon Order directly, but a falconer has no standing to request an audience with dragon-bonded
-  knights.'
-personality: Composed and even-tempered, reserved and soft-spoken, guarded and cautious with trust.
+appearance: Quiet and watchful, Vesper wears a leather falconer's gauntlet on her
+  left arm and a simple tunic. A peregrine falcon named Ash is usually perched on
+  her wrist. She has an stillness about her that comes from hours of patient stillness
+  with her birds.
+biography: 'Vesper is a falconer who tends hunting birds for a minor lord''s estate
+  near Dragonrest. Over the past month, her falcons have begun refusing to fly toward
+  the northern mountains — they launch, circle, and return immediately, shrieking
+  and agitated. This behaviour coincides with Aurelia Dawnspear''s secret observation
+  that her dragon Emberthyst is being drawn to the same mountains. Vesper does not
+  know about Aurelia''s situation, but she has her own theory: something large and
+  predatory has established territory in the northern peaks, something that terrifies
+  even birds of prey. She has tried to warn the local lord, who laughed and told her
+  falcons are skittish creatures. She is now trying to reach the Dragon Order directly,
+  but a falconer has no standing to request an audience with dragon-bonded knights.'
+personality: Composed and even-tempered, reserved and soft-spoken, guarded and cautious
+  with trust.
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-linen-chemise
+  - item:womens-linen-underbreeches
   clothing:
   - item:linen-work-tunic
   - item:wool-trousers
@@ -70,9 +76,16 @@ visual:
   body_build: lean and still, small breasts
   hair: dark brown, braided and pinned close to her head
   eyes: hawkish amber
-  distinctive_features: permanent talon scars on her left forearm (falconer's marks), a burn scar on her
-    right cheek (a spark from a campfire), a calm stillness in her gaze that unsettles some people
-  prompt: ''
+  distinctive_features: permanent talon scars on her left forearm (falconer's marks),
+    a burn scar on her right cheek (a spark from a campfire), a calm stillness in
+    her gaze that unsettles some people
+  prompt: 1girl, solo, adult woman, lean and still, small breasts, light beige skin,
+    classic European facial features, hawkish amber eyes, dark brown, braided and
+    pinned close to her head hair, linen work tunic, leather belt, wool trousers,
+    portrait, upper body, looking at viewer, soft lighting
+  skin: light beige
+  height: 5'5"
+  face: classic European facial features
 image:
   url: ''
   focalPoint:
@@ -80,8 +93,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:val-mages-circle
 desires:
@@ -92,6 +105,8 @@ fears_or_limits:
 - that no one will listen to a falconer until it is too late
 current_state:
   location: location:dragonrest
+memories: []
+momentos: []
 purview: []
 ---
 

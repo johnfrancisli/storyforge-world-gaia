@@ -1,15 +1,16 @@
 ---
 id: character:lu-fang
 name: Lu Fang
-gm_notes: Lu Fang is loyal to the idea of a unified Sangguo, not to Cao Shen personally. He believes Cao
-  Shen is the best path to unification, but if Cao Shen dies before achieving it, Lu Fang intends to pursue
-  it himself — by faster, less careful means. He has been quietly building his own base of support among
-  the younger officers at the Academy. He is not disloyal — he is loyal to a larger cause that he believes
-  Cao Shen serves, for now. He does not know about Cao Shen's health, and when he finds out, his timeline
-  will accelerate.
+gm_notes: Lu Fang is loyal to the idea of a unified Sangguo, not to Cao Shen personally.
+  He believes Cao Shen is the best path to unification, but if Cao Shen dies before
+  achieving it, Lu Fang intends to pursue it himself — by faster, less careful means.
+  He has been quietly building his own base of support among the younger officers
+  at the Academy. He is not disloyal — he is loyal to a larger cause that he believes
+  Cao Shen serves, for now. He does not know about Cao Shen's health, and when he
+  finds out, his timeline will accelerate.
 aliases:
 - General Lu Fang
-race: Elf
+race: Human
 gender: Male
 age: 25
 heritage: Sangguo (Jin)
@@ -38,21 +39,25 @@ currency:
   gold: 11
   silver: 18
   copper: 17
-appearance: A tall, imposing man in military robes and lamellar armor, a dao sword at his hip. He stands
-  the way soldiers do — balanced, ready, aware of exits. His beard is thick and his topknot is precise.
-  He speaks rarely and means it.
-biography: Lu Fang is loyal to the idea of a unified Sangguo, not to Cao Shen personally. He believes
-  Cao Shen is the best path to unification, but if Cao Shen dies before achieving it, Lu Fang intends
-  to pursue it himself — by faster, less careful means. He has been quietly building his own base of support
-  among the younger officers at the Academy. He is not disloyal — he is loyal to a larger cause that he
-  believes Cao Shen serves, for now. He does not know about Cao Shen's health, and when he finds out,
-  his timeline will accelerate.
-personality: Precise and detail-oriented, reserved and soft-spoken, steadfast and devoted.
+appearance: A tall, imposing man in military robes and lamellar armor, a dao sword
+  at his hip. He stands the way soldiers do — balanced, ready, aware of exits. His
+  beard is thick and his topknot is precise. He speaks rarely and means it.
+biography: Lu Fang is loyal to the idea of a unified Sangguo, not to Cao Shen personally.
+  He believes Cao Shen is the best path to unification, but if Cao Shen dies before
+  achieving it, Lu Fang intends to pursue it himself — by faster, less careful means.
+  He has been quietly building his own base of support among the younger officers
+  at the Academy. He is not disloyal — he is loyal to a larger cause that he believes
+  Cao Shen serves, for now. He does not know about Cao Shen's health, and when he
+  finds out, his timeline will accelerate.
+personality: Precise and detail-oriented, reserved and soft-spoken, steadfast and
+  devoted.
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 equipment:
-  underwear: []
+  underwear:
+  - item:mens-inner-yi
+  - item:mens-short-underdrawers
   clothing:
   - item:straight-hem-shenyi
   armor: []
@@ -66,7 +71,14 @@ visual:
   hair: black, topknot, thick beard
   eyes: dark brown
   distinctive_features: a old arrow scar on the left shoulder, callused sword-hand
-  prompt: ''
+  prompt: 1boy, solo, young adult man, tall, muscular, imposing, broad chest, light
+    beige skin, strong Chinese facial features, dark brown eyes, black, topknot, thick
+    beard, a old arrow scar on the left shoulder, callused sword-hand, straight-hem
+    shenyi robe, wide embroidered sash, portrait, upper body, looking at viewer, soft
+    lighting
+  skin: light beige
+  height: 5'10"
+  face: strong Chinese facial features
 image:
   url: ''
   focalPoint:
@@ -74,18 +86,23 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:jin-state
 desires:
-- To reunify Sangguo under a strong leader, whether that leader is Cao Shen or, if necessary, himself.
+- To reunify Sangguo under a strong leader, whether that leader is Cao Shen or, if
+  necessary, himself.
 - To prove that military action, not economic patience, is the path to unification.
 fears_or_limits:
-- He underestimates the economic dimension of the conflict — Chu's wealth is a weapon he does not respect.
-  He does not know Cao Shen is dying, and his plans are built on the assumption that Cao Shen has years.
+- He underestimates the economic dimension of the conflict — Chu's wealth is a weapon
+  he does not respect. He does not know Cao Shen is dying, and his plans are built
+  on the assumption that Cao Shen has years.
 current_state:
   location: location:jin-an
+memories:
+- campaign-event/the-steaming-cup-at-the-tea-conclave
+momentos: []
 purview: []
 ---
 

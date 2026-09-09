@@ -1,15 +1,17 @@
 ---
 id: character:lago
 name: Lago
-gm_notes: 'An eight-year-old Mizuhito boy who is one of the four river-born children secretly placed by
-  the midwife Ondina. Lago does not know his own origin, but he has always been different: he can breathe
-  underwater for short periods (unusual even among Mizuhito, who can hold their breath for long stretches
-  but cannot truly breathe water), he never cries, and he can find fresh water by smell across remarkable
-  distances. Recently, Lago has started having dreams about a place deep in the river — a chamber beneath
-  the water with a stone door — and he has been trying to describe it to his parents using drawings. His
-  parents are confused and a little frightened. Ondina, who visits the family regularly, recognized the
-  drawings immediately and has been trying to discourage Lago from sharing them, which has made the boy
-  secretive. He has started sneaking to the river at night to listen to the water.'
+gm_notes: 'An eight-year-old Mizuhito boy who is one of the four river-born children
+  secretly placed by the midwife Ondina. Lago does not know his own origin, but he
+  has always been different: he can breathe underwater for short periods (unusual
+  even among Mizuhito, who can hold their breath for long stretches but cannot truly
+  breathe water), he never cries, and he can find fresh water by smell across remarkable
+  distances. Recently, Lago has started having dreams about a place deep in the river
+  — a chamber beneath the water with a stone door — and he has been trying to describe
+  it to his parents using drawings. His parents are confused and a little frightened.
+  Ondina, who visits the family regularly, recognized the drawings immediately and
+  has been trying to discourage Lago from sharing them, which has made the boy secretive.
+  He has started sneaking to the river at night to listen to the water.'
 aliases: []
 race: Mizuhito
 gender: Male
@@ -40,25 +42,30 @@ currency:
   gold: 0
   silver: 0
   copper: 1
-appearance: Small and sleek, perpetually damp. Always near the water's edge. Carries a piece of charcoal
-  for drawing on bark.
-biography: 'An eight-year-old Mizuhito boy who is one of the four river-born children secretly placed
-  by the midwife Ondina. Lago does not know his own origin, but he has always been different: he can breathe
-  underwater for short periods (unusual even among Mizuhito, who can hold their breath for long stretches
-  but cannot truly breathe water), he never cries, and he can find fresh water by smell across remarkable
-  distances. Recently, Lago has started having dreams about a place deep in the river — a chamber beneath
-  the water with a stone door — and he has been trying to describe it to his parents using drawings. His
-  parents are confused and a little frightened. Ondina, who visits the family regularly, recognized the
-  drawings immediately and has been trying to discourage Lago from sharing them, which has made the boy
-  secretive. He has started sneaking to the river at night to listen to the water.'
+appearance: Small and sleek, perpetually damp. Always near the water's edge. Carries
+  a piece of charcoal for drawing on bark.
+biography: 'An eight-year-old Mizuhito boy who is one of the four river-born children
+  secretly placed by the midwife Ondina. Lago does not know his own origin, but he
+  has always been different: he can breathe underwater for short periods (unusual
+  even among Mizuhito, who can hold their breath for long stretches but cannot truly
+  breathe water), he never cries, and he can find fresh water by smell across remarkable
+  distances. Recently, Lago has started having dreams about a place deep in the river
+  — a chamber beneath the water with a stone door — and he has been trying to describe
+  it to his parents using drawings. His parents are confused and a little frightened.
+  Ondina, who visits the family regularly, recognized the drawings immediately and
+  has been trying to discourage Lago from sharing them, which has made the boy secretive.
+  He has started sneaking to the river at night to listen to the water.'
 personality: Guarded and cautious with trust, carries a secret that shapes every decision.
 key_phrases:
 - I'm not afraid. I'm just... careful.
 - When you're small, you learn to notice things.
 - I will not rest until I find the place in me dreams and see if it is real.
 equipment:
-  underwear: []
-  clothing: []
+  underwear:
+  - item:mens-softbark-loin-underwrap
+  clothing:
+  - item:open-side-river-vest
+  - item:river-worker-split-wrap
   armor: []
   hands:
     left: null
@@ -72,8 +79,17 @@ visual:
   distinctive_features:
   - blue-green skin with faint mottling
   - webbed fingers and toes, still developing
-  - incipient gill-slits along the ribcage, more pronounced than typical Mizuhito children
-  prompt: ''
+  - incipient gill-slits along the ribcage, more pronounced than typical Mizuhito
+    children
+  prompt: 1boy, solo, young boy, amphibious humanoid, webbed fingers and toes, fine
+    aquatic scales, small and slight, still growing, sun-darkened teal and blue-green
+    skin, fine-scaled amphibious features, large dark eyes, pale aquamarine eyes,
+    dark blue-green, fine, clinging to the skull hair, blue-green skin with faint
+    mottling, still developing, open-side river vest, river-worker split wrap, portrait,
+    upper body, looking at viewer, soft lighting
+  skin: sun-darkened teal and blue-green
+  height: 3'11"
+  face: fine-scaled amphibious features, large dark eyes
 image:
   url: ''
   focalPoint:
@@ -81,8 +97,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:ver-shaman-circle
 desires:
@@ -93,6 +109,8 @@ fears_or_limits:
 - The dark shapes he sometimes sees moving beneath the platform at night
 current_state:
   location: location:iara
+memories: []
+momentos: []
 purview: []
 ---
 

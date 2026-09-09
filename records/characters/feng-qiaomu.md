@@ -1,12 +1,14 @@
 ---
 id: character:feng-qiaomu
 name: Feng Qiaomu
-gm_notes: A rice farmer whose paddies sit at the border where Jin, Chu, and Wei territories meet. Her
-  farm has been raided by soldiers from all three states, each demanding her rice as 'taxation.' She has
-  developed a system of hidden underground grain stores and has been secretly feeding a growing community
-  of deserters from all three armies who live in the marshlands nearby. The deserters have formed a small
-  settlement they call 'No Flag Village.' She is their sole food supplier and the village would starve
-  without her. She is beginning to dream of the village becoming a true sanctuary—neutral ground.
+gm_notes: A rice farmer whose paddies sit at the border where Jin, Chu, and Wei territories
+  meet. Her farm has been raided by soldiers from all three states, each demanding
+  her rice as 'taxation.' She has developed a system of hidden underground grain stores
+  and has been secretly feeding a growing community of deserters from all three armies
+  who live in the marshlands nearby. The deserters have formed a small settlement
+  they call 'No Flag Village.' She is their sole food supplier and the village would
+  starve without her. She is beginning to dream of the village becoming a true sanctuary—neutral
+  ground.
 aliases: []
 race: Human
 gender: Female
@@ -36,20 +38,26 @@ currency:
   gold: 3
   silver: 2
   copper: 8
-appearance: Sun-browned and strong, wearing mud-stained farmer's clothes and a woven rice-straw hat.
-biography: A rice farmer whose paddies sit at the border where Jin, Chu, and Wei territories meet. Her
-  farm has been raided by soldiers from all three states, each demanding her rice as 'taxation.' She has
-  developed a system of hidden underground grain stores and has been secretly feeding a growing community
-  of deserters from all three armies who live in the marshlands nearby. The deserters have formed a small
-  settlement they call 'No Flag Village.' She is their sole food supplier and the village would starve
-  without her. She is beginning to dream of the village becoming a true sanctuary—neutral ground.
+appearance: Sun-browned and strong, wearing mud-stained farmer's clothes and a woven
+  rice-straw hat.
+biography: A rice farmer whose paddies sit at the border where Jin, Chu, and Wei territories
+  meet. Her farm has been raided by soldiers from all three states, each demanding
+  her rice as 'taxation.' She has developed a system of hidden underground grain stores
+  and has been secretly feeding a growing community of deserters from all three armies
+  who live in the marshlands nearby. The deserters have formed a small settlement
+  they call 'No Flag Village.' She is their sole food supplier and the village would
+  starve without her. She is beginning to dream of the village becoming a true sanctuary—neutral
+  ground.
 personality: Guarded and cautious with trust, carries a secret that shapes every decision.
 key_phrases:
 - The land doesn't care about your plans.
 - Patience is the only crop that grows in any season.
-- I will not rest until I see no flag village recognized as neutral territory by all three states.
+- I will not rest until I see no flag village recognized as neutral territory by all
+  three states.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-inner-ru
+  - item:womens-loose-undertrousers
   clothing:
   - item:short-shan-work-shirt
   - item:bound-cuff-field-trousers
@@ -66,7 +74,15 @@ visual:
   distinctive_features:
   - deep tan lines from the rice-straw hat
   - a faded scar on the left shin from a plow accident
-  prompt: ''
+  prompt: 1girl, solo, adult woman, sturdy and broad-hipped from years of field labor,
+    large breasts, sun-browned tan skin, strong Chinese facial features, warm brown
+    eyes, dark brown, gray at the temples, in a tight braid hair, deep tan lines from
+    the rice-straw hat, a faded scar on the left shin from a plow accident, short
+    shan work shirt, bound-cuff field trousers, portrait, upper body, looking at viewer,
+    soft lighting
+  skin: sun-browned tan
+  height: 5'3"
+  face: strong Chinese facial features
 image:
   url: ''
   focalPoint:
@@ -74,8 +90,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:jin-state
 desires:
@@ -86,6 +102,8 @@ fears_or_limits:
 - Her hidden grain stores being found during a military search
 current_state:
   location: location:sangguo
+memories: []
+momentos: []
 purview: []
 ---
 

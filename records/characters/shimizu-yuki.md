@@ -1,12 +1,13 @@
 ---
 id: character:shimizu-yuki
 name: Shimizu Yuki
-gm_notes: Yuki has latent spirit-sight she has hidden since childhood — she can see yokai that are invisible
-  to ordinary people. As the shrine network's power has faded, she's been seeing more wild yokai slipping
-  through the wards near Haru Shrine, including something large and old that watches her from the treeline
-  at dusk. She hasn't told Head Priestess Katsura (character:katsura) because she fears being declared
-  corrupted and expelled. She's been performing extra purification rituals on her own, burning through
-  supplies faster than the shrine can replace them.
+gm_notes: Yuki has latent spirit-sight she has hidden since childhood — she can see
+  yokai that are invisible to ordinary people. As the shrine network's power has faded,
+  she's been seeing more wild yokai slipping through the wards near Haru Shrine, including
+  something large and old that watches her from the treeline at dusk. She hasn't told
+  Head Priestess Katsura (character:katsura) because she fears being declared corrupted
+  and expelled. She's been performing extra purification rituals on her own, burning
+  through supplies faster than the shrine can replace them.
 aliases:
 - Yuki
 race: Human
@@ -37,23 +38,28 @@ currency:
   gold: 4
   silver: 19
   copper: 18
-appearance: She wears the traditional white kosode and red hakama of a shrine maiden, her sleeves tied
-  back for work. Her hands are rough from scrubbing stone steps. She moves with careful, deliberate grace
-  and bows a little too deeply when addressed.
-biography: Yuki has latent spirit-sight she has hidden since childhood — she can see yokai that are invisible
-  to ordinary people. As the shrine network's power has faded, she's been seeing more wild yokai slipping
-  through the wards near Haru Shrine, including something large and old that watches her from the treeline
-  at dusk. She hasn't told Head Priestess Katsura (character:katsura) because she fears being declared
-  corrupted and expelled. She's been performing extra purification rituals on her own, burning through
-  supplies faster than the shrine can replace them.
-personality: Precise and detail-oriented, guarded and cautious with trust, blunt and rough-spoken.
+appearance: She wears the traditional white kosode and red hakama of a shrine maiden,
+  her sleeves tied back for work. Her hands are rough from scrubbing stone steps.
+  She moves with careful, deliberate grace and bows a little too deeply when addressed.
+biography: Yuki has latent spirit-sight she has hidden since childhood — she can see
+  yokai that are invisible to ordinary people. As the shrine network's power has faded,
+  she's been seeing more wild yokai slipping through the wards near Haru Shrine, including
+  something large and old that watches her from the treeline at dusk. She hasn't told
+  Head Priestess Katsura (character:katsura) because she fears being declared corrupted
+  and expelled. She's been performing extra purification rituals on her own, burning
+  through supplies faster than the shrine can replace them.
+personality: Precise and detail-oriented, guarded and cautious with trust, blunt and
+  rough-spoken.
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-hadajuban
+  - item:womens-koshimaki
   clothing:
-  - item:hemp-work-kosode
+  - item:shrine-maiden-kosode
+  - item:shrine-maiden-hakama
   armor: []
   hands:
     left: null
@@ -64,8 +70,16 @@ visual:
   body_build: slight, wiry
   hair: black, straight, hip-length, tied back with a white ribbon
   eyes: dark brown, wide-set
-  distinctive_features: a faint birthmark like a crescent moon at the base of her neck
-  prompt: ''
+  distinctive_features: a faint birthmark like a crescent moon at the base of her
+    neck
+  prompt: 1girl, solo, young adult woman, slight, wiry, medium breasts, weathered
+    sun-browned skin, traditional Japanese facial features, dark brown eyes, black,
+    straight, hip-length hair, a faint birthmark like a crescent moon at the base
+    of her neck, indigo hemp work kosode, portrait, upper body, looking at viewer,
+    soft lighting
+  skin: weathered sun-browned
+  height: 5'2"
+  face: traditional Japanese facial features
 image:
   url: ''
   focalPoint:
@@ -73,19 +87,22 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:ashikara-shogunate
 desires:
 - To protect Haru Shrine and the people who depend on it, even as the old power fades.
 - To understand what her spirit-sight means and whether it makes her blessed or cursed.
 fears_or_limits:
-- Being declared yokai-corrupted and expelled from the shrine — it happened to an elder when she was small,
-  and the memory haunts her.
-- Something in the forest is getting closer each week, and she doesn't know what she'll do when it arrives.
+- Being declared yokai-corrupted and expelled from the shrine — it happened to an
+  elder when she was small, and the memory haunts her.
+- Something in the forest is getting closer each week, and she doesn't know what she'll
+  do when it arrives.
 current_state:
   location: location:haru-shrine-town
+memories: []
+momentos: []
 purview: []
 ---
 

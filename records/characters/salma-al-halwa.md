@@ -1,14 +1,16 @@
 ---
 id: character:salma-al-halwa
 name: Salma al-Halwa
-gm_notes: 'A sweet maker renowned for her baklava and date-paste candies, which she infuses with rosewater
-  from a private rose garden. The rose garden was a gift from a djinn to her grandmother in exchange for
-  a promise: that the family would never sell the roses, only give them away. Salma''s family has kept
-  this promise for three generations, using the roses only in their sweets, which they sell — a grey area
-  the djinn has tolerated. A binding family has offered to buy the rose garden for an enormous sum, and
-  Salma''s brother is pressuring her to accept, arguing that the djinn is probably gone and the promise
-  meaningless. Salma has refused, and the argument has split the family. She has begun to suspect the
-  binding family wants the garden because the roses grow from soil a djinn touched, and the roses themselves
+gm_notes: 'A sweet maker renowned for her baklava and date-paste candies, which she
+  infuses with rosewater from a private rose garden. The rose garden was a gift from
+  a djinn to her grandmother in exchange for a promise: that the family would never
+  sell the roses, only give them away. Salma''s family has kept this promise for three
+  generations, using the roses only in their sweets, which they sell — a grey area
+  the djinn has tolerated. A binding family has offered to buy the rose garden for
+  an enormous sum, and Salma''s brother is pressuring her to accept, arguing that
+  the djinn is probably gone and the promise meaningless. Salma has refused, and the
+  argument has split the family. She has begun to suspect the binding family wants
+  the garden because the roses grow from soil a djinn touched, and the roses themselves
   have properties the families want for contract magic.'
 aliases: []
 race: Human
@@ -39,26 +41,32 @@ currency:
   gold: 3
   silver: 10
   copper: 12
-appearance: Petite and precise in a clean white apron, her hands quick and delicate with sugar work. She
-  is always surrounded by the scent of roses and honey. She wears a dried rose behind her ear.
-biography: 'A sweet maker renowned for her baklava and date-paste candies, which she infuses with rosewater
-  from a private rose garden. The rose garden was a gift from a djinn to her grandmother in exchange for
-  a promise: that the family would never sell the roses, only give them away. Salma''s family has kept
-  this promise for three generations, using the roses only in their sweets, which they sell — a grey area
-  the djinn has tolerated. A binding family has offered to buy the rose garden for an enormous sum, and
-  Salma''s brother is pressuring her to accept, arguing that the djinn is probably gone and the promise
-  meaningless. Salma has refused, and the argument has split the family. She has begun to suspect the
-  binding family wants the garden because the roses grow from soil a djinn touched, and the roses themselves
+appearance: Petite and precise in a clean white apron, her hands quick and delicate
+  with sugar work. She is always surrounded by the scent of roses and honey. She wears
+  a dried rose behind her ear.
+biography: 'A sweet maker renowned for her baklava and date-paste candies, which she
+  infuses with rosewater from a private rose garden. The rose garden was a gift from
+  a djinn to her grandmother in exchange for a promise: that the family would never
+  sell the roses, only give them away. Salma''s family has kept this promise for three
+  generations, using the roses only in their sweets, which they sell — a grey area
+  the djinn has tolerated. A binding family has offered to buy the rose garden for
+  an enormous sum, and Salma''s brother is pressuring her to accept, arguing that
+  the djinn is probably gone and the promise meaningless. Salma has refused, and the
+  argument has split the family. She has begun to suspect the binding family wants
+  the garden because the roses grow from soil a djinn touched, and the roses themselves
   have properties the families want for contract magic.'
 personality: Precise and detail-oriented.
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-long-cotton-chemise
+  - item:womens-cotton-underdrawers
   clothing:
   - item:knee-length-pirahan
   - item:bound-ankle-desert-trousers
+  - item:wrapped-work-apron
   armor: []
   hands:
     left: null
@@ -72,7 +80,15 @@ visual:
   distinctive_features:
   - a small sugar-burn scar on the left index finger
   - permanently rose-scented skin, even after washing
-  prompt: ''
+  prompt: 1girl, solo, young adult woman, petite, deft-fingered, medium breasts, warm
+    bronze-brown skin, striking West Asian facial features, strong dark brows, honey-brown
+    eyes, dark brown, long, tied with a ribbon hair, a small sugar-burn scar on the
+    left index finger, permanently rose-scented skin, even after washing, knee-length
+    pirahan shirt, bound-ankle desert trousers, portrait, upper body, looking at viewer,
+    soft lighting
+  skin: warm bronze-brown
+  height: 5'4"
+  face: striking West Asian facial features, strong dark brows
 image:
   url: ''
   focalPoint:
@@ -80,19 +96,23 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:binding-families
 desires:
-- To protect the rose garden and the promise her grandmother made, even against her own family
-- To understand why the binding family wants the roses and what they would do with them
+- To protect the rose garden and the promise her grandmother made, even against her
+  own family
+- To understand why the binding family wants the roses and what they would do with
+  them
 fears_or_limits:
 - That her brother will sell the garden behind her back and break the djinn's promise
-- That the djinn will return to find the promise broken and collect from the family in a way none of them
-  can pay
+- That the djinn will return to find the promise broken and collect from the family
+  in a way none of them can pay
 current_state:
   location: location:zaffar
+memories: []
+momentos: []
 purview: []
 ---
 

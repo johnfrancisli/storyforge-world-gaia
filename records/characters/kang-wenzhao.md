@@ -1,12 +1,14 @@
 ---
 id: character:kang-wenzhao
 name: Kang Wenzhao
-gm_notes: A scholar at the Great Academy specializing in pre-war political philosophy. He has written
-  a treatise arguing that the three-state division is illegitimate and that the unified kingdom should
-  be restored—not by conquest but by a council of scholars. The treatise has circulated secretly among
-  Academy scholars and is gaining support. The Jin warlord has obtained a copy and considers it treasonous.
-  Kang does not know the warlord has read it. He has been invited to a 'scholarly symposium' at the Jin
-  court, which is actually a trap to arrest him. The Academy has suspicions but no proof.
+gm_notes: A scholar at the Great Academy specializing in pre-war political philosophy.
+  He has written a treatise arguing that the three-state division is illegitimate
+  and that the unified kingdom should be restored—not by conquest but by a council
+  of scholars. The treatise has circulated secretly among Academy scholars and is
+  gaining support. The Jin warlord has obtained a copy and considers it treasonous.
+  Kang does not know the warlord has read it. He has been invited to a 'scholarly
+  symposium' at the Jin court, which is actually a trap to arrest him. The Academy
+  has suspicions but no proof.
 aliases: []
 race: Human
 gender: Male
@@ -36,21 +38,25 @@ currency:
   gold: 0
   silver: 20
   copper: 16
-appearance: Earnest and slightly rumpled, wearing Academy scholar's robes with ink on the cuffs. Always
-  carrying scrolls.
-biography: A scholar at the Great Academy specializing in pre-war political philosophy. He has written
-  a treatise arguing that the three-state division is illegitimate and that the unified kingdom should
-  be restored—not by conquest but by a council of scholars. The treatise has circulated secretly among
-  Academy scholars and is gaining support. The Jin warlord has obtained a copy and considers it treasonous.
-  Kang does not know the warlord has read it. He has been invited to a 'scholarly symposium' at the Jin
-  court, which is actually a trap to arrest him. The Academy has suspicions but no proof.
+appearance: Earnest and slightly rumpled, wearing Academy scholar's robes with ink
+  on the cuffs. Always carrying scrolls.
+biography: A scholar at the Great Academy specializing in pre-war political philosophy.
+  He has written a treatise arguing that the three-state division is illegitimate
+  and that the unified kingdom should be restored—not by conquest but by a council
+  of scholars. The treatise has circulated secretly among Academy scholars and is
+  gaining support. The Jin warlord has obtained a copy and considers it treasonous.
+  Kang does not know the warlord has read it. He has been invited to a 'scholarly
+  symposium' at the Jin court, which is actually a trap to arrest him. The Academy
+  has suspicions but no proof.
 personality: Guarded and cautious with trust, carries a secret that shapes every decision.
 key_phrases:
 - Knowledge is not power. Knowledge is a lantern in a large, dark room.
 - The truth does not need you to believe in it.
 - I will not rest until I see the reunification council become reality.
 equipment:
-  underwear: []
+  underwear:
+  - item:mens-inner-yi
+  - item:mens-short-underdrawers
   clothing:
   - item:wide-sleeved-scholar-robe
   armor: []
@@ -66,7 +72,14 @@ visual:
   distinctive_features:
   - a scholar's ink-stain on the left jaw
   - a slight stoop from years at writing desks
-  prompt: ''
+  prompt: 1man, solo, adult man, medium and slightly soft from scholarly life, average
+    chest, warm beige skin, delicate, elegant Chinese facial features, bright and
+    earnest brown eyes, black, in a scholar's topknot, often loosening, a scholar's
+    ink-stain on the left jaw, a slight stoop, wide-sleeved scholar robe, portrait,
+    upper body, looking at viewer, soft lighting
+  skin: warm beige
+  height: 5'8"
+  face: delicate, elegant Chinese facial features
 image:
   url: ''
   focalPoint:
@@ -74,18 +87,21 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:great-academy
 desires:
 - To see the reunification council become reality
 - To protect the students who follow his philosophy from warlord retaliation
 fears_or_limits:
-- The Jin 'symposium' invitation being a trap he cannot refuse without confirming his treason
+- The Jin 'symposium' invitation being a trap he cannot refuse without confirming
+  his treason
 - That his idealism will get his students killed
 current_state:
   location: location:jin-an
+memories: []
+momentos: []
 purview: []
 ---
 

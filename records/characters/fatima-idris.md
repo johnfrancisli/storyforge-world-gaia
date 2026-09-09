@@ -1,13 +1,14 @@
 ---
 id: character:fatima-idris
 name: Fatima Idris
-gm_notes: 'Fatima discovered Malik''s research notes three days ago. She is not bound by the contract
-  — she is the second child — but she has her own reasons for wanting the family''s debts exposed: the
-  binding families'' power is built on contracts that are quietly crushing them, and Fatima believes the
-  system is unsustainable. She wants to reform the binding families from within, which means breaking
-  the secrecy around the contracts. She is not above using Malik''s desperation as a catalyst. She loves
-  her brother, but she also sees him as useful to her larger cause. She has not told Malik she found his
-  notes.'
+gm_notes: 'Fatima discovered Malik''s research notes three days ago. She is not bound
+  by the contract — she is the second child — but she has her own reasons for wanting
+  the family''s debts exposed: the binding families'' power is built on contracts
+  that are quietly crushing them, and Fatima believes the system is unsustainable.
+  She wants to reform the binding families from within, which means breaking the secrecy
+  around the contracts. She is not above using Malik''s desperation as a catalyst.
+  She loves her brother, but she also sees him as useful to her larger cause. She
+  has not told Malik she found his notes.'
 aliases: []
 race: Human
 gender: Female
@@ -37,25 +38,29 @@ currency:
   gold: 3
   silver: 16
   copper: 12
-appearance: A young woman in fine desert robes — deep blue and silver, less flashy than her brother's.
-  She carries a book of contract law under her arm and has ink on her fingers. She is quieter than Malik
-  and pays closer attention. She watches her brother the way a chess player watches a piece.
-biography: 'Fatima discovered Malik''s research notes three days ago. She is not bound by the contract
-  — she is the second child — but she has her own reasons for wanting the family''s debts exposed: the
-  binding families'' power is built on contracts that are quietly crushing them, and Fatima believes the
-  system is unsustainable. She wants to reform the binding families from within, which means breaking
-  the secrecy around the contracts. She is not above using Malik''s desperation as a catalyst. She loves
-  her brother, but she also sees him as useful to her larger cause. She has not told Malik she found his
-  notes.'
-personality: Reserved and soft-spoken, defiant and independently minded, guarded and cautious with trust.
+appearance: A young woman in fine desert robes — deep blue and silver, less flashy
+  than her brother's. She carries a book of contract law under her arm and has ink
+  on her fingers. She is quieter than Malik and pays closer attention. She watches
+  her brother the way a chess player watches a piece.
+biography: 'Fatima discovered Malik''s research notes three days ago. She is not bound
+  by the contract — she is the second child — but she has her own reasons for wanting
+  the family''s debts exposed: the binding families'' power is built on contracts
+  that are quietly crushing them, and Fatima believes the system is unsustainable.
+  She wants to reform the binding families from within, which means breaking the secrecy
+  around the contracts. She is not above using Malik''s desperation as a catalyst.
+  She loves her brother, but she also sees him as useful to her larger cause. She
+  has not told Malik she found his notes.'
+personality: Reserved and soft-spoken, defiant and independently minded, guarded and
+  cautious with trust.
 key_phrases:
 - Trust is earned in pieces, not given in full.
 - Some doors stay closed for a reason.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-long-cotton-chemise
+  - item:womens-cotton-underdrawers
   clothing:
-  - item:knee-length-pirahan
-  - item:bound-ankle-desert-trousers
+  - item:crossover-desert-robe
   armor: []
   hands:
     left: null
@@ -67,8 +72,14 @@ visual:
   skin: warm brown
   hair: dark, long, braided
   eyes: dark brown, sharp
-  distinctive_features: ink stains on the right hand from studying contract law, a small silver nose-stud
-  prompt: ''
+  distinctive_features: ink stains on the right hand from studying contract law, a
+    small silver nose-stud
+  prompt: 1girl, solo, young adult woman, slim, small, medium breasts, warm brown
+    skin, striking West Asian facial features, strong dark brows, dark brown eyes,
+    dark, long, braided hair, knee-length pirahan shirt, bound-ankle desert trousers,
+    portrait, upper body, looking at viewer, soft lighting
+  height: 5'4"
+  face: striking West Asian facial features, strong dark brows
 image:
   url: ''
   focalPoint:
@@ -76,21 +87,23 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:binding-families
 desires:
-- To reform the binding families' system of djinn contracts, which she believes is secretly destroying
-  them.
-- To help her brother, but also to use his situation as proof that the system is broken — which means
-  she needs his crisis to become public before she can fix it.
+- To reform the binding families' system of djinn contracts, which she believes is
+  secretly destroying them.
+- To help her brother, but also to use his situation as proof that the system is broken
+  — which means she needs his crisis to become public before she can fix it.
 fears_or_limits:
-- She is young and has no political power yet. Exposing the contracts would scandalize the council and
-  could get her disowned. Her brother does not know what she knows, and she has not decided whether to
-  tell him.
+- She is young and has no political power yet. Exposing the contracts would scandalize
+  the council and could get her disowned. Her brother does not know what she knows,
+  and she has not decided whether to tell him.
 current_state:
   location: location:zaffar
+memories: []
+momentos: []
 purview: []
 ---
 

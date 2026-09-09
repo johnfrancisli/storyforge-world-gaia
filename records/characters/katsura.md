@@ -1,14 +1,15 @@
 ---
 id: character:katsura
 name: Katsura
-gm_notes: Katsura is a shrine kitsune who has served Haru Shrine for three hundred years, appearing as
-  a human maiden to the villagers. She knows Tamamo (character:tamamo) — they are ancient rivals, having
-  clashed a century ago over the question of whether wild yokai should be brought into the shrine system.
-  Katsura believes the network must be maintained at all costs; Tamamo believes it should fall. Katsura's
-  power is directly tied to the shrine network, and as it weakens, she is losing her ability to maintain
-  her human form. She's begun to flicker — her tails showing at odd moments, her ears appearing when she's
-  tired. She fears that when the network falls, she will revert to a wild fox with no memory of her centuries
-  of service.
+gm_notes: Katsura is a shrine kitsune who has served Haru Shrine for three hundred
+  years, appearing as a human maiden to the villagers. She knows Tamamo (character:tamamo)
+  — they are ancient rivals, having clashed a century ago over the question of whether
+  wild yokai should be brought into the shrine system. Katsura believes the network
+  must be maintained at all costs; Tamamo believes it should fall. Katsura's power
+  is directly tied to the shrine network, and as it weakens, she is losing her ability
+  to maintain her human form. She's begun to flicker — her tails showing at odd moments,
+  her ears appearing when she's tired. She fears that when the network falls, she
+  will revert to a wild fox with no memory of her centuries of service.
 aliases: []
 race: Kitsune (Yokai)
 gender: Female
@@ -38,24 +39,31 @@ currency:
   gold: 1
   silver: 3
   copper: 10
-appearance: She wears the white and red of a senior shrine maiden, her movements precise and ancient in
-  a way that feels like watching a ceremony rather than a person. A faint smell of autumn leaves follows
-  her. In certain light, something shifts behind her — a shadow that doesn't match her silhouette.
-biography: Katsura is a shrine kitsune who has served Haru Shrine for three hundred years, appearing as
-  a human maiden to the villagers. She knows Tamamo (character:tamamo) — they are ancient rivals, having
-  clashed a century ago over the question of whether wild yokai should be brought into the shrine system.
-  Katsura believes the network must be maintained at all costs; Tamamo believes it should fall. Katsura's
-  power is directly tied to the shrine network, and as it weakens, she is losing her ability to maintain
-  her human form. She's begun to flicker — her tails showing at odd moments, her ears appearing when she's
-  tired. She fears that when the network falls, she will revert to a wild fox with no memory of her centuries
-  of service.
-personality: Precise and detail-oriented, tired and carrying a heavy burden, blunt and rough-spoken.
+appearance: She wears the white and red of a senior shrine maiden, her movements precise
+  and ancient in a way that feels like watching a ceremony rather than a person. A
+  faint smell of autumn leaves follows her. In certain light, something shifts behind
+  her — a shadow that doesn't match her silhouette.
+biography: Katsura is a shrine kitsune who has served Haru Shrine for three hundred
+  years, appearing as a human maiden to the villagers. She knows Tamamo (character:tamamo)
+  — they are ancient rivals, having clashed a century ago over the question of whether
+  wild yokai should be brought into the shrine system. Katsura believes the network
+  must be maintained at all costs; Tamamo believes it should fall. Katsura's power
+  is directly tied to the shrine network, and as it weakens, she is losing her ability
+  to maintain her human form. She's begun to flicker — her tails showing at odd moments,
+  her ears appearing when she's tired. She fears that when the network falls, she
+  will revert to a wild fox with no memory of her centuries of service.
+personality: Precise and detail-oriented, tired and carrying a heavy burden, blunt
+  and rough-spoken.
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
 equipment:
-  underwear: []
-  clothing: []
+  underwear:
+  - item:womens-hadajuban
+  - item:womens-koshimaki
+  clothing:
+  - item:shrine-maiden-kosode
+  - item:shrine-maiden-hakama
   armor: []
   hands:
     left: null
@@ -66,9 +74,16 @@ visual:
   body_build: slender, still, small breasts
   hair: pale gold, long, bound with a shimenawa cord
   eyes: amber, gold-flecked
-  distinctive_features: a faint fox-like cast to the features — slightly pointed ears, narrow pupils in
-    low light
-  prompt: ''
+  distinctive_features: a faint fox-like cast to the features — slightly pointed ears,
+    narrow pupils in low light
+  prompt: 1girl, solo, young adult woman, kitsune yokai, fox ears, fox tail, slender,
+    still, small breasts, fair porcelain beige skin, Japanese facial features with
+    sharp fox-like poise, amber eyes, pale gold, long, bound with a shimenawa cord
+    hair, white miko kosode, red miko hakama, portrait, upper body, looking at viewer,
+    soft lighting
+  skin: fair porcelain beige
+  height: 5'4"
+  face: Japanese facial features with sharp fox-like poise
 image:
   url: ''
   focalPoint:
@@ -76,21 +91,23 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:ashikara-shogunate
 desires:
 - To maintain the shrine network long enough to find a way to renew it permanently.
-- To protect the young maiden Yuki (character:shimizu-yuki) who she suspects has the spirit-sight needed
-  for the work.
+- To protect the young maiden Yuki (character:shimizu-yuki) who she suspects has the
+  spirit-sight needed for the work.
 fears_or_limits:
-- As the network weakens, she is losing her power and her human form — soon she won't be able to maintain
-  the shrine at all.
-- Tamamo (character:tamamo) is actively working to destroy the network, and Katsura may not be strong
-  enough to stop her alone.
+- As the network weakens, she is losing her power and her human form — soon she won't
+  be able to maintain the shrine at all.
+- Tamamo (character:tamamo) is actively working to destroy the network, and Katsura
+  may not be strong enough to stop her alone.
 current_state:
   location: location:haru-shrine-town
+memories: []
+momentos: []
 purview: []
 ---
 

@@ -1,13 +1,14 @@
 ---
 id: character:cui-zhenbo
 name: Cui Zhenbo
-gm_notes: A Jin court physician who serves the warlord's family and is one of the few people who knows
-  the Jin warlord is slowly being poisoned. The poison is chi-based and undetectable by normal examination—it
-  mimics the symptoms of natural aging. Cui identified it because he studied under the same master as
-  Hua Suxin and recognizes chi-pathology. He has not told the warlord because he suspects the poisoner
-  is the warlord's own son, the crown prince, who stands to inherit. Cui is treating the warlord's symptoms
-  with chi-countermeasures that slow the poisoning but cannot stop it. He has perhaps six months before
-  the warlord's condition becomes visibly serious.
+gm_notes: A Jin court physician who serves the warlord's family and is one of the
+  few people who knows the Jin warlord is slowly being poisoned. The poison is chi-based
+  and undetectable by normal examination—it mimics the symptoms of natural aging.
+  Cui identified it because he studied under the same master as Hua Suxin and recognizes
+  chi-pathology. He has not told the warlord because he suspects the poisoner is the
+  warlord's own son, the crown prince, who stands to inherit. Cui is treating the
+  warlord's symptoms with chi-countermeasures that slow the poisoning but cannot stop
+  it. He has perhaps six months before the warlord's condition becomes visibly serious.
 aliases: []
 race: Human
 gender: Male
@@ -37,22 +38,26 @@ currency:
   gold: 1
   silver: 16
   copper: 9
-appearance: Distinguished and grave, wearing fine Jin court physician's robes. Moves with a physician's
-  careful deliberateness.
-biography: A Jin court physician who serves the warlord's family and is one of the few people who knows
-  the Jin warlord is slowly being poisoned. The poison is chi-based and undetectable by normal examination—it
-  mimics the symptoms of natural aging. Cui identified it because he studied under the same master as
-  Hua Suxin and recognizes chi-pathology. He has not told the warlord because he suspects the poisoner
-  is the warlord's own son, the crown prince, who stands to inherit. Cui is treating the warlord's symptoms
-  with chi-countermeasures that slow the poisoning but cannot stop it. He has perhaps six months before
-  the warlord's condition becomes visibly serious.
+appearance: Distinguished and grave, wearing fine Jin court physician's robes. Moves
+  with a physician's careful deliberateness.
+biography: A Jin court physician who serves the warlord's family and is one of the
+  few people who knows the Jin warlord is slowly being poisoned. The poison is chi-based
+  and undetectable by normal examination—it mimics the symptoms of natural aging.
+  Cui identified it because he studied under the same master as Hua Suxin and recognizes
+  chi-pathology. He has not told the warlord because he suspects the poisoner is the
+  warlord's own son, the crown prince, who stands to inherit. Cui is treating the
+  warlord's symptoms with chi-countermeasures that slow the poisoning but cannot stop
+  it. He has perhaps six months before the warlord's condition becomes visibly serious.
 personality: Precise and detail-oriented.
 key_phrases:
 - I do what must be done.
 - The work comes first. Everything else can wait.
-- I will not rest until I confirm whether the crown prince is the poisoner before the warlord dies.
+- I will not rest until I confirm whether the crown prince is the poisoner before
+  the warlord dies.
 equipment:
-  underwear: []
+  underwear:
+  - item:mens-inner-yi
+  - item:mens-short-underdrawers
   clothing:
   - item:wide-sleeved-scholar-robe
   armor: []
@@ -68,7 +73,15 @@ visual:
   distinctive_features:
   - a physician's pulse-callus on all three fingers of the right hand
   - a faint liver-spot map across the brow
-  prompt: ''
+  prompt: 1man, solo, elderly man, medium, slightly stooped with age, average chest,
+    light beige skin, delicate, elegant Chinese facial features, dark brown eyes,
+    white, full, in a physician's formal topknot with a silver pin, a physician's
+    pulse-callus on all three fingers of the right hand, a faint liver-spot map across
+    the brow, wide-sleeved scholar robe, portrait, upper body, looking at viewer,
+    soft lighting
+  skin: light beige
+  height: 5'10"
+  face: delicate, elegant Chinese facial features
 image:
   url: ''
   focalPoint:
@@ -76,8 +89,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:jin-state
 desires:
@@ -88,6 +101,8 @@ fears_or_limits:
 - That the warlord will die and the poisoner will inherit before Cui can act
 current_state:
   location: location:jin-an
+memories: []
+momentos: []
 purview: []
 ---
 

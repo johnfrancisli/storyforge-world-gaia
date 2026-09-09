@@ -1,10 +1,11 @@
 ---
 id: character:finneas-pip
 name: Finneas Pip
-gm_notes: Finneas is a halfling tinker who travels between villages repairing pots, tools, and locks.
-  He is also a master lockpick who has been secretly hired by a minor lord to copy the keys to Crownhaven's
-  outer gates. Finneas took the job for the money but is now having second thoughts — he overheard his
-  employer mentioning 'the night of the red moon,' which he believes is a planned attack on the castle.
+gm_notes: Finneas is a halfling tinker who travels between villages repairing pots,
+  tools, and locks. He is also a master lockpick who has been secretly hired by a
+  minor lord to copy the keys to Crownhaven's outer gates. Finneas took the job for
+  the money but is now having second thoughts — he overheard his employer mentioning
+  'the night of the red moon,' which he believes is a planned attack on the castle.
   He has the copied keys and does not know whether to deliver them or warn the castle.
 aliases: []
 race: Halfling
@@ -35,12 +36,13 @@ currency:
   gold: 0
   silver: 19
   copper: 26
-appearance: Small and road-dusty, Finneas wears a patched travelling coat with dozens of pockets, each
-  holding tools and trinkets. A mule named Doris carries his wares.
-biography: Finneas is a halfling tinker who travels between villages repairing pots, tools, and locks.
-  He is also a master lockpick who has been secretly hired by a minor lord to copy the keys to Crownhaven's
-  outer gates. Finneas took the job for the money but is now having second thoughts — he overheard his
-  employer mentioning 'the night of the red moon,' which he believes is a planned attack on the castle.
+appearance: Small and road-dusty, Finneas wears a patched travelling coat with dozens
+  of pockets, each holding tools and trinkets. A mule named Doris carries his wares.
+biography: Finneas is a halfling tinker who travels between villages repairing pots,
+  tools, and locks. He is also a master lockpick who has been secretly hired by a
+  minor lord to copy the keys to Crownhaven's outer gates. Finneas took the job for
+  the money but is now having second thoughts — he overheard his employer mentioning
+  'the night of the red moon,' which he believes is a planned attack on the castle.
   He has the copied keys and does not know whether to deliver them or warn the castle.
 personality: Guarded and cautious with trust, carries a secret that shapes every decision.
 key_phrases:
@@ -48,7 +50,9 @@ key_phrases:
 - Some doors stay closed for a reason.
 - I will not rest until I earn enough to settle down and open a proper shop.
 equipment:
-  underwear: []
+  underwear:
+  - item:mens-linen-undershirt
+  - item:mens-drawstring-braies
   clothing:
   - item:linen-work-tunic
   - item:wool-trousers
@@ -63,7 +67,14 @@ visual:
   hair: reddish-brown, unruly curls
   eyes: bright green
   distinctive_features: perpetually ink-stained fingers, a chipped front tooth
-  prompt: ''
+  prompt: 1man, solo, adult man, halfling, short adult stature, short and wiry, halfling
+    stature, narrow chest, fair peach-beige skin, compact adult halfling proportions,
+    expressive warm eyes, bright green eyes, reddish-brown, unruly curls hair, perpetually
+    ink-stained fingers, a chipped front tooth, linen work tunic, leather belt, wool
+    trousers, portrait, upper body, looking at viewer, soft lighting
+  skin: fair peach-beige
+  height: 3'6"
+  face: compact adult halfling proportions, expressive warm eyes
 image:
   url: ''
   focalPoint:
@@ -71,8 +82,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:dragon-order
 desires:
@@ -83,6 +94,8 @@ fears_or_limits:
 - that his thieving past will catch up with him regardless of what he chooses
 current_state:
   location: location:valdris
+memories: []
+momentos: []
 purview: []
 ---
 

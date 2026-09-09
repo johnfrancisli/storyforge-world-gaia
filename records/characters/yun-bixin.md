@@ -1,13 +1,14 @@
 ---
 id: character:yun-bixin
 name: Yun Bixin
-gm_notes: A musician at the Great Academy who plays the dizi (bamboo flute) and is one of the few living
-  practitioners of 'spirit music'—melodies that can attract or repel qilin spirits. She learned this art
-  from her grandmother, who was the last court spirit-musician of the unified kingdom before it split.
-  Her flute was carved from bamboo that grew at a qilin-spirit site and can produce notes that make spirits
-  visible to ordinary humans. She has been asked by the Academy to summon a qilin spirit for a research
-  project but fears that summoning spirits for academic purposes is a violation of an ancient compact
-  between humans and qilin.
+gm_notes: A musician at the Great Academy who plays the dizi (bamboo flute) and is
+  one of the few living practitioners of 'spirit music'—melodies that can attract
+  or repel qilin spirits. She learned this art from her grandmother, who was the last
+  court spirit-musician of the unified kingdom before it split. Her flute was carved
+  from bamboo that grew at a qilin-spirit site and can produce notes that make spirits
+  visible to ordinary humans. She has been asked by the Academy to summon a qilin
+  spirit for a research project but fears that summoning spirits for academic purposes
+  is a violation of an ancient compact between humans and qilin.
 aliases: []
 race: Human
 gender: Female
@@ -37,21 +38,26 @@ currency:
   gold: 5
   silver: 14
   copper: 30
-appearance: Ethereal and quiet, wearing Academy gray-white robes. Always carries a pale bamboo flute.
-biography: A musician at the Great Academy who plays the dizi (bamboo flute) and is one of the few living
-  practitioners of 'spirit music'—melodies that can attract or repel qilin spirits. She learned this art
-  from her grandmother, who was the last court spirit-musician of the unified kingdom before it split.
-  Her flute was carved from bamboo that grew at a qilin-spirit site and can produce notes that make spirits
-  visible to ordinary humans. She has been asked by the Academy to summon a qilin spirit for a research
-  project but fears that summoning spirits for academic purposes is a violation of an ancient compact
-  between humans and qilin.
+appearance: Ethereal and quiet, wearing Academy gray-white robes. Always carries a
+  pale bamboo flute.
+biography: A musician at the Great Academy who plays the dizi (bamboo flute) and is
+  one of the few living practitioners of 'spirit music'—melodies that can attract
+  or repel qilin spirits. She learned this art from her grandmother, who was the last
+  court spirit-musician of the unified kingdom before it split. Her flute was carved
+  from bamboo that grew at a qilin-spirit site and can produce notes that make spirits
+  visible to ordinary humans. She has been asked by the Academy to summon a qilin
+  spirit for a research project but fears that summoning spirits for academic purposes
+  is a violation of an ancient compact between humans and qilin.
 personality: Reserved and soft-spoken.
 key_phrases:
 - Music is what words feel when they are honest.
 - Every song is a conversation with silence.
-- I will not rest until I preserve the spirit-music tradition before it dies with me.
+- I will not rest until I preserve the spirit-music tradition before it dies with
+  me.
 equipment:
-  underwear: []
+  underwear:
+  - item:womens-inner-ru
+  - item:womens-loose-undertrousers
   clothing:
   - item:wide-sleeved-scholar-robe
   armor: []
@@ -67,7 +73,13 @@ visual:
   distinctive_features:
   - a faint blue-tinged birthmark on the left collarbone shaped like a musical note
   - flute-callus on the lower lip
-  prompt: ''
+  prompt: 1girl, solo, young adult woman, slight and willowy, medium breasts, warm
+    beige skin, strong Chinese facial features, pale gray eyes, long black, loose
+    except when performing hair, flute-callus on the lower lip, wide-sleeved scholar
+    robe, portrait, upper body, looking at viewer, soft lighting
+  skin: warm beige
+  height: 5'3"
+  face: strong Chinese facial features
 image:
   url: ''
   focalPoint:
@@ -75,8 +87,8 @@ image:
     y: 0.1
   seed: null
   variations:
-    - name: neutral
-      backgroundRemovedUrl: ''
+  - name: neutral
+    backgroundRemovedUrl: ''
 affiliations:
 - org:great-academy
 desires:
@@ -87,6 +99,8 @@ fears_or_limits:
 - That the spirits will stop answering if humans misuse the music
 current_state:
   location: location:jin-an
+memories: []
+momentos: []
 purview: []
 ---
 
