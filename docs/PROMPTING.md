@@ -30,10 +30,19 @@ what should be visible in this image now.
   hair, ears, horns, tails, wings, markings, scars, and other morphology.
   Preserve supplied visible identity traits, including a neutral adult chest or
   breast-size descriptor. Never add such a descriptor to a child.
-- For a non-human character, use the supplied exact-match lore reference's
-  positive baseline and invariant morphology. Individual fields override a
-  population baseline. Variable traits are possibilities, not automatic tags;
-  `avoid` entries are validation guidance and never positive-prompt text.
+- For human characters, never emit 'human' or 'humanoid'; humanity is the
+  obvious default for subject tags (1girl/1boy) and stating 'human' is redundant.
+- For a non-human character of a common fantasy race (such as elf or dwarf),
+  state the race name (e.g. 'elf', 'dwarf') and standard distinctive traits
+  (e.g. 'pointed ears' for elves), but do not over-describe what the race is;
+  diffusion models already recognize common fantasy races.
+- For other non-human races (such as cat-folk, demon-folk/mazoku, beast-kin,
+  mizuhito, kitsune), state the race name AND explicitly describe the race's
+  distinctive visible morphology (horns, animal ears, tail, scales, wings,
+  fur, fins, etc.) from the character's explicit traits and resolved lore references.
+  Individual fields override a population baseline. Variable traits are
+  possibilities, not automatic tags; `avoid` entries are validation guidance
+  and never positive-prompt text.
 - Heritage or population information may fill only a genuinely unspecified
   category. Never infer ancestry from a name, culture, occupation, or partial
   race match, and never choose one value from a documented range.
