@@ -1,0 +1,115 @@
+---
+id: character:zheng-lianshu
+name: Zheng Lianshu
+gm_notes: 'A librarian at the Great Academy who manages the student reading rooms.
+  She has noticed that someone has been systematically removing and replacing pages
+  from historical texts about the qilin-spirit ritual that split the kingdom. The
+  tampering alters the texts to make the warlords'' ancestors appear as heroes rather
+  than perpetrators of the failed ritual. She has compared the tampered texts with
+  Bai Shuyi''s archivist copies and confirmed the alterations. She does not know who
+  is doing the tampering—a faculty member with after-hours access, or an infiltrator.
+  She has set a trap: she has marked several texts with a chi-reactive ink that will
+  stain the hands of the next person who handles them.'
+aliases: []
+race: Human
+gender: Female
+age: 34
+heritage: Sangguo (Jin)
+social_station: Commoner
+role: Academy librarian and document-tampering investigator
+proficient_skills:
+- Research
+- Lore (History)
+- Organization
+stats:
+  level: 3
+  hp: 38
+  mana: 50
+  stamina: 45
+  speed: 29
+  defense: 19
+  attributes:
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 14
+    WIS: 12
+    CHA: 10
+currency:
+  gold: 4
+  silver: 16
+  copper: 24
+appearance: Neat and attentive, wearing Academy brown with a librarian's reading chain.
+  Always has a list and a pen.
+biography: 'A librarian at the Great Academy who manages the student reading rooms.
+  She has noticed that someone has been systematically removing and replacing pages
+  from historical texts about the qilin-spirit ritual that split the kingdom. The
+  tampering alters the texts to make the warlords'' ancestors appear as heroes rather
+  than perpetrators of the failed ritual. She has compared the tampered texts with
+  Bai Shuyi''s archivist copies and confirmed the alterations. She does not know who
+  is doing the tampering—a faculty member with after-hours access, or an infiltrator.
+  She has set a trap: she has marked several texts with a chi-reactive ink that will
+  stain the hands of the next person who handles them. The shock of [[experience:the-steaming-cup-at-the-tea-conclave|the steaming cup at the tea conclave]] hardened their instincts, proving that poison and political desperation are never far from diplomatic smiles.'
+personality: Precise and detail-oriented, inquisitive and eager to learn, reserved
+  and soft-spoken.
+key_phrases:
+- I do what must be done.
+- The work comes first. Everything else can wait.
+- I will not rest until I catch the tamperer and expose the historical revisionism.
+equipment:
+  underwear:
+  - item:womens-inner-ru
+  - item:womens-loose-undertrousers
+  clothing:
+  - item:short-shan-work-shirt
+  - item:bound-cuff-field-trousers
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
+visual:
+  body_build: medium and precise, small breasts
+  hair: black, in a neat librarian's bun with reading-glasses chain
+  eyes: myopic brown behind round spectacles
+  distinctive_features:
+  - a paper-cut scar on the right thumb
+  - a faint ink-stain on the left jaw that never quite fades
+  prompt: 1girl, solo, adult woman, medium and precise, small breasts, warm beige
+    skin, delicate, elegant Chinese facial features, myopic brown behind round spectacles
+    eyes, black, in a neat librarian's bun with reading-glasses chain hair, a paper-cut
+    scar on the right thumb, a faint ink-stain on the left jaw, short shan work shirt,
+    bound-cuff field trousers, portrait, upper body, looking at viewer, soft lighting
+  skin: warm beige
+  height: 5'3"
+  face: delicate, elegant Chinese facial features
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+  - name: neutral
+    backgroundRemovedUrl: ''
+affiliations:
+- org:great-academy
+desires:
+- To catch the tamperer and expose the historical revisionism
+- To restore the altered texts to their original content
+fears_or_limits:
+- The tamperer being a senior faculty member she cannot confront safely
+- That the chi-reactive ink trap will catch an innocent student and damage her credibility
+current_state:
+  location: location:jin-an
+memories:
+- campaign-event/the-steaming-cup-at-the-tea-conclave
+momentos: []
+purview: []
+---
+
+
+
+
+A meticulous, bespectacled Academy librarian who keeps the reading rooms perfectly organized and notices every misplaced page.

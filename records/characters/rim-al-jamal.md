@@ -1,0 +1,125 @@
+---
+id: character:rim-al-jamal
+name: Rim al-Jamal
+gm_notes: A female camel herder who tends a herd of forty camels on the desert fringe
+  outside Zaffar. Her herd includes one camel — a massive white female named Sahar
+  — that is not a camel at all but a djinn in animal form, hiding from a binding contract
+  she (the djinn uses female pronouns) broke. Sahar has been in Rim's herd for eight
+  years, and Rim has known the truth for six of them. She discovered it when Sahar
+  spoke to her during a sandstorm, begging her not to reveal the disguise. Rim has
+  protected the djinn-camel out of a simple belief that no creature should be bound
+  against its will. The binding family whose contract Sahar broke has been searching
+  for her, and their agents have been seen near Rim's grazing lands, asking caravan
+  drivers about a white camel with unusual eyes. Rim is running out of ways to hide
+  a six-foot-tall white camel that occasionally glows.
+aliases: []
+race: Human
+gender: Female
+age: 29
+heritage: Al-Khayzari
+social_station: Artisan
+role: Camel herder, djinn-harborer
+proficient_skills:
+- Survival
+- Crafting
+- Perception
+stats:
+  level: 5
+  hp: 40
+  mana: 78
+  stamina: 54
+  speed: 28
+  defense: 23
+  attributes:
+    STR: 10
+    DEX: 10
+    CON: 10
+    INT: 10
+    WIS: 10
+    CHA: 10
+currency:
+  gold: 5
+  silver: 2
+  copper: 9
+appearance: Sun-darkened and strong in desert riding clothes, she moves among her
+  camels with easy authority. She carries a herder's staff and a waterskin, and she
+  sleeps in a tent among the herd. She is weathered beyond her years.
+biography: A female camel herder who tends a herd of forty camels on the desert fringe
+  outside Zaffar. Her herd includes one camel — a massive white female named Sahar
+  — that is not a camel at all but a djinn in animal form, hiding from a binding contract
+  she (the djinn uses female pronouns) broke. Sahar has been in Rim's herd for eight
+  years, and Rim has known the truth for six of them. She discovered it when Sahar
+  spoke to her during a sandstorm, begging her not to reveal the disguise. Rim has
+  protected the djinn-camel out of a simple belief that no creature should be bound
+  against its will. The binding family whose contract Sahar broke has been searching
+  for her, and their agents have been seen near Rim's grazing lands, asking caravan
+  drivers about a white camel with unusual eyes. Rim is running out of ways to hide
+  a six-foot-tall white camel that occasionally glows.
+  The memory of [[experience:the-green-flame-at-the-grand-bazaar|the Green Flame at the Grand Bazaar]] remains vividly etched in their thoughts, when jade djinn fire tore through the market stalls and proved how perilously thin the boundary of control truly is.
+personality: Guarded and cautious with trust, carries a secret that shapes every decision.
+key_phrases:
+- Trust is earned in pieces, not given in full.
+- Some doors stay closed for a reason.
+equipment:
+  underwear:
+  - item:womens-long-cotton-chemise
+  - item:womens-cotton-underdrawers
+  clothing:
+  - item:loose-cotton-qamis
+  - item:desert-riding-trousers
+  - item:sleeveless-caravan-vest
+  armor: []
+  hands:
+    left: null
+    right: null
+  accessories: []
+  ammo: null
+visual:
+  body_build: sturdy and strong-legged, desert-built, small breasts
+  hair: sandy brown, long, braided under a headscarf
+  eyes: brown, warm but watchful
+  distinctive_features:
+  - a camel-bite scar on the left shoulder
+  - a herder's brand on the right forearm — a stylized camel mark
+  prompt: 1girl, solo, young adult woman, sturdy and strong-legged, desert-built,
+    small breasts, warm bronze-brown skin, striking West Asian facial features, strong
+    dark brows, brown eyes, sandy brown, long, braided under a headscarf hair, a camel-bite
+    scar on the left shoulder, a herder's brand on the right forearm, a stylized camel
+    mark, loose cotton qamis tunic, desert riding trousers, sleeveless caravan vest,
+    portrait, upper body, looking at viewer, soft lighting
+  skin: warm bronze-brown
+  height: 5'4"
+  face: striking West Asian facial features, strong dark brows
+image:
+  url: ''
+  focalPoint:
+    x: 0.5
+    y: 0.1
+  seed: null
+  variations:
+  - name: neutral
+    backgroundRemovedUrl: ''
+affiliations:
+- org:binding-families
+desires:
+- To protect Sahar from the binding family's agents and find a way to break the djinn's
+  contract permanently
+- To keep her herd safe and her simple life intact — she never wanted to be part of
+  a djinn conflict
+fears_or_limits:
+- That the binding family will find Sahar and reclaim her, and punish Rim for harboring
+  a contract-breaker
+- That Sahar's disguise is failing — the camel's eyes have begun to glow faintly blue
+  at night, and soon someone will notice
+current_state:
+  location: location:al-khayzar
+memories:
+- campaign-event/the-green-flame-at-the-grand-bazaar
+momentos: []
+purview: []
+---
+
+
+
+
+A desert-hardened camel herder who lives on the fringe of [[location:zaffar|Zaffar]] with a herd of forty camels. She talks to her animals constantly and is known among caravan drivers for having the best-tempered camels in the region.
