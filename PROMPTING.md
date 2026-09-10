@@ -67,12 +67,24 @@ what should be visible in this image now.
   quotation marks, sentence-ending punctuation, or ComfyUI weighting unless an
   explicit model-critical weight was supplied. If any paired delimiter is
   deliberately retained, it must be balanced.
-- Simplify poetic or interpretive wording to the visible fact: skin descriptions
-  must be direct, literal color tags (e.g. `light beige skin`, `tan skin`,
-  `pale skin`, `fair skin`, `brown skin`, `olive skin`). Never use metaphorical
-  modifiers such as `sun-warmed`, `sun-kissed`, `porcelain`, `milky`, or
-  `earthy` (e.g. `sun-warmed tan skin` becomes `light beige skin` or `tan skin`);
-  `hawk-sharp amber eyes` becomes `amber eyes`; `striking handsome elven face`
+- Simplify skin tone to direct, very simple tags: choose strictly from simple,
+  straightforward tones (`beige skin`, `light brown skin`, `brown skin`,
+  `dark brown skin`, `pale skin`, `tan skin`, or fantasy tones like `grey skin`).
+  Never use fluffy, compound, or poetic modifiers like `warm copper-brown`,
+  `deep reddish-brown`, `light beige`, `golden honey`, `sun-kissed`, `olive`,
+  or `bronze`. Decide the simple, outright skin tone.
+- Outright colors only for any color: do not use fluffy, poetic, or compound
+  color descriptors. Use simple, outright colors (`red`, `blue`, `green`,
+  `yellow`, `brown`, `black`, `white`, `grey`, `purple`, `orange`, `blonde`,
+  `light brown`, `dark brown`, `light blue`, `dark blue`). Never use fluffy words
+  like `smoldering red`, `obsidian`, `iron grey`, `golden-chestnut`, `emerald green`,
+  `ruby red`, `midnight blue`, `charcoal`, or `raven black`. Replace them with direct
+  outright colors (e.g. `black horns` instead of `obsidian horns`, `red eyes`
+  instead of `smoldering red eyes`, `brown hair` instead of `golden-chestnut hair`,
+  `grey beard` instead of `iron grey beard`, `beige skin` instead of `light beige skin`,
+  `brown skin` instead of `warm copper-brown skin`).
+- Simplify other poetic or interpretive wording to the visible fact: `hawk-sharp
+  amber eyes` becomes `amber eyes` (or `yellow eyes`); `striking handsome elven face`
   becomes `elven face` (or `handsome elven face`). Do not preserve `striking`,
   `focused`, `sharp`, `piercing`, `graceful`, or similar mood/praise words as
   anatomy.
