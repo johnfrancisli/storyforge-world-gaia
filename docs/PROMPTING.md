@@ -67,6 +67,12 @@ what should be visible in this image now.
   quotation marks, sentence-ending punctuation, or ComfyUI weighting unless an
   explicit model-critical weight was supplied. If any paired delimiter is
   deliberately retained, it must be balanced.
+- Simplify poetic or interpretive wording to the visible fact: skin descriptions
+  must be direct, literal color tags (e.g. `light beige skin`, `tan skin`,
+  `pale skin`, `fair skin`, `brown skin`, `olive skin`). Never use metaphorical
+  modifiers such as `sun-warmed`, `sun-kissed`, `porcelain`, `milky`, or
+  `earthy` (e.g. `sun-warmed tan skin` becomes `light beige skin` or `tan skin`);
+  `hawk-sharp amber eyes` becomes `amber eyes`; `striking handsome elven face`
 - Simplify skin tone to direct, very simple tags: choose strictly from simple,
   straightforward tones (`beige skin`, `light brown skin`, `brown skin`,
   `dark brown skin`, `pale skin`, `tan skin`, or fantasy tones like `grey skin`).

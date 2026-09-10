@@ -46,8 +46,9 @@ appearance: Thin and precise, with a scholar's bearing despite living in a rainf
 biography: Aja has devoted his entire life to the preservation of tribal histories, trusted by generations
   of chiefs. Thirty years ago, he made a fateful decision to alter a bloodline at a dying chief's behest.
   Now, as the tribe faces a succession crisis, the weight of that solitary lie threatens to unravel his
-  life's work.
-  The unsettling reverberations of [[experience:the-serpent-gate-whisper|the serpent gate whisper]] still trouble their thoughts, when the ancient stone carvings groaned and corrupted jungle spirits began to stir in the deep canopy.
+  life's work. The unsettling reverberations of [[experience:the-serpent-gate-whisper|the serpent gate
+  whisper]] still trouble their thoughts, when the ancient stone carvings groaned and corrupted jungle
+  spirits began to stir in the deep canopy.
 personality: Dignified, sharp, and burdened by memory. He speaks deliberately, measuring every word, fully
   aware of the immense power his knowledge holds over the future of the tribe.
 key_phrases:
@@ -73,10 +74,8 @@ visual:
   - carved bone bead necklace marking his office as genealogist
   - a slight tremor in the right hand from age
   face: distinguished, ruggedly handsome, age-lined
-  prompt: 1boy, solo, elderly man, human, thin angular build, slightly stooped posture, copper-brown skin,
-    age-lined face, rugged features, dark brown eyes, short fine white hair, carved bone bead necklace,
-    simple travel robe, woven satchel, bone tablets, full body, standing on wooden riverfront walkway,
-    broad tropical river, timber river buildings, dense green foliage, humid daylight
+  prompt: 1man, solo, old man, thin build, stooped posture, brown skin, dark brown eyes, white fine worn
+    short hair, jungle background, looking off camera, hiking, traveling robe
   skin: warm copper-brown
   height: 5'6"
 image:

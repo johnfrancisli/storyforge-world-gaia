@@ -43,8 +43,9 @@ appearance: Grey-bearded and scarred, Aldric wears a faded Dragon Order tabard o
 biography: Once a proud knight of the Dragon Order, Aldric's life fractured when his bonded dragon fell
   in battle two decades ago. The resulting bond-breaking trauma forced his retirement. He now dedicates
   his life to training the next generation of squires in Dragonrest, quietly suffering the phantom pains
-  of a bond that refuses to fully fade.
-  The kingdom-wide disquiet of [[experience:the-dragon-silence-at-sunhelm|the Dragon Silence at Sunhelm]] profoundly shaped their worldview, teaching them that even the most sacred oaths can fade into cold silence.
+  of a bond that refuses to fully fade. The kingdom-wide disquiet of [[experience:the-dragon-silence-at-sunhelm|the
+  Dragon Silence at Sunhelm]] profoundly shaped their worldview, teaching them that even the most sacred
+  oaths can fade into cold silence.
 personality: Gruff, disciplined, and outwardly stoic. He is demanding of his squires because he knows
   the lethal cost of a mistake. Beneath his hard exterior lies a profound sorrow and a secret, terrifying
   hope regarding the new sensations stirring in his mind.
@@ -80,14 +81,68 @@ visual:
   skin: light beige
   height: 5'10"
 image:
-  url: ''
+  url: assets/images/characters/aldric-stonehand.background.png
   focalPoint:
-    x: 0.5
-    y: 0.1
-  seed: null
+    x: 0.506
+    y: 0.314
+  seed: 21006371
   variations:
   - name: neutral
     backgroundRemovedUrl: ''
+  promptUsed: 1boy, solo, male focus, Human, adult man, broad, muscular, battle-worn, broad chest, 5'10",
+    light beige skin, rugged face, pale blue eyes, grey hair, cropped close hair, beard full and braided,
+    a dragon-scale burn scar covering his right hand and forearm, a limp on the left leg from a shattered
+    knee, middle-aged man, broad muscular build, grey cropped hair, full braided beard, tunic, trousers,
+    holding sword, training grounds, wide environmental character scene, full setting visible, cinematic
+    composition, character scene illustration, readable character, detailed setting, wide cinematic composition,
+    horizontal framing, subject and action inside the central horizontal band, masterpiece, best quality,
+    very aesthetic, watercolor illustration, traditional media illustration, watercolor and ink illustration,
+    inked linework, painterly, semi-realistic, sketchy delicate linework, variable line weight, loose
+    watercolor brushwork, textured watercolor shading, transparent watercolor washes, soft shading, soft
+    gradients, diffused natural lighting, atmospheric perspective, soft painterly background, subtle atmospheric
+    haze, airy, elegant fantasy illustration
+  negativePrompt: worst quality, low quality, lowres, 3d, cgi, photorealistic, photo, cel shading, hard
+    cel shading, flat coloring, vector art, thick lineart, uniform lineart, airbrush, overly smooth, overly
+    polished, plastic skin, glossy skin, shiny skin, glossy leather, latex, oversaturated, neon colors,
+    bloom, lens flare, strong rim light, game render, anime screencap, gacha illustration, ink spill,
+    spilled ink, ink splatter, ink stain, paint splatter, paint drips, paint stains, random brush strokes,
+    visible brush marks floating over image, art supplies, paint palette, paintbrush, border, frame, text,
+    watermark, logo, signature
+  generationId: 0bd9db59-7cad-47ca-90d5-55d87878389f
+  size:
+  - 1216
+  - 832
+  template: character-background
+  profile: oneobsession-v23
+  recipe:
+    template: character-background
+  requestPayload:
+    prompt: 1boy, solo, male focus, Human, adult man, broad, muscular, battle-worn, broad chest, 5'10",
+      light beige skin, rugged face, pale blue eyes, grey hair, cropped close hair, beard full and braided,
+      a dragon-scale burn scar covering his right hand and forearm, a limp on the left leg from a shattered
+      knee, middle-aged man, broad muscular build, grey cropped hair, full braided beard, tunic, trousers,
+      holding sword, training grounds, wide environmental character scene, full setting visible, cinematic
+      composition, character scene illustration, readable character, detailed setting, wide cinematic
+      composition, horizontal framing, subject and action inside the central horizontal band, masterpiece,
+      best quality, very aesthetic, watercolor illustration, traditional media illustration, watercolor
+      and ink illustration, inked linework, painterly, semi-realistic, sketchy delicate linework, variable
+      line weight, loose watercolor brushwork, textured watercolor shading, transparent watercolor washes,
+      soft shading, soft gradients, diffused natural lighting, atmospheric perspective, soft painterly
+      background, subtle atmospheric haze, airy, elegant fantasy illustration
+    seed: 21006371
+    face_fix: true
+    negative_prompt: worst quality, low quality, lowres, 3d, cgi, photorealistic, photo, cel shading,
+      hard cel shading, flat coloring, vector art, thick lineart, uniform lineart, airbrush, overly smooth,
+      overly polished, plastic skin, glossy skin, shiny skin, glossy leather, latex, oversaturated, neon
+      colors, bloom, lens flare, strong rim light, game render, anime screencap, gacha illustration, ink
+      spill, spilled ink, ink splatter, ink stain, paint splatter, paint drips, paint stains, random brush
+      strokes, visible brush marks floating over image, art supplies, paint palette, paintbrush, border,
+      frame, text, watermark, logo, signature
+    width: 1216
+    height: 832
+  endpoint: http://10.0.0.10:9000/api/v1/images/profiles/oneobsession-v23/generations
+  generatedAt: '2026-09-09T04:43:43Z'
+  gallery: []
 affiliations:
 - org:dragon-order
 desires:

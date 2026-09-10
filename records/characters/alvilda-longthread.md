@@ -1,16 +1,15 @@
 ---
 id: character:alvilda-longthread
 name: Alvilda Longthread
-gm_notes: 'Alvilda is a sail maker who works under Thora, learning the craft. Her
-  secret: she has been watching Thora closely and has noticed that Thora uses a special
-  thread from a sealed box — a thread that is not linen, not wool, not anything Alvilda
-  can identify. She has not asked about it, but she has saved a small piece that fell
-  from Thora''s workbench, and she has been trying to identify it. The thread is warm
-  to the touch and does not burn in a normal fire — she tested a snippet in a candle
-  flame and it did not char. Alvilda is young and curious and does not understand
-  that some secrets are kept for a reason. She is one discovery away from understanding
-  that the sail-soul thread is not a craft material but a seidr substance — and that
-  knowledge could either save the sail-making tradition or destroy it.'
+gm_notes: 'Alvilda is a sail maker who works under Thora, learning the craft. Her secret: she has been
+  watching Thora closely and has noticed that Thora uses a special thread from a sealed box — a thread
+  that is not linen, not wool, not anything Alvilda can identify. She has not asked about it, but she
+  has saved a small piece that fell from Thora''s workbench, and she has been trying to identify it. The
+  thread is warm to the touch and does not burn in a normal fire — she tested a snippet in a candle flame
+  and it did not char. Alvilda is young and curious and does not understand that some secrets are kept
+  for a reason. She is one discovery away from understanding that the sail-soul thread is not a craft
+  material but a seidr substance — and that knowledge could either save the sail-making tradition or destroy
+  it.'
 aliases: []
 race: Human
 gender: Female
@@ -40,20 +39,18 @@ currency:
   gold: 0
   silver: 10
   copper: 50
-appearance: Young and bright-eyed, Alvilda wears a canvas apron over practical wool,
-  her hands already showing the calluses of the sail loft. She is quicker to smile
-  than her master and quicker to ask questions, which Thora sometimes appreciates
-  and sometimes endures. She has an undeniably cute, fresh-faced beauty, with highly
-  attractive features that radiate youthful energy.
-biography: Born in the frostbitten Northlands, Alvilda secured a coveted apprenticeship
-  under the master sailmaker Thora. Eager and deeply curious, her natural talent with
-  the needle is overshadowed only by her insatiable desire to unravel the secrets
-  of her master's craft, a curiosity that is leading her perilously close to old,
-  forbidden magic.
-  They will never forget the chilling silence of [[experience:the-fog-mothers-warning|the Fog Mother's warning]], when unnatural seidr mist crept off the freezing sea and the voices of the drowned drifted over the waves.
-personality: Bright, inquisitive, and occasionally reckless. She lacks the caution
-  of experience, believing that knowledge is always a tool and never a weapon. She
-  approaches her craft with relentless enthusiasm.
+appearance: Young and bright-eyed, Alvilda wears a canvas apron over practical wool, her hands already
+  showing the calluses of the sail loft. She is quicker to smile than her master and quicker to ask questions,
+  which Thora sometimes appreciates and sometimes endures. She has an undeniably cute, fresh-faced beauty,
+  with highly attractive features that radiate youthful energy.
+biography: Born in the frostbitten Northlands, Alvilda secured a coveted apprenticeship under the master
+  sailmaker Thora. Eager and deeply curious, her natural talent with the needle is overshadowed only by
+  her insatiable desire to unravel the secrets of her master's craft, a curiosity that is leading her
+  perilously close to old, forbidden magic. They will never forget the chilling silence of [[experience:the-fog-mothers-warning|the
+  Fog Mother's warning]], when unnatural seidr mist crept off the freezing sea and the voices of the drowned
+  drifted over the waves.
+personality: Bright, inquisitive, and occasionally reckless. She lacks the caution of experience, believing
+  that knowledge is always a tool and never a weapon. She approaches her craft with relentless enthusiasm.
 key_phrases:
 - Master Thora, what does this thread bind?
 - A sail must catch the wind, but the thread must hold the spirit.
@@ -76,35 +73,86 @@ visual:
   body_build: tall, lean, still filling out, small breasts
   hair: red-gold, worn in a single braid
   eyes: bright green, curious and quick
-  distinctive_features: a spray of freckles across nose and cheeks, a small callus
-    on her right palm from the sail needle
+  distinctive_features: a spray of freckles across nose and cheeks, a small callus on her right palm from
+    the sail needle
   face: cute, fresh-faced, symmetrical features
-  prompt: 1girl, solo, young adult woman, tall, lean, still filling out, small breasts,
-    salt-roughened, wind-reddened fair skin, cute, fresh-faced, symmetrical features,
-    bright green eyes, red-gold, worn in a single braid hair, wool overtunic, leather
-    belt, wool trousers, wrapped work apron, portrait, upper body, looking at viewer,
-    soft lighting
+  prompt: 1girl, solo, human, adult woman, tall, lean build, small breasts, salt-roughened fair skin,
+    bright green eyes, red-gold hair, freckles across nose and cheeks, wrapped work apron knee-length,
+    overcast daylight, medieval European Norse wool overtunic, mid-thigh pullover outer shirt, medieval
+    European Norse straight wool trousers, roomy gusseted seat, Norse Viking work apron, sturdy knee-length
+    rectangular cloth panel wrapping around hips, cold northern coast background, timber longhouses, wooden
+    village, fjord shorelines, rocky coast, pine forest, snow-dusted mountains, overcast daylight
   skin: salt-roughened, wind-reddened fair skin
   height: 5'8"
 image:
-  url: ''
+  url: assets/images/characters/alvilda-longthread.background.png
   focalPoint:
-    x: 0.5
-    y: 0.1
-  seed: null
+    x: 0.567
+    y: 0.343
+  seed: 72185315
   variations:
   - name: neutral
     backgroundRemovedUrl: ''
+  promptUsed: 1girl, solo, human, adult woman, tall, lean build, small breasts, salt-roughened fair skin,
+    bright green eyes, red-gold hair, freckles across nose and cheeks, wrapped work apron knee-length,
+    overcast daylight, medieval European Norse wool overtunic, mid-thigh pullover outer shirt, medieval
+    European Norse straight wool trousers, roomy gusseted seat, Norse Viking work apron, sturdy knee-length
+    rectangular cloth panel wrapping around hips, cold northern coast background, timber longhouses, wooden
+    village, fjord shorelines, rocky coast, pine forest, snow-dusted mountains, overcast daylight, masterpiece,
+    best quality, very aesthetic, watercolor illustration, traditional media illustration, watercolor
+    and ink illustration, inked linework, painterly, semi-realistic, sketchy delicate linework, variable
+    line weight, loose watercolor brushwork, textured watercolor shading, transparent watercolor washes,
+    soft shading, soft gradients, diffused natural lighting, atmospheric perspective, soft painterly background,
+    subtle atmospheric haze, airy, elegant fantasy illustration
+  negativePrompt: worst quality, low quality, lowres, 3d, cgi, photorealistic, photo, cel shading, hard
+    cel shading, flat coloring, vector art, thick lineart, uniform lineart, airbrush, overly smooth, overly
+    polished, plastic skin, glossy skin, shiny skin, glossy leather, latex, oversaturated, neon colors,
+    bloom, lens flare, strong rim light, game render, anime screencap, gacha illustration, ink spill,
+    spilled ink, ink splatter, ink stain, paint splatter, paint drips, paint stains, random brush strokes,
+    visible brush marks floating over image, art supplies, paint palette, paintbrush, border, frame, text,
+    watermark, logo, signature
+  generationId: 6bd9b3dd-fb62-4b26-b865-b6463f9b41a3
+  size:
+  - 1216
+  - 832
+  template: character-background
+  profile: oneobsession-v23
+  recipe:
+    template: character-background
+  requestPayload:
+    prompt: 1girl, solo, human, adult woman, tall, lean build, small breasts, salt-roughened fair skin,
+      bright green eyes, red-gold hair, freckles across nose and cheeks, wrapped work apron knee-length,
+      overcast daylight, medieval European Norse wool overtunic, mid-thigh pullover outer shirt, medieval
+      European Norse straight wool trousers, roomy gusseted seat, Norse Viking work apron, sturdy knee-length
+      rectangular cloth panel wrapping around hips, cold northern coast background, timber longhouses,
+      wooden village, fjord shorelines, rocky coast, pine forest, snow-dusted mountains, overcast daylight,
+      masterpiece, best quality, very aesthetic, watercolor illustration, traditional media illustration,
+      watercolor and ink illustration, inked linework, painterly, semi-realistic, sketchy delicate linework,
+      variable line weight, loose watercolor brushwork, textured watercolor shading, transparent watercolor
+      washes, soft shading, soft gradients, diffused natural lighting, atmospheric perspective, soft painterly
+      background, subtle atmospheric haze, airy, elegant fantasy illustration
+    seed: 72185315
+    face_fix: true
+    negative_prompt: worst quality, low quality, lowres, 3d, cgi, photorealistic, photo, cel shading,
+      hard cel shading, flat coloring, vector art, thick lineart, uniform lineart, airbrush, overly smooth,
+      overly polished, plastic skin, glossy skin, shiny skin, glossy leather, latex, oversaturated, neon
+      colors, bloom, lens flare, strong rim light, game render, anime screencap, gacha illustration, ink
+      spill, spilled ink, ink splatter, ink stain, paint splatter, paint drips, paint stains, random brush
+      strokes, visible brush marks floating over image, art supplies, paint palette, paintbrush, border,
+      frame, text, watermark, logo, signature
+    width: 1216
+    height: 832
+  endpoint: http://10.0.0.10:9000/api/v1/images/profiles/oneobsession-v23/generations
+  generatedAt: '2026-09-10T04:59:47Z'
+  gallery: []
 affiliations:
 - org:hra-volur-coven
 desires:
 - to learn everything Thora knows — including the secret of the special thread
 - to prove herself as a master sail maker in her own right, not just an apprentice
 fears_or_limits:
-- that Thora will never trust her with the real secret and she will spend her career
-  making inferior sails
-- that finding out what the thread is will put her in danger from whoever or whatever
-  its source is
+- that Thora will never trust her with the real secret and she will spend her career making inferior sails
+- that finding out what the thread is will put her in danger from whoever or whatever its source is
 current_state:
   location: location:skaldvik
 memories:

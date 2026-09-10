@@ -52,14 +52,15 @@ appearance: Lean with corded muscles, light beige skin, golden-chestnut hair tie
   amber eyes.
 biography: Aerion learned fletching from the ancient tree crafters of [[location:verdania]]. His ironwood
   longbows, strung with distilled spider silk, are legendary among the forest guardians for hitting targets
-  unseen through dense foliage.
-  They carry the sober memory of [[experience:the-dragon-silence-at-sunhelm|the Dragon Silence at Sunhelm]], an unheralded crisis that fractured knightly convictions and shook the very foundations of the kingdom's ancient order.
+  unseen through dense foliage. They carry the sober memory of [[experience:the-dragon-silence-at-sunhelm|the
+  Dragon Silence at Sunhelm]], an unheralded crisis that fractured knightly convictions and shook the
+  very foundations of the kingdom's ancient order.
 image:
-  url: ''
+  url: assets/images/characters/aerion-greenbough.background.png
   focalPoint:
-    x: 0.5
-    y: 0.5
-  seed: null
+    x: 0.493
+    y: 0.28
+  seed: 74965594
   portrait:
     url: ''
     focalPoint:
@@ -69,6 +70,52 @@ image:
   variations:
   - name: neutral
     backgroundRemovedUrl: ''
+  promptUsed: 1boy, solo, elf, adult male, lean build, corded muscles, broad chest, light beige skin,
+    elven face, gold hair, focused gaze, amber eyes, pointed elven ears, elven forest tunic, elven fitted
+    leggings, standing in rainforest clearing, dense canopy above, filtered green light, neutral expression,
+    masterpiece, best quality, very aesthetic, watercolor illustration, traditional media illustration,
+    watercolor and ink illustration, inked linework, painterly, semi-realistic, sketchy delicate linework,
+    variable line weight, loose watercolor brushwork, textured watercolor shading, transparent watercolor
+    washes, soft shading, soft gradients, diffused natural lighting, atmospheric perspective, soft painterly
+    background, subtle atmospheric haze, airy, elegant fantasy illustration
+  negativePrompt: worst quality, low quality, lowres, 3d, cgi, photorealistic, photo, cel shading, hard
+    cel shading, flat coloring, vector art, thick lineart, uniform lineart, airbrush, overly smooth, overly
+    polished, plastic skin, glossy skin, shiny skin, glossy leather, latex, oversaturated, neon colors,
+    bloom, lens flare, strong rim light, game render, anime screencap, gacha illustration, ink spill,
+    spilled ink, ink splatter, ink stain, paint splatter, paint drips, paint stains, random brush strokes,
+    visible brush marks floating over image, art supplies, paint palette, paintbrush, border, frame, text,
+    watermark, logo, signature, ordinary rounded human ears
+  generationId: bddd363d-40a2-469b-8781-64e537c2e84e
+  size:
+  - 1216
+  - 832
+  template: character-background
+  profile: oneobsession-v23
+  recipe:
+    template: character-background
+  requestPayload:
+    prompt: 1boy, solo, elf, adult male, lean build, corded muscles, broad chest, light beige skin, elven
+      face, gold hair, focused gaze, amber eyes, pointed elven ears, elven forest tunic, elven fitted
+      leggings, standing in rainforest clearing, dense canopy above, filtered green light, neutral expression,
+      masterpiece, best quality, very aesthetic, watercolor illustration, traditional media illustration,
+      watercolor and ink illustration, inked linework, painterly, semi-realistic, sketchy delicate linework,
+      variable line weight, loose watercolor brushwork, textured watercolor shading, transparent watercolor
+      washes, soft shading, soft gradients, diffused natural lighting, atmospheric perspective, soft painterly
+      background, subtle atmospheric haze, airy, elegant fantasy illustration
+    seed: 74965594
+    face_fix: true
+    negative_prompt: worst quality, low quality, lowres, 3d, cgi, photorealistic, photo, cel shading,
+      hard cel shading, flat coloring, vector art, thick lineart, uniform lineart, airbrush, overly smooth,
+      overly polished, plastic skin, glossy skin, shiny skin, glossy leather, latex, oversaturated, neon
+      colors, bloom, lens flare, strong rim light, game render, anime screencap, gacha illustration, ink
+      spill, spilled ink, ink splatter, ink stain, paint splatter, paint drips, paint stains, random brush
+      strokes, visible brush marks floating over image, art supplies, paint palette, paintbrush, border,
+      frame, text, watermark, logo, signature, ordinary rounded human ears
+    width: 1216
+    height: 832
+  endpoint: http://10.0.0.10:9000/api/v1/images/profiles/oneobsession-v23/generations
+  generatedAt: '2026-09-10T04:43:55Z'
+  gallery: []
 equipment:
   underwear:
   - item:mens-softbark-loin-underwrap
@@ -89,9 +136,9 @@ visual:
   hair: golden-chestnut, tied in warrior knot
   distinctive_features: pointed elven ears, bowstring calluses on fingers and forearm
   height: 5'11"
-  prompt: 1boy, solo, elf, adult male, male focus, lean build, corded muscles, broad chest, light beige
-    skin, elven face, focused gaze expression, amber eyes, pointed elven ears, elven forest tunic, elven
-    fitted leggings, standing relaxed, slight forward lean, hands at sides
+  prompt: 1boy, solo, elf, adult male, lean build, corded muscles, broad chest, light beige skin, elven
+    face, gold hair, focused gaze, amber eyes, pointed elven ears, elven forest tunic, elven fitted leggings,
+    standing in rainforest clearing, dense canopy above, filtered green light, neutral expression
 ---
 
 Aerion shapes ironwood boughs into legendary longbows strung with silver spider silk, watching the high treetop perches above [[location:verdania]].
